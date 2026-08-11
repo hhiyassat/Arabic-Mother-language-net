@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>تقرير تصحيح جذور شجرة الأسماء — الإصدار 5</title>
+<style>
+  :root {
+    --bg: #0f1117; --surface: #1a1d27; --surface2: #22263a; --border: #2e3352;
+    --accent: #6c8fff; --accent2: #56cfb2; --accent3: #f7c948; --accent4: #f0634a;
+    --text: #e8ecf4; --text2: #8b93b0; --green: #3ecf8e; --red: #f0634a;
+    --yellow: #f7c948; --radius: 10px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; direction: rtl; }
+  header { background: linear-gradient(135deg, #1a1d27 0%, #0f1117 100%); border-bottom: 1px solid var(--border); padding: 28px 32px 20px; }
+  header h1 { font-size: 1.6rem; font-weight: 700; color: var(--accent); margin-bottom: 6px; }
+  header p { color: var(--text2); font-size: 0.9rem; }
+  .badge { display: inline-block; background: #1f3a2e; color: var(--green); border: 1px solid #2a5940; border-radius: 20px; padding: 3px 12px; font-size: 0.78rem; font-weight: 600; margin-top: 8px; }
+  main { max-width: 1280px; margin: 0 auto; padding: 28px 24px; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 28px; }
+  .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px 16px; text-align: center; position: relative; overflow: hidden; }
+  .stat-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; }
+  .stat-card.blue::before { background: var(--accent); }
+  .stat-card.green::before { background: var(--green); }
+  .stat-card.yellow::before { background: var(--yellow); }
+  .stat-card.red::before { background: var(--red); }
+  .stat-card.teal::before { background: var(--accent2); }
+  .stat-num { font-size: 2rem; font-weight: 800; line-height: 1; margin-bottom: 6px; }
+  .stat-card.blue .stat-num { color: var(--accent); }
+  .stat-card.green .stat-num { color: var(--green); }
+  .stat-card.yellow .stat-num { color: var(--yellow); }
+  .stat-card.red .stat-num { color: var(--red); }
+  .stat-card.teal .stat-num { color: var(--accent2); }
+  .stat-label { font-size: 0.78rem; color: var(--text2); }
+  .coverage-section { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px 24px; margin-bottom: 28px; }
+  .coverage-title { font-size: 0.9rem; font-weight: 600; color: var(--text2); margin-bottom: 14px; }
+  .bar-track { height: 28px; background: var(--surface2); border-radius: 6px; display: flex; overflow: hidden; gap: 2px; }
+  .bar-seg { height: 100%; display: flex; align-items: center; justify-content: center; font-size: 0.72rem; font-weight: 700; color: #fff; }
+  .bar-legend { display: flex; gap: 20px; margin-top: 10px; flex-wrap: wrap; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.78rem; color: var(--text2); }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+  .improvement-box { background: #1f3a2e; border: 1px solid #2a5940; border-radius: var(--radius); padding: 14px 20px; margin-bottom: 28px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  .improvement-box .icon { font-size: 1.6rem; }
+  .improvement-box h3 { color: var(--green); font-size: 0.95rem; margin-bottom: 4px; }
+  .improvement-box p { color: var(--text2); font-size: 0.82rem; line-height: 1.5; }
+  .delta { color: var(--green); font-weight: 700; }
+  .fixes-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; margin-bottom: 28px; }
+  .fix-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+  .fix-card h4 { color: var(--accent3); font-size: 0.85rem; margin-bottom: 8px; }
+  .fix-example { background: var(--surface2); border-radius: 6px; padding: 8px 10px; font-family: 'Courier New', monospace; font-size: 0.82rem; color: var(--text); margin-top: 6px; }
+  .fix-example .wrong { color: var(--red); text-decoration: line-through; }
+  .fix-example .right { color: var(--green); font-weight: 700; }
+  .fix-arrow { color: var(--text2); margin: 0 4px; }
+  .section { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); margin-bottom: 24px; overflow: hidden; }
+  .section-header { padding: 14px 20px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+  .section-header h2 { font-size: 1rem; font-weight: 700; }
+  .section-header h2 span { color: var(--text2); font-weight: 400; font-size: 0.82rem; margin-right: 8px; }
+  .controls { display: flex; gap: 8px; align-items: center; }
+  input[type="text"] { background: var(--surface2); border: 1px solid var(--border); border-radius: 6px; color: var(--text); padding: 6px 12px; font-size: 0.82rem; outline: none; width: 200px; direction: rtl; }
+  input[type="text"]:focus { border-color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; }
+  th { background: var(--surface2); color: var(--text2); font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; padding: 10px 16px; text-align: right; position: sticky; top: 0; z-index: 1; }
+  td { padding: 9px 16px; font-size: 0.82rem; border-bottom: 1px solid var(--border); vertical-align: middle; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: var(--surface2); }
+  .synset-id { font-family: 'Courier New', monospace; font-size: 0.75rem; color: var(--text2); }
+  .root-new { color: var(--green); font-weight: 700; font-size: 0.95rem; }
+  .root-old { color: var(--red); font-size: 0.78rem; text-decoration: line-through; opacity: 0.7; }
+  .root-same { color: var(--accent2); font-size: 0.78rem; }
+  .src-word { color: var(--accent3); }
+  .not-found-root { color: var(--yellow); font-size: 0.85rem; }
+  .tbl-wrap { max-height: 500px; overflow-y: auto; }
+  .tab-bar { display: flex; gap: 0; border-bottom: 1px solid var(--border); }
+  .tab { padding: 10px 20px; font-size: 0.82rem; cursor: pointer; border-bottom: 2px solid transparent; color: var(--text2); background: none; border-top: none; border-left: none; border-right: none; }
+  .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+  .phase-timeline { display: flex; gap: 0; margin-bottom: 28px; flex-wrap: wrap; }
+  .phase-card { flex: 1; min-width: 130px; background: var(--surface); border: 1px solid var(--border); padding: 16px; position: relative; }
+  .phase-card:first-child { border-radius: var(--radius) 0 0 var(--radius); }
+  .phase-card:last-child { border-radius: 0 var(--radius) var(--radius) 0; }
+  .phase-card + .phase-card { border-right: none; }
+  .phase-label { font-size: 0.72rem; color: var(--text2); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+  .phase-cov { font-size: 1.4rem; font-weight: 800; color: var(--accent); }
+  .phase-detail { font-size: 0.75rem; color: var(--text2); margin-top: 4px; }
+  .phase-delta { color: var(--green); font-weight: 700; }
+  .phase-arrow { display: flex; align-items: center; justify-content: center; font-size: 1.4rem; color: var(--green); padding: 0 4px; background: var(--surface2); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+</style>
+</head>
+<body>
+<header>
+  <h1>📊 تقرير تصحيح جذور شجرة الأسماء</h1>
+  <p>Arabic Language Mother Net System 2a · 70,909 synset اسمي · المقاييس (ابن فارس) مرجعاً</p>
+  <span class="badge">✓ الإصدار 5 — تغطية 97.2%</span>
+</header>
+<main>
+
+<!-- Phase timeline -->
+<div class="phase-timeline">
+  <div class="phase-card">
+    <div class="phase-label">الخط الأساسي</div>
+    <div class="phase-cov">85.6%</div>
+    <div class="phase-detail">60,637 synset</div>
+  </div>
+  <div class="phase-arrow">→</div>
+  <div class="phase-card">
+    <div class="phase-label">م١ — 5 إصلاحات</div>
+    <div class="phase-cov">87.1%</div>
+    <div class="phase-detail">61,781 <span class="phase-delta">+1,144</span></div>
+  </div>
+  <div class="phase-arrow">→</div>
+  <div class="phase-card">
+    <div class="phase-label">م٢ — إصلاحات إضافية</div>
+    <div class="phase-cov">88.8%</div>
+    <div class="phase-detail">62,996 <span class="phase-delta">+1,215</span></div>
+  </div>
+  <div class="phase-arrow">→</div>
+  <div class="phase-card">
+    <div class="phase-label">م٣أ — 6 إصلاحات صرفية</div>
+    <div class="phase-cov">97.0%</div>
+    <div class="phase-detail">68,803 <span class="phase-delta">+5,807</span></div>
+  </div>
+  <div class="phase-arrow">→</div>
+  <div class="phase-card">
+    <div class="phase-label">م٣ب — Fix G (أجوف)</div>
+    <div class="phase-cov">97.1%</div>
+    <div class="phase-detail">68,883 <span class="phase-delta">+80</span></div>
+  </div>
+  <div class="phase-arrow">→</div>
+  <div class="phase-card">
+    <div class="phase-label">م٣ج — Fix H (إفعال ناقص)</div>
+    <div class="phase-cov" style="color:var(--green)">97.2%</div>
+    <div class="phase-detail">68,922 <span class="phase-delta">+39</span></div>
+  </div>
+</div>
+
+<!-- Stats -->
+<div class="stats-grid">
+  <div class="stat-card blue">
+    <div class="stat-num">70,909</div>
+    <div class="stat-label">إجمالي الأسماء</div>
+  </div>
+  <div class="stat-card green">
+    <div class="stat-num">68,922</div>
+    <div class="stat-label">مُتحقَّق من المقاييس</div>
+  </div>
+  <div class="stat-card red">
+    <div class="stat-num">1,322</div>
+    <div class="stat-label">لم يُوجَد في المقاييس</div>
+  </div>
+  <div class="stat-card yellow">
+    <div class="stat-num">665</div>
+    <div class="stat-label">بلا كلمات عربية</div>
+  </div>
+  <div class="stat-card teal">
+    <div class="stat-num">37,754</div>
+    <div class="stat-label">جذور تغيَّرت</div>
+  </div>
+  <div class="stat-card green">
+    <div class="stat-num">97.2%</div>
+    <div class="stat-label">التغطية الإجمالية</div>
+  </div>
+</div>
+
+<!-- Coverage bar -->
+<div class="coverage-section">
+  <div class="coverage-title">توزيع النتائج</div>
+  <div class="bar-track">
+    <div class="bar-seg" style="width:97.2%; background: #3ecf8e;">97.2%</div>
+    <div class="bar-seg" style="width:1.86%; background: #f0634a;">1.9%</div>
+    <div class="bar-seg" style="width:0.94%; background: #8b93b0;">0.9%</div>
+  </div>
+  <div class="bar-legend">
+    <div class="legend-item"><div class="legend-dot" style="background:#3ecf8e"></div> مُتحقَّق من المقاييس (68,922)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#f0634a"></div> لم يُوجَد (1,322)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#8b93b0"></div> بلا عربي (665)</div>
+  </div>
+</div>
+
+<!-- Improvement summary -->
+<div class="improvement-box">
+  <div class="icon">🔧</div>
+  <div>
+    <h3>إصلاحات المرحلة الثالثة — 8 أنماط صرفية جديدة</h3>
+    <p>
+      <strong>أ:</strong> مصدر فِعَاء من ناقص — XYاأ → XYو/XYي (غطاء→غطو، رداء→ردى، دعاء→دعو) ·
+      <strong>ب:</strong> إدغام الوزن VIII — فاء ∈ &#123;ز,ذ&#125;→د أو &#123;ض,ط,ص&#125;→ط (ازدهار→زهر، اصطدام→صدم) ·
+      <strong>ج:</strong> مصدر الوزن VII (اِنفِعال) — ا+ن+فاء+عين+ا+لام (انطباع→طبع) ·
+      <strong>د:</strong> ناقص بالواو XYو→XYي (النمو→نمي) ·
+      <strong>ه:</strong> VIII من المضاعف م+X+ت+Y→XY (مبتز→بز) ·
+      <strong>و:</strong> أسماء القرابة XYت→XYو/XYي (أخت→أخو، بنت→بني) ·
+      <strong>ز:</strong> الأجوف XوZ/XيZ → XاZ والبديل (موت، حول، طول، قوم) ·
+      <strong>ح:</strong> مصدر إفعال من ناقص — ا+ف+ع+ا+ء → فعو/فعي (الإغماء→غمي، الإدّعاء→دعو)
+      <span class="delta"> +312 synset إجمالاً · من 96.8% إلى 97.2%</span>
+    </p>
+  </div>
+</div>
+
+<!-- Fix cards -->
+<div class="fixes-grid">
+  <div class="fix-card">
+    <h4>أ — مصدر فِعَاء (ناقص)</h4>
+    <p style="font-size:0.78rem;color:var(--text2)">XYاأ (أصله XYاء) → الجذر XYو أو XYي في المقاييس</p>
+    <div class="fix-example">غطاء → <span class="wrong">غطأ</span><span class="fix-arrow">⟹</span><span class="right">غطو</span></div>
+    <div class="fix-example">الدعاء → <span class="right">دعو</span> · رداء → <span class="right">ردى</span></div>
+  </div>
+  <div class="fix-card">
+    <h4>ب — إدغام الوزن الثامن</h4>
+    <p style="font-size:0.78rem;color:var(--text2)">فاء ∈ &#123;ز,ذ&#125;→د أو &#123;ض,ط,ص&#125;→ط في اِفتَعَل/اِفتِعال</p>
+    <div class="fix-example">ازدهار → <span class="wrong">زده</span><span class="fix-arrow">⟹</span><span class="right">زهر</span></div>
+    <div class="fix-example">اصطدام → <span class="right">صدم</span> · ازدحام → <span class="right">زحم</span></div>
+  </div>
+  <div class="fix-card">
+    <h4>ج — مصدر الوزن السابع (اِنفِعال)</h4>
+    <p style="font-size:0.78rem;color:var(--text2)">6ح: ا+ن+فاء+عين+ا+لام → الجذر = ح2+ح3+ح5</p>
+    <div class="fix-example">انطباع → <span class="wrong">نطب</span><span class="fix-arrow">⟹</span><span class="right">طبع</span></div>
+    <div class="fix-example">انطباق → <span class="right">طبق</span></div>
+  </div>
+  <div class="fix-card">
+    <h4>د — الناقص بالواو XYو→XYي</h4>
+    <p style="font-size:0.78rem;color:var(--text2)">المقاييس يخزِّن بعض الجذور الناقصة بالياء لا الواو</p>
+    <div class="fix-example">النمو → <span class="wrong">نمو</span><span class="fix-arrow">⟹</span><span class="right">نمي</span></div>
+  </div>
+  <div class="fix-card">
+    <h4>ه — الوزن VIII من المضاعف</h4>
+    <p style="font-size:0.78rem;color:var(--text2)">م+X+ت+Y (4ح) → الجذر الثنائي XY للمضاعفات</p>
+    <div class="fix-example">المبتز → <span class="wrong">بتز</span><span class="fix-arrow">⟹</span><span class="right">بز</span></div>
+    <div class="fix-example">الممتص → <span class="right">مص</span></div>
+  </div>
+  <div class="fix-card">
+    <h4>و — أسماء القرابة (XYت)</h4>
+    <p style="font-size:0.78rem;color:var(--text2)">التاء المربوطة في بعض الأسماء تُحذف وتُستبدل بو/ي</p>
+    <div class="fix-example">الأخت → <span class="wrong">اخت</span><span class="fix-arrow">⟹</span><span class="right">أخو</span></div>
+    <div class="fix-example">بنت → <span class="right">بني</span> (بنى في المقاييس)</div>
+  </div>
+  <div class="fix-card">
+    <h4>ز — الأجوف: XوZ / XيZ → XاZ</h4>
+    <p style="font-size:0.78rem;color:var(--text2)">الجذر الأجوف ذو الواو/الياء في العين → جرِّب الألف والحرف البديل</p>
+    <div class="fix-example">مستميت/مستحيل → <span class="wrong">ميت/حيل</span><span class="fix-arrow">⟹</span><span class="right">موت / حول</span></div>
+    <div class="fix-example">مستطيل → <span class="right">طول</span> · المستقيم → <span class="right">قوم</span></div>
+  </div>
+  <div class="fix-card" style="border-color: var(--green);">
+    <h4>ح — مصدر إفعال من الناقص ✦ جديد</h4>
+    <p style="font-size:0.78rem;color:var(--text2)">5ح: ا+ف+ع+ا+ء (بعد _fix_hamza: ا+ف+ع+ا+أ) → الجذر فعو / فعي</p>
+    <div class="fix-example">الإغماء → <span class="wrong">غمأ</span><span class="fix-arrow">⟹</span><span class="right">غمي</span> (في المقاييس)</div>
+    <div class="fix-example">الإدّعاء → <span class="right">دعو</span> · اللقاء → <span class="right">لقي</span></div>
+  </div>
+</div>
+
+<!-- Tables -->
+<div class="section">
+  <div class="tab-bar">
+    <button class="tab active" onclick="switchTab('corrected', event)">عيِّنة المصحَّحات (200)</button>
+    <button class="tab" onclick="switchTab('notfound', event)">عيِّنة غير الموجودة (200)</button>
+  </div>
+
+  <div id="tab-corrected" class="tab-content active">
+    <div class="section-header">
+      <h2>المصحَّحات <span>أول 200 من 68,922</span></h2>
+      <div class="controls">
+        <input type="text" id="search-corrected" placeholder="بحث..." oninput="filterTable('corrected')">
+      </div>
+    </div>
+    <div class="tbl-wrap">
+      <table id="tbl-corrected">
+        <thead><tr><th>Synset</th><th>الكلمة المصدر</th><th>الجذر القديم</th><th>الجذر الجديد</th></tr></thead>
+        <tbody id="body-corrected"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div id="tab-notfound" class="tab-content">
+    <div class="section-header">
+      <h2>غير الموجودة <span>أول 200 من 1,322</span></h2>
+      <div class="controls">
+        <input type="text" id="search-notfound" placeholder="بحث..." oninput="filterTable('notfound')">
+      </div>
+    </div>
+    <div class="tbl-wrap">
+      <table id="tbl-notfound">
+        <thead><tr><th>Synset</th><th>الكلمة المصدر</th><th>الجذر القديم</th></tr></thead>
+        <tbody id="body-notfound"></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+</main>
+<script>
+const CORRECTED = [{"synset": "aaron.n.02", "old": [], "new": "هور", "src_word": "هارون"}, {"synset": "abandoned_person.n.01", "old": [], "new": "شخص", "src_word": "شخص المهجور"}, {"synset": "abator.n.01", "old": [], "new": "غل", "src_word": "مستغل"}, {"synset": "abbe.n.01", "old": [], "new": "رأس", "src_word": "رئيس"}, {"synset": "abbess.n.01", "old": [], "new": "رهب", "src_word": "الرّاهبة"}, {"synset": "abbot.n.01", "old": [], "new": "رأس", "src_word": "رئيس"}, {"synset": "abecedarian.n.01", "old": [], "new": "بدأ", "src_word": "المبتدئ"}, {"synset": "abel.n.02", "old": [], "new": "أبل", "src_word": "آبيل"}, {"synset": "aberrant.n.01", "old": [], "new": "شوذ", "src_word": "شاذ"}, {"synset": "abettor.n.01", "old": [], "new": "حرض", "src_word": "المحرّض"}, {"synset": "abhorrer.n.01", "old": [], "new": "مقت", "src_word": "الماقت"}, {"synset": "abiogenist.n.01", "old": [], "new": "أمن", "src_word": "المؤمن"}, {"synset": "abjurer.n.01", "old": [], "new": "تبر", "src_word": "تبرّأ"}, {"synset": "able_seaman.n.01", "old": [], "new": "بحر", "src_word": "بحّار القادر"}, {"synset": "abnegator.n.01", "old": [], "new": "نكر", "src_word": "المُنْكِر"}, {"synset": "abominable_snowman.n.01", "old": [], "new": "رجل", "src_word": "رجل الرديء"}, {"synset": "abomination.n.01", "old": [], "new": "كره", "src_word": "المكروه"}, {"synset": "abominator.n.01", "old": [], "new": "عدو", "src_word": "المعادي"}, {"synset": "aborigine.n.02", "old": [], "new": "أحد", "src_word": "أحد"}, {"synset": "abortionist.n.01", "old": [], "new": "خصى", "src_word": "إخصائيّ"}, {"synset": "abridger.n.01", "old": [], "new": "لخص", "src_word": "المُلخّص"}, {"synset": "abrogator.n.01", "old": [], "new": "سلط", "src_word": "السّلطة"}, {"synset": "absconder.n.01", "old": [], "new": "خفى", "src_word": "المختفي"}, {"synset": "abseiler.n.01", "old": [], "new": "سيل", "src_word": "السليل"}, {"synset": "absentee.n.01", "old": [], "new": "غيب", "src_word": "الغائب"}, {"synset": "absolutist.n.01", "old": [], "new": "بد", "src_word": "المستبدّ"}, {"synset": "absolver.n.01", "old": [], "new": "مرأ", "src_word": "المبرئ"}, {"synset": "abstainer.n.01", "old": [], "new": "منع", "src_word": "الممتنع"}, {"synset": "abstainer.n.02", "old": [], "new": "منع", "src_word": "الممتنع"}, {"synset": "abstractionist.n.01", "old": [], "new": "خص", "src_word": "متخصص"}, {"synset": "abstractor.n.01", "old": [], "new": "قام", "src_word": "القائم"}, {"synset": "abuser.n.01", "old": [], "new": "غل", "src_word": "المستغلّ"}, {"synset": "abutter.n.01", "old": [], "new": "تخم", "src_word": "المتاخم"}, {"synset": "academic_administrator.n.01", "old": [], "new": "دير", "src_word": "مدير الأكاديميّ"}, {"synset": "academician.n.01", "old": [], "new": "كأد", "src_word": "الأكاديميّ"}, {"synset": "academician.n.02", "old": [], "new": "كأد", "src_word": "الأكاديميّ"}, {"synset": "acadian.n.01", "old": [], "new": "وطن", "src_word": "المستوطنون"}, {"synset": "acceptor.n.02", "old": [], "new": "وفق", "src_word": "الموافق"}, {"synset": "accessory.n.03", "old": [], "new": "كس", "src_word": "الإكسسوار"}, {"synset": "accessory_after_the_fact.n.01", "old": [], "new": "حيق", "src_word": "حقيقة الـ الفيما الإكسسوار"}, {"synset": "accessory_before_the_fact.n.01", "old": [], "new": "حيق", "src_word": "حقيقة الـ الفيما الإكسسوار"}, {"synset": "accessory_during_the_fact.n.01", "old": [], "new": "حيق", "src_word": "حقيقة الـ الأثناء الإكسسوار"}, {"synset": "accommodation_endorser.n.01", "old": [], "new": "صدق", "src_word": "مصدّق المسكن"}, {"synset": "accompanist.n.01", "old": [], "new": "عزف", "src_word": "العازف"}, {"synset": "accomplice.n.01", "old": [], "new": "شرك", "src_word": "الشّريك"}, {"synset": "accordionist.n.01", "old": [], "new": "موس", "src_word": "الموسيقار"}, {"synset": "account_executive.n.01", "old": [], "new": "دير", "src_word": "مدير التّقرير"}, {"synset": "accused.n.01", "old": [], "new": "أتم", "src_word": "اتّهم"}, {"synset": "accuser.n.01", "old": [], "new": "تهم", "src_word": "المتّهم"}, {"synset": "achaean.n.01", "old": [], "new": "عضو", "src_word": "عضو"}, {"synset": "achiever.n.01", "old": [], "new": "نجح", "src_word": "النّاجح"}, {"synset": "achilles.n.01", "old": [], "new": "كيل", "src_word": "أكيليز"}, {"synset": "achomawi.n.01", "old": [], "new": "هوك", "src_word": "هوكان"}, {"synset": "acid_head.n.01", "old": [], "new": "رأس", "src_word": "رئيس الحمض"}, {"synset": "acolyte.n.01", "old": [], "new": "سعد", "src_word": "المساعد"}, {"synset": "acoustician.n.01", "old": [], "new": "مهن", "src_word": "مهندس"}, {"synset": "acrobat.n.01", "old": [], "new": "بهو", "src_word": "البهلوان"}, {"synset": "action_officer.n.01", "old": [], "new": "ضبط", "src_word": "ضابط العمل"}, {"synset": "active.n.03", "old": [], "new": "صوغ", "src_word": "الصّيغة"}, {"synset": "active_citizen.n.01", "old": [], "new": "وطن", "src_word": "مواطن الصّيغة"}, {"synset": "actor's_agent.n.01", "old": [], "new": "وكل", "src_word": "وكيل ال"}, {"synset": "actor.n.02", "old": [], "new": "مثل", "src_word": "الممثّل"}, {"synset": "actress.n.01", "old": [], "new": "مثل", "src_word": "الممثّلة"}, {"synset": "adad.n.01", "old": [], "new": "أود", "src_word": "أداد"}, {"synset": "adam.n.02", "old": [], "new": "أدم", "src_word": "آدم"}, {"synset": "adams.n.01", "old": [], "new": "بنى", "src_word": "أبناء"}, {"synset": "adams.n.02", "old": [], "new": "بنى", "src_word": "أبناء"}, {"synset": "adams.n.03", "old": [], "new": "بنى", "src_word": "أبناء"}, {"synset": "adapa.n.01", "old": [], "new": "بول", "src_word": "البابلية"}, {"synset": "adder.n.01", "old": [], "new": "فعى", "src_word": "الأفعى"}, {"synset": "addict.n.01", "old": [], "new": "دمن", "src_word": "المدمن"}, {"synset": "addict.n.02", "old": [], "new": "دمن", "src_word": "المدمن"}, {"synset": "addle-head.n.01", "old": [], "new": "رأس", "src_word": "رئيس الشوّش"}, {"synset": "addressee.n.01", "old": [], "new": "رسل", "src_word": "مرسل"}, {"synset": "adducer.n.01", "old": [], "new": "أسر", "src_word": "أدسير"}, {"synset": "adjunct.n.02", "old": [], "new": "يلق", "src_word": "يُلحق"}, {"synset": "adjuster.n.01", "old": [], "new": "ضبط", "src_word": "الضّابط"}, {"synset": "adjutant.n.01", "old": [], "new": "ضبط", "src_word": "الضّابط"}, {"synset": "adjutant_general.n.01", "old": [], "new": "جرل", "src_word": "جنرال الضّابط"}, {"synset": "administrator.n.02", "old": [], "new": "دير", "src_word": "المدير"}, {"synset": "admiral.n.01", "old": [], "new": "قود", "src_word": "قائد"}, {"synset": "admirer.n.02", "old": [], "new": "عجب", "src_word": "المعجب"}, {"synset": "admirer.n.03", "old": [], "new": "عجب", "src_word": "المعجب"}, {"synset": "admonisher.n.01", "old": [], "new": "نصح", "src_word": "النّاصح"}, {"synset": "adonis.n.01", "old": [], "new": "أدو", "src_word": "أدونيس"}, {"synset": "adonis.n.03", "old": [], "new": "أدو", "src_word": "أدونيس"}, {"synset": "adoptee.n.01", "old": [], "new": "شخص", "src_word": "الشخص"}, {"synset": "adoptive_parent.n.01", "old": [], "new": "ولد", "src_word": "والد البالتّبنّي"}, {"synset": "adrian.n.02", "old": [], "new": "درى", "src_word": "أدرايان"}, {"synset": "adulterator.n.02", "old": [], "new": "غش", "src_word": "الغشّاش"}, {"synset": "adulterer.n.01", "old": [], "new": "زون", "src_word": "الزّاني"}, {"synset": "adulteress.n.01", "old": [], "new": "زون", "src_word": "الزّانية"}, {"synset": "advancer.n.01", "old": [], "new": "قدم", "src_word": "المتقدّم"}, {"synset": "adventist.n.01", "old": [], "new": "سبت", "src_word": "السبتي"}, {"synset": "adventurer.n.01", "old": [], "new": "غمر", "src_word": "المغامر"}, {"synset": "adventuress.n.01", "old": [], "new": "غمر", "src_word": "المغامرة"}, {"synset": "adversary.n.01", "old": [], "new": "عدو", "src_word": "العدوّ"}, {"synset": "adverse_witness.n.01", "old": [], "new": "شهد", "src_word": "شاهد المعادي"}, {"synset": "advisee.n.01", "old": [], "new": "نصح", "src_word": "المنصوح"}, {"synset": "adviser.n.01", "old": [], "new": "شور", "src_word": "المستشار"}, {"synset": "advocate.n.02", "old": [], "new": "أيد", "src_word": "المؤيّد"}, {"synset": "aeneas.n.01", "old": [], "new": "أنس", "src_word": "إينيس"}, {"synset": "aeolus.n.01", "old": [], "new": "علس", "src_word": "عولس"}, {"synset": "aerialist.n.01", "old": [], "new": "بهو", "src_word": "البهلوان"}, {"synset": "aeronautical_engineer.n.01", "old": [], "new": "مهن", "src_word": "مهندس الطيران"}, {"synset": "aerophile.n.01", "old": [], "new": "نصر", "src_word": "النصير"}, {"synset": "aerospace_engineer.n.01", "old": [], "new": "مهن", "src_word": "مهندس الصناعة"}, {"synset": "aeschylus.n.01", "old": [], "new": "أسك", "src_word": "إسكلس"}, {"synset": "affiant.n.01", "old": [], "new": "شخص", "src_word": "الشخص"}, {"synset": "affiliate.n.01", "old": [], "new": "فرع", "src_word": "الفرع"}, {"synset": "affine.n.01", "old": [], "new": "قرب", "src_word": "القريب"}, {"synset": "affluent.n.01", "old": [], "new": "غن", "src_word": "غنيّ"}, {"synset": "aficionado.n.01", "old": [], "new": "لهو", "src_word": "الهاوٍ"}, {"synset": "aficionado.n.02", "old": [], "new": "لهو", "src_word": "الهاوٍ"}, {"synset": "african.n.01", "old": [], "new": "أرق", "src_word": "الإفريقيّ"}, {"synset": "agee.n.01", "old": [], "new": "أج", "src_word": "أجي"}, {"synset": "agent-in-place.n.01", "old": [], "new": "مك", "src_word": "مكان الفي الوكيل"}, {"synset": "agent_provocateur.n.01", "old": [], "new": "فوز", "src_word": "إستفزازي الوكيل"}, {"synset": "aggressor.n.02", "old": [], "new": "عتد", "src_word": "المعتدٍ"}, {"synset": "agitator.n.01", "old": [], "new": "شغب", "src_word": "المشاغب"}, {"synset": "aglaia.n.01", "old": [], "new": "غرس", "src_word": "غرايس"}, {"synset": "agnate.n.01", "old": [], "new": "قرب", "src_word": "القريب"}, {"synset": "agnostic.n.01", "old": [], "new": "لحد", "src_word": "الملحد"}, {"synset": "agnostic.n.02", "old": [], "new": "لحد", "src_word": "الملحد"}, {"synset": "agonist.n.02", "old": [], "new": "سبق", "src_word": "المتسابق"}, {"synset": "agony_aunt.n.01", "old": [], "new": "عم", "src_word": "عمّة الكَرْب"}, {"synset": "agricola.n.01", "old": [], "new": "أجر", "src_word": "أجريكولا"}, {"synset": "agricultural_laborer.n.01", "old": [], "new": "عمل", "src_word": "عامل الزراعيّ"}, {"synset": "agriculturist.n.01", "old": [], "new": "زرع", "src_word": "المزارع"}, {"synset": "agronomist.n.01", "old": [], "new": "خبر", "src_word": "الخبير"}, {"synset": "aide.n.02", "old": [], "new": "سعد", "src_word": "المساعد"}, {"synset": "aiken.n.01", "old": [], "new": "أيك", "src_word": "أيكين"}, {"synset": "air_attache.n.01", "old": [], "new": "لحق", "src_word": "ملحق الهواء"}, {"synset": "air_force_officer.n.01", "old": [], "new": "ضبط", "src_word": "ضابط القوة الهواء"}, {"synset": "air_marshal.n.01", "old": [], "new": "مشر", "src_word": "مشير الهواء"}, {"synset": "air_traveler.n.01", "old": [], "new": "سفر", "src_word": "مسافر الهواء"}, {"synset": "aircrewman.n.01", "old": [], "new": "فرد", "src_word": "فرد"}, {"synset": "airhead.n.01", "old": [], "new": "غب", "src_word": "الغبيّ"}, {"synset": "akwa'ala.n.01", "old": [], "new": "هوك", "src_word": "هوكان"}, {"synset": "al-hakim.n.01", "old": [], "new": "ولى", "src_word": "الولاية"}, {"synset": "alabama.n.02", "old": [], "new": "لاب", "src_word": "ألاباما"}, {"synset": "alabaman.n.01", "old": [], "new": "فرد", "src_word": "فرد"}, {"synset": "alarmist.n.01", "old": [], "new": "قلق", "src_word": "القلق"}, {"synset": "alaska_native.n.01", "old": [], "new": "وطن", "src_word": "مواطن الآلاسكا"}, {"synset": "alaskan.n.01", "old": [], "new": "أرك", "src_word": "الأمريكيّ"}, {"synset": "albanian.n.01", "old": [], "new": "أبن", "src_word": "الألبانيّ"}, {"synset": "albino.n.01", "old": [], "new": "شوذ", "src_word": "الشواذّ"}, {"synset": "alcalde.n.01", "old": [], "new": "قوض", "src_word": "القاضي"}, {"synset": "alchemist.n.01", "old": [], "new": "ثقف", "src_word": "المثقّف"}, {"synset": "alcibiades.n.01", "old": [], "new": "ألس", "src_word": "ألسيبْيادزْ"}, {"synset": "alcoholic.n.01", "old": [], "new": "دمن", "src_word": "المدمن"}, {"synset": "alcott.n.01", "old": [], "new": "ألت", "src_word": "ألكوت"}, {"synset": "alderman.n.01", "old": [], "new": "عضو", "src_word": "عضو"}, {"synset": "alecto.n.01", "old": [], "new": "غضب", "src_word": "الغضب"}, {"synset": "aleut.n.01", "old": [], "new": "ألت", "src_word": "أليت"}, {"synset": "alexander_ii.n.01", "old": [], "new": "ثنى", "src_word": "ثّاني الأليكساندر"}, {"synset": "alexander_iii.n.01", "old": [], "new": "ثلث", "src_word": "ثّالث الأليكساندر"}, {"synset": "alexander_vi.n.01", "old": [], "new": "سدس", "src_word": "سّادس الأليكساندر"}, {"synset": "alexandrian.n.01", "old": [], "new": "سكن", "src_word": "الساكن"}, {"synset": "alexic.n.01", "old": [], "new": "مري", "src_word": "المريض"}, {"synset": "alfred.n.01", "old": [], "new": "ألف", "src_word": "ألفريد"}, {"synset": "algebraist.n.01", "old": [], "new": "علم", "src_word": "عالم"}, {"synset": "alger.n.01", "old": [], "new": "أجر", "src_word": "ألجير"}, {"synset": "algerian.n.01", "old": [], "new": "جزر", "src_word": "الجزائريّ"}, {"synset": "algonquian.n.01", "old": [], "new": "هند", "src_word": "الهندي"}, {"synset": "ali.n.02", "old": [], "new": "عل", "src_word": "علي"}, {"synset": "ali_baba.n.01", "old": [], "new": "عل", "src_word": "العلي"}, {"synset": "alien_absconder.n.01", "old": [], "new": "خفى", "src_word": "مختفي الأجنبيّ"}, {"synset": "alienee.n.01", "old": [], "new": "حول", "src_word": "محوّل"}, {"synset": "alienist.n.01", "old": [], "new": "طيب", "src_word": "الطّبيب"}, {"synset": "alienor.n.01", "old": [], "new": "حول", "src_word": "المحوّل"}, {"synset": "aliterate.n.01", "old": [], "new": "جهل", "src_word": "الجهول"}, {"synset": "all-rounder.n.01", "old": [], "new": "دير", "src_word": "مستدير الكلّ"}, {"synset": "allegorizer.n.01", "old": [], "new": "حور", "src_word": "المحاور"}, {"synset": "allen.n.01", "old": [], "new": "أل", "src_word": "ألين"}, {"synset": "allen.n.02", "old": [], "new": "أل", "src_word": "ألين"}, {"synset": "allen.n.03", "old": [], "new": "أل", "src_word": "ألين"}, {"synset": "allergist.n.01", "old": [], "new": "طيب", "src_word": "الطبيب"}, {"synset": "alleviator.n.01", "old": [], "new": "سكن", "src_word": "المسكّن"}, {"synset": "alliterator.n.01", "old": [], "new": "كلم", "src_word": "المتكلّم"}, {"synset": "allocator.n.01", "old": [], "new": "محص", "src_word": "محصِّص"}, {"synset": "ally.n.02", "old": [], "new": "حلف", "src_word": "الحليف"}, {"synset": "almoner.n.01", "old": [], "new": "خصى", "src_word": "الإخصائيّ"}, {"synset": "almsgiver.n.01", "old": [], "new": "برع", "src_word": "المتبرع"}, {"synset": "alphabetizer.n.01", "old": [], "new": "مرت", "src_word": "مرتّب"}, {"synset": "alpinist.n.01", "old": [], "new": "سلق", "src_word": "متسلّق"}, {"synset": "alsatian.n.01", "old": [], "new": "ألس", "src_word": "الألزاسي"}, {"synset": "altaic.n.01", "old": [], "new": "أسو", "src_word": "الآسيويّ"}, {"synset": "altar_boy.n.01", "old": [], "new": "ولد", "src_word": "ولد المذبح"}, {"synset": "alter_ego.n.01", "old": [], "new": "غير", "src_word": "أنا التغيّر"}, {"synset": "alto.n.01", "old": [], "new": "أتو", "src_word": "الألتو"}, {"synset": "alto_saxophonist.n.01", "old": [], "new": "عزف", "src_word": "عازف الألتو"}, {"synset": "alumnus.n.01", "old": [], "new": "خرج", "src_word": "الخرّيج"}, {"synset": "amalgamator.n.01", "old": [], "new": "رجل", "src_word": "رجل"}, {"synset": "amateur.n.02", "old": [], "new": "لهو", "src_word": "الهاوٍ"}, {"synset": "amazon.n.01", "old": [], "new": "مرأ", "src_word": "المرأة"}, {"synset": "amazon.n.02", "old": [], "new": "مرأ", "src_word": "المرأة"}, {"synset": "ambassador.n.01", "old": [], "new": "سفر", "src_word": "السّفير"}, {"synset": "ambassador.n.02", "old": [], "new": "سفر", "src_word": "السّفير"}, {"synset": "ambassadress.n.01", "old": [], "new": "لزج", "src_word": "لزوجة"}];
+const NOT_FOUND = [{"synset": "aeolian.n.01", "src_word": "إيولايان", "old": []}, {"synset": "agamemnon.n.01", "src_word": "أجاميمنون", "old": []}, {"synset": "ajax.n.01", "src_word": "إجاكس", "old": []}, {"synset": "alexander.n.02", "src_word": "أليكساندر", "old": []}, {"synset": "ambrose.n.01", "src_word": "أمبروز", "old": []}, {"synset": "ambusher.n.01", "src_word": "أمبشر", "old": []}, {"synset": "analphabet.n.01", "src_word": "أمّي", "old": []}, {"synset": "andrew.n.01", "src_word": "أندرو", "old": []}, {"synset": "anne.n.01", "src_word": "أن", "old": []}, {"synset": "arhat.n.01", "src_word": "أرهات", "old": []}, {"synset": "ariadne.n.01", "src_word": "أريادن", "old": []}, {"synset": "arianist.n.01", "src_word": "آريّ", "old": []}, {"synset": "arrhenius.n.01", "src_word": "أرهينيس", "old": []}, {"synset": "artemis.n.01", "src_word": "آرتميس", "old": []}, {"synset": "astaire.n.01", "src_word": "أستاير", "old": []}, {"synset": "atropos.n.01", "src_word": "أتْروبُسْ", "old": []}, {"synset": "augustine.n.01", "src_word": "أوغسطين", "old": []}, {"synset": "balboa.n.02", "src_word": "بلبووة", "old": []}, {"synset": "baudelaire.n.01", "src_word": "بودلاير", "old": []}, {"synset": "beatrice.n.01", "src_word": "بياتريس", "old": []}, {"synset": "beaumont.n.01", "src_word": "بيماونت", "old": []}, {"synset": "beaumont.n.02", "src_word": "بيماونت", "old": []}, {"synset": "bedwetter.n.01", "src_word": "بيسسير", "old": []}, {"synset": "belshazzar.n.01", "src_word": "بلشزار", "old": []}, {"synset": "beowulf.n.01", "src_word": "بياولف", "old": []}, {"synset": "berkeley.n.01", "src_word": "بيركيلي", "old": []}, {"synset": "berliner.n.01", "src_word": "برليني", "old": []}, {"synset": "berlioz.n.01", "src_word": "بيرليوز", "old": []}, {"synset": "bernard.n.01", "src_word": "برنار", "old": []}, {"synset": "bernini.n.01", "src_word": "بيرنيني", "old": []}, {"synset": "bernoulli.n.01", "src_word": "بيرنولي", "old": []}, {"synset": "bernoulli.n.02", "src_word": "بيرنولي", "old": []}, {"synset": "bernoulli.n.03", "src_word": "بيرنولي", "old": []}, {"synset": "bernstein.n.01", "src_word": "بيرنشتاين", "old": []}, {"synset": "billionaire.n.01", "src_word": "البليونير", "old": []}, {"synset": "bismarck.n.01", "src_word": "بيزمارك", "old": []}, {"synset": "blair.n.01", "src_word": "بلير", "old": []}, {"synset": "blake.n.01", "src_word": "بليك", "old": []}, {"synset": "bolshevik.n.01", "src_word": "البلشفيّ", "old": []}, {"synset": "bostonian.n.01", "src_word": "بوستوني", "old": []}, {"synset": "breadwinner.n.01", "src_word": "العائل", "old": []}, {"synset": "breton.n.01", "src_word": "البريتاني", "old": []}, {"synset": "bruno.n.02", "src_word": "برونو", "old": []}, {"synset": "bruno.n.03", "src_word": "برونو", "old": []}, {"synset": "buchanan.n.01", "src_word": "بتشانان", "old": []}, {"synset": "budge.n.01", "src_word": "تزحزح", "old": []}, {"synset": "burbank.n.01", "src_word": "بربانك", "old": []}, {"synset": "burnham.n.01", "src_word": "برنهام", "old": []}, {"synset": "bushnell.n.01", "src_word": "بُشْنِل", "old": []}, {"synset": "chesterfield.n.01", "src_word": "تشيسترفيلد", "old": []}, {"synset": "chesterton.n.01", "src_word": "تشيسترتون", "old": []}, {"synset": "chilean.n.01", "src_word": "التشيلي", "old": []}, {"synset": "chinook.n.02", "src_word": "تشنوكي", "old": []}, {"synset": "chomsky.n.01", "src_word": "تشومسكي", "old": []}, {"synset": "churchill.n.01", "src_word": "تشرشل", "old": []}, {"synset": "clinton.n.01", "src_word": "كلنتن", "old": []}, {"synset": "clinton.n.02", "src_word": "كلنتن", "old": []}, {"synset": "clinton.n.03", "src_word": "كلنتن", "old": []}, {"synset": "clio.n.01", "src_word": "كليو", "old": []}, {"synset": "compositor.n.01", "src_word": "المنضّد", "old": []}, {"synset": "cooke.n.01", "src_word": "كوك", "old": []}, {"synset": "cooke.n.02", "src_word": "كوك", "old": []}, {"synset": "count.n.03", "src_word": "الإحصاء", "old": []}, {"synset": "crawford.n.01", "src_word": "كراوفورد", "old": []}, {"synset": "crawford.n.02", "src_word": "كراوفورد", "old": []}, {"synset": "crockett.n.01", "src_word": "كروكيت", "old": []}, {"synset": "czech.n.01", "src_word": "التشيكي", "old": []}, {"synset": "czechoslovakian.n.01", "src_word": "تشيكوسلوفاكي", "old": []}, {"synset": "daimler.n.01", "src_word": "ديملير", "old": []}, {"synset": "dastard.n.01", "src_word": "الدنئ", "old": []}, {"synset": "demagogue.n.01", "src_word": "الديماغوجي", "old": []}, {"synset": "dictator.n.01", "src_word": "الدكتاتور", "old": []}, {"synset": "dictator.n.02", "src_word": "الدكتاتور", "old": []}, {"synset": "dimaggio.n.01", "src_word": "ديماجيو", "old": []}, {"synset": "doolittle.n.01", "src_word": "دووليتل", "old": []}, {"synset": "douglass.n.01", "src_word": "دوجلاس", "old": []}, {"synset": "electra.n.01", "src_word": "إليكترا", "old": []}, {"synset": "elizabeth.n.02", "src_word": "إليزابيث", "old": []}, {"synset": "empress.n.01", "src_word": "الإمبراطورة", "old": []}, {"synset": "esthete.n.01", "src_word": "إسذيت", "old": []}, {"synset": "euclid.n.01", "src_word": "إقليديس", "old": []}, {"synset": "euler.n.01", "src_word": "يولر", "old": []}, {"synset": "evans.n.01", "src_word": "إيفانس", "old": []}, {"synset": "evans.n.02", "src_word": "إيفانس", "old": []}, {"synset": "exegete.n.01", "src_word": "إكسيجيت", "old": []}, {"synset": "fairbanks.n.01", "src_word": "فيربانكس", "old": []}, {"synset": "fairbanks.n.02", "src_word": "فيربانكس", "old": []}, {"synset": "fence.n.02", "src_word": "السياج", "old": []}, {"synset": "ferber.n.01", "src_word": "فيربير", "old": []}, {"synset": "finn.n.01", "src_word": "الفنلندي", "old": []}, {"synset": "fitter.n.01", "src_word": "الميكانيكي", "old": []}, {"synset": "fulbright.n.01", "src_word": "فلبريت", "old": []}, {"synset": "geologist.n.01", "src_word": "الجيولوجي", "old": []}, {"synset": "guatemalan.n.01", "src_word": "الغواتيمالي", "old": []}, {"synset": "gustavus.n.01", "src_word": "غوستافوس", "old": []}, {"synset": "gustavus.n.02", "src_word": "غوستافوس", "old": []}, {"synset": "gustavus.n.03", "src_word": "غوستافوس", "old": []}, {"synset": "gustavus.n.04", "src_word": "غوستافوس", "old": []}, {"synset": "gustavus.n.05", "src_word": "غوستافوس", "old": []}, {"synset": "gustavus.n.06", "src_word": "غوستافوس", "old": []}, {"synset": "hathaway.n.01", "src_word": "هاثاواي", "old": []}, {"synset": "henry.n.02", "src_word": "هنري", "old": []}, {"synset": "henry.n.03", "src_word": "هنري", "old": []}, {"synset": "henry.n.04", "src_word": "هنري", "old": []}, {"synset": "heraclitus.n.01", "src_word": "هيراكليتس", "old": []}, {"synset": "herbert.n.01", "src_word": "هيربيرت", "old": []}, {"synset": "hermes.n.01", "src_word": "هيرميس", "old": []}, {"synset": "herschel.n.01", "src_word": "هيرشيل", "old": []}, {"synset": "herschel.n.02", "src_word": "هيرشيل", "old": []}, {"synset": "hoagland.n.01", "src_word": "هواجلاند", "old": []}, {"synset": "houston.n.02", "src_word": "هيوستن", "old": []}, {"synset": "howe.n.01", "src_word": "هو", "old": []}, {"synset": "howe.n.02", "src_word": "هو", "old": []}, {"synset": "howe.n.03", "src_word": "هو", "old": []}, {"synset": "howe.n.04", "src_word": "هو", "old": []}, {"synset": "huggins.n.01", "src_word": "هجينجز", "old": []}, {"synset": "hughes.n.01", "src_word": "هيوز", "old": []}, {"synset": "hughes.n.02", "src_word": "هيوز", "old": []}, {"synset": "hughes.n.03", "src_word": "هيوز", "old": []}, {"synset": "hughes.n.04", "src_word": "هيوز", "old": []}, {"synset": "huston.n.01", "src_word": "هيوستن", "old": []}, {"synset": "hydrologist.n.01", "src_word": "الجيولوجي", "old": []}, {"synset": "illiterate.n.01", "src_word": "أمّي", "old": []}, {"synset": "imperialist.n.01", "src_word": "الإمبريالي", "old": []}, {"synset": "innocent.n.01", "src_word": "بريء", "old": []}, {"synset": "introvert.n.01", "src_word": "الإنطوائي", "old": []}, {"synset": "jackson.n.01", "src_word": "جاكسن", "old": []}, {"synset": "jackson.n.02", "src_word": "جاكسن", "old": []}, {"synset": "jackson.n.03", "src_word": "جاكسن", "old": []}, {"synset": "jackson.n.04", "src_word": "جاكسن", "old": []}, {"synset": "jackson.n.05", "src_word": "جاكسن", "old": []}, {"synset": "jackson.n.06", "src_word": "جاكسن", "old": []}, {"synset": "jacobs.n.01", "src_word": "جاكوبس", "old": []}, {"synset": "jacobs.n.02", "src_word": "جاكوبس", "old": []}, {"synset": "jacobs.n.03", "src_word": "جاكوبس", "old": []}, {"synset": "jefferson.n.01", "src_word": "جيفيرسن", "old": []}, {"synset": "jimenez.n.01", "src_word": "جيمينيز", "old": []}, {"synset": "juggernaut.n.01", "src_word": "الطاغوت", "old": []}, {"synset": "kahn.n.01", "src_word": "كان", "old": []}, {"synset": "kepler.n.01", "src_word": "كيبلير", "old": []}, {"synset": "kiowa.n.01", "src_word": "كيوا", "old": []}, {"synset": "kipling.n.01", "src_word": "كيبلينج", "old": []}, {"synset": "laird.n.01", "src_word": "ليرد", "old": []}, {"synset": "landgrave.n.01", "src_word": "الإحصاء", "old": []}, {"synset": "lawrence.n.01", "src_word": "لورانس", "old": []}, {"synset": "lawrence.n.02", "src_word": "لورانس", "old": []}, {"synset": "lawrence.n.03", "src_word": "لورانس", "old": []}, {"synset": "lawrence.n.04", "src_word": "لورانس", "old": []}, {"synset": "lawrence.n.05", "src_word": "لورانس", "old": []}, {"synset": "lawrence.n.06", "src_word": "لورانس", "old": []}, {"synset": "lear.n.01", "src_word": "لير", "old": []}, {"synset": "lear.n.02", "src_word": "لير", "old": []}, {"synset": "leary.n.01", "src_word": "ليري", "old": []}, {"synset": "lee.n.01", "src_word": "لي", "old": []}, {"synset": "lee.n.02", "src_word": "لي", "old": []}, {"synset": "lee.n.03", "src_word": "لي", "old": []}, {"synset": "lee.n.04", "src_word": "لي", "old": []}, {"synset": "lee.n.05", "src_word": "لي", "old": []}, {"synset": "lee.n.06", "src_word": "لي", "old": []}, {"synset": "lee.n.07", "src_word": "لي", "old": []}, {"synset": "leonard.n.01", "src_word": "ليونارد", "old": []}, {"synset": "leonardo.n.01", "src_word": "ليوناردو", "old": []}, {"synset": "lug.n.01", "src_word": "العروة", "old": []}, {"synset": "lysenko.n.01", "src_word": "ليسينكو", "old": []}, {"synset": "macarthur.n.01", "src_word": "ماكآرثر", "old": []}, {"synset": "macaulay.n.01", "src_word": "ماكولاي", "old": []}, {"synset": "macbeth.n.01", "src_word": "ماكبيث", "old": []}, {"synset": "macgregor.n.01", "src_word": "ماكجريجور", "old": []}, {"synset": "mackenzie.n.01", "src_word": "ماكينزي", "old": []}, {"synset": "mandatary.n.01", "src_word": "المستلم", "old": []}, {"synset": "maxwell.n.02", "src_word": "ماكسويل", "old": []}, {"synset": "mcgraw.n.01", "src_word": "مكجراو", "old": []}, {"synset": "meanie.n.01", "src_word": "المضطهد", "old": []}, {"synset": "mercator.n.01", "src_word": "مركاتوريّ", "old": []}, {"synset": "michelangelo.n.01", "src_word": "ميتشيلانجيلو", "old": []}, {"synset": "michelson.n.01", "src_word": "ميتشيلسون", "old": []}, {"synset": "mikado.n.01", "src_word": "الإمبراطور", "old": []}, {"synset": "millionaire.n.01", "src_word": "المليونير", "old": []}, {"synset": "mitchell.n.01", "src_word": "ميتشيل", "old": []}, {"synset": "mitchell.n.02", "src_word": "ميتشيل", "old": []}, {"synset": "mitchell.n.03", "src_word": "ميتشيل", "old": []}, {"synset": "mitchell.n.04", "src_word": "ميتشيل", "old": []}, {"synset": "mitchell.n.05", "src_word": "ميتشيل", "old": []}, {"synset": "mitchell.n.06", "src_word": "ميتشيل", "old": []}, {"synset": "model.n.03", "src_word": "النموذج", "old": []}, {"synset": "mr._moto.n.01", "src_word": "ال.", "old": []}, {"synset": "mutterer.n.01", "src_word": "المتمتم", "old": []}, {"synset": "naif.n.01", "src_word": "بريء", "old": []}, {"synset": "nez_perce.n.01", "src_word": "النيز", "old": []}, {"synset": "nicholas.n.01", "src_word": "نيقولاس", "old": []}, {"synset": "nicklaus.n.01", "src_word": "نيكلوس", "old": []}, {"synset": "nielsen.n.01", "src_word": "نيلسين", "old": []}, {"synset": "nietzsche.n.01", "src_word": "نيزش", "old": []}, {"synset": "nijinsky.n.01", "src_word": "نيجينسكاي", "old": []}, {"synset": "nilsson.n.01", "src_word": "نيلسون", "old": []}, {"synset": "nurser.n.01", "src_word": "الممرض", "old": []}, {"synset": "oblate.n.01", "src_word": "مفلطح", "old": []}, {"synset": "oppressor.n.01", "src_word": "المضطهد", "old": []}, {"synset": "orangeman.n.01", "src_word": "البروتستانتيّ", "old": []}, {"synset": "oswald.n.01", "src_word": "أوزوالد", "old": []}];
+
+function renderCorrected(data) {
+  const tbody = document.getElementById('body-corrected');
+  tbody.innerHTML = data.map(r => {
+    const oldRoots = (r.old || []).map(x => `<span class="root-old">${x}</span>`).join(' ');
+    return `<tr>
+      <td class="synset-id">${r.synset}</td>
+      <td class="src-word">${r.src_word || ''}</td>
+      <td>${oldRoots || '<span style="color:var(--text2)">—</span>'}</td>
+      <td class="root-new">${r.new || ''}</td>
+    </tr>`;
+  }).join('');
+}
+
+function renderNotFound(data) {
+  const tbody = document.getElementById('body-notfound');
+  tbody.innerHTML = data.map(r => {
+    const oldRoots = (r.old || []).map(x => `<span class="root-same">${x}</span>`).join(' ');
+    return `<tr>
+      <td class="synset-id">${r.synset}</td>
+      <td class="src-word">${r.src_word || ''}</td>
+      <td>${oldRoots || '<span style="color:var(--text2)">—</span>'}</td>
+    </tr>`;
+  }).join('');
+}
+
+function filterTable(which) {
+  const q = document.getElementById('search-' + which).value.trim().toLowerCase();
+  const data = which === 'corrected' ? CORRECTED : NOT_FOUND;
+  const filtered = q ? data.filter(r =>
+    (r.synset || '').toLowerCase().includes(q) ||
+    (r.src_word || '').includes(q) ||
+    (r.new || '').includes(q) ||
+    (r.old || []).some(x => x.includes(q))
+  ) : data;
+  if (which === 'corrected') renderCorrected(filtered);
+  else renderNotFound(filtered);
+}
+
+function switchTab(which, evt) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+  evt.target.classList.add('active');
+  document.getElementById('tab-' + which).classList.add('active');
+}
+
+renderCorrected(CORRECTED);
+renderNotFound(NOT_FOUND);
+</script>
+</body>
+</html>

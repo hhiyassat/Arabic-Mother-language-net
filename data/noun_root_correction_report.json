@@ -1,0 +1,2504 @@
+{
+  "stats": {
+    "total_noun_synsets": 70909,
+    "maqayis_verified": 68922,
+    "not_found_in_maqayis": 1322,
+    "no_arabic_words": 665,
+    "roots_actually_changed": 37754,
+    "coverage_pct": 97.2
+  },
+  "corrected_sample": [
+    {
+      "synset": "aaron.n.02",
+      "old": [],
+      "new": "هور",
+      "src_word": "هارون"
+    },
+    {
+      "synset": "abator.n.01",
+      "old": [],
+      "new": "غل",
+      "src_word": "مستغل"
+    },
+    {
+      "synset": "abbe.n.01",
+      "old": [
+        "ريس"
+      ],
+      "new": "رأس",
+      "src_word": "رئيس"
+    },
+    {
+      "synset": "abbot.n.01",
+      "old": [
+        "ريس"
+      ],
+      "new": "رأس",
+      "src_word": "رئيس"
+    },
+    {
+      "synset": "abecedarian.n.01",
+      "old": [],
+      "new": "بدأ",
+      "src_word": "المبتدئ"
+    },
+    {
+      "synset": "abel.n.02",
+      "old": [
+        "ابل"
+      ],
+      "new": "أبل",
+      "src_word": "آبيل"
+    },
+    {
+      "synset": "aberrant.n.01",
+      "old": [
+        "شاذ"
+      ],
+      "new": "شوذ",
+      "src_word": "شاذ"
+    },
+    {
+      "synset": "abiogenist.n.01",
+      "old": [
+        "ومن"
+      ],
+      "new": "أمن",
+      "src_word": "المؤمن"
+    },
+    {
+      "synset": "abjurer.n.01",
+      "old": [],
+      "new": "تبر",
+      "src_word": "تبرّأ"
+    },
+    {
+      "synset": "abominator.n.01",
+      "old": [
+        "معد"
+      ],
+      "new": "عدو",
+      "src_word": "المعادي"
+    },
+    {
+      "synset": "aborigine.n.02",
+      "old": [
+        "احد"
+      ],
+      "new": "أحد",
+      "src_word": "أحد"
+    },
+    {
+      "synset": "abortionist.n.01",
+      "old": [],
+      "new": "خصى",
+      "src_word": "إخصائيّ"
+    },
+    {
+      "synset": "absconder.n.01",
+      "old": [
+        "ختف"
+      ],
+      "new": "خفى",
+      "src_word": "المختفي"
+    },
+    {
+      "synset": "abseiler.n.01",
+      "old": [
+        "سلل"
+      ],
+      "new": "سيل",
+      "src_word": "السليل"
+    },
+    {
+      "synset": "absolutist.n.01",
+      "old": [],
+      "new": "بد",
+      "src_word": "المستبدّ"
+    },
+    {
+      "synset": "absolver.n.01",
+      "old": [
+        "بري"
+      ],
+      "new": "مرأ",
+      "src_word": "المبرئ"
+    },
+    {
+      "synset": "abstainer.n.01",
+      "old": [],
+      "new": "منع",
+      "src_word": "الممتنع"
+    },
+    {
+      "synset": "abstainer.n.02",
+      "old": [],
+      "new": "منع",
+      "src_word": "الممتنع"
+    },
+    {
+      "synset": "abstractionist.n.01",
+      "old": [],
+      "new": "خص",
+      "src_word": "متخصص"
+    },
+    {
+      "synset": "abstractor.n.01",
+      "old": [
+        "قيم"
+      ],
+      "new": "قام",
+      "src_word": "القائم"
+    },
+    {
+      "synset": "abuser.n.01",
+      "old": [],
+      "new": "غل",
+      "src_word": "المستغلّ"
+    },
+    {
+      "synset": "academic_administrator.n.01",
+      "old": [
+        "مدر"
+      ],
+      "new": "دير",
+      "src_word": "مدير"
+    },
+    {
+      "synset": "academician.n.01",
+      "old": [],
+      "new": "كأد",
+      "src_word": "الأكاديميّ"
+    },
+    {
+      "synset": "academician.n.02",
+      "old": [],
+      "new": "كأد",
+      "src_word": "الأكاديميّ"
+    },
+    {
+      "synset": "acadian.n.01",
+      "old": [],
+      "new": "وطن",
+      "src_word": "المستوطنون"
+    },
+    {
+      "synset": "accessory.n.03",
+      "old": [],
+      "new": "كس",
+      "src_word": "الإكسسوار"
+    },
+    {
+      "synset": "accessory_after_the_fact.n.01",
+      "old": [
+        "حقق"
+      ],
+      "new": "حيق",
+      "src_word": "حقيقة"
+    },
+    {
+      "synset": "accessory_before_the_fact.n.01",
+      "old": [
+        "حقق"
+      ],
+      "new": "حيق",
+      "src_word": "حقيقة"
+    },
+    {
+      "synset": "accessory_during_the_fact.n.01",
+      "old": [
+        "حقق"
+      ],
+      "new": "حيق",
+      "src_word": "حقيقة"
+    },
+    {
+      "synset": "accordionist.n.01",
+      "old": [],
+      "new": "موس",
+      "src_word": "الموسيقار"
+    },
+    {
+      "synset": "account_executive.n.01",
+      "old": [
+        "مدر"
+      ],
+      "new": "دير",
+      "src_word": "مدير"
+    },
+    {
+      "synset": "accused.n.01",
+      "old": [
+        "تهم"
+      ],
+      "new": "أتم",
+      "src_word": "اتّهم"
+    },
+    {
+      "synset": "achilles.n.01",
+      "old": [],
+      "new": "كيل",
+      "src_word": "أكيليز"
+    },
+    {
+      "synset": "achomawi.n.01",
+      "old": [],
+      "new": "هوك",
+      "src_word": "هوكان"
+    },
+    {
+      "synset": "acid_head.n.01",
+      "old": [
+        "ريس"
+      ],
+      "new": "رأس",
+      "src_word": "رئيس"
+    },
+    {
+      "synset": "acoustician.n.01",
+      "old": [],
+      "new": "مهن",
+      "src_word": "مهندس"
+    },
+    {
+      "synset": "acrobat.n.01",
+      "old": [],
+      "new": "بهو",
+      "src_word": "البهلوان"
+    },
+    {
+      "synset": "active.n.03",
+      "old": [
+        "صيغ"
+      ],
+      "new": "صوغ",
+      "src_word": "الصّيغة"
+    },
+    {
+      "synset": "actor's_agent.n.01",
+      "old": [],
+      "new": "وكل",
+      "src_word": "وكيل"
+    },
+    {
+      "synset": "adad.n.01",
+      "old": [
+        "ادد"
+      ],
+      "new": "أود",
+      "src_word": "أداد"
+    },
+    {
+      "synset": "adam.n.02",
+      "old": [
+        "ادم"
+      ],
+      "new": "أدم",
+      "src_word": "آدم"
+    },
+    {
+      "synset": "adams.n.01",
+      "old": [
+        "بنء"
+      ],
+      "new": "بنى",
+      "src_word": "أبناء"
+    },
+    {
+      "synset": "adams.n.02",
+      "old": [
+        "بنء"
+      ],
+      "new": "بنى",
+      "src_word": "أبناء"
+    },
+    {
+      "synset": "adams.n.03",
+      "old": [
+        "بنء"
+      ],
+      "new": "بنى",
+      "src_word": "أبناء"
+    },
+    {
+      "synset": "adapa.n.01",
+      "old": [
+        "ببل"
+      ],
+      "new": "بول",
+      "src_word": "البابلية"
+    },
+    {
+      "synset": "adder.n.01",
+      "old": [
+        "فعي"
+      ],
+      "new": "فعى",
+      "src_word": "الأفعى"
+    },
+    {
+      "synset": "addle-head.n.01",
+      "old": [
+        "ريس"
+      ],
+      "new": "رأس",
+      "src_word": "رئيس"
+    },
+    {
+      "synset": "adducer.n.01",
+      "old": [],
+      "new": "أسر",
+      "src_word": "أدسير"
+    },
+    {
+      "synset": "adjunct.n.02",
+      "old": [],
+      "new": "يلق",
+      "src_word": "يُلحق"
+    },
+    {
+      "synset": "adjutant_general.n.01",
+      "old": [],
+      "new": "جرل",
+      "src_word": "جنرال"
+    },
+    {
+      "synset": "administrator.n.02",
+      "old": [
+        "مدر"
+      ],
+      "new": "دير",
+      "src_word": "المدير"
+    },
+    {
+      "synset": "admiral.n.01",
+      "old": [
+        "قيد"
+      ],
+      "new": "قود",
+      "src_word": "قائد"
+    },
+    {
+      "synset": "adonis.n.01",
+      "old": [],
+      "new": "أدو",
+      "src_word": "أدونيس"
+    },
+    {
+      "synset": "adonis.n.03",
+      "old": [],
+      "new": "أدو",
+      "src_word": "أدونيس"
+    },
+    {
+      "synset": "adrian.n.02",
+      "old": [],
+      "new": "درى",
+      "src_word": "أدرايان"
+    },
+    {
+      "synset": "adulterator.n.02",
+      "old": [
+        "غشش"
+      ],
+      "new": "غش",
+      "src_word": "الغشّاش"
+    },
+    {
+      "synset": "adulterer.n.01",
+      "old": [
+        "زان"
+      ],
+      "new": "زون",
+      "src_word": "الزّاني"
+    },
+    {
+      "synset": "adulteress.n.01",
+      "old": [
+        "زان"
+      ],
+      "new": "زون",
+      "src_word": "الزّانية"
+    },
+    {
+      "synset": "advancer.n.01",
+      "old": [],
+      "new": "قدم",
+      "src_word": "المتقدّم"
+    },
+    {
+      "synset": "adviser.n.01",
+      "old": [],
+      "new": "شور",
+      "src_word": "المستشار"
+    },
+    {
+      "synset": "advocate.n.02",
+      "old": [
+        "مود"
+      ],
+      "new": "أيد",
+      "src_word": "المؤيّد"
+    },
+    {
+      "synset": "aeneas.n.01",
+      "old": [],
+      "new": "أنس",
+      "src_word": "إينيس"
+    },
+    {
+      "synset": "aeolus.n.01",
+      "old": [],
+      "new": "علس",
+      "src_word": "عولس"
+    },
+    {
+      "synset": "aerialist.n.01",
+      "old": [],
+      "new": "بهو",
+      "src_word": "البهلوان"
+    },
+    {
+      "synset": "aeronautical_engineer.n.01",
+      "old": [],
+      "new": "مهن",
+      "src_word": "مهندس"
+    },
+    {
+      "synset": "aerospace_engineer.n.01",
+      "old": [],
+      "new": "مهن",
+      "src_word": "مهندس"
+    },
+    {
+      "synset": "aeschylus.n.01",
+      "old": [],
+      "new": "أسك",
+      "src_word": "إسكلس"
+    },
+    {
+      "synset": "affluent.n.01",
+      "old": [
+        "غني"
+      ],
+      "new": "غن",
+      "src_word": "غنيّ"
+    },
+    {
+      "synset": "aficionado.n.01",
+      "old": [
+        "هاو"
+      ],
+      "new": "لهو",
+      "src_word": "الهاوٍ"
+    },
+    {
+      "synset": "aficionado.n.02",
+      "old": [
+        "هاو"
+      ],
+      "new": "لهو",
+      "src_word": "الهاوٍ"
+    },
+    {
+      "synset": "african.n.01",
+      "old": [],
+      "new": "أرق",
+      "src_word": "الإفريقيّ"
+    },
+    {
+      "synset": "agee.n.01",
+      "old": [
+        "اجي"
+      ],
+      "new": "أج",
+      "src_word": "أجي"
+    },
+    {
+      "synset": "agent-in-place.n.01",
+      "old": [
+        "مكن"
+      ],
+      "new": "مك",
+      "src_word": "مكان"
+    },
+    {
+      "synset": "agent_provocateur.n.01",
+      "old": [
+        "فزز"
+      ],
+      "new": "فوز",
+      "src_word": "إستفزازي"
+    },
+    {
+      "synset": "aglaia.n.01",
+      "old": [],
+      "new": "غرس",
+      "src_word": "غرايس"
+    },
+    {
+      "synset": "agony_aunt.n.01",
+      "old": [],
+      "new": "عم",
+      "src_word": "عمّة"
+    },
+    {
+      "synset": "agricola.n.01",
+      "old": [],
+      "new": "أجر",
+      "src_word": "أجريكولا"
+    },
+    {
+      "synset": "aiken.n.01",
+      "old": [],
+      "new": "أيك",
+      "src_word": "أيكين"
+    },
+    {
+      "synset": "airhead.n.01",
+      "old": [
+        "غبي"
+      ],
+      "new": "غب",
+      "src_word": "الغبيّ"
+    },
+    {
+      "synset": "akwa'ala.n.01",
+      "old": [],
+      "new": "هوك",
+      "src_word": "هوكان"
+    },
+    {
+      "synset": "al-hakim.n.01",
+      "old": [],
+      "new": "ولى",
+      "src_word": "الولاية"
+    },
+    {
+      "synset": "alabama.n.02",
+      "old": [],
+      "new": "لاب",
+      "src_word": "ألاباما"
+    },
+    {
+      "synset": "alaskan.n.01",
+      "old": [],
+      "new": "أرك",
+      "src_word": "الأمريكيّ"
+    },
+    {
+      "synset": "albanian.n.01",
+      "old": [],
+      "new": "أبن",
+      "src_word": "الألبانيّ"
+    },
+    {
+      "synset": "alcalde.n.01",
+      "old": [
+        "قاض"
+      ],
+      "new": "قوض",
+      "src_word": "القاضي"
+    },
+    {
+      "synset": "alcibiades.n.01",
+      "old": [],
+      "new": "ألس",
+      "src_word": "ألسيبْيادزْ"
+    },
+    {
+      "synset": "alcott.n.01",
+      "old": [
+        "كوت"
+      ],
+      "new": "ألت",
+      "src_word": "ألكوت"
+    },
+    {
+      "synset": "aleut.n.01",
+      "old": [
+        "الت"
+      ],
+      "new": "ألت",
+      "src_word": "أليت"
+    },
+    {
+      "synset": "alexander_ii.n.01",
+      "old": [
+        "ثان"
+      ],
+      "new": "ثنى",
+      "src_word": "ثّاني"
+    },
+    {
+      "synset": "alexic.n.01",
+      "old": [
+        "مرض"
+      ],
+      "new": "مري",
+      "src_word": "المريض"
+    },
+    {
+      "synset": "alfred.n.01",
+      "old": [
+        "فرد"
+      ],
+      "new": "ألف",
+      "src_word": "ألفريد"
+    },
+    {
+      "synset": "alger.n.01",
+      "old": [
+        "جير"
+      ],
+      "new": "أجر",
+      "src_word": "ألجير"
+    },
+    {
+      "synset": "algerian.n.01",
+      "old": [],
+      "new": "جزر",
+      "src_word": "الجزائريّ"
+    },
+    {
+      "synset": "ali.n.02",
+      "old": [
+        "علي"
+      ],
+      "new": "عل",
+      "src_word": "علي"
+    },
+    {
+      "synset": "ali_baba.n.01",
+      "old": [],
+      "new": "عل",
+      "src_word": "العلي"
+    },
+    {
+      "synset": "alien_absconder.n.01",
+      "old": [
+        "ختف"
+      ],
+      "new": "خفى",
+      "src_word": "مختفي"
+    },
+    {
+      "synset": "alienee.n.01",
+      "old": [
+        "محل"
+      ],
+      "new": "حول",
+      "src_word": "محوّل"
+    },
+    {
+      "synset": "alienist.n.01",
+      "old": [
+        "طبب"
+      ],
+      "new": "طيب",
+      "src_word": "الطّبيب"
+    },
+    {
+      "synset": "alienor.n.01",
+      "old": [
+        "محل"
+      ],
+      "new": "حول",
+      "src_word": "المحوّل"
+    },
+    {
+      "synset": "all-rounder.n.01",
+      "old": [],
+      "new": "دير",
+      "src_word": "مستدير"
+    },
+    {
+      "synset": "allen.n.01",
+      "old": [
+        "الن"
+      ],
+      "new": "أل",
+      "src_word": "ألين"
+    },
+    {
+      "synset": "allen.n.02",
+      "old": [
+        "الن"
+      ],
+      "new": "أل",
+      "src_word": "ألين"
+    },
+    {
+      "synset": "allen.n.03",
+      "old": [
+        "الن"
+      ],
+      "new": "أل",
+      "src_word": "ألين"
+    },
+    {
+      "synset": "allergist.n.01",
+      "old": [
+        "طبب"
+      ],
+      "new": "طيب",
+      "src_word": "الطبيب"
+    },
+    {
+      "synset": "alliterator.n.01",
+      "old": [],
+      "new": "كلم",
+      "src_word": "المتكلّم"
+    },
+    {
+      "synset": "allocator.n.01",
+      "old": [
+        "حصص"
+      ],
+      "new": "محص",
+      "src_word": "محصِّص"
+    },
+    {
+      "synset": "almoner.n.01",
+      "old": [],
+      "new": "خصى",
+      "src_word": "الإخصائيّ"
+    },
+    {
+      "synset": "almsgiver.n.01",
+      "old": [],
+      "new": "برع",
+      "src_word": "المتبرع"
+    },
+    {
+      "synset": "alphabetizer.n.01",
+      "old": [
+        "رتب"
+      ],
+      "new": "مرت",
+      "src_word": "مرتّب"
+    },
+    {
+      "synset": "alpinist.n.01",
+      "old": [],
+      "new": "سلق",
+      "src_word": "متسلّق"
+    },
+    {
+      "synset": "alsatian.n.01",
+      "old": [
+        "لزس"
+      ],
+      "new": "ألس",
+      "src_word": "الألزاسي"
+    },
+    {
+      "synset": "altaic.n.01",
+      "old": [],
+      "new": "أسو",
+      "src_word": "الآسيويّ"
+    },
+    {
+      "synset": "alter_ego.n.01",
+      "old": [
+        "انا"
+      ],
+      "new": "غير",
+      "src_word": "التغيّر"
+    },
+    {
+      "synset": "alto.n.01",
+      "old": [
+        "لتو"
+      ],
+      "new": "أتو",
+      "src_word": "الألتو"
+    },
+    {
+      "synset": "amateur.n.02",
+      "old": [
+        "هاو"
+      ],
+      "new": "لهو",
+      "src_word": "الهاوٍ"
+    },
+    {
+      "synset": "amazon.n.01",
+      "old": [
+        "مرا"
+      ],
+      "new": "مرأ",
+      "src_word": "المرأة"
+    },
+    {
+      "synset": "amazon.n.02",
+      "old": [
+        "مرا"
+      ],
+      "new": "مرأ",
+      "src_word": "المرأة"
+    },
+    {
+      "synset": "amen-ra.n.01",
+      "old": [],
+      "new": "عصر",
+      "src_word": "عنصر"
+    },
+    {
+      "synset": "amen.n.01",
+      "old": [
+        "امن"
+      ],
+      "new": "أمن",
+      "src_word": "آمين"
+    },
+    {
+      "synset": "american.n.03",
+      "old": [],
+      "new": "أرك",
+      "src_word": "الأمريكيّ"
+    },
+    {
+      "synset": "amish.n.01",
+      "old": [],
+      "new": "مين",
+      "src_word": "مينونيت"
+    },
+    {
+      "synset": "amos.n.01",
+      "old": [],
+      "new": "عمس",
+      "src_word": "عاموس"
+    },
+    {
+      "synset": "anabaptist.n.01",
+      "old": [
+        "قيل"
+      ],
+      "new": "قول",
+      "src_word": "قائل"
+    },
+    {
+      "synset": "anachronism.n.03",
+      "old": [
+        "اثر"
+      ],
+      "new": "أثر",
+      "src_word": "الأثر"
+    },
+    {
+      "synset": "analysand.n.01",
+      "old": [
+        "مرض"
+      ],
+      "new": "مري",
+      "src_word": "المريض"
+    },
+    {
+      "synset": "analyst.n.01",
+      "old": [
+        "حلل"
+      ],
+      "new": "محل",
+      "src_word": "المحلّل"
+    },
+    {
+      "synset": "analyst.n.02",
+      "old": [
+        "حلل"
+      ],
+      "new": "محل",
+      "src_word": "المحلّل"
+    },
+    {
+      "synset": "analyst.n.03",
+      "old": [
+        "حلل"
+      ],
+      "new": "محل",
+      "src_word": "المحلّل"
+    },
+    {
+      "synset": "anchor.n.03",
+      "old": [
+        "رسا"
+      ],
+      "new": "مرأ",
+      "src_word": "المرساة"
+    },
+    {
+      "synset": "andersen.n.01",
+      "old": [
+        "درس"
+      ],
+      "new": "ندر",
+      "src_word": "أندرسن"
+    },
+    {
+      "synset": "anderson.n.01",
+      "old": [],
+      "new": "ندر",
+      "src_word": "أندرسون"
+    },
+    {
+      "synset": "anderson.n.02",
+      "old": [],
+      "new": "ندر",
+      "src_word": "أندرسون"
+    },
+    {
+      "synset": "anderson.n.03",
+      "old": [],
+      "new": "ندر",
+      "src_word": "أندرسون"
+    },
+    {
+      "synset": "anderson.n.04",
+      "old": [],
+      "new": "ندر",
+      "src_word": "أندرسون"
+    },
+    {
+      "synset": "anderson.n.05",
+      "old": [],
+      "new": "ندر",
+      "src_word": "أندرسون"
+    },
+    {
+      "synset": "andorran.n.01",
+      "old": [],
+      "new": "أرب",
+      "src_word": "أوروبي"
+    },
+    {
+      "synset": "andrews.n.01",
+      "old": [
+        "درو"
+      ],
+      "new": "ندر",
+      "src_word": "أندروز"
+    },
+    {
+      "synset": "andromeda.n.03",
+      "old": [],
+      "new": "ندر",
+      "src_word": "آندروميدا"
+    },
+    {
+      "synset": "andvari.n.01",
+      "old": [
+        "مثا"
+      ],
+      "new": "مثل",
+      "src_word": "التمثال"
+    },
+    {
+      "synset": "anecdotist.n.01",
+      "old": [
+        "قاص"
+      ],
+      "new": "لقص",
+      "src_word": "القاصّ"
+    },
+    {
+      "synset": "anesthesiologist.n.01",
+      "old": [
+        "طبب"
+      ],
+      "new": "طيب",
+      "src_word": "طبيب"
+    },
+    {
+      "synset": "angel.n.03",
+      "old": [
+        "ملك"
+      ],
+      "new": "لوك",
+      "src_word": "الملاك"
+    },
+    {
+      "synset": "angevin.n.01",
+      "old": [],
+      "new": "فرس",
+      "src_word": "الفرنسي"
+    },
+    {
+      "synset": "angiologist.n.01",
+      "old": [
+        "طبب"
+      ],
+      "new": "طيب",
+      "src_word": "الطبيب"
+    },
+    {
+      "synset": "angle.n.03",
+      "old": [
+        "زاو"
+      ],
+      "new": "زوى",
+      "src_word": "الزّاوية"
+    },
+    {
+      "synset": "anglican.n.01",
+      "old": [
+        "جلي"
+      ],
+      "new": "نجل",
+      "src_word": "الأنجليكي"
+    },
+    {
+      "synset": "anglican_catholic.n.01",
+      "old": [],
+      "new": "ثول",
+      "src_word": "كاثوليكي"
+    },
+    {
+      "synset": "anglo-american.n.01",
+      "old": [],
+      "new": "أرك",
+      "src_word": "أمريكيّ"
+    },
+    {
+      "synset": "anglo-indian.n.01",
+      "old": [],
+      "new": "هند",
+      "src_word": "هندي"
+    },
+    {
+      "synset": "anglo-saxon.n.01",
+      "old": [],
+      "new": "سكن",
+      "src_word": "سكسوني"
+    },
+    {
+      "synset": "anglo-saxon.n.02",
+      "old": [],
+      "new": "سكن",
+      "src_word": "سكسوني"
+    },
+    {
+      "synset": "anglo-saxon_deity.n.01",
+      "old": [
+        "اله"
+      ],
+      "new": "أله",
+      "src_word": "إله"
+    },
+    {
+      "synset": "anglophile.n.01",
+      "old": [
+        "مود"
+      ],
+      "new": "أيد",
+      "src_word": "المؤيد"
+    },
+    {
+      "synset": "anglophobe.n.01",
+      "old": [
+        "معد"
+      ],
+      "new": "عدو",
+      "src_word": "المعادي"
+    },
+    {
+      "synset": "angolan.n.01",
+      "old": [],
+      "new": "أرق",
+      "src_word": "الإفريقيّ"
+    },
+    {
+      "synset": "angus_og.n.01",
+      "old": [],
+      "new": "أنس",
+      "src_word": "الأنجس"
+    },
+    {
+      "synset": "animal_fancier.n.01",
+      "old": [
+        "ربي"
+      ],
+      "new": "مري",
+      "src_word": "مربي"
+    },
+    {
+      "synset": "animator.n.02",
+      "old": [],
+      "new": "خصى",
+      "src_word": "إخصائيّ"
+    },
+    {
+      "synset": "annalist.n.01",
+      "old": [
+        "ورخ"
+      ],
+      "new": "أرخ",
+      "src_word": "المؤرّخ"
+    },
+    {
+      "synset": "announcer.n.01",
+      "old": [
+        "مذع"
+      ],
+      "new": "ذيع",
+      "src_word": "المذيع"
+    },
+    {
+      "synset": "announcer.n.02",
+      "old": [
+        "مذع"
+      ],
+      "new": "ذيع",
+      "src_word": "المذيع"
+    },
+    {
+      "synset": "anselm.n.01",
+      "old": [
+        "سيل"
+      ],
+      "new": "أنس",
+      "src_word": "أنسيلم"
+    },
+    {
+      "synset": "anthony.n.02",
+      "old": [
+        "تون"
+      ],
+      "new": "أتن",
+      "src_word": "أنتوني"
+    },
+    {
+      "synset": "anthropoid.n.01",
+      "old": [
+        "سان"
+      ],
+      "new": "أنس",
+      "src_word": "إنسان"
+    },
+    {
+      "synset": "anti-american.n.01",
+      "old": [],
+      "new": "أرك",
+      "src_word": "أمريكيّ"
+    },
+    {
+      "synset": "anti-semite.n.01",
+      "old": [
+        "سمي"
+      ],
+      "new": "سوم",
+      "src_word": "سامي"
+    },
+    {
+      "synset": "anti.n.01",
+      "old": [
+        "مضد"
+      ],
+      "new": "ضأد",
+      "src_word": "مضادّ"
+    },
+    {
+      "synset": "anticipator.n.01",
+      "old": [],
+      "new": "وقع",
+      "src_word": "المتوقّع"
+    },
+    {
+      "synset": "antifeminist.n.01",
+      "old": [],
+      "new": "عصب",
+      "src_word": "المتعصّب"
+    },
+    {
+      "synset": "antigone.n.01",
+      "old": [],
+      "new": "نتغ",
+      "src_word": "أنتيغون"
+    },
+    {
+      "synset": "antihero.n.01",
+      "old": [],
+      "new": "شخص",
+      "src_word": "الشّخصيّة"
+    },
+    {
+      "synset": "antinomian.n.01",
+      "old": [
+        "نقي"
+      ],
+      "new": "نقض",
+      "src_word": "تناقضيّ"
+    },
+    {
+      "synset": "antipope.n.01",
+      "old": [
+        "ببا"
+      ],
+      "new": "بوب",
+      "src_word": "البابا"
+    },
+    {
+      "synset": "antonius_pius.n.01",
+      "old": [],
+      "new": "أل",
+      "src_word": "ال"
+    },
+    {
+      "synset": "antony.n.01",
+      "old": [
+        "تون"
+      ],
+      "new": "أتن",
+      "src_word": "أنتوني"
+    },
+    {
+      "synset": "apache.n.01",
+      "old": [],
+      "new": "أبش",
+      "src_word": "أباتشي"
+    },
+    {
+      "synset": "apache.n.02",
+      "old": [],
+      "new": "أبش",
+      "src_word": "أباتشي"
+    },
+    {
+      "synset": "aphorist.n.01",
+      "old": [
+        "حكي"
+      ],
+      "new": "حوك",
+      "src_word": "حاكي"
+    },
+    {
+      "synset": "aphrodite.n.01",
+      "old": [],
+      "new": "أفر",
+      "src_word": "الأفرودايت"
+    },
+    {
+      "synset": "apollinaire.n.01",
+      "old": [],
+      "new": "أبو",
+      "src_word": "أبوليناير"
+    },
+    {
+      "synset": "apollo.n.01",
+      "old": [],
+      "new": "أبو",
+      "src_word": "أبولّو"
+    },
+    {
+      "synset": "apostle.n.01",
+      "old": [
+        "حري"
+      ],
+      "new": "حور",
+      "src_word": "الحواريّ"
+    },
+    {
+      "synset": "apostle.n.02",
+      "old": [
+        "حري"
+      ],
+      "new": "حور",
+      "src_word": "الحواريّ"
+    },
+    {
+      "synset": "apostle.n.03",
+      "old": [
+        "حري"
+      ],
+      "new": "حور",
+      "src_word": "الحواريّ"
+    },
+    {
+      "synset": "apparatchik.n.01",
+      "old": [
+        "سول"
+      ],
+      "new": "سأل",
+      "src_word": "المسؤول"
+    },
+    {
+      "synset": "apparatchik.n.02",
+      "old": [
+        "شيع"
+      ],
+      "new": "شوع",
+      "src_word": "شيوعي"
+    },
+    {
+      "synset": "appeaser.n.01",
+      "old": [
+        "هدي"
+      ],
+      "new": "مهد",
+      "src_word": "المهدّئ"
+    },
+    {
+      "synset": "appellant.n.01",
+      "old": [
+        "ينف"
+      ],
+      "new": "أنف",
+      "src_word": "استئنافيّ"
+    },
+    {
+      "synset": "appleton.n.01",
+      "old": [],
+      "new": "ألت",
+      "src_word": "أبليتون"
+    },
+    {
+      "synset": "applicant.n.01",
+      "old": [],
+      "new": "قدم",
+      "src_word": "المتقدّم"
+    },
+    {
+      "synset": "appointee.n.01",
+      "old": [
+        "معن"
+      ],
+      "new": "عين",
+      "src_word": "المعيّن"
+    },
+    {
+      "synset": "appointee.n.02",
+      "old": [
+        "معن"
+      ],
+      "new": "عين",
+      "src_word": "المعيّن"
+    },
+    {
+      "synset": "apprehender.n.02",
+      "old": [],
+      "new": "عقل",
+      "src_word": "مُعتقِل"
+    },
+    {
+      "synset": "apprentice.n.01",
+      "old": [],
+      "new": "بدأ",
+      "src_word": "المبتدئ"
+    },
+    {
+      "synset": "appropriator.n.01",
+      "old": [
+        "ستل"
+      ],
+      "new": "ول",
+      "src_word": "المستولي"
+    },
+    {
+      "synset": "aquanaut.n.02",
+      "old": [
+        "ريد"
+      ],
+      "new": "رأد",
+      "src_word": "رائد"
+    },
+    {
+      "synset": "aquinas.n.01",
+      "old": [],
+      "new": "أكن",
+      "src_word": "الأكوينيّ"
+    },
+    {
+      "synset": "aragon.n.01",
+      "old": [],
+      "new": "أرج",
+      "src_word": "أراجون"
+    },
+    {
+      "synset": "aramean.n.01",
+      "old": [
+        "سمي"
+      ],
+      "new": "سوم",
+      "src_word": "سامي"
+    },
+    {
+      "synset": "arcadian.n.01",
+      "old": [],
+      "new": "نون",
+      "src_word": "اليوناني"
+    }
+  ],
+  "not_found_sample": [
+    {
+      "synset": "aeolian.n.01",
+      "src_word": "إيولايان",
+      "old": []
+    },
+    {
+      "synset": "agamemnon.n.01",
+      "src_word": "أجاميمنون",
+      "old": []
+    },
+    {
+      "synset": "ajax.n.01",
+      "src_word": "إجاكس",
+      "old": []
+    },
+    {
+      "synset": "alexander.n.02",
+      "src_word": "أليكساندر",
+      "old": []
+    },
+    {
+      "synset": "ambrose.n.01",
+      "src_word": "أمبروز",
+      "old": []
+    },
+    {
+      "synset": "ambusher.n.01",
+      "src_word": "أمبشر",
+      "old": []
+    },
+    {
+      "synset": "analphabet.n.01",
+      "src_word": "أمّي",
+      "old": [
+        "امي"
+      ]
+    },
+    {
+      "synset": "andrew.n.01",
+      "src_word": "أندرو",
+      "old": [
+        "درو"
+      ]
+    },
+    {
+      "synset": "anne.n.01",
+      "src_word": "",
+      "old": []
+    },
+    {
+      "synset": "arhat.n.01",
+      "src_word": "أرهات",
+      "old": [
+        "رهت"
+      ]
+    },
+    {
+      "synset": "ariadne.n.01",
+      "src_word": "أريادن",
+      "old": []
+    },
+    {
+      "synset": "arianist.n.01",
+      "src_word": "آريّ",
+      "old": [
+        "اري"
+      ]
+    },
+    {
+      "synset": "arrhenius.n.01",
+      "src_word": "أرهينيس",
+      "old": []
+    },
+    {
+      "synset": "artemis.n.01",
+      "src_word": "آرتميس",
+      "old": [
+        "رمي"
+      ]
+    },
+    {
+      "synset": "astaire.n.01",
+      "src_word": "أستاير",
+      "old": [
+        "اير"
+      ]
+    },
+    {
+      "synset": "atropos.n.01",
+      "src_word": "أتْروبُسْ",
+      "old": []
+    },
+    {
+      "synset": "augustine.n.01",
+      "src_word": "أوغسطين",
+      "old": []
+    },
+    {
+      "synset": "balboa.n.02",
+      "src_word": "بلبووة",
+      "old": []
+    },
+    {
+      "synset": "baudelaire.n.01",
+      "src_word": "بودلاير",
+      "old": []
+    },
+    {
+      "synset": "beatrice.n.01",
+      "src_word": "بياتريس",
+      "old": []
+    },
+    {
+      "synset": "beaumont.n.01",
+      "src_word": "بيماونت",
+      "old": []
+    },
+    {
+      "synset": "beaumont.n.02",
+      "src_word": "بيماونت",
+      "old": []
+    },
+    {
+      "synset": "bedwetter.n.01",
+      "src_word": "بيسسير",
+      "old": []
+    },
+    {
+      "synset": "belshazzar.n.01",
+      "src_word": "بلشزار",
+      "old": []
+    },
+    {
+      "synset": "beowulf.n.01",
+      "src_word": "بياولف",
+      "old": []
+    },
+    {
+      "synset": "berkeley.n.01",
+      "src_word": "بيركيلي",
+      "old": []
+    },
+    {
+      "synset": "berliner.n.01",
+      "src_word": "برليني",
+      "old": []
+    },
+    {
+      "synset": "berlioz.n.01",
+      "src_word": "بيرليوز",
+      "old": []
+    },
+    {
+      "synset": "bernard.n.01",
+      "src_word": "برنار",
+      "old": []
+    },
+    {
+      "synset": "bernini.n.01",
+      "src_word": "بيرنيني",
+      "old": []
+    },
+    {
+      "synset": "bernoulli.n.01",
+      "src_word": "بيرنولي",
+      "old": []
+    },
+    {
+      "synset": "bernoulli.n.02",
+      "src_word": "بيرنولي",
+      "old": []
+    },
+    {
+      "synset": "bernoulli.n.03",
+      "src_word": "بيرنولي",
+      "old": []
+    },
+    {
+      "synset": "bernstein.n.01",
+      "src_word": "بيرنشتاين",
+      "old": []
+    },
+    {
+      "synset": "billionaire.n.01",
+      "src_word": "البليونير",
+      "old": []
+    },
+    {
+      "synset": "bismarck.n.01",
+      "src_word": "بيزمارك",
+      "old": []
+    },
+    {
+      "synset": "blair.n.01",
+      "src_word": "بلير",
+      "old": [
+        "بلر"
+      ]
+    },
+    {
+      "synset": "blake.n.01",
+      "src_word": "بليك",
+      "old": [
+        "بلك"
+      ]
+    },
+    {
+      "synset": "bolshevik.n.01",
+      "src_word": "البلشفيّ",
+      "old": []
+    },
+    {
+      "synset": "bostonian.n.01",
+      "src_word": "بوستوني",
+      "old": []
+    },
+    {
+      "synset": "breadwinner.n.01",
+      "src_word": "العائل",
+      "old": [
+        "عيل"
+      ]
+    },
+    {
+      "synset": "breton.n.01",
+      "src_word": "البريتاني",
+      "old": []
+    },
+    {
+      "synset": "bruno.n.02",
+      "src_word": "برونو",
+      "old": []
+    },
+    {
+      "synset": "bruno.n.03",
+      "src_word": "برونو",
+      "old": []
+    },
+    {
+      "synset": "buchanan.n.01",
+      "src_word": "بتشانان",
+      "old": []
+    },
+    {
+      "synset": "budge.n.01",
+      "src_word": "تزحزح",
+      "old": [
+        "زحز"
+      ]
+    },
+    {
+      "synset": "burbank.n.01",
+      "src_word": "بربانك",
+      "old": []
+    },
+    {
+      "synset": "burnham.n.01",
+      "src_word": "برنهام",
+      "old": []
+    },
+    {
+      "synset": "bushnell.n.01",
+      "src_word": "بُشْنِل",
+      "old": []
+    },
+    {
+      "synset": "chesterfield.n.01",
+      "src_word": "تشيسترفيلد",
+      "old": []
+    },
+    {
+      "synset": "chesterton.n.01",
+      "src_word": "تشيسترتون",
+      "old": []
+    },
+    {
+      "synset": "chilean.n.01",
+      "src_word": "التشيلي",
+      "old": [
+        "تشل"
+      ]
+    },
+    {
+      "synset": "chinook.n.02",
+      "src_word": "تشنوكي",
+      "old": [
+        "شنو"
+      ]
+    },
+    {
+      "synset": "chomsky.n.01",
+      "src_word": "تشومسكي",
+      "old": []
+    },
+    {
+      "synset": "churchill.n.01",
+      "src_word": "تشرشل",
+      "old": [
+        "شرش"
+      ]
+    },
+    {
+      "synset": "clinton.n.01",
+      "src_word": "كلنتن",
+      "old": []
+    },
+    {
+      "synset": "clinton.n.02",
+      "src_word": "كلنتن",
+      "old": []
+    },
+    {
+      "synset": "clinton.n.03",
+      "src_word": "كلنتن",
+      "old": []
+    },
+    {
+      "synset": "clio.n.01",
+      "src_word": "كليو",
+      "old": [
+        "كلو"
+      ]
+    },
+    {
+      "synset": "compositor.n.01",
+      "src_word": "المنضّد",
+      "old": [
+        "نضد"
+      ]
+    },
+    {
+      "synset": "cooke.n.01",
+      "src_word": "كوك",
+      "old": [
+        "كوك"
+      ]
+    },
+    {
+      "synset": "cooke.n.02",
+      "src_word": "كوك",
+      "old": [
+        "كوك"
+      ]
+    },
+    {
+      "synset": "count.n.03",
+      "src_word": "الإحصاء",
+      "old": [
+        "حصء"
+      ]
+    },
+    {
+      "synset": "crawford.n.01",
+      "src_word": "كراوفورد",
+      "old": []
+    },
+    {
+      "synset": "crawford.n.02",
+      "src_word": "كراوفورد",
+      "old": []
+    },
+    {
+      "synset": "crockett.n.01",
+      "src_word": "كروكيت",
+      "old": []
+    },
+    {
+      "synset": "czech.n.01",
+      "src_word": "التشيكي",
+      "old": [
+        "تشك"
+      ]
+    },
+    {
+      "synset": "czechoslovakian.n.01",
+      "src_word": "تشيكوسلوفاكي",
+      "old": []
+    },
+    {
+      "synset": "daimler.n.01",
+      "src_word": "ديملير",
+      "old": []
+    },
+    {
+      "synset": "dastard.n.01",
+      "src_word": "الدنئ",
+      "old": [
+        "دني"
+      ]
+    },
+    {
+      "synset": "demagogue.n.01",
+      "src_word": "الديماغوجي",
+      "old": []
+    },
+    {
+      "synset": "dictator.n.01",
+      "src_word": "الدكتاتور",
+      "old": []
+    },
+    {
+      "synset": "dictator.n.02",
+      "src_word": "الدكتاتور",
+      "old": []
+    },
+    {
+      "synset": "dimaggio.n.01",
+      "src_word": "ديماجيو",
+      "old": []
+    },
+    {
+      "synset": "doolittle.n.01",
+      "src_word": "دووليتل",
+      "old": []
+    },
+    {
+      "synset": "douglass.n.01",
+      "src_word": "دوجلاس",
+      "old": []
+    },
+    {
+      "synset": "electra.n.01",
+      "src_word": "إليكترا",
+      "old": []
+    },
+    {
+      "synset": "elizabeth.n.02",
+      "src_word": "إليزابيث",
+      "old": []
+    },
+    {
+      "synset": "empress.n.01",
+      "src_word": "الإمبراطورة",
+      "old": []
+    },
+    {
+      "synset": "esthete.n.01",
+      "src_word": "إسذيت",
+      "old": []
+    },
+    {
+      "synset": "euclid.n.01",
+      "src_word": "إقليديس",
+      "old": []
+    },
+    {
+      "synset": "euler.n.01",
+      "src_word": "يولر",
+      "old": []
+    },
+    {
+      "synset": "evans.n.01",
+      "src_word": "إيفانس",
+      "old": []
+    },
+    {
+      "synset": "evans.n.02",
+      "src_word": "إيفانس",
+      "old": []
+    },
+    {
+      "synset": "exegete.n.01",
+      "src_word": "إكسيجيت",
+      "old": []
+    },
+    {
+      "synset": "fairbanks.n.01",
+      "src_word": "فيربانكس",
+      "old": []
+    },
+    {
+      "synset": "fairbanks.n.02",
+      "src_word": "فيربانكس",
+      "old": []
+    },
+    {
+      "synset": "fence.n.02",
+      "src_word": "السياج",
+      "old": [
+        "سيج"
+      ]
+    },
+    {
+      "synset": "ferber.n.01",
+      "src_word": "فيربير",
+      "old": []
+    },
+    {
+      "synset": "finn.n.01",
+      "src_word": "الفنلندي",
+      "old": []
+    },
+    {
+      "synset": "fitter.n.01",
+      "src_word": "الميكانيكي",
+      "old": []
+    },
+    {
+      "synset": "fulbright.n.01",
+      "src_word": "فلبريت",
+      "old": []
+    },
+    {
+      "synset": "geologist.n.01",
+      "src_word": "الجيولوجي",
+      "old": []
+    },
+    {
+      "synset": "guatemalan.n.01",
+      "src_word": "الغواتيمالي",
+      "old": []
+    },
+    {
+      "synset": "gustavus.n.01",
+      "src_word": "غوستافوس",
+      "old": []
+    },
+    {
+      "synset": "gustavus.n.02",
+      "src_word": "غوستافوس",
+      "old": []
+    },
+    {
+      "synset": "gustavus.n.03",
+      "src_word": "غوستافوس",
+      "old": []
+    },
+    {
+      "synset": "gustavus.n.04",
+      "src_word": "غوستافوس",
+      "old": []
+    },
+    {
+      "synset": "gustavus.n.05",
+      "src_word": "غوستافوس",
+      "old": []
+    },
+    {
+      "synset": "gustavus.n.06",
+      "src_word": "غوستافوس",
+      "old": []
+    },
+    {
+      "synset": "hathaway.n.01",
+      "src_word": "هاثاواي",
+      "old": []
+    },
+    {
+      "synset": "henry.n.02",
+      "src_word": "هنري",
+      "old": []
+    },
+    {
+      "synset": "henry.n.03",
+      "src_word": "هنري",
+      "old": []
+    },
+    {
+      "synset": "henry.n.04",
+      "src_word": "هنري",
+      "old": []
+    },
+    {
+      "synset": "heraclitus.n.01",
+      "src_word": "هيراكليتس",
+      "old": []
+    },
+    {
+      "synset": "herbert.n.01",
+      "src_word": "هيربيرت",
+      "old": []
+    },
+    {
+      "synset": "hermes.n.01",
+      "src_word": "هيرميس",
+      "old": []
+    },
+    {
+      "synset": "herschel.n.01",
+      "src_word": "هيرشيل",
+      "old": []
+    },
+    {
+      "synset": "herschel.n.02",
+      "src_word": "هيرشيل",
+      "old": []
+    },
+    {
+      "synset": "hoagland.n.01",
+      "src_word": "هواجلاند",
+      "old": []
+    },
+    {
+      "synset": "houston.n.02",
+      "src_word": "هيوستن",
+      "old": []
+    },
+    {
+      "synset": "howe.n.01",
+      "src_word": "",
+      "old": []
+    },
+    {
+      "synset": "howe.n.02",
+      "src_word": "",
+      "old": []
+    },
+    {
+      "synset": "howe.n.03",
+      "src_word": "",
+      "old": []
+    },
+    {
+      "synset": "howe.n.04",
+      "src_word": "",
+      "old": []
+    },
+    {
+      "synset": "huggins.n.01",
+      "src_word": "هجينجز",
+      "old": []
+    },
+    {
+      "synset": "hughes.n.01",
+      "src_word": "هيوز",
+      "old": [
+        "هيز"
+      ]
+    },
+    {
+      "synset": "hughes.n.02",
+      "src_word": "هيوز",
+      "old": [
+        "هيز"
+      ]
+    },
+    {
+      "synset": "hughes.n.03",
+      "src_word": "هيوز",
+      "old": [
+        "هيز"
+      ]
+    },
+    {
+      "synset": "hughes.n.04",
+      "src_word": "هيوز",
+      "old": [
+        "هيز"
+      ]
+    },
+    {
+      "synset": "huston.n.01",
+      "src_word": "هيوستن",
+      "old": []
+    },
+    {
+      "synset": "hydrologist.n.01",
+      "src_word": "الجيولوجي",
+      "old": []
+    },
+    {
+      "synset": "illiterate.n.01",
+      "src_word": "أمّي",
+      "old": [
+        "امي"
+      ]
+    },
+    {
+      "synset": "imperialist.n.01",
+      "src_word": "الإمبريالي",
+      "old": []
+    },
+    {
+      "synset": "innocent.n.01",
+      "src_word": "بريء",
+      "old": [
+        "برء"
+      ]
+    },
+    {
+      "synset": "introvert.n.01",
+      "src_word": "الإنطوائي",
+      "old": [
+        "طوي"
+      ]
+    },
+    {
+      "synset": "jackson.n.01",
+      "src_word": "جاكسن",
+      "old": []
+    },
+    {
+      "synset": "jackson.n.02",
+      "src_word": "جاكسن",
+      "old": []
+    },
+    {
+      "synset": "jackson.n.03",
+      "src_word": "جاكسن",
+      "old": []
+    },
+    {
+      "synset": "jackson.n.04",
+      "src_word": "جاكسن",
+      "old": []
+    },
+    {
+      "synset": "jackson.n.05",
+      "src_word": "جاكسن",
+      "old": []
+    },
+    {
+      "synset": "jackson.n.06",
+      "src_word": "جاكسن",
+      "old": []
+    },
+    {
+      "synset": "jacobs.n.01",
+      "src_word": "جاكوبس",
+      "old": []
+    },
+    {
+      "synset": "jacobs.n.02",
+      "src_word": "جاكوبس",
+      "old": []
+    },
+    {
+      "synset": "jacobs.n.03",
+      "src_word": "جاكوبس",
+      "old": []
+    },
+    {
+      "synset": "jefferson.n.01",
+      "src_word": "جيفيرسن",
+      "old": []
+    },
+    {
+      "synset": "jimenez.n.01",
+      "src_word": "جيمينيز",
+      "old": []
+    },
+    {
+      "synset": "juggernaut.n.01",
+      "src_word": "الطاغوت",
+      "old": []
+    },
+    {
+      "synset": "kahn.n.01",
+      "src_word": "",
+      "old": [
+        "كان"
+      ]
+    },
+    {
+      "synset": "kepler.n.01",
+      "src_word": "كيبلير",
+      "old": []
+    },
+    {
+      "synset": "kiowa.n.01",
+      "src_word": "كيوا",
+      "old": [
+        "كيا"
+      ]
+    },
+    {
+      "synset": "kipling.n.01",
+      "src_word": "كيبلينج",
+      "old": []
+    },
+    {
+      "synset": "laird.n.01",
+      "src_word": "ليرد",
+      "old": []
+    },
+    {
+      "synset": "landgrave.n.01",
+      "src_word": "الإحصاء",
+      "old": [
+        "حصء"
+      ]
+    },
+    {
+      "synset": "lawrence.n.01",
+      "src_word": "لورانس",
+      "old": []
+    },
+    {
+      "synset": "lawrence.n.02",
+      "src_word": "لورانس",
+      "old": []
+    },
+    {
+      "synset": "lawrence.n.03",
+      "src_word": "لورانس",
+      "old": []
+    },
+    {
+      "synset": "lawrence.n.04",
+      "src_word": "لورانس",
+      "old": []
+    },
+    {
+      "synset": "lawrence.n.05",
+      "src_word": "لورانس",
+      "old": []
+    },
+    {
+      "synset": "lawrence.n.06",
+      "src_word": "لورانس",
+      "old": []
+    },
+    {
+      "synset": "lear.n.01",
+      "src_word": "لير",
+      "old": [
+        "لير"
+      ]
+    },
+    {
+      "synset": "lear.n.02",
+      "src_word": "لير",
+      "old": [
+        "لير"
+      ]
+    },
+    {
+      "synset": "leary.n.01",
+      "src_word": "ليري",
+      "old": []
+    },
+    {
+      "synset": "lee.n.01",
+      "src_word": "لي",
+      "old": []
+    },
+    {
+      "synset": "lee.n.02",
+      "src_word": "لي",
+      "old": []
+    },
+    {
+      "synset": "lee.n.03",
+      "src_word": "لي",
+      "old": []
+    },
+    {
+      "synset": "lee.n.04",
+      "src_word": "لي",
+      "old": []
+    },
+    {
+      "synset": "lee.n.05",
+      "src_word": "لي",
+      "old": []
+    },
+    {
+      "synset": "lee.n.06",
+      "src_word": "لي",
+      "old": []
+    },
+    {
+      "synset": "lee.n.07",
+      "src_word": "لي",
+      "old": []
+    },
+    {
+      "synset": "leonard.n.01",
+      "src_word": "ليونارد",
+      "old": []
+    },
+    {
+      "synset": "leonardo.n.01",
+      "src_word": "ليوناردو",
+      "old": []
+    },
+    {
+      "synset": "lug.n.01",
+      "src_word": "العروة",
+      "old": [
+        "عرو"
+      ]
+    },
+    {
+      "synset": "lysenko.n.01",
+      "src_word": "ليسينكو",
+      "old": []
+    },
+    {
+      "synset": "macarthur.n.01",
+      "src_word": "ماكآرثر",
+      "old": []
+    },
+    {
+      "synset": "macaulay.n.01",
+      "src_word": "ماكولاي",
+      "old": []
+    },
+    {
+      "synset": "macbeth.n.01",
+      "src_word": "ماكبيث",
+      "old": []
+    },
+    {
+      "synset": "macgregor.n.01",
+      "src_word": "ماكجريجور",
+      "old": []
+    },
+    {
+      "synset": "mackenzie.n.01",
+      "src_word": "ماكينزي",
+      "old": []
+    },
+    {
+      "synset": "mandatary.n.01",
+      "src_word": "المستلم",
+      "old": []
+    },
+    {
+      "synset": "maxwell.n.02",
+      "src_word": "ماكسويل",
+      "old": []
+    },
+    {
+      "synset": "mcgraw.n.01",
+      "src_word": "مكجراو",
+      "old": []
+    },
+    {
+      "synset": "meanie.n.01",
+      "src_word": "المضطهد",
+      "old": []
+    },
+    {
+      "synset": "mercator.n.01",
+      "src_word": "مركاتوريّ",
+      "old": []
+    },
+    {
+      "synset": "michelangelo.n.01",
+      "src_word": "ميتشيلانجيلو",
+      "old": []
+    },
+    {
+      "synset": "michelson.n.01",
+      "src_word": "ميتشيلسون",
+      "old": []
+    },
+    {
+      "synset": "mikado.n.01",
+      "src_word": "الإمبراطور",
+      "old": []
+    },
+    {
+      "synset": "millionaire.n.01",
+      "src_word": "المليونير",
+      "old": []
+    },
+    {
+      "synset": "mitchell.n.01",
+      "src_word": "ميتشيل",
+      "old": []
+    },
+    {
+      "synset": "mitchell.n.02",
+      "src_word": "ميتشيل",
+      "old": []
+    },
+    {
+      "synset": "mitchell.n.03",
+      "src_word": "ميتشيل",
+      "old": []
+    },
+    {
+      "synset": "mitchell.n.04",
+      "src_word": "ميتشيل",
+      "old": []
+    },
+    {
+      "synset": "mitchell.n.05",
+      "src_word": "ميتشيل",
+      "old": []
+    },
+    {
+      "synset": "mitchell.n.06",
+      "src_word": "ميتشيل",
+      "old": []
+    },
+    {
+      "synset": "model.n.03",
+      "src_word": "النموذج",
+      "old": []
+    },
+    {
+      "synset": "mr._moto.n.01",
+      "src_word": "ال.",
+      "old": []
+    },
+    {
+      "synset": "mutterer.n.01",
+      "src_word": "المتمتم",
+      "old": []
+    },
+    {
+      "synset": "naif.n.01",
+      "src_word": "بريء",
+      "old": [
+        "برء"
+      ]
+    },
+    {
+      "synset": "nez_perce.n.01",
+      "src_word": "النيز",
+      "old": []
+    },
+    {
+      "synset": "nicholas.n.01",
+      "src_word": "نيقولاس",
+      "old": []
+    },
+    {
+      "synset": "nicklaus.n.01",
+      "src_word": "نيكلوس",
+      "old": []
+    },
+    {
+      "synset": "nielsen.n.01",
+      "src_word": "نيلسين",
+      "old": []
+    },
+    {
+      "synset": "nietzsche.n.01",
+      "src_word": "نيزش",
+      "old": []
+    },
+    {
+      "synset": "nijinsky.n.01",
+      "src_word": "نيجينسكاي",
+      "old": []
+    },
+    {
+      "synset": "nilsson.n.01",
+      "src_word": "نيلسون",
+      "old": []
+    },
+    {
+      "synset": "nurser.n.01",
+      "src_word": "الممرض",
+      "old": [
+        "مرض"
+      ]
+    },
+    {
+      "synset": "oblate.n.01",
+      "src_word": "مفلطح",
+      "old": []
+    },
+    {
+      "synset": "oppressor.n.01",
+      "src_word": "المضطهد",
+      "old": []
+    },
+    {
+      "synset": "orangeman.n.01",
+      "src_word": "البروتستانتيّ",
+      "old": []
+    },
+    {
+      "synset": "oswald.n.01",
+      "src_word": "أوزوالد",
+      "old": []
+    }
+  ]
+}
