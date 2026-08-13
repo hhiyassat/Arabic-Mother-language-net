@@ -1,0 +1,181 @@
+{
+  "directive": "ARABIC-MOTHER-NET-LAYER6-IRAB-JUDGMENT-KERNEL-01",
+  "layer": "LAYER_6",
+  "kernel": "IrabJudgmentKernel",
+  "tests_passed": 13,
+  "tests_total": 13,
+  "scope": "حكم إعرابي / تركيبي نحوي فقط — لا حكم فقهي — لا فتوى — لا تفسير",
+  "guards": [
+    "GUARD_L6_00: layer5_frozen خاطئ → BLOCKED",
+    "GUARD_L6_01: raw_sentence فارغة → BLOCKED",
+    "GUARD_L6_02: musnad فارغ → BLOCKED",
+    "GUARD_L6_03: musnad_ilayh فارغ → BLOCKED",
+    "GUARD_L6_04: فعلية بلا فاعل → BLOCKED",
+    "GUARD_L6_05: اسمية بلا مبتدأ/خبر → BLOCKED",
+    "GUARD_L6_06: لا حكم واحد ممكن → BLOCKED"
+  ],
+  "rules": {
+    "A": "الفعل — فعل ماضٍ مبني على الفتح / مضارع مرفوع",
+    "B": "الفاعل — مرفوع بالضمة",
+    "C": "المفعول به — منصوب بالفتحة",
+    "D": "المبتدأ — مرفوع بالضمة",
+    "E": "الخبر — مرفوع بالضمة",
+    "F": "القيد — جار ومجرور / ظرف / حال"
+  },
+  "examples": [
+    {
+      "root": "كتب",
+      "synset_id": "library.n.01",
+      "sentence": "كَتَبَ الكاتبُ الرسالةَ",
+      "sentence_type": "فعلية",
+      "entries": [
+        {
+          "word": "كَتَبَ",
+          "position": 0,
+          "irab_role": "فعل",
+          "irab_case": "مبني",
+          "irab_sign": "مبني على الفتح",
+          "irab_reason": "فعل ماضٍ مبني على الفتح",
+          "muttasil": ""
+        },
+        {
+          "word": "الكاتبُ",
+          "position": 1,
+          "irab_role": "فاعل",
+          "irab_case": "مرفوع",
+          "irab_sign": "الضمة",
+          "irab_reason": "فاعل مرفوع — الفعل رفع فاعله وجوباً",
+          "muttasil": "كَتَبَ"
+        },
+        {
+          "word": "الرسالةَ",
+          "position": 2,
+          "irab_role": "مفعول به",
+          "irab_case": "منصوب",
+          "irab_sign": "الفتحة",
+          "irab_reason": "مفعول به منصوب وعلامة نصبه الفتحة",
+          "muttasil": "كَتَبَ"
+        }
+      ],
+      "verdict": "IRAB_COMPLETE",
+      "block_reasons": [],
+      "layer6_frozen": "IRAB_JUDGMENT_KERNEL_LAYER6_BUILT_READY_FOR_HOKOM_HANDOFF"
+    },
+    {
+      "root": "علم",
+      "synset_id": "knowledge.n.01",
+      "sentence": "عَلِمَ الطالبُ الحقيقةَ",
+      "sentence_type": "فعلية",
+      "entries": [
+        {
+          "word": "عَلِمَ",
+          "position": 0,
+          "irab_role": "فعل",
+          "irab_case": "مبني",
+          "irab_sign": "مبني على الفتح",
+          "irab_reason": "فعل ماضٍ مبني على الفتح",
+          "muttasil": ""
+        },
+        {
+          "word": "الطالبُ",
+          "position": 1,
+          "irab_role": "فاعل",
+          "irab_case": "مرفوع",
+          "irab_sign": "الضمة",
+          "irab_reason": "فاعل مرفوع — الفعل رفع فاعله وجوباً",
+          "muttasil": "عَلِمَ"
+        },
+        {
+          "word": "الحقيقةَ",
+          "position": 2,
+          "irab_role": "مفعول به",
+          "irab_case": "منصوب",
+          "irab_sign": "الفتحة",
+          "irab_reason": "مفعول به منصوب وعلامة نصبه الفتحة",
+          "muttasil": "عَلِمَ"
+        }
+      ],
+      "verdict": "IRAB_COMPLETE",
+      "block_reasons": [],
+      "layer6_frozen": "IRAB_JUDGMENT_KERNEL_LAYER6_BUILT_READY_FOR_HOKOM_HANDOFF"
+    },
+    {
+      "root": "كتب",
+      "synset_id": "library.n.01",
+      "sentence": "مَكْتَب مكانُ كِتابةٍ",
+      "sentence_type": "اسمية",
+      "entries": [
+        {
+          "word": "مَكْتَب",
+          "position": 0,
+          "irab_role": "مبتدأ",
+          "irab_case": "مرفوع",
+          "irab_sign": "الضمة",
+          "irab_reason": "مبتدأ مرفوع وعلامة رفعه الضمة",
+          "muttasil": ""
+        },
+        {
+          "word": "مكانُ كِتابةٍ",
+          "position": 1,
+          "irab_role": "خبر",
+          "irab_case": "مرفوع",
+          "irab_sign": "الضمة",
+          "irab_reason": "خبر مرفوع وعلامة رفعه الضمة",
+          "muttasil": "مَكْتَب"
+        }
+      ],
+      "verdict": "IRAB_COMPLETE",
+      "block_reasons": [],
+      "layer6_frozen": "IRAB_JUDGMENT_KERNEL_LAYER6_BUILT_READY_FOR_HOKOM_HANDOFF"
+    },
+    {
+      "root": "كتب",
+      "synset_id": "library.n.01",
+      "sentence": "كَتَبَ الكاتبُ الرسالةَ في المكتب",
+      "sentence_type": "فعلية",
+      "entries": [
+        {
+          "word": "كَتَبَ",
+          "position": 0,
+          "irab_role": "فعل",
+          "irab_case": "مبني",
+          "irab_sign": "مبني على الفتح",
+          "irab_reason": "فعل ماضٍ مبني على الفتح",
+          "muttasil": ""
+        },
+        {
+          "word": "الكاتبُ",
+          "position": 1,
+          "irab_role": "فاعل",
+          "irab_case": "مرفوع",
+          "irab_sign": "الضمة",
+          "irab_reason": "فاعل مرفوع — الفعل رفع فاعله وجوباً",
+          "muttasil": "كَتَبَ"
+        },
+        {
+          "word": "الرسالةَ",
+          "position": 2,
+          "irab_role": "مفعول به",
+          "irab_case": "منصوب",
+          "irab_sign": "الفتحة",
+          "irab_reason": "مفعول به منصوب وعلامة نصبه الفتحة",
+          "muttasil": "كَتَبَ"
+        },
+        {
+          "word": "في المكتب",
+          "position": 3,
+          "irab_role": "جار ومجرور",
+          "irab_case": "مجرور",
+          "irab_sign": "الكسرة",
+          "irab_reason": "جار ومجرور — الاسم مجرور بحرف الجر",
+          "muttasil": "كَتَبَ"
+        }
+      ],
+      "verdict": "IRAB_COMPLETE",
+      "block_reasons": [],
+      "layer6_frozen": "IRAB_JUDGMENT_KERNEL_LAYER6_BUILT_READY_FOR_HOKOM_HANDOFF"
+    }
+  ],
+  "verdict": "IRAB_JUDGMENT_KERNEL_LAYER6_BUILT_READY_FOR_HOKOM_HANDOFF",
+  "layer5_receives": "Layer6Handoff from IFADAH_KERNEL_LAYER5_FROZEN_READY_FOR_LAYER6_HANDOFF"
+}
