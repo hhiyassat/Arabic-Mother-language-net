@@ -83,6 +83,44 @@
         "يستقبل Layer6Handoff فقط",
         "اسمه IrabJudgmentKernel — لا يُسمَّى الحكم المطلق"
       ]
+    },
+    "LAYER_7": {
+      "name": "HokomKernel",
+      "files": {
+        "types":   "hokom_types.py",
+        "kernel":  "hokom_kernel.py",
+        "tests":   "tests/test_hokom_kernel.py",
+        "doc":     "docs/HOKOM_KERNEL_LAYER7.md",
+        "scope":   "docs/LAYER7_HOKOM_SCOPE.md",
+        "report":  "tmp/layer7_hokom_report.json"
+      },
+      "status": "FROZEN",
+      "judgment": "HOKM_KERNEL_LAYER7_BUILT_READY_FOR_LAYER8_HANDOFF",
+      "tests_passed": 14,
+      "tests_total": 14,
+      "receives": "Layer7Handoff from LAYER_6",
+      "produces": "HokomResult — حكم سلامة الجملة تركيبياً (HOKM_SALEEM / HOKM_MUKHTALL)",
+      "rules": ["R1: ISNAD اكتمال الإسناد", "R2: AGREEMENT مطابقة الإعراب للدور", "R3: MUTTASIL لا تعلُّق يتيم"],
+      "guards": [
+        "GUARD_L7_00: layer6_frozen خاطئ → BLOCKED",
+        "GUARD_L7_01: sentence فارغة → BLOCKED",
+        "GUARD_L7_02: لا مدخلات إعرابية → BLOCKED",
+        "GUARD_L7_03: نوع الجملة غير مدعوم → BLOCKED"
+      ],
+      "examples_frozen": [
+        "كَتَبَ الكاتبُ الرسالةَ → HOKM_SALEEM",
+        "عَلِمَ الطالبُ الحقيقةَ → HOKM_SALEEM",
+        "مَكْتَب مكانُ كِتابةٍ → HOKM_SALEEM",
+        "كَتَبَ الكاتبُ الرسالةَ في المكتب → HOKM_SALEEM"
+      ],
+      "hard_limits": [
+        "لا حكم فقهي — حكم لغوي على سلامة الجملة تركيبياً فقط",
+        "لا فتوى — لا تفسير",
+        "لا إغلاق GRES-HUKM الفقهي",
+        "لا يُعيد فتح Wave11 أو IfadahResult أو IrabJudgmentResult",
+        "يستقبل Layer7Handoff فقط",
+        "اسمه HokomKernel — «الحكم» هنا لغويٌّ محض لا مطلق"
+      ]
     }
   },
   "sources": {

@@ -1,0 +1,131 @@
+{
+  "directive": "ARABIC-MOTHER-NET-LAYER7-HOKOM-KERNEL-01",
+  "layer": "LAYER_7",
+  "kernel": "HokomKernel",
+  "tests_passed": 14,
+  "tests_total": 14,
+  "scope": "حكم لغوي على سلامة الجملة تركيبياً فقط — لا حكم فقهي — لا فتوى — لا تفسير",
+  "receives": "Layer7Handoff from LAYER_6 (IRAB_JUDGMENT_KERNEL_LAYER6_BUILT_READY_FOR_HOKOM_HANDOFF)",
+  "guards": [
+    "GUARD_L7_00: layer6_frozen خاطئ → BLOCKED",
+    "GUARD_L7_01: sentence فارغة → BLOCKED",
+    "GUARD_L7_02: لا مدخلات إعرابية → BLOCKED",
+    "GUARD_L7_03: نوع الجملة غير مدعوم → BLOCKED"
+  ],
+  "rules": {
+    "R1": "ISNAD — اكتمال الإسناد (فعلية: فعل+فاعل / اسمية: مبتدأ+خبر)",
+    "R2": "AGREEMENT — مطابقة الحالة الإعرابية للدور",
+    "R3": "MUTTASIL — كل متعلَّق يُحيل إلى عنصر موجود"
+  },
+  "examples": [
+    {
+      "root": "كتب",
+      "synset_id": "library.n.01",
+      "sentence": "كَتَبَ الكاتبُ الرسالةَ",
+      "sentence_type": "فعلية",
+      "verdict": "HOKM_SALEEM",
+      "checks": [
+        {
+          "name": "ISNAD",
+          "passed": true,
+          "detail": "جملة فعلية مكتملة الإسناد"
+        },
+        {
+          "name": "AGREEMENT",
+          "passed": true,
+          "detail": "جميع الحالات الإعرابية مطابقة لأدوارها"
+        },
+        {
+          "name": "MUTTASIL",
+          "passed": true,
+          "detail": "جميع التعلُّقات تُحيل إلى عناصر موجودة"
+        }
+      ],
+      "defects": [],
+      "block_reasons": [],
+      "layer7_frozen": "HOKM_KERNEL_LAYER7_BUILT_READY_FOR_LAYER8_HANDOFF"
+    },
+    {
+      "root": "علم",
+      "synset_id": "knowledge.n.01",
+      "sentence": "عَلِمَ الطالبُ الحقيقةَ",
+      "sentence_type": "فعلية",
+      "verdict": "HOKM_SALEEM",
+      "checks": [
+        {
+          "name": "ISNAD",
+          "passed": true,
+          "detail": "جملة فعلية مكتملة الإسناد"
+        },
+        {
+          "name": "AGREEMENT",
+          "passed": true,
+          "detail": "جميع الحالات الإعرابية مطابقة لأدوارها"
+        },
+        {
+          "name": "MUTTASIL",
+          "passed": true,
+          "detail": "جميع التعلُّقات تُحيل إلى عناصر موجودة"
+        }
+      ],
+      "defects": [],
+      "block_reasons": [],
+      "layer7_frozen": "HOKM_KERNEL_LAYER7_BUILT_READY_FOR_LAYER8_HANDOFF"
+    },
+    {
+      "root": "كتب",
+      "synset_id": "library.n.01",
+      "sentence": "مَكْتَب مكانُ كِتابةٍ",
+      "sentence_type": "اسمية",
+      "verdict": "HOKM_SALEEM",
+      "checks": [
+        {
+          "name": "ISNAD",
+          "passed": true,
+          "detail": "جملة اسمية مكتملة الإسناد"
+        },
+        {
+          "name": "AGREEMENT",
+          "passed": true,
+          "detail": "جميع الحالات الإعرابية مطابقة لأدوارها"
+        },
+        {
+          "name": "MUTTASIL",
+          "passed": true,
+          "detail": "جميع التعلُّقات تُحيل إلى عناصر موجودة"
+        }
+      ],
+      "defects": [],
+      "block_reasons": [],
+      "layer7_frozen": "HOKM_KERNEL_LAYER7_BUILT_READY_FOR_LAYER8_HANDOFF"
+    },
+    {
+      "root": "كتب",
+      "synset_id": "library.n.01",
+      "sentence": "كَتَبَ الكاتبُ الرسالةَ في المكتب",
+      "sentence_type": "فعلية",
+      "verdict": "HOKM_SALEEM",
+      "checks": [
+        {
+          "name": "ISNAD",
+          "passed": true,
+          "detail": "جملة فعلية مكتملة الإسناد"
+        },
+        {
+          "name": "AGREEMENT",
+          "passed": true,
+          "detail": "جميع الحالات الإعرابية مطابقة لأدوارها"
+        },
+        {
+          "name": "MUTTASIL",
+          "passed": true,
+          "detail": "جميع التعلُّقات تُحيل إلى عناصر موجودة"
+        }
+      ],
+      "defects": [],
+      "block_reasons": [],
+      "layer7_frozen": "HOKM_KERNEL_LAYER7_BUILT_READY_FOR_LAYER8_HANDOFF"
+    }
+  ],
+  "verdict": "HOKM_KERNEL_LAYER7_BUILT_READY_FOR_LAYER8_HANDOFF"
+}
