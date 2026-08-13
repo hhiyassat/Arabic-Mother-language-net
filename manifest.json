@@ -1,0 +1,93 @@
+{
+  "project": "Arabic-Mother-Language-Net",
+  "directive": "ARABIC-MOTHER-NET-IFADAH-KERNEL-FREEZE-AND-HOKOM-HANDOFF-01",
+  "layers": {
+    "LAYER_0_4": {
+      "name": "Wave11Ancestry",
+      "file": "wave11_ancestry.py",
+      "status": "FROZEN",
+      "judgment": "WAVE11_ANCESTRY_LAYER0_4_FROZEN",
+      "nodes": ["وجود","ذات","ماهية","خواص","صفات","مصدر","فعل","وزن","مشتق","علاقة","حكم"]
+    },
+    "LAYER_5": {
+      "name": "IfadahKernel",
+      "files": {
+        "types": "ifadah_types.py",
+        "kernel": "ifadah_kernel.py",
+        "tests": "tests/test_ifadah_kernel.py",
+        "doc": "docs/IFADAH_KERNEL_LAYER5.md",
+        "handoff_spec": "docs/HOKOM_LAYER6_HANDOFF.md"
+      },
+      "status": "FROZEN",
+      "judgment": "IFADAH_KERNEL_LAYER5_FROZEN_READY_FOR_LAYER6_HANDOFF",
+      "tests_passed": 18,
+      "tests_total": 18,
+      "guards": [
+        "GUARD_00: جذر غير موثَّق → BLOCKED",
+        "GUARD_01: إفادة بلا مسند → BLOCKED",
+        "GUARD_02: إفادة بلا مسند إليه → BLOCKED",
+        "GUARD_03: جملة فعلية بلا فاعل → BLOCKED",
+        "GUARD_04: جملة اسمية بلا مبتدأ/خبر → BLOCKED"
+      ],
+      "examples_frozen": [
+        "كَتَبَ الكاتبُ الرسالةَ",
+        "عَلِمَ الطالبُ الحقيقةَ",
+        "كَاتِب جمع شيء إلى شيء",
+        "مَكْتَب: مكان كِتابة"
+      ],
+      "hard_limits": [
+        "لا تفسير",
+        "لا حكم فقهي",
+        "لا فتوى",
+        "لا إغلاق Hokom الفقهي",
+        "hokm_placeholder = OPEN → LAYER 6 دائماً"
+      ]
+    },
+    "LAYER_6": {
+      "name": "IrabJudgmentKernel",
+      "files": {
+        "types":   "irab_types.py",
+        "kernel":  "irab_judgment_kernel.py",
+        "tests":   "tests/test_irab_judgment_kernel.py",
+        "doc":     "docs/IRAB_JUDGMENT_KERNEL_LAYER6.md",
+        "scope":   "docs/LAYER6_IRAB_SCOPE.md",
+        "report":  "tmp/layer6_irab_judgment_report.json"
+      },
+      "status": "FROZEN",
+      "judgment": "IRAB_JUDGMENT_KERNEL_LAYER6_BUILT_READY_FOR_HOKOM_HANDOFF",
+      "tests_passed": 13,
+      "tests_total": 13,
+      "receives": "Layer6Handoff from LAYER_5",
+      "produces": "IrabJudgmentResult — أحكام إعرابية لكل عنصر في الجملة",
+      "rules": ["A: الفعل", "B: الفاعل", "C: المفعول به", "D: المبتدأ", "E: الخبر", "F: القيد"],
+      "guards": [
+        "GUARD_L6_00: layer5_frozen خاطئ → BLOCKED",
+        "GUARD_L6_01: raw_sentence فارغة → BLOCKED",
+        "GUARD_L6_02: musnad فارغ → BLOCKED",
+        "GUARD_L6_03: musnad_ilayh فارغ → BLOCKED",
+        "GUARD_L6_04: فعلية بلا فاعل → BLOCKED",
+        "GUARD_L6_05: اسمية بلا مبتدأ/خبر → BLOCKED",
+        "GUARD_L6_06: لا حكم واحد ممكن → BLOCKED"
+      ],
+      "examples_frozen": [
+        "كَتَبَ الكاتبُ الرسالةَ",
+        "عَلِمَ الطالبُ الحقيقةَ",
+        "مَكْتَب مكانُ كِتابةٍ",
+        "كَتَبَ الكاتبُ الرسالةَ في المكتب"
+      ],
+      "hard_limits": [
+        "لا حكم فقهي — حكم إعرابي نحوي فقط",
+        "لا فتوى — لا تفسير",
+        "لا إغلاق GRES-HUKM الفقهي",
+        "لا يُعيد فتح Wave11 أو IfadahResult",
+        "يستقبل Layer6Handoff فقط",
+        "اسمه IrabJudgmentKernel — لا يُسمَّى الحكم المطلق"
+      ]
+    }
+  },
+  "sources": {
+    "maqayis": "github.com/hhiyassat/Maqaiys-roots",
+    "arabic_mother_net": "github.com/hhiyassat/Arabic-Mother-language-net",
+    "wazn_net": "github.com/hhiyassat/Arabic-Mother-language-wazn-net"
+  }
+}
