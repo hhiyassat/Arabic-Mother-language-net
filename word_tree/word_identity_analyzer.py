@@ -44,11 +44,12 @@ from word_tree.fi3l_engine import compose_vfv_from_certified_root
 # ══════════════════════════════════════════════════════════════════════
 
 # §C — مسارات البيانات مرنة عبر متغيرات البيئة
-# في fresh-checkout: export MAQAYIS_DB_PATH=/root/maqayis_v2/maqayis.db
-#                    export MAQAYIS_CSV_PATH=/root/.claude/uploads/.../audited_roots.csv
+# الأولوية: متغير البيئة MAQAYIS_DB_PATH → ثم maqayis.db بجوار هذا الملف (محمول)
+# في حال الاختبار على جهاز آخر: export MAQAYIS_DB_PATH=<مسار_قاعدة_البيانات>
+#                    export MAQAYIS_CSV_PATH=<مسار_audited_roots.csv>
 _DEFAULT_DB_PATH  = os.environ.get(
     'MAQAYIS_DB_PATH',
-    '/root/maqayis_v2/maqayis.db',
+    os.path.join(os.path.dirname(__file__), 'maqayis.db'),
 )
 _DEFAULT_CSV_PATH = os.environ.get(
     'MAQAYIS_CSV_PATH',

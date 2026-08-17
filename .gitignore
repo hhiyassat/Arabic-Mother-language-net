@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.db
+!word_tree/maqayis.db
 *.jsonl
 *.tar.gz
 .DS_Store

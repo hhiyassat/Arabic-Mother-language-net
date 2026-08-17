@@ -872,7 +872,7 @@ def test_context_zero_for_fi3l_engine():
     لا قرار فعلي يعتمد على سياق إعرابي أو مخرجات Hokom.
     """
     import os
-    fi3l_path = os.path.join('/root', 'word_tree', 'fi3l_engine.py')
+    fi3l_path = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'fi3l_engine.py'))
     with open(fi3l_path, 'r', encoding='utf-8') as f:
         src = f.read()
 
