@@ -1246,18 +1246,50 @@ def test_root_vfv_composition():
         "composed_verb_features=%s (exp None)" % cvfv_qraa
     )
 
-    # تحقق إضافي من provenance (الصواب)
+    # ── ضابط 4: DERIVED_FEATURE_RANK_ABOVE_ROOT = 0 ────────────────────
+    # DERIVED_FEATURE_RANK <= SOURCE_ROOT_RANK
+    # وعد → root cert = EVIDENCE_SUPPORTED ("مدعوم_بدليل")
+    # → يجب أن تكون provenance["source"] = "EVIDENCE_SUPPORTED_ROOT"
+    #   وليس "CERTIFIED_ROOT" (التي تعني رتبة أعلى = CERTIFIED)
     prov_waad = cert_waad.vfv_provenance
     assert prov_waad is not None, "F.14 FAIL: وعد vfv_provenance=None"
-    assert prov_waad["radical_health"]["source"] == "CERTIFIED_ROOT", (
-        "F.14 FAIL: وعد radical_health source=%s (exp CERTIFIED_ROOT)" % prov_waad["radical_health"]["source"]
+    waad_root_cert = cert_waad.root_analysis.certification_level.value
+    assert waad_root_cert == "مدعوم_بدليل", (
+        "F.14 precondition: وعد يجب أن يكون EVIDENCE_SUPPORTED، وجدنا: %s" % waad_root_cert
+    )
+    waad_feat_source = prov_waad["radical_health"]["source"]
+    waad_feat_status = prov_waad["radical_health"]["status"]
+    assert waad_feat_source == "EVIDENCE_SUPPORTED_ROOT", (
+        "F.14 FAIL: DERIVED_FEATURE_RANK_ABOVE_ROOT — وعد (root=EVIDENCE_SUPPORTED): "
+        "feat_source=%s (exp EVIDENCE_SUPPORTED_ROOT — لا يجوز CERTIFIED_ROOT)" % waad_feat_source
+    )
+    assert waad_feat_status == "EVIDENCE_SUPPORTED", (
+        "F.14 FAIL: EVIDENCE_SUPPORTED_ROOT_MISLABELED_CERTIFIED — وعد: "
+        "feat_status=%s (exp EVIDENCE_SUPPORTED — لا يجوز CERTIFIED)" % waad_feat_status
+    )
+
+    # ── ضابط 5: EVIDENCE_SUPPORTED_ROOT_MISLABELED_CERTIFIED = 0 ─────
+    # تحقق من جاء (EVIDENCE_SUPPORTED أيضاً) — يجب نفس السلوك
+    prov_jaa = cert_jaa.vfv_provenance
+    assert prov_jaa is not None, "F.14 FAIL: جاء vfv_provenance=None"
+    jaa_feat_source = prov_jaa["radical_health"]["source"]
+    jaa_feat_status = prov_jaa["radical_health"]["status"]
+    assert jaa_feat_source == "EVIDENCE_SUPPORTED_ROOT", (
+        "F.14 FAIL: EVIDENCE_SUPPORTED_ROOT_MISLABELED_CERTIFIED — جاء (root=EVIDENCE_SUPPORTED): "
+        "feat_source=%s (exp EVIDENCE_SUPPORTED_ROOT)" % jaa_feat_source
+    )
+    assert jaa_feat_status == "EVIDENCE_SUPPORTED", (
+        "F.14 FAIL: EVIDENCE_SUPPORTED_ROOT_MISLABELED_CERTIFIED — جاء: "
+        "feat_status=%s (exp EVIDENCE_SUPPORTED)" % jaa_feat_status
     )
 
     print(
         "  ✓ test_root_vfv_composition — "
         "ROOT_FEATURE_AVAILABLE_BUT_IGNORED=0 (وعد→ASSIMILATED, سأل→MEDIAL, أخذ→INITIAL), "
         "ORTHOGONAL_FEATURE_ERASURE=0 (جاء/جيأ→HOLLOW+FINAL), "
-        "UNLICENSED_ROOT_TO_FEATURE_PROMOTION=0 (قرأ CANDIDATE→None)"
+        "UNLICENSED_ROOT_TO_FEATURE_PROMOTION=0 (قرأ CANDIDATE→None), "
+        "DERIVED_FEATURE_RANK_ABOVE_ROOT=0 (وعد/جاء: feat_source=EVIDENCE_SUPPORTED_ROOT), "
+        "EVIDENCE_SUPPORTED_ROOT_MISLABELED_CERTIFIED=0 (feat_status=EVIDENCE_SUPPORTED)"
     )
 
 
@@ -1274,6 +1306,8 @@ def run_fi3l_tests():
     print("  ROOT_FEATURE_AVAILABLE_BUT_IGNORED = 0 [F.14]")
     print("  ORTHOGONAL_FEATURE_ERASURE = 0 [F.14]")
     print("  UNLICENSED_ROOT_TO_FEATURE_PROMOTION = 0 [F.14]")
+    print("  DERIVED_FEATURE_RANK_ABOVE_ROOT = 0 [F.14]")
+    print("  EVIDENCE_SUPPORTED_ROOT_MISLABELED_CERTIFIED = 0 [F.14]")
     print("═"*70)
     tests = [
         test_hollow_verb_pattern_detection,

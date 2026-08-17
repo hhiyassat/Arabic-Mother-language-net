@@ -710,28 +710,43 @@ def compose_vfv_from_certified_root(
         gemination=gemination,
     )
 
+    # ── DERIVED_FEATURE_RANK <= SOURCE_ROOT_RANK ──────────────────────
+    # الخاصية المشتقة لا تكتسب رتبة معرفية أعلى من دليل الجذر.
+    #   EVIDENCE_SUPPORTED ("مدعوم_بدليل") → feat_source = EVIDENCE_SUPPORTED_ROOT
+    #                                         feat_status = EVIDENCE_SUPPORTED
+    #   CERTIFIED          ("مُثبَت")        → feat_source = CERTIFIED_ROOT
+    #                                         feat_status = CERTIFIED
+    # EVIDENCE_SUPPORTED_ROOT_MISLABELED_CERTIFIED = 0
+    _CERTIFIED_VALUE = "مُثبَت"
+    if cert_level_value == _CERTIFIED_VALUE:
+        feat_source = "CERTIFIED_ROOT"
+        feat_status = "CERTIFIED"
+    else:                           # "مدعوم_بدليل" = EVIDENCE_SUPPORTED
+        feat_source = "EVIDENCE_SUPPORTED_ROOT"
+        feat_status = "EVIDENCE_SUPPORTED"
+
     provenance = {
         "radical_health": {
             "value":   radical_health.value,
-            "source":  "CERTIFIED_ROOT",
-            "status":  "CONFIRMED",
+            "source":  feat_source,
+            "status":  feat_status,
             "detail":  rh_evidence,
         },
         "hamza_feature": {
             "value":   hamza_feature.value,
-            "source":  "CERTIFIED_ROOT",
-            "status":  "CONFIRMED",
+            "source":  feat_source,
+            "status":  feat_status,
             "detail":  hf_evidence,
         },
         "gemination": {
             "value":   gemination.value,
-            "source":  "CERTIFIED_ROOT",
-            "status":  "CONFIRMED",
+            "source":  feat_source,
+            "status":  feat_status,
             "detail":  gm_evidence,
         },
         "root":           stripped_root,
         "cert_level":     cert_level_value,
-        "composition_law": "SURFACE_PATTERN_EVIDENCE + CERTIFIED_ROOT_STRUCTURE → COMPOSED",
+        "composition_law": "SURFACE_PATTERN_EVIDENCE + ROOT_EVIDENCE_STRUCTURE → COMPOSED",
     }
 
     return vfv, provenance

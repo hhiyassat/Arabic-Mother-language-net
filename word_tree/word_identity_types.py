@@ -459,13 +459,18 @@ class WordIdentityCertificate:
     evidence:               list[EvidenceRef]
     residuals:              Residuals
     # §ROOT-VFV COMPOSITION — النموذج المتعامد المُركَّب من جذر + نمط سطحي
-    # composed_verb_features: مشتق من (SURFACE_PATTERN + CERTIFIED_ROOT) معاً.
-    # None = ليس فعلاً، أو الجذر غير مُثبَت بما يكفي للاشتقاق.
+    # composed_verb_features: مشتق من (SURFACE_PATTERN + ROOT_EVIDENCE) معاً.
+    # None = ليس فعلاً، أو الجذر دون EVIDENCE_SUPPORTED.
     # UNLICENSED_ROOT_TO_FEATURE_PROMOTION = 0:
     #   لا تُشتق خصائص من جذر CANDIDATE — فقط من EVIDENCE_SUPPORTED فما فوق.
+    # DERIVED_FEATURE_RANK <= SOURCE_ROOT_RANK:
+    #   الخاصية المشتقة لا تكتسب رتبة أعلى من دليل الجذر.
+    #   EVIDENCE_SUPPORTED root → feat_source="EVIDENCE_SUPPORTED_ROOT", feat_status="EVIDENCE_SUPPORTED"
+    #   CERTIFIED root          → feat_source="CERTIFIED_ROOT",           feat_status="CERTIFIED"
     composed_verb_features: Optional["VerbFeatureVector"] = None
     # vfv_provenance: مصدر كل بُعد من أبعاد VerbFeatureVector الثلاثة.
-    # مثال: {"radical_health": {"value":"ASSIMILATED","source":"CERTIFIED_ROOT","status":"CONFIRMED"}}
+    # مثال (EVIDENCE_SUPPORTED): {"radical_health": {"value":"مثال","source":"EVIDENCE_SUPPORTED_ROOT","status":"EVIDENCE_SUPPORTED"}}
+    # مثال (CERTIFIED):          {"radical_health": {"value":"مثال","source":"CERTIFIED_ROOT","status":"CERTIFIED"}}
     vfv_provenance:         Optional[dict] = None
 
     def is_resolved(self) -> bool:
