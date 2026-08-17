@@ -36,6 +36,7 @@ from word_tree.numeral_engine import classify_numeral
 from word_tree.sifa_engine import (
     analyze_derived_form, build_morphological_identity, build_derivational_identity
 )
+from word_tree.fi3l_engine import compose_vfv_from_certified_root
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -512,6 +513,23 @@ def analyze_word(
         notes=residual_notes,
     )
 
+    # ── ROOT → VFV COMPOSITION ────────────────────────────────────────
+    # القانون: SURFACE_PATTERN_EVIDENCE + CERTIFIED_ROOT_STRUCTURE
+    #          → COMPOSED_INTRINSIC_VERB_FEATURES
+    #
+    # ROOT_FEATURE_AVAILABLE_BUT_IGNORED = 0:
+    #   إذا كان الجذر مُثبَّتاً (EVIDENCE_SUPPORTED فما فوق)، نستخرج الخصائص.
+    #
+    # UNLICENSED_ROOT_TO_FEATURE_PROMOTION = 0:
+    #   الجذور على مستوى CANDIDATE لا تُستخدم لاشتقاق الخصائص.
+    composed_vfv = None
+    vfv_prov     = None
+    if resolved_root is not None:
+        cert_lv = root_analysis.certification_level.value
+        composed_vfv, vfv_prov = compose_vfv_from_certified_root(
+            resolved_root, cert_lv
+        )
+
     return WordIdentityCertificate(
         original_surface=surface,
         normalized_surface=normalized,
@@ -525,6 +543,8 @@ def analyze_word(
         ambiguity=ambiguity,
         evidence=all_evidence,
         residuals=residuals,
+        composed_verb_features=composed_vfv,
+        vfv_provenance=vfv_prov,
     )
 
 

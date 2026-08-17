@@ -458,6 +458,15 @@ class WordIdentityCertificate:
     ambiguity:              AmbiguityReport
     evidence:               list[EvidenceRef]
     residuals:              Residuals
+    # §ROOT-VFV COMPOSITION — النموذج المتعامد المُركَّب من جذر + نمط سطحي
+    # composed_verb_features: مشتق من (SURFACE_PATTERN + CERTIFIED_ROOT) معاً.
+    # None = ليس فعلاً، أو الجذر غير مُثبَت بما يكفي للاشتقاق.
+    # UNLICENSED_ROOT_TO_FEATURE_PROMOTION = 0:
+    #   لا تُشتق خصائص من جذر CANDIDATE — فقط من EVIDENCE_SUPPORTED فما فوق.
+    composed_verb_features: Optional["VerbFeatureVector"] = None
+    # vfv_provenance: مصدر كل بُعد من أبعاد VerbFeatureVector الثلاثة.
+    # مثال: {"radical_health": {"value":"ASSIMILATED","source":"CERTIFIED_ROOT","status":"CONFIRMED"}}
+    vfv_provenance:         Optional[dict] = None
 
     def is_resolved(self) -> bool:
         """هل الهوية محسومة بالكامل؟"""

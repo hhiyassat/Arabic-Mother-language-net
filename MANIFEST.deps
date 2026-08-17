@@ -1,0 +1,49 @@
+# Word Identity Runtime Dependency Manifest
+# Generated: 2026-08-17
+# Commit: see git log
+#
+# DEPENDENCY_MODEL = DECLARED_VERSIONED_ARTIFACTS
+# UNVERSIONED_RUNTIME_DEPENDENCIES = 0 (when all items below are satisfied)
+
+[data.maqayis_db]
+# مقاييس الكلمات الجذرية — قاعدة بيانات SQLite
+# يُستخدَم بواسطة: word_tree/engines/noun_root_corrector.py
+# مُستخدَم من: word_identity_analyzer.py → candidates_from_word()
+classification = VERSIONED_DATA_ARTIFACT
+artifact       = maqayis.db
+sha256         = 35c7062dd5edf40304670d18e1c6527dad04c7f13d2b2212b95519e19997897f
+size_bytes     = 9506816
+env_var        = MAQAYIS_DB_PATH
+default_path   = /root/maqayis_v2/maqayis.db
+build_command  = # مُولَّد من مصادر مقاييس ابن فارس؛ راجع maqayis_v2/build_db.py
+
+[data.audited_roots_csv]
+# جذور مُدقَّقة يدوياً — ملف CSV
+# يُستخدَم بواسطة: word_identity_analyzer.py → _load_csv_index()
+classification = VERSIONED_DATA_ARTIFACT
+artifact       = audited_roots.csv
+sha256         = cb467f693da2bb6cf3474791f33c7caddcd2944dc607ed7b11fc8a291e6d8465
+env_var        = MAQAYIS_CSV_PATH
+default_path   = see MAQAYIS_CSV_PATH environment variable
+
+[pip.pandas]
+# معالجة بيانات CSV
+classification = VERSIONED_EXTERNAL_DEPENDENCY
+package        = pandas
+version        = >=3.0.2
+install        = pip install pandas>=3.0.2
+
+[frozen.wave11_ancestry]
+# LAYER 0–4 — مُجمَّد، لا تحتاجه وحدات Word Identity مباشرةً
+classification = UNNEEDED_BY_WORD_IDENTITY
+# يتطلب: maqayis_v2 (Python package، غير مُدرج هنا)
+# يتطلب: word_tree/engines/derivation_engine, morphological_engine, slots_engine
+# يُستورَد كسولاً عبر word_tree._load_frozen_layers()
+lazy_import    = True
+needed_by      = [Wave11Ancestry callers only]
+
+[frozen.maqayis_v2_package]
+# حزمة Python لـ Wave11Ancestry — ليست dependency لـ Word Identity
+classification = UNNEEDED_BY_WORD_IDENTITY
+# Word Identity يستخدم maqayis.db مباشرةً عبر sqlite3، ليس مقايس_v2 API
+needed_by      = [wave11_ancestry.py only]

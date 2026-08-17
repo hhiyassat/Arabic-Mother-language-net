@@ -1157,6 +1157,110 @@ def test_false_residual_causality():
     )
 
 
+def test_root_vfv_composition():
+    """
+    F.14 — تركيب خصائص الفعل من الجذر المُثبَّت
+    ROOT → VFV COMPOSITION GATE
+
+    ثلاثة أعلام (كل منها بضابط غير فارغ):
+
+    ROOT_FEATURE_AVAILABLE_BUT_IGNORED = 0:
+      الضابط: وعد → radical_health=ASSIMILATED (الجذر متاح ومُثبَّت، يُستخدم).
+      لو كان المحرك يتجاهل الجذر، كانت قيمة composed_verb_features=None أو SOUND.
+
+    ORTHOGONAL_FEATURE_ERASURE = 0:
+      الضابط: جاء/جيأ → radical_health=HOLLOW + hamza_feature=FINAL معاً.
+      لو كانت إحداهما تُلغي الأخرى، لكانت إحداهما NONE.
+
+    UNLICENSED_ROOT_TO_FEATURE_PROMOTION = 0:
+      الضابط: قرأ (cert=CANDIDATE/NOT_FOUND) → composed_verb_features=None.
+      لو كان المحرك يُرقِّي من CANDIDATE، كانت القيمة غير None.
+    """
+    from word_tree.fi3l_engine import compose_vfv_from_certified_root
+
+    # ── ضابط 1: ROOT_FEATURE_AVAILABLE_BUT_IGNORED = 0 ─────────────
+    # وعد → جذر "وعد" (EVIDENCE_SUPPORTED) → radical_health = ASSIMILATED
+    cert_waad = analyze_word("وعد")
+    cvfv_waad = cert_waad.composed_verb_features
+    assert cvfv_waad is not None, (
+        "F.14 FAIL: ROOT_FEATURE_AVAILABLE_BUT_IGNORED — وعد لديه جذر مُثبَّت"
+        " لكن composed_verb_features=None (الخاصية مُتجاهَلة)"
+    )
+    assert cvfv_waad.radical_health == RadicalHealth.ASSIMILATED, (
+        "F.14 FAIL: ROOT_FEATURE_AVAILABLE_BUT_IGNORED — وعد: "
+        "radical_health=%s (exp ASSIMILATED)" % cvfv_waad.radical_health
+    )
+    # سأل → جذر "سأل" (EVIDENCE_SUPPORTED) → hamza_feature = MEDIAL
+    cert_saal = analyze_word("سأل")
+    cvfv_saal = cert_saal.composed_verb_features
+    assert cvfv_saal is not None, "F.14 FAIL: سأل composed_verb_features=None"
+    assert cvfv_saal.hamza_feature == HamzaFeature.MEDIAL, (
+        "F.14 FAIL: سأل hamza_feature=%s (exp MEDIAL)" % cvfv_saal.hamza_feature
+    )
+    # أخذ → جذر "أخذ" (EVIDENCE_SUPPORTED) → hamza_feature = INITIAL
+    cert_akhd = analyze_word("أخذ")
+    cvfv_akhd = cert_akhd.composed_verb_features
+    assert cvfv_akhd is not None, "F.14 FAIL: أخذ composed_verb_features=None"
+    assert cvfv_akhd.hamza_feature == HamzaFeature.INITIAL, (
+        "F.14 FAIL: أخذ hamza_feature=%s (exp INITIAL)" % cvfv_akhd.hamza_feature
+    )
+
+    # ── ضابط 2: ORTHOGONAL_FEATURE_ERASURE = 0 ─────────────────────
+    # جاء → جذر "جيأ" (EVIDENCE_SUPPORTED): c1=ي → HOLLOW, c2=أ/ء → FINAL
+    cert_jaa = analyze_word("جاء")
+    cvfv_jaa = cert_jaa.composed_verb_features
+    assert cvfv_jaa is not None, "F.14 FAIL: جاء composed_verb_features=None"
+    assert cvfv_jaa.radical_health == RadicalHealth.HOLLOW, (
+        "F.14 FAIL: ORTHOGONAL_FEATURE_ERASURE — جاء/جيأ: "
+        "radical_health=%s (exp HOLLOW)" % cvfv_jaa.radical_health
+    )
+    assert cvfv_jaa.hamza_feature == HamzaFeature.FINAL, (
+        "F.14 FAIL: ORTHOGONAL_FEATURE_ERASURE — جاء/جيأ: "
+        "hamza_feature=%s (exp FINAL)" % cvfv_jaa.hamza_feature
+    )
+    assert cvfv_jaa.gemination == GeminationFeature.NONE, (
+        "F.14 FAIL: جاء gemination=%s (exp NONE)" % cvfv_jaa.gemination
+    )
+    # شاء — نفس الجذر (أو جيأ)
+    cert_shaa = analyze_word("شاء")
+    cvfv_shaa = cert_shaa.composed_verb_features
+    assert cvfv_shaa is not None, "F.14 FAIL: شاء composed_verb_features=None"
+    assert cvfv_shaa.radical_health == RadicalHealth.HOLLOW, (
+        "F.14 FAIL: شاء radical_health=%s (exp HOLLOW)" % cvfv_shaa.radical_health
+    )
+    assert cvfv_shaa.hamza_feature == HamzaFeature.FINAL, (
+        "F.14 FAIL: شاء hamza_feature=%s (exp FINAL)" % cvfv_shaa.hamza_feature
+    )
+
+    # ── ضابط 3: UNLICENSED_ROOT_TO_FEATURE_PROMOTION = 0 ────────────
+    # قرأ → cert=CANDIDATE (NOT_FOUND في مقاييس) → composed_verb_features يجب أن يكون None
+    cert_qraa = analyze_word("قرأ")
+    root_cert_qraa = cert_qraa.root_analysis.certification_level.value
+    # تحقق أن الجذر فعلاً على مستوى CANDIDATE
+    assert root_cert_qraa == "مرشح", (
+        "F.14 precondition: قرأ يجب أن يكون CANDIDATE، وجدنا: %s" % root_cert_qraa
+    )
+    cvfv_qraa = cert_qraa.composed_verb_features
+    assert cvfv_qraa is None, (
+        "F.14 FAIL: UNLICENSED_ROOT_TO_FEATURE_PROMOTION — قرأ (CANDIDATE): "
+        "composed_verb_features=%s (exp None)" % cvfv_qraa
+    )
+
+    # تحقق إضافي من provenance (الصواب)
+    prov_waad = cert_waad.vfv_provenance
+    assert prov_waad is not None, "F.14 FAIL: وعد vfv_provenance=None"
+    assert prov_waad["radical_health"]["source"] == "CERTIFIED_ROOT", (
+        "F.14 FAIL: وعد radical_health source=%s (exp CERTIFIED_ROOT)" % prov_waad["radical_health"]["source"]
+    )
+
+    print(
+        "  ✓ test_root_vfv_composition — "
+        "ROOT_FEATURE_AVAILABLE_BUT_IGNORED=0 (وعد→ASSIMILATED, سأل→MEDIAL, أخذ→INITIAL), "
+        "ORTHOGONAL_FEATURE_ERASURE=0 (جاء/جيأ→HOLLOW+FINAL), "
+        "UNLICENSED_ROOT_TO_FEATURE_PROMOTION=0 (قرأ CANDIDATE→None)"
+    )
+
+
 def run_fi3l_tests():
     """شغِّل اختبارات صرف الفعل الجوهري (F)"""
     print("\n" + "═"*70)
@@ -1167,6 +1271,9 @@ def run_fi3l_tests():
     print("  VOCALIZATION_USED_AS_INTRINSIC_EVIDENCE = YES [F.11]")
     print("  ORTHOGONAL_VERB_FEATURE_LOSS = 0 [F.12]")
     print("  FALSE_RESIDUAL_CAUSALITY = 0 [F.13]")
+    print("  ROOT_FEATURE_AVAILABLE_BUT_IGNORED = 0 [F.14]")
+    print("  ORTHOGONAL_FEATURE_ERASURE = 0 [F.14]")
+    print("  UNLICENSED_ROOT_TO_FEATURE_PROMOTION = 0 [F.14]")
     print("═"*70)
     tests = [
         test_hollow_verb_pattern_detection,
@@ -1182,6 +1289,7 @@ def run_fi3l_tests():
         test_vocalization_strengthens_certification,
         test_verb_feature_orthogonality,
         test_false_residual_causality,
+        test_root_vfv_composition,
     ]
     passed = 0
     for t in tests:

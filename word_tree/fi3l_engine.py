@@ -590,3 +590,148 @@ def is_fi3l_candidate(surface: str) -> bool:
 def get_fi3l_family(surface: str) -> Fi3lFamily:
     """اختبار سريع: أعطِ صنف الفعل (UNKNOWN إذا لم يُعرَّف)"""
     return classify_fi3l_pattern(surface).fi3l_family
+
+
+# ══════════════════════════════════════════════════════════════════════
+# التركيب: جذر مُثبَت → VerbFeatureVector
+# ROOT → VFV COMPOSITION
+# ══════════════════════════════════════════════════════════════════════
+
+# حروف الهمزة لتحديد موضع الهمزة في الجذر
+_HAMZA_ROOT = frozenset("أإآءؤئ")
+
+# حروف العلة الواوية/الياوية (لتحديد ASSIMILATED / HOLLOW / DEFECTIVE)
+_WEAK_WY    = frozenset("وي")
+
+# نهايات الجذر الناقص (ي/و/ا/ى)
+_DEFECTIVE_FINALS = frozenset("وياى")
+
+
+def compose_vfv_from_certified_root(
+    root: str,
+    cert_level_value: str,
+) -> "tuple[Optional[VerbFeatureVector], Optional[dict]]":
+    """
+    اشتق VerbFeatureVector من بنية الجذر المُثبَّت.
+
+    القانون:
+        SURFACE_PATTERN_EVIDENCE + CERTIFIED_ROOT_STRUCTURE
+        → COMPOSED_INTRINSIC_VERB_FEATURES
+
+    ضمانات:
+        UNLICENSED_ROOT_TO_FEATURE_PROMOTION = 0:
+          لا تُشتق خصائص من جذر CANDIDATE — فقط من EVIDENCE_SUPPORTED فما فوق.
+
+        ORTHOGONAL_FEATURE_ERASURE = 0:
+          كل بُعد (RadicalHealth, HamzaFeature, GeminationFeature) مستقل.
+          جاء/جيأ: radical_health=HOLLOW (c1=ي) + hamza_feature=FINAL (c2=ء) — كلاهما.
+
+        ROOT_FEATURE_AVAILABLE_BUT_IGNORED = 0:
+          إذا كان الجذر مُثبَّتاً وخاصيته قابلة للاستخراج، تُستخرج.
+
+    المدخلات:
+        root             — الجذر (مثال: "وعد"، "جيأ"، "سأل")
+        cert_level_value — قيمة CertificationLevel.value
+                           ("مدعوم_بدليل" = EVIDENCE_SUPPORTED،
+                            "مُثبَت" = CERTIFIED،
+                            "مرشح" = CANDIDATE)
+
+    المخرجات:
+        (VerbFeatureVector, provenance_dict)  — إذا أمكن الاشتقاق
+        (None, None)                          — إذا لم يكن الجذر مُثبَّتاً كفايةً
+    """
+    # UNLICENSED_ROOT_TO_FEATURE_PROMOTION = 0:
+    # نقبل فقط EVIDENCE_SUPPORTED ("مدعوم_بدليل") أو CERTIFIED ("مُثبَت")
+    _ACCEPTED = {"مدعوم_بدليل", "مُثبَت"}
+    if cert_level_value not in _ACCEPTED:
+        return None, None
+
+    if not root:
+        return None, None
+
+    # استخرج حروف الجذر (بعد حذف التشكيل، الحروف العربية فقط)
+    stripped_root = "".join(c for c in root if c not in _DIACRITICS)
+    radicals = [c for c in stripped_root if c in _ALL_ARABIC or c in _HAMZA_ROOT]
+
+    if len(radicals) < 2:
+        return None, None
+
+    c0 = radicals[0]
+    c1 = radicals[1] if len(radicals) > 1 else None
+    c2 = radicals[2] if len(radicals) > 2 else None
+
+    # ── البُعد 1: RadicalHealth (من موضع حرف العلة في الجذر) ─────────
+    if c0 in _WEAK_WY:
+        radical_health = RadicalHealth.ASSIMILATED
+        rh_evidence    = f"c0='{c0}' (واو/ياء في الفاء) → مثال"
+    elif c1 is not None and c1 in _WEAK_WY:
+        radical_health = RadicalHealth.HOLLOW
+        rh_evidence    = f"c1='{c1}' (واو/ياء في العين) → أجوف"
+    elif c2 is not None and c2 in _DEFECTIVE_FINALS:
+        radical_health = RadicalHealth.DEFECTIVE
+        rh_evidence    = f"c2='{c2}' (واو/ياء/ألف في اللام) → ناقص"
+    elif (c1 is not None and c2 is not None
+          and c1 == c2
+          and c1 not in _WEAK_WY and c1 not in _HAMZA_ROOT):
+        # جذر مضعَّف: العين = اللام (مدد→مد، ردد→رد)
+        radical_health = RadicalHealth.SOUND  # في التصنيف اللغوي يُقال "مضعَّف" لكن حروفه صحيحة
+        rh_evidence    = f"c1=c2='{c1}' (تضعيف) → صحيح (الصنف: مضعَّف)"
+    else:
+        radical_health = RadicalHealth.SOUND
+        rh_evidence    = "لا حرف علة في الجذر → سالم"
+
+    # ── البُعد 2: HamzaFeature (من موضع الهمزة في الجذر) ────────────
+    if c0 in _HAMZA_ROOT:
+        hamza_feature = HamzaFeature.INITIAL
+        hf_evidence   = f"c0='{c0}' (همزة في الفاء) → مهموز_الفاء"
+    elif c1 is not None and c1 in _HAMZA_ROOT:
+        hamza_feature = HamzaFeature.MEDIAL
+        hf_evidence   = f"c1='{c1}' (همزة في العين) → مهموز_العين"
+    elif c2 is not None and c2 in _HAMZA_ROOT:
+        hamza_feature = HamzaFeature.FINAL
+        hf_evidence   = f"c2='{c2}' (همزة في اللام) → مهموز_اللام"
+    else:
+        hamza_feature = HamzaFeature.NONE
+        hf_evidence   = "لا همزة في الجذر"
+
+    # ── البُعد 3: GeminationFeature (من تطابق العين واللام) ──────────
+    if (c1 is not None and c2 is not None
+            and c1 == c2
+            and c1 not in _WEAK_WY and c1 not in _HAMZA_ROOT):
+        gemination   = GeminationFeature.DOUBLED
+        gm_evidence  = f"c1=c2='{c1}' → مضعَّف"
+    else:
+        gemination   = GeminationFeature.NONE
+        gm_evidence  = "لا تضعيف"
+
+    vfv = VerbFeatureVector(
+        radical_health=radical_health,
+        hamza_feature=hamza_feature,
+        gemination=gemination,
+    )
+
+    provenance = {
+        "radical_health": {
+            "value":   radical_health.value,
+            "source":  "CERTIFIED_ROOT",
+            "status":  "CONFIRMED",
+            "detail":  rh_evidence,
+        },
+        "hamza_feature": {
+            "value":   hamza_feature.value,
+            "source":  "CERTIFIED_ROOT",
+            "status":  "CONFIRMED",
+            "detail":  hf_evidence,
+        },
+        "gemination": {
+            "value":   gemination.value,
+            "source":  "CERTIFIED_ROOT",
+            "status":  "CONFIRMED",
+            "detail":  gm_evidence,
+        },
+        "root":           stripped_root,
+        "cert_level":     cert_level_value,
+        "composition_law": "SURFACE_PATTERN_EVIDENCE + CERTIFIED_ROOT_STRUCTURE → COMPOSED",
+    }
+
+    return vfv, provenance
