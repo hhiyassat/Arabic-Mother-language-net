@@ -54,6 +54,11 @@ class Fi3lFamily(str, Enum):
     الغموض الجوهري محفوظ:
       MISSING_INTRINSIC_VERB_PATTERN ≠ NEEDS_CONTEXT
       النمط CāC (قام، باع) مشترك مع ISM (باب، دار) → AMBIGUOUS صادق
+
+    ملاحظة التعامد (ORTHOGONALITY_NOTE):
+      Fi3lFamily هو وسم مختصر للخاصية الأبرز — لا يُلغي الخصائص الأخرى.
+      استخدم VerbFeatureVector للنموذج الكامل المتعامد.
+      مثال: جاء → Fi3lFamily.HAMZATED + VerbFeatureVector(HOLLOW, FINAL, NONE)
     """
     STRONG    = "سالم"       # فعل سالم: جميع حروف الجذر صحيحة (كَتَبَ، قَتَلَ)
     HOLLOW    = "أجوف"       # فعل أجوف: العين و أو ي (قَامَ، بَاعَ، قَالَ، صَامَ)
@@ -62,6 +67,71 @@ class Fi3lFamily(str, Enum):
     DOUBLED   = "مضعَّف"     # فعل مضعَّف: العين = اللام (مَدَّ، رَدَّ)
     MIXED     = "مختلط"      # مزيج: مهموز + أجوف (جاء = أجوف مهموز اللام)
     UNKNOWN   = "غير_محدد"   # لم يُعرَّف النمط بدليل جوهري
+
+
+# ══════════════════════════════════════════════════════════════════════
+# متجه الخصائص الفعلية المتعامدة (VERB_FEATURE_VECTOR)  — §A
+# ══════════════════════════════════════════════════════════════════════
+
+class RadicalHealth(str, Enum):
+    """
+    صحة حروف الجذر الثلاثي — بُعد مستقل.
+
+    ORTHOGONAL_TO_HAMZA_AND_GEMINATION = True:
+      جاء = HOLLOW (عينه حرف مد) + همزة في اللام → لا تُلغي إحداهما الأخرى.
+    """
+    SOUND      = "سالم"       # جميع حروف الجذر صحيحة: كَتَبَ، قَتَلَ، سَأَلَ
+    ASSIMILATED = "مثال"      # الفاء حرف علة: وَعَدَ، يَسَرَ
+    HOLLOW     = "أجوف"       # العين حرف علة: قَامَ، بَاعَ، جَاءَ (وسطه مد)
+    DEFECTIVE  = "ناقص"       # اللام حرف علة: رَمَى، دَعَا
+    LAFIF      = "لفيف"       # حرفا علة: وَقَى (مفروق)، طَوَى (مقرون)
+
+
+class HamzaFeature(str, Enum):
+    """
+    موقع الهمزة في الجذر — بُعد مستقل عن RadicalHealth.
+
+    NONE  = لا همزة في الجذر
+    INITIAL / MEDIAL / FINAL = الهمزة في الفاء / العين / اللام
+    """
+    NONE    = "لا_همزة"
+    INITIAL = "مهموز_الفاء"   # أَخَذَ، أَكَلَ
+    MEDIAL  = "مهموز_العين"   # سَأَلَ، رَأَى
+    FINAL   = "مهموز_اللام"   # قَرَأَ، جَاءَ، شَاءَ
+
+
+class GeminationFeature(str, Enum):
+    """
+    تضعيف الجذر (العين = اللام) — بُعد مستقل.
+    """
+    NONE    = "غير_مضعَّف"
+    DOUBLED = "مضعَّف"        # مَدَّ، رَدَّ، حَلَّ
+
+
+@dataclass
+class VerbFeatureVector:
+    """
+    النموذج الكامل المتعامد لخصائص الجذر الفعلي.
+
+    ORTHOGONAL_VERB_FEATURE_LOSS = 0:
+      لا خاصية تُلغي أخرى. كل بُعد مستقل.
+
+    أمثلة:
+      كَتَبَ → VFV(SOUND,   NONE,    NONE)
+      قَامَ  → VFV(HOLLOW,  NONE,    NONE)
+      جَاءَ  → VFV(HOLLOW,  FINAL,   NONE)   ← أجوف مهموز اللام
+      شَاءَ  → VFV(HOLLOW,  FINAL,   NONE)   ← نفس جاء
+      سَأَلَ  → VFV(SOUND,   MEDIAL,  NONE)
+      أَخَذَ  → VFV(SOUND,   INITIAL, NONE)
+      قَرَأَ  → VFV(SOUND,   FINAL,   NONE)
+      مَدَّ  → VFV(SOUND,   NONE,    DOUBLED)
+      رَدَّ  → VFV(SOUND,   NONE,    DOUBLED)
+      وَعَدَ → VFV(ASSIMILATED, NONE, NONE)
+      رَمَى  → VFV(DEFECTIVE, NONE,  NONE)
+    """
+    radical_health: RadicalHealth
+    hamza_feature:  HamzaFeature
+    gemination:     GeminationFeature
 
 
 # ══════════════════════════════════════════════════════════════════════

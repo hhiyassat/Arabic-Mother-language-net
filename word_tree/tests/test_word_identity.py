@@ -17,7 +17,11 @@ import os
 import ast
 import hashlib
 import json
-sys.path.insert(0, '/root')
+# §C — WRONG_IMPORT_PATH = 0: مسار الاستيراد نسبي للملف، لا مطلق
+# هذا يضمن أن اختبارات fresh-checkout تستورد من المسار الصحيح
+_REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+if _REPO_ROOT not in sys.path:
+    sys.path.insert(0, _REPO_ROOT)
 
 from word_tree.word_identity_analyzer import analyze_word, print_certificate
 from word_tree.word_identity_types import (
@@ -25,6 +29,7 @@ from word_tree.word_identity_types import (
     NumeralType, NumeralIdentity,
     CertificationLevel, EvidenceSource,
     Fi3lFamily,
+    RadicalHealth, HamzaFeature, GeminationFeature, VerbFeatureVector,
 )
 from word_tree.fi3l_engine import classify_fi3l_pattern
 
@@ -1032,6 +1037,126 @@ def test_vocalization_strengthens_certification():
     )
 
 
+def test_verb_feature_orthogonality():
+    """
+    F.12 — §A: ORTHOGONAL_VERB_FEATURE_LOSS = 0
+    Fi3lFamily.HAMZATED لـ جاء/شاء لا يُلغي خاصية HOLLOW.
+    VerbFeatureVector يجب أن يحفظ كلا البُعدين بشكل مستقل.
+
+    جاء = Fi3lFamily.HAMZATED + VFV(radical_health=HOLLOW, hamza_feature=FINAL, gemination=NONE)
+    مَدَّ = Fi3lFamily.DOUBLED + VFV(radical_health=SOUND, hamza_feature=NONE, gemination=DOUBLED)
+    قام = Fi3lFamily.HOLLOW + VFV(radical_health=HOLLOW, hamza_feature=NONE, gemination=NONE)
+    رمى = Fi3lFamily.DEFECTIVE + VFV(radical_health=DEFECTIVE, hamza_feature=NONE, gemination=NONE)
+    """
+    # §A.1: جاء وشاء — HOLLOW + FINAL مزدوج
+    for word in ("جاء", "شاء"):
+        r = classify_fi3l_pattern(word)
+        assert r.is_fi3l_candidate, "F.12 FAIL: %s is_fi3l_candidate=False" % word
+        assert r.fi3l_family == Fi3lFamily.HAMZATED, (
+            "F.12 FAIL: %s fi3l_family=%s (exp HAMZATED)" % (word, r.fi3l_family)
+        )
+        assert r.verb_features is not None, (
+            "F.12 FAIL: ORTHOGONAL_VERB_FEATURE_LOSS — %s verb_features=None" % word
+        )
+        assert r.verb_features.radical_health == RadicalHealth.HOLLOW, (
+            "F.12 FAIL: ORTHOGONAL_VERB_FEATURE_LOSS — %s radical_health=%s (exp HOLLOW)"
+            % (word, r.verb_features.radical_health)
+        )
+        assert r.verb_features.hamza_feature == HamzaFeature.FINAL, (
+            "F.12 FAIL: %s hamza_feature=%s (exp FINAL)" % (word, r.verb_features.hamza_feature)
+        )
+        assert r.verb_features.gemination == GeminationFeature.NONE, (
+            "F.12 FAIL: %s gemination=%s (exp NONE)" % (word, r.verb_features.gemination)
+        )
+
+    # §A.2: مَدَّ — SOUND + DOUBLED
+    r_madd = classify_fi3l_pattern("مَدَّ")
+    assert r_madd.verb_features is not None, "F.12 FAIL: مَدَّ verb_features=None"
+    assert r_madd.verb_features.radical_health == RadicalHealth.SOUND, (
+        "F.12 FAIL: مَدَّ radical_health=%s (exp SOUND)" % r_madd.verb_features.radical_health
+    )
+    assert r_madd.verb_features.gemination == GeminationFeature.DOUBLED, (
+        "F.12 FAIL: مَدَّ gemination=%s (exp DOUBLED)" % r_madd.verb_features.gemination
+    )
+    assert r_madd.verb_features.hamza_feature == HamzaFeature.NONE, (
+        "F.12 FAIL: مَدَّ hamza_feature=%s (exp NONE)" % r_madd.verb_features.hamza_feature
+    )
+
+    # §A.3: قام (unvocalized) — HOLLOW + NONE + NONE
+    r_qam = classify_fi3l_pattern("قام")
+    assert r_qam.verb_features is not None, "F.12 FAIL: قام verb_features=None"
+    assert r_qam.verb_features.radical_health == RadicalHealth.HOLLOW, (
+        "F.12 FAIL: قام radical_health=%s (exp HOLLOW)" % r_qam.verb_features.radical_health
+    )
+    assert r_qam.verb_features.gemination == GeminationFeature.NONE, (
+        "F.12 FAIL: قام gemination=%s (exp NONE)" % r_qam.verb_features.gemination
+    )
+    assert r_qam.verb_features.hamza_feature == HamzaFeature.NONE, (
+        "F.12 FAIL: قام hamza_feature=%s (exp NONE)" % r_qam.verb_features.hamza_feature
+    )
+
+    # §A.4: رمى (unvocalized) — DEFECTIVE
+    r_rmy = classify_fi3l_pattern("رمى")
+    assert r_rmy.verb_features is not None, "F.12 FAIL: رمى verb_features=None"
+    assert r_rmy.verb_features.radical_health == RadicalHealth.DEFECTIVE, (
+        "F.12 FAIL: رمى radical_health=%s (exp DEFECTIVE)" % r_rmy.verb_features.radical_health
+    )
+
+    print(
+        "  ✓ test_verb_feature_orthogonality — ORTHOGONAL_VERB_FEATURE_LOSS=0: "
+        "جاء HOLLOW+FINAL, مَدَّ SOUND+DOUBLED, قام HOLLOW+NONE, رمى DEFECTIVE"
+    )
+
+
+def test_false_residual_causality():
+    """
+    F.13 — §B: FALSE_RESIDUAL_CAUSALITY = 0
+    first_missing_evidence يُشير إلى السبب الحقيقي لإخفاق الاستدلال.
+
+    القاعدة الأساسية:
+      كتب (سالم) لا يُفيد أن "الشدة" مفقودة — الشدة ليست ذات صلة بالثلاثي السالم.
+      مد/رد (ثنائي السطح) يُفيد أن "الشدة" مفقودة — هذا صحيح للمضعَّف بدون تشكيل.
+
+    FALSE_RESIDUAL_CAUSALITY = 0:
+      لا يُوصَف سبب مزيَّف لإخفاق الاستدلال.
+    """
+    # §B.1: كتب (سالم ثلاثي) — MUST NOT mention shadda
+    r_ktb = classify_fi3l_pattern("كتب")
+    assert not r_ktb.is_fi3l_candidate, "F.13: كتب يجب أن يكون غير مرشح"
+    fme_ktb = r_ktb.first_missing_evidence
+    assert fme_ktb, "F.13 FAIL: كتب first_missing_evidence فارغ"
+    assert "شدة" not in fme_ktb, (
+        "F.13 FAIL: FALSE_RESIDUAL_CAUSALITY — كتب (سالم) يُشير إلى الشدة: %r" % fme_ktb
+    )
+    assert "تشكيل" in fme_ktb or "نمط" in fme_ktb, (
+        "F.13 FAIL: كتب first_missing_evidence لا يذكر التشكيل: %r" % fme_ktb
+    )
+
+    # §B.2: مد (ثنائي السطح) — shadda IS the relevant missing element
+    r_mad = classify_fi3l_pattern("مد")
+    assert not r_mad.is_fi3l_candidate, "F.13: مد (بلا شدة) يجب أن يكون غير مرشح"
+    fme_mad = r_mad.first_missing_evidence
+    assert "شدة" in fme_mad, (
+        "F.13 FAIL: مد (مضعَّف) لا يُشير إلى الشدة: %r" % fme_mad
+    )
+
+    # §B.3: وعد (مثال) — must mention علة or مثال
+    r_waad = classify_fi3l_pattern("وعد")
+    assert not r_waad.is_fi3l_candidate, "F.13: وعد يجب أن يكون غير مرشح"
+    fme_waad = r_waad.first_missing_evidence
+    assert "شدة" not in fme_waad, (
+        "F.13 FAIL: FALSE_RESIDUAL_CAUSALITY — وعد يُشير إلى الشدة: %r" % fme_waad
+    )
+    assert "علة" in fme_waad or "مثال" in fme_waad, (
+        "F.13 FAIL: وعد (مثال) لا يذكر علة/مثال: %r" % fme_waad
+    )
+
+    print(
+        "  ✓ test_false_residual_causality — FALSE_RESIDUAL_CAUSALITY=0: "
+        "كتب≠شدة, مد=شدة, وعد=علة/مثال"
+    )
+
+
 def run_fi3l_tests():
     """شغِّل اختبارات صرف الفعل الجوهري (F)"""
     print("\n" + "═"*70)
@@ -1040,6 +1165,8 @@ def run_fi3l_tests():
     print("  PATTERN_CLASS_AMBIGUITY_PROMOTED_TO_TOKEN_AMBIGUITY = 0 [F.9]")
     print("  GENERATED_VERB_USED_AS_SURFACE_PROOF = 0 [F.10]")
     print("  VOCALIZATION_USED_AS_INTRINSIC_EVIDENCE = YES [F.11]")
+    print("  ORTHOGONAL_VERB_FEATURE_LOSS = 0 [F.12]")
+    print("  FALSE_RESIDUAL_CAUSALITY = 0 [F.13]")
     print("═"*70)
     tests = [
         test_hollow_verb_pattern_detection,
@@ -1053,6 +1180,8 @@ def run_fi3l_tests():
         test_pattern_class_not_promoted_to_token_ambiguity,
         test_generated_verb_not_surface_proof,
         test_vocalization_strengthens_certification,
+        test_verb_feature_orthogonality,
+        test_false_residual_causality,
     ]
     passed = 0
     for t in tests:

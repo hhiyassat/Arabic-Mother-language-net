@@ -42,11 +42,18 @@ from word_tree.sifa_engine import (
 # المسارات الافتراضية
 # ══════════════════════════════════════════════════════════════════════
 
-_DEFAULT_DB_PATH  = "/root/maqayis_v2/maqayis.db"
-_DEFAULT_CSV_PATH = (
-    "/root/.claude/uploads/"
-    "0d4fec3c-f650-561d-941a-a2d13065c603/"
-    "4fd7ad7b-audited_roots.csv"
+# §C — مسارات البيانات مرنة عبر متغيرات البيئة
+# في fresh-checkout: export MAQAYIS_DB_PATH=/root/maqayis_v2/maqayis.db
+#                    export MAQAYIS_CSV_PATH=/root/.claude/uploads/.../audited_roots.csv
+_DEFAULT_DB_PATH  = os.environ.get(
+    'MAQAYIS_DB_PATH',
+    '/root/maqayis_v2/maqayis.db',
+)
+_DEFAULT_CSV_PATH = os.environ.get(
+    'MAQAYIS_CSV_PATH',
+    '/root/.claude/uploads/'
+    '0d4fec3c-f650-561d-941a-a2d13065c603/'
+    '4fd7ad7b-audited_roots.csv',
 )
 
 # مُبادِئ الأحرف الناقصة في مقاييس (MISSING_VOLUME)

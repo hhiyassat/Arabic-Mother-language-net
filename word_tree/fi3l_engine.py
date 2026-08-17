@@ -23,7 +23,8 @@ from typing import Optional
 import re
 
 from word_tree.word_identity_types import (
-    Fi3lFamily, EvidenceRef, EvidenceSource
+    Fi3lFamily, EvidenceRef, EvidenceSource,
+    RadicalHealth, HamzaFeature, GeminationFeature, VerbFeatureVector,
 )
 
 
@@ -111,6 +112,10 @@ class Fi3lPatternAnalysis:
     not_owned:         list[str] = field(default_factory=list)
     # أعلام القراءة السريعة
     has_diacritics_used: bool = False    # True = التشخيص اعتمد على التشكيل
+    # §A: النموذج المتعامد الكامل — لا خاصية تُلغي أخرى
+    verb_features:     Optional[VerbFeatureVector] = None
+    # §B: أول دليل مفقود أوقف الاستدلال (للحالات التي لا نمط فيها)
+    first_missing_evidence: str = ""
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -125,7 +130,11 @@ def _has_diacritics(text: str) -> bool:
     return any(c in _DIACRITICS for c in text)
 
 
-def _no_pattern(evidence: list, not_owned: list) -> Fi3lPatternAnalysis:
+def _no_pattern(
+    evidence: list,
+    not_owned: list,
+    first_missing_evidence: str = "",
+) -> Fi3lPatternAnalysis:
     """لا نمط فعلي مكتشف — ليس من مهمة هذا المحرك"""
     return Fi3lPatternAnalysis(
         fi3l_family=Fi3lFamily.UNKNOWN,
@@ -135,7 +144,59 @@ def _no_pattern(evidence: list, not_owned: list) -> Fi3lPatternAnalysis:
         pattern_label="",
         evidence=evidence,
         not_owned=not_owned,
+        first_missing_evidence=first_missing_evidence,
     )
+
+
+def _infer_first_missing_evidence(stripped: str) -> str:
+    """
+    §B: استنتج أول دليل مفقود حقيقي — بحسب البنية السطحية.
+
+    FALSE_RESIDUAL_CAUSALITY = 0:
+      الكلمة ذات الحروف السالمة (كتب) لا تُشير إلى الشدة.
+      الشدة مفقودة فقط في حال الثنائي السطحي (مد/رد).
+    """
+    n = len(stripped)
+    if n == 0:
+        return "سطح فارغ — لا نمط قابل للاستدلال"
+    # حرفان: يُشير إلى مضعَّف بدون شدة (مد/رد بلا مَدَّ/رَدَّ)
+    if n == 2 and all(c in (_NON_VOWEL_CONS | _STRONG_CONS) for c in stripped):
+        return (
+            "الشدة — الثنائي السطحي يُرجَّح أنه مضعَّف (مَدَّ/رَدَّ)"
+            " لكن الشدة مفقودة لتأكيد التضعيف"
+        )
+    if n >= 3:
+        c0, c1, c2 = stripped[0], stripped[1], stripped[2]
+        # مهموز العين (سأل، رأى)
+        if c1 in _HAMZA_LETTERS:
+            return (
+                "تشكيل الماضي — مهموز العين (فَعَلَ/فَعِلَ بهمزة وسط)"
+                " يحتاج فتحتين للتمييز من ISM بلا نمط جوهري بدون تشكيل"
+            )
+        # مهموز اللام بهمزة على الألف (قرأ) — ليس 'ء' التي تُعالجها CāCء
+        if c2 in _HAMZA_LETTERS and c2 != 'ء':
+            return (
+                "تشكيل الماضي — مهموز اللام (فَعَلَ بهمزة نهاية)"
+                " يحتاج تشكيلاً للتمييز من ISM بلا نمط جوهري بدون تشكيل"
+            )
+        # مثال: فاء علة (وعد، يسر)
+        if c0 in _WEAK_LETTERS:
+            return (
+                "تشكيل الماضي — المثال (فاء علة: و/ي) يحتاج فَعَلَ"
+                " للتمييز من ISM بلا نمط جوهري بدون تشكيل"
+            )
+        # مهموز الفاء (أخذ، أكل)
+        if c0 in _HAMZA_LETTERS:
+            return (
+                "تشكيل الماضي — مهموز الفاء (أَفعَل) يحتاج فَعَلَ"
+                " للتمييز من ISM بلا نمط جوهري بدون تشكيل"
+            )
+        # ثلاثي سالم الظاهر (كتب، قتل، درس)
+        return (
+            "تشكيل الفعل الماضي — الثلاثي السالم (فَعَلَ/فَعِلَ/فَعُلَ)"
+            " يحتاج فتحتين+حركة للتمييز من ISM بلا نمط جوهري بدون تشكيل"
+        )
+    return "نمط غير مطابق لأي وزن فعلي ثلاثي معروف"
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -173,6 +234,11 @@ def _classify_diacritized(
                 has_diacritics_used=True,
                 evidence=evidence,
                 not_owned=not_owned,
+                verb_features=VerbFeatureVector(
+                    radical_health=RadicalHealth.SOUND,
+                    hamza_feature=HamzaFeature.NONE,
+                    gemination=GeminationFeature.DOUBLED,
+                ),
             )
 
     # — أجوف مشكَّل: C + فتحة + ا + C ──────────────────────────────
@@ -196,6 +262,11 @@ def _classify_diacritized(
             has_diacritics_used=True,
             evidence=evidence,
             not_owned=not_owned,
+            verb_features=VerbFeatureVector(
+                radical_health=RadicalHealth.HOLLOW,
+                hamza_feature=HamzaFeature.NONE,
+                gemination=GeminationFeature.NONE,
+            ),
         )
 
     # — ناقص مشكَّل ى: C + v + C + v + ى ──────────────────────────
@@ -216,6 +287,11 @@ def _classify_diacritized(
             has_diacritics_used=True,
             evidence=evidence,
             not_owned=not_owned,
+            verb_features=VerbFeatureVector(
+                radical_health=RadicalHealth.DEFECTIVE,
+                hamza_feature=HamzaFeature.NONE,
+                gemination=GeminationFeature.NONE,
+            ),
         )
 
     # — ناقص مشكَّل ا: C + v + C + v + ا ──────────────────────────
@@ -236,6 +312,11 @@ def _classify_diacritized(
             has_diacritics_used=True,
             evidence=evidence,
             not_owned=not_owned,
+            verb_features=VerbFeatureVector(
+                radical_health=RadicalHealth.DEFECTIVE,
+                hamza_feature=HamzaFeature.NONE,
+                gemination=GeminationFeature.NONE,
+            ),
         )
 
     # — سالم مشكَّل: C + فتحة/كسرة + C + فتحة/كسرة + C ────────────
@@ -259,6 +340,11 @@ def _classify_diacritized(
             has_diacritics_used=True,
             evidence=evidence,
             not_owned=not_owned,
+            verb_features=VerbFeatureVector(
+                radical_health=RadicalHealth.SOUND,
+                hamza_feature=HamzaFeature.NONE,
+                gemination=GeminationFeature.NONE,
+            ),
         )
 
     return None
@@ -308,10 +394,18 @@ def _classify_unvoweled(
                 pattern_label="CCى",
                 evidence=evidence,
                 not_owned=not_owned,
+                verb_features=VerbFeatureVector(
+                    radical_health=RadicalHealth.DEFECTIVE,
+                    hamza_feature=HamzaFeature.NONE,
+                    gemination=GeminationFeature.NONE,
+                ),
             )
 
     # ── نمط مهموز أجوف: CāCء (جاء، شاء) ────────────────────────────
     # الأجوف المهموز اللام: ثلاثي، وسطه ا، آخره ء
+    # §A: Fi3lFamily.HAMZATED هو الوسم المختصر الأبرز.
+    #     VerbFeatureVector يحفظ كلا البُعدين: HOLLOW (عينه مد) + FINAL (لامه همزة)
+    #     ORTHOGONAL_VERB_FEATURE_LOSS = 0: HAMZATED لا يُلغي HOLLOW
     if n == 3 and stripped[1] == 'ا' and stripped[2] == 'ء':
         c0 = stripped[0]
         if c0 in _NON_VOWEL_CONS:
@@ -344,6 +438,14 @@ def _classify_unvoweled(
                 pattern_label="CāCء",
                 evidence=evidence,
                 not_owned=not_owned,
+                # §A: البُعدان محفوظان بشكل متعامد:
+                #   radical_health=HOLLOW  ← العين حرف مد (جاء/شاء = ج/ش + ا + ء)
+                #   hamza_feature=FINAL    ← اللام همزة
+                verb_features=VerbFeatureVector(
+                    radical_health=RadicalHealth.HOLLOW,
+                    hamza_feature=HamzaFeature.FINAL,
+                    gemination=GeminationFeature.NONE,
+                ),
             )
 
     # ── نمط أجوف: CāC (قام، باع، قال، صام) ─────────────────────────
@@ -380,6 +482,11 @@ def _classify_unvoweled(
                 pattern_label="CāC",
                 evidence=evidence,
                 not_owned=not_owned,
+                verb_features=VerbFeatureVector(
+                    radical_health=RadicalHealth.HOLLOW,
+                    hamza_feature=HamzaFeature.NONE,
+                    gemination=GeminationFeature.NONE,
+                ),
             )
 
     # ── نمط ناقص بـ ا: CCا (دعا، بكا، نجا) ──────────────────────────
@@ -413,10 +520,16 @@ def _classify_unvoweled(
                 pattern_label="CCا",
                 evidence=evidence,
                 not_owned=not_owned,
+                verb_features=VerbFeatureVector(
+                    radical_health=RadicalHealth.DEFECTIVE,
+                    hamza_feature=HamzaFeature.NONE,
+                    gemination=GeminationFeature.NONE,
+                ),
             )
 
-    # لا نمط مكتشف
-    return _no_pattern(evidence, not_owned)
+    # لا نمط مكتشف — §B: احسب أول دليل مفقود حقيقي
+    fme = _infer_first_missing_evidence(stripped)
+    return _no_pattern(evidence, not_owned, first_missing_evidence=fme)
 
 
 # ══════════════════════════════════════════════════════════════════════
