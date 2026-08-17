@@ -53,9 +53,7 @@ _DEFAULT_DB_PATH  = os.environ.get(
 )
 _DEFAULT_CSV_PATH = os.environ.get(
     'MAQAYIS_CSV_PATH',
-    '/root/.claude/uploads/'
-    '0d4fec3c-f650-561d-941a-a2d13065c603/'
-    '4fd7ad7b-audited_roots.csv',
+    os.path.join(os.path.dirname(__file__), 'audited_roots.csv'),
 )
 
 # مُبادِئ الأحرف الناقصة في مقاييس (MISSING_VOLUME)
