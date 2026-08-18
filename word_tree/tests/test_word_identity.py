@@ -1340,6 +1340,91 @@ def run_fi3l_tests():
     return passed, len(tests)
 
 
+# ══════════════════════════════════════════════════════════════════════
+# G. اختبارات POST-HOKOM CONSUMER FEEDBACK GATE
+#    Gap 1 — فعل ماضٍ بلاحقة ضمير
+#    Gap 2 — "ال" التعريف لا تُلغي الهوية الاشتقاقية
+# ══════════════════════════════════════════════════════════════════════
+
+def test_gap1_past_verb_suffixed_pronoun():
+    """
+    G.1 — Gap 1: فعل ماضٍ + ضمير متصل → FI3L
+    DOWNSTREAM_CONTEXT_USED_AS_VERB_PROOF = 0
+    FALSE_SUFFIX_STRIPPING = 0
+    """
+    # حالات إيجابية — بنيتَ، ملكتَ (مشكَّل) وبنيت، ملكت (غير مشكَّل)
+    for word in ["بنيتَ", "ملكتَ", "بنيت", "ملكت"]:
+        cert = analyze_word(word)
+        assert cert.word_class == WordClass.FI3L, (
+            f"G.1 FAIL: '{word}' word_class={cert.word_class.value} (المتوقع: FI3L)"
+        )
+
+    # ضوابط سلبية — FALSE_SUFFIX_STRIPPING = 0
+    # بيت/صوت/وقت: بعد حذف "ت" تبقى قاعدة ≤ 2 حرف → لا تُصنَّف فعلاً
+    for word in ["بيت", "صوت", "وقت"]:
+        cert = analyze_word(word)
+        assert cert.word_class == WordClass.ISM, (
+            f"G.1 FAIL (FALSE_SUFFIX_STRIPPING): '{word}' classified as "
+            f"{cert.word_class.value} (المتوقع: ISM)"
+        )
+
+    print("  ✓ test_gap1_past_verb_suffixed_pronoun")
+
+
+def test_gap2_definite_article_preserves_derivation():
+    """
+    G.2 — Gap 2: ال التعريف لا تُلغي الهوية الاشتقاقية
+    DERIVATIONAL_IDENTITY_LOST_UNDER_ARTICLE = 0
+    ARTICLE_USED_AS_NAAT_PROOF = 0
+    """
+    test_cases = [
+        ("الكريم",  DerivedFormType.SIFA_MUSHABBAHA),
+        ("الكاتب",  DerivedFormType.ISM_FAAIL),
+        ("المكتوب", DerivedFormType.ISM_MAFUUL),
+    ]
+    for word, expected_form in test_cases:
+        cert = analyze_word(word)
+        actual = cert.morphological_identity.derived_form
+        assert actual == expected_form, (
+            f"G.2 FAIL: '{word}' derived_form={actual.value} "
+            f"(المتوقع: {expected_form.value}) — DERIVATIONAL_IDENTITY_LOST_UNDER_ARTICLE≠0"
+        )
+
+    # ARTICLE_USED_AS_NAAT_PROOF = 0 : ال لا تُستخدم دليلاً على النعت
+    cert = analyze_word("الكريم")
+    ev_vals = str([e.value for e in cert.evidence])
+    assert "NAAT" not in ev_vals.upper(), (
+        "G.2 FAIL: ARTICLE_USED_AS_NAAT_PROOF≠0 — ال استُخدمت دليلاً على النعت"
+    )
+
+    print("  ✓ test_gap2_definite_article_preserves_derivation")
+
+
+def run_gap_tests() -> tuple[int, int]:
+    """تشغيل اختبارات القسم G — POST-HOKOM CONSUMER FEEDBACK GATE"""
+    print("\n" + "═"*70)
+    print("  G. POST-HOKOM CONSUMER FEEDBACK GATE")
+    print("     Gap1: فعل ماضٍ + ضمير  |  Gap2: ال التعريف + الهوية الاشتقاقية")
+    print("═"*70)
+    tests = [
+        test_gap1_past_verb_suffixed_pronoun,
+        test_gap2_definite_article_preserves_derivation,
+    ]
+    passed = 0
+    for t in tests:
+        try:
+            t()
+            passed += 1
+        except AssertionError as e:
+            print(f"  ✗ {t.__name__}: {e}")
+        except Exception as e:
+            import traceback
+            print(f"  ✗ {t.__name__} [ERROR]: {e}")
+            traceback.print_exc()
+    print(f"\n  النتيجة: {passed}/{len(tests)} نجاح")
+    return passed, len(tests)
+
+
 def main():
     print("\n" + "█"*70)
     print("  ARABIC INTRINSIC WORD IDENTITY PROGRAM — تشغيل الاختبارات")
@@ -1351,9 +1436,10 @@ def main():
     p4, t4 = run_boundary_tests()
     p5, t5 = run_gate_tests()
     p6, t6 = run_fi3l_tests()
+    p7, t7 = run_gap_tests()
 
-    total_passed = p1 + p2 + p3 + p4 + p5 + p6
-    total_tests  = t1 + t2 + t3 + t4 + t5 + t6
+    total_passed = p1 + p2 + p3 + p4 + p5 + p6 + p7
+    total_tests  = t1 + t2 + t3 + t4 + t5 + t6 + t7
 
     print("\n" + "═"*70)
     print(f"  الملخص النهائي: {total_passed}/{total_tests} نجاح")

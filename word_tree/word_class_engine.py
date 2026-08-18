@@ -141,7 +141,9 @@ def classify_word_class(
 
     # ── 2. فحص لواحق الفعل الماضي الصريحة ──────────────────────────
     for suffix in _FI3L_MADII_SUFFIXES:
-        if stripped.endswith(suffix) and len(stripped) > len(suffix) + 1:
+        # نتحقق من السطح الأصلي (مع حركات) أو المجرَّد (بدون حركات)
+        # §Gap1-FIX: بعض اللواحق مشكَّلة (تَ) والبحث يجب أن يشمل surface
+        if (surface.endswith(suffix) or stripped.endswith(suffix)) and len(stripped) > len(suffix) + 1:
             evidence.append(EvidenceRef(
                 source=EvidenceSource.PATTERN_MATCH,
                 detail=f"ينتهي بـ '{suffix}' — لاحقة فعل ماضٍ",

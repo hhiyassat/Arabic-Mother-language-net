@@ -61,6 +61,82 @@ _MAQAYIS_MISSING_INITIALS = frozenset(['ا', 'ب', 'ت', 'ث', 'ج'])
 
 
 # ══════════════════════════════════════════════════════════════════════
+# §Gap1 — كشف الفعل الماضي بلاحقة ضمير متصل
+# FALSE_SUFFIX_STRIPPING = 0   : القاعدة ≥ 3 أحرف + تحقق مقاييس/في3ل_engine
+# DOWNSTREAM_CONTEXT_USED_AS_VERB_PROOF = 0
+# ══════════════════════════════════════════════════════════════════════
+
+# الترتيب: من الأطول إلى الأقصر لمنع اللاحقة القصيرة من أكل الطويلة
+_PAST_VERB_PRONOUN_SUFFIXES_ORDERED: list[tuple[str, str]] = [
+    ("تُمْ",  "تم"),
+    ("تُنَّ", "تن"),
+    ("تُمَا", "تما"),
+    ("تُ",   "ت"),
+    ("تَ",   "ت"),
+    ("تِ",   "ت"),
+    ("نَا",  "نا"),
+    ("تَا",  "تا"),
+    ("نَ",   "ن"),
+    ("وا",   "وا"),
+]
+_MIN_VERB_BASE_LEN = 3
+
+
+def _base_in_maqayis(base: str, store: "_DataStore") -> bool:
+    """هل يوجد base كجذر أو مرشح جذر في مقاييس؟"""
+    if store.lookup(base):
+        return True
+    for cand in store.candidates_from_word(base):
+        if store.lookup(cand):
+            return True
+    return False
+
+
+def _detect_past_verb_base(
+    surface: str, store: "_DataStore"
+) -> tuple[Optional[str], str]:
+    """
+    يكشف بنية (قاعدة + لاحقة ضمير) في الفعل الماضي.
+
+    الضمانات:
+      FALSE_SUFFIX_STRIPPING = 0 : القاعدة ≥ 3 أحرف + fi3l_engine أو مقاييس يؤكدانها
+      DOWNSTREAM_CONTEXT_USED_AS_VERB_PROOF = 0 : لا نعتمد Hokom/سياق
+
+    يُعيد (base_stripped, detected_suffix)  أو  (None, "")
+    """
+    from word_tree.fi3l_engine import classify_fi3l_pattern as _fi3l
+
+    stripped = strip_diacritics(surface)
+
+    for diac_suf, bare_suf in _PAST_VERB_PRONOUN_SUFFIXES_ORDERED:
+        # ── فحص اللاحقة المشكَّلة (ثقة عالية) ──
+        if diac_suf and surface.endswith(diac_suf):
+            base = strip_diacritics(surface[: -len(diac_suf)])
+            if len(base) >= _MIN_VERB_BASE_LEN:
+                if _fi3l(base).is_fi3l_candidate or _base_in_maqayis(base, store):
+                    return base, diac_suf
+
+        # ── فحص اللاحقة غير المشكَّلة (متعددة الأحرف فقط — ليس "ت" المفردة) ──
+        if bare_suf and bare_suf not in ("ت",) and stripped.endswith(bare_suf):
+            base = stripped[: -len(bare_suf)]
+            if len(base) >= _MIN_VERB_BASE_LEN:
+                if _fi3l(base).is_fi3l_candidate or _base_in_maqayis(base, store):
+                    return base, bare_suf
+
+    # ── "ت" المجردة — حارس إضافي: القاعدة لا تنتهي بـ "ا" (يمنع: جنات→جنا CCا) ──
+    if stripped.endswith("ت"):
+        base = stripped[:-1]
+        if (
+            len(base) >= _MIN_VERB_BASE_LEN
+            and not base.endswith("ا")
+            and (_fi3l(base).is_fi3l_candidate or _base_in_maqayis(base, store))
+        ):
+            return base, "ت"
+
+    return None, ""
+
+
+# ══════════════════════════════════════════════════════════════════════
 # تحميل البيانات المرجعية (مرة واحدة)
 # ══════════════════════════════════════════════════════════════════════
 
@@ -364,9 +440,27 @@ def analyze_word(
     # 1. التطبيع
     normalized = normalize_surface(surface)
 
+    # §Gap1 — كشف الفعل الماضي + لاحقة ضمير قبل تصنيف الكلمة
+    # FALSE_SUFFIX_STRIPPING=0  DOWNSTREAM_CONTEXT_USED_AS_VERB_PROOF=0
+    verb_base, detected_suffix = _detect_past_verb_base(surface, store)
+
     # 2. WORD_CLASS
     word_class, wc_conf, wc_evidence = classify_word_class(surface)
     all_evidence.extend(wc_evidence)
+
+    # تجاوز التصنيف إذا كُشف فعل ماضٍ بلاحقة ضمير
+    if verb_base:
+        word_class = WordClass.FI3L
+        wc_conf    = WordClassConfidence.PROBABLE
+        all_evidence.append(EvidenceRef(
+            source=EvidenceSource.MORPHOLOGICAL_ENGINE,
+            detail=(
+                f"كُشفت لاحقة ضمير ماضٍ '{detected_suffix}' — القاعدة: '{verb_base}'"
+                " | FALSE_SUFFIX_STRIPPING=0"
+            ),
+            value="FI3L_MADII_SUFFIXED_PRONOUN",
+            weight=0.88,
+        ))
 
     # 3. NUMERAL_IDENTITY
     numeral = classify_numeral(surface)
@@ -377,8 +471,9 @@ def analyze_word(
             wc_conf    = WordClassConfidence.CERTAIN
         all_evidence.extend(numeral.evidence)
 
-    # 4. تحليل الجذر
-    root_analysis = _build_root_analysis(surface, store)
+    # 4. تحليل الجذر — نستخدم القاعدة (بدون لاحقة) إن وُجدت
+    analysis_surface = verb_base if verb_base else surface
+    root_analysis = _build_root_analysis(analysis_surface, store)
     for cand in root_analysis.candidates:
         all_evidence.extend(cand.evidence)
 
@@ -389,19 +484,40 @@ def analyze_word(
     lexical = _build_lexical_identity(resolved_root, store)
     all_evidence.extend(lexical.evidence)
 
-    # 6. الصيغة الاشتقاقية
-    derived_form, form_evidence = analyze_derived_form(
-        surface=surface,
-        resolved_root=resolved_root,
-        root_baab=root_baab,
-        fau_yaf_u_roots=store.fau_yaf_u_roots,
+    # §Gap2 — حذف "ال" التعريف قبل التحليل الاشتقاقي
+    # DERIVATIONAL_IDENTITY_LOST_UNDER_ARTICLE=0  ARTICLE_USED_AS_NAAT_PROOF=0
+    _stripped_for_deriv = strip_diacritics(analysis_surface)
+    _has_al_prefix = (
+        _stripped_for_deriv.startswith("ال") and len(_stripped_for_deriv) > 3
     )
+    _derivation_surface = _stripped_for_deriv[2:] if _has_al_prefix else analysis_surface
+
+    # 6. الصيغة الاشتقاقية
+    if verb_base:
+        # فعل ماضٍ منصرف — القاعدة مجردة
+        derived_form = DerivedFormType.MUJARRAD
+        form_evidence = [EvidenceRef(
+            source=EvidenceSource.MORPHOLOGICAL_ENGINE,
+            detail=(
+                f"فعل ماضٍ بلاحقة ضمير '{detected_suffix}' — القاعدة: '{verb_base}'"
+            ),
+            value="FI3L_MADII_INFLECTED",
+            weight=0.88,
+        )]
+    else:
+        derived_form, form_evidence = analyze_derived_form(
+            surface=_derivation_surface,          # §Gap2: بدون "ال"
+            resolved_root=resolved_root,
+            root_baab=root_baab,
+            fau_yaf_u_roots=store.fau_yaf_u_roots,
+        )
     all_evidence.extend(form_evidence)
 
     # 7. الهوية الصرفية والاشتقاقية
+    # build_morphological_identity يتلقى السطح الأصلي (للتعرف على التعريف بـ "ال")
     morph = build_morphological_identity(surface, derived_form, form_evidence)
     deriv = build_derivational_identity(
-        surface=surface,
+        surface=_derivation_surface if not verb_base else verb_base,  # §Gap2: بدون "ال"
         resolved_root=resolved_root,
         root_baab=root_baab,
         derived_form=derived_form,
