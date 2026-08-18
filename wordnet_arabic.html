@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>المعجم العربي الشامل — Arabic WordNet</title>
+<style>
+:root {
+  --green: #1a6b4a;
+  --green2: #2d8c63;
+  --bg: #f5f4f1;
+  --surface: #ffffff;
+  --border: #ddd9d0;
+  --text: #111;
+  --text2: #555;
+  --text3: #888;
+  --noun-c: #1a5fa8;
+  --verb-c: #a83218;
+  --adj-c: #7b3ea8;
+  --adv-c: #2d7a3a;
+  --rel-bg: #f8f7f4;
+  --chip-bg: #e8f0eb;
+  --chip-hover: #d0e8d8;
+  --arrow: #bbb;
+  --hyper-line: #c8ddd0;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', Tahoma, Arial, sans-serif; background: var(--bg); color: var(--text); font-size: 15px; line-height: 1.6; }
+
+/* HEADER */
+.hdr { background: var(--green); color: #fff; padding: 14px 28px; display: flex; align-items: center; gap: 16px; }
+.hdr-logo { font-size: 1.6rem; font-weight: 800; letter-spacing: -0.5px; }
+.hdr-sub { font-size: .78rem; opacity: .75; margin-top: 1px; }
+.hdr-lang { margin-right: auto; font-size: .75rem; opacity: .6; direction: ltr; }
+
+/* SEARCH BAR */
+.search-bar { background: var(--green2); padding: 14px 28px; position: sticky; top: 0; z-index: 200; box-shadow: 0 2px 8px rgba(0,0,0,.2); }
+.search-inner { max-width: 680px; margin: 0 auto; position: relative; }
+#q { width: 100%; padding: 11px 18px 11px 44px; font-size: 1.15rem; border: none; border-radius: 8px; background: #fff; color: var(--text); direction: rtl; font-family: inherit; outline: none; box-shadow: 0 1px 4px rgba(0,0,0,.15); }
+#q:focus { box-shadow: 0 0 0 3px rgba(255,255,255,.3); }
+.search-clear { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); background: none; border: none; color: #999; cursor: pointer; font-size: 1rem; display: none; }
+.search-hint { text-align: center; color: rgba(255,255,255,.65); font-size: .78rem; margin-top: 7px; }
+
+/* LAYOUT */
+.body-wrap { max-width: 960px; margin: 0 auto; padding: 20px 16px 60px; }
+
+/* LOADING */
+.loading { text-align: center; padding: 60px 20px; color: var(--text3); }
+.loading-spinner { width: 36px; height: 36px; border: 3px solid var(--border); border-top-color: var(--green); border-radius: 50%; animation: spin .8s linear infinite; margin: 0 auto 14px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.load-steps { font-size: .8rem; margin-top: 10px; }
+.load-step { padding: 3px 0; transition: color .2s; }
+.load-step.done { color: var(--green); }
+.load-step.active { color: var(--text); font-weight: 600; }
+
+/* WELCOME */
+.welcome { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 32px; text-align: center; color: var(--text2); }
+.welcome h2 { color: var(--green); font-size: 1.2rem; margin-bottom: 12px; }
+.welcome p { font-size: .9rem; margin-bottom: 16px; }
+.examples { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 16px; }
+.ex-chip { background: var(--chip-bg); border: 1px solid var(--border); border-radius: 20px; padding: 6px 16px; cursor: pointer; font-size: .95rem; transition: background .15s; color: var(--green); font-weight: 500; }
+.ex-chip:hover { background: var(--chip-hover); }
+
+/* POS SECTION */
+.pos-section { margin-bottom: 28px; }
+.pos-header { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .6px; padding: 7px 14px; border-radius: 6px 6px 0 0; color: #fff; margin-bottom: 0; }
+.pos-header.n { background: var(--noun-c); }
+.pos-header.v { background: var(--verb-c); }
+.pos-header.a, .pos-header.s { background: var(--adj-c); }
+.pos-header.r { background: var(--adv-c); }
+.pos-body { border: 1px solid var(--border); border-top: none; border-radius: 0 0 8px 8px; background: var(--surface); }
+
+/* SENSE CARD */
+.sense { border-bottom: 1px solid var(--border); padding: 18px 20px; }
+.sense:last-child { border-bottom: none; }
+
+.sense-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 8px; flex-wrap: wrap; }
+.sense-num { background: var(--noun-c); color: #fff; border-radius: 4px; padding: 1px 8px; font-size: .75rem; font-weight: 700; flex-shrink: 0; }
+.sense-num.n { background: var(--noun-c); }
+.sense-num.v { background: var(--verb-c); }
+.sense-num.a, .sense-num.s { background: var(--adj-c); }
+.sense-num.r { background: var(--adv-c); }
+
+/* Arabic synonym chips */
+.syn-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.syn-chip { background: var(--chip-bg); border: 1px solid #c5ddd0; border-radius: 20px; padding: 3px 13px; cursor: pointer; font-size: .95rem; color: #1a4a35; transition: background .12s; }
+.syn-chip:hover { background: var(--chip-hover); }
+.syn-chip.primary { font-weight: 700; background: var(--green); color: #fff; border-color: var(--green); }
+.syn-chip.primary:hover { background: var(--green2); }
+
+/* English synonyms */
+.syn-en { color: var(--text3); font-size: .82rem; font-style: italic; direction: ltr; text-align: right; margin-bottom: 6px; }
+
+/* Definition */
+.def-ar { font-size: 1rem; margin-bottom: 4px; }
+.def-en { color: var(--text2); font-size: .85rem; font-style: italic; direction: ltr; text-align: right; margin-bottom: 8px; }
+.examples-list { color: var(--text2); font-size: .85rem; margin-bottom: 8px; }
+.examples-list::before { content: 'مثال: '; color: var(--text3); font-style: normal; }
+
+/* RELATIONS AREA */
+.rels { margin-top: 12px; border-top: 1px dashed var(--border); padding-top: 12px; display: flex; flex-direction: column; gap: 10px; }
+.rel-row { display: flex; align-items: flex-start; gap: 10px; }
+.rel-label { color: var(--text3); font-size: .78rem; white-space: nowrap; padding-top: 4px; min-width: 80px; flex-shrink: 0; }
+.rel-label::after { content: ':'; }
+.rel-content { flex: 1; }
+
+/* Hypernym chain */
+.hyper-chain { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; direction: rtl; }
+.hyper-node { display: inline-flex; align-items: center; gap: 4px; }
+.hyper-link { color: var(--noun-c); cursor: pointer; font-size: .88rem; border-bottom: 1px dotted var(--noun-c); transition: color .12s; }
+.hyper-link:hover { color: var(--green); }
+.hyper-arrow { color: var(--arrow); font-size: .8rem; }
+.hyper-root { color: var(--text3); font-size: .82rem; font-style: italic; }
+
+/* Hyponym list */
+.hypo-list { display: flex; flex-wrap: wrap; gap: 5px; }
+.hypo-chip { background: #f0f5ff; border: 1px solid #c8d8f0; border-radius: 4px; padding: 2px 9px; cursor: pointer; font-size: .84rem; color: var(--noun-c); transition: background .12s; }
+.hypo-chip:hover { background: #dce8fc; }
+.hypo-chip.more { color: var(--text3); background: none; border-style: dashed; cursor: default; }
+
+/* Mero/holo chips */
+.mero-chip { background: #fff8ee; border: 1px solid #e8d8b0; border-radius: 4px; padding: 2px 9px; cursor: pointer; font-size: .84rem; color: #7a5010; transition: background .12s; }
+.mero-chip:hover { background: #fceedd; }
+
+/* Antonym chips */
+.ant-chip { background: #fff0f0; border: 1px solid #f0c8c8; border-radius: 4px; padding: 2px 9px; cursor: pointer; font-size: .84rem; color: #a83218; transition: background .12s; }
+.ant-chip:hover { background: #fce0e0; }
+
+/* Similar/also-see chips */
+.sim-chip { background: #f6f0ff; border: 1px solid #d8c8f0; border-radius: 4px; padding: 2px 9px; cursor: pointer; font-size: .84rem; color: #7b3ea8; transition: background .12s; }
+.sim-chip:hover { background: #ecdcfc; }
+
+/* Maqayis section */
+.maq-box { background: #faf6ee; border: 1px solid #d8c88a; border-radius: 6px; padding: 12px 16px; margin-top: 12px; }
+.maq-root-title { font-weight: 700; font-size: 1.1rem; color: #6a4a10; margin-bottom: 4px; }
+.maq-root-letters { font-size: .8rem; color: #9a8040; margin-bottom: 6px; }
+.maq-text { font-size: .88rem; color: #5a4020; line-height: 1.7; }
+.maq-badge { display: inline-block; background: #d8c88a; color: #6a4a10; border-radius: 3px; padding: 1px 7px; font-size: .7rem; font-weight: 700; margin-left: 6px; }
+
+/* Domain badge */
+.domain-badge { background: #e8e8e8; color: var(--text2); border-radius: 3px; padding: 1px 7px; font-size: .72rem; margin-right: 6px; }
+
+/* SYNSET ID */
+.synset-id { color: var(--text3); font-size: .72rem; direction: ltr; margin-top: 4px; }
+
+/* No results */
+.no-results { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 40px; text-align: center; color: var(--text3); }
+.no-results strong { color: var(--text); display: block; margin-bottom: 8px; font-size: 1.1rem; }
+
+/* Status bar */
+.status-bar { position: fixed; bottom: 0; right: 0; left: 0; background: rgba(255,255,255,.92); border-top: 1px solid var(--border); padding: 5px 20px; font-size: .75rem; color: var(--text3); display: flex; justify-content: space-between; backdrop-filter: blur(4px); }
+.status-green { color: var(--green); }
+
+/* Loading overlay for relations */
+.rel-loading { color: var(--text3); font-size: .8rem; font-style: italic; }
+
+@media (max-width: 600px) {
+  .rel-row { flex-direction: column; gap: 4px; }
+  .rel-label { min-width: unset; }
+}
+</style>
+</head>
+<body>
+
+<div class="hdr">
+  <div>
+    <div class="hdr-logo">المعجم العربي الشامل</div>
+    <div class="hdr-sub">Arabic WordNet — مبني على شجرة WordNet الإنجليزية</div>
+  </div>
+  <div class="hdr-lang">WordNet 3.1 · 117,659 synset · 102,636 مفهوم عربي</div>
+</div>
+
+<div class="search-bar">
+  <div class="search-inner">
+    <input id="q" type="text" placeholder="اكتب كلمة عربية للبحث…" autocomplete="off" spellcheck="false">
+    <button class="search-clear" id="clear-btn" title="مسح">✕</button>
+  </div>
+  <div class="search-hint" id="search-hint">جاري تحميل البيانات…</div>
+</div>
+
+<div class="body-wrap" id="main">
+  <div class="loading" id="loading">
+    <div class="loading-spinner"></div>
+    <div>جاري التحميل…</div>
+    <div class="load-steps">
+      <div class="load-step active" id="step1">⏳ فهرس البحث (4 ميغا)</div>
+      <div class="load-step" id="step2">⏳ بيانات المفاهيم (10 ميغا)</div>
+      <div class="load-step" id="step3">⏳ شجرة العلاقات (13 ميغا)</div>
+      <div class="load-step" id="step4">⏳ معجم مقاييس اللغة</div>
+    </div>
+  </div>
+</div>
+
+<div class="status-bar">
+  <span id="status-left">جاري التحميل…</span>
+  <span id="status-right" class="status-green"></span>
+</div>
+
+<script>
+// ── DATA ─────────────────────────────────────────────────────────────────────
+const BASE     = './data/wordnet/';
+const MAQ_PATH = '../Maqaiys-roots/output/maqayis_all_roots.json';
+
+let IDX   = null;   // {arabic_word: [synset_id, ...]}
+let SYNS  = null;   // {synset_id: synset_obj}
+let RELS  = null;   // {synset_id: {hypernyms, hyponyms, ...}}
+let MAQ   = null;   // {root_letters: entry}
+let relsReady = false;
+let maqReady  = false;
+
+// Arabic normalization
+function norm(s) {
+  return (s || '')
+    .replace(/[ً-ٰٟ]/g, '')  // strip diacritics
+    .replace(/[أإآٱ]/g, 'ا')
+    .replace(/ى/g, 'ي')
+    .replace(/ة/g, 'ه')
+    .trim();
+}
+
+// POS labels
+const POS_LABEL = { n: 'اسم', v: 'فعل', a: 'صفة', s: 'صفة', r: 'ظرف' };
+const POS_LABEL_EN = { n: 'Noun', v: 'Verb', a: 'Adjective', s: 'Adjective', r: 'Adverb' };
+
+// Relation labels (Arabic)
+const REL_LABELS = {
+  hypernyms:          'نوع من',
+  instance_hypernyms: 'مثال على',
+  hyponyms:           'أنواعه',
+  instance_hyponyms:  'أمثلته',
+  part_meronyms:      'يتكون من',
+  substance_meronyms: 'مادته',
+  member_meronyms:    'أعضاؤه',
+  part_holonyms:      'جزء من',
+  substance_holonyms: 'مادة في',
+  member_holonyms:    'عضو في',
+  antonyms:           'عكسه',
+  similar_to:         'مشابه لـ',
+  also_see:           'انظر أيضاً',
+  entailments:        'يستلزم',
+  causes:             'يتسبب في',
+  attributes:         'صفاته',
+  derivations:        'مشتقاته',
+};
+
+// ── LOAD DATA ────────────────────────────────────────────────────────────────
+function step(id, done) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.classList.remove('active');
+  if (done) { el.classList.add('done'); el.textContent = '✓ ' + el.textContent.slice(2); }
+  const steps = ['step1','step2','step3','step4'];
+  const next = steps[steps.indexOf(id) + 1];
+  if (next) document.getElementById(next).classList.add('active');
+}
+
+async function loadAll() {
+  try {
+    // 1. search index
+    const r1 = await fetch(BASE + 'wordnet_search_index.json');
+    IDX = await r1.json();
+    step('step1', true);
+    setStatus('فهرس البحث جاهز ✓');
+
+    // 2. synsets
+    const r2 = await fetch(BASE + 'wordnet_synsets.json');
+    const raw2 = await r2.json();
+    SYNS = {};
+    const arr = raw2.synsets || raw2;
+    arr.forEach(s => { SYNS[s.id] = s; });
+    step('step2', true);
+    setStatus('بيانات المفاهيم جاهزة ✓');
+
+    // Show UI after index + synsets (enough for basic search)
+    showWelcome();
+
+    // 3. relations (background)
+    const r3 = await fetch(BASE + 'wordnet_relations.json');
+    RELS = await r3.json();
+    relsReady = true;
+    step('step3', true);
+    setStatus('شجرة العلاقات جاهزة ✓');
+    // Re-render current search if any
+    const q = document.getElementById('q').value.trim();
+    if (q) doSearch(q);
+
+    // 4. maqayis (background)
+    const r4 = await fetch(MAQ_PATH);
+    const raw4 = await r4.json();
+    MAQ = {};
+    const roots = raw4.roots || raw4;
+    roots.forEach(r => {
+      const key = norm(r.root_display || r.letters || '');
+      MAQ[key] = r;
+      // Also index by letters directly
+      if (r.letters) MAQ[r.letters] = r;
+    });
+    maqReady = true;
+    step('step4', true);
+    setStatusRight('مقاييس اللغة جاهز ✓');
+    const q2 = document.getElementById('q').value.trim();
+    if (q2) doSearch(q2);
+
+  } catch(e) {
+    document.getElementById('main').innerHTML =
+      `<div class="no-results"><strong>خطأ في تحميل البيانات</strong>
+       <p>شغّل الصفحة من خلال: <code>python3 -m http.server 8000</code> من مجلد arabic-net</p>
+       <p style="color:#c00;margin-top:8px">${e.message}</p></div>`;
+  }
+}
+
+function setStatus(t) {
+  document.getElementById('status-left').textContent = t;
+  document.getElementById('search-hint').textContent = t;
+}
+function setStatusRight(t) {
+  document.getElementById('status-right').textContent = t;
+}
+
+// ── WELCOME SCREEN ───────────────────────────────────────────────────────────
+function showWelcome() {
+  document.getElementById('loading').remove();
+  setStatus('جاهز للبحث');
+  document.getElementById('search-hint').textContent =
+    'ابحث عن أي كلمة عربية — الشجرة الكاملة ستظهر';
+  const examples = ['قطة','كتاب','علم','ماء','شجرة','قلب','نور','حكمة','بيت','وقت'];
+  document.getElementById('main').innerHTML = `
+    <div class="welcome">
+      <h2>المعجم العربي الشامل — Arabic WordNet</h2>
+      <p>102,636 مفهوم عربي مُرتّبٌ في شجرة WordNet العالمية مع علاقات كاملة:<br>
+         نوع من · أنواعه · يتكون من · جزء من · عكسه · مشابه لـ · وجذوره من مقاييس اللغة لابن فارس</p>
+      <div class="examples">
+        ${examples.map(w => `<span class="ex-chip" onclick="search('${w}')">${w}</span>`).join('')}
+      </div>
+    </div>`;
+}
+
+// ── SEARCH ───────────────────────────────────────────────────────────────────
+let debTimer = null;
+document.getElementById('q').addEventListener('input', e => {
+  clearTimeout(debTimer);
+  const v = e.target.value.trim();
+  document.getElementById('clear-btn').style.display = v ? 'block' : 'none';
+  if (!v) { showWelcome(); return; }
+  debTimer = setTimeout(() => doSearch(v), 220);
+});
+document.getElementById('clear-btn').addEventListener('click', () => {
+  document.getElementById('q').value = '';
+  document.getElementById('clear-btn').style.display = 'none';
+  showWelcome();
+});
+document.getElementById('q').addEventListener('keydown', e => {
+  if (e.key === 'Escape') document.getElementById('clear-btn').click();
+});
+
+function search(word) {
+  document.getElementById('q').value = word;
+  document.getElementById('clear-btn').style.display = 'block';
+  doSearch(word);
+}
+
+function doSearch(word) {
+  if (!IDX || !SYNS) return;
+  const nw = norm(word);
+
+  // Collect matching synset IDs
+  let ids = [];
+  // Exact normalized match first
+  for (const [k, v] of Object.entries(IDX)) {
+    if (norm(k) === nw) ids.push(...v);
+  }
+  // Partial match if nothing found
+  if (!ids.length) {
+    for (const [k, v] of Object.entries(IDX)) {
+      if (norm(k).includes(nw)) ids.push(...v);
+    }
+  }
+  // Deduplicate
+  ids = [...new Set(ids)];
+
+  if (!ids.length) {
+    document.getElementById('main').innerHTML =
+      `<div class="no-results"><strong>لا توجد نتائج لـ "${word}"</strong>
+       <p>جرّب كلمة مختلفة أو شكلاً آخر من الكلمة</p></div>`;
+    return;
+  }
+
+  // Group by POS
+  const byPos = { n: [], v: [], a: [], s: [], r: [] };
+  ids.forEach(id => {
+    const s = SYNS[id];
+    if (s) byPos[s.pos || 'n'].push(s);
+  });
+
+  let html = '';
+  const posOrder = ['n', 'v', 'a', 's', 'r'];
+  posOrder.forEach(pos => {
+    const group = byPos[pos];
+    if (!group.length) return;
+    html += `<div class="pos-section">
+      <div class="pos-header ${pos}">${POS_LABEL[pos] || pos} — ${POS_LABEL_EN[pos] || pos} &nbsp; (${group.length} معنى)</div>
+      <div class="pos-body">`;
+    group.forEach((s, i) => {
+      html += renderSense(s, i + 1, pos, word);
+    });
+    html += '</div></div>';
+  });
+
+  document.getElementById('main').innerHTML = html;
+  setStatus(`${ids.length} معنى لـ "${word}"`);
+}
+
+// ── RENDER SENSE ─────────────────────────────────────────────────────────────
+function renderSense(s, num, pos, searchWord) {
+  const synId  = s.id || '';
+  const wordsAr = (s.words_ar || []).filter(Boolean);
+  const defAr  = s.def_ar || '';
+  const defEn  = s.def_en || '';
+  const domain = s.domain || '';
+
+  // Chips: highlight searched word
+  const nw = norm(searchWord);
+  const chipHtml = wordsAr.map(w => {
+    const isPrimary = norm(w) === nw;
+    return `<span class="syn-chip ${isPrimary?'primary':''}" onclick="search('${escQ(w)}')">${w}</span>`;
+  }).join('');
+
+  // English words from RELS if available
+  let enWords = '';
+  if (relsReady && RELS[synId]) {
+    const we = (RELS[synId].words_en || []);
+    // we removed words_en from slim file — skip
+  }
+
+  const domBadge = domain ? `<span class="domain-badge">${domain}</span>` : '';
+
+  let inner = `
+    <div class="sense-head">
+      <span class="sense-num ${pos}">${num}</span>
+      ${domBadge}
+    </div>
+    <div class="syn-chips">${chipHtml || `<span style="color:var(--text3)">(لا توجد كلمات عربية)</span>`}</div>`;
+
+  if (defAr) inner += `<div class="def-ar">${defAr}</div>`;
+  if (defEn) inner += `<div class="def-en">${defEn}</div>`;
+
+  // Relations
+  inner += renderRelations(synId, pos);
+
+  // Maqayis
+  inner += renderMaqayis(s.roots || []);
+
+  inner += `<div class="synset-id">${synId}</div>`;
+
+  return `<div class="sense">${inner}</div>`;
+}
+
+// ── RENDER RELATIONS ─────────────────────────────────────────────────────────
+function renderRelations(synId, pos) {
+  if (!relsReady) {
+    return `<div class="rels"><div class="rel-loading">⏳ جاري تحميل شجرة العلاقات…</div></div>`;
+  }
+  const rel = RELS[synId] || {};
+  let rows = '';
+
+  // 1. Hypernym chain (going up to root)
+  const hyperChain = buildHyperChain(synId);
+  if (hyperChain.length > 1) {
+    rows += relRow('نوع من', renderHyperChain(hyperChain, synId));
+  }
+
+  // 2. Hyponyms
+  const allHypo = [...(rel.hyponyms || []), ...(rel.instance_hyponyms || [])];
+  if (allHypo.length) {
+    rows += relRow('أنواعه', renderIdList(allHypo, 'hypo-chip', 12));
+  }
+
+  // 3. Part meronyms (has parts)
+  if (rel.part_meronyms?.length) {
+    rows += relRow('يتكون من', renderIdList(rel.part_meronyms, 'mero-chip', 8));
+  }
+  if (rel.substance_meronyms?.length) {
+    rows += relRow('مادته', renderIdList(rel.substance_meronyms, 'mero-chip', 8));
+  }
+  if (rel.member_meronyms?.length) {
+    rows += relRow('أعضاؤه', renderIdList(rel.member_meronyms, 'mero-chip', 8));
+  }
+
+  // 4. Holonyms (this is part of)
+  if (rel.part_holonyms?.length) {
+    rows += relRow('جزء من', renderIdList(rel.part_holonyms, 'mero-chip', 8));
+  }
+  if (rel.substance_holonyms?.length) {
+    rows += relRow('مادة في', renderIdList(rel.substance_holonyms, 'mero-chip', 8));
+  }
+  if (rel.member_holonyms?.length) {
+    rows += relRow('عضو في', renderIdList(rel.member_holonyms, 'mero-chip', 8));
+  }
+
+  // 5. Antonyms
+  if (rel.antonyms?.length) {
+    rows += relRow('عكسه', renderIdList(rel.antonyms, 'ant-chip', 8));
+  }
+
+  // 6. Similar to (adj)
+  if (rel.similar_to?.length) {
+    rows += relRow('مشابه لـ', renderIdList(rel.similar_to, 'sim-chip', 10));
+  }
+  if (rel.also_see?.length) {
+    rows += relRow('انظر أيضاً', renderIdList(rel.also_see, 'sim-chip', 6));
+  }
+
+  // 7. Verb relations
+  if (rel.entailments?.length) {
+    rows += relRow('يستلزم', renderIdList(rel.entailments, 'sim-chip', 6));
+  }
+  if (rel.causes?.length) {
+    rows += relRow('يتسبب في', renderIdList(rel.causes, 'sim-chip', 6));
+  }
+
+  // 8. Attributes
+  if (rel.attributes?.length) {
+    rows += relRow('صفاته', renderIdList(rel.attributes, 'sim-chip', 6));
+  }
+
+  // 9. Derivations
+  if (rel.derivations?.length) {
+    rows += relRow('مشتقاته', renderIdList(rel.derivations, 'sim-chip', 6));
+  }
+
+  if (!rows) return '';
+  return `<div class="rels">${rows}</div>`;
+}
+
+function relRow(label, content) {
+  return `<div class="rel-row">
+    <span class="rel-label">${label}</span>
+    <div class="rel-content">${content}</div>
+  </div>`;
+}
+
+// Build full hypernym chain: [synId, hyper1, hyper2, ..., root]
+function buildHyperChain(synId) {
+  const chain = [synId];
+  let current = synId;
+  const MAX = 16;
+  const visited = new Set([synId]);
+  for (let i = 0; i < MAX; i++) {
+    const rel = RELS[current];
+    if (!rel) break;
+    const parents = rel.hypernyms || rel.instance_hypernyms || [];
+    if (!parents.length) break;
+    const parent = parents[0];
+    if (visited.has(parent)) break;
+    visited.add(parent);
+    chain.push(parent);
+    current = parent;
+    if (parent === 'entity.n.01') break;
+  }
+  return chain;
+}
+
+function renderHyperChain(chain, selfId) {
+  // chain[0] is self, chain[last] is root
+  // Display: self ← parent ← grandparent ← … ← root
+  let parts = [];
+  chain.forEach((id, i) => {
+    if (i === 0) return; // skip self
+    const words = getSynsetWords(id);
+    const isRoot = (i === chain.length - 1);
+    const label = words.length ? words[0] : id.split('.')[0].replace(/_/g,' ');
+    const title = words.join('، ') + ' — ' + id;
+    if (isRoot) {
+      parts.push(`<span class="hyper-root" title="${title}">${label}</span>`);
+    } else {
+      parts.push(`<span class="hyper-link" title="${title}" onclick="search('${escQ(label)}')">${label}</span>`);
+    }
+  });
+  if (!parts.length) return '';
+  return `<div class="hyper-chain">${parts.map((p,i) => i<parts.length-1 ? p+'<span class="hyper-arrow"> ← </span>' : p).join('')}</div>`;
+}
+
+function renderIdList(ids, chipClass, maxShow) {
+  const shown = ids.slice(0, maxShow);
+  const rest  = ids.length - maxShow;
+  let html = '<div class="hypo-list">';
+  shown.forEach(id => {
+    const words = getSynsetWords(id);
+    const label = words.length ? words[0] : id.split('.')[0].replace(/_/g,' ');
+    const title = words.join('، ') + ' — ' + id;
+    html += `<span class="${chipClass}" title="${title}" onclick="search('${escQ(label)}')">${label}</span>`;
+  });
+  if (rest > 0) {
+    html += `<span class="hypo-chip more">+${rest} أخرى</span>`;
+  }
+  html += '</div>';
+  return html;
+}
+
+// Get Arabic words for a synset ID
+function getSynsetWords(id) {
+  const s = SYNS[id];
+  if (s && s.words_ar && s.words_ar.length) {
+    return s.words_ar.filter(Boolean).slice(0, 3);
+  }
+  // Fallback: humanize the synset ID
+  return [];
+}
+
+// ── MAQAYIS ──────────────────────────────────────────────────────────────────
+function renderMaqayis(roots) {
+  if (!maqReady || !MAQ || !roots || !roots.length) return '';
+  let found = null;
+  for (const r of roots) {
+    const key = norm(r);
+    if (MAQ[key]) { found = MAQ[key]; break; }
+    if (MAQ[r])   { found = MAQ[r];   break; }
+  }
+  if (!found) return '';
+  const snippet = found.body_snippet || '';
+  const display = found.root_display || found.letters || '';
+  const letters = found.letters || '';
+  return `<div class="maq-box">
+    <div class="maq-root-title">
+      <span class="maq-badge">مقاييس</span>${display}
+    </div>
+    ${letters !== display ? `<div class="maq-root-letters">${letters}</div>` : ''}
+    ${snippet ? `<div class="maq-text">${snippet}</div>` : ''}
+  </div>`;
+}
+
+// ── UTILS ────────────────────────────────────────────────────────────────────
+function escQ(s) {
+  return (s || '').replace(/'/g, "\\'");
+}
+
+// ── INIT ─────────────────────────────────────────────────────────────────────
+loadAll();
+</script>
+</body>
+</html>
