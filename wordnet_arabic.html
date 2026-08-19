@@ -6,158 +6,149 @@
 <title>المعجم العربي الشامل — Arabic WordNet</title>
 <style>
 :root {
-  --green: #1a6b4a;
-  --green2: #2d8c63;
-  --bg: #f5f4f1;
-  --surface: #ffffff;
-  --border: #ddd9d0;
-  --text: #111;
-  --text2: #555;
-  --text3: #888;
-  --noun-c: #1a5fa8;
-  --verb-c: #a83218;
-  --adj-c: #7b3ea8;
-  --adv-c: #2d7a3a;
-  --rel-bg: #f8f7f4;
-  --chip-bg: #e8f0eb;
-  --chip-hover: #d0e8d8;
-  --arrow: #bbb;
-  --hyper-line: #c8ddd0;
+  --green:#1a6b4a; --green2:#2d8c63; --green3:#d4eedd;
+  --bg:#f5f4f1; --surface:#fff; --border:#ddd9d0;
+  --text:#111; --text2:#555; --text3:#999;
+  --noun:#1a5fa8; --verb:#a83218; --adj:#7b3ea8; --adv:#2d7a3a;
+  --wazn-bg:#fff8e8; --wazn-border:#e8c870; --wazn-c:#7a5000;
+  --wazn-badge:#f0c840; --wazn-badge-c:#5a3800;
+  --rel-arrow:#aaa;
 }
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: 'Segoe UI', Tahoma, Arial, sans-serif; background: var(--bg); color: var(--text); font-size: 15px; line-height: 1.6; }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',Tahoma,Arial,sans-serif;background:var(--bg);color:var(--text);font-size:15px;line-height:1.6}
 
 /* HEADER */
-.hdr { background: var(--green); color: #fff; padding: 14px 28px; display: flex; align-items: center; gap: 16px; }
-.hdr-logo { font-size: 1.6rem; font-weight: 800; letter-spacing: -0.5px; }
-.hdr-sub { font-size: .78rem; opacity: .75; margin-top: 1px; }
-.hdr-lang { margin-right: auto; font-size: .75rem; opacity: .6; direction: ltr; }
+.hdr{background:var(--green);color:#fff;padding:13px 24px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.hdr-logo{font-size:1.4rem;font-weight:800}
+.hdr-sub{font-size:.75rem;opacity:.75;margin-top:1px}
+.hdr-stats{margin-right:auto;font-size:.72rem;opacity:.6;direction:ltr;text-align:left}
 
-/* SEARCH BAR */
-.search-bar { background: var(--green2); padding: 14px 28px; position: sticky; top: 0; z-index: 200; box-shadow: 0 2px 8px rgba(0,0,0,.2); }
-.search-inner { max-width: 680px; margin: 0 auto; position: relative; }
-#q { width: 100%; padding: 11px 18px 11px 44px; font-size: 1.15rem; border: none; border-radius: 8px; background: #fff; color: var(--text); direction: rtl; font-family: inherit; outline: none; box-shadow: 0 1px 4px rgba(0,0,0,.15); }
-#q:focus { box-shadow: 0 0 0 3px rgba(255,255,255,.3); }
-.search-clear { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); background: none; border: none; color: #999; cursor: pointer; font-size: 1rem; display: none; }
-.search-hint { text-align: center; color: rgba(255,255,255,.65); font-size: .78rem; margin-top: 7px; }
+/* TABS + SEARCH */
+.search-bar{background:var(--green2);padding:12px 24px 0;position:sticky;top:0;z-index:200;box-shadow:0 2px 8px rgba(0,0,0,.2)}
+.search-tabs{display:flex;gap:4px;margin-bottom:10px}
+.tab-btn{background:rgba(255,255,255,.15);color:rgba(255,255,255,.85);border:none;border-radius:6px 6px 0 0;padding:7px 18px;cursor:pointer;font-size:.85rem;font-family:inherit;transition:background .15s}
+.tab-btn.active{background:#fff;color:var(--green);font-weight:700}
+.search-inner{max-width:700px;margin:0 auto;position:relative}
+#q{width:100%;padding:11px 18px 11px 44px;font-size:1.1rem;border:none;border-radius:8px;background:#fff;color:var(--text);direction:rtl;font-family:inherit;outline:none;box-shadow:0 1px 4px rgba(0,0,0,.15)}
+.search-clear{position:absolute;left:12px;top:50%;transform:translateY(-50%);background:none;border:none;color:#999;cursor:pointer;font-size:1rem;display:none}
+.search-hint{text-align:center;color:rgba(255,255,255,.65);font-size:.76rem;padding:6px 0 10px}
 
-/* LAYOUT */
-.body-wrap { max-width: 960px; margin: 0 auto; padding: 20px 16px 60px; }
+/* BODY */
+.body-wrap{max-width:980px;margin:0 auto;padding:20px 16px 70px}
 
 /* LOADING */
-.loading { text-align: center; padding: 60px 20px; color: var(--text3); }
-.loading-spinner { width: 36px; height: 36px; border: 3px solid var(--border); border-top-color: var(--green); border-radius: 50%; animation: spin .8s linear infinite; margin: 0 auto 14px; }
-@keyframes spin { to { transform: rotate(360deg); } }
-.load-steps { font-size: .8rem; margin-top: 10px; }
-.load-step { padding: 3px 0; transition: color .2s; }
-.load-step.done { color: var(--green); }
-.load-step.active { color: var(--text); font-weight: 600; }
+.loading{text-align:center;padding:60px 20px;color:var(--text3)}
+.spinner{width:36px;height:36px;border:3px solid var(--border);border-top-color:var(--green);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 14px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.load-step{padding:3px 0;font-size:.8rem;transition:color .2s}
+.load-step.done{color:var(--green)} .load-step.active{color:var(--text);font-weight:600}
 
 /* WELCOME */
-.welcome { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 32px; text-align: center; color: var(--text2); }
-.welcome h2 { color: var(--green); font-size: 1.2rem; margin-bottom: 12px; }
-.welcome p { font-size: .9rem; margin-bottom: 16px; }
-.examples { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 16px; }
-.ex-chip { background: var(--chip-bg); border: 1px solid var(--border); border-radius: 20px; padding: 6px 16px; cursor: pointer; font-size: .95rem; transition: background .15s; color: var(--green); font-weight: 500; }
-.ex-chip:hover { background: var(--chip-hover); }
+.welcome{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:30px;text-align:center;color:var(--text2)}
+.welcome h2{color:var(--green);font-size:1.15rem;margin-bottom:10px}
+.welcome p{font-size:.88rem;margin-bottom:14px;line-height:1.7}
+.ex-chips{display:flex;flex-wrap:wrap;gap:7px;justify-content:center;margin-top:14px}
+.ex-chip{background:var(--green3);border:1px solid #a0d8b8;border-radius:20px;padding:5px 15px;cursor:pointer;font-size:.92rem;color:var(--green);font-weight:600;transition:background .12s}
+.ex-chip:hover{background:#b8ecd4}
+.wazn-panel{margin-top:20px;border-top:1px solid var(--border);padding-top:18px}
+.wazn-panel h3{font-size:.85rem;color:var(--text2);margin-bottom:12px;text-transform:uppercase;letter-spacing:.4px}
+.wazn-pills{display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
+.wazn-pill{background:var(--wazn-bg);border:1px solid var(--wazn-border);border-radius:8px;padding:5px 14px;cursor:pointer;display:flex;flex-direction:column;align-items:center;min-width:80px;transition:background .12s}
+.wazn-pill:hover{background:#fdefc8}
+.wp-wazn{font-size:1rem;font-weight:700;color:var(--wazn-c)}
+.wp-count{font-size:.68rem;color:var(--text3)}
+.wp-op{font-size:.7rem;color:#a07020}
 
 /* POS SECTION */
-.pos-section { margin-bottom: 28px; }
-.pos-header { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .6px; padding: 7px 14px; border-radius: 6px 6px 0 0; color: #fff; margin-bottom: 0; }
-.pos-header.n { background: var(--noun-c); }
-.pos-header.v { background: var(--verb-c); }
-.pos-header.a, .pos-header.s { background: var(--adj-c); }
-.pos-header.r { background: var(--adv-c); }
-.pos-body { border: 1px solid var(--border); border-top: none; border-radius: 0 0 8px 8px; background: var(--surface); }
+.pos-section{margin-bottom:24px}
+.pos-hdr{font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.5px;padding:7px 14px;border-radius:6px 6px 0 0;color:#fff}
+.pos-hdr.n{background:var(--noun)} .pos-hdr.v{background:var(--verb)}
+.pos-hdr.a,.pos-hdr.s{background:var(--adj)} .pos-hdr.r{background:var(--adv)}
+.pos-body{border:1px solid var(--border);border-top:none;border-radius:0 0 8px 8px;background:var(--surface)}
 
-/* SENSE CARD */
-.sense { border-bottom: 1px solid var(--border); padding: 18px 20px; }
-.sense:last-child { border-bottom: none; }
+/* SENSE */
+.sense{border-bottom:1px solid var(--border);padding:16px 18px}
+.sense:last-child{border-bottom:none}
+.sense-meta{display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+.sense-num{color:#fff;border-radius:4px;padding:1px 8px;font-size:.72rem;font-weight:700;flex-shrink:0}
+.num-n{background:var(--noun)} .num-v{background:var(--verb)}
+.num-a,.num-s{background:var(--adj)} .num-r{background:var(--adv)}
 
-.sense-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 8px; flex-wrap: wrap; }
-.sense-num { background: var(--noun-c); color: #fff; border-radius: 4px; padding: 1px 8px; font-size: .75rem; font-weight: 700; flex-shrink: 0; }
-.sense-num.n { background: var(--noun-c); }
-.sense-num.v { background: var(--verb-c); }
-.sense-num.a, .sense-num.s { background: var(--adj-c); }
-.sense-num.r { background: var(--adv-c); }
+/* WAZN BADGE — the new star */
+.wazn-badge{background:var(--wazn-badge);color:var(--wazn-badge-c);border:1px solid #d4a820;border-radius:6px;padding:2px 10px;font-size:.85rem;font-weight:700;cursor:pointer;transition:background .12s;display:inline-flex;align-items:center;gap:5px}
+.wazn-badge:hover{background:#e8b010;color:#3a2000}
+.wazn-badge .wb-op{font-size:.65rem;color:#8a6010;font-weight:400;margin-right:4px}
+.domain-badge{background:#e8e8e8;color:var(--text2);border-radius:3px;padding:1px 7px;font-size:.7rem}
 
-/* Arabic synonym chips */
-.syn-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
-.syn-chip { background: var(--chip-bg); border: 1px solid #c5ddd0; border-radius: 20px; padding: 3px 13px; cursor: pointer; font-size: .95rem; color: #1a4a35; transition: background .12s; }
-.syn-chip:hover { background: var(--chip-hover); }
-.syn-chip.primary { font-weight: 700; background: var(--green); color: #fff; border-color: var(--green); }
-.syn-chip.primary:hover { background: var(--green2); }
+/* SYNONYMS */
+.syn-chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+.syn-chip{background:#e8f4ee;border:1px solid #b8ddc8;border-radius:20px;padding:3px 12px;cursor:pointer;font-size:.93rem;color:#1a4a35;transition:background .12s}
+.syn-chip:hover{background:#c8ecd8}
+.syn-chip.primary{background:var(--green);color:#fff;border-color:var(--green);font-weight:700}
+.syn-chip.primary:hover{background:var(--green2)}
 
-/* English synonyms */
-.syn-en { color: var(--text3); font-size: .82rem; font-style: italic; direction: ltr; text-align: right; margin-bottom: 6px; }
+/* DEFINITIONS */
+.def-ar{font-size:.97rem;margin-bottom:4px}
+.def-en{color:var(--text2);font-size:.82rem;font-style:italic;direction:ltr;text-align:right;margin-bottom:6px}
+.examples-row{color:var(--text2);font-size:.82rem;margin-bottom:6px}
+.examples-row::before{content:'مثال: ';color:var(--text3)}
 
-/* Definition */
-.def-ar { font-size: 1rem; margin-bottom: 4px; }
-.def-en { color: var(--text2); font-size: .85rem; font-style: italic; direction: ltr; text-align: right; margin-bottom: 8px; }
-.examples-list { color: var(--text2); font-size: .85rem; margin-bottom: 8px; }
-.examples-list::before { content: 'مثال: '; color: var(--text3); font-style: normal; }
+/* RELATIONS */
+.rels{margin-top:11px;border-top:1px dashed var(--border);padding-top:11px;display:flex;flex-direction:column;gap:8px}
+.rel-row{display:flex;align-items:flex-start;gap:10px}
+.rel-label{color:var(--text3);font-size:.76rem;white-space:nowrap;padding-top:3px;min-width:76px;flex-shrink:0}
+.rel-label::after{content:':'}
+.rel-content{flex:1}
+.hyper-chain{display:flex;flex-wrap:wrap;align-items:center;gap:4px;direction:rtl}
+.hyper-link{color:var(--noun);cursor:pointer;font-size:.86rem;border-bottom:1px dotted var(--noun);transition:color .12s}
+.hyper-link:hover{color:var(--green)}
+.hyper-arr{color:var(--rel-arrow);font-size:.78rem}
+.hyper-root{color:var(--text3);font-size:.8rem;font-style:italic}
+.chip-list{display:flex;flex-wrap:wrap;gap:4px}
+.chip{border-radius:4px;padding:2px 8px;cursor:pointer;font-size:.82rem;transition:background .12s}
+.chip-hypo{background:#eef3ff;border:1px solid #c0d0f0;color:var(--noun)}
+.chip-hypo:hover{background:#d8e6fc}
+.chip-mero{background:#fff6e8;border:1px solid #e8d090;color:#7a5000}
+.chip-mero:hover{background:#fce8b8}
+.chip-ant{background:#fff0f0;border:1px solid #f0b8b8;color:#a83218}
+.chip-ant:hover{background:#fcdcdc}
+.chip-sim{background:#f8f0ff;border:1px solid #d8c0f0;color:#7b3ea8}
+.chip-sim:hover{background:#ecdcfc}
+.chip-more{background:none;border:1px dashed #ccc;color:var(--text3);cursor:default}
 
-/* RELATIONS AREA */
-.rels { margin-top: 12px; border-top: 1px dashed var(--border); padding-top: 12px; display: flex; flex-direction: column; gap: 10px; }
-.rel-row { display: flex; align-items: flex-start; gap: 10px; }
-.rel-label { color: var(--text3); font-size: .78rem; white-space: nowrap; padding-top: 4px; min-width: 80px; flex-shrink: 0; }
-.rel-label::after { content: ':'; }
-.rel-content { flex: 1; }
-
-/* Hypernym chain */
-.hyper-chain { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; direction: rtl; }
-.hyper-node { display: inline-flex; align-items: center; gap: 4px; }
-.hyper-link { color: var(--noun-c); cursor: pointer; font-size: .88rem; border-bottom: 1px dotted var(--noun-c); transition: color .12s; }
-.hyper-link:hover { color: var(--green); }
-.hyper-arrow { color: var(--arrow); font-size: .8rem; }
-.hyper-root { color: var(--text3); font-size: .82rem; font-style: italic; }
-
-/* Hyponym list */
-.hypo-list { display: flex; flex-wrap: wrap; gap: 5px; }
-.hypo-chip { background: #f0f5ff; border: 1px solid #c8d8f0; border-radius: 4px; padding: 2px 9px; cursor: pointer; font-size: .84rem; color: var(--noun-c); transition: background .12s; }
-.hypo-chip:hover { background: #dce8fc; }
-.hypo-chip.more { color: var(--text3); background: none; border-style: dashed; cursor: default; }
-
-/* Mero/holo chips */
-.mero-chip { background: #fff8ee; border: 1px solid #e8d8b0; border-radius: 4px; padding: 2px 9px; cursor: pointer; font-size: .84rem; color: #7a5010; transition: background .12s; }
-.mero-chip:hover { background: #fceedd; }
-
-/* Antonym chips */
-.ant-chip { background: #fff0f0; border: 1px solid #f0c8c8; border-radius: 4px; padding: 2px 9px; cursor: pointer; font-size: .84rem; color: #a83218; transition: background .12s; }
-.ant-chip:hover { background: #fce0e0; }
-
-/* Similar/also-see chips */
-.sim-chip { background: #f6f0ff; border: 1px solid #d8c8f0; border-radius: 4px; padding: 2px 9px; cursor: pointer; font-size: .84rem; color: #7b3ea8; transition: background .12s; }
-.sim-chip:hover { background: #ecdcfc; }
-
-/* Maqayis section */
-.maq-box { background: #faf6ee; border: 1px solid #d8c88a; border-radius: 6px; padding: 12px 16px; margin-top: 12px; }
-.maq-root-title { font-weight: 700; font-size: 1.1rem; color: #6a4a10; margin-bottom: 4px; }
-.maq-root-letters { font-size: .8rem; color: #9a8040; margin-bottom: 6px; }
-.maq-text { font-size: .88rem; color: #5a4020; line-height: 1.7; }
-.maq-badge { display: inline-block; background: #d8c88a; color: #6a4a10; border-radius: 3px; padding: 1px 7px; font-size: .7rem; font-weight: 700; margin-left: 6px; }
-
-/* Domain badge */
-.domain-badge { background: #e8e8e8; color: var(--text2); border-radius: 3px; padding: 1px 7px; font-size: .72rem; margin-right: 6px; }
+/* MAQAYIS */
+.maq-box{background:#faf5e8;border:1px solid #d8c070;border-radius:6px;padding:11px 14px;margin-top:10px}
+.maq-badge{background:#c8a030;color:#fff;border-radius:3px;padding:1px 7px;font-size:.68rem;font-weight:700;margin-left:6px}
+.maq-title{font-weight:700;font-size:1.05rem;color:#6a4000;margin-bottom:4px}
+.maq-text{font-size:.85rem;color:#5a3a10;line-height:1.7}
 
 /* SYNSET ID */
-.synset-id { color: var(--text3); font-size: .72rem; direction: ltr; margin-top: 4px; }
+.syn-id{color:var(--text3);font-size:.7rem;direction:ltr;margin-top:4px}
 
-/* No results */
-.no-results { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 40px; text-align: center; color: var(--text3); }
-.no-results strong { color: var(--text); display: block; margin-bottom: 8px; font-size: 1.1rem; }
+/* WAZN SEARCH MODE */
+.wazn-result-hdr{background:var(--wazn-bg);border:1px solid var(--wazn-border);border-radius:8px;padding:14px 18px;margin-bottom:16px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.wazn-result-big{font-size:1.8rem;font-weight:700;color:var(--wazn-c)}
+.wazn-result-label{font-size:.9rem;color:#8a6010}
+.wazn-result-op{font-size:.8rem;color:var(--text3);margin-top:2px}
+.wazn-count-badge{background:var(--wazn-badge);color:var(--wazn-badge-c);border-radius:20px;padding:3px 12px;font-size:.82rem;font-weight:700;margin-right:auto}
+.wazn-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;margin-bottom:18px}
+.wazn-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:12px 14px;cursor:pointer;transition:border-color .15s,box-shadow .15s}
+.wazn-card:hover{border-color:var(--green);box-shadow:0 2px 8px rgba(26,107,74,.1)}
+.wc-word{font-size:1rem;font-weight:700;color:var(--green);margin-bottom:4px}
+.wc-pos{font-size:.7rem;color:var(--text3);margin-bottom:4px}
+.wc-def{font-size:.8rem;color:var(--text2);overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.wazn-show-more{text-align:center;margin-top:10px}
+.show-more-btn{background:var(--green3);border:1px solid #a0d8b8;border-radius:20px;padding:7px 24px;cursor:pointer;font-size:.85rem;color:var(--green);font-weight:600;font-family:inherit}
+.show-more-btn:hover{background:#b8ecd4}
 
-/* Status bar */
-.status-bar { position: fixed; bottom: 0; right: 0; left: 0; background: rgba(255,255,255,.92); border-top: 1px solid var(--border); padding: 5px 20px; font-size: .75rem; color: var(--text3); display: flex; justify-content: space-between; backdrop-filter: blur(4px); }
-.status-green { color: var(--green); }
+/* NO RESULTS */
+.no-results{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:40px;text-align:center;color:var(--text3)}
+.no-results strong{color:var(--text);display:block;margin-bottom:8px;font-size:1.1rem}
 
-/* Loading overlay for relations */
-.rel-loading { color: var(--text3); font-size: .8rem; font-style: italic; }
+/* STATUS BAR */
+.status-bar{position:fixed;bottom:0;right:0;left:0;background:rgba(255,255,255,.93);border-top:1px solid var(--border);padding:5px 20px;font-size:.73rem;color:var(--text3);display:flex;justify-content:space-between;backdrop-filter:blur(4px)}
 
-@media (max-width: 600px) {
-  .rel-row { flex-direction: column; gap: 4px; }
-  .rel-label { min-width: unset; }
-}
+@media(max-width:600px){.rel-row{flex-direction:column;gap:3px}.rel-label{min-width:unset}.wazn-grid{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -165,476 +156,412 @@ body { font-family: 'Segoe UI', Tahoma, Arial, sans-serif; background: var(--bg)
 <div class="hdr">
   <div>
     <div class="hdr-logo">المعجم العربي الشامل</div>
-    <div class="hdr-sub">Arabic WordNet — مبني على شجرة WordNet الإنجليزية</div>
+    <div class="hdr-sub">Arabic WordNet + طبقة الأوزان الصرفية</div>
   </div>
-  <div class="hdr-lang">WordNet 3.1 · 117,659 synset · 102,636 مفهوم عربي</div>
+  <div class="hdr-stats">WordNet 3.1 · 102,636 مفهوم · 34 وزناً صرفياً</div>
 </div>
 
 <div class="search-bar">
+  <div class="search-tabs">
+    <button class="tab-btn active" id="tab-word" onclick="switchTab('word')">🔍 بحث بالكلمة</button>
+    <button class="tab-btn" id="tab-wazn" onclick="switchTab('wazn')">⚖ بحث بالوزن</button>
+  </div>
   <div class="search-inner">
-    <input id="q" type="text" placeholder="اكتب كلمة عربية للبحث…" autocomplete="off" spellcheck="false">
-    <button class="search-clear" id="clear-btn" title="مسح">✕</button>
+    <input id="q" type="text" placeholder="اكتب كلمة عربية…" autocomplete="off" spellcheck="false">
+    <button class="search-clear" id="clear-btn">✕</button>
   </div>
   <div class="search-hint" id="search-hint">جاري تحميل البيانات…</div>
 </div>
 
 <div class="body-wrap" id="main">
   <div class="loading" id="loading">
-    <div class="loading-spinner"></div>
+    <div class="spinner"></div>
     <div>جاري التحميل…</div>
-    <div class="load-steps">
+    <div style="margin-top:10px">
       <div class="load-step active" id="step1">⏳ فهرس البحث (4 ميغا)</div>
       <div class="load-step" id="step2">⏳ بيانات المفاهيم (10 ميغا)</div>
       <div class="load-step" id="step3">⏳ شجرة العلاقات (13 ميغا)</div>
-      <div class="load-step" id="step4">⏳ معجم مقاييس اللغة</div>
+      <div class="load-step" id="step4">⏳ الأوزان الصرفية (7 ميغا)</div>
+      <div class="load-step" id="step5">⏳ معجم مقاييس اللغة</div>
     </div>
   </div>
 </div>
 
 <div class="status-bar">
-  <span id="status-left">جاري التحميل…</span>
-  <span id="status-right" class="status-green"></span>
+  <span id="status-l">جاري التحميل…</span>
+  <span id="status-r" style="color:var(--green)"></span>
 </div>
 
 <script>
-// ── DATA ─────────────────────────────────────────────────────────────────────
-const BASE     = './data/wordnet/';
-const MAQ_PATH = '../Maqaiys-roots/output/maqayis_all_roots.json';
+// ── DATA ─────────────────────────────────────────────────────────────────
+const BASE    = './data/wordnet/';
+const MAQ_P   = '../Maqaiys-roots/output/maqayis_all_roots.json';
 
-let IDX   = null;   // {arabic_word: [synset_id, ...]}
-let SYNS  = null;   // {synset_id: synset_obj}
-let RELS  = null;   // {synset_id: {hypernyms, hyponyms, ...}}
-let MAQ   = null;   // {root_letters: entry}
-let relsReady = false;
-let maqReady  = false;
+let IDX   = null;  // {word: [sid]}
+let SYNS  = null;  // {sid: obj}
+let RELS  = null;  // {sid: {hypernyms,...}}
+let WAZN  = null;  // {wazn_map:{sid:wazn_obj}, wazn_index:{label:[sids]}}
+let MAQ   = null;  // {letters: entry}
 
-// Arabic normalization
-function norm(s) {
-  return (s || '')
-    .replace(/[ً-ٰٟ]/g, '')  // strip diacritics
-    .replace(/[أإآٱ]/g, 'ا')
-    .replace(/ى/g, 'ي')
-    .replace(/ة/g, 'ه')
-    .trim();
+let relsReady = false, waznReady = false, maqReady = false;
+
+const POS_AR = {n:'اسم', v:'فعل', a:'صفة', s:'صفة', r:'ظرف'};
+const POS_EN = {n:'Noun', v:'Verb', a:'Adj', s:'Adj', r:'Adv'};
+
+let MODE = 'word';  // 'word' | 'wazn'
+let waznShowLimit = 60;
+
+// ── NORMALIZE ──────────────────────────────────────────────────────────────
+function norm(s){
+  return (s||'').replace(/[\u064B-\u065F\u0670]/g,'').replace(/[أإآٱ]/g,'ا').replace(/ى$/,'ي').replace(/ة$/,'ه').trim();
 }
 
-// POS labels
-const POS_LABEL = { n: 'اسم', v: 'فعل', a: 'صفة', s: 'صفة', r: 'ظرف' };
-const POS_LABEL_EN = { n: 'Noun', v: 'Verb', a: 'Adjective', s: 'Adjective', r: 'Adverb' };
-
-// Relation labels (Arabic)
-const REL_LABELS = {
-  hypernyms:          'نوع من',
-  instance_hypernyms: 'مثال على',
-  hyponyms:           'أنواعه',
-  instance_hyponyms:  'أمثلته',
-  part_meronyms:      'يتكون من',
-  substance_meronyms: 'مادته',
-  member_meronyms:    'أعضاؤه',
-  part_holonyms:      'جزء من',
-  substance_holonyms: 'مادة في',
-  member_holonyms:    'عضو في',
-  antonyms:           'عكسه',
-  similar_to:         'مشابه لـ',
-  also_see:           'انظر أيضاً',
-  entailments:        'يستلزم',
-  causes:             'يتسبب في',
-  attributes:         'صفاته',
-  derivations:        'مشتقاته',
-};
-
-// ── LOAD DATA ────────────────────────────────────────────────────────────────
-function step(id, done) {
-  const el = document.getElementById(id);
-  if (!el) return;
-  el.classList.remove('active');
-  if (done) { el.classList.add('done'); el.textContent = '✓ ' + el.textContent.slice(2); }
-  const steps = ['step1','step2','step3','step4'];
-  const next = steps[steps.indexOf(id) + 1];
-  if (next) document.getElementById(next).classList.add('active');
+// ── LOAD ──────────────────────────────────────────────────────────────────
+function stepDone(id){
+  const el=document.getElementById(id);
+  if(!el)return;
+  el.classList.remove('active');el.classList.add('done');
+  el.textContent='✓ '+el.textContent.slice(2);
+  const all=['step1','step2','step3','step4','step5'];
+  const nx=all[all.indexOf(id)+1];
+  if(nx)document.getElementById(nx).classList.add('active');
 }
+function setStatus(t){document.getElementById('status-l').textContent=t;document.getElementById('search-hint').textContent=t}
+function setStatusR(t){document.getElementById('status-r').textContent=t}
 
-async function loadAll() {
-  try {
-    // 1. search index
-    const r1 = await fetch(BASE + 'wordnet_search_index.json');
-    IDX = await r1.json();
-    step('step1', true);
-    setStatus('فهرس البحث جاهز ✓');
+async function loadAll(){
+  try{
+    const r1=await fetch(BASE+'wordnet_search_index.json');
+    IDX=await r1.json(); stepDone('step1'); setStatus('فهرس البحث جاهز');
 
-    // 2. synsets
-    const r2 = await fetch(BASE + 'wordnet_synsets.json');
-    const raw2 = await r2.json();
-    SYNS = {};
-    const arr = raw2.synsets || raw2;
-    arr.forEach(s => { SYNS[s.id] = s; });
-    step('step2', true);
-    setStatus('بيانات المفاهيم جاهزة ✓');
-
-    // Show UI after index + synsets (enough for basic search)
+    const r2=await fetch(BASE+'wordnet_synsets.json');
+    const raw2=await r2.json();
+    SYNS={};
+    (raw2.synsets||raw2).forEach(s=>SYNS[s.id]=s);
+    stepDone('step2'); setStatus('المفاهيم جاهزة — يمكنك البحث');
     showWelcome();
 
-    // 3. relations (background)
-    const r3 = await fetch(BASE + 'wordnet_relations.json');
-    RELS = await r3.json();
-    relsReady = true;
-    step('step3', true);
-    setStatus('شجرة العلاقات جاهزة ✓');
-    // Re-render current search if any
-    const q = document.getElementById('q').value.trim();
-    if (q) doSearch(q);
+    const r3=await fetch(BASE+'wordnet_relations.json');
+    RELS=await r3.json(); relsReady=true; stepDone('step3');
+    setStatus('شجرة العلاقات جاهزة'); redraw();
 
-    // 4. maqayis (background)
-    const r4 = await fetch(MAQ_PATH);
-    const raw4 = await r4.json();
-    MAQ = {};
-    const roots = raw4.roots || raw4;
-    roots.forEach(r => {
-      const key = norm(r.root_display || r.letters || '');
-      MAQ[key] = r;
-      // Also index by letters directly
-      if (r.letters) MAQ[r.letters] = r;
+    const r4=await fetch(BASE+'wordnet_wazn.json');
+    WAZN=await r4.json(); waznReady=true; stepDone('step4');
+    setStatus('الأوزان الصرفية جاهزة'); redraw(); showWelcome();
+
+    const r5=await fetch(MAQ_P);
+    const raw5=await r5.json();
+    MAQ={};
+    (raw5.roots||raw5).forEach(r=>{
+      const k=norm(r.root_display||r.letters||'');
+      MAQ[k]=r; if(r.letters)MAQ[r.letters]=r;
     });
-    maqReady = true;
-    step('step4', true);
-    setStatusRight('مقاييس اللغة جاهز ✓');
-    const q2 = document.getElementById('q').value.trim();
-    if (q2) doSearch(q2);
-
-  } catch(e) {
-    document.getElementById('main').innerHTML =
-      `<div class="no-results"><strong>خطأ في تحميل البيانات</strong>
-       <p>شغّل الصفحة من خلال: <code>python3 -m http.server 8000</code> من مجلد arabic-net</p>
-       <p style="color:#c00;margin-top:8px">${e.message}</p></div>`;
+    maqReady=true; stepDone('step5'); setStatusR('مقاييس ابن فارس جاهز ✓'); redraw();
+  }catch(e){
+    document.getElementById('main').innerHTML=
+      `<div class="no-results"><strong>خطأ</strong><p>شغّل من مجلد arabic-net: <code>python3 -m http.server 8000</code></p><p style="color:#c00">${e.message}</p></div>`;
   }
 }
 
-function setStatus(t) {
-  document.getElementById('status-left').textContent = t;
-  document.getElementById('search-hint').textContent = t;
-}
-function setStatusRight(t) {
-  document.getElementById('status-right').textContent = t;
+function redraw(){
+  const q=document.getElementById('q').value.trim();
+  if(!q) return;
+  if(MODE==='word') doWordSearch(q);
+  else doWaznSearch(q);
 }
 
-// ── WELCOME SCREEN ───────────────────────────────────────────────────────────
-function showWelcome() {
-  document.getElementById('loading').remove();
-  setStatus('جاهز للبحث');
-  document.getElementById('search-hint').textContent =
-    'ابحث عن أي كلمة عربية — الشجرة الكاملة ستظهر';
-  const examples = ['قطة','كتاب','علم','ماء','شجرة','قلب','نور','حكمة','بيت','وقت'];
-  document.getElementById('main').innerHTML = `
+// ── TAB SWITCH ─────────────────────────────────────────────────────────────
+function switchTab(t){
+  MODE=t;
+  document.getElementById('tab-word').classList.toggle('active',t==='word');
+  document.getElementById('tab-wazn').classList.toggle('active',t==='wazn');
+  const ph=t==='word'?'اكتب كلمة عربية…':'اكتب وزناً (مثل: فَاعِل، مَفْعُول)…';
+  document.getElementById('q').placeholder=ph;
+  document.getElementById('q').value='';
+  document.getElementById('clear-btn').style.display='none';
+  showWelcome();
+}
+
+// ── WELCOME ────────────────────────────────────────────────────────────────
+function showWelcome(){
+  const loading=document.getElementById('loading');
+  if(loading)loading.remove();
+
+  let waznPills='';
+  if(waznReady && WAZN){
+    const idx=WAZN.wazn_index||{};
+    const wmap=WAZN.wazn_map||{};
+    // Build list of unique wazns sorted by count
+    const seen={};
+    Object.entries(idx).sort((a,b)=>b[1].length-a[1].length).forEach(([label,sids])=>{
+      const sample=wmap[sids[0]]||{};
+      const wazn=sample.wazn||label;
+      const op=sample.op||'';
+      if(!seen[wazn]){
+        seen[wazn]=true;
+        waznPills+=`<div class="wazn-pill" onclick="searchWazn('${esc(label)}')">
+          <div class="wp-wazn">${wazn}</div>
+          <div class="wp-op">${op}</div>
+          <div class="wp-count">${sids.length.toLocaleString('ar')} معنى</div>
+        </div>`;
+      }
+    });
+  }
+
+  const examples=['قطة','كتاب','علم','ماء','شجرة','قلب','نور','حكمة','بيت'];
+  document.getElementById('main').innerHTML=`
     <div class="welcome">
-      <h2>المعجم العربي الشامل — Arabic WordNet</h2>
-      <p>102,636 مفهوم عربي مُرتّبٌ في شجرة WordNet العالمية مع علاقات كاملة:<br>
-         نوع من · أنواعه · يتكون من · جزء من · عكسه · مشابه لـ · وجذوره من مقاييس اللغة لابن فارس</p>
-      <div class="examples">
-        ${examples.map(w => `<span class="ex-chip" onclick="search('${w}')">${w}</span>`).join('')}
+      <h2>المعجم العربي الشامل — Arabic WordNet + الأوزان</h2>
+      <p>102,636 مفهوم عربي في شجرة WordNet العالمية،<br>
+         مع علاقات كاملة (نوع من / أنواعه / يتكون من / عكسه) وأوزان صرفية مربوطة بالشجرة.</p>
+      <div class="ex-chips">
+        ${examples.map(w=>`<span class="ex-chip" onclick="search('${w}')">${w}</span>`).join('')}
       </div>
+      ${waznPills?`<div class="wazn-panel"><h3>⚖ أوزان صرفية — انقر لعرض كل الكلمات على نفس الوزن</h3><div class="wazn-pills">${waznPills}</div></div>`:''}
     </div>`;
+  setStatus(waznReady?'جاهز — ابحث بالكلمة أو انقر وزناً':'جاري تحميل الأوزان…');
 }
 
-// ── SEARCH ───────────────────────────────────────────────────────────────────
-let debTimer = null;
-document.getElementById('q').addEventListener('input', e => {
-  clearTimeout(debTimer);
-  const v = e.target.value.trim();
-  document.getElementById('clear-btn').style.display = v ? 'block' : 'none';
-  if (!v) { showWelcome(); return; }
-  debTimer = setTimeout(() => doSearch(v), 220);
+// ── WORD SEARCH ────────────────────────────────────────────────────────────
+let debT=null;
+document.getElementById('q').addEventListener('input',e=>{
+  clearTimeout(debT);
+  const v=e.target.value.trim();
+  document.getElementById('clear-btn').style.display=v?'block':'none';
+  if(!v){showWelcome();return;}
+  debT=setTimeout(()=>{ if(MODE==='word') doWordSearch(v); else doWaznSearch(v); },220);
 });
-document.getElementById('clear-btn').addEventListener('click', () => {
-  document.getElementById('q').value = '';
-  document.getElementById('clear-btn').style.display = 'none';
+document.getElementById('clear-btn').addEventListener('click',()=>{
+  document.getElementById('q').value='';
+  document.getElementById('clear-btn').style.display='none';
   showWelcome();
 });
-document.getElementById('q').addEventListener('keydown', e => {
-  if (e.key === 'Escape') document.getElementById('clear-btn').click();
-});
 
-function search(word) {
-  document.getElementById('q').value = word;
-  document.getElementById('clear-btn').style.display = 'block';
-  doSearch(word);
+function search(word){
+  MODE='word';
+  document.getElementById('tab-word').classList.add('active');
+  document.getElementById('tab-wazn').classList.remove('active');
+  document.getElementById('q').value=word;
+  document.getElementById('clear-btn').style.display='block';
+  doWordSearch(word);
 }
 
-function doSearch(word) {
-  if (!IDX || !SYNS) return;
-  const nw = norm(word);
+function searchWazn(label){
+  MODE='wazn';
+  document.getElementById('tab-wazn').classList.add('active');
+  document.getElementById('tab-word').classList.remove('active');
+  document.getElementById('q').value=label;
+  document.getElementById('clear-btn').style.display='block';
+  waznShowLimit=60;
+  doWaznSearch(label);
+}
 
-  // Collect matching synset IDs
-  let ids = [];
-  // Exact normalized match first
-  for (const [k, v] of Object.entries(IDX)) {
-    if (norm(k) === nw) ids.push(...v);
-  }
-  // Partial match if nothing found
-  if (!ids.length) {
-    for (const [k, v] of Object.entries(IDX)) {
-      if (norm(k).includes(nw)) ids.push(...v);
-    }
-  }
-  // Deduplicate
-  ids = [...new Set(ids)];
-
-  if (!ids.length) {
-    document.getElementById('main').innerHTML =
-      `<div class="no-results"><strong>لا توجد نتائج لـ "${word}"</strong>
-       <p>جرّب كلمة مختلفة أو شكلاً آخر من الكلمة</p></div>`;
+function doWordSearch(word){
+  if(!IDX||!SYNS)return;
+  const nw=norm(word);
+  let ids=[];
+  for(const[k,v]of Object.entries(IDX)){if(norm(k)===nw)ids.push(...v);}
+  if(!ids.length)for(const[k,v]of Object.entries(IDX)){if(norm(k).includes(nw))ids.push(...v);}
+  ids=[...new Set(ids)];
+  if(!ids.length){
+    document.getElementById('main').innerHTML=`<div class="no-results"><strong>لا توجد نتائج لـ "${word}"</strong><p>جرّب كلمة أخرى</p></div>`;
     return;
   }
-
-  // Group by POS
-  const byPos = { n: [], v: [], a: [], s: [], r: [] };
-  ids.forEach(id => {
-    const s = SYNS[id];
-    if (s) byPos[s.pos || 'n'].push(s);
+  const byPos={n:[],v:[],a:[],s:[],r:[]};
+  ids.forEach(id=>{const s=SYNS[id];if(s)(byPos[s.pos||'n']).push(s);});
+  let html='';
+  ['n','v','a','s','r'].forEach(pos=>{
+    const g=byPos[pos]; if(!g.length)return;
+    html+=`<div class="pos-section">
+      <div class="pos-hdr ${pos}">${POS_AR[pos]} — ${POS_EN[pos]} (${g.length})</div>
+      <div class="pos-body">${g.map((s,i)=>renderSense(s,i+1,pos,word)).join('')}</div>
+    </div>`;
   });
-
-  let html = '';
-  const posOrder = ['n', 'v', 'a', 's', 'r'];
-  posOrder.forEach(pos => {
-    const group = byPos[pos];
-    if (!group.length) return;
-    html += `<div class="pos-section">
-      <div class="pos-header ${pos}">${POS_LABEL[pos] || pos} — ${POS_LABEL_EN[pos] || pos} &nbsp; (${group.length} معنى)</div>
-      <div class="pos-body">`;
-    group.forEach((s, i) => {
-      html += renderSense(s, i + 1, pos, word);
-    });
-    html += '</div></div>';
-  });
-
-  document.getElementById('main').innerHTML = html;
+  document.getElementById('main').innerHTML=html;
   setStatus(`${ids.length} معنى لـ "${word}"`);
 }
 
-// ── RENDER SENSE ─────────────────────────────────────────────────────────────
-function renderSense(s, num, pos, searchWord) {
-  const synId  = s.id || '';
-  const wordsAr = (s.words_ar || []).filter(Boolean);
-  const defAr  = s.def_ar || '';
-  const defEn  = s.def_en || '';
-  const domain = s.domain || '';
+// ── WAZN SEARCH ────────────────────────────────────────────────────────────
+function doWaznSearch(query){
+  if(!waznReady||!WAZN){
+    document.getElementById('main').innerHTML='<div class="no-results"><strong>الأوزان تُحمَّل…</strong></div>';
+    return;
+  }
+  const idx=WAZN.wazn_index||{};
+  const wmap=WAZN.wazn_map||{};
+  const nq=norm(query);
 
-  // Chips: highlight searched word
-  const nw = norm(searchWord);
-  const chipHtml = wordsAr.map(w => {
-    const isPrimary = norm(w) === nw;
-    return `<span class="syn-chip ${isPrimary?'primary':''}" onclick="search('${escQ(w)}')">${w}</span>`;
+  // Find matching label
+  let matchLabel=null, matchSids=[];
+  for(const[label,sids]of Object.entries(idx)){
+    const sample=wmap[sids[0]]||{};
+    const waznN=norm(sample.wazn||'');
+    const labelN=norm(label);
+    if(labelN===nq||waznN===nq||(labelN.includes(nq)&&nq.length>2)){
+      matchLabel=label; matchSids=sids; break;
+    }
+  }
+  if(!matchLabel||!matchSids.length){
+    document.getElementById('main').innerHTML=`<div class="no-results"><strong>لا يوجد وزن مطابق لـ "${query}"</strong><p>انقر على أحد الأوزان في الصفحة الرئيسية</p></div>`;
+    return;
+  }
+  const sample=wmap[matchSids[0]]||{};
+  const wazn=sample.wazn||matchLabel;
+  const op=sample.op||'';
+
+  const shown=matchSids.slice(0,waznShowLimit);
+  const cards=shown.map(sid=>{
+    const s=SYNS[sid]||{}; if(!s.id)return'';
+    const words=(s.words_ar||[]).filter(Boolean);
+    const def=s.def_ar||s.def_en||'';
+    const pos=s.pos||'n';
+    return `<div class="wazn-card" onclick="search('${esc(words[0]||'')}')">
+      <div class="wc-word">${words.slice(0,3).join(' · ')||'—'}</div>
+      <div class="wc-pos">${POS_AR[pos]||pos} · ${sid}</div>
+      ${def?`<div class="wc-def">${def}</div>`:''}
+    </div>`;
   }).join('');
 
-  // English words from RELS if available
-  let enWords = '';
-  if (relsReady && RELS[synId]) {
-    const we = (RELS[synId].words_en || []);
-    // we removed words_en from slim file — skip
-  }
+  const more=matchSids.length>waznShowLimit?
+    `<div class="wazn-show-more"><button class="show-more-btn" onclick="loadMoreWazn('${esc(matchLabel)}')">عرض ${Math.min(60,matchSids.length-waznShowLimit)} أخرى (من ${matchSids.length-waznShowLimit})</button></div>`:'';
 
-  const domBadge = domain ? `<span class="domain-badge">${domain}</span>` : '';
-
-  let inner = `
-    <div class="sense-head">
-      <span class="sense-num ${pos}">${num}</span>
-      ${domBadge}
+  document.getElementById('main').innerHTML=`
+    <div class="wazn-result-hdr">
+      <div>
+        <div class="wazn-result-big">${wazn}</div>
+        <div class="wazn-result-label">${matchLabel}</div>
+        <div class="wazn-result-op">العملية الدلالية: ${op}</div>
+      </div>
+      <div class="wazn-count-badge">${matchSids.length.toLocaleString('ar')} مفهوم</div>
     </div>
-    <div class="syn-chips">${chipHtml || `<span style="color:var(--text3)">(لا توجد كلمات عربية)</span>`}</div>`;
-
-  if (defAr) inner += `<div class="def-ar">${defAr}</div>`;
-  if (defEn) inner += `<div class="def-en">${defEn}</div>`;
-
-  // Relations
-  inner += renderRelations(synId, pos);
-
-  // Maqayis
-  inner += renderMaqayis(s.roots || []);
-
-  inner += `<div class="synset-id">${synId}</div>`;
-
-  return `<div class="sense">${inner}</div>`;
+    <div class="wazn-grid">${cards}</div>
+    ${more}`;
+  setStatus(`وزن "${wazn}" — ${matchSids.length} مفهوم`);
 }
 
-// ── RENDER RELATIONS ─────────────────────────────────────────────────────────
-function renderRelations(synId, pos) {
-  if (!relsReady) {
-    return `<div class="rels"><div class="rel-loading">⏳ جاري تحميل شجرة العلاقات…</div></div>`;
-  }
-  const rel = RELS[synId] || {};
-  let rows = '';
-
-  // 1. Hypernym chain (going up to root)
-  const hyperChain = buildHyperChain(synId);
-  if (hyperChain.length > 1) {
-    rows += relRow('نوع من', renderHyperChain(hyperChain, synId));
-  }
-
-  // 2. Hyponyms
-  const allHypo = [...(rel.hyponyms || []), ...(rel.instance_hyponyms || [])];
-  if (allHypo.length) {
-    rows += relRow('أنواعه', renderIdList(allHypo, 'hypo-chip', 12));
-  }
-
-  // 3. Part meronyms (has parts)
-  if (rel.part_meronyms?.length) {
-    rows += relRow('يتكون من', renderIdList(rel.part_meronyms, 'mero-chip', 8));
-  }
-  if (rel.substance_meronyms?.length) {
-    rows += relRow('مادته', renderIdList(rel.substance_meronyms, 'mero-chip', 8));
-  }
-  if (rel.member_meronyms?.length) {
-    rows += relRow('أعضاؤه', renderIdList(rel.member_meronyms, 'mero-chip', 8));
-  }
-
-  // 4. Holonyms (this is part of)
-  if (rel.part_holonyms?.length) {
-    rows += relRow('جزء من', renderIdList(rel.part_holonyms, 'mero-chip', 8));
-  }
-  if (rel.substance_holonyms?.length) {
-    rows += relRow('مادة في', renderIdList(rel.substance_holonyms, 'mero-chip', 8));
-  }
-  if (rel.member_holonyms?.length) {
-    rows += relRow('عضو في', renderIdList(rel.member_holonyms, 'mero-chip', 8));
-  }
-
-  // 5. Antonyms
-  if (rel.antonyms?.length) {
-    rows += relRow('عكسه', renderIdList(rel.antonyms, 'ant-chip', 8));
-  }
-
-  // 6. Similar to (adj)
-  if (rel.similar_to?.length) {
-    rows += relRow('مشابه لـ', renderIdList(rel.similar_to, 'sim-chip', 10));
-  }
-  if (rel.also_see?.length) {
-    rows += relRow('انظر أيضاً', renderIdList(rel.also_see, 'sim-chip', 6));
-  }
-
-  // 7. Verb relations
-  if (rel.entailments?.length) {
-    rows += relRow('يستلزم', renderIdList(rel.entailments, 'sim-chip', 6));
-  }
-  if (rel.causes?.length) {
-    rows += relRow('يتسبب في', renderIdList(rel.causes, 'sim-chip', 6));
-  }
-
-  // 8. Attributes
-  if (rel.attributes?.length) {
-    rows += relRow('صفاته', renderIdList(rel.attributes, 'sim-chip', 6));
-  }
-
-  // 9. Derivations
-  if (rel.derivations?.length) {
-    rows += relRow('مشتقاته', renderIdList(rel.derivations, 'sim-chip', 6));
-  }
-
-  if (!rows) return '';
-  return `<div class="rels">${rows}</div>`;
+function loadMoreWazn(label){
+  waznShowLimit+=60;
+  doWaznSearch(label);
 }
 
-function relRow(label, content) {
-  return `<div class="rel-row">
-    <span class="rel-label">${label}</span>
-    <div class="rel-content">${content}</div>
-  </div>`;
+// ── RENDER SENSE ───────────────────────────────────────────────────────────
+function renderSense(s,num,pos,searchWord){
+  const sid=s.id||'';
+  const words=(s.words_ar||[]).filter(Boolean);
+  const nw=norm(searchWord);
+
+  const chips=words.map(w=>`<span class="syn-chip${norm(w)===nw?' primary':''}" onclick="search('${esc(w)}')">${w}</span>`).join('');
+
+  // Wazn badge
+  let waznBadge='';
+  if(waznReady&&WAZN){
+    const we=(WAZN.wazn_map||{})[sid];
+    if(we){
+      waznBadge=`<span class="wazn-badge" onclick="searchWazn('${esc(we.label)}')" title="${we.op}">
+        ⚖ ${we.wazn}<span class="wb-op">${we.op}</span>
+      </span>`;
+    }
+  }
+
+  const domain=s.domain?`<span class="domain-badge">${s.domain}</span>`:'';
+
+  let html=`<div class="sense-meta">
+      <span class="sense-num num-${pos}">${num}</span>
+      ${waznBadge}${domain}
+    </div>
+    <div class="syn-chips">${chips||'<span style="color:var(--text3)">—</span>'}</div>`;
+
+  if(s.def_ar) html+=`<div class="def-ar">${s.def_ar}</div>`;
+  if(s.def_en) html+=`<div class="def-en">${s.def_en}</div>`;
+
+  html+=renderRelations(sid);
+  html+=renderMaqayis(s.roots||[]);
+  html+=`<div class="syn-id">${sid}</div>`;
+
+  return`<div class="sense">${html}</div>`;
 }
 
-// Build full hypernym chain: [synId, hyper1, hyper2, ..., root]
-function buildHyperChain(synId) {
-  const chain = [synId];
-  let current = synId;
-  const MAX = 16;
-  const visited = new Set([synId]);
-  for (let i = 0; i < MAX; i++) {
-    const rel = RELS[current];
-    if (!rel) break;
-    const parents = rel.hypernyms || rel.instance_hypernyms || [];
-    if (!parents.length) break;
-    const parent = parents[0];
-    if (visited.has(parent)) break;
-    visited.add(parent);
-    chain.push(parent);
-    current = parent;
-    if (parent === 'entity.n.01') break;
+// ── RELATIONS ──────────────────────────────────────────────────────────────
+function renderRelations(sid){
+  if(!relsReady) return`<div class="rels"><em style="color:var(--text3);font-size:.8rem">⏳ تحميل شجرة العلاقات…</em></div>`;
+  const rel=RELS[sid]||{};
+  let rows='';
+
+  const chain=hyperChain(sid);
+  if(chain.length>1) rows+=rRow('نوع من',renderChain(chain));
+
+  const hypo=[...(rel.hyponyms||[]),...(rel.instance_hyponyms||[])];
+  if(hypo.length) rows+=rRow('أنواعه',chipList(hypo,'chip-hypo',14));
+
+  if(rel.part_meronyms?.length)   rows+=rRow('يتكون من',chipList(rel.part_meronyms,'chip-mero',8));
+  if(rel.substance_meronyms?.length) rows+=rRow('مادته',chipList(rel.substance_meronyms,'chip-mero',6));
+  if(rel.member_meronyms?.length) rows+=rRow('أعضاؤه',chipList(rel.member_meronyms,'chip-mero',6));
+  if(rel.part_holonyms?.length)   rows+=rRow('جزء من',chipList(rel.part_holonyms,'chip-mero',6));
+  if(rel.member_holonyms?.length) rows+=rRow('عضو في',chipList(rel.member_holonyms,'chip-mero',6));
+  if(rel.antonyms?.length)        rows+=rRow('عكسه',chipList(rel.antonyms,'chip-ant',6));
+  if(rel.similar_to?.length)      rows+=rRow('مشابه لـ',chipList(rel.similar_to,'chip-sim',8));
+  if(rel.also_see?.length)        rows+=rRow('انظر أيضاً',chipList(rel.also_see,'chip-sim',6));
+  if(rel.entailments?.length)     rows+=rRow('يستلزم',chipList(rel.entailments,'chip-sim',5));
+  if(rel.causes?.length)          rows+=rRow('يتسبب في',chipList(rel.causes,'chip-sim',5));
+  if(rel.derivations?.length)     rows+=rRow('مشتقاته',chipList(rel.derivations,'chip-sim',6));
+
+  if(!rows)return'';
+  return`<div class="rels">${rows}</div>`;
+}
+
+function rRow(label,content){
+  return`<div class="rel-row"><span class="rel-label">${label}</span><div class="rel-content">${content}</div></div>`;
+}
+
+function hyperChain(sid){
+  const chain=[sid]; let cur=sid; const seen=new Set([sid]);
+  for(let i=0;i<15;i++){
+    const r=RELS[cur]||{}; const p=(r.hypernyms||r.instance_hypernyms||[])[0];
+    if(!p||seen.has(p))break; seen.add(p); chain.push(p); cur=p;
+    if(p==='entity.n.01')break;
   }
   return chain;
 }
 
-function renderHyperChain(chain, selfId) {
-  // chain[0] is self, chain[last] is root
-  // Display: self ← parent ← grandparent ← … ← root
-  let parts = [];
-  chain.forEach((id, i) => {
-    if (i === 0) return; // skip self
-    const words = getSynsetWords(id);
-    const isRoot = (i === chain.length - 1);
-    const label = words.length ? words[0] : id.split('.')[0].replace(/_/g,' ');
-    const title = words.join('، ') + ' — ' + id;
-    if (isRoot) {
-      parts.push(`<span class="hyper-root" title="${title}">${label}</span>`);
-    } else {
-      parts.push(`<span class="hyper-link" title="${title}" onclick="search('${escQ(label)}')">${label}</span>`);
-    }
-  });
-  if (!parts.length) return '';
-  return `<div class="hyper-chain">${parts.map((p,i) => i<parts.length-1 ? p+'<span class="hyper-arrow"> ← </span>' : p).join('')}</div>`;
+function renderChain(chain){
+  return`<div class="hyper-chain">${chain.slice(1).map((id,i,arr)=>{
+    const ws=synWords(id); const label=ws[0]||id.split('.')[0].replace(/_/g,' ');
+    const title=(ws.join('، ')||'')+' — '+id;
+    const isRoot=i===arr.length-1;
+    return(isRoot?`<span class="hyper-root" title="${title}">${label}</span>`:
+      `<span class="hyper-link" title="${title}" onclick="search('${esc(label)}')">${label}</span>`)
+      +(i<arr.length-1?'<span class="hyper-arr"> ← </span>':'');
+  }).join('')}</div>`;
 }
 
-function renderIdList(ids, chipClass, maxShow) {
-  const shown = ids.slice(0, maxShow);
-  const rest  = ids.length - maxShow;
-  let html = '<div class="hypo-list">';
-  shown.forEach(id => {
-    const words = getSynsetWords(id);
-    const label = words.length ? words[0] : id.split('.')[0].replace(/_/g,' ');
-    const title = words.join('، ') + ' — ' + id;
-    html += `<span class="${chipClass}" title="${title}" onclick="search('${escQ(label)}')">${label}</span>`;
-  });
-  if (rest > 0) {
-    html += `<span class="hypo-chip more">+${rest} أخرى</span>`;
-  }
-  html += '</div>';
-  return html;
+function chipList(ids,cls,max){
+  const sh=ids.slice(0,max); const rest=ids.length-max;
+  return`<div class="chip-list">${sh.map(id=>{
+    const ws=synWords(id); const label=ws[0]||id.split('.')[0].replace(/_/g,' ');
+    return`<span class="chip ${cls}" onclick="search('${esc(label)}')" title="${id}">${label}</span>`;
+  }).join('')}${rest>0?`<span class="chip chip-more">+${rest}</span>`:''}</div>`;
 }
 
-// Get Arabic words for a synset ID
-function getSynsetWords(id) {
-  const s = SYNS[id];
-  if (s && s.words_ar && s.words_ar.length) {
-    return s.words_ar.filter(Boolean).slice(0, 3);
-  }
-  // Fallback: humanize the synset ID
-  return [];
+function synWords(id){
+  const s=SYNS[id]; return s&&s.words_ar?s.words_ar.filter(Boolean).slice(0,3):[];
 }
 
-// ── MAQAYIS ──────────────────────────────────────────────────────────────────
-function renderMaqayis(roots) {
-  if (!maqReady || !MAQ || !roots || !roots.length) return '';
-  let found = null;
-  for (const r of roots) {
-    const key = norm(r);
-    if (MAQ[key]) { found = MAQ[key]; break; }
-    if (MAQ[r])   { found = MAQ[r];   break; }
-  }
-  if (!found) return '';
-  const snippet = found.body_snippet || '';
-  const display = found.root_display || found.letters || '';
-  const letters = found.letters || '';
-  return `<div class="maq-box">
-    <div class="maq-root-title">
-      <span class="maq-badge">مقاييس</span>${display}
-    </div>
-    ${letters !== display ? `<div class="maq-root-letters">${letters}</div>` : ''}
-    ${snippet ? `<div class="maq-text">${snippet}</div>` : ''}
+// ── MAQAYIS ────────────────────────────────────────────────────────────────
+function renderMaqayis(roots){
+  if(!maqReady||!MAQ||!roots.length)return'';
+  let found=null;
+  for(const r of roots){const k=norm(r);if(MAQ[k]){found=MAQ[k];break;}if(MAQ[r]){found=MAQ[r];break;}}
+  if(!found)return'';
+  return`<div class="maq-box">
+    <div class="maq-title"><span class="maq-badge">مقاييس</span>${found.root_display||found.letters||''}</div>
+    ${found.body_snippet?`<div class="maq-text">${found.body_snippet}</div>`:''}
   </div>`;
 }
 
-// ── UTILS ────────────────────────────────────────────────────────────────────
-function escQ(s) {
-  return (s || '').replace(/'/g, "\\'");
-}
+// ── UTILS ──────────────────────────────────────────────────────────────────
+function esc(s){return(s||'').replace(/'/g,"\\'").replace(/"/g,'&quot;')}
 
-// ── INIT ─────────────────────────────────────────────────────────────────────
+// ── INIT ───────────────────────────────────────────────────────────────────
 loadAll();
 </script>
 </body>
