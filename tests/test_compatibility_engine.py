@@ -4,7 +4,7 @@
 import sys, os, json
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from engines.compatibility_engine import (
+from word_tree.engines.compatibility_engine import (
     build_compatibility_map,
     parse_network_from_dict,
     parse_exceptions_from_dict,

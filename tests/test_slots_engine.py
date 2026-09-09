@@ -4,14 +4,14 @@
 import sys, os, json
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from engines.slots_engine import (
+from word_tree.engines.slots_engine import (
     parse_predicate_from_dict,
     find_compatible_pairs,
     group_by_predicate,
     group_by_signature,
     PredicateStructure,
 )
-from core.types import SemanticType
+from word_tree.core.types import SemanticType
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'pilot_roots.json')
 

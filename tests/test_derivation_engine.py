@@ -4,7 +4,7 @@
 import sys, os, json
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from engines.derivation_engine import derive_from_dict, DerivationSet
+from word_tree.engines.derivation_engine import derive_from_dict, DerivationSet
 
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'pilot_roots.json')

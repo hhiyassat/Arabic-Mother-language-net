@@ -143,6 +143,7 @@ def _detect_past_verb_base(
 class _DataStore:
     """حامل البيانات المرجعية الثلاثة"""
     _instance: Optional["_DataStore"] = None
+    _instances: Optional[dict] = None
 
     def __init__(self, db_path: str, csv_path: str):
         # محرك البحث عن الجذر
@@ -169,8 +170,15 @@ class _DataStore:
 
     @classmethod
     def get(cls, db_path: str = _DEFAULT_DB_PATH, csv_path: str = _DEFAULT_CSV_PATH) -> "_DataStore":
-        if cls._instance is None:
-            cls._instance = cls(db_path, csv_path)
+        # **المخزنُ يُفهرَس بمساره.** وكان مفردًا واحدًا يُنشأ بأوّل مسارٍ
+        # ثمّ يتجاهل ما بعده — فحقنُ مسارِ قاعدةٍ للاختبار كان يُهمَل صامتًا.
+        # والسلوكُ للمسارِ الافتراضيِّ كما كان: نسخةٌ واحدةٌ تُعاد.
+        key = (db_path, csv_path)
+        if cls._instances is None:
+            cls._instances = {}
+        if key not in cls._instances:
+            cls._instances[key] = cls(db_path, csv_path)
+        cls._instance = cls._instances[key]
         return cls._instance
 
     def candidates_from_word(self, word: str) -> list[str]:
@@ -220,6 +228,7 @@ def _build_lexical_identity(resolved_root: Optional[str], store: _DataStore) -> 
         # قد يكون موجوداً رغم ذلك — نتحقق فعلياً
         pass  # نكمل البحث ونُصنِّف بعدها
 
+    conn = None
     try:
         conn = sqlite3.connect(store._db_path)
         row = conn.execute(
@@ -281,6 +290,10 @@ def _build_lexical_identity(resolved_root: Optional[str], store: _DataStore) -> 
         )
 
 
+    finally:
+        # **الإغلاقُ في كلّ مسار** — ومنها الاستثناء.
+        if conn is not None:
+            conn.close()
 # ══════════════════════════════════════════════════════════════════════
 # تحليل الجذر (SILENT_FIRST_HIT_SELECTION = 0)
 # ══════════════════════════════════════════════════════════════════════
