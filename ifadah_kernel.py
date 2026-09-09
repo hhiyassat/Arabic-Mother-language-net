@@ -26,7 +26,7 @@ import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from wave11_ancestry import Wave11Ancestry, wave11_build
-from core.types import SemanticType
+from word_tree.core.types import SemanticType
 from ifadah_types import (
     SentenceType, IsnadType,
     FilledSlot, IfadahResult, Layer6Handoff,

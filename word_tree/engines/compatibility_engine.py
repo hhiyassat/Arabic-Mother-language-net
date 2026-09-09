@@ -10,8 +10,8 @@ from dataclasses import dataclass, field
 from typing import Optional
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
-from core.types import SemanticType
-from engines.slots_engine import PredicateStructure, parse_predicate_from_dict
+from word_tree.core.types import SemanticType
+from word_tree.engines.slots_engine import PredicateStructure, parse_predicate_from_dict
 
 
 # ══════════════════════════════════════════════════════════════════════
