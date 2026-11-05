@@ -1,6 +1,6 @@
 {
  "file": "wordnet_tahayyuz.json",
- "built": "2026-11-05",
+ "built": "2026-11-06",
  "builder": "tahayyuz/build_tahayyuz.py",
  "derived_from": "wordnet_synsets.json",
  "derived_from_sha256": "b0dac63258df7e1e7d54996d08e5bc299dd0bbebdff94c1a2b6229dbea90ebc4",
@@ -30,12 +30,12 @@
   "DEFER/None": 4517,
   "DEFER/TAXON": 1044,
   "MUTAHAYYIZ/MAKAN": 3922,
-  "HAYYIZ_MUBHAM/ZARF": 16,
+  "HAYYIZ_MUBHAM/ZARF": 7,
+  "HAYYIZ_MUBHAM/JIHA": 58,
   "MANA/None": 24537,
   "ZAMAN/None": 933,
   "DEFER/MIQDAR_MISAHA": 17,
-  "HAYYIZ_MUBHAM/MIQDAR_MASAFA": 63,
-  "HAYYIZ_MUBHAM/JIHA": 49
+  "HAYYIZ_MUBHAM/MIQDAR_MASAFA": 63
  },
  "masdar_naming_dhat": "DROPPED — vowelled-masdar match measured ~5/25 on sample; most hits come from D-01 L2 vowelling errors (see REPORT)",
  "lex_precision": {
@@ -226,5 +226,5 @@
  },
  "status": "CANDIDATE — لا اعتماد إلا بحكم المالك",
  "source_file_untouched": true,
- "sha256": "6c8d07ec210d3ed24301d8c37bdc8e094b0e288c8cce5b7b2d623372a42ba7fe"
+ "sha256": "f24468af941a323997e1ba4d525bd0bbad829bb86e23be7147d42ff278c94ff7"
 }

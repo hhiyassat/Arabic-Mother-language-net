@@ -227,3 +227,19 @@ def test_23_r2w_from_wasit():
     s3 = {x["event_id"] for x in _rows("sample_R2_v3.tsv")}
     old = {x["event_id"] for x in _rows("sample_R2_v1.tsv") + _rows("sample_R2_v2.tsv")}
     assert not (s3 & old)
+
+
+def test_24_r1w_wasit_mutawaa():
+    """R1W: نصّ الوسيط «مطاوع Yه» — تَهَشَّمَ مطاوع هَشَمَ (الكليات:27626: المطاوع من غير انفعل)."""
+    pool = _rows("mutawaa_R1W_pool.tsv")
+    pairs = {(A.bare(x["mutawi"]), A.bare(x["base"])) for x in pool}
+    assert ("تهشم", "هشم") in pairs and ("انكسر", "كسر") in pairs
+    assert all(x["route"] == "R1W" and x["rank"] == "CANDIDATE" for x in pool)
+
+
+def test_25_jiha_sitt():
+    """الجهات الستّ «موضوعة لأمكنة مبهمة» (الكليات:25073): subtype=JIHA لا ZARF."""
+    import json
+    d = json.load(open(os.path.join(ROOT, "data", "wordnet", "wordnet_tahayyuz.json"), encoding="utf-8"))
+    e = d[[k for k in d if k != "_meta"][0]]
+    assert e["left.n.01"]["class"] == "HAYYIZ_MUBHAM" and e["left.n.01"]["subtype"] == "JIHA"

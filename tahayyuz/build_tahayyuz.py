@@ -35,6 +35,7 @@ def bare(s): return DI.sub('', (s or '')).strip()
 # ── L_SIB: قائمة سيبويه المغلقة (الكتاب 1/403–405 و 1/418–419) ─────────────────────────
 # «خلفك وقدامك وأمامك وتحتك وقبالتك … ناحية … نحوك … ذات اليمين وشرقي كذا … يمينا ويسارا وشمالا»
 # «خلف وأمام وقدام ووراء وفوق وتحت وعند … ومع وعلى … وعن … وقبالة ومكانك ودون … وإزاء وحذاء»
+SITT_JIHAT = {'أمام','امام','قدام','خلف','وراء','فوق','تحت','يمين','يسار','شمال'}
 SIB_ZURUF = {'خلف','قدام','أمام','امام','تحت','فوق','وراء','قبالة','ناحية','نحو','يمين','يسار','شمال',
              'عند','دون','إزاء','ازاء','حذاء','جنب','جانب','مكان'}
 SIB_CITE = 'سيبويه، الكتاب 1/403–405 (باب ما ينتصب من الأماكن والوقت) و1/418–419'
@@ -125,7 +126,9 @@ def sib_class(x, s):
     lx = s.lexname()
     hit = sorted(words & SIB_ZURUF)
     if x['id'] in SIB_HAND_ACCEPT:
-        return ('HAYYIZ_MUBHAM', 'ZARF', 'L_SIB_HAND:' + '،'.join(hit))
+        # الجهات الستّ «ألفاظ … موضوعة لأمكنة مبهمة» (الكفوي، الكليات:25073) ← subtype=JIHA (2026-11-06)
+        sub = 'JIHA' if set(hit) & SITT_JIHAT else 'ZARF'
+        return ('HAYYIZ_MUBHAM', sub, 'L_SIB_HAND:' + '،'.join(hit))
     if hit and x['id'] not in SIB_HAND_REJECT and lx in ('noun.location', 'noun.relation', 'noun.Tops', 'noun.object'):
         return ('DEFER', 'ZARF_UNREVIEWED', 'L_SIB:' + '،'.join(hit) + ' (لم يُراجَع يدوياً)')
     anc = ancestors(s) | {s}

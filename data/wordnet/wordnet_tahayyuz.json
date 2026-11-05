@@ -1,7 +1,7 @@
 {
 "_meta": {
 "file": "wordnet_tahayyuz.json",
-"built": "2026-11-05",
+"built": "2026-11-06",
 "builder": "tahayyuz/build_tahayyuz.py",
 "derived_from": "wordnet_synsets.json",
 "derived_from_sha256": "b0dac63258df7e1e7d54996d08e5bc299dd0bbebdff94c1a2b6229dbea90ebc4",
@@ -31,12 +31,12 @@
 "DEFER/None": 4517,
 "DEFER/TAXON": 1044,
 "MUTAHAYYIZ/MAKAN": 3922,
-"HAYYIZ_MUBHAM/ZARF": 16,
+"HAYYIZ_MUBHAM/ZARF": 7,
+"HAYYIZ_MUBHAM/JIHA": 58,
 "MANA/None": 24537,
 "ZAMAN/None": 933,
 "DEFER/MIQDAR_MISAHA": 17,
-"HAYYIZ_MUBHAM/MIQDAR_MASAFA": 63,
-"HAYYIZ_MUBHAM/JIHA": 49
+"HAYYIZ_MUBHAM/MIQDAR_MASAFA": 63
 },
 "masdar_naming_dhat": "DROPPED — vowelled-masdar match measured ~5/25 on sample; most hits come from D-01 L2 vowelling errors (see REPORT)",
 "lex_precision": {
@@ -336801,7 +336801,7 @@
 },
 "north.n.04": {
 "class": "HAYYIZ_MUBHAM",
-"subtype": "ZARF",
+"subtype": "JIHA",
 "route": "L_SIB",
 "why": "L_SIB_HAND:شمال",
 "lexname": "noun.location",
@@ -337031,7 +337031,7 @@
 },
 "northland.n.01": {
 "class": "HAYYIZ_MUBHAM",
-"subtype": "ZARF",
+"subtype": "JIHA",
 "route": "L_SIB",
 "why": "L_SIB_HAND:شمال",
 "lexname": "noun.location",
@@ -338631,7 +338631,7 @@
 },
 "presence.n.02": {
 "class": "HAYYIZ_MUBHAM",
-"subtype": "ZARF",
+"subtype": "JIHA",
 "route": "L_SIB",
 "why": "L_SIB_HAND:أمام",
 "lexname": "noun.location",
@@ -339041,7 +339041,7 @@
 },
 "rearward.n.01": {
 "class": "HAYYIZ_MUBHAM",
-"subtype": "ZARF",
+"subtype": "JIHA",
 "route": "L_SIB",
 "why": "L_SIB_HAND:خلف",
 "lexname": "noun.location",
@@ -612121,7 +612121,7 @@
 },
 "north.n.05": {
 "class": "HAYYIZ_MUBHAM",
-"subtype": "ZARF",
+"subtype": "JIHA",
 "route": "L_SIB",
 "why": "L_SIB_HAND:شمال",
 "lexname": "noun.relation",
@@ -675711,7 +675711,7 @@
 },
 "left.n.01": {
 "class": "HAYYIZ_MUBHAM",
-"subtype": "ZARF",
+"subtype": "JIHA",
 "route": "L_SIB",
 "why": "L_SIB_HAND:شمال،يسار",
 "lexname": "noun.location",
@@ -683331,7 +683331,7 @@
 },
 "north.n.03": {
 "class": "HAYYIZ_MUBHAM",
-"subtype": "ZARF",
+"subtype": "JIHA",
 "route": "L_SIB",
 "why": "L_SIB_HAND:شمال",
 "lexname": "noun.relation",
@@ -683341,7 +683341,7 @@
 },
 "north.n.06": {
 "class": "HAYYIZ_MUBHAM",
-"subtype": "ZARF",
+"subtype": "JIHA",
 "route": "L_SIB",
 "why": "L_SIB_HAND:شمال",
 "lexname": "noun.relation",
@@ -694131,7 +694131,7 @@
 },
 "right.n.02": {
 "class": "HAYYIZ_MUBHAM",
-"subtype": "ZARF",
+"subtype": "JIHA",
 "route": "L_SIB",
 "why": "L_SIB_HAND:يمين",
 "lexname": "noun.location",

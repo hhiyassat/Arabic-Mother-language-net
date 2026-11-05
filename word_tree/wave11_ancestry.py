@@ -21,13 +21,17 @@ from typing import Optional
 # ── مسارات المشروع ─────────────────────────────────────────────────────
 _ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, _ROOT_DIR)
+# maqayis_v2 في المستودع المجاور ~/arabic-net/Maqaiys-roots (أو MAQAYIS_ROOTS)
+_MAQ = os.environ.get("MAQAYIS_ROOTS", os.path.join(os.path.dirname(_ROOT_DIR), "Maqaiys-roots"))
+if os.path.isdir(_MAQ):
+    sys.path.insert(1, _MAQ)
 
 from maqayis_v2.maqayis_api import MaqayisAPI
-from word_tree.engines.noun_root_corrector import load_maqayis_index, extract_root_for_maqayis
-from word_tree.engines.derivation_engine import derive, derive_from_dict, DerivationSet, MazidEntry
-from word_tree.engines.morphological_engine import conjugate, ConjugationParadigm
-from word_tree.engines.slots_engine import parse_predicate, PredicateStructure, Slot
-from word_tree.core.types import RootType, Baab
+from engines.noun_root_corrector import load_maqayis_index, extract_root_for_maqayis
+from engines.derivation_engine import derive, derive_from_dict, DerivationSet, MazidEntry
+from engines.morphological_engine import conjugate, ConjugationParadigm
+from engines.slots_engine import parse_predicate, PredicateStructure, Slot
+from core.types import RootType, Baab
 
 # ── ملف بيانات الجذور التجريبية ────────────────────────────────────────
 _PILOT_JSON = os.path.join(os.path.dirname(__file__), "data", "pilot_roots.json")
