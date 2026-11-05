@@ -1,0 +1,425 @@
+root	candidate	n_lex	event_id	jurjani_kind	kind_source	kind_hint_unmeasured	hint_evidence
+ءبل	أَبُلَ	2	HFN-E-4b1eed2323	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	» أَبالة : تَرَهَّب وتَنَسَّبك. فهو أَبِيل
+ءجن	أَجُنَ	2	HFN-E-f0cc993704	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+ءخذ	أَخُذَ	4	HFN-E-c30565467c	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	اللبنُ ونحوه - أُخوذة : حَمُض
+ءدب	أَدُبَ	6	HFN-E-743bbc08c9	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	فلان - أَدَباً : راض نفسه على المحاسن . و - حَذَق فُنون الأَدب . فهو أَديب. بقال : هو آدَبُ نظرائه
+ءدم	أَدُمَ	4	HFN-E-99be9de769	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+ءرب	أَرُبَ	3	HFN-E-4bec77a496	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	أَرابةً ، وإرْباً : كان ذا دهاء وفطنة ، فهو أرِيب
+ءرض	أَرُضَ	3	HFN-E-6ecab9ab4c	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+ءسل	أَسُلَ	6	HFN-E-ee3f5f4938	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+ءصل	أَصُلَ	7	HFN-E-232f40569c	IDAFA	HAND_CLAUDE_GLOSS	NONE	النَّسَبُ بالضم أَصَالَةً شَرف فهو
+ءمر	أَمُرَ	2	HFN-E-6484723d75	HAL	HAND_CLAUDE_GLOSS	NAFSANIYYA	عليهم - أَمارَةً : صار أَميرًا
+ءمن	أَمُنَ	3	HFN-E-b9f486aee8	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+ءمو	أَمُوَ	3	HFN-E-50937a401d	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	
+ءنس	أَنُسَ	4	HFN-E-292f8f2648	HAL	HAND_CLAUDE_GLOSS	NONE	
+ءنض	أَنُضَ	3	HFN-E-6217ed09e0	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+بءس	بَؤُسَ	7	HFN-E-a54b9c60d0	NAFSANIYYA	GOLD_SAMPLE	NONE	
+بءل	بَؤُلَ	3	HFN-E-8f2b5b3775	DEFER	GOLD_SAMPLE	NONE	
+بجل	بَجُلَ	3	HFN-E-08e853747c	BOTH	HAND_CLAUDE_GLOSS	NONE	
+بحت	بَحُتَ	3	HFN-E-a969221d8d	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	الشَّءُ - بُحُوتَةً ، وبَحْتًا : خَلَصَ ولم يخالطه غيرُه مثلُ قَرُب ومِسْك
+بخل	بَخُلَ	6	HFN-E-7e4ad0bbcd	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+بدن	بَدُنَ	7	HFN-E-bb77b42f66	IDAFA_KAMM	GOLD_SAMPLE+KAMM_RULE	NONE	
+بذء	بَذُؤَ	3	HFN-E-6816efc997	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+بذر	بَذُرَ	3	HFN-E-03bd458e29	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+بذم	بَذُمَ	5	HFN-E-a04ddd8046	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+بذو	بَذُوَ	3	HFN-E-d0e3afb8c8	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+برد	بَرُدَ	6	HFN-E-ef4faf997a	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ
+برز	بَرُزَ	6	HFN-E-e02e510360	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	بَرَازةً : تَمَّ عقلُه ورأَيُه. و - كان طاهرَ الخُلُق عفيفاً. فهو بَرْزٌ ، وبَرْزىّ. و- المرأَة: تركت الحجاب وجالست النا
+برع	بَرُعَ	4	HFN-E-65dc40579b	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	بَرَاعة : فاق نُظَراءَه فِى أَمِر. فهو بارعٌ ، وبَريع بَرَاعَةً وِزَانُ ضَخُمَ ضَخَامَةً إِذَا فَضَل فى عِلْمٍ أو شَجَاع
+بزع	بَزُعَ	4	HFN-E-9d81651033	NAFSANIYYA	GOLD_SAMPLE	NAFSANIYYA	الصَّبىُّ - بَزاعَةً : صار ظريفاً كَيِّساً . و - صار جريئاً على الكلام . و- صار مُتَناهِىَ الجمال . و - الرجلُ : ساد وَش
+بسط	بَسُطَ	5	HFN-E-009bb21edb	BOTH	HAND_CLAUDE_GLOSS	NAFSANIYYA	وجهُهُ - بَسَاطَةً : تلأَلَأَ | و - لسانُه : انطلق . و - يدُه: انبسطت |(ج) بَسائِطَ . بالمعروف . فهو بسيطٌ .( ج) بُسُطٌ
+بسل	بَسُلَ	5	HFN-E-19c8e05bb3	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	بَسَالًا ، وبَسَالَةً : شَجُعَ وعَبَسَ عندَ الحربِ . فهو باسِل. ( ج) بُسْلٌ ، وبواسِلُ. وهو بَسِيلٌ أَيضاً . ( ج) بُسَلَ
+بصر	بَصُرَ	7	HFN-E-005b85f8b4	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+بطء	بَطُؤَ	6	HFN-E-b73106eaa6	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+بطل	بَطُلَ	2	HFN-E-9dd0513306	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	بالضمّر وزَانُ حَسُنَ فهو حَسَنٌ وفى لُغَةٍ
+بطن	بَطُنَ	3	HFN-E-312714535b	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	MAHSUSA	بَطانَةً : عَظُم بطُنُه . ويقال : بَطُنَ المكانُ : بَعُدَ . فهو بَطِين
+بعد	بَعُدَ	6	HFN-E-ec72bd9ec5	IDAFA	GOLD_SAMPLE	NONE	بُعْدًا : بَعِدَ . فهو بَعيد (ج) بُعْداء . و - به جعله بعيدًا . و - هلك
+بغض	بَغُضَ	7	HFN-E-26a787d01e	IDAFA	HAND_CLAUDE_GLOSS	NONE	
+بكء	بَكُؤَ	4	HFN-E-6be54d8ee8	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+بكم	بَكُمَ	3	HFN-E-1ee1fb7e97	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	بَكامةً : انقطع عن الكلام جهلا أَو تعمدا . فهو بكيم . (ج ) بُكمان
+بلت	بَلُتَ	2	HFN-E-87badf2e90	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	بَلاتة : فصُح فهو بليت وهى
+بلد	بَلُدَ	5	HFN-E-ed49543256	NAFSANIYYA	GOLD_SAMPLE	NONE	بلادَةً : بَلِدَ . و - قل نشاطه و - استكان وقَبِل الضَّيم الرجُلُ بالضمّ بَلَادَةً فهر
+بلغ	بَلُغَ	5	HFN-E-d328d359c4	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	بَلَاغَةً : فَصُحَ وحَسُن بيانه ، فهو بَلِيغٌ . ( ج) بُلغَاء . ويقال : بَلغَ الكَلامُ
+بهء	بَهُؤَ	3	HFN-E-3b11a9c76c	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+بهج	بَهُجَ	6	HFN-E-77aa38190d	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	بالضمِّ فهو
+بهو	بَهُوَ	4	HFN-E-efb4cfc727	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	بَهاءً ، وبهاءَةً : بَها. فهوبهيُّ(ج) أبهياء . وهى
+ترص	تَرُصَ	4	HFN-E-067e5dd9e3	MAHSUSA	GOLD_SAMPLE	MAHSUSA	الشءُ - تَرَاصةً : أُحكم وضُبِط فهو تارص ، وتَرِيص . يقال : ميزانٌ تَرِيص . وفى الحديث : « لو وُزِن رجاء المؤمن وخوفه بم
+ثبت	ثَبُتَ	4	HFN-E-299d007cc3	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	ثَباتَةً ، وثُبُوتَةً : صار ذا حزم ورزانة . يقال : فلان ثابت القلب ، وثابت القَدَمُ . فهو ثَبْتُ ، وثبِيت فى الحَرْبِ فه
+ثخن	ثَخُنَ	2	HFN-E-aea2b552ca	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+ثقب	ثَقُبَ	4	HFN-E-042c4e83a3	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+ثقف	ثَقُفَ	4	HFN-E-0aaec1b77a	BOTH	HAND_CLAUDE_GLOSS	NONE	
+ثقل	ثَقُلَ	4	HFN-E-bd8a685018	MAHSUSA	GOLD_SAMPLE	NONE	
+ثمن	ثَمُنَ	3	HFN-E-031274392e	IDAFA	HAND_CLAUDE_GLOSS	NONE	
+جبن	جَبُنَ	5	HFN-E-b6487a689b	NAFSANIYYA	GOLD_SAMPLE	NONE	جُبْناً ، وجُبُناً ، وجَبَانَةً : جَبَنَ. فهو وهى جَبِينٌ ، وجَبانٌ . ويقال : جَبَانَةٌ
+جثل	جَثُلَ	4	HFN-E-6d165910ac	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+جحم	جَحُمَ	3	HFN-E-26d02b483d	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+جدب	جَدُبَ	7	HFN-E-2c62c37bbf	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	المكانُ - جُدُوبَةً : جَدَبَ. فهو جَدْبٌ . وجَدِيبُ. وهى جَدْب ، وجَدْبةٌ ، وجَدُوبٌ البَلَدُ بالضَّمَّ
+جدر	جَدُرَ	4	HFN-E-87f4f0021e	IDAFA	HAND_CLAUDE_GLOSS	NONE	
+جرء	جَرُؤَ	5	HFN-E-c549fa2dd1	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+جرز	جَرُزَ	7	HFN-E-3220beaf75	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+جرم	جَرُمَ	3	HFN-E-bb39e5f867	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	جَرَامَةً : عَظُمَ جُرْمُهُ
+جزل	جَزُلَ	4	HFN-E-68f64bef12	BOTH	HAND_CLAUDE_GLOSS	NONE	
+جسم	جَسُمَ	5	HFN-E-f4e8975132	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	جَسَامَةً : عَظَمَ ، فهو جَسِيم . (ج) جِسَام
+جشب	جَشُبَ	4	HFN-E-902ad06337	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+جعد	جَعُدَ	6	HFN-E-91a2b5e19a	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+جلد	جَلُدَ	4	HFN-E-32df365e0e	NAFSANIYYA	GOLD_SAMPLE	NONE	
+جمد	جَمُدَ	6	HFN-E-ffa65e5076	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+جمس	جَمُسَ	2	HFN-E-540dfe420a	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	السَمْنُ ونحوُه -جُمُوسَةً : جَمَسَ. فهو جمِيس
+جمل	جَمُلَ	5	HFN-E-220f755fbb	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	الرَّجُلُ بالضَّمِّ وَالْكَسْرِ
+جنب	جَنُبَ	8	HFN-E-2544df8420	IDAFA	HAND_CLAUDE_GLOSS	NAFSANIYYA	جَنابةً : بَعُد . و- تقرّب . فهو جَنِيب . و - صار جُنباً
+جهر	جَهُرَ	6	HFN-E-4b3951c902	MAHSUSA	GOLD_SAMPLE	NONE	الصّوتُ - جُهُورةً ، وجَهَارةٌ : ارتفع و- فلانٌ . تَمَّ جِسْمُه، وحَسُن منظرُه. فهو جَهِيرٌ الصَّوْتُ بالضَّمِّ
+جهم	جَهُمَ	5	HFN-E-5fdeb60a53	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+حدر	حَدُرَ	5	HFN-E-b6682b4b5a	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+حرز	حَرُزَ	3	HFN-E-0a341c2c96	IDAFA	HAND_CLAUDE_GLOSS	NONE	حَرازةً : أمتَنع وتحَصَّن
+حرض	حَرُضَ	5	HFN-E-523637fa12	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+حرف	حَرُفَ	7	HFN-E-f8e6349bf5	MAHSUSA	HAND_CLAUDE_GLOSS	BOTH	الشئ - حَرَافةً : صار لاذعًا للفم واللسان
+حرك	حَرُكَ	4	HFN-E-a2966a39ff	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+حرم	حَرُمَ	4	HFN-E-7dd4e064f5	MANA	HAND_CLAUDE_GLOSS	NONE	
+حرن	حَرُنَ	5	HFN-E-5ca4676783	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+حزم	حَزُمَ	5	HFN-E-64713f3aee	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	» حَزَامةً : كان حازمًا . فهو حَزِيمٌ. ( ج ) حُزَماءُ
+حزن	حَزُنَ	4	HFN-E-abcfea27a3	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	المكانُ - حُزُونةً : حَزِنَ. فهو حَزْنُ
+حسب	حَسُبَ	5	HFN-E-dda5b228b6	NAFSANIYYA	GOLD_SAMPLE	NAFSANIYYA	وِزَانُ شَرُفَ شَرَفاً وكَرُمَ كرماً قَالَ ابنُ السِّكِّيتِ
+حسن	حَسُنَ	4	HFN-E-b344a22aab	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	
+حصر	حَصُرَ	5	HFN-E-b0855e972d	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+حصف	حَصُفَ	3	HFN-E-efb4ec5de4	NAFSANIYYA	GOLD_SAMPLE	BOTH	الشئ - حَصافَةً : كان مُحكمًا لا خلَلَ فيه . ويقال : حَصُفَ فلانٌ : استحكم عقلُه وجادَ رأْيهِ . فهو حَصِيفٌ
+حصن	حَصُنَ	5	HFN-E-751d1e2e5c	BOTH	HAND_CLAUDE_GLOSS	MAHSUSA	المكانُ - حَصانةً ، مَنُعَ . فهو حَصِينٌ . و - المرأَة حِصْنًا ، وحصانة : عفَّت . و - تزوّجت . فهى حَصانٌ . ( ج) حُصُن ب
+حضن	حَضُنَ	2	HFN-E-2d4a978f48	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+حقر	حَقُرَ	5	HFN-E-49bb5b87ad	IDAFA	HAND_CLAUDE_KNOWLEDGE	NONE	
+حكم	حَكُمَ	6	HFN-E-c2752980de	NAFSANIYYA	GOLD_SAMPLE	NAFSANIYYA	حُكْماً : صار حكيماً
+حلم	حَلُمَ	4	HFN-E-b3a693a7be	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	حِلْماً : تأَنَّى وسكنَ عند غضب أو مكروه مع قُدرة وقوّة . و - صفح . و- عَقَل بالضَّمّ
+حلو	حَلُوَ	2	HFN-E-a27985de93	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+حمت	حَمُتَ	3	HFN-E-4587f8fc28	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+حمز	حَمُزَ	2	HFN-E-ea718dec01	BOTH	HAND_CLAUDE_GLOSS	NONE	
+حمس	حَمُسَ	5	HFN-E-9d391d9a7e	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	حَمَاسَةً : شَجُعَ. فهو حَمِيسٌ. ( ج ) حُمَسَاءُ
+حمض	حَمُضَ	5	HFN-E-ebbe0e0baa	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+حمق	حَمُقَ	5	HFN-E-7061118124	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	حُمْقاً ، وحَمَاقَةً : قَلحَّ عقلُه و - فَعَل فِعْلَ الحَمْقفَى . و - السُّوقُ : كَسدَتْ فهو أحمق ، وهى حمقاء. (ج) حُمْق
+خبث	خَبُثَ	7	HFN-E-2ba181eb37	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	
+خبر	خَبُرَ	8	HFN-E-9b6efd1037	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+خثر	خَثُرَ	5	HFN-E-7686ea0642	BOTH	HAND_CLAUDE_GLOSS	NONE	اللَبنُ ونحوه . والنَّفْسُ - خَثَارَةً ، وخْثُورَةً : خَثَرَ . فهو خَثِيرٌ . وهو خَثير النفس ( ج ) خُثَرَاءُ ، وخَثْرَى
+خرق	خَرُقَ	3	HFN-E-ffff445547	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	خرْقاً : حَدُقَ . و - بالشءِ : جَهِلَهُ ولم يُحْسِنْ عَمَلَهُ
+خزن	خَزُنَ	2	HFN-E-98444ba808	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+خشن	خَشُنَ	5	HFN-E-dfc397e063	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	
+خطب	خَطُبَ	3	HFN-E-966ddde615	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	خَطابة : صار خطيباً
+خطر	خَطُرَ	5	HFN-E-aaa536daa0	IDAFA	HAND_CLAUDE_GLOSS	NONE	خَطَرًا ، وخُطورًا ، وخُطورةً : عظمُ وارتفع قدرُه ، فهو خطير الرَّجُلُ
+خفض	خَفُضَ	3	HFN-E-e95efd3901	HAL	HAND_CLAUDE_GLOSS	NONE	العَيْشُ - خفْضاً : اتَّسَع وتَيَسَّرَ . فهو خَفْضُ ، وَخفِيضٌ ، وخافِضُ ، ومخفوض
+خلع	خَلُعَ	3	HFN-E-70aed68a82	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	خَلَاعَةً : تَرَكَ الحَيَاءَ وركِبَ هَوَاهُ . فهو خَلِيعٌ
+خلف	خَلُفَ	3	HFN-E-76815390ca	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+خلق	خَلُقَ	6	HFN-E-fcfa951766	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	التَّوْبِ بِالضَّمِ إِذا بَلِيَ فهوَ
+دخن	دَخُنَ	4	HFN-E-fb4b8f69f8	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+درس	دَرُسَ	2	HFN-E-2db64ac425	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+دفء	دَفُؤَ	3	HFN-E-0ce82c233d	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+دنء	دَنُؤَ	3	HFN-E-f9428310f3	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+دهس	دَهُسَ	3	HFN-E-12b6b3767f	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+دهو	دَهُوَ	3	HFN-E-44eae4837a	NAFSANIYYA	GOLD_SAMPLE	NONE	
+ذءب	ذَؤُبَ	3	HFN-E-5607bb33a7	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+ذبل	ذَبُلَ	2	HFN-E-07166348ba	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+ذرع	ذَرُعَ	2	HFN-E-e3beffe05a	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	ذَراعَة : كان واسع الخطو . و - الموتَ : كشروفَشا . فهو ذَريع . و- المرأةَ : خَفَّت يداها فى العمل . فهى ذَرَاعٌ ، وذِراع
+ذكو	ذَكُوَ	3	HFN-E-586dbf389b	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	فلانٌ - ذَكاءً ، وذَكاوةً : ذَكِىَ . ويقال: ذَكُوَ قلبُه : حَىَّ بعد بَلادة . فهو ذكىّ. (ج) أَذْكياءُ
+ذلق	ذَلُقَ	4	HFN-E-4eed14ea33	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	اللِّسانُ - ذَلاقَة : ذَلَقَ . فهو ذَليقٌ ، وذَلْقٌ
+ذهن	ذَهُنَ	2	HFN-E-f1a17d2189	NAFSANIYYA	GOLD_SAMPLE	NONE	ذَهانةً : وَعَى ذِهْنُه ما أُودعه
+رءد	رَؤُدَ	5	HFN-E-76ff972b88	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+رءف	رَؤُفَ	4	HFN-E-0ff5533cb4	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	به - رَأْفَةً ، ورَآفةً : رَأَفَ . فهو رءوف ، وَرَوُّفٌ
+ربز	رَبُزَ	2	HFN-E-9150cc1e93	BOTH	HAND_CLAUDE_GLOSS	NONE	الكَبْشُ - رَبازةً : أمتلاً لحماً واكتنز. و - فلان : كان كَيِّسًا ظريفاً. فهو رَبيز
+رجس	رَجُسَ	3	HFN-E-ceae58f6bb	BOTH	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ - رَجَاسَةً : قَذِرَ وفلانٌ : عمل عملا قبيحاً
+رحب	رَحُبَ	6	HFN-E-c9323b741d	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	
+رحم	رَحُمَ	6	HFN-E-2f664f842a	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+رخص	رَخُصَ	6	HFN-E-dc64474efd	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+رخم	رَخُمَ	5	HFN-E-be65e1f45f	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الصوتُ والكلامُ- رخامةً: رحَمَ . فهو رَخِيمٌ . ويقال : رخُمتِ المرأَةُ. فهى رخيمة، ورخيم
+رخو	رَخُوَ	4	HFN-E-1faa994b9e	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	مِنْ بَايَىْ تَعِبَ وقَرُب إِذَا اتَّسَعَ فَهُوَ
+ردء	رَدُؤَ	4	HFN-E-14a87a27d5	BOTH	HAND_CLAUDE_GLOSS	NONE	رَداءَةً : ضعف وعجز فاحتاج . و - وضع . و - فسد . فهو رَدِءٌ
+ردح	رَدُحَ	6	HFN-E-b34bcd59c1	IDAFA_KAMM	GOLD_SAMPLE+KAMM_RULE	NONE	
+رذل	رَذُلَ	5	HFN-E-10992a6695	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+رزن	رَزُنَ	5	HFN-E-9b20a9bd14	NAFSANIYYA	GOLD_SAMPLE	NAFSANIYYA	رَزَانَةً ، ورُزُوناً : كان رَزِيناً. ويقال : رَزُن فلانٌ : وَقُرَ وحلُمَ وسكن
+رسب	رَسُبَ	3	HFN-E-00a109d03a	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+رشق	رَشُقَ	4	HFN-E-0821e0d149	MAHSUSA	GOLD_SAMPLE	NONE	رَشَاقَةً : حَسُنَ قَدُّهُ ولَطُفَ و - فى عمله : خَفَّ وأَسْرَعَ . فهو رَشِيقٌ . ويقال : رجُلٌ رَشِيقٌ : ظريف . وخَطَّ ر
+رصف	رَصُفَ	2	HFN-E-d26e0ec8e6	MAHSUSA	GOLD_SAMPLE	NONE	رَصافةً : صارَ محكماً.ويقال: رَصُفَ الجوابُ : قَوِىَ بَحيث لا يُرَدُّ
+رصن	رَصُنَ	5	HFN-E-8475d8b402	MAHSUSA	GOLD_SAMPLE	MAHSUSA	ارَصانةً : ثَبَتَ واستحكَمَ يقال : رَصُنَ البناءُ . و - رَزْنَ . فهو رَصِينُ ويقال: كلامٌ رصين ، ورأْى رَصينٌ. وهى رصينة
+رضع	رَضُعَ	4	HFN-E-c9f43367ae	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	رَضاعَةً : لَوُم. فهو رضيع. يقال: لَوُم ورضُعَ : إِذا مصَّ اللبنَ من الضَّرْعِ مخافةَ أَن بسمعَه أَحدٌ وهو يحلبُ فيطلب م
+رطب	رَطُبَ	7	HFN-E-b71f0c4ae5	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	رُطُوبةَ ، ورَطابةً : رَطِبَ و - لان ونَعُم . فهو رَطْب ، ورَطِيب . و- الهواءُ رُطُوبةً : تشبَّع بالبخار . (مو) . و - ال
+رعف	رَعُفَ	4	HFN-E-e9104583f6	HAL	HAND_CLAUDE_GLOSS	NONE	بالضَّمِّ لُغَةٌ وَالاسْمُ
+رعن	رَعُنَ	5	HFN-E-01970056cc	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	رَعَنًا ، ورُعونةً : رَعَنَ
+رغب	رَغُبَ	6	HFN-E-4ba31f9605	BOTH	HAND_CLAUDE_GLOSS	NONE	
+رغد	رَغُدَ	4	HFN-E-6a2d4bf0e1	HAL	HAND_CLAUDE_GLOSS	NONE	
+رفع	رَفُعَ	6	HFN-E-90cf8fa313	BOTH	HAND_CLAUDE_GLOSS	MAHSUSA	القومُ - رفعاً : أصعدوا فى البلاد . و - البعيرُ ونحوه فى سيره : بالغ فيه وأسرع . و- الشءَ رفْءاً ، ورِفاعاً : أَعلاه ، و
+رفغ	رَفُغَ	2	HFN-E-387554bfce	HAL	HAND_CLAUDE_GLOSS	NONE	
+رفق	رَفُقَ	3	HFN-E-3400767293	IDAFA	HAND_CLAUDE_GLOSS	NONE	
+رفه	رَفُهَ	5	HFN-E-1ec9b21939	HAL	HAND_CLAUDE_GLOSS	NONE	
+رقع	رَقُعَ	4	HFN-E-f6bfab7829	NAFSANIYYA	GOLD_SAMPLE	NONE	
+ركن	رَكُنَ	6	HFN-E-ab6a68c0c7	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+رمز	رَمُزَ	4	HFN-E-d4fa3ffc57	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	رَمَازَةً : انْقَبَضَ . و- كثُرَتْ حركتُه. و- رَزُنَ ووَقُر. و_ كان مُبَجَّلًا مُعَظَّمًا و- كان أَصيلا. و- فُؤَّادُهُ :
+رهف	رَهُفَ	3	HFN-E-cf71a5c766	BOTH	HAND_CLAUDE_GLOSS	NONE	رَهَافةً ، ورَهَفاً : رَفَّ ولَطُف هو رهيف ، وهى رهيفة . يقال : سيف رهيف ، حِس رهيف
+زعم	زَعُمَ	4	HFN-E-f9aeb1bc77	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	
+زمت	زَمُتَ	3	HFN-E-aad955b0a0	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	زَماتةً : وقُرَ ورَزُنَ وقلَّ كلامُه فهو زميتٌ
+زهد	زَهُدَ	2	HFN-E-79d6595a61	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+زهر	زَهُرَ	3	HFN-E-0d921e8f45	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+سبط	سَبُطَ	3	HFN-E-b558051114	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	سُبُوطاً ، وسُبُوطَة : وسَباطةً : كان سَبْطاً
+سحق	سَحُقَ	5	HFN-E-b28f800659	IDAFA	GOLD_SAMPLE	MAHSUSA	الشءُ - سَحَاقَةٌ ، وسُحُوقَةً : بَلِي . و - الشءُ سُحْقاً : بَعُدَ أَشد البعد . فهو سحيق ، وهى سحيقة . وفى التنزيل العز
+سخف	سَخُفَ	5	HFN-E-2916fcadf5	BOTH	HAND_CLAUDE_GLOSS	NONE	
+سخن	سَخُنَ	7	HFN-E-1a1f266033	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	الْيَومُ بِالضَّمِّ فَهُوَ
+سخو	سَخُوَ	3	HFN-E-4e60826c0d	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+سرع	سَرُعَ	6	HFN-E-414ddfc79d	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	سَرَاعَةً ، وسُرْعَةً ، وَسَرْعاً سَرِعَ . فهو سَريعٌ . (ج) سِراعٌ ، وسُرْ عَانٌ وهى سَريعة . ( ج ) سِراعُ
+سرو	سَرُوَ	6	HFN-E-d1009bfb98	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+سفط	سَفُطَ	3	HFN-E-4e7b8f587b	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+سفق	سَفُقَ	5	HFN-E-7337bab899	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+سفل	سَفُلَ	4	HFN-E-56b3dbc5e2	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+سفه	سَفُهَ	2	HFN-E-252e21c0a7	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+سقم	سَقُمَ	5	HFN-E-05a74e2b25	HAL	HAND_CLAUDE_GLOSS	NONE	سَقْمًا ، وسَقَامًا ، وسَقَامَةً : سَقِمَ ، فهو سقيم
+سلط	سَلُطَ	4	HFN-E-f6174a7079	NAFSANIYYA	GOLD_SAMPLE	NAFSANIYYA	فلان - سَلاطَةً ، وسُلوطَةً :سَلِط . فهو سليط ٠( ج) سُلطاءُ . وهى سليطة . (ج) سلائِطُ . ويقال : سلُط لسانُه . ا بِالضَّم
+سمج	سَمُجَ	5	HFN-E-2ceb6a44bf	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	وفَتْحِهَا الصَلْحُ ويُذَكَّرٌ ويُؤَنَّثُ و
+سمح	سَمُحَ	5	HFN-E-0bd7cd4751	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	سَمَاحَةً . وسُمُوحَةً : صارَا مَن أَهْلِ السَّماحَة. فهو سَمْحٌ . وسَمِيحُ وِزَانَ خَشَنْ فَهُوَ خَشِن لَغَةٌ وسُكُونُ 
+سمر	سَمُرَ	3	HFN-E-d3f9b95355	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	بالضَّمَ (١)
+سمل	سَمُلَ	3	HFN-E-4ca0e0b4a6	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+سمن	سَمُنَ	2	HFN-E-b96b688132	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	سِمَناً ، وسَمانةً: سمِن. فهو سمين
+سنط	سَنُطَ	3	HFN-E-e267a650ee	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+سنع	سَنُعَ	3	HFN-E-cc9d447330	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	سَناعةً ، وسُنوعاً : طال وارتفع. و - جَمُلَ وحَسُنَ . و - لانَت مَفَاصِلُه . فهو سَنيع ، وهى سَنيعة
+سهل	سَهُلَ	4	HFN-E-9a9c196493	MAHSUSA	GOLD_SAMPLE	NONE	سُهُولَةً : مالَ إِلى اللِّين وقَلَّت خشونته. فهو سَهْل ، وهى سهلة
+شءم	شَؤُمَ	4	HFN-E-877748d059	IDAFA	HAND_CLAUDE_KNOWLEDGE	NONE	
+شبح	شَبُحَ	3	HFN-E-c87a6fe437	IDAFA_KAMM	HAND_CLAUDE_KNOWLEDGE+KAMM_RULE	NONE	
+شبع	شَبُعَ	3	HFN-E-75c25b5339	DEFER	GOLD_SAMPLE	NONE	
+شتم	شَتُمَ	2	HFN-E-9eb904ef5f	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	شَتَامَةً : كان كَرِيهَ الوجه . فهو شتِيم
+شثن	شَثُنَ	2	HFN-E-d7aaf7ccf2	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+شجع	شَجُعَ	4	HFN-E-cb2a9a7717	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	شَجاعةً : قوى قلبُه واشتدَّ عند البأس ، فهَو شَجِيعٌ . (ج) شَجَعَاء شُجاع . وَهى شجيعة . ( ج) شجائع ، وشجاع
+شجن	شَجُنَ	3	HFN-E-17cded1c33	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	
+شحب	شَحُبَ	3	HFN-E-6ed4d07479	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	
+شحم	شَحُمَ	2	HFN-E-2ea489f345	MAHSUSA	GOLD_SAMPLE	NONE	
+شخت	شَخُتَ	5	HFN-E-2b7a013c3c	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	شُخُوتَةً : دق جِسمُه خِلْقةً فهو شَخْتٌ ، وشخِيتٌ . (ج) شِخَاتُ
+شرس	شَرُسَ	4	HFN-E-1b6708ef17	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	شَراسةً : شَرِس فهو شَرِيسٌ ، وهى شريسة
+شرف	شَرُفَ	6	HFN-E-5f9faf192d	BOTH	GOLD_SAMPLE	MAHSUSA	المكان - شَرَفاً : ارتفع . و - الرجلُ : عَلَتْ مَنزلته . فهو شَرِيف . (ج ) شَرَفَاء . وأَشْرَافٌ ، وهُنَّ شَرائفُ
+شزن	شَزُنَ	2	HFN-E-bf2eac967d	HAL	HAND_CLAUDE_GLOSS	NONE	
+شسب	شَسُبَ	4	HFN-E-54b3a84f94	DEFER	GOLD_SAMPLE	NONE	
+شسف	شَسُفَ	3	HFN-E-b573700579	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+شظف	شَظُفَ	4	HFN-E-b027f28f60	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	
+شعر	شَعُرَ	4	HFN-E-dc79c189b9	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+شقح	شَقُحَ	2	HFN-E-ef8ec46eea	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	شَقَاحَةً : قَبُحَ
+شقر	شَقُرَ	2	HFN-E-51eccc8e53	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+شقن	شَقُنَ	3	HFN-E-29c9359561	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+شكس	شَكُسَ	3	HFN-E-81d1d04afe	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+شنع	شَنُعَ	6	HFN-E-804fffe695	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	
+شهب	شَهُبَ	3	HFN-E-cdb4e6b3d1	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+شهم	شَهُمَ	4	HFN-E-2e24a7e756	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+شهو	شَهُوَ	2	HFN-E-f3f8d36c18	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الطعامُ وغيرُه - شَهاوةً : كان لذيذا . فهو شَهِىٌّ
+صبح	صَبُحَ	7	HFN-E-a7914a29f3	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	الوجْهُ - صَبَاحَةً : أَشْرَقَ وَجَمُلَ ويقال: صَبُح الغُلامُ. فهو صَبِيحٌ. (جِ)صِباح الْوَجْهُ بِالْضَّمِّ
+صدغ	صَدُغَ	3	HFN-E-951fee8170	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	صَداغةً : ضَعُفَ ، فهو صَدِيغ ، وهى صديغة
+صرح	صَرُحَ	2	HFN-E-39c74e3707	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+صرم	صَرُمَ	4	HFN-E-55a0c964dc	BOTH	HAND_CLAUDE_GLOSS	NONE	السيفُ - صرامةً . وصُرُومةً : كان قاطعًا ماضيًا . و - فلان : كان جَلْدًا ماضيًا فى أمره . فهو صارِم .، وصَرُوم الرَّّجُل
+صعب	صَعُبَ	6	HFN-E-cd8b6f68d4	BOTH	HAND_CLAUDE_GLOSS	NONE	صُعُوبةً : اشتد وعَسُرَ . يقال : صَعُبَ الأَمْرُ، وصَعُبَ الرجُل ، وصعُبَتِ الدَّابَّةُ و
+صغر	صَغُرَ	5	HFN-E-cc5fe2846c	BOTH	HAND_CLAUDE_GLOSS	NONE	صِغَرًا : قَلَّ حَجْمُهُ أَو بِنَّه . فهوَ صغيرٍ . ( ج ) صِغَارْ . و - صَغَارًا : رَضِىَ بالذلّ والضَّعة . فهو صاغر . ( 
+صفر	صَفُرَ	6	HFN-E-875ff35bd8	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+صفق	صَفُقَ	5	HFN-E-7463dc7140	BOTH	HAND_CLAUDE_GLOSS	MAHSUSA	الثوبُ - صفاقةً : كثُفَ نسجُه . و - الوجهُ : وقُحَ . فهو صَفِيقُ الثَّوْبُ بِالضَمِّ
+صفو	صَفُوَ	2	HFN-E-822b23ca9c	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+صلب	صَلُبَ	8	HFN-E-27e6042d2a	BOTH	HAND_CLAUDE_GLOSS	NAFSANIYYA	صَلابَةً : اشتِدٌ وقَوِىَ ٠ و - على المال وغيرِه : بخل وتشدَّد الشَّيءُ بِائضَّمّ
+صلت	صَلُتَ	4	HFN-E-5fe4e87a9e	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+صلح	صَلُحَ	4	HFN-E-260dd19300	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	
+صلد	صَلُدَ	4	HFN-E-7928e63ad8	BOTH	HAND_CLAUDE_GLOSS	NONE	
+صهب	صَهُبَ	6	HFN-E-6e8f68c2a0	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	صُهُوبَةً ، وصَهَبًا : صَهِبَ
+ضءل	ضَؤُلَ	4	HFN-E-545fc27286	IDAFA_KAMM	HAND_CLAUDE_KNOWLEDGE+KAMM_RULE	NONE	
+ضخم	ضَخُمَ	6	HFN-E-ce551e7cd0	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	ضَخَامَةً : عَظُم وغلظ . فهو ضَخْمٌ ، وضخِيم . (ج) ضِخَام
+ضرب	ضَرُبَ	3	HFN-E-2f9e32f98f	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+ضرع	ضَرُعَ	5	HFN-E-2ef5c6c499	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	
+ضرك	ضَرُكَ	3	HFN-E-986edba337	HAL	HAND_CLAUDE_GLOSS	NONE	ضَرَاكَةً : صارَ ضرَاكاً . أَو ضَرِيكاً
+ضعف	ضَعُفَ	7	HFN-E-3dd6526a32	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	ضَعْفاً : هُزِلَ ، أَو مَرِضَ وذهبت قوته أَو صحته . و - الشئُ : زادَ . وفى الحديث : ( تضعُف صلاة الجماعة على صلاة الفذ خ
+ضلع	ضَلُعَ	3	HFN-E-2194e1d51b	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	بالضَّمِّ
+ضمر	ضَمُرَ	5	HFN-E-defc74d2ab	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	ضُمُورًا : هُزِلَ وقلَّ لحمهُ و - انكمش وانضم بعضه إلى بعض . و- العودُ ونحوُه. : ذهب ماؤُه فرقَّ
+ضنك	ضَنُكَ	4	HFN-E-fd48fc62ce	BOTH	HAND_CLAUDE_GLOSS	NONE	ضَنكَ عيْشُه. وءْ فلانٌ : ضَعُفَ فِى جسمِه أَو عَقْلِهِ. و - السحابُ ونحوُه : غَلُظَ والْتَفَّ
+طخم	طَخُمَ	2	HFN-E-5ed641315c	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+طرء	طَرُؤَ	2	HFN-E-42247d5e28	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+طرف	طَرُفَ	4	HFN-E-577997bbe8	DEFER	HAND_CLAUDE_UNCLEAR	NAFSANIYYA	طَرَافةً : صار طَرِيفاً
+طرو	طَرُوَ	5	HFN-E-a7fcdbfc59	MAHSUSA	HAND_CLAUDE_GLOSS	NAFSANIYYA	طَرَاوَةً ، وطَرَاءةً ، وطَرَاء : صار طَرِيًّا
+طفل	طَفُلَ	5	HFN-E-7721c07c96	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+طلس	طَلُسَ	4	HFN-E-58833fc803	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+طلق	طَلُقَ	6	HFN-E-58fde3e0f3	BOTH	HAND_CLAUDE_GLOSS	NONE	طُلوقةً . وطَلاقةً: طَلَقَ. و - اليَدُ : جادَت . و - الوَجْهُ : تهلَّلَ واسْتَبْشَرَ . وَاللِّسانُ : لصُحَ وعَذْبَ منطقه
+طمع	طَمُعَ	4	HFN-E-ab723b5c9d	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	طَمَعاً ، وطَمَاعَة : صاركثير الطمع
+طهر	طَهُرَ	7	HFN-E-e7fe2d9b58	BOTH	HAND_CLAUDE_GLOSS	NONE	طُهْرًا . وطَهارةً : نقّى من النجاسة والدنس . و - برئ من كل ما يَشِينَ . و - الحائضُ أَو النَّفَسَاءُ : انقطع دَمُها أو 
+طول	طَوْلَ	3	HFN-E-fbc7e9997a	IDAFA_KAMM	HAND_CLAUDE_KNOWLEDGE+KAMM_RULE	NONE	الحُرَّةِ ما فَضَل عَنْ كِفَايَتْهِ وَكَفَى صَرْفُهُ إِلَى مُؤَنِ نِكَاحِهِ وهذَا مُوَافِقٌ لِمَا. قَالَهُ الْأَزْهَرىُّ
+ظرف	ظَرُفَ	7	HFN-E-754a9ec03e	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	فلانٌ - ظَرْفاً ، وظَرَافَةً ، فهو ظَريف : كان كَيِّسا حاذِقاً . وقيل: الظّرْفُ فى الوَجْه: الحُسْنُ ، وفى القلبِ : الذك
+عبد	عَبُدَ	4	HFN-E-720ad324c7	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	
+عبل	عَبُلَ	7	HFN-E-a81974137b	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	عَبَالَةً : عَبِلَ . فهو عَبْلٌ
+عبم	عَبُمَ	2	HFN-E-f1d072ae2f	DEFER	GOLD_SAMPLE	NONE	
+عتد	عَتُدَ	6	HFN-E-c30301f269	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+عتق	عَتُقَ	2	HFN-E-b11e7c1d78	IDAFA_KAMM	HAND_CLAUDE_KNOWLEDGE+KAMM_RULE	NONE	
+عثر	عَثُرَ	3	HFN-E-dc785f826d	DEFER	GOLD_SAMPLE	NONE	
+عجز	عَجُزَ	5	HFN-E-ec4e554ad1	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	
+عجف	عَجُفَ	3	HFN-E-9529198fce	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	عَجَفاً : عَجِفَ . فهو عجيف
+عجم	عَجُمَ	2	HFN-E-4860ceb25c	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	فلان - عُجْمةً : كان فى لسانهِ لُكْنَةٌ. ويقال كذلك: عَجُمَ الكلامُ : إذا لم يكَنْ فصيحاً . فهو أَعْجَمُ ، وهى عجماءُ . 
+عدل	عَدُلَ	3	HFN-E-efdf486ecd	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	عَدالَةً ، وعُدُولَةً : كان عَدْلا هُوَ بِالضَّمَ
+عدم	عَدُمَ	6	HFN-E-0fb33a6efb	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	
+عذب	عَذُبَ	6	HFN-E-d2b4c39566	MAHSUSA	GOLD_SAMPLE	NONE	الطَّعَامُ والشَّرَابُ -عُذُوبةً : ساخَ
+عذو	عَذُوَ	2	HFN-E-c5406c169e	MAHSUSA	GOLD_SAMPLE	NONE	
+عرب	عَرُبَ	5	HFN-E-f5844b7def	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	عُرُوباً ، وعُرُوبة ، وعَرَابة ، وعُرُوبيَّةً : فصُحَ . ويقال : عَرُبَ لسانُهُ بالضَّمّ إذَا لَمْ يَلْحَنْ و لِسَانُهُ
+عرج	عَرُجَ	5	HFN-E-15aef49fec	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+عرض	عَرُضَ	7	HFN-E-ec34ae5e1a	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	MAHSUSA	الشءُ - عِرَضاً ، وعَرَاضَةً : تباعدت حاشيتاه واتَّسع عَرْضُه . فهو عريضٌ ، وعُرَاضٌ. (ج) عِرَاضٌ. وفى التنزيل العزيز : 
+عرف	عَرُفَ	7	HFN-E-9cebe1524d	HAL	GOLD_SAMPLE	NAFSANIYYA	عَرافَةً : صار عريفاً . و- أَكثرَ من الطَّيب
+عرم	عَرُمَ	5	HFN-E-c4cda47536	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	فلانٌ - عَرَامَةً ، وعُرَاماً : شَرِسَ واشتد
+عسر	عَسُرَ	8	HFN-E-4ec230b798	MANA	HAND_CLAUDE_GLOSS	NONE	الأَمرُ - عُشُرًا ، وعَسَارَةً : عَسِرَ. ويقال : عَسُرَ الزمانَ . فهو عسير . وفى التنزيل العزيز : ( وَكَانَ يَوْماً عَلَ
+عشب	عَشُبَ	8	HFN-E-5652caed18	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	المكانُ - عَشَابَةً : نَبَت عُشْبُهُ فهو غاشِبٌ ، وعَشِيبٌ ، والأَرضُ عاشِبَةٌ ، وعَشِيبَةٌ
+عضب	عَضُبَ	4	HFN-E-3e90062574	BOTH	HAND_CLAUDE_GLOSS	NAFSANIYYA	السَّيْفُ - عُضُوباً، وعُضُوبَة : صار قاطعاً . ويقال : عَضُبَ اللِّسانُ : صار حادًّا . فهو عَضْبٌ
+عظم	عَظُمَ	7	HFN-E-c052471d0f	IDAFA_KAMM	HAND_CLAUDE_KNOWLEDGE+KAMM_RULE	NONE	عَلَيْهِ و
+عقر	عَقُرَ	7	HFN-E-e75e02d524	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+عقم	عَقُمَ	6	HFN-E-dbddc80c74	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+عمر	عَمُرَ	7	HFN-E-bc3c135362	HAL	HAND_CLAUDE_GLOSS	NONE	المالُ - عَمارةً : عَمَرَ . فهو عَمِيرٌ
+عمس	عَمُسَ	4	HFN-E-c8c283f5fc	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	اليومُ- عَماسةً ، وعُمُوسةً: عَمِسَ
+عمق	عَمُقَ	6	HFN-E-d64ca3c614	IDAFA_KAMM	GOLD_SAMPLE+KAMM_RULE	NONE	الْمَكَانُ أَيْضاً بَعْدَ فَهُوَ
+عند	عَنُدَ	3	HFN-E-5b55eeef8f	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+عنف	عَنُفَ	4	HFN-E-18c8136659	NAFSANIYYA	GOLD_SAMPLE	NONE	
+غرب	غَرُبَ	5	HFN-E-c3a0517649	IDAFA	HAND_CLAUDE_GLOSS	NONE	عن وطنه- غَرابَةً ، وغُرْبةً : ابتعد عنه. و- الكلامُ غَرابةً: غَمَضَ وخَفِىَ . فهو غريب. (ج) غُرَباءُ . وهى غريبة . (ج) 
+غرض	غَرُضَ	2	HFN-E-8c7e9ad198	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ - غِرَضاً ، وغراضة : كان . طرِيًّا . فهو غَرِيض
+غزر	غَزُرَ	8	HFN-E-8c01e7de36	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	
+غضر	غَضُرَ	3	HFN-E-3703c00136	DEFER	GOLD_SAMPLE	MAHSUSA	غَضارةً : كان فى سَعة وطيب عيش. و- النباتُ : نَعُمَ. فهو غاضرِ، وغَضِير . (اغْتُضِرَ » مات شابًّا مُصَحَّحًا. ( وانظر : 
+غلظ	غَلُظَ	3	HFN-E-f9e9d3f94f	MAHSUSA	GOLD_SAMPLE	NONE	الْرَجُلُ اشْتَدَّ فَهُوَ
+غمر	غَمُرَ	4	HFN-E-5eba772a55	BOTH	HAND_CLAUDE_GLOSS	MAHSUSA	الماءُ - غَمارة ، وغُمُورة : كثُرَ حتى ستر مقَرَّه . و - الرجلُ : لم يُجَرّب الأُمورَ : فهو غَمْر بالضَّمِّ
+غمض	غَمُضَ	4	HFN-E-3b828e1d48	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	المكانُ - غماضةً ، وغُمُوضةً : غَمَضَ . و - الشءُ والكلامُ : غَمَضَ بِالضَّمِّ لُغَةٌ وَنَسَبٌ
+فحش	فَحُشَ	3	HFN-E-19d1f99324	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	فُحشاً ، وَفَحَاشَةً : فَحَشَ . ويقال : فَحُشَ على من معه
+فحم	فَحُمَ	4	HFN-E-86c7a0ff09	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ - فُحُوماً ، وفُحُومَةً : اسْوَدَّ . مو فاجِم ، وفحِيم . أفْحَمَ ) القومُ : دخَلوا فى فَحْمَة العِشاء. و- البُكاءُ
+فخم	فَخُمَ	5	HFN-E-ced92b27ba	BOTH	HAND_CLAUDE_GLOSS	NONE	فَخامَةً : ضَخُمَ وعَظُمَ قَدْرُهُ ون- المنطقُ : جزُلَ . فهو فَخْمٌ . ( ج) فخِامٌ
+فدم	فَدُمَ	3	HFN-E-47d441e656	BOTH	HAND_CLAUDE_GLOSS	NONE	فُدُومَةً ، وفَدامَةً : ضَعُفَ فهمُه وعَىَّ عن الحجَّة . و- حَمُقَ وجَفَا . و- سَمِنَ . فهو فَدْمٌ (ج ) فِدامٌ
+فرت	فَرُتَ	5	HFN-E-46b1a75d70	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الماءُ - فُروتَةً : أشتدَّت عُذُوبَتُهُ فهو فُرَاتٌ
+فرس	فَرُسَ	5	HFN-E-cce088babb	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	فَرَاسَةً ، وفُرُوسَةً ، وفُرُوسِيَّةً حَذَقَ أَمْرَ الخَيْلِ وأَحْكَمَ رُكُوبَها . فهو فارِسٌ بالخَيْلِ . و - فلانٌ : ص
+فرض	فَرُضَ	4	HFN-E-047b7b24d4	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	الحيوانُ - فَرَاضَةً : كَبِرَ وأَسَنَّ . فهو فارض ، وهى فارض ، وفارضة وفى التنزيل ° العزيز : (قَالَ إِنَّهُ يَقُولُ إنَّ
+فرغ	فَرُغَ	4	HFN-E-863f74da68	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	الفَرَسُ - فَرَاغَةً : تَوَسَّعَ فى سَيْرِهِ وهى فَرِيغٌ ، وفَرِيغَةٌ
+فره	فَرُهَ	3	HFN-E-14d31aea12	NAFSANIYYA	GOLD_SAMPLE	NONE	فَرَاهَةً ، وفُرُوهَةً : جَمُلَ وحَسُنَ . و - خَفَّ ونَشِطَ .. و _ حَذِقَ ومَهَرَ . فهو فارِه. وفى التنزيل العزيز : ( وَ
+فسح	فَسُحَ	4	HFN-E-69768aac86	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	MAHSUSA	المكانُ- فَسَاحَةً: اتَّسَعَ، فهو فَسِيحُ للّحم عن العظم. و - الفَأْرَةُ فى المَاء : تَقَطَّعَتْ. | على مَرَضِهِ . (مو )
+فسد	فَسُدَ	4	HFN-E-6a745bf3c3	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	
+فسق	فَسُقَ	2	HFN-E-5cb62e37b8	NAFSANIYYA	GOLD_SAMPLE	NONE	
+فسل	فَسُلَ	2	HFN-E-ab71916d61	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	الرجلُ - فَسَالَةً ، وفُسُولَةً : جَبُنَ ورَذُلَ
+فصح	فَصُحَ	7	HFN-E-3991f80195	NAFSANIYYA	GOLD_SAMPLE	BOTH	اللبنُ - فَصْحًا ، وفَصَاحَة : خلص مما يشوبه فأخذت عنه رغوته وبقى خالصه . و- الرجلُ : انطلق لسانه بكلامٍ صحيح واضح. ويقا
+فضل	فَضُلَ	2	HFN-E-7479e1b491	NAFSANIYYA	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ فُضُولًا : اتَّصَفَ بالفضيلة
+فطن	فَطُنَ	3	HFN-E-8b14db4973	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+فظع	فَظُعَ	7	HFN-E-1bf8564341	MANA	HAND_CLAUDE_GLOSS	NONE	الأَمْرُ - فَظَاعَةً : اشتدَّت شناعَتُه
+فعم	فَعُمَ	5	HFN-E-614da13272	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	الإِناءُ - فَعَامَةً . وفُعُومَةً : امْتَلَاً و - السَّاعِدُ ونحوُه: امْتَلَاَ واكتنز . فهو فَعْمٌ. ويقال: فَعُمت المرأَ
+فقر	فَقُرَ	4	HFN-E-5fc5f19c59	HAL	GOLD_SAMPLE	NONE	
+فقم	فَقُمَ	6	HFN-E-3717c4d9d7	MANA	HAND_CLAUDE_GLOSS	NONE	الأَمْرُ- فَقَامَةً ، وفُقوماً : استفحَلَ شرُّهُ
+فقه	فَقُهَ	5	HFN-E-56290bb466	NAFSANIYYA	GOLD_SAMPLE	NAFSANIYYA	فَقَاهَةً : صار فقيهاً بالضَّمِّ مِثْلُهُ وَقِيلَ بِالضَّمِّ إِذَا صَارَ الْفِقْهُ لَهُ سَجِيَّةً قَالَ أَبُو زَيْدٍ رَج
+قبح	قَبُحَ	4	HFN-E-5893544c3f	BOTH	GOLD_SAMPLE	MAHSUSA	الشءُ - قُبْحاً ، وقَباحَةً : ضد حُسُن
+قبس	قَبُسَ	3	HFN-E-dd71448cb2	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+قبل	قَبُلَ	4	HFN-E-480ad2cfa0	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+قتن	قَتُنَ	3	HFN-E-2bef794c30	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	الرَّجُلُ وغيرُه - قَتانَةً : قَلَّ أَكلُهُ ونَحُفَ . فهو وهى قَتِينٌ
+قدم	قَدُمَ	6	HFN-E-c05173ea2f	IDAFA_KAMM	GOLD_SAMPLE+KAMM_RULE	MAHSUSA	الشءُ - قِدَماً ، وقَدامةً : مضى على وجوده زَمَنّ طويل . فهو قديم . (ج) قُدَماءُ ، وقَدامَى . وهى قديمَةٌ . ( ج) قَدائِم
+قدو	قَدُوَ	2	HFN-E-61b97ead93	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+قذر	قَذُرَ	2	HFN-E-ef5ef8545b	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	قَذَارةً : قَذِرَ . فهو قَذْرٌ
+قرب	قَرُبَ	7	HFN-E-0cd9dbd895	IDAFA	HAND_CLAUDE_GLOSS	BOTH	الشءُ - قَرَابةً ، وقُرْباً ، وقَرْبةً ، وقُرْبَى ، وَمَقْرُبَةً : دنَا . فهو قريبٌ . ويقال: قَرُب منه. وقرُب إليه . ( أ
+قسب	قَسُبَ	4	HFN-E-94cac72cc4	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+قسم	قَسُمَ	3	HFN-E-c5bc0b50e0	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	الوجهُ - قَسامةً ، وقَساماً : حَسُنَ . ويقال: قَسُمَ الرَّجُلُ. فهو قَسِيمٌ ، وقسيمُ الوجه . (ج) قُسُمٌ
+قشب	قَشُبَ	4	HFN-E-024e41900f	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الثوبُ ونحوُه - قَشابةً : كان جيِّدًا نظيفاً . و - السيفُ : كان حديث العهد بالجِلاء . فهو قَشِيبٌ . (ج) فُشُبٌ ، وقُشْبَ
+قصر	قَصُرَ	7	HFN-E-18c50905bf	IDAFA_KAMM	HAND_CLAUDE_KNOWLEDGE+KAMM_RULE	NONE	الشَّءُ بالضَّمُّ
+قصع	قَصُعَ	2	HFN-E-57ab0f07b2	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+قضف	قَضُفَ	4	HFN-E-ffbb238686	MAHSUSA	GOLD_SAMPLE	NONE	
+قطع	قَطُعَ	4	HFN-E-8b61a383bf	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	الرجل - قطاعة: لم يقدر على الكلام
+قطف	قَطُفَ	2	HFN-E-a6080418ed	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+قعر	قَعُرَ	4	HFN-E-249396a224	IDAFA_KAMM	GOLD_SAMPLE+KAMM_RULE	NONE	
+قمء	قَمُؤَ	2	HFN-E-b9bf506b8f	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	
+كبر	كَبُرَ	5	HFN-E-11762bd62a	IDAFA_KAMM	GOLD_SAMPLE+KAMM_RULE	NONE	
+كثر	كَثُرَ	8	HFN-E-d8d33bedfa	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	MAHSUSA	الشءُ - كُثْرا ، وكَثْرَةً : خلاف قَلّ . فهو كَثْر ، وكثير ، وكُثَار
+كثف	كَثُفَ	5	HFN-E-24e22608ec	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ - كَشافَةً : غَلُظَ وثَخُنَ . و- كثُرَ مع الالتفافِ والتَّرَاكُبِ. فهو كثيف، وكُثَاف
+كدر	كَدُرَ	6	HFN-E-b4b00d2738	MAHSUSA	GOLD_SAMPLE	MAHSUSA	الماءُ - كَدارة ، وكُدُورة : كَدِرَ فهو كَدِير. ويقال : كَدُرَ عيشُه ، وكدرت بنفسُه مِنْ بَابِ قَرُب لُغَةٌ وَتَصْغِيرُ 
+كرم	كَرُمَ	6	HFN-E-ca6e087748	NAFSANIYYA	HAND_CLAUDE_GLOSS	MAHSUSA	فلان - كَرَماً ، وكَرَامةً : أَعطى بسهولة وجادٍ . فهو كريم . (ج) كرام ، وكُرَماءُ . وهى كريمة . (ج) كرائم . و - ضدُّ لوّ
+كره	كَرُهَ	3	HFN-E-3f79127dc2	IDAFA	HAND_CLAUDE_KNOWLEDGE	NONE	
+كفل	كَفُلَ	3	HFN-E-3d98fee48d	DEFER	GOLD_SAMPLE	NONE	
+كمت	كَمُتَ	6	HFN-E-e3e5f1316c	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	الفرسُ - كَمَاتَةً ، وكُمْتَةً : كان لونه بين الأسود والأحمر
+كمش	كَمُشَ	7	HFN-E-9adf00613c	BOTH	HAND_CLAUDE_GLOSS	NONE	فى السَّير وغيره - كَمَاشَةً : أَسرع وجدّ فيه. فهو كَمْشَّ ، وكَمِيش. و - الرجلُ : شجُع . فهو كميشّ . و - المرأَةُ : صغُ
+كمل	كَمُلَ	6	HFN-E-e06f67fa5a	BOTH	HAND_CLAUDE_GLOSS	NONE	كمَالًا: ثبتت فيه صفات الكمال
+كهب	كَهُبَ	8	HFN-E-ba2c900d48	MAHSUSA	GOLD_SAMPLE	NONE	
+كهم	كَهُمَ	4	HFN-E-6206b5859a	BOTH	HAND_CLAUDE_GLOSS	NAFSANIYYA	بصره - كَهَامَةً : كلَّ ورقَّ . و - لسانُه : عَىَّ . فهو كَهامٌ ، وكَهِيمٌ
+كهن	كَهُنَ	4	HFN-E-c6fd2ab6f6	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	كَهَانَةً : صار كاهِناً ، أَو صارت الكهانة له طبيعة وغريزة بالضم و
+لءم	لَؤُمَ	3	HFN-E-e517c129ef	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+لبب	لَبَّ	3	HFN-E-7600a11445	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+لبق	لَبُقَ	2	HFN-E-3f23def7c3	NAFSANIYYA	GOLD_SAMPLE	BOTH	لباقة : ظَرُفَ . و- حَذَقَ كلَّ عمل و- الثوبُ والأمرُ بفلان: لاق به . فهو لَبِيق
+لجب	لَجُبَ	7	HFN-E-49425f25b1	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+لحم	لَحُمَ	3	HFN-E-c135ffd140	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+لدن	لَدُنَ	7	HFN-E-21fcf2e152	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ _ لَدَانة ، ولُدُونة : لانَ . فهو لَدْن.(ج) لُدْنّ ، ولِدَانٌ . وهى لَدْنة .(ج) لِدَان. يقال : امرأَة لَدْنَةٌ : ر
+لزب	لَزُبَ	3	HFN-E-fd1891e866	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ - لَزْباً ، ولُزُوباً : دجل بعضُه فى بعضٍ وتماسَك . يقال : لَزُب الطِّينُ ونحوه
+لطف	لَطُفَ	4	HFN-E-8767290579	BOTH	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ - لُطْفاً ، ولَطَافة : رقَ [ضدُّ كَذُف]. يقال : الهواءُ جسمٌ لطيفٌ و - رقّ [ ضد : خَشُن ] . يقال : فتاةً ذات خَلْق
+مءج	مَؤُجَ	3	HFN-E-b7a23d192b	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+متع	مَتُعَ	5	HFN-E-4c62c3867e	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الشئُ - مَتاعَةٌ : جادَ
+متن	مَتُنَ	3	HFN-E-5feb5bb818	BOTH	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ - مَتَانةً : صَلُبَ واشتِدّ وقوى . فهو مَتْنٌ ، ومَنِينٌ . يقال : حبلٌ متين ، ورأىٌ متين . ( ج) مِتَانٌ
+مثل	مَثُلَ	5	HFN-E-0f65e6d1d3	DEFER	GOLD_SAMPLE	NONE	فلانٌ بين يدَىِ الوالى - مُثولاً : قام منتصباً . و - الرَّجلُ مَثَالةً : فضُل . فهو مَثِيل . (ج) مُثَلاء
+مجد	مَجُدَ	4	HFN-E-9da1384ffe	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	فلان - مَجَادة : كان ذا مَجْد . فهو مَجِيد . ( ج) أَمْجَادٍ
+مجع	مَجُعَ	3	HFN-E-dceaa26c54	DEFER	HAND_CLAUDE_UNCLEAR	NONE	مَجَاعة : مَجِع
+محت	مَحُتَ	3	HFN-E-4dda1bebef	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	اليومُ - مَحَاتَةً : كان شديد الحرّ
+محض	مَحُضَ	2	HFN-E-f1105e9971	IDAFA	HAND_CLAUDE_GLOSS	NONE	فلان فى نسبه - مُحُوضَةً : كان خالص النَّسَب فِي نَسَبِهِ ونَسَبُهٌ (٢) بِالضَّمِّ
+محل	مَحُلَ	3	HFN-E-f94c8da0e8	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	المكانُ - مَحَالَةً : مَحَلَ
+مذل	مَذُلَ	4	HFN-E-2541f2029d	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	
+مرء	مَرُؤَ	5	HFN-E-386c8ef58f	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	الطَّعَامُ
+مرد	مَرُدَ	4	HFN-E-048a6dc188	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+مرع	مَرُعَ	3	HFN-E-22f2196d47	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+مزر	مَزُرَ	3	HFN-E-41b3b809a1	BOTH	HAND_CLAUDE_GLOSS	NAFSANIYYA	الرَّجُلُ - مَزارَةً: اشتدَّ قلبه وقوىَ. و- ظَرُفَ . و- التَّمْرُ : استحكم. فهو مَزيرٌ
+مسخ	مَسُخَ	2	HFN-E-a67cfccf92	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+معق	مَعُقَ	3	HFN-E-ddffb00edd	DEFER	GOLD_SAMPLE	NONE	النهرُ - مَعْقًا : مقلوب عَمُق . فهو مَغْيق ، وهى مَعيقة [ لغة تميم] . وقلَّما يقال : مَعِيق ، والمَعروف : عميق [لغة الح
+معك	مَعُكَ	2	HFN-E-02ef47874e	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	مَعاكةً : حَمُق . فهو مَعِكٌ
+معن	مَعُنَ	2	HFN-E-c699f80251	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+مقت	مَقُتَ	4	HFN-E-eff84819eb	IDAFA	HAND_CLAUDE_GLOSS	NONE	إلى الناس - مَقَاتَةً : كان بَغيضًا ا عِندهم إِلى النَّّاسِ الَّتِى تَجْمَعُ سَوَادَهَا وبَيَاضَهَا و
+مكث	مَكُثَ	6	HFN-E-151e6a468c	HAL	GOLD_SAMPLE	NONE	
+مكن	مَكُنَ	4	HFN-E-5cb9a789ca	IDAFA	HAND_CLAUDE_GLOSS	NONE	فلانٌ عند الناس - مَكانةً : عظُم عندهم . فهو مَكِينَ . (ج ) مُكَنَاء . وفى التنزيل العزيز: (قَالَ إِنَّكَ الْيَوْمَ لَدَ
+ملء	مَلُؤَ	2	HFN-E-d686185b41	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	بِالضَّمِّ
+ملح	مَلُحَ	7	HFN-E-b48e457163	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	الماءُ - مُلُوحَةً ، ومَلَاحَةً : صار مِلْحًا . وهو مَلِيحٌ أَيضًا ، ومالحٌ . و - الشءُ مَلَاحَةً : بَهُجَ وحسُن منظرُه 
+ملخ	مَلُخَ	2	HFN-E-526a4a7e54	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+ملس	مَلُسَ	4	HFN-E-8a54887f58	MAHSUSA	GOLD_SAMPLE	NONE	مَلاسة ، ومُلوسة : ملِس ، فهو مَلِيس
+ملط	مَلُطَ	2	HFN-E-e1403b834f	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+منع	مَنُعَ	7	HFN-E-dfc117bdaa	IDAFA	HAND_CLAUDE_GLOSS	MAHSUSA	فلان - مَنَاعة : صارمنيعًا مَحْمِبَّا . و - الشءُ : اعتزَّ وتعسّرَ الحِصْنُ
+مهن	مَهُنَ	3	HFN-E-caa0a4f241	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	مَهَانَة : ضَعُف
+مهو	مَهُوَ	2	HFN-E-6138ad1a40	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+نبل	نَبُلَ	7	HFN-E-628aeceb30	BOTH	HAND_CLAUDE_GLOSS	NONE	نُبْلًا ، ونَبالَةً: عظُم وشرُف . يقال: أَجاد غذاءَها حتى نَبُل جسمُها ، وأَحسن تربيته فنبُلت أَخلاقه . و - فلانٌ : كرُم
+نبه	نَبُهَ	7	HFN-E-efc518a6ee	IDAFA	HAND_CLAUDE_GLOSS	NONE	
+نتن	نَتُنَ	4	HFN-E-cb06ec90b2	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+نجب	نَجُبَ	5	HFN-E-e7c8dcd1f6	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	نَجابةً : نبُه وبانَ فضله على مَن كان مثلَه
+نجد	نَجُدَ	4	HFN-E-0ae6978fd6	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	نَجْدةً ، ونَجادة : شَجُع . فهو نَجِدٌّ ، ونَجْدٌ ، ونَجِيدٌ . وَ - الأَمرُ نُجُودًا : وضح واستبان . فهو ناجِدٌ ، ونَجْد
+نجس	نَجُسَ	2	HFN-E-be1b97d2a8	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	نَجَاسَة : نَجَسَ نَحْساً، ونُحُوسَةً : نُحِس . فهو نحِيس
+نحض	نَحُضَ	4	HFN-E-5128146784	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	نَحَاضة : اكتنز لحمهُ . فهو نحيضٌ ، وهى نحيضة
+نحف	نَحُفَ	3	HFN-E-df23c47a47	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	نَحافَةً : ضَمُرَ وكان نحيلاً خِلقةً لا هُزالاً . فهو نَحيف . ( ج) نُحَفاء
+ندب	نَدُبَ	5	HFN-E-e55a46684e	NAFSANIYYA	HAND_CLAUDE_GLOSS	NAFSANIYYA	نَدابَة: صار نَدْباً
+نذل	نَذُلَ	6	HFN-E-905ac6b069	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	نَذَالة ، ونُذُولة : خَسّ وحَقُر، فهو نَدْلٌ ، ونَذِيل . (ج) أَنْذَالٌ ، ونُذُولٌ ، ونُدَلَاءُ
+نزر	نَزُرَ	9	HFN-E-c3cb8ec283	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	NONE	الشَّءُ - نَزارَةً ، ونُزورَة : قلَّ. و - فلانٌ : قلَّ خيرُه. و- الأُنثى : قلَّ لبنُها
+نزه	نَزُهَ	2	HFN-E-9eec372a1e	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+نسك	نَسُكَ	2	HFN-E-7deb8d6082	NAFSANIYYA	GOLD_SAMPLE	NAFSANIYYA	نُسْكاً ، ونَساكة : صار ناسِكاً
+نشء	نَشُؤَ	4	HFN-E-60caafc408	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+نضر	نَضُرَ	4	HFN-E-3676392e6f	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	نَضارَة : نَضَر . فهو نَضِيرٌ
+نظف	نَظُفَ	7	HFN-E-3e2179509b	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	نَظافَةً : نَقِىَ من الدَّنس فهو نظيفٌ .(ج) نُظَفَاء
+نعت	نَعُتَ	4	HFN-E-606be52e19	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	الرَّجُلُ بِالضَّمِّ إِذَا كَانَ النَّعْنُ لَهُ خِلْقَةً
+نعم	نَعُمَ	3	HFN-E-2cb10eaedd	MAHSUSA	HAND_CLAUDE_GLOSS	NAFSANIYYA	نُعُومَة : لانَ ملمَسُه . و - صار ا ناعماً ليِّناً . فهو ناعِم الشَّءُ بالِضَمّ
+نفس	نَفُسَ	6	HFN-E-de7f99480a	IDAFA	HAND_CLAUDE_GLOSS	MAHSUSA	الشءُ - نَفَاسَة ، ويفاساً ونُفوساً ، ونَفَسًا : كانَ عظيم القيمة. فهو نَفيس ، ونافِس .. (ج) نِفَاس
+نقب	نَقُبَ	5	HFN-E-7117a610d1	HAL	HAND_CLAUDE_GLOSS	NAFSANIYYA	على القوم- نَقَابَة: صار نَقيباً عليهم
+نقص	نَقُصَ	2	HFN-E-ba6a2c0357	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+نكر	نَكُرَ	3	HFN-E-e69bc9452c	NAFSANIYYA	GOLD_SAMPLE	NAFSANIYYA	الأَمِرُ - نَكَارَةً : صعُب واشتدَّ و - صار مُنْكَرًا
+نهج	نَهُجَ	6	HFN-E-b83fe68faa	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+نهد	نَهُدَ	7	HFN-E-04dcffaaa6	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	نُهُودَةً : كان نَهْدًا
+نهك	نَهُكَ	5	HFN-E-bacb6680ce	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	نَهَاكَةً : كان نَهيكاً
+هبل	هَبُلَ	3	HFN-E-d8f65a1cc7	DEFER	GOLD_SAMPLE	NONE	هَبَالَة : عَبُل
+هجو	هَجُوَ	2	HFN-E-8597c381e9	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	اليومُ - هَجاوةً : اشتدَّ حرُّه
+هنء	هَنُؤَ	3	HFN-E-76efa64b1f	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+وبء	وَبُؤَ	3	HFN-E-dfb17aef31	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+وبط	وَبُطَ	2	HFN-E-481945d308	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+وبل	وَبُلَ	4	HFN-E-c7f85ded10	MAHSUSA	GOLD_SAMPLE	MAHSUSA	المرتعُ الْمَرْعُ بِالضَّمّ إِ وَبَالاً) و الشَّءُ بالضَّمِّ أَيْضاً إِذَا اَشْتَدَّ فَهُوَ
+وتح	وَتُحَ	2	HFN-E-098bd1b48e	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+وثج	وَثُجَ	4	HFN-E-e189a09b00	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	الحيوانُ
+وثر	وَثُرَ	6	HFN-E-93cf8739d3	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	MAHSUSA	الشءُ
+وثق	وَثُقَ	5	HFN-E-5717f522d4	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	MAHSUSA	الشءُ
+وجب	وَجُبَ	4	HFN-E-009febcd82	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	الرجلُأُ يَوْجُبُ) وُجُوبةً: جَبُنَ
+وجز	وَجُزَ	4	HFN-E-471b03d1bb	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+وجه	وَجُهَ	4	HFN-E-c329f0687e	IDAFA	HAND_CLAUDE_KNOWLEDGE	NONE	فلان
+وحد	وَحُدَ	2	HFN-E-45bb39c7da	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+وحف	وَحُفَ	5	HFN-E-18a10067f1	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	النباتُ والشَّعْرُ
+وخش	وَخُشَ	3	HFN-E-f22b39ec12	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	MAHSUSA	الشءُ
+وخم	وَخُمَ	6	HFN-E-5fd14ad166	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+ودع	وَدُعَ	4	HFN-E-0e4d1a37e6	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+ورد	وَرُدَ	5	HFN-E-ca9d8b878b	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+ورع	وَرُعَ	5	HFN-E-62ed5dc795	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	
+وزن	وَزُنَ	3	HFN-E-af049c3020	BOTH	HAND_CLAUDE_GLOSS	NONE	
+وسط	وَسُطَ	3	HFN-E-2e526db232	IDAFA	HAND_CLAUDE_KNOWLEDGE	NONE	الرجلُ
+وسع	وَسُعَ	6	HFN-E-6a5ac8e850	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	MAHSUSA	الشءُ الْمَكَانُ بِالضَّمِ بِمَعْنَى
+وسم	وَسُمَ	6	HFN-E-c0cc90a24c	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	بالضَمّ
+وشك	وَشُكَ	4	HFN-E-81e802bcf0	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	
+وصف	وَصُفَ	3	HFN-E-b47f3b8fa2	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	الغلامُ والفتاة
+وضء	وَضُؤَ	6	HFN-E-53b738028c	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+وضع	وَضُعَ	4	HFN-E-867d0d6ad4	IDAFA	HAND_CLAUDE_GLOSS	NONE	
+وطء	وَطُؤَ	4	HFN-E-c98ac30d59	MAHSUSA	HAND_CLAUDE_KNOWLEDGE	NONE	
+وعث	وَعُثَ	3	HFN-E-266279ec45	MAHSUSA	HAND_CLAUDE_GLOSS	NONE	الطريقُ
+وعر	وَعُرَ	7	HFN-E-dae9ca947e	MAHSUSA	HAND_CLAUDE_GLOSS	MAHSUSA	المكانُ بِالضَّمِّ
+وغب	وَغُبَ	3	HFN-E-0fe78fe3eb	DEFER	HAND_CLAUDE_UNCLEAR	NONE	
+وغد	وَغُدَ	4	HFN-E-81c5e5794a	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	بالضَمّ
+وفر	وَفُرَ	4	HFN-E-c8b9065a20	IDAFA_KAMM	HAND_CLAUDE_GLOSS+KAMM_RULE	MAHSUSA	الشءُ
+وقح	وَقُحَ	6	HFN-E-ea6f01bcdc	BOTH	HAND_CLAUDE_KNOWLEDGE	NONE	
+وقر	وَقُرَ	5	HFN-E-3e38717784	NAFSANIYYA	HAND_CLAUDE_GLOSS	NONE	فلانُ بِالضَّمِّ مِثْلُ جَمُلَ جَمَالاً وَيُقَالُ أَيْضا
+وكع	وَكُعَ	6	HFN-E-3ebec0bac2	DEFER	HAND_CLAUDE_UNCLEAR	NONE	الرجلُ
+يتم	يَتُمَ	3	HFN-E-e4cf1119aa	HAL	HAND_CLAUDE_KNOWLEDGE	NONE	
+يسر	يَسُرَ	5	HFN-E-2537543725	MANA	HAND_CLAUDE_KNOWLEDGE	MAHSUSA	الشءُ
+يقظ	يَقُظَ	2	HFN-E-d365e1f5d3	NAFSANIYYA	HAND_CLAUDE_KNOWLEDGE	NONE	
+يمن	يَمُنَ	6	HFN-E-e37debcf2f	IDAFA	HAND_CLAUDE_GLOSS	NONE	فلانٌ على آله ، ولآله

@@ -65,6 +65,7 @@ class Wave11Ancestry:
     wujud:           str = ""         # وجود: نص ابن فارس
     # ── العقدة 2 ───────────────────────────────────────────────────────
     dhat:            str = ""         # ذات: مُشتقَّة
+    tahayyuz:        dict = field(default_factory=dict)  # تحيّز المعنى (word_tree/tahayyuz.py) — CANDIDATE
     # ── العقدة 3 ───────────────────────────────────────────────────────
     mahiyya:         list[str] = field(default_factory=list)   # محاور دلالية
     # ── العقدة 4 ───────────────────────────────────────────────────────
@@ -442,6 +443,12 @@ def wave11_build(
 
     # ── الخطوة F: العقدة 2 — ذات مُشتقَّة ───────────────────────────────
     anc.dhat = _derive_dhat(mahiyya, anc.sifat)
+    # تحيّز المعنى: ذات لها جثّة / حيّز مبهم / معنى / زمان (سيبويه، الكتاب 1/35–36 و1/403)
+    try:
+        from word_tree.tahayyuz import for_synset
+        anc.tahayyuz = for_synset(synset_id)
+    except Exception as e:  # الطبقة اختيارية — غيابها لا يكسر السلسلة
+        warnings.append(f"طبقة التحيّز غير متاحة: {e}")
 
     # ── الخطوة G: حكم — مفتوح ────────────────────────────────────────────
     anc.hokm = "OPEN"
@@ -470,6 +477,8 @@ def print_wave11(anc: Wave11Ancestry, synset_id: str = "") -> None:
 
     print(f"\n  ① وجود    : {anc.wujud[:80] + '…' if len(anc.wujud) > 80 else anc.wujud or '—'}")
     print(f"\n  ② ذات     : {anc.dhat or '—'}")
+    if anc.tahayyuz:
+        print(f"     تحيّز  : {anc.tahayyuz.get('label_ar', '—')}   [{anc.tahayyuz.get('route', '')}]")
 
     print(f"\n  ③ ماهية   ({len(anc.mahiyya)}) :")
     for ax in anc.mahiyya:

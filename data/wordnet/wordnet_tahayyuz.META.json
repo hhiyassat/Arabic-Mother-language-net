@@ -1,0 +1,230 @@
+{
+ "file": "wordnet_tahayyuz.json",
+ "built": "2026-11-05",
+ "builder": "tahayyuz/build_tahayyuz.py",
+ "derived_from": "wordnet_synsets.json",
+ "derived_from_sha256": "b0dac63258df7e1e7d54996d08e5bc299dd0bbebdff94c1a2b6229dbea90ebc4",
+ "gold": "tahayyuz/GOLD_TAHAYYUZ_v1.tsv",
+ "gold_sha256": "33abe039aeb8246f4d1b6308f3028f72cc3f9d8583d554b17d5a9ce1b8614568",
+ "gold_judged_by": "agent (Claude), blind to lexname — OWNER REVIEW PENDING",
+ "threshold": 0.78,
+ "classes_source": "سيبويه، الكتاب 1/35–36 ، 1/403–405 ، 1/418–419",
+ "counts": {
+  "MUTAHAYYIZ": 39433,
+  "DEFER": 5878,
+  "HAYYIZ_MUBHAM": 128,
+  "MANA": 24537,
+  "ZAMAN": 933
+ },
+ "routes": {
+  "L_LEX": 41323,
+  "L_LEX+L_HEAD": 23049,
+  "L_SIB": 1497,
+  "CONFLICT": 810,
+  "NO_ACCEPTED_SIGNAL": 3707,
+  "L_HEAD": 523
+ },
+ "subtypes": {
+  "MUTAHAYYIZ/None": 35511,
+  "DEFER/GHAYB": 300,
+  "DEFER/None": 4517,
+  "DEFER/TAXON": 1044,
+  "MUTAHAYYIZ/MAKAN": 3922,
+  "HAYYIZ_MUBHAM/ZARF": 16,
+  "MANA/None": 24537,
+  "ZAMAN/None": 933,
+  "DEFER/MIQDAR_MISAHA": 17,
+  "HAYYIZ_MUBHAM/MIQDAR_MASAFA": 63,
+  "HAYYIZ_MUBHAM/JIHA": 49
+ },
+ "masdar_naming_dhat": "DROPPED — vowelled-masdar match measured ~5/25 on sample; most hits come from D-01 L2 vowelling errors (see REPORT)",
+ "lex_precision": {
+  "noun.Tops": {
+   "ok": 0,
+   "n": 12,
+   "p": 0.0,
+   "accepted": false
+  },
+  "noun.act": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.animal": {
+   "ok": 11,
+   "n": 12,
+   "p": 0.917,
+   "accepted": true
+  },
+  "noun.artifact": {
+   "ok": 11,
+   "n": 12,
+   "p": 0.917,
+   "accepted": true
+  },
+  "noun.attribute": {
+   "ok": 11,
+   "n": 12,
+   "p": 0.917,
+   "accepted": true
+  },
+  "noun.body": {
+   "ok": 11,
+   "n": 12,
+   "p": 0.917,
+   "accepted": true
+  },
+  "noun.cognition": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.communication": {
+   "ok": 10,
+   "n": 12,
+   "p": 0.833,
+   "accepted": true
+  },
+  "noun.event": {
+   "ok": 10,
+   "n": 12,
+   "p": 0.833,
+   "accepted": true
+  },
+  "noun.feeling": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.food": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.group": {
+   "ok": 0,
+   "n": 12,
+   "p": 0.0,
+   "accepted": false
+  },
+  "noun.location": {
+   "ok": 11,
+   "n": 12,
+   "p": 0.917,
+   "accepted": true
+  },
+  "noun.motive": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.object": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.person": {
+   "ok": 10,
+   "n": 12,
+   "p": 0.833,
+   "accepted": true
+  },
+  "noun.phenomenon": {
+   "ok": 8,
+   "n": 12,
+   "p": 0.667,
+   "accepted": false
+  },
+  "noun.plant": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.possession": {
+   "ok": 6,
+   "n": 12,
+   "p": 0.5,
+   "accepted": false
+  },
+  "noun.process": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.quantity": {
+   "ok": 10,
+   "n": 12,
+   "p": 0.833,
+   "accepted": true
+  },
+  "noun.relation": {
+   "ok": 10,
+   "n": 12,
+   "p": 0.833,
+   "accepted": true
+  },
+  "noun.shape": {
+   "ok": 11,
+   "n": 12,
+   "p": 0.917,
+   "accepted": true
+  },
+  "noun.state": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.substance": {
+   "ok": 12,
+   "n": 12,
+   "p": 1.0,
+   "accepted": true
+  },
+  "noun.time": {
+   "ok": 11,
+   "n": 12,
+   "p": 0.917,
+   "accepted": true
+  }
+ },
+ "validation_heldout": {
+  "n": 150,
+  "decided": 134,
+  "correct": 129,
+  "precision": 0.963,
+  "wilson95_low": 0.916,
+  "deferred": 16,
+  "by_route": {
+   "L_LEX": {
+    "ok": 82,
+    "n": 87
+   },
+   "L_LEX+L_HEAD": {
+    "ok": 46,
+    "n": 46
+   },
+   "L_HEAD": {
+    "ok": 1,
+    "n": 1
+   }
+  },
+  "sha256": "96ad0decd599f87208834b1055aee94621969464810a18f1077fcf4a1f41c62b"
+ },
+ "gold_end_to_end": {
+  "decided": 276,
+  "correct": 264,
+  "note": "in-sample — head lists were read against this gold; use validation_heldout"
+ },
+ "status": "CANDIDATE — لا اعتماد إلا بحكم المالك",
+ "source_file_untouched": true,
+ "sha256": "6c8d07ec210d3ed24301d8c37bdc8e094b0e288c8cce5b7b2d623372a42ba7fe"
+}
