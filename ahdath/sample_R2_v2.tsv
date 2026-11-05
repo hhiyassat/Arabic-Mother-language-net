@@ -1,0 +1,61 @@
+route	event_id	root	verb	form	transitivity	n_lex	fail	fail_src	maful	maful_src	qiyas_kind	mutawaa	mutawaa_event	athar	mani	effect	rank
+R2	HFN-E-47fa9ac168	قءب	قَأَبَ	فَعَلَ	متعدي	3	قَائِب	QIYAS	مَقْؤُوب	QIYAS	MAHMUZ					DEFER	CANDIDATE
+R2	HFN-E-7a92174de7	غشو	تَغَشَّى	تَفَعَّى	متعدي	4										DEFER	CANDIDATE
+R2	HFN-E-a0f189602a	خطب	خَاطَبَ	فَاعَلَ	متعدي	5	مُخَاطِب	QIYAS	مُخَاطَب	QIYAS	MAZID_SAHIH					DEFER	CANDIDATE
+R2	HFN-E-c2c1e67ec3	حصر	أَحْصَرَ	أَفْعَلَ	متعدي	5	مُحْصِر	QIYAS	مُحْصَر	QIYAS	MAZID_SAHIH					DEFER	CANDIDATE
+R2	HFN-E-35eb523d63	لحت	لَحَتَ	فَعَلَ	متعدي	4	لَاحِت	QIYAS	مَلْحُوت	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-4332a1dcd4	رحض	رَحَضَ	فَعَلَ	متعدي	6	رَاحِض	QIYAS	مَرْحُوض	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-942487a70a	ضير	ضَارَ	فَعَلَ	متعدي	4	ضَائِر	QIYAS	مَضِير	QIYAS	AJWAF					DEFER	CANDIDATE
+R2	HFN-E-6124e68c1c	عطط	عَطَّ	فَعَلَ	متعدي	4	عَاطّ	QIYAS	مَعْطُوط	QIYAS	MUDAAF					DEFER	CANDIDATE
+R2	HFN-E-8781bcf817	ربت	رَبَتَ	فَعَلَ	متعدي	2	رَابِت	QIYAS	مَرْبُوت	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-04310d60c5	نهس	نَهِسَ	فَعِلَ	متعدي	3	نَاهِس	QIYAS	مَنْهُوس	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-fca757659a	ثمء	ثَمَأَ	فَعَلَ	متعدي	3	ثَامِئ	QIYAS	مَثْمُوء	QIYAS	MAHMUZ					DEFER	CANDIDATE
+R2	HFN-E-00cb4958c1	رصص	رَصَّ	فَعَلَ	متعدي	5	رَاصّ	QIYAS	مَرْصُوص	QIYAS	MUDAAF					DEFER	CANDIDATE
+R2	HFN-E-acc4e61199	ذنب	ذَنَبَ	فَعَلَ	متعدي	6	ذَانِب	SAMAI	مَذْنُوب	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-ead999d4ea	ءلف	أَلِفَ	فَعِلَ	متعدي	4	آلِف	QIYAS	مَأْلُوف	QIYAS	MAHMUZ					DEFER	CANDIDATE
+R2	HFN-E-563833d3fd	فجع	فَجَعَ	فَعَلَ	متعدي	3	فَاجِع	QIYAS	مَفْجُوع	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-ce9be75058	سرف	سَرَفَ	فَعَلَ	متعدي	3	سَارِف	QIYAS	مَسْرُوف	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-48212c1cfd	ءسس	أَسَّسَ	فَعَّلَ	متعدي	5										DEFER	CANDIDATE
+R2	HFN-E-72d633dafd	زرد	زَرَدَ	فَعَلَ	متعدي	4	زَارِد	QIYAS	مَزْرُود	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-4e506e6f44	نحح	نَحَّ	فَعَلَ	متعدي	2	نَاحّ	QIYAS	مَنْحُوح	QIYAS	MUDAAF					DEFER	CANDIDATE
+R2	HFN-E-081101d63f	قزز	قَزَّ	فَعَلَ	متعدي	2	قَازّ	QIYAS	مَقْزُوز	QIYAS	MUDAAF					DEFER	CANDIDATE
+R2	HFN-E-eb014df858	بخت	بَخَتَ	فَعَلَ	متعدي	2	بَاخِت	QIYAS	مَبْخُوت	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-eb30affe38	ذءر	ذَأَرَ	فَعَلَ	متعدي	3	ذَاءِر	SAMAI	مَذْؤُور	QIYAS	MAHMUZ					DEFER	CANDIDATE
+R2	HFN-E-492eed7f5c	وطم	وَطَمَ	فَعَلَ	متعدي	3	وَاطِم	QIYAS	مَوْطُوم	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-a3d5507a94	حرس	حَرَسَ	فَعَلَ	متعدي	7	حَارِس	SAMAI	مَحْرُوس	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-7afad8dccd	قرب	قَرِبَ	فَعِلَ	متعدي	7	قَارِب	SAMAI	مَقْرُوب	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-b6b9521ea6	رطس	رَطَسَ	فَعَلَ	متعدي	3	رَاطِس	QIYAS	مَرْطُوس	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-f557190c5e	جوه	جَاهَ	فَعَلَ	متعدي	2	جَائِه	QIYAS	مَجُوه	QIYAS	AJWAF					DEFER	CANDIDATE
+R2	HFN-E-9c4a1ccf69	ثقل	ثَقَلَ	فَعَلَ	متعدي	3	ثَاقِل	SAMAI	مَثْقُول	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-72082750cb	حرم	حَرَمَ	فَعَلَ	متعدي	5	حَارِم	QIYAS	مَحْرُوم	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-b762e75e51	شهم	شَهَمَ	فَعَلَ	متعدي	5	شَاهِم	QIYAS	مَشْهُوم	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-114de6453e	غمص	غَمِصَ	فَعِلَ	متعدي	4	غَامِص	QIYAS	مَغْمُوص	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-7336deda09	زين	زَانَ	فَعَلَ	متعدي	6	زَائِن	QIYAS	مَزِين	QIYAS	AJWAF					DEFER	CANDIDATE
+R2	HFN-E-4545972b20	علم	عَلَمَ	فَعَلَ	متعدي	3	عَالِم	SAMAI	مَعْلُوم	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-78495ca5aa	ندخ	نَدَخَ	فَعَلَ	متعدي	2	نَادِخ	QIYAS	مَنْدُوخ	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-9b2ab70f02	غصن	غَصَنَ	فَعَلَ	متعدي	2	غَاصِن	QIYAS	مَغْصُون	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-b9fad33717	ضءد	ضَأَدَ	فَعَلَ	متعدي	4	ضَائِد	QIYAS	مَضْءُود	SAMAI	MAHMUZ					DEFER	CANDIDATE
+R2	HFN-E-282962e2e4	قحز	قَحَزَ	فَعَلَ	متعدي	2	قَاحِز	QIYAS	مَقْحُوز	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-9605d74e80	لحس	لَحِسَ	فَعِلَ	متعدي	5	لَاحِس	QIYAS	مَلْحُوس	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-693ac42d05	غمن	غَمَنَ	فَعَلَ	متعدي	6	غَامِن	QIYAS	مَغْمُون	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-dddae153d3	ءدي	أَدَّى	فَعَّى	متعدي	5										DEFER	CANDIDATE
+R2	HFN-E-34ca8611ad	هيل	هَالَ	فَعَلَ	متعدي	5	هَائِل	QIYAS	مَهِيل	QIYAS	AJWAF					DEFER	CANDIDATE
+R2	HFN-E-ad2b7d4e97	ورث	وَرِثَ	فَعِلَ	متعدي	9	وَارِث	SAMAI	مَوْرُوث	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-011389aad2	حبل	حَبَلَ	فَعَلَ	متعدي	4	حَابِل	SAMAI	مَحْبُول	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-99f2313577	غفل	غَفَلَ	فَعَلَ	متعدي	5	غَافِل	QIYAS	مَغْفُول	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-f7b3a736a8	حرق	حَرَقَ	فَعَلَ	متعدي	5	حَارِق	QIYAS	مَحْرُوق	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-19ab424742	غمد	غَمَدَ	فَعَلَ	متعدي	5	غَامِد	QIYAS	مَغْمُود	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-7dd442f67b	شظف	شَظَفَ	فَعَلَ	متعدي	2	شَاظِف	QIYAS	مَشْظُوف	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-b686b5a6c6	وعي	أَوْعَى	أَفْعَى	متعدي	6										DEFER	CANDIDATE
+R2	HFN-E-0b21fd8b9f	رود	رَاوَدَ	فَاعَلَ	متعدي	5										DEFER	CANDIDATE
+R2	HFN-E-a47b71c5c0	ذعج	ذَعَجَ	فَعَلَ	متعدي	3	ذَاعِج	QIYAS	مَذْعُوج	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-70bc204ecf	رمض	رَمَضَ	فَعَلَ	متعدي	3	رَامِض	QIYAS	مَرْمُوض	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-85ef14e674	جمل	جَمَلَ	فَعَلَ	متعدي	5	جَامِل	QIYAS	مَجْمُول	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-b3f644c167	كثر	كَثَرَ	فَعَلَ	متعدي	3	كَاثِر	QIYAS	مَكْثُور	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-1653d501d4	كلم	كَلَمَ	فَعَلَ	متعدي	4	كَالِم	QIYAS	مَكْلُوم	SAMAI	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-b5efd4949a	وقر	وَقَّرَ	فَعَّلَ	متعدي	3										DEFER	CANDIDATE
+R2	HFN-E-c78acf4e5d	نطح	نَطَحَ	فَعَلَ	متعدي	5	نَاطِح	SAMAI	مَنْطُوح	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-8d9d103f19	حنن	حَنَّ	فَعَلَ	متعدي	4	حَانّ	QIYAS	مَحْنُون	QIYAS	MUDAAF					DEFER	CANDIDATE
+R2	HFN-E-82d7f4e103	ثمن	ثَمَنَ	فَعَلَ	متعدي	5	ثَامِن	QIYAS	مَثْمُون	QIYAS	SAHIH					DEFER	CANDIDATE
+R2	HFN-E-569eaec4a9	فيش	فَاشَ	فَعَلَ	متعدي	4	فَائِش	QIYAS	مَفِيش	QIYAS	AJWAF					DEFER	CANDIDATE
+R2	HFN-E-85b0942e7b	نثل	نَثَلَ	فَعَلَ	متعدي	5	نَاثِل	QIYAS	مَنْثُول	QIYAS	SAHIH					DEFER	CANDIDATE
