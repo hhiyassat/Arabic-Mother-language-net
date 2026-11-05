@@ -2,9 +2,9 @@
 اختبار محرك التوافق على الجذور العشرة التجريبية
 """
 import sys, os, json
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from word_tree.engines.compatibility_engine import (
+from engines.compatibility_engine import (
     build_compatibility_map,
     parse_network_from_dict,
     parse_exceptions_from_dict,
@@ -91,4 +91,8 @@ def main():
 
 
 if __name__ == "__main__":
+    main()
+
+
+def test_compatibility_main_runs():
     main()

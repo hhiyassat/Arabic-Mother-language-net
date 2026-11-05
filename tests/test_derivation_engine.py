@@ -2,15 +2,15 @@
 اختبار المحرك الاشتقاقي على الجذور العشرة التجريبية
 """
 import sys, os, json
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from word_tree.engines.derivation_engine import derive_from_dict, DerivationSet
+from engines.derivation_engine import derive_from_dict, DerivationSet
 
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'pilot_roots.json')
 
 
-def test_root(root_data: dict) -> bool:
+def check_root(root_data: dict) -> bool:
     label = root_data["display"]
     letters = root_data["letters"]
     rt = root_data["root_type"]
@@ -65,7 +65,7 @@ def main():
     roots = data["roots"]
     passed = 0
     for root_data in roots:
-        ok = test_root(root_data)
+        ok = check_root(root_data)
         if ok:
             passed += 1
 
@@ -75,3 +75,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def _roots():
+    with open(DATA_PATH, encoding="utf-8") as f:
+        return json.load(f)["roots"]
+
+
+import pytest  # noqa: E402
+
+
+@pytest.mark.parametrize("root_data", _roots(), ids=lambda r: r["display"])
+def test_pilot_root(root_data):
+    assert check_root(root_data)

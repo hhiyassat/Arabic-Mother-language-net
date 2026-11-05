@@ -229,38 +229,52 @@ function stepDone(id){
 function setStatus(t){document.getElementById('status-l').textContent=t;document.getElementById('search-hint').textContent=t}
 function setStatusR(t){document.getElementById('status-r').textContent=t}
 
-async function loadAll(){
-  try{
-    const r1=await fetch(BASE+'wordnet_search_index.json');
-    IDX=await r1.json(); stepDone('step1'); setStatus('فهرس البحث جاهز');
+async function fetchJSON(url){
+  const r=await fetch(url);
+  if(!r.ok) throw new Error(r.status+' '+url.split('/').pop());
+  return r.json();
+}
 
-    const r2=await fetch(BASE+'wordnet_synsets.json');
-    const raw2=await r2.json();
+async function loadAll(){
+  // Step 1 & 2: critical — page can't work without these
+  try{
+    IDX=await fetchJSON(BASE+'wordnet_search_index.json');
+    stepDone('step1'); setStatus('فهرس البحث جاهز');
+  }catch(e){
+    document.getElementById('loading').innerHTML=
+      `<div style="color:#c00;padding:20px"><strong>خطأ في تحميل الفهرس</strong><br>${e.message}</div>`;
+    return;
+  }
+  try{
+    const raw2=await fetchJSON(BASE+'wordnet_synsets.json');
     SYNS={};
     (raw2.synsets||raw2).forEach(s=>SYNS[s.id]=s);
-    stepDone('step2'); setStatus('المفاهيم جاهزة — يمكنك البحث');
+    stepDone('step2'); setStatus('المفاهيم جاهزة — يمكنك البحث الآن');
     showWelcome();
-
-    const r3=await fetch(BASE+'wordnet_relations.json');
-    RELS=await r3.json(); relsReady=true; stepDone('step3');
+  }catch(e){
+    document.getElementById('loading').innerHTML=
+      `<div style="color:#c00;padding:20px"><strong>خطأ في تحميل المفاهيم</strong><br>${e.message}</div>`;
+    return;
+  }
+  // Steps 3-5: optional — load in background, page still works if they fail
+  fetchJSON(BASE+'wordnet_relations.json').then(d=>{
+    RELS=d; relsReady=true; stepDone('step3');
     setStatus('شجرة العلاقات جاهزة'); redraw();
+  }).catch(e=>{ document.getElementById('step3').textContent='✗ شجرة العلاقات: '+e.message; });
 
-    const r4=await fetch(BASE+'wordnet_wazn.json');
-    WAZN=await r4.json(); waznReady=true; stepDone('step4');
+  fetchJSON(BASE+'wordnet_wazn.json').then(d=>{
+    WAZN=d; waznReady=true; stepDone('step4');
     setStatus('الأوزان الصرفية جاهزة'); redraw(); showWelcome();
+  }).catch(e=>{ document.getElementById('step4').textContent='✗ الأوزان: '+e.message; });
 
-    const r5=await fetch(MAQ_P);
-    const raw5=await r5.json();
+  fetchJSON(MAQ_P).then(raw5=>{
     MAQ={};
     (raw5.roots||raw5).forEach(r=>{
-      const k=norm(r.root_display||r.letters||'');
+      const k=norm(r.display||r.root_display||r.letters||'');
       MAQ[k]=r; if(r.letters)MAQ[r.letters]=r;
     });
     maqReady=true; stepDone('step5'); setStatusR('مقاييس ابن فارس جاهز ✓'); redraw();
-  }catch(e){
-    document.getElementById('main').innerHTML=
-      `<div class="no-results"><strong>خطأ</strong><p>شغّل من مجلد arabic-net: <code>python3 -m http.server 8000</code></p><p style="color:#c00">${e.message}</p></div>`;
-  }
+  }).catch(e=>{ document.getElementById('step5').textContent='✗ مقاييس: '+e.message; });
 }
 
 function redraw(){

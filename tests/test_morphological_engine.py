@@ -2,10 +2,10 @@
 اختبار المحرك الصرفي على الجذور العشرة التجريبية
 """
 import sys, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from word_tree.engines.morphological_engine import conjugate
-from word_tree.core.types import RootType, Baab
+from engines.morphological_engine import conjugate
+from core.types import RootType, Baab
 
 
 # الجذور العشر مع حروفها الأصلية الصحيحة (ثلاثة أحرف)
@@ -43,7 +43,7 @@ PILOT_ROOTS = [
 ]
 
 
-def test_root(label, letters, root_type, baab, expected):
+def check_root(label, letters, root_type, baab, expected):
     print(f"\n{'═'*60}")
     print(f"الجذر: {label}  |  النوع: {root_type.value}  |  الباب: {baab.value}")
     print(f"{'─'*60}")
@@ -84,7 +84,7 @@ def main():
 
     passed = 0
     for entry in PILOT_ROOTS:
-        ok = test_root(*entry)
+        ok = check_root(*entry)
         if ok:
             passed += 1
 
@@ -94,3 +94,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+import pytest  # noqa: E402
+
+
+@pytest.mark.parametrize("entry", PILOT_ROOTS, ids=lambda e: str(e[0]))
+def test_pilot_root(entry):
+    assert check_root(*entry)
