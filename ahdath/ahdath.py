@@ -355,9 +355,37 @@ def score(name="gold_R2_v2.tsv"):
     print(dict(lab), f"judged={judged} ok={ok} precision={prec:.3f} wilson_low={lo:.3f} → {verdict}")
 
 
+# ── R2 v3 (2026-11-06): التعدّي من الوسيط (wazn-net، مقيس 0.92) بدل وسم HFN (0.576) ──
+def build_r2_wasit():
+    ev, lus = load()
+    tw = {r["event_id"]: r for r in csv.DictReader(open(os.path.join(HERE, "ext", "transitivity_wasit.tsv"),
+                                                        encoding="utf-8"), delimiter="\t")}
+    roots_inf = {e["root_K"] for e in ev if is_mutawaa_form(e["form"]) and nlex(e) >= 2}
+    rows = []
+    for e in ev:
+        t = tw.get(e["event_id"])
+        if not t or t["transitivity_wasit"] != "متعدي" or nlex(e) < 2 or e["root_K"] in roots_inf:
+            continue
+        p = participles(dict(e, transitivity="متعدي"), lus)
+        m = mani(e["verb"])
+        rows.append(dict(route="R2w", event_id=e["event_id"], root=e["root_K"], verb=e["verb"],
+                         form=e["form"].split(" ")[0], transitivity="متعدي(الوسيط)", n_lex=nlex(e),
+                         mutawaa="", mutawaa_event="", athar="", mani=m,
+                         effect="LA_ATHAR" if m else "DEFER", rank="CANDIDATE", **p))
+    rows.sort(key=lambda r: (r["root"], r["verb"]))
+    write(os.path.join(HERE, "pool_R2_v3.tsv"), rows)
+    seen = set()
+    for n in ("sample_R2_v1.tsv", "sample_R2_v2.tsv"):
+        seen |= {r["event_id"] for r in csv.DictReader(open(os.path.join(HERE, n), encoding="utf-8"), delimiter="\t")}
+    cand = [r for r in rows if not r["mani"] and r["event_id"] not in seen]
+    sample = random.Random(f"{SEED}:AHDATH_R2_v3").sample(cand, min(N_SAMPLE, len(cand)))
+    write(os.path.join(HERE, "sample_R2_v3.tsv"), sample)
+    print("R2w pool", len(rows), "mani", sum(1 for r in rows if r["mani"]), "sample", len(sample))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "build"
     if cmd == "score" and len(sys.argv) > 2:
         score(sys.argv[2])
     else:
-        {"build": build, "score": score}[cmd]()
+        {"build": build, "score": score, "r2w": build_r2_wasit}[cmd]()

@@ -199,3 +199,31 @@ def test_derive_mazid(verb, root, form, expect):
 def test_weak_undecided():
     assert A.derive_thulathi("رءي", True, "رَأَى") is None   # مهموز معتلّ
     assert A.derive_thulathi("شوء", True, "شَاءَ") is None   # أجوف مهموز
+
+
+# ── v3 (2026-11-06): التعدية وR2 بتعدّي الوسيط ──────────────────────────────────
+
+def _rows(name):
+    return list(csv.DictReader(open(os.path.join(ROOT, "ahdath", name), encoding="utf-8"), delimiter="\t"))
+
+
+def test_21_ahzanahu_jaala():
+    """أَمْرَضَهُ: الوسيط «جعله مريضاً» — عبارة الخليل «جعلته حزيناً» (الكتاب:16452)."""
+    r = {x["verb"]: x for x in _rows("taadiya_T_JAL.tsv")}
+    assert "أَمْرَضَ" in r and r["أَمْرَضَ"]["base"] == "مَرِضَ" and "مريض" in r["أَمْرَضَ"]["jaala"]
+    assert all(x["route"] == "T_JAL" and x["rank"] == "CANDIDATE" for x in r.values())
+
+
+def test_22_taadiya_mani_lazim_afal():
+    """المانع: أفعل بلا معنى متعدٍّ في الوسيط لا يدخل حوض T (أَدْلَجَ: ساروا من أول الليل؛ أَغْفَى: نام)."""
+    pool = {x["verb"] for x in _rows("taadiya_T_pool.tsv")}
+    assert "أَدْلَجَ" not in pool and "أَغْفَى" not in pool
+
+
+def test_23_r2w_from_wasit():
+    """R2 v3: الحوض من تعدّي الوسيط، والعيّنة لا تتداخل مع v1 وv2."""
+    pool = _rows("pool_R2_v3.tsv")
+    assert pool and all(x["transitivity"] == "متعدي(الوسيط)" for x in pool)
+    s3 = {x["event_id"] for x in _rows("sample_R2_v3.tsv")}
+    old = {x["event_id"] for x in _rows("sample_R2_v1.tsv") + _rows("sample_R2_v2.tsv")}
+    assert not (s3 & old)

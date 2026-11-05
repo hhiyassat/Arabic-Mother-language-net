@@ -1,0 +1,26 @@
+route	base_event	base	base_form	base_trans_wasit	base_harf	sifa	sifa_kind	sifa_src	event_id	verb	form	n_lex	verb_trans_hfn	verb_senses_wasit	fail	maful	maful_src	rank	jaala
+T_JAL	HFN-E-59abbb18af	بَخِلَ	فَعِلَ	لازم		باخلٌ	HUDUTH	WASIT_FAHUWA	HFN-E-cbf5107713	أَبْخَلَ	أَفْعَلَ	3			مُبْخِل	مُبْخَل	QIYAS	CANDIDATE	جعله بخيلا
+T_JAL	HFN-E-1f0910c459	بَلَعَ	فَعَلَ	لازم	في	بالِعُ	HUDUTH	WASIT_FAHUWA	HFN-E-f3b6e7b9a3	أَبْلَعَ	أَفْعَلَ	2			مُبْلِع	مُبْلَع	QIYAS	CANDIDATE	جعله يبلعه
+T_JAL	HFN-E-873dc1bec6	دَالَ	فَعَلَ/فَعِلَ	لازم		دَائِل	HUDUTH	ISM_FAIL	HFN-E-7a6871b4d3	أَدَالَ	أَفَالَ	4						CANDIDATE	جعله متداولا
+T_JAL	HFN-E-8b7931280a	دَلَفَ	فَعَلَ	لازم		دَالِف	HUDUTH	ISM_FAIL	HFN-E-17bbf2f5bd	أَدْلَفَ	أَفْعَلَ	3			مُدْلِف	مُدْلَف	QIYAS	CANDIDATE	جعله يدلف
+T_JAL	HFN-E-14a87a27d5	رَدُؤَ	فَعُلَ	لازم		رَدِءٌ	THUBUT	WASIT_FAHUWA	HFN-E-735d8bc575	أَرْدَءَ	أَفْعَلَ	6						CANDIDATE	جعله رديءا.
+T_JAL	HFN-E-ee48615373	رَسَبَ	فَعَلَ	لازم	في	رَاسِب	HUDUTH	ISM_FAIL	HFN-E-6192799f81	أَرْسَبَ	أَفْعَلَ	3			مُرْسِب	مُرْسَب	QIYAS	CANDIDATE	جعله يرسب.
+T_JAL	HFN-E-77bf768acf	رَسِحَ	فَعِلَ	لازم		رَاسِح	HUDUTH	ISM_FAIL	HFN-E-01c045bb2a	أَرْسَحَ	أَفْعَلَ	5			مُرْسِح	مُرْسَح	QIYAS	CANDIDATE	جعله ءرسح
+T_JAL	HFN-E-9e1ad0f383	رَغِدَ	فَعِلَ	لازم		رَغْدٌ	THUBUT	WASIT_FAHUWA	HFN-E-c84bfee08d	أَرْغَدَ	أَفْعَلَ	6			مُرْغِد	مُرْغَد	QIYAS	CANDIDATE	جعله رغدا
+T_JAL	HFN-E-ffdd6b6ccb	رَمَكَ	فَعَلَ	لازم	في	رَامِك	HUDUTH	ISM_FAIL	HFN-E-afa803aa68	أَرْمَكَ	أَفْعَلَ	4			مُرْمِك	مُرْمَك	QIYAS	CANDIDATE	جعله يرمك
+T_JAL	HFN-E-5844204937	زَهَقَ	فَعَلَ	لازم		زاهقٌ	HUDUTH	WASIT_FAHUWA	HFN-E-f4bcd3d01b	أَزْهَقَ	أَفْعَلَ	5			مُزْهِق	مُزْهَق	QIYAS	CANDIDATE	جعله يزهق
+T_JAL	HFN-E-1608ff6af5	سَفَدَ	فَعَلَ	لازم		سَافِد	HUDUTH	ISM_FAIL	HFN-E-820e5d0b37	أَسْفَدَ	أَفْعَلَ	4			مُسْفِد	مُسْفَد	QIYAS	CANDIDATE	جعله يسفد
+T_JAL	HFN-E-d04904bef9	سَلَحَ	فَعَلَ	لازم		سالحٌ	HUDUTH	WASIT_FAHUWA	HFN-E-dea00b3b75	أَسْلَحَ	أَفْعَلَ	3			مُسْلِح	مُسْلَح	QIYAS	CANDIDATE	جعله يسلح
+T_JAL	HFN-E-d6ac41b19e	شَرَدَ	فَعَلَ	لازم	عن	شارِد	HUDUTH	WASIT_FAHUWA	HFN-E-ed40ffe0dc	أَشْرَدَ	أَفْعَلَ	3			مُشْرِد	مُشْرَد	QIYAS	CANDIDATE	جعله شريدا
+T_JAL	HFN-E-14051d2528	صَلَدَ	فَعَلَ	لازم		صَالِد	HUDUTH	ISM_FAIL	HFN-E-64c748634c	أَصْلَدَ	أَفْعَلَ	6			مُصْلِد	مُصْلَد	QIYAS	CANDIDATE	جعله صلدا
+T_JAL	HFN-E-bcb9d808a5	ضَجِرَ	فَعِلَ	لازم	ب	ضجِر	THUBUT	WASIT_FAHUWA	HFN-E-16fef1731b	أَضْجَرَ	أَفْعَلَ	3			مُضْجِر	مُضْجَر	QIYAS	CANDIDATE	جعله يضجر
+T_JAL	HFN-E-303074f9b2	عَشِيَ	فَعِلَ	لازم	على	عش	OTHER	WASIT_FAHUWA	HFN-E-58a6eddd23	أَعْشَى	أَفْعَى	5						CANDIDATE	جعله ءعشي
+T_JAL	HFN-E-6cd09b4934	عَكِرَ	فَعِلَ	لازم		عَكِرٌ	THUBUT	WASIT_FAHUWA	HFN-E-a5c8706369	أَعْكَرَ	أَفْعَلَ	2			مُعْكِر	مُعْكَر	QIYAS	CANDIDATE	جعله عكرا
+T_JAL	HFN-E-935ceadb32	غَنِيَ	فَعِلَ	لازم	عن	غانٍ	OTHER	WASIT_FAHUWA	HFN-E-d01862218d	أَغْنَى	أَفْعَى	4						CANDIDATE	جعله غنيا
+T_JAL	HFN-E-4aaad36b15	لَبِثَ	فَعِلَ	لازم	ب	لَابِث	HUDUTH	ISM_FAIL	HFN-E-0fb61bdb7d	أَلْبَثَ	أَفْعَلَ	3			مُلْبِث	مُلْبَث	QIYAS	CANDIDATE	جعله يلبث
+T_JAL	HFN-E-8e24c60c10	مَحَلَ	فَعَلَ	لازم	ب	مَاحِل	HUDUTH	ISM_FAIL	HFN-E-4e8591a773	أَمْحَلَ	أَفْعَلَ	5			مُمْحِل	مُمْحَل	QIYAS	CANDIDATE	جعلها محلة
+T_JAL	HFN-E-4a8a671202	مَرَأَ	فَعَلَ	لازم		مرءٌ	THUBUT	WASIT_FAHUWA	HFN-E-676f6d88a7	أَمْرَءَ	أَفْعَلَ	3						CANDIDATE	جعله مريءا
+T_JAL	HFN-E-54f1822688	مَرِضَ	فَعِلَ	لازم		مريض	THUBUT	WASIT_FAHUWA	HFN-E-b53a3aedc8	أَمْرَضَ	أَفْعَلَ	3			مُمْرِض	مُمْرَض	QIYAS	CANDIDATE	جعله مريضا
+T_JAL	HFN-E-6d75d71449	مَشَى	فَعَلَ	لازم		مَاشٍ	HUDUTH	ISM_FAIL	HFN-E-3d11f62209	أَمْشَى	أَفْعَى	6						CANDIDATE	جعله يمشي
+T_JAL	HFN-E-c1f523bd30	نَزَلَ	فَعَلَ	لازم	على	نَازِل	HUDUTH	ISM_FAIL	HFN-E-03efdb6dcd	أَنْزَلَ	أَفْعَلَ	6			مُنْزِل	مُنْزَل	QIYAS	CANDIDATE	جعله ينزل
+T_JAL	HFN-E-d8b662d4be	نَغِلَ	فَعِلَ	لازم		نَاغِل	HUDUTH	ISM_FAIL	HFN-E-2b61576a81	أَنْغَلَ	أَفْعَلَ	2			مُنْغِل	مُنْغَل	QIYAS	CANDIDATE	جعله ينغل

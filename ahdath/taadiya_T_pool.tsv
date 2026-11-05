@@ -1,0 +1,128 @@
+route	base_event	base	base_form	base_trans_wasit	base_harf	sifa	sifa_kind	sifa_src	event_id	verb	form	n_lex	verb_trans_hfn	verb_senses_wasit	fail	maful	maful_src	rank
+T_IFAL	HFN-E-058a507222	بَاءَ	فَعَلَ	لازم	ب		HUDUTH	ISM_FAIL	HFN-E-3f95205c4f	أَبَاءَ	أَفَالَ	6		متعدي·متعدي·متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-ddb8fa1b73	بَدِلَ	فَعِلَ	لازم		بَدِلٌ	THUBUT	WASIT_FAHUWA	HFN-E-5cfbe5856f	أَبْدَلَ	أَفْعَلَ	7		متعدي	مُبْدِل	مُبْدَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6008470783	بَرَكَ	فَعَلَ	لازم	على	بَرُوكٌ	THUBUT	WASIT_FAHUWA	HFN-E-d5109a4ad4	أَبْرَكَ	أَفْعَلَ	6		لازم_بحرف·متعدي	مُبْرِك	مُبْرَك	QIYAS	CANDIDATE
+T_IFAL	HFN-E-0e340439e3	بَرِمَ	فَعِلَ	لازم	ب	بَرِمْ	THUBUT	WASIT_FAHUWA	HFN-E-5a6d5966ac	أَبْرَمَ	أَفْعَلَ	7		لازم·متعدي·لازم·متعدي·متعدي	مُبْرِم	مُبْرَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a1fd3cd2b0	بَشِمَ	فَعِلَ	لازم	من	بَشِم	THUBUT	WASIT_FAHUWA	HFN-E-b5a30c5491	أَبْشَمَ	أَفْعَلَ	2		متعدي	مُبْشِم	مُبْشَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1f0910c459	بَلَعَ	فَعَلَ	لازم	في	بالِعُ	HUDUTH	WASIT_FAHUWA	HFN-E-f3b6e7b9a3	أَبْلَعَ	أَفْعَلَ	2		متعدي	مُبْلِع	مُبْلَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d5a89eb868	تَءِقَ	فَعِلَ	لازم		تَئِقَ	THUBUT	WASIT_FAHUWA	HFN-E-97fb04c093	أَتْءَقَ	أَفْعَلَ	3		متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-55440b45fe	تَهِمَ	فَعِلَ	لازم		تَاهِم	HUDUTH	ISM_FAIL	HFN-E-08228760fe	أَتْهَمَ	أَفْعَلَ	6		متعدي	مُتْهِم	مُتْهَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-bfdc4d562e	ثَابَ	فَعَلَ	لازم		ثَائِب	HUDUTH	ISM_FAIL	HFN-E-7f91271afd	أَثَابَ	أَفَالَ	4		متعدي				CANDIDATE
+T_IFAL	HFN-E-48d185ce5a	ثَارَ	فَعَلَ	لازم		ثَائِر	HUDUTH	ISM_FAIL	HFN-E-87f8604b9a	أَثَارَ	أَفَالَ	6		متعدي				CANDIDATE
+T_IFAL	HFN-E-13a2c98806	ثَمَرَ	فَعَلَ	لازم	ل	ثَامِر	HUDUTH	ISM_FAIL	HFN-E-3c1ebc2dc6	أَثْمَرَ	أَفْعَلَ	5		لازم·لازم·متعدي	مُثْمِر	مُثْمَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-765004729f	جَادَ	فَعَلَ	لازم		جيِّدٌ	OTHER	WASIT_FAHUWA	HFN-E-3d298854cd	أَجَادَ	أَفَالَ	6		لازم_بحرف·لازم·لازم·متعدي·متعدي·متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-94be557868	جَارَ	فَعَلَ	لازم	عن	جائرٌ	HUDUTH	WASIT_FAHUWA	HFN-E-f2fa77d673	أَجَارَ	أَفَالَ	5		متعدي				CANDIDATE
+T_IFAL	HFN-E-75858d0906	جَاعَ	فَعَلَ	لازم		جائع	HUDUTH	WASIT_FAHUWA	HFN-E-5901c58ac5	أَجَاعَ	أَفَالَ	7		متعدي				CANDIDATE
+T_IFAL	HFN-E-7c57db236f	جَحَرَ	فَعَلَ	لازم		جَاحِر	HUDUTH	ISM_FAIL	HFN-E-24a2131969	أَجْحَرَ	أَفْعَلَ	6		لازم·لازم·متعدي	مُجْحِر	مُجْحَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-0be4df365b	جَرَنَ	فَعَلَ	لازم		جارِنٌ	HUDUTH	WASIT_FAHUWA	HFN-E-e07ae3b6b5	أَجْرَنَ	أَفْعَلَ	2		متعدي	مُجْرِن	مُجْرَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3156008bd1	جَشِمَ	فَعِلَ	لازم		جَشِمٌ	THUBUT	WASIT_FAHUWA	HFN-E-c33c2ec8e0	أَجْشَمَ	أَفْعَلَ	4		متعدي	مُجْشِم	مُجْشَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-562defc525	جَعِمَ	فَعِلَ	لازم		جَعِمُ	THUBUT	WASIT_FAHUWA	HFN-E-0beb488db3	أَجْعَمَ	أَفْعَلَ	5		لازم·لازم·متعدي	مُجْعِم	مُجْعَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-7144a7054a	جَفَرَ	فَعَلَ	لازم	من	جَافِر	HUDUTH	ISM_FAIL	HFN-E-5aa5db56fa	أَجْفَرَ	أَفْعَلَ	6		لازم·لازم_بحرف·متعدي·متعدي·لازم_بحرف·لازم	مُجْفِر	مُجْفَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c0006b02b6	حَبَضَ	فَعَلَ	لازم	ب	حَابِض	HUDUTH	ISM_FAIL	HFN-E-bcea890f87	أَحْبَضَ	أَفْعَلَ	4		متعدي·متعدي·لازم	مُحْبِض	مُحْبَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ecf2945186	حَدَثَ	فَعَلَ	لازم		حَادِث	HUDUTH	ISM_FAIL	HFN-E-e0e85f225b	أَحْدَثَ	أَفْعَلَ	6		لازم·متعدي·لازم·متعدي	مُحْدِث	مُحْدَث	QIYAS	CANDIDATE
+T_IFAL	HFN-E-e8459f379a	حَسِكَ	فَعِلَ	لازم	على	حَسِكٌ	THUBUT	WASIT_FAHUWA	HFN-E-3f2b9525e5	أَحْسَكَ	أَفْعَلَ	2		لازم·متعدي	مُحْسِك	مُحْسَك	QIYAS	CANDIDATE
+T_IFAL	HFN-E-12a86d93d5	حَشِمَ	فَعِلَ	لازم		حَشِم	THUBUT	WASIT_FAHUWA	HFN-E-5699d26648	أَحْشَمَ	أَفْعَلَ	2		متعدي	مُحْشِم	مُحْشَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d06b2d6504	حَمِرَ	فَعِلَ	لازم		حَمِر	THUBUT	WASIT_FAHUWA	HFN-E-05c194eedf	أَحْمَرَ	أَفْعَلَ	4		لازم·متعدي	مُحْمِر	مُحْمَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-fb163ef93a	حَنِقَ	فَعِلَ	لازم	على	حَنِق	THUBUT	WASIT_FAHUWA	HFN-E-c5857d0dd9	أَحْنَقَ	أَفْعَلَ	4		لازم·لازم·لازم·متعدي	مُحْنِق	مُحْنَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-20ad059a04	خَرِفَ	فَعِلَ	لازم		خَرِف	THUBUT	WASIT_FAHUWA	HFN-E-7608bf5d39	أَخْرَفَ	أَفْعَلَ	6		لازم·لازم·لازم·لازم·متعدي·متعدي	مُخْرِف	مُخْرَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-8d393ec795	خَلَا	فَعَلَ	لازم	على	خَالٍ	HUDUTH	ISM_FAIL	HFN-E-11370a685f	أَخْلَى	أَفْعَى	4		لازم·لازم·لازم·لازم·لازم_بحرف·متعدي·لازم				CANDIDATE
+T_IFAL	HFN-E-873dc1bec6	دَالَ	فَعَلَ/فَعِلَ	لازم		دَائِل	HUDUTH	ISM_FAIL	HFN-E-7a6871b4d3	أَدَالَ	أَفَالَ	4		متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-4ace42e872	دَرِدَ	فَعِلَ	لازم		أَدْرَدُ	THUBUT	WASIT_FAHUWA	HFN-E-4559ba38bc	أَدْرَدَ	أَفْعَلَ	3		متعدي	مُدْرِد	مُدْرَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a60156641b	دَرِنَ	فَعِلَ	لازم		دَرِنٌّ	THUBUT	WASIT_FAHUWA	HFN-E-f513861ccf	أَدْرَنَ	أَفْعَلَ	3		لازم·لازم·لازم·متعدي	مُدْرِن	مُدْرَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-2dee7e8591	دَغِصَ	فَعِلَ	لازم		دَغْصان	THUBUT	WASIT_FAHUWA	HFN-E-88b0c7dea8	أَدْغَصَ	أَفْعَلَ	2		متعدي	مُدْغِص	مُدْغَص	QIYAS	CANDIDATE
+T_IFAL	HFN-E-8b7931280a	دَلَفَ	فَعَلَ	لازم		دَالِف	HUDUTH	ISM_FAIL	HFN-E-17bbf2f5bd	أَدْلَفَ	أَفْعَلَ	3		متعدي·متعدي	مُدْلِف	مُدْلَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d1de280d79	ذَالَ	فَعَلَ	لازم		ذَائِل	HUDUTH	ISM_FAIL	HFN-E-8e1756739f	أَذَالَ	أَفَالَ	7		متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-fbc9bec84c	رَاغَ	فَعَلَ	لازم		رَائِغ	HUDUTH	ISM_FAIL	HFN-E-7492351419	أَرَاغَ	أَفَالَ	5		متعدي				CANDIDATE
+T_IFAL	HFN-E-5db17b0dd4	رَاقَ	فَعَلَ/فَعِلَ	لازم		رَائِق	HUDUTH	ISM_FAIL	HFN-E-760b2fabbf	أَرَاقَ	أَفَالَ	5		متعدي				CANDIDATE
+T_IFAL	HFN-E-160682e8f6	رَجَعَ	فَعَلَ	لازم	في	رَاجِع	HUDUTH	ISM_FAIL	HFN-E-6436c3cb70	أَرْجَعَ	أَفْعَلَ	4		لازم·لازم·لازم·متعدي·لازم	مُرْجِع	مُرْجَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c9323b741d	رَحُبَ	فَعُلَ	لازم		رَحْب	THUBUT	WASIT_FAHUWA	HFN-E-84502ba218	أَرْحَبَ	أَفْعَلَ	4		متعدي	مُرْحِب	مُرْحَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-14a87a27d5	رَدُؤَ	فَعُلَ	لازم		رَدِءٌ	THUBUT	WASIT_FAHUWA	HFN-E-735d8bc575	أَرْدَءَ	أَفْعَلَ	6		لازم_بحرف·لازم·متعدي·لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-51823ca383	رَزَحَ	فَعَلَ	لازم	ب	رازِحٌ	HUDUTH	WASIT_FAHUWA	HFN-E-b26dec0a51	أَرْزَحَ	أَفْعَلَ	3		متعدي	مُرْزِح	مُرْزَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-dd06838fdd	رَزِغَ	فَعِلَ	لازم		رَزِغٌ	THUBUT	WASIT_FAHUWA	HFN-E-e4a4b99498	أَرْزَغَ	أَفْعَلَ	5		لازم·لازم·متعدي	مُرْزِغ	مُرْزَغ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ee48615373	رَسَبَ	فَعَلَ	لازم	في	رَاسِب	HUDUTH	ISM_FAIL	HFN-E-6192799f81	أَرْسَبَ	أَفْعَلَ	3		لازم·متعدي	مُرْسِب	مُرْسَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c81f5f6c9e	رَسَفَ	فَعَلَ	لازم	في	رَاسِف	HUDUTH	ISM_FAIL	HFN-E-ddd9d20e3d	أَرْسَفَ	أَفْعَلَ	2		متعدي	مُرْسِف	مُرْسَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-580737ebd0	رَسِلَ	فَعِلَ	لازم		رَاسِل	HUDUTH	ISM_FAIL	HFN-E-b516d16dc9	أَرْسَلَ	أَفْعَلَ	4		متعدي·متعدي·لازم_بحرف	مُرْسِل	مُرْسَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c839767843	رَغَا	فَعَلَ	لازم		رَاغٍ	HUDUTH	ISM_FAIL	HFN-E-5fe2da6716	أَرْغَى	أَفْعَى	3		لازم_بحرف·متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-9e1ad0f383	رَغِدَ	فَعِلَ	لازم		رَغْدٌ	THUBUT	WASIT_FAHUWA	HFN-E-c84bfee08d	أَرْغَدَ	أَفْعَلَ	6		متعدي	مُرْغِد	مُرْغَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-b4206e0f97	رَقَدَ	فَعَلَ	لازم		راقد	HUDUTH	WASIT_FAHUWA	HFN-E-f1337da298	أَرْقَدَ	أَفْعَلَ	3		متعدي·متعدي	مُرْقِد	مُرْقَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-315df12640	رَمِضَ	فَعِلَ	لازم		رمِضٌ	THUBUT	WASIT_FAHUWA	HFN-E-92df2c7d03	أَرْمَضَ	أَفْعَلَ	3		متعدي·متعدي·متعدي·متعدي	مُرْمِض	مُرْمَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3c6a46d80f	رَهِقَ	فَعِلَ	لازم		رَاهِق	HUDUTH	ISM_FAIL	HFN-E-8dbe62cf6c	أَرْهَقَ	أَفْعَلَ	3		لازم·متعدي·متعدي·متعدي·متعدي·متعدي	مُرْهِق	مُرْهَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5eac9b7b42	زَالَ	فَعَلَ	لازم	ب	زَائِل	HUDUTH	ISM_FAIL	HFN-E-f5ce7df49c	أَزَالَ	أَفَالَ	5		متعدي				CANDIDATE
+T_IFAL	HFN-E-7a9d394baf	زَعِلَ	فَعِلَ	لازم	من	زَعِلّ	THUBUT	WASIT_FAHUWA	HFN-E-c44bf34714	أَزْعَلَ	أَفْعَلَ	6		متعدي	مُزْعِل	مُزْعَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5844204937	زَهَقَ	فَعَلَ	لازم		زاهقٌ	HUDUTH	WASIT_FAHUWA	HFN-E-f4bcd3d01b	أَزْهَقَ	أَفْعَلَ	5		لازم_بحرف·متعدي·متعدي	مُزْهِق	مُزْهَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-43c4c96011	زَهِفَ	فَعِلَ	لازم		زَاهِف	HUDUTH	ISM_FAIL	HFN-E-c165661b40	أَزْهَفَ	أَفْعَلَ	4		لازم_بحرف·لازم·لازم_بحرف·لازم·لازم_بحرف·متعدي·متعدي·متعدي·لازم·لازم_بحرف·لازم·متعدي·متعدي	مُزْهِف	مُزْهَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1580ff7620	سَدِفَ	فَعِلَ	لازم		أَسمدفُ	OTHER	WASIT_FAHUWA	HFN-E-d2546a4799	أَسْدَفَ	أَفْعَلَ	6		لازم·لازم·متعدي·متعدي·متعدي	مُسْدِف	مُسْدَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f00cf37a95	سَرَبَ	فَعَلَ	لازم	في	سارب	HUDUTH	WASIT_FAHUWA	HFN-E-043405bb27	أَسْرَبَ	أَفْعَلَ	3		متعدي	مُسْرِب	مُسْرَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d9f1aa7d39	سَرَى	فَعَلَ	لازم		سَارٍ	HUDUTH	ISM_FAIL	HFN-E-b0b478fb1b	أَسْرَى	أَفْعَى	6		متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-d99073bcca	سَعِفَ	فَعِلَ	لازم		سَاعِف	HUDUTH	ISM_FAIL	HFN-E-861b3b3a5e	أَسْعَفَ	أَفْعَلَ	3		لازم·لازم_بحرف·لازم·متعدي·لازم	مُسْعِف	مُسْعَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1608ff6af5	سَفَدَ	فَعَلَ	لازم		سَافِد	HUDUTH	ISM_FAIL	HFN-E-820e5d0b37	أَسْفَدَ	أَفْعَلَ	4		متعدي	مُسْفِد	مُسْفَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5419f5f48e	سَقَطَ	فَعَلَ	لازم	من	ساقِطٌ	HUDUTH	WASIT_FAHUWA	HFN-E-32b3a5dce1	أَسْقَطَ	أَفْعَلَ	5		لازم_بحرف·لازم_بحرف·متعدي·متعدي·متعدي·لازم_بحرف	مُسْقِط	مُسْقَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-fd15667dad	سَقِبَ	فَعِلَ	لازم		ساقِب	HUDUTH	WASIT_FAHUWA	HFN-E-87dbb870e3	أَسْقَبَ	أَفْعَلَ	6		متعدي	مُسْقِب	مُسْقَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d04904bef9	سَلَحَ	فَعَلَ	لازم		سالحٌ	HUDUTH	WASIT_FAHUWA	HFN-E-dea00b3b75	أَسْلَحَ	أَفْعَلَ	3		متعدي	مُسْلِح	مُسْلَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-61767120f0	سَنِمَ	فَعِلَ	لازم		سنِمُ	THUBUT	WASIT_FAHUWA	HFN-E-61d58bbef8	أَسْنَمَ	أَفْعَلَ	4		لازم·متعدي	مُسْنِم	مُسْنَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-64109e47a1	شَاطَ	فَعَلَ	لازم		شَائِط	HUDUTH	ISM_FAIL	HFN-E-62084bdb1f	أَشَاطَ	أَفَالَ	6		متعدي·متعدي·لازم·لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-374937fc7b	شَخَصَ	فَعَلَ	لازم	من	شَخِيصٌ	THUBUT	WASIT_FAHUWA	HFN-E-8d0346cb3b	أَشْخَصَ	أَفْعَلَ	7		لازم·لازم·متعدي	مُشْخِص	مُشْخَص	QIYAS	CANDIDATE
+T_IFAL	HFN-E-b879247e62	صَابَ	فَعَلَ	لازم	ب	صَائِب	HUDUTH	ISM_FAIL	HFN-E-ce51e93bb8	أَصَابَ	أَفَالَ	5		لازم·متعدي·لازم·متعدي·لازم_بحرف				CANDIDATE
+T_IFAL	HFN-E-d5f1940dc8	صَافَ	فَعَلَ	لازم	ب	صَائِف	HUDUTH	ISM_FAIL	HFN-E-1dda45f4e5	أَصَافَ	أَفَالَ	2		لازم_بحرف·لازم·متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-5443494201	صَبَأَ	فَعَلَ	لازم	من	صابىٌّ	OTHER	WASIT_FAHUWA	HFN-E-3548882a05	أَصْبَءَ	أَفْعَلَ	4		لازم·لازم_بحرف·متعدي				CANDIDATE
+T_IFAL	HFN-E-14051d2528	صَلَدَ	فَعَلَ	لازم		صَالِد	HUDUTH	ISM_FAIL	HFN-E-64c748634c	أَصْلَدَ	أَفْعَلَ	6		متعدي	مُصْلِد	مُصْلَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5fb25f0579	صَمَتَ	فَعَلَ	لازم		صَامِت	HUDUTH	ISM_FAIL	HFN-E-5a3afdc41c	أَصْمَتَ	أَفْعَلَ	8		لازم·متعدي	مُصْمِت	مُصْمَت	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c97cda5c05	صَمَلَ	فَعَلَ	لازم	عن	صاملٌ	HUDUTH	WASIT_FAHUWA	HFN-E-86349932ee	أَصْمَلَ	أَفْعَلَ	2		متعدي	مُصْمِل	مُصْمَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-78d34926f4	ضَاءَ	فَعَلَ	لازم			HUDUTH	ISM_FAIL	HFN-E-8831a6ee73	أَضَاءَ	أَفَالَ	5		لازم·متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-425b0db3d5	طَابَ	فَعَلَ	لازم	ب	طَائِب	HUDUTH	ISM_FAIL	HFN-E-52be11394d	أَطَابَ	أَفَالَ	5		لازم·لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-3641304a31	طَارَ	فَعَلَ	لازم	في	طَائِر	HUDUTH	ISM_FAIL	HFN-E-d3406cc167	أَطَارَ	أَفَالَ	5		لازم·متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-754a9ec03e	ظَرُفَ	فَعُلَ	لازم		ظَريف	THUBUT	WASIT_FAHUWA	HFN-E-f3709977cc	أَظْرَفَ	أَفْعَلَ	5		لازم·لازم·متعدي	مُظْرِف	مُظْرَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-756fd00c04	عَاشَ	فَعَلَ	لازم		عائِش	HUDUTH	WASIT_FAHUWA	HFN-E-4ae56bf5af	أَعَاشَ	أَفَالَ	4		متعدي				CANDIDATE
+T_IFAL	HFN-E-8067cfd76a	عَجِبَ	فَعِلَ	لازم	من	عَاجِب	HUDUTH	ISM_FAIL	HFN-E-350c68008c	أَعْجَبَ	أَفْعَلَ	6		متعدي·متعدي	مُعْجِب	مُعْجَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-60929624b6	عَرِيَ	فَعِلَ	لازم	من	عارٍ	OTHER	WASIT_FAHUWA	HFN-E-bf8ba35047	أَعْرَى	أَفْعَى	5		لازم·لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-303074f9b2	عَشِيَ	فَعِلَ	لازم	على	عش	OTHER	WASIT_FAHUWA	HFN-E-58a6eddd23	أَعْشَى	أَفْعَى	5		لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-7ebbb2575c	عَطِشَ	فَعِلَ	لازم		عاطِشّ	HUDUTH	WASIT_FAHUWA	HFN-E-05922678a8	أَعْطَشَ	أَفْعَلَ	4		لازم·متعدي	مُعْطِش	مُعْطَش	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6cd09b4934	عَكِرَ	فَعِلَ	لازم		عَكِرٌ	THUBUT	WASIT_FAHUWA	HFN-E-a5c8706369	أَعْكَرَ	أَفْعَلَ	2		لازم·لازم·لازم·متعدي	مُعْكِر	مُعْكَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-58a1a240e7	عَلَنَ	فَعَلَ	لازم		عَالِن	HUDUTH	ISM_FAIL	HFN-E-fc91df0396	أَعْلَنَ	أَفْعَلَ	8		متعدي·متعدي	مُعْلِن	مُعْلَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a2218683f0	عَمِلَ	فَعِلَ	لازم	على	عامل	HUDUTH	WASIT_FAHUWA	HFN-E-45848facbb	أَعْمَلَ	أَفْعَلَ	4		متعدي·متعدي·متعدي	مُعْمِل	مُعْمَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-886cf8927e	عَنِقَ	فَعِلَ	لازم		أَعْنقُ	THUBUT	WASIT_FAHUWA	HFN-E-eb902f04a1	أَعْنَقَ	أَفْعَلَ	3		لازم·لازم·لازم·لازم·لازم·لازم·متعدي·متعدي	مُعْنِق	مُعْنَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-110fcd075b	غَرِيَ	فَعِلَ	لازم	ب	غَارٍ	HUDUTH	ISM_FAIL	HFN-E-cdddd83b16	أَغْرَى	أَفْعَى	5		لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-40a2261a75	غَسِيَ	فَعِلَ	لازم		غَاسٍ	HUDUTH	ISM_FAIL	HFN-E-6386d9e029	أَغْسَى	أَفْعَى	4		لازم·لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-dda6ef6f36	غَطِشَ	فَعِلَ	لازم		أَغطش	THUBUT	WASIT_FAHUWA	HFN-E-912514cff0	أَغْطَشَ	أَفْعَلَ	6		لازم·لازم·متعدي	مُغْطِش	مُغْطَش	QIYAS	CANDIDATE
+T_IFAL	HFN-E-4142b57301	غَفِرَ	فَعِلَ	لازم		غَافِر	HUDUTH	ISM_FAIL	HFN-E-01152b0458	أَغْفَرَ	أَفْعَلَ	4		لازم·لازم·لازم·لازم·لازم_بحرف·متعدي	مُغْفِر	مُغْفَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3ea5d299e5	غَلَا	فَعَلَ	لازم	في	غالٍ	OTHER	WASIT_FAHUWA	HFN-E-e95c10eaa3	أَغْلَى	أَفْعَى	4		لازم·متعدي·لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-935ceadb32	غَنِيَ	فَعِلَ	لازم	عن	غانٍ	OTHER	WASIT_FAHUWA	HFN-E-d01862218d	أَغْنَى	أَفْعَى	4		لازم·لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-1bf8564341	فَظُعَ	فَعُلَ	لازم			HUDUTH	ISM_FAIL	HFN-E-baed1f698d	أَفْظَعَ	أَفْعَلَ	5		لازم·متعدي·متعدي	مُفْظِع	مُفْظَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-56290bb466	فَقُهَ	فَعُلَ	لازم			HUDUTH	ISM_FAIL	HFN-E-9f4c1d05fc	أَفْقَهَ	أَفْعَلَ	6		متعدي	مُفْقِه	مُفْقَه	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1f897c960d	فَلَتَ	فَعَلَ	لازم		فالِتٌ	HUDUTH	WASIT_FAHUWA	HFN-E-e4c1ab7832	أَفْلَتَ	أَفْعَلَ	7		لازم_بحرف·متعدي	مُفْلِت	مُفْلَت	QIYAS	CANDIDATE
+T_IFAL	HFN-E-aef10e4c90	فَلِسَ	فَعِلَ	لازم	من	فَلِسٌ	THUBUT	WASIT_FAHUWA	HFN-E-fccd405add	أَفْلَسَ	أَفْعَلَ	5		لازم·متعدي	مُفْلِس	مُفْلَس	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f39a00475b	فَنِدَ	فَعِلَ	لازم	ب	فَانِد	HUDUTH	ISM_FAIL	HFN-E-e1ffbad2cd	أَفْنَدَ	أَفْعَلَ	7		متعدي·متعدي	مُفْنِد	مُفْنَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a4c40a0da2	فَهِقَ	فَعِلَ	لازم		فَاهِق	HUDUTH	ISM_FAIL	HFN-E-fcde1b3bc7	أَفْهَقَ	أَفْعَلَ	5		متعدي	مُفْهِق	مُفْهَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-66a715061e	قَامَ	فَعَلَ	لازم	على	قَائِم	HUDUTH	ISM_FAIL	HFN-E-39c7488acc	أَقَامَ	أَفَالَ	6		لازم_بحرف·متعدي·متعدي·لازم·متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-d340477507	قَزَعَ	فَعَلَ	لازم		قَازِع	HUDUTH	ISM_FAIL	HFN-E-0585d21a1d	أَقْزَعَ	أَفْعَلَ	3		لازم_بحرف·متعدي	مُقْزِع	مُقْزَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1b0ea0f5bb	قَسَطَ	فَعَلَ	لازم		قَاسِط	HUDUTH	ISM_FAIL	HFN-E-4342445724	أَقْسَطَ	أَفْعَلَ	4		لازم·متعدي·لازم_بحرف	مُقْسِط	مُقْسَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-511670be04	قَلِتَ	فَعِلَ	لازم		قَلِتْ	THUBUT	WASIT_FAHUWA	HFN-E-332f021938	أَقْلَتَ	أَفْعَلَ	6		متعدي	مُقْلِت	مُقْلَت	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f4b4239bd3	قَمَحَ	فَعَلَ	لازم	عن	قَامِح	HUDUTH	ISM_FAIL	HFN-E-807d87bb52	أَقْمَحَ	أَفْعَلَ	3		لازم·لازم·لازم·لازم·متعدي	مُقْمِح	مُقْمَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c541ba5f38	كَسَدَ	فَعَلَ	لازم		كاسد	HUDUTH	WASIT_FAHUWA	HFN-E-c5056755fa	أَكْسَدَ	أَفْعَلَ	5		لازم·متعدي	مُكْسِد	مُكْسَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-37a66167e7	كَسَفَ	فَعَلَ	لازم		كَاسِف	HUDUTH	ISM_FAIL	HFN-E-b8f4b6c25c	أَكْسَفَ	أَفْعَلَ	2		متعدي·متعدي	مُكْسِف	مُكْسَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5a97682044	كَسِلَ	فَعِلَ	لازم	عن	كَسِلّ	THUBUT	WASIT_FAHUWA	HFN-E-e1edfa33ee	أَكْسَلَ	أَفْعَلَ	6		متعدي	مُكْسِل	مُكْسَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-18ed557490	كَلَحَ	فَعَلَ	لازم		كالح	HUDUTH	WASIT_FAHUWA	HFN-E-b77bfc2bbf	أَكْلَحَ	أَفْعَلَ	5		متعدي	مُكْلِح	مُكْلَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-4aaad36b15	لَبِثَ	فَعِلَ	لازم	ب	لَابِث	HUDUTH	ISM_FAIL	HFN-E-0fb61bdb7d	أَلْبَثَ	أَفْعَلَ	3		متعدي	مُلْبِث	مُلْبَث	QIYAS	CANDIDATE
+T_IFAL	HFN-E-174af8a469	لَحَجَ	فَعَلَ	لازم		لَاحِج	HUDUTH	ISM_FAIL	HFN-E-3745941e18	أَلْحَجَ	أَفْعَلَ	4		متعدي·متعدي	مُلْحِج	مُلْحَج	QIYAS	CANDIDATE
+T_IFAL	HFN-E-68f8fe72a1	لَسِنَ	فَعِلَ	لازم		لَسِن	THUBUT	WASIT_FAHUWA	HFN-E-f56c20e54b	أَلْسَنَ	أَفْعَلَ	2		لازم·متعدي	مُلْسِن	مُلْسَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-43d97eeb7f	لَهِبَ	فَعِلَ	لازم		لَهْبَانُ	THUBUT	WASIT_FAHUWA	HFN-E-48e10a43f0	أَلْهَبَ	أَفْعَلَ	5		لازم·لازم·لازم_بحرف·متعدي	مُلْهِب	مُلْهَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-4a8a671202	مَرَأَ	فَعَلَ	لازم		مرءٌ	THUBUT	WASIT_FAHUWA	HFN-E-676f6d88a7	أَمْرَءَ	أَفْعَلَ	3		متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-5a187943f9	مَرَخَ	فَعَلَ	لازم	ب	مَرِحُ	OTHER	WASIT_FAHUWA	HFN-E-6ff82f48b7	أَمْرَخَ	أَفْعَلَ	4		متعدي	مُمْرِخ	مُمْرَخ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-54f1822688	مَرِضَ	فَعِلَ	لازم		مريض	THUBUT	WASIT_FAHUWA	HFN-E-b53a3aedc8	أَمْرَضَ	أَفْعَلَ	3		لازم·لازم·لازم·متعدي	مُمْرِض	مُمْرَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6d75d71449	مَشَى	فَعَلَ	لازم		مَاشٍ	HUDUTH	ISM_FAIL	HFN-E-3d11f62209	أَمْشَى	أَفْعَى	6		لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-d4561cd965	مَضَى	فَعَلَ	لازم		مَاضٍ	HUDUTH	ISM_FAIL	HFN-E-a90ef25629	أَمْضَى	أَفْعَى	3		متعدي·متعدي				CANDIDATE
+T_IFAL	HFN-E-e1447e2ae9	مَعِرَ	فَعِلَ	لازم		أَمْعَرُ	THUBUT	WASIT_FAHUWA	HFN-E-71c3670da6	أَمْعَرَ	أَفْعَلَ	5		لازم·لازم·متعدي	مُمْعِر	مُمْعَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-37abb11c0b	مَعِضَ	فَعِلَ	لازم	من	ماعِض	HUDUTH	WASIT_FAHUWA	HFN-E-73316e89a4	أَمْعَضَ	أَفْعَلَ	3		متعدي·متعدي	مُمْعِض	مُمْعَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5cb9a789ca	مَكُنَ	فَعُلَ	لازم		مَكِينَ	THUBUT	WASIT_FAHUWA	HFN-E-2917693f92	أَمْكَنَ	أَفْعَلَ	6		متعدي·متعدي	مُمْكِن	مُمْكَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-60d88d4445	نَابَ	فَعَلَ	لازم	عن	نائِبٌ	HUDUTH	WASIT_FAHUWA	HFN-E-89a4cd72a4	أَنَابَ	أَفَالَ	6		لازم·لازم·متعدي				CANDIDATE
+T_IFAL	HFN-E-772ec17d32	نَبَضَ	فَعَلَ	لازم		نَابِض	HUDUTH	ISM_FAIL	HFN-E-859a975c7f	أَنْبَضَ	أَفْعَلَ	6		متعدي	مُنْبِض	مُنْبَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-27a8368b80	نَبَطَ	فَعَلَ	لازم		نَابِط	HUDUTH	ISM_FAIL	HFN-E-e204d6f7a7	أَنْبَطَ	أَفْعَلَ	7		لازم·متعدي	مُنْبِط	مُنْبَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c1f523bd30	نَزَلَ	فَعَلَ	لازم	على	نَازِل	HUDUTH	ISM_FAIL	HFN-E-03efdb6dcd	أَنْزَلَ	أَفْعَلَ	6		متعدي·متعدي	مُنْزِل	مُنْزَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-bc46e02ae8	نَسَلَ	فَعَلَ	لازم		نَاسِل	HUDUTH	ISM_FAIL	HFN-E-80947e1143	أَنْسَلَ	أَفْعَلَ	5		لازم·لازم·لازم·لازم·لازم_بحرف·متعدي	مُنْسِل	مُنْسَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f6afe710dc	نَشِطَ	فَعِلَ	لازم	في	ناشِط	HUDUTH	WASIT_FAHUWA	HFN-E-b68f17cd81	أَنْشَطَ	أَفْعَلَ	8		متعدي·متعدي·لازم_بحرف	مُنْشِط	مُنْشَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-044eaf8c78	نَضِجَ	فَعِلَ	لازم		نَاضِج	HUDUTH	ISM_FAIL	HFN-E-24e17a718e	أَنْضَجَ	أَفْعَلَ	6		متعدي	مُنْضِج	مُنْضَج	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d8b662d4be	نَغِلَ	فَعِلَ	لازم		نَاغِل	HUDUTH	ISM_FAIL	HFN-E-2b61576a81	أَنْغَلَ	أَفْعَلَ	2		متعدي·متعدي	مُنْغِل	مُنْغَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f7eef858a4	نَفَرَ	فَعَلَ	لازم	من	نَافِر	HUDUTH	ISM_FAIL	HFN-E-8e39089614	أَنْفَرَ	أَفْعَلَ	5		لازم·متعدي·متعدي·متعدي	مُنْفِر	مُنْفَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-e69bc9452c	نَكُرَ	فَعُلَ	لازم			HUDUTH	ISM_FAIL	HFN-E-6b7229e337	أَنْكَرَ	أَفْعَلَ	7		متعدي·لازم·لازم_بحرف	مُنْكِر	مُنْكَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-93680e1b85	نَكِدَ	فَعِلَ	لازم		نكِدٌ	THUBUT	WASIT_FAHUWA	HFN-E-f7853b323b	أَنْكَدَ	أَفْعَلَ	4		لازم·متعدي	مُنْكِد	مُنْكَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c00e40dff7	هَجَعَ	فَعَلَ	لازم		هَاجِع	HUDUTH	ISM_FAIL	HFN-E-19397b7090	أَهْجَعَ	أَفْعَلَ	2		متعدي	مُهْجِع	مُهْجَع	QIYAS	CANDIDATE
