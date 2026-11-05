@@ -3,7 +3,7 @@
  "built": "2026-11-06",
  "builder": "tahayyuz/build_tahayyuz.py",
  "derived_from": "wordnet_synsets.json",
- "derived_from_sha256": "b0dac63258df7e1e7d54996d08e5bc299dd0bbebdff94c1a2b6229dbea90ebc4",
+ "derived_from_sha256": "2eda1a43720bdaf9ff74082ad41569d6109e6d069c9b73b67b42f354206b120f",
  "gold": "tahayyuz/GOLD_TAHAYYUZ_v1.tsv",
  "gold_sha256": "33abe039aeb8246f4d1b6308f3028f72cc3f9d8583d554b17d5a9ce1b8614568",
  "gold_judged_by": "agent (Claude), blind to lexname — OWNER REVIEW PENDING",
@@ -226,5 +226,5 @@
  },
  "status": "CANDIDATE — لا اعتماد إلا بحكم المالك",
  "source_file_untouched": true,
- "sha256": "f24468af941a323997e1ba4d525bd0bbad829bb86e23be7147d42ff278c94ff7"
+ "sha256": "7690138210b22bd3ea9d814568d27d61e84f93849396dd510f69c796cd0956fd"
 }
