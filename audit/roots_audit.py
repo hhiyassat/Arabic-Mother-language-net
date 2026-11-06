@@ -214,6 +214,8 @@ class Audit:
         self.text_only = {nfc(r["mutawaa_text"]) for r in csv.DictReader(
             open(os.path.join(AMLN, "audit", "mutawaa_text_only.tsv"), encoding="utf-8"), delimiter="\t")}
         self.ahdath_rows = defaultdict(list)
+        # حكم المالك «أبقِها معلَّمة» يشمل كلّ مطاوعٍ معلَّم (PARTIAL_VOWELLING وROOT_LETTERS_MISSING)، لا ملفّ القائمة وحده
+        self.text_only |= {nfc(x["mutawi"]) for x in WA._table() if x.get("mutawi_flags")}
         for x in WA._table():
             k = K(x["root"]) if x["root"] else None
             if k:
@@ -261,6 +263,10 @@ class Audit:
                 out.append((chk, "CONV", f"لا يوجد بمفتاح «{R}» بل «{v}» (عُرف المضعّف/الناقص): "
                                          + ("مفتاح ثنائي ملتبس بالمضعّف، والواجهة لا تسترجع به"
                                             if amb else "الواجهة تسترجع به منذ الدفعة 1")))
+            elif chk == "R_MAQAYIS" and R in P_ROOTS._embedded():
+                e = P_ROOTS._embedded()[R]
+                out.append((chk, "INFO", f'مدفون في سجلّ «{e["host_display"]}» ({e["how"]}، الموضع {e["offset"]}): '
+                                         "خطأ تقطيع في الاستخراج، والواجهة تسترجعه من النصّ الكامل منذ الدفعة 5"))
             else:
                 out.append((chk, "FAIL", f"لا بـ«{R}» ولا بـ{variants(R) or 'بديل'}"))
         try:

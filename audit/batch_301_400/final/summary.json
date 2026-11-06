@@ -1,0 +1,68 @@
+{
+ "release": "HFN_release_v38",
+ "roots": 100,
+ "rows": 2990,
+ "by_check": {
+  "A_AHDATH": {
+   "PASS": 41
+  },
+  "A_WAZN": {
+   "PASS": 44
+  },
+  "E_API": {
+   "PASS": 431
+  },
+  "E_CONJ": {
+   "PASS": 140,
+   "NA": 15
+  },
+  "E_MASDAR": {
+   "PASS": 427,
+   "KNOWN": 4
+  },
+  "E_MAZID_GEN": {
+   "PASS": 125,
+   "CONV": 43
+  },
+  "E_ORTHO": {
+   "PASS": 431
+  },
+  "E_PART_GEN": {
+   "PASS": 63
+  },
+  "E_TEMPLATE": {
+   "PASS": 302,
+   "INFO": 43,
+   "NA": 86
+  },
+  "R_HFN": {
+   "PASS": 100
+  },
+  "R_LEXLINK": {
+   "REVIEW": 6,
+   "INFO": 189
+  },
+  "R_MAQAYIS": {
+   "PASS": 83,
+   "CONV": 15,
+   "INFO": 2
+  },
+  "R_MEANING": {
+   "PASS": 100
+  },
+  "R_TAHAYYUZ": {
+   "PASS": 68,
+   "INFO": 32
+  },
+  "R_WORDNET": {
+   "PASS": 83,
+   "FAIL": 2,
+   "CONV": 15
+  },
+  "W_ROOTWORDS": {
+   "PASS": 93,
+   "FAIL": 4,
+   "INFO": 3
+  }
+ }
+}

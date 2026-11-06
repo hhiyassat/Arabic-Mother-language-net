@@ -2,8 +2,10 @@
 والتحيّز المكاني لمعاني الجذر في الشجرة. كلّه نصّ OCR لم يُحقَّق → شاهدٌ لا حكم."""
 from __future__ import annotations
 
+import csv
 import json
 import os
+import re
 from functools import lru_cache
 
 from ._common import OCR, REPOS, K, feature, on_path
@@ -25,6 +27,37 @@ def _maqayis():
         return {}
     d = json.load(open(MAQAYIS_JSON, encoding="utf-8"))
     return {K(r["display"]): r for r in d["roots"]}
+
+
+_AMLN = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+EMBEDDED_TSV = os.path.join(_AMLN, "data", "maqayis_embedded.tsv")
+MAQAYIS_DB = os.path.join(_AMLN, "word_tree", "maqayis.db")
+_HAR = re.compile(r"[ً-ْٰ]")
+
+
+@lru_cache(maxsize=1)
+def _embedded() -> dict:
+    """جذرٌ مدفون في سجلّ مقاييس آخر (audit/build_maqayis_embedded.py): K → (المضيف، رقم السجلّ، الموضع، الكيف)."""
+    if not os.path.exists(EMBEDDED_TSV):
+        return {}
+    return {r["root_K"]: r for r in csv.DictReader(open(EMBEDDED_TSV, encoding="utf-8"), delimiter="\t")}
+
+
+def _embedded_text(eid: int, offset: int, n: int = 400) -> str:
+    """نصّ المادّة المدفونة من body_text الكامل. الموضع محسوبٌ على النصّ بلا حركات، فيُترجم إلى النصّ المشكول."""
+    if not os.path.exists(MAQAYIS_DB):
+        return ""
+    import sqlite3
+    row = sqlite3.connect(MAQAYIS_DB).execute("select body_text from entries where id=?", (eid,)).fetchone()
+    if not row:
+        return ""
+    body, seen = row[0], 0
+    for i, ch in enumerate(body):
+        if seen == offset:
+            return body[i:i + n]
+        if not _HAR.match(ch):
+            seen += 1
+    return ""
 
 
 def key_variants(R: str, biliteral_naqis: bool = False) -> list[str]:
@@ -70,6 +103,14 @@ def meaning(root: str, full: bool = False) -> list[dict]:
                                source="مقاييس اللغة (ابن فارس) — maqayis_all_roots.json", match="ROOT",
                                evidence=f'axes={m.get("axes_count")}' + (f" · key={key}" if key != k else ""),
                                record_id=str(m.get("id")), root=k))
+        elif k in _embedded():
+            e = _embedded()[k]
+            txt = _embedded_text(int(e["host_entry_id"]), int(e["offset"]))
+            if txt:
+                out.append(feature("root_meaning", [txt], provider=PROVIDER, status=OCR,
+                                   source="مقاييس اللغة (ابن فارس) — maqayis.db (body_text)", match="ROOT",
+                                   evidence=f'مدفون في سجلّ «{e["host_display"]}» عند {e["offset"]} ({e["how"]})',
+                                   record_id=e["host_entry_id"], root=k))
     return out
 
 
