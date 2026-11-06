@@ -161,3 +161,17 @@ def test_maqayis_combined_naqis_hamza_entries():
     assert pick("خطء") == pick("خطو") == "خطوء"
     assert pick("بري") == "بروي"
     assert pick("برء") is None          # برأ مادّة مهموزة مستقلّة: لا تُحمل على «بروى» المعتلّة
+
+
+def test_maqayis_embedded_roots_from_full_text():
+    """فحص الجذور، الدفعة 5: مادّةٌ قطّعها الاستخراج في سجلّ غيرها تُسترجع من body_text الكامل."""
+    from unittest import mock
+    from arabic_net_api import roots as R
+    if not R._embedded():
+        import pytest
+        pytest.skip("data/maqayis_embedded.tsv غائب")
+    with mock.patch.object(R, "_root_meaning", lambda: (lambda r: {})):
+        for root, host in (("يوم", "يوح"), ("سخر", "سخد"), ("برر", "بذ"), ("قرأ", "قري")):
+            m = R.meaning(root)
+            assert m and f"«{host}»" in m[0]["evidence"], root
+        assert R.meaning("يوم")[0]["value"][0].startswith("الياء والواو والميم")
