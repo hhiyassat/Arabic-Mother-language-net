@@ -1,0 +1,1176 @@
+route	event_id	root	verb	form	n_lex	trans_wasit	sifa	sifa_template	jiha	musabbib_verb	musabbib_route	src	rank
+J_SAJIYYA	HFN-E-c3a0517649	غرب	غَرُبَ	فَعُلَ	5	لازم	غريب	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-e031b3979b	غرث	غَرِثَ	فَعِلَ	4	لازم	غَرْثان	فعلان	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-69249bed64	غرد	غَرِدَ	فَعِلَ	3	لازم	غَرِد	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-db5c5d1d87	غرض	غَرِضَ	فَعِلَ	6	لازم	غَرِضٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7202d36585	غزل	غَزِلَ	فَعِلَ	5	لازم	غَزِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3703c00136	غضر	غَضُرَ	فَعُلَ	3	لازم	غاضرِ	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-dda6ef6f36	غطش	غَطِشَ	فَعِلَ	5	لازم	أَغطش	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-a34006ba65	غطف	غَطِفَ	فَعِلَ	4	لازم	أغطف	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-46aa824dea	غلب	غَلِبَ	فَعِلَ	6	لازم	أغلبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-52c33d2a6c	غلط	غَلِطَ	فَعِلَ	6	لازم	غَلْطَانُ	فعلان	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-f9e9d3f94f	غلظ	غَلُظَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-95a83371d0	غلف	غَلِفَ	فَعِلَ	3	لازم	أَغلفُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d6563be30d	غلق	غَلِقَ	فَعِلَ	6	لازم	غَلِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-5eba772a55	غمر	غَمُرَ	فَعُلَ	4	لازم	غَمْر	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-46b1a75d70	فرت	فَرُتَ	فَعُلَ	5	لازم	فُرَاتٌ	فُعال	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-cce088babb	فرس	فَرُسَ	فَعُلَ	5	لازم	فارِسٌ	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-cb14f56fd7	فرع	فَرِعَ	فَعِلَ	4	لازم	أَفرعُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-5d710db53f	فره	فَرِهَ	فَعِلَ	2	لازم	فَرِه	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-14d31aea12	فره	فَرُهَ	فَعُلَ	3	لازم	فارِه	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-9fd3a94e98	فزر	فَزِرَ	فَعِلَ	5	لازم	أَفْزَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-6a745bf3c3	فسد	فَسُدَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-e5ec8098ab	فشق	فَشِقَ	فَعِلَ	5	لازم	فَشِقٌّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-87f355d694	فشل	فَشِلَ	فَعِلَ	6	لازم	فَشِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3991f80195	فصح	فَصُحَ	فَعُلَ	7	لازم	فَصْح	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-7479e1b491	فضل	فَضُلَ	فَعُلَ	2	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-8b14db4973	فطن	فَطُنَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-1bf8564341	فظع	فَظُعَ	فَعُلَ	7	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-2151b9bdf5	فقر	فَقِرَ	فَعِلَ	3	لازم	فَقِرّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-5fc5f19c59	فقر	فَقُرَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-4ee34c95a2	فقم	فَقِمَ	فَعِلَ	6	لازم	أَفْقَمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3717c4d9d7	فقم	فَقُمَ	فَعُلَ	6	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-a6f839c7f6	فلج	فَلِجَ	فَعِلَ	6	لازم	أفلجُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-aef10e4c90	فلس	فَلِسَ	فَعِلَ	3	لازم	فَلِسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-665f5af93b	فهد	فَهِدَ	فَعِلَ	8	لازم	فَهِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-480ad2cfa0	قبل	قَبُلَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-e06e20a70d	قتم	قَتِمَ	فَعِلَ	4	لازم	أَقتم	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bdd16f8fa4	قحل	قَحِلَ	فَعِلَ	5	لازم	قَحْلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-fb5098b688	قدر	قَدِرَ	فَعِلَ	7	لازم	أَقْدر	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-c05173ea2f	قدم	قَدُمَ	فَعُلَ	6	لازم	قديم	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-92512a6b84	قذر	قَذِرَ	فَعِلَ	7	لازم	قَذِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ef5ef8545b	قذر	قَذُرَ	فَعُلَ	2	لازم	قَذْرٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-d93a6440bc	قشف	قَشِفَ	فَعِلَ	5	لازم	قشف	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-fa21a000fb	قصر	قَصِرَ	فَعِلَ	7	لازم	قَصِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-18c50905bf	قصر	قَصُرَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-0502bbccff	خذم	خَذِمَ	فَعِلَ	3	لازم	خَذِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-f264f2fef5	قصف	قَصِفَ	فَعِلَ	5	لازم	قَصِف	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ffbb238686	قضف	قَضُفَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3adcf9e2f2	قطم	قَطِمَ	فَعِلَ	4	لازم	قَطِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-2cf8e963f4	قفد	قَفِدَ	فَعِلَ	4	لازم	أَقْفَدُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-a223ac69ac	قفر	قَفِرَ	فَعِلَ	4	لازم	قَفِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-c63fd04992	قفز	قَفِزَ	فَعِلَ	5	لازم	أَقْفَزُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-3ed02d40d3	قفس	قَفِسَ	فَعِلَ	2	لازم	أَقفس	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-dad7b795ee	قفص	قَفِصَ	فَعِلَ	6	لازم	قَفِصٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-3be143c690	قفع	قَفِعَ	فَعِلَ	3	لازم	أَقْفَعُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-cd26bd9f0b	قلب	قَلِبَ	فَعِلَ	5	لازم	أَقْلب	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-511670be04	قلت	قَلِتَ	فَعِلَ	5	لازم	قَلِتْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-b3a468e0cf	قلع	قَلِعَ	فَعِلَ	6	لازم	قَلِعٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-c0c2a198b2	قلف	قَلِفَ	فَعِلَ	6	لازم	أَقْلَف	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-96a9510720	قلق	قَلِقَ	فَعِلَ	7	لازم	قلِق	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-16fd3474d8	خرب	خَرِبَ	فَعِلَ	7	لازم	خرِب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-11762bd62a	كبر	كَبُرَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-19a6ff70b5	كبس	كَبِسَ	فَعِلَ	4	لازم	أَكْبَسُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d1e1146387	كتف	كَتِفَ	فَعِلَ	5	لازم	أكتف	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-d8d33bedfa	كثر	كَثُرَ	فَعُلَ	8	مشترك	كَثْر	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-24e22608ec	كثف	كَثُفَ	فَعُلَ	5	لازم	كثيف	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-09fb8bb781	خرج	خَرِجَ	فَعِلَ	7	لازم	أَخرجُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9692d58773	كدر	كَدِرَ	فَعِلَ	8	لازم	كَدِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b4b00d2738	كدر	كَدُرَ	فَعُلَ	6	لازم	كَدِير	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-f58cd5318c	كزم	كَزِمَ	فَعِلَ	5	لازم	كزِمّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-21d469da1a	كسح	كَسِحَ	فَعِلَ	5	لازم	أَكْسَحُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-5a97682044	كسل	كَسِلَ	فَعِلَ	7	لازم	كَسِلّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-84077fc741	كشم	كَشِمَ	فَعِلَ	2	لازم	أكشم	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9962b5aa07	كعر	كَعِرَ	فَعِلَ	4	لازم	كَعِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3d98fee48d	كفل	كَفُلَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-8bdc23e8ae	كلب	كَلِبَ	فَعِلَ	9	لازم	كلِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-5c419a174d	كلع	كَلِعَ	فَعِلَ	6	لازم	كَلِع	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e3e5f1316c	كمت	كَمُتَ	فَعُلَ	6	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-e06f67fa5a	كمل	كَمُلَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-143b369093	كمه	كَمِهَ	فَعِلَ	7	لازم	أَكْمَه	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-514f1a7f34	كنع	كَنِعَ	فَعِلَ	6	لازم	كَنِعٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-cec837428e	كهب	كَهِبَ	فَعِلَ	3	لازم	أَكْهب	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ba2c900d48	كهب	كَهُبَ	فَعُلَ	8	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c6fd2ab6f6	كهن	كَهُنَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b00eec5356	خرس	خَرِسَ	فَعِلَ	4	لازم	أَخْرَسُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-5558110a76	لتح	لَتِحَ	فَعِلَ	4	لازم	لَتْحان	فعلان	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-f013ada166	لجب	لَجِبَ	فَعِلَ	8	لازم	لَجِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-58dee75c63	لحج	لَحِجَ	فَعِلَ	5	لازم	لَحِجٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-c135ffd140	لحم	لَحُمَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-81c2438b16	لحن	لَحِنَ	فَعِلَ	7	لازم	لَحِنٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7b1f0338bc	لخن	لَخِنَ	فَعِلَ	6	لازم	لَخِنٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9360881878	خرص	خَرِصَ	فَعِلَ	5	لازم	خَرِصٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-68f8fe72a1	لسن	لَسِنَ	فَعِلَ	5	لازم	لَسِن	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-8767290579	لطف	لَطُفَ	فَعُلَ	4	لازم	لطيف	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-a66967aeb3	لفت	لَفِتَ	فَعِلَ	7	لازم	أَلْفَتُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-75a57340f1	لكن	لَكِنَ	فَعِلَ	3	لازم	أَلكن	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-43d97eeb7f	لهب	لَهِبَ	فَعِلَ	5	لازم	لَهْبَانُ	فعلان	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-cb06ec90b2	نتن	نَتُنَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-e7c8dcd1f6	نجب	نَجُبَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-20703b4481	نجر	نَجِرَ	فَعِلَ	4	لازم	نَجْران	فعلان	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-be1b97d2a8	نجس	نَجُسَ	فَعُلَ	2	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3bfca62032	نجل	نَجِلَ	فَعِلَ	4	لازم	أَنْجَلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-ac7343f595	نحز	نَحِزَ	فَعِلَ	2	لازم	نَحِز	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-ac9258b412	نخب	نَخِبَ	فَعِلَ	2	لازم	نَخِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d5f7f49947	نشم	نَشِمَ	فَعِلَ	6	لازم	نَشِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3676392e6f	نضر	نَضُرَ	فَعُلَ	4	مشترك	ناضِر	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-21a188f210	نطس	نَطِسَ	فَعِلَ	3	لازم	نَطِسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3e2179509b	نظف	نَظُفَ	فَعُلَ	7	لازم	نظيفٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-79da471570	نكب	نَكِبَ	فَعِلَ	4	لازم	أنكَبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-93680e1b85	نكد	نَكِدَ	فَعِلَ	6	لازم	نكِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e69bc9452c	نكر	نَكُرَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-542437507b	نمر	نَمِرَ	فَعِلَ	3	لازم	نمِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-ec0abf0bf1	نمس	نَمِسَ	فَعِلَ	5	لازم	نَمِسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-88d0effa0e	نمش	نَمِشَ	فَعِلَ	3	لازم	نَمِشْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1805b6b610	نمل	نَمِلَ	فَعِلَ	3	لازم	نَمِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b83fe68faa	نهج	نَهُجَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-04dcffaaa6	نهد	نَهُدَ	فَعُلَ	7	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-856b78ebf1	نهم	نَهِمَ	فَعِلَ	5	لازم	نهِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-822c51735b	هبج	هَبِجَ	فَعِلَ	4	لازم	هَبِج	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-249a05a934	هبص	هَبِصَ	فَعِلَ	4	لازم	هَبِصّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-d8f65a1cc7	هبل	هَبُلَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-da7f584d8c	هدب	هَدِبَ	فَعِلَ	8	لازم	أَهدبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6bd4290e67	هرت	هَرِتَ	فَعِلَ	3	لازم	أَهْرتُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7a70cfe6e8	هرد	هَرِدَ	فَعِلَ	3	لازم	أَهرد	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-56ba2e6aea	هرم	هَرِمَ	فَعِلَ	6	لازم	هَرِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6e7b5e71a1	هزج	هَزِجَ	فَعِلَ	6	لازم	هَزِجٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-33bb1e880e	غيد	غَيِدَ	فَعِلَ	3	لازم	أَغيدُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-c8e76ce5a7	فوه	فَوِهَ	فَعِلَ	6	لازم	أَفْوَهُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b9bf506b8f	قمء	قَمُؤَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-5dd2999762	قود	قَوِدَ	فَعِلَ	6	لازم	أَقْوَد	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7721d76d4a	قور	قَوِرَ	فَعِلَ	2	لازم	أَقْور	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7ee36e1eeb	كثث	كَثَّ	فَعِلَ	6	لازم	كَثَّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-5b0fdf044d	كهي	كَهِيَ	فَعِلَ	2	لازم	أَكْهَى	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e517c129ef	لءم	لَؤُمَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-7600a11445	لبب	لَبَّ	فَعُلَ	3	مشترك	لبيب	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-60caafc408	نشء	نَشُؤَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-7b3517cd78	ءبت	أَبِتَ	فَعِلَ	3	لازم	أَبِت	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-f939e8f206	ءبص	أَبِصَ	فَعِلَ	2	لازم	أَبِص	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-4b1eed2323	ءبل	أَبُلَ	فَعُلَ	2	لازم	أَبِيل	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3827e66c5c	ءتم	أَتِمَ	فَعِلَ	3	لازم	أَتِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-300bbb511b	ءجن	أَجِنَ	فَعِلَ	6	لازم	أَجِنْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-c30565467c	ءخذ	أَخُذَ	فَعُلَ	4	مشترك			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-99be9de769	ءدم	أَدُمَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-6ecab9ab4c	ءرض	أَرُضَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ac65abe5db	ءرم	أَرِمَ	فَعِلَ	3	لازم	أرم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-cc0572dfdb	ءزج	أَزِجَ	فَعِلَ	5	لازم	أَزِجٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9ec76f5344	ءسر	أَسِرَ	فَعِلَ	4	لازم	أَسِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ee3f5f4938	ءسل	أَسُلَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-70dda192cc	ءشب	أَشِبَ	فَعِلَ	5	لازم	أَشِب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-232f40569c	ءصل	أَصُلَ	فَعُلَ	7	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-1c35480d6d	ءفر	أَفِرَ	فَعِلَ	4	لازم	أَفِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9a4623cc3a	ءفق	أَفِقَ	فَعِلَ	5	لازم	أَفِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-6484723d75	ءمر	أَمُرَ	فَعُلَ	2	مشترك			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-b9f486aee8	ءمن	أَمُنَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-5b3720907d	ءنس	أَنِسَ	فَعِلَ	7	لازم	أَنِسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-292f8f2648	ءنس	أَنُسَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-a54b9c60d0	بءس	بَؤُسَ	فَعُلَ	7	لازم	بَئِيس	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-9f0ddee7a8	بتر	بَتِرَ	فَعِلَ	3	لازم	أَبْتَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-2d42e0708a	بتع	بَتِعَ	فَعِلَ	5	لازم	بَتِعٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7f5ccbc4b6	بثر	بَثِرَ	فَعِلَ	4	لازم	بَثِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-44f923aa7f	بجح	بَجِحَ	فَعِلَ	7	لازم	بَجحٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-08e853747c	بجل	بَجُلَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-64d2913f3a	بخص	بَخِصَ	فَعِلَ	6	لازم	أَبْخَصُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-7e4ad0bbcd	بخل	بَخُلَ	فَعُلَ	6	غير معلوم			MAHALL	أَبْخَلَ	T_JAL	sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ddb8fa1b73	بدل	بَدِلَ	فَعِلَ	5	لازم	بَدِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-bb77b42f66	بدن	بَدُنَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-6816efc997	بذء	بَذُؤَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-25f50639cf	بذخ	بَذِخَ	فَعِلَ	6	لازم	بَذِخٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-03bd458e29	بذر	بَذُرَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-a04ddd8046	بذم	بَذُمَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ef4faf997a	برد	بَرُدَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-e02e510360	برز	بَرُزَ	فَعُلَ	6	لازم	بَرْزٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-0a5d95bf32	برش	بَرِشَ	فَعِلَ	3	لازم	أَبْرَشُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-65dc40579b	برع	بَرُعَ	فَعُلَ	4	لازم	بارعٌ	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-fce5f56f06	برق	بَرِقَ	فَعِلَ	6	لازم	أَبرق	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-0e340439e3	برم	بَرِمَ	فَعِلَ	6	لازم	بَرِمْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-9d81651033	بزع	بَزُعَ	فَعُلَ	4	لازم	بَزيع	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-009bb21edb	بسط	بَسُطَ	فَعُلَ	5	لازم	بسيطٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-19c8e05bb3	بسل	بَسُلَ	فَعُلَ	5	لازم	باسِل	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-e2b66e7ff3	بشع	بَشِعَ	فَعِلَ	7	لازم	بَشِع	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-a1fd3cd2b0	بشم	بَشِمَ	فَعِلَ	7	لازم	بَشِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-005b85f8b4	بصر	بَصُرَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-b73106eaa6	بطء	بَطُؤَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-9dd0513306	بطل	بَطُلَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-6149b41243	بطن	بَطِنَ	فَعِلَ	6	لازم	بَطِن	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-312714535b	بطن	بَطُنَ	فَعُلَ	3	لازم	بَطِين	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-acbbaaa88d	بظر	بَظِرَ	فَعِلَ	4	لازم	أَبْظَر	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ec72bd9ec5	بعد	بَعُدَ	فَعُلَ	6	لازم	بَعيد	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-26a787d01e	بغض	بَغُضَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-1ee1fb7e97	بكم	بَكُمَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-15ab66bfd6	بلج	بَلِجَ	فَعِلَ	7	لازم	أَبْلَجُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1535d566db	بلخ	بَلِخَ	فَعِلَ	2	لازم	أَبْلَخُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-034419fc8e	بلق	بَلِقَ	فَعِلَ	6	لازم	أَبْلَقُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d676a5cfac	بله	بَلِهَ	فَعِلَ	6	لازم	أَبْلَهُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3b11a9c76c	بهء	بَهُؤَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-6adfb8ce33	بهج	بَهِجَ	فَعِلَ	6	لازم	بَهجٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-77aa38190d	بهج	بَهُجَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-8506e3fc86	تبن	تَبِنَ	فَعِلَ	4	لازم	تَبِنَ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1e338fa9d2	ترح	تَرِحَ	فَعِلَ	5	لازم	ترِح	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-067e5dd9e3	ترص	تَرُصَ	فَعُلَ	4	لازم	تارص	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-feaeb65df3	ترع	تَرِعَ	فَعِلَ	5	لازم	تَرِعُ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-aad73021a4	ترف	تَرِفَ	فَعِلَ	3	لازم	تَرِفٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-fc8f30fca9	تعس	تَعِسَ	فَعِلَ	6	لازم	تَعِس	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-cf98effb05	تفث	تَفِثَ	فَعِلَ	2	لازم	تَفِث	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-b31504f1ae	تفل	تَفِلَ	فَعِلَ	3	لازم	تَفِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-589a4d0c98	تنخ	تَنِخَ	فَعِلَ	3	لازم	تَنِخٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-e2701766d7	ثءد	ثَئِدَ	فَعِلَ	4	لازم	ثَئِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-299d007cc3	ثبت	ثَبُتَ	فَعُلَ	4	لازم	ثَبْتُ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-d4cee327bb	ثبج	ثَبِجَ	فَعِلَ	7	لازم	أَثْبَجُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-aea2b552ca	ثخن	ثَخُنَ	فَعُلَ	2	لازم	ثَخين	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-1c3a93660b	ثرم	ثَرِمَ	فَعِلَ	6	لازم	أَثْرمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-042c4e83a3	ثقب	ثَقُبَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-0aaec1b77a	ثقف	ثَقُفَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-bd8a685018	ثقل	ثَقُلَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-78e0503e92	ثلم	ثَلِمَ	فَعِلَ	4	لازم	ثَلِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-e65407bbde	ثمد	ثَمِدَ	فَعِلَ	5	لازم	ثَمِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-031274392e	ثمن	ثَمُنَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-773f6446dc	جءي	جَئِيَ	فَعِلَ	3	لازم	أَجْأى	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d913e07efa	جبل	جَبِلَ	فَعِلَ	2	لازم	جَبِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b6487a689b	جبن	جَبُنَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-0ccc880c70	جحن	جَحِنَ	فَعِلَ	2	لازم	جَحِن	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-87f4f0021e	جدر	جَدُرَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-20d4460423	جدل	جَدِلَ	فَعِلَ	4	لازم	جَدِل	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-c549fa2dd1	جرء	جَرُؤَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-54e424dc16	جرب	جَرِبَ	فَعِلَ	7	لازم	أَجْرَب	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-0555d3a27e	جرج	جَرِجَ	فَعِلَ	7	لازم	جرِج	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-77b91c9786	جرد	جَرِدَ	فَعِلَ	7	لازم	أَجرد	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3220beaf75	جرز	جَرُزَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-bb39e5f867	جرم	جَرُمَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-51a0d63ba7	جزع	جَزِعَ	فَعِلَ	5	لازم	جَزِعَ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-ca044bf60b	جزل	جَزِلَ	فَعِلَ	2	لازم	أَجْزَلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-68f64bef12	جزل	جَزُلَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-f4e8975132	جسم	جَسُمَ	فَعُلَ	5	مشترك	جَسِيم	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-dcb4a4f855	جشب	جَشِبَ	فَعِلَ	4	لازم	جَشِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-902ad06337	جشب	جَشُبَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-5c6d15462d	جشع	جَشِعَ	فَعِلَ	6	لازم	جَشِع	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-3156008bd1	جشم	جَشِمَ	فَعِلَ	7	لازم	جَشِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-39b5092982	جعل	جَعِلَ	فَعِلَ	4	لازم	جَعِل	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-562defc525	جعم	جَعِمَ	فَعِلَ	4	لازم	جَعِمُ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-32df365e0e	جلد	جَلُدَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3bf7a58b31	جلع	جَلِعَ	فَعِلَ	5	لازم	جَلِع	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ffa65e5076	جمد	جَمُدَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-220f755fbb	جمل	جَمُلَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b05eaa225c	جنب	جَنِبَ	فَعِلَ	7	لازم	جنِب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-2544df8420	جنب	جَنُبَ	فَعُلَ	8	لازم	جَنِيب	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-4b3951c902	جهر	جَهُرَ	فَعُلَ	6	مشترك	جَهِيرٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5fdeb60a53	جهم	جَهُمَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3cef9408dd	جوث	جَوِثَ	فَعِلَ	3	لازم	أَجْوَثُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-390679fcfd	جوف	جَوِفَ	فَعِلَ	3	لازم	أَجوف	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-0471dba1cd	حبر	حَبِرَ	فَعِلَ	5	لازم	حَبِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1edf41f64f	حبن	حَبِنَ	فَعِلَ	3	لازم	أَحْبَنُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-37cf74d244	حتد	حَتِدَ	فَعِلَ	6	لازم	حَتِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bcf0e3d658	حثر	حَثِرَ	فَعِلَ	5	لازم	حَثِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b6682b4b5a	حدر	حَدُرَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-eb34c91431	حدل	حَدِلَ	فَعِلَ	6	لازم	أَحْدَلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-191e8ae639	حرد	حَرِدَ	فَعِلَ	7	لازم	حَرِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-0a341c2c96	حرز	حَرُزَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ea562aced6	حرس	حَرِسَ	فَعِلَ	7	لازم	أحْرَسُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-67058c8ef6	حرش	حَرِشَ	فَعِلَ	5	لازم	أَحْرَشْ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-523637fa12	حرض	حَرُضَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-f8e6349bf5	حرف	حَرُفَ	فَعُلَ	7	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-c2de85d23d	حرق	حَرِقَ	فَعِلَ	5	لازم	حَرِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-a2966a39ff	حرك	حَرُكَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-7dd4e064f5	حرم	حَرُمَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-64713f3aee	حزم	حَزُمَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-abcfea27a3	حزن	حَزُنَ	فَعُلَ	4	لازم	حَزْنُ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-f5eac4b72f	حسر	حَسِرَ	فَعِلَ	4	لازم	حَسْرانُ	فعلان	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-e8459f379a	حسك	حَسِكَ	فَعِلَ	5	لازم	حَسِكٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b344a22aab	حسن	حَسُنَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-f1e6e0b025	حشك	حَشِكَ	فَعِلَ	2	لازم	حَشِكٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-12a86d93d5	حشم	حَشِمَ	فَعِلَ	3	لازم	حَشِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7d7dda69df	حصد	حَصِدَ	فَعِلَ	6	لازم	حَصِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b0855e972d	حصر	حَصُرَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-751d1e2e5c	حصن	حَصُنَ	فَعُلَ	5	لازم	حَصِينٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2d4a978f48	حضن	حَضُنَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-6fcccb0167	حطم	حَطِمَ	فَعِلَ	5	لازم	حَطِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1469c46497	حظب	حَظِبَ	فَعِلَ	2	لازم	حَظِب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-66829e2747	حظل	حَظِلَ	فَعِلَ	5	لازم	حَظِل	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-49bb5b87ad	حقر	حَقُرَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c2752980de	حكم	حَكُمَ	فَعُلَ	6	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-a27985de93	حلو	حَلُوَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-d06b2d6504	حمر	حَمِرَ	فَعِلَ	3	لازم	حَمِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-9d391d9a7e	حمس	حَمُسَ	فَعُلَ	5	مشترك	حَمِيسٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-7ec0d81a74	حمق	حَمِقَ	فَعِلَ	3	لازم	حَمِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-7061118124	حمق	حَمُقَ	فَعُلَ	5	لازم	أحمق	أفعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-20a3932b83	حنط	حَنِطَ	فَعِلَ	4	لازم	أَحْنَطْ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9e45a6d3a3	حنف	حَنِفَ	فَعِلَ	5	لازم	أَحنفُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-fb163ef93a	حنق	حَنِقَ	فَعِلَ	7	لازم	حَنِق	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-877748d059	شءم	شَؤُمَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-625c6e7a05	شبم	شَبِمَ	فَعِلَ	6	لازم	شبِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-9eb904ef5f	شتم	شَتُمَ	فَعُلَ	2	مشترك	شتِيم	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-cb2a9a7717	شجع	شَجُعَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-adf47cbc38	شجن	شَجِنَ	فَعِلَ	6	لازم	شَجِنْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-cd9c8ff7b5	شخم	شَخِمَ	فَعِلَ	3	لازم	شخِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-92c0c933c9	شدق	شَدِقَ	فَعِلَ	5	لازم	أَشْدَقُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-954a04b8ce	شرس	شَرِسَ	فَعِلَ	6	لازم	شَرِس	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-1b6708ef17	شرس	شَرُسَ	فَعُلَ	4	لازم	شَرِيسٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5f9faf192d	شرف	شَرُفَ	فَعُلَ	6	لازم	شَرِيف	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b3995fe661	شرم	شَرِمَ	فَعِلَ	6	لازم	أَشْرَمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-bf2eac967d	شزن	شَزُنَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-54b3a84f94	شسب	شَسُبَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b320dc2c3e	شصب	شَصِبَ	فَعِلَ	5	لازم	شَصِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b027f28f60	شظف	شَظُفَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-f48ac1fdfb	شعب	شَعِبَ	فَعِلَ	7	لازم	أَشْعَب	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-998c0c9518	شعر	شَعِرَ	فَعِلَ	5	لازم	أَشْعَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-dc79c189b9	شعر	شَعُرَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-fb5456e5a0	شغف	شَغِفَ	فَعِلَ	3	لازم	شَغِف	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-51eccc8e53	شقر	شَقُرَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-81d1d04afe	شكس	شَكُسَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-52c252f9a8	شكل	شَكِلَ	فَعِلَ	3	لازم	شكِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-8d2ecd6441	شنب	شَنِبَ	فَعِلَ	5	لازم	شَنِب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-be46f530b2	شنج	شَنِجَ	فَعِلَ	3	لازم	شَنِجٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6be2171335	شهب	شَهِبَ	فَعِلَ	7	لازم	أَشهبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-cdb4e6b3d1	شهب	شَهُبَ	فَعُلَ	3	متعدي			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-7c76412302	شوس	شَوِسَ	فَعِلَ	5	لازم	أَشْوَسُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9345c478ac	شوه	شَوِهَ	فَعِلَ	3	لازم	أَشْوَهُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-2ba181eb37	خبث	خَبُثَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-de883e2e7a	صبح	صَبِحَ	فَعِلَ	4	لازم	أَصبَحُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-a7914a29f3	صبح	صَبُحَ	فَعُلَ	7	لازم	صَبِيحٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-735152a3e4	صحر	صَحِرَ	فَعِلَ	3	لازم	أَصحرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6e87aa21b9	صحل	صَحِلَ	فَعِلَ	4	لازم	صَحِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9c577d2911	صخر	صَخِرَ	فَعِلَ	4	لازم	صَخِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-951fee8170	صدغ	صَدُغَ	فَعُلَ	3	لازم	صَدِيغ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-f2f1a23eaf	صدف	صَدِفَ	فَعِلَ	3	لازم	أَصْدَفُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-39c74e3707	صرح	صَرُحَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-55a0c964dc	صرم	صَرُمَ	فَعُلَ	4	لازم	صارِم	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3f439eff46	صعر	صَعِرَ	فَعِلَ	2	لازم	أَصْعَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-53587e4563	صعل	صَعِلَ	فَعِلَ	4	لازم	أَصْعَلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-cc5fe2846c	صغر	صَغُرَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-4e687e3fa5	صفر	صَفِرَ	فَعِلَ	6	لازم	صَفِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-875ff35bd8	صفر	صَفُرَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-7463dc7140	صفق	صَفُقَ	فَعُلَ	5	لازم	صَفِيقُ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-822b23ca9c	صفو	صَفُوَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-5693450d8b	صقب	صَقِبَ	فَعِلَ	3	لازم	صَقِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-27e6042d2a	صلب	صَلُبَ	فَعُلَ	8	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5fe4e87a9e	صلت	صَلُتَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-2ef4049345	صلج	صَلِجَ	فَعِلَ	2	لازم	أَصْلَجُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-260dd19300	صلح	صَلُحَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-0b54de13fb	صلف	صَلِفَ	فَعِلَ	6	لازم	صَلِفٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-6e8f68c2a0	صهب	صَهُبَ	فَعُلَ	6	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-9b6efd1037	خبر	خَبُرَ	فَعُلَ	8	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-704cb1aae8	ضبط	ضَبِطَ	فَعِلَ	3	لازم	أَضْبط	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bcb9d808a5	ضجر	ضَجِرَ	فَعِلَ	8	لازم	ضجِر	فعل3	MAHALL	أَضْجَرَ	T_JAL	sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d17f78f4b2	ضرط	ضَرِطَ	فَعِلَ	5	لازم	ضَرِطْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-2e8add8534	ضرع	ضَرِعَ	فَعِلَ	8	لازم	ضرِع	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-2ef5c6c499	ضرع	ضَرُعَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-3dd6526a32	ضعف	ضَعُفَ	فَعُلَ	7	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-6ff9c5da6b	ضغن	ضَغِنَ	فَعِلَ	6	لازم	ضَغِنٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-2194e1d51b	ضلع	ضَلُعَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-defc74d2ab	ضمر	ضَمُرَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-fd48fc62ce	ضنك	ضَنُكَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-cc9c0801bd	طبن	طَبِنَ	فَعِلَ	4	لازم	طَبِنّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-5ed641315c	طخم	طَخُمَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-42247d5e28	طرء	طَرُؤَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-92e6481755	طرب	طَرِبَ	فَعِلَ	8	لازم	طَرِب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-4e557203fb	طرح	طَرِحَ	فَعِلَ	6	لازم	طَرِحٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-ec4e2b499f	طرز	طَرِزَ	فَعِلَ	5	لازم	طَرِزٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-577997bbe8	طرف	طَرُفَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-7721c07c96	طفل	طَفُلَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-58833fc803	طلس	طَلُسَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-58fde3e0f3	طلق	طَلُقَ	فَعُلَ	6	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b4e6c118b4	طنب	طَنِبَ	فَعِلَ	5	لازم	أَطْنَبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1adfb78a9e	طنف	طَنِفَ	فَعِلَ	5	لازم	طَنِف	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e7fe2d9b58	طهر	طَهُرَ	فَعُلَ	7	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-fbc7e9997a	طول	طَوْلَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-754a9ec03e	ظرف	ظَرُفَ	فَعُلَ	7	لازم	ظَريف	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-84c5542623	ظلم	ظَلِمَ	فَعِلَ	4	لازم	ظَلِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1965cdd727	ظهر	ظَهِرَ	فَعِلَ	7	لازم	ظَهِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-720ad324c7	عبد	عَبُدَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-2517e14afa	عبق	عَبِقَ	فَعِلَ	8	لازم	عَبِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-8c16a96504	عبل	عَبِلَ	فَعِلَ	5	لازم	عَبِلْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-a81974137b	عبل	عَبُلَ	فَعُلَ	7	لازم	عَبْلٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-f1d072ae2f	عبم	عَبُمَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c30301f269	عتد	عَتُدَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-b11e7c1d78	عتق	عَتُقَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-4f9ea859b6	عتل	عَتِلَ	فَعِلَ	4	لازم	عَتِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-4eff203abc	خبل	خَبِلَ	فَعِلَ	4	لازم	خَبِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-dc785f826d	عثر	عَثُرَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3f09cfebdb	عجر	عَجِرَ	فَعِلَ	7	لازم	أَعْجَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6116029334	عجز	عَجِزَ	فَعِلَ	7	لازم	أَعْجَزْ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ec4e554ad1	عجز	عَجُزَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-52e4a5c5a2	عجف	عَجِفَ	فَعِلَ	5	لازم	أَعجَفُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-4860ceb25c	عجم	عَجُمَ	فَعُلَ	2	مشترك	أَعْجَمُ	أفعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-efdf486ecd	عدل	عَدُلَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-0fb33a6efb	عدم	عَدُمَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-d2b4c39566	عذب	عَذُبَ	فَعُلَ	6	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3df35e1bbf	عرب	عَرِبَ	فَعِلَ	7	لازم	عَرَبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-f5844b7def	عرب	عَرُبَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-a69789ff3d	عرج	عَرِجَ	فَعِلَ	7	لازم	أعرج	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-15aef49fec	عرج	عَرُجَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3ca23f04b6	عرس	عَرِسَ	فَعِلَ	6	لازم	عَرِس	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-b8c33bce93	عرص	عَرِصَ	فَعِلَ	4	لازم	عَرصّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ec34ae5e1a	عرض	عَرُضَ	فَعُلَ	7	مشترك	عريضٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b1b04daa77	عرف	عَرِفَ	فَعِلَ	5	لازم	عَرفٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-9cebe1524d	عرف	عَرُفَ	فَعُلَ	7	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ae3316c551	عرق	عَرِقَ	فَعِلَ	7	لازم	عَرْقانُ	فعلان	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-c7fca12ded	عرك	عَرِكَ	فَعِلَ	4	لازم	عَرِكٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-271155b96d	عرم	عَرِمَ	فَعِلَ	7	لازم	أَعْرَمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-c4cda47536	عرم	عَرُمَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-d7dce16896	عسر	عَسِرَ	فَعِلَ	8	لازم	عَسِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-4ec230b798	عسر	عَسُرَ	فَعُلَ	8	لازم	عسير	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-e7a5a19d06	عشب	عَشِبَ	فَعِلَ	5	لازم	عَشِب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-5652caed18	عشب	عَشُبَ	فَعُلَ	8	لازم	غاشِبٌ		MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-f8b936f02f	عصب	عَصِبَ	فَعِلَ	9	لازم	عَصِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d74af2a7f4	عصل	عَصِلَ	فَعِلَ	5	لازم	أَعْصَلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-2b375c96e4	عصم	عَصِمَ	فَعِلَ	2	لازم	أَعْصَمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-49a2251845	عضب	عَضِبَ	فَعِلَ	6	لازم	أَعْضَبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-0a2d9e6ad2	عطن	عَطِنَ	فَعِلَ	8	لازم	عَطِنٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-c052471d0f	عظم	عَظُمَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-8db1455b7f	عفج	عَفِجَ	فَعِلَ	7	لازم	عَفِجٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-f28dee2fd7	عفر	عَفِرَ	فَعِلَ	8	لازم	أَعْفَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1e61b26e11	عفك	عَفِكَ	فَعِلَ	4	لازم	عَفِكٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-2a6158fe9d	عقد	عَقِدَ	فَعِلَ	3	لازم	أَعقدُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e75e02d524	عقر	عَقُرَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-8e9b2e44d7	عقص	عَقِصَ	فَعِلَ	6	لازم	أَعْقَصُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-21195d87bb	عقل	عَقِلَ	فَعِلَ	8	لازم	أعْقَلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-dbddc80c74	عقم	عَقُمَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-33b70f6cda	عكب	عَكِبَ	فَعِلَ	4	لازم	أَعْكَبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-e10096320f	عكد	عَكِدَ	فَعِلَ	5	لازم	عكِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6cd09b4934	عكر	عَكِرَ	فَعِلَ	7	لازم	عَكِرٌ	فعل3	MAHALL	أَعْكَرَ	T_JAL	sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-66b29677b5	عكش	عَكِشَ	فَعِلَ	5	لازم	عَكِشُ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d75960bc08	عكص	عَكِصَ	فَعِلَ	4	لازم	عَكِصٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-e1cbd13957	علن	عَلِنَ	فَعِلَ	6	لازم	عَلِن	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-93a2796191	عله	عَلِهَ	فَعِلَ	6	لازم	عَلِهٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-4693e46139	عمد	عَمِدَ	فَعِلَ	7	لازم	عَمِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-bc3c135362	عمر	عَمُرَ	فَعُلَ	7	لازم	عَمِيرٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c8c283f5fc	عمس	عَمُسَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-d64ca3c614	عمق	عَمُقَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-bd11907a34	عمه	عَمِهَ	فَعِلَ	7	لازم	أَعمَهُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6b33165594	عمي	عَمِيَ	فَعِلَ	4	لازم	أَعمَى	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7ec7fdd4e9	عنت	عَنِتَ	فَعِلَ	8	لازم	عَنِتْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-5b55eeef8f	عند	عَنُدَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-18c8136659	عنف	عَنُفَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-886cf8927e	عنق	عَنِقَ	فَعِلَ	6	لازم	أَعْنقُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-8898a98639	عوز	عَوِزَ	فَعِلَ	4	لازم	أَعْوَزُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7988bd8781	عوس	عَوِسَ	فَعِلَ	3	لازم	أَعْوَسُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-deb01aaf14	عين	عَيِنَ	فَعِلَ	3	لازم	أَعين	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-96e966f988	غبر	غَبِرَ	فَعِلَ	8	لازم	أَغْبَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-97d89bdc2d	غبش	غَبِشَ	فَعِلَ	3	لازم	أَغْبَشُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-4c1279d57e	غثم	غَثِمَ	فَعِلَ	2	لازم	أغثَمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_MUTAWAA	HFN-E-deec805cc1	بتل	انْبَتَلَ	انْفَعَلَ	3				MAHALL	بَتَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-dc712fe4d7	بثق	انْبَثَقَ	انْفَعَلَ	3				MAHALL	بَثَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-d5c02dc322	بجس	انْبَجَسَ	انْفَعَلَ	7				MAHALL	بَجَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-a04b313805	برش	ابْرَشَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-15f5b675da	بزخ	انْبَزَخَ	انْفَعَلَ	2				MAHALL	بَزَخَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c68876411d	بسط	انْبَسَطَ	انْفَعَلَ	3				MAHALL	بَسَطَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9dc197627e	بعث	انْبَعَثَ	انْفَعَلَ	5				MAHALL	بَعَثَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-33afdfde1e	بعج	انْبَعَجَ	انْفَعَلَ	3				MAHALL	بَعَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-7bce890511	بعق	انْبَعَقَ	انْفَعَلَ	4				MAHALL	بَعَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c9aac2701d	بقر	انْبَقَرَ	انْفَعَلَ	2				MAHALL	بَقَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-7185e5e71a	بلت	انْبَلَتَ	انْفَعَلَ	3				MAHALL	بَلَتَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-2e3c97ed1c	بلج	انْبَلَجَ	انْفَعَلَ	4				MAHALL	بَلَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-cea4a6374b	بلق	ابْلَقَّ	افْعَلَّ	4				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-9ce41b5ee2	بنج	انْبَنَجَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-208b334bd1	بهر	انْبَهَرَ	انْفَعَلَ	6				MAHALL	بَهَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-18b2eb4940	ثعب	انْثَعَبَ	انْفَعَلَ	3				MAHALL	ثَعَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f416ae98e4	ثلم	انْثَلَمَ	انْفَعَلَ	2				MAHALL	ثَلَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-5697620714	جحر	انْجَحَرَ	انْفَعَلَ	3				MAHALL	جَحَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-6668c9c670	جدل	انْجَدَلَ	انْفَعَلَ	3				MAHALL	جَدَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8003f132dc	جذب	انْجَذَبَ	انْفَعَلَ	5				MAHALL	جَذَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-75af63e450	جرد	انْجَرَدَ	انْفَعَلَ	5				MAHALL	جَرَدَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-a21ffa84ba	جفل	انْجَفَلَ	انْفَعَلَ	4				MAHALL	جَفَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-dda1a007d5	جلب	انْجَلَبَ	انْفَعَلَ	3				MAHALL	جَلَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-05d281e701	جلع	انْجَلَعَ	انْفَعَلَ	3				MAHALL	جَلِعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c93fe4afa5	حجز	انْحَجَزَ	انْفَعَلَ	2				MAHALL	حَجَزَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-afe3856dda	حدر	انْحَدَرَ	انْفَعَلَ	5				MAHALL	حَدَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-d96d866d96	حذق	انْحَذَقَ	انْفَعَلَ	4				MAHALL	حَذَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c8abf96761	حرف	انْحَرَفَ	انْفَعَلَ	6				MAHALL	حَرَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b33e1fafda	حضج	انْحَضَجَ	انْفَعَلَ	5				MAHALL	حَضَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9c2ac57770	حطم	انْحَطَمَ	انْفَعَلَ	5				MAHALL	حَطَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-70c93c715a	حلب	انْحَلَبَ	انْفَعَلَ	3				MAHALL	حَلَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-7268ef9a70	حمق	انْحَمَقَ	انْفَعَلَ	3				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-385ef975e0	خبز	انْخَبَزَ	انْفَعَلَ	3				MAHALL	خَبَزَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-2041cfca5d	خدع	انْخَدَعَ	انْفَعَلَ	4				MAHALL	خَدَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-1a2732db0b	خرج	اخْرَجَّ	افْعَلَّ	3				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-2331f96067	خرط	انْخَرَطَ	انْفَعَلَ	5				MAHALL	خَرَطَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-a0a91a0575	خرع	انْخَرَعَ	انْفَعَلَ	5				MAHALL	خَرَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-5f85a92f65	خرم	انْخَرَمَ	انْفَعَلَ	2				MAHALL	خَرَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-174a91c12d	خزق	انْخَزَقَ	انْفَعَلَ	2				MAHALL	خَزَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-ac1888a855	خزل	انْخَزَلَ	انْفَعَلَ	4				MAHALL	خَزَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-7db8ac9e49	خسء	انْخَسَءَ	انْفَعَلَ	4				MAHALL	خَسَأَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9b022f9873	خضد	انْخَضَدَ	انْفَعَلَ	5				MAHALL	خَضَدَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-7ea55820d5	خضر	اخْضَرَّ	افْعَلَّ	5				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-23be519b94	خضل	اخْضَلَّ	افْعَلَّ	4				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-92325a03a2	خنس	انْخَنَسَ	انْفَعَلَ	5				MAHALL	خَنَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b9e4128d37	دبغ	انْدَبَغَ	انْفَعَلَ	2				MAHALL	دَبَغَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-e34b10a09b	دخل	انْدَخَلَ	انْفَعَلَ	3				MAHALL	دَخَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-fd0f92127d	درء	انْدَرَءَ	انْفَعَلَ	4				MAHALL	دَرَأَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f8ff86a37d	درس	انْدَرَسَ	انْفَعَلَ	2				MAHALL	دَرَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-6ee9a5386b	درع	انْدَرَعَ	انْفَعَلَ	3				MAHALL	دَرَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-85f3088b0a	دفع	انْدَفَعَ	انْفَعَلَ	4				MAHALL	دَفَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-6f602dd8e4	دفن	انْدَفَنَ	انْفَعَلَ	5				MAHALL	دَفَنَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-ef04d5b6e7	دكم	انْدَكَمَ	انْفَعَلَ	2				MAHALL	دَكَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-550235e497	دلث	انْدَلَثَ	انْفَعَلَ	3				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9970dbac01	دلظ	انْدَلَظَ	انْفَعَلَ	2				MAHALL	دَلَظَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c2102daec6	دلع	انْدَلَعَ	انْفَعَلَ	5				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-66ffdfffbe	دلق	انْدَلَقَ	انْفَعَلَ	6				MAHALL	دَلَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-229d5f181b	دمج	انْدَمَجَ	انْفَعَلَ	5				MAHALL	دَمَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-1996a226ae	دمق	انْدَمَقَ	انْفَعَلَ	5				MAHALL	دَمَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-3834f18f3f	دمل	انْدَمَلَ	انْفَعَلَ	5				MAHALL	دَمَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-f7a2480942	ربس	ارْبَسَّ	افْعَلَّ	4				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-8b65a6e5aa	رمد	ارْمَدَّ	افْعَلَّ	3				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-373c105f9d	رمك	ارْمَكَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-34ca5e96a8	زبق	انْزَبَقَ	انْفَعَلَ	4				MAHALL	زَبَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-a36b613bee	زجر	انْزَجَرَ	انْفَعَلَ	6				MAHALL	زَجَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-cf957481aa	زرب	انْزَرَبَ	انْفَعَلَ	2				MAHALL	زَرَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-a5274b7787	زعج	انْزَعَجَ	انْفَعَلَ	4				MAHALL	زَعَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-01ae35d52d	زعر	ازْعَرَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-74b296484e	زقب	انْزَقَبَ	انْفَعَلَ	4				MAHALL	زَقَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-581c2b2b47	سبت	انْسَبَتَ	انْفَعَلَ	4				MAHALL	سَبَتَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-431cf3b6e4	ستر	انْسَتَرَ	انْفَعَلَ	3				MAHALL	سَتَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-4ff8fb25d8	سجل	انْسَجَلَ	انْفَعَلَ	4				MAHALL	سَجَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-00857dd20b	سجم	انْسَجَمَ	انْفَعَلَ	2				MAHALL	سَجَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-ccb5bc6193	سحب	انْسَحَبَ	انْفَعَلَ	5				MAHALL	سَحَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f4304098ef	سحج	انْسَحَجَ	انْفَعَلَ	4				MAHALL	سَحَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-de454f9e7d	سحط	انْسَحَطَ	انْفَعَلَ	3				MAHALL	سَحَطَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-de5aabccc2	سحق	انْسَحَقَ	انْفَعَلَ	5				MAHALL	سَحَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8c522a47a7	سدح	انْسَدَحَ	انْفَعَلَ	4				MAHALL	سَدَحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c400a668b2	سدر	انْسَدَرَ	انْفَعَلَ	5				MAHALL	سَدَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-830a6850df	سرب	انْسَرَبَ	انْفَعَلَ	7				MAHALL	سَرَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b315d9c767	سرح	انْسَرَحَ	انْفَعَلَ	3				MAHALL	سَرَحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-d38a75dc76	سطح	انْسَطَحَ	انْفَعَلَ	6				MAHALL	سَطَحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-df41ca9ba9	سفر	انْسَفَرَ	انْفَعَلَ	5				MAHALL	سَفَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-7f29732b36	سفك	انْسَفَكَ	انْفَعَلَ	2				MAHALL	سَفَكَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-4a393fd980	سكب	انْسَكَبَ	انْفَعَلَ	3				MAHALL	سَكَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-3c740bd5ef	سلت	انْسَلَتَ	انْفَعَلَ	3				MAHALL	سَلَتَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-04a69af6b1	سلخ	انْسَلَخَ	انْفَعَلَ	7				MAHALL	سَلَخَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-bebe66051a	سلع	انْسَلَعَ	انْفَعَلَ	4				MAHALL	سَلَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-c0905d9bcc	سمد	اسْمَدَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-fd7b504dbc	شخب	انْشَخَبَ	انْفَعَلَ	4				MAHALL	شَخَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-30d962bd0a	شدح	انْشَدَحَ	انْفَعَلَ	4				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-59a6d700ce	شدخ	انْشَدَخَ	انْفَعَلَ	4				MAHALL	شَدَخَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-81bd4bb4e5	شرج	انْشَرَجَ	انْفَعَلَ	6				MAHALL	شَرَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-5f18eeae5f	شرم	انْشَرَمَ	انْفَعَلَ	3				MAHALL	شَرَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-e8410fb129	شعب	انْشَعَبَ	انْفَعَلَ	5				MAHALL	شَعَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-478d110b29	شقر	اشْقَرَّ	افْعَلَّ	3				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-092e0268a8	شمر	انْشَمَرَ	انْفَعَلَ	4				MAHALL	شَمَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-d924136674	شمل	انْشَمَلَ	انْفَعَلَ	3				MAHALL	شَمَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-5834beef4e	شنج	انْشَنَجَ	انْفَعَلَ	3				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-e21ac7a9a9	شهب	اشْهَبَّ	افْعَلَّ	5				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-74ec33b453	شهل	اشْهَلَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-79d0185c4d	صدع	انْصَدَعَ	انْفَعَلَ	5				MAHALL	صَدَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b297cd3123	صرف	انْصَرَفَ	انْفَعَلَ	3				MAHALL	صَرَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-1903679a31	صرم	انْصَرَمَ	انْفَعَلَ	5				MAHALL	صَرَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c213620e1d	صفق	انْصَفَقَ	انْفَعَلَ	5				MAHALL	صَفَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-0cac144b1e	صلت	انْصَلَتَ	انْفَعَلَ	4				MAHALL	صَلَتَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-dd97de7489	صهر	انْصَهَرَ	انْفَعَلَ	3				MAHALL	صَهَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-72b6eb8ab5	ضبح	انْضَبَحَ	انْفَعَلَ	3				MAHALL	ضَبَحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8566518d96	ضرج	انْضَرَجَ	انْفَعَلَ	4				MAHALL	ضَرَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-104a8fecb0	ضرح	انْضَرَحَ	انْفَعَلَ	3				MAHALL	ضَرَحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-52626d8e30	طبخ	انْطَبَخَ	انْفَعَلَ	4				MAHALL	طَبَخَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-94fa2598b5	طخم	اطْخَمَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-3b215f5e9d	طلق	انْطَلَقَ	انْفَعَلَ	5				MAHALL	طَلَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-15a7325ec8	طمس	انْطَمَسَ	انْفَعَلَ	4				MAHALL	طَمَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-7c33fe0fcd	ظلم	انْظَلَمَ	انْفَعَلَ	3				MAHALL	ظَلَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9182cc7fe0	عدل	انْعَدَلَ	انْفَعَلَ	4				MAHALL	عَدَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-fec687ef3f	عرج	انْعَرَجَ	انْفَعَلَ	4				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-78194c9830	عزل	انْعَزَلَ	انْفَعَلَ	4				MAHALL	عَزَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-a389a28435	عصب	انْعَصَبَ	انْفَعَلَ	3				MAHALL	عَصَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-19d22cbeb4	عصر	انْعَصَرَ	انْفَعَلَ	2				MAHALL	عَصَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b7d17cf81f	عضب	انْعَضَبَ	انْفَعَلَ	3				MAHALL	عَضَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8a81c19e86	عطف	انْعَطَفَ	انْفَعَلَ	5				MAHALL	عَطَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-ad9ae336b1	عطن	انْعَطَنَ	انْفَعَلَ	3				MAHALL	عَطَنَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f618be62c7	عفر	انْعَفَرَ	انْفَعَلَ	6				MAHALL	عَفَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-07317679cd	عفس	انْعَفَسَ	انْفَعَلَ	4				MAHALL	عَفَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-d1195dcc21	عفق	انْعَفَقَ	انْفَعَلَ	3				MAHALL	عَفَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9c99905be3	عقر	انْعَقَرَ	انْفَعَلَ	4				MAHALL	عَقَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-94c0cf1329	عقف	انْعَقَفَ	انْفَعَلَ	5				MAHALL	عَقَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-565e076e60	عكس	انْعَكَسَ	انْفَعَلَ	3				MAHALL	عَكَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-0766726dbd	غبث	اغْبَثَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-7c1f060ad8	غبر	اغْبَرَّ	افْعَلَّ	4				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-d6768cb4ba	غرف	انْغَرَفَ	انْفَعَلَ	2				MAHALL	غَرَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-eab6b2ad5a	غمس	انْغَمَسَ	انْفَعَلَ	4				MAHALL	غَمَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-73dd5639cb	فتح	انْفَتَحَ	انْفَعَلَ	4				MAHALL	فَتَحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c69505f0a2	فتق	انْفَتَقَ	انْفَعَلَ	4				MAHALL	فَتَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-76de77a611	فتل	انْفَتَلَ	انْفَعَلَ	3				MAHALL	فَتَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-796d7f84fc	فجر	انْفَجَرَ	انْفَعَلَ	5				MAHALL	فَجَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-610e3c896e	فخت	انْفَخَتَ	انْفَعَلَ	2				MAHALL	فَخَتَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b008bc9164	فرد	انْفَرَدَ	انْفَعَلَ	8				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-d702a3b988	فرش	انْفَرَشَ	انْفَعَلَ	2				MAHALL	فَرَشَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-18f3a2e70d	فسح	انْفَسَحَ	انْفَعَلَ	5				MAHALL	فَسَحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-466c7d0aa0	فسخ	انْفَسَخَ	انْفَعَلَ	4				MAHALL	فَسَخَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9c76f4bf25	فسد	انْفَسَدَ	انْفَعَلَ	4				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-7ca37fcefc	فصد	انْفَصَدَ	انْفَعَلَ	4				MAHALL	فَصَدَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-42e7c7eab7	فصل	انْفَصَلَ	انْفَعَلَ	3				MAHALL	فَصَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8aea686e34	فصم	انْفَصَمَ	انْفَعَلَ	4				MAHALL	فَصَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-00b27e7f42	فضخ	انْفَضَخَ	انْفَعَلَ	5				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-e2a2b4f4e0	فطر	انْفَطَرَ	انْفَعَلَ	3				MAHALL	فَطَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-46d4f6b97b	فغر	انْفَغَرَ	انْفَعَلَ	5				MAHALL	فَغَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-48c345a918	فلت	انْفَلَتَ	انْفَعَلَ	5				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-d81ff60f04	فلع	انْفَلَعَ	انْفَعَلَ	4				MAHALL	فَلَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-84e3398ed8	فلق	انْفَلَقَ	انْفَعَلَ	4				MAHALL	فَلَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-88a5724945	فهق	انْفَهَقَ	انْفَعَلَ	3				MAHALL	فَهَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-1704965392	قبض	انْقَبَضَ	انْفَعَلَ	4				MAHALL	قَبَضَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-2081a6fe51	قحم	انْقَحَمَ	انْفَعَلَ	2				MAHALL	قَحَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-33201f97fb	قدر	انْقَدَرَ	انْفَعَلَ	2				MAHALL	قَدَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b6d374c9ea	قشر	انْقَشَرَ	انْفَعَلَ	5				MAHALL	قَشَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-53ba2665d6	قشع	انْقَشَعَ	انْفَعَلَ	6				MAHALL	قَشَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-61325dee28	قصد	انْقَصَدَ	انْفَعَلَ	5				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8a15afa4ec	قصف	انْقَصَفَ	انْفَعَلَ	7				MAHALL	قَصَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-531bff8b7a	قصم	انْقَصَمَ	انْفَعَلَ	5				MAHALL	قَصَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-53e7879686	قضب	انْقَضَبَ	انْفَعَلَ	5				MAHALL	قَضَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-49eb7a8336	قضع	انْقَضَعَ	انْفَعَلَ	3				MAHALL	قَضَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-707bc19048	قطع	انْقَطَعَ	انْفَعَلَ	6				MAHALL	قَطَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-480f46ef2c	قعش	انْقَعَشَ	انْفَعَلَ	2				MAHALL	قَعَشَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-1d31a41c7d	قعص	انْقَعَصَ	انْفَعَلَ	2				MAHALL	قَعَصَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-2163e35c02	قفش	انْقَفَشَ	انْفَعَلَ	2				MAHALL	قَفَشَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f6dd8562a0	قلع	انْقَلَعَ	انْفَعَلَ	6				MAHALL	قَلَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8cbc50dd0c	قمس	انْقَمَسَ	انْفَعَلَ	5				MAHALL	قَمَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-160a3dc8eb	قمع	انْقَمَعَ	انْفَعَلَ	5				MAHALL	قَمَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-bd4265bb74	كبت	انْكَبَتَ	انْفَعَلَ	3				MAHALL	كَبَتَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9a54edea42	كدر	انْكَدَرَ	انْفَعَلَ	4				MAHALL	كَدَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-433c929e77	كرث	انْكَرَثَ	انْفَعَلَ	2				MAHALL	كَرَثَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-a976296669	كرس	انْكَرَسَ	انْفَعَلَ	3				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-6f9c3c6e5e	كسر	انْكَسَرَ	انْفَعَلَ	5				MAHALL	كَسَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-cf86634571	كشط	انْكَشَطَ	انْفَعَلَ	4				MAHALL	كَشَطَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b64f676c08	كفت	انْكَفَتَ	انْفَعَلَ	3				MAHALL	كَفَتَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b3a774eabc	كمش	انْكَمَشَ	انْفَعَلَ	3				MAHALL	كَمَشَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-fd60ce136e	متر	امْتَرَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-d6644ce88c	مدح	امْدَحَّ	افْعَلَّ	3				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-f8e762ed11	مرط	انْمَرَطَ	انْفَعَلَ	2				MAHALL	مَرَطَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-fa1db5436c	مطل	امْطَلَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-5bf1daed2d	مقر	امْقَرَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-8c498790dd	ملس	انْمَلَسَ	انْفَعَلَ	2				MAHALL	مَلَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-cbddda3a2f	ملص	انْمَلَصَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f1c2644e14	ملق	انْمَلَقَ	انْفَعَلَ	4				MAHALL	مَلَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-2798d8e721	هتك	انْهَتَكَ	انْفَعَلَ	5				MAHALL	هَتَكَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-1a325a15c9	هجم	انْهَجَمَ	انْفَعَلَ	3				MAHALL	هَجَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-e59a910956	هرج	انْهَرَجَ	انْفَعَلَ	2				MAHALL	هَرَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-5346006354	هصر	انْهَصَرَ	انْفَعَلَ	4				MAHALL	هَصَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8c6837dbb0	هفت	انْهَفَتَ	انْفَعَلَ	4				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-4bda70debf	هلب	انْهَلَبَ	انْفَعَلَ	3				MAHALL	هَلَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-6caddb583d	هلت	انْهَلَتَ	انْفَعَلَ	3				MAHALL	هَلَتَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8f3f8ec856	همك	انْهَمَكَ	انْفَعَلَ	7				MAHALL	هَمَكَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_DAA	HFN-E-345efb6c6e	لهف	لَهِفَ	فَعِلَ	2	لازم	لَهِفّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6e3bd770ae	لهق	لَهِقَ	فَعِلَ	2	لازم	لَهِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-331e4346a0	مءق	مَئِقَ	فَعِلَ	6	لازم	مَئِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-4c62c3867e	متع	مَتُعَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-20ad059a04	خرف	خَرِفَ	فَعِلَ	5	لازم	خَرِف	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-9da1384ffe	مجد	مَجُدَ	فَعُلَ	4	لازم	مَجِيد	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-dceaa26c54	مجع	مَجُعَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-f94c8da0e8	محل	مَحُلَ	فَعُلَ	3	لازم			MAHALL	أَمْحَلَ	T_JAL	sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-8831b61a70	مدر	مَدِرَ	فَعِلَ	9	لازم	أَمْدَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-833b527018	مدش	مَدِشَ	فَعِلَ	5	لازم	أَمْدَش	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-be436a5010	مذل	مَذِلَ	فَعِلَ	5	لازم	مَذِلَ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-386c8ef58f	مرء	مَرُؤَ	فَعُلَ	5	غير معلوم			MAHALL	أَمْرَءَ	T_JAL	sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-f336851910	مرث	مَرِثَ	فَعِلَ	6	لازم	مَرِثٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-0fd1c089d7	مرخ	مَرِخَ	فَعِلَ	2	لازم	مَرِخٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d5a8d23a96	مرد	مَرِدَ	فَعِلَ	6	لازم	أَمردُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-048a6dc188	مرد	مَرُدَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-9e0afe55c0	مرع	مَرِعَ	فَعِلَ	3	لازم	مَرِعَ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-41b3b809a1	مزر	مَزُرَ	فَعُلَ	3	لازم	مَزيرٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ae165b42d0	خرق	خَرِقَ	فَعِلَ	7	لازم	خرِق	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d44da16963	مسح	مَسِحَ	فَعِلَ	6	لازم	مَسْحَاءُ	فعلاء	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-a67cfccf92	مسخ	مَسُخَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ffff445547	خرق	خَرُقَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-1a7cf326eb	مشق	مَشِقَ	فَعِلَ	4	لازم	مَشِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-e1447e2ae9	معر	مَعِرَ	فَعِلَ	5	لازم	أَمْعَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-79a8d5a376	معز	مَعِزَ	فَعِلَ	2	لازم	أَمْعَز	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-e1eb529fc4	معص	مَعِصَ	فَعِلَ	5	لازم	أمعصُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bce0bccdb9	معط	مَعِطَ	فَعِلَ	5	لازم	أَمْعط	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ddffb00edd	معق	مَعُقَ	فَعُلَ	3	لازم	مَغْيق		MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3b4b71fe81	مقر	مَقِرَ	فَعِلَ	3	لازم	مَقِرٌّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-fade49a657	خرم	خَرِمَ	فَعِلَ	4	لازم	أَخْرَمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7e3bc3e303	مقه	مَقِهَ	فَعِلَ	2	لازم	أَمْقَهُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-151e6a468c	مكث	مَكُثَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5cb9a789ca	مكن	مَكُنَ	فَعُلَ	4	لازم	مَكِينَ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-2be515e5b9	ملح	مَلِحَ	فَعِلَ	6	لازم	أملحُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b48e457163	ملح	مَلُحَ	فَعُلَ	7	لازم	مَلِيح	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-611ebb7729	ملذ	مَلِذَ	فَعِلَ	3	لازم	أَمْلَذُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-23d71b9bcc	ملس	مَلِسَ	فَعِلَ	3	لازم	أَملس	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-8a54887f58	ملس	مَلُسَ	فَعُلَ	4	لازم	مَلِيس	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b6317ba3f0	ملط	مَلِطَ	فَعِلَ	4	لازم	أملط	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e1403b834f	ملط	مَلُطَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-dfc117bdaa	منع	مَنُعَ	فَعُلَ	7	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-2531d71caa	مهق	مَهِقَ	فَعِلَ	4	لازم	أَمهق	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-628aeceb30	نبل	نَبُلَ	فَعُلَ	7	لازم	نبيل	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-efc518a6ee	نبه	نَبُهَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-e52ab86f8e	هلب	هَلِبَ	فَعِلَ	3	لازم	أَهْلَبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-fa66e2350f	هلع	هَلِعَ	فَعِلَ	3	لازم	هَلِعٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-76efa64b1f	هنء	هَنُؤَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-85fa68d1e0	هنب	هَنِبَ	فَعِلَ	4	لازم	أَهْنَب	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9ac8f9dd53	هوج	هَوِجَ	فَعِلَ	2	لازم	أَهْوَج	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7943cd091f	هيف	هَيِفَ	فَعِلَ	3	لازم	أَهيف	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-dfb17aef31	وبء	وَبُؤَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c7f85ded10	وبل	وَبُلَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-93cf8739d3	وثر	وَثُرَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5717f522d4	وثق	وَثُقَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-471b03d1bb	وجز	وَجُزَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c329f0687e	وجه	وَجُهَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-18a10067f1	وحف	وَحُفَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5fd14ad166	وخم	وَخُمَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-0e4d1a37e6	ودع	وَدُعَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ca9d8b878b	ورد	وَرُدَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-62ed5dc795	ورع	وَرُعَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-2b05fb651d	خشم	خَشِمَ	فَعِلَ	5	لازم	أَخْشَمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-af049c3020	وزن	وَزُنَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2e526db232	وسط	وَسُطَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-6a5ac8e850	وسع	وَسُعَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c0cc90a24c	وسم	وَسُمَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-81e802bcf0	وشك	وَشُكَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-b47f3b8fa2	وصف	وَصُفَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-53b738028c	وضء	وَضُؤَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-867d0d6ad4	وضع	وَضُعَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c98ac30d59	وطء	وَطُؤَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-266279ec45	وعث	وَعُثَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ea6f01bcdc	وقح	وَقُحَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-3e38717784	وقر	وَقُرَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-bdb61fd8b0	خصب	خَصِبَ	فَعِلَ	6	لازم	خَصِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e4cf1119aa	يتم	يَتُمَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2537543725	يسر	يَسُرَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-e37debcf2f	يمن	يَمُنَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b5b67427a1	خصف	خَصِفَ	فَعِلَ	7	لازم	أَخْصَفُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-58bfd32833	خضر	خَضِرَ	فَعِلَ	6	لازم	خَضِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-f2af45c700	خضع	خَضِعَ	فَعِلَ	4	لازم	أَخْضعُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-966ddde615	خطب	خَطُبَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-aaa536daa0	خطر	خَطُرَ	فَعُلَ	5	لازم	خطير	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-02e4fed65b	خطل	خَطِلَ	فَعِلَ	6	لازم	خطِل	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-f51b16e224	خفش	خَفِشَ	فَعِلَ	5	لازم	أَخفشُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-79804db6e8	خلب	خَلِبَ	فَعِلَ	3	لازم	أَخلَبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bf12523a26	خلج	خَلِجَ	فَعِلَ	7	لازم	أَخلَجُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9b6bc4e55e	خلف	خَلِفَ	فَعِلَ	6	لازم	أخلف	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-76815390ca	خلف	خَلُفَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-6a4615d016	خلق	خَلِقَ	فَعِلَ	5	لازم	أَخلَقُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-fcfa951766	خلق	خَلُقَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-7c5e99ffec	خمر	خَمِرَ	فَعِلَ	6	لازم	خَمِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-60a2fbec11	خنث	خَنِثَ	فَعِلَ	3	لازم	خنِث	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1ebc6ff946	خنف	خَنِفَ	فَعِلَ	3	لازم	أَخْنَفَ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-5090832856	خوث	خَوِثَ	فَعِلَ	4	لازم	أَخْوَثُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-c2b2aa0683	خوص	خَوِصَ	فَعِلَ	3	لازم	أَخْوَصُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-5574d26c79	خيف	خَيِفَ	فَعِلَ	5	لازم	أَخْيَفُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-4935a5f83d	دبر	دَبِرَ	فَعِلَ	7	لازم	دَبِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-69e6c97ccc	دبل	دَبِلَ	فَعِلَ	2	لازم	دَبِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-47e025e3e4	دحل	دَحِلَ	فَعِلَ	3	لازم	دَحِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-fb4b8f69f8	دخن	دَخُنَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-4ace42e872	درد	دَرِدَ	فَعِلَ	5	لازم	أَدْرَدُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-a60156641b	درن	دَرِنَ	فَعِلَ	6	لازم	دَرِنٌّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-5f505cf073	دسم	دَسِمَ	فَعِلَ	8	لازم	دسِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-467f4515c7	دعب	دَعِبَ	فَعِلَ	5	لازم	دَعِب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-dcfec15e62	دعر	دَعِرَ	فَعِلَ	5	لازم	دَعِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-0ce82c233d	دفء	دَفُؤَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-e6cd1d8d63	دفر	دَفِرَ	فَعِلَ	6	لازم	دفِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-2cbe6664f0	دفق	دَفِقَ	فَعِلَ	7	لازم	أَدْفَقُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-871a9d0613	دقم	دَقِمَ	فَعِلَ	5	لازم	أَدْقمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-20aa466242	دكن	دَكِنَ	فَعِلَ	4	لازم	أَدكن	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-39a67b2c5d	دلص	دَلِصَ	فَعِلَ	2	لازم	أَدْلَصُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-acfcbb555f	دلم	دَلِمَ	فَعِلَ	3	لازم	أَدْلَمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-ecdbe1d925	دمث	دَمِثَ	فَعِلَ	6	لازم	دَمِثْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-e596b05bbd	دمص	دَمِصَ	فَعِلَ	2	لازم	أَدْمَصُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-f9428310f3	دنء	دَنُؤَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-cc26fe832c	دنس	دَنِسَ	فَعِلَ	5	لازم	دَنِسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9cd408bb8d	دنف	دَنِفَ	فَعِلَ	6	لازم	دَنِفٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-12b6b3767f	دهس	دَهُسَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-0c61f361b5	دهش	دَهِشَ	فَعِلَ	7	لازم	دَهِش	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7b84e25553	دوش	دَوِشَ	فَعِلَ	4	لازم	أَدْوَشُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bfb0179098	ذبر	ذَبِرَ	فَعِلَ	4	لازم	ذَبِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-cd54179158	ذرع	ذَرِعَ	فَعِلَ	4	لازم	ذَرِعٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e3beffe05a	ذرع	ذَرُعَ	فَعُلَ	2	مشترك	ذَريع	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-9a5378acdd	ذعر	ذَعِرَ	فَعِلَ	2	لازم	ذَعِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-b76604c895	ذفر	ذَفِرَ	فَعِلَ	5	لازم	ذَفِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-a77f38b719	ذقن	ذَقِنَ	فَعِلَ	4	لازم	ذَقِنٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-c73c9d2534	ذكر	ذَكِرَ	فَعِلَ	6	لازم	ذَكِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-586dbf389b	ذكو	ذَكُوَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-bc6ea5cacd	ذلف	ذَلِفَ	فَعِلَ	2	لازم	أَذْلَفُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-ecd466135a	ذلق	ذَلِقَ	فَعِلَ	4	لازم	أَذْلقُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-4eed14ea33	ذلق	ذَلُقَ	فَعُلَ	4	لازم	ذَليقٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-f1a17d2189	ذهن	ذَهُنَ	فَعُلَ	2	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-76ff972b88	رءد	رَؤُدَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-600bff4056	رءف	رَئِفَ	فَعِلَ	3	لازم	رَئِفٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-253ac8d6bf	ربد	رَبِدَ	فَعِلَ	3	لازم	أَرْبد	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-a4ace3edac	ربذ	رَبِذَ	فَعِلَ	4	لازم	رَبِذ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-90308c6fe1	ربك	رَبِكَ	فَعِلَ	2	لازم	رَبِك	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-799f0fad65	رتق	رَتِقَ	فَعِلَ	4	لازم	أَرْتَقُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-2be0027548	رتل	رَتِلَ	فَعِلَ	5	لازم	رَتِل	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-b0a177d0c0	رجز	رَجِزَ	فَعِلَ	7	لازم	أَرجَزُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-c4e9c7d8c9	رجس	رَجِسَ	فَعِلَ	3	لازم	رَجِس	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ceae58f6bb	رجس	رَجُسَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c9323b741d	رحب	رَحُبَ	فَعُلَ	6	لازم	رَحْب	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2f664f842a	رحم	رَحُمَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-dc64474efd	رخص	رَخُصَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-be65e1f45f	رخم	رَخُمَ	فَعُلَ	5	لازم	رَخِيمٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-1faa994b9e	رخو	رَخُوَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-14a87a27d5	ردء	رَدُؤَ	فَعُلَ	4	لازم	رَدِءٌ	فعل3	MAHALL	أَرْدَءَ	T_JAL	sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-b34bcd59c1	ردح	رَدُحَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-78ae1923a2	ردغ	رَدِغَ	فَعِلَ	3	لازم	رَدِغٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-dfc9beb4b3	ردن	رَدِنَ	فَعِلَ	2	لازم	رَدِنٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-4bda59d11a	رذم	رَذِمَ	فَعِلَ	3	لازم	رَذِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-9b20a9bd14	رزن	رَزُنَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ba9d2abec3	رشم	رَشِمَ	فَعِلَ	4	لازم	أرْشَمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-85da8b29a6	رصف	رَصِفَ	فَعِلَ	8	لازم	رَصِف	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-c9f43367ae	رضع	رَضُعَ	فَعُلَ	4	لازم	رضيع	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-9918fc6e2e	رطب	رَطِبَ	فَعِلَ	5	لازم	رَطْبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b71f0c4ae5	رطب	رَطُبَ	فَعُلَ	7	لازم	رَطْب	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ceeecdee95	رعل	رَعِلَ	فَعِلَ	2	لازم	أَرْعَلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-4a5d32281e	رعن	رَعِنَ	فَعِلَ	4	لازم	أَرْعَنُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-4ba31f9605	رغب	رَغُبَ	فَعُلَ	6	متعدي			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-9e1ad0f383	رغد	رَغِدَ	فَعِلَ	6	لازم	رَغْدٌ	فعل3	MAHALL	أَرْغَدَ	T_JAL	sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-387554bfce	رفغ	رَفُغَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ca0066d164	رقب	رَقِبَ	فَعِلَ	6	لازم	أَرقَبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-f6bfab7829	رقع	رَقُعَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ab6a68c0c7	ركن	رَكُنَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-5dce58abe7	رمد	رَمِدَ	فَعِلَ	7	لازم	أَرْمَدُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-d4fa3ffc57	رمز	رَمُزَ	فَعُلَ	4	لازم	رَمِيزٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-315df12640	رمض	رَمِضَ	فَعِلَ	5	لازم	رمِضٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-5e30c93a00	رنق	رَنِقَ	فَعِلَ	3	لازم	رَنِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-67a807b783	زءم	زَئِمَ	فَعِلَ	4	لازم	زَئِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d577829625	زعق	زَعِقَ	فَعِلَ	3	لازم	زَعِق	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-7a9d394baf	زعل	زَعِلَ	فَعِلَ	6	لازم	زَعِلّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-f9aeb1bc77	زعم	زَعُمَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-da6ff672ae	زغب	زَغِبَ	فَعِلَ	6	لازم	زَغِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-70046b0e7d	زلج	زَلِجَ	فَعِلَ	5	لازم	زلِج	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6ba2c2e9af	زلم	زَلِمَ	فَعِلَ	7	لازم	أَزْلمُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-f3e5c1e5d6	زند	زَنِدَ	فَعِلَ	4	لازم	زنِدَ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-79d6595a61	زهد	زَهُدَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-d2940ca3a4	زهر	زَهِرَ	فَعِلَ	5	لازم	أَزهرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-0d921e8f45	زهر	زَهُرَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-df513380f7	زهل	زَهِلَ	فَعِلَ	3	لازم	زَهِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-2755076b98	زور	زَوِرَ	فَعِلَ	6	لازم	أَزْوَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bb11de8880	سبط	سَبِطَ	فَعِلَ	6	لازم	سَبِطٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b558051114	سبط	سَبُطَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3a437c664d	سجس	سَجِسَ	فَعِلَ	4	لازم	سجِسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b28f800659	سحق	سَحُقَ	فَعُلَ	5	لازم	سحيق	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2916fcadf5	سخف	سَخُفَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-1a1f266033	سخن	سَخُنَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-d1009bfb98	سرو	سَرُوَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-abd8a5ea65	سطع	سَطِعَ	فَعِلَ	4	لازم	أَسطَعُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-799bd53ae5	سعر	سَعِرَ	فَعِلَ	4	لازم	أَسعر	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6e9a95ce0b	سغب	سَغِبَ	فَعِلَ	8	لازم	سَغِب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-b8d7465d94	سغل	سَغِلَ	فَعِلَ	3	لازم	سَغْلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-a7fee8de0b	سفع	سَفِعَ	فَعِلَ	6	لازم	أَسفَعُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-56b3dbc5e2	سفل	سَفُلَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-c9ec10ca44	سقف	سَقِفَ	فَعِلَ	4	لازم	أَسقَفُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-02a11c56b8	سقم	سَقِمَ	فَعِلَ	6	لازم	سَقِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-05a74e2b25	سقم	سَقُمَ	فَعُلَ	5	لازم	سقيم	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-fecf5fa85e	سكر	سَكِرَ	فَعِلَ	6	لازم	سَكِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-b304e738d2	سلس	سَلِسَ	فَعِلَ	6	لازم	سَلِسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9d6f998f9d	سلع	سَلِعَ	فَعِلَ	4	لازم	أسلعُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-2ceb6a44bf	سمج	سَمُجَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-0bd7cd4751	سمح	سَمُحَ	فَعُلَ	5	لازم	سَمْحٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-bac96eb767	سمر	سَمِرَ	فَعِلَ	6	لازم	أَسْمَرُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-d3f9b95355	سمر	سَمُرَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-4ca0e0b4a6	سمل	سَمُلَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-b96b688132	سمن	سَمُنَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-9bf04c7a18	سنق	سَنِقَ	فَعِلَ	5	لازم	سَنِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-61767120f0	سنم	سَنِمَ	فَعِلَ	4	لازم	سنِمُ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d031d97862	سهد	سَهِدَ	فَعِلَ	4	لازم	سَهِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9571bf5cb6	سهف	سَهِفَ	فَعِلَ	3	لازم	سهِف	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-4c65f4652f	سهك	سَهِكَ	فَعِلَ	5	لازم	سَهِكٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-46c0b4aaf0	سوس	سَوِسَ	فَعِلَ	4	لازم	أَسْوَسُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-7686ea0642	خثر	خَثُرَ	فَعُلَ	5	لازم	خَثِيرٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-69768aac86	فسح	فَسُحَ	فَعُلَ	4	لازم	فَسِيحُ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-e3237f00fc	فطس	فَطِسَ	فَعِلَ	4	لازم	أَفْطَسُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-56290bb466	فقه	فَقُهَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5893544c3f	قبح	قَبُحَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-dd71448cb2	قبس	قَبُسَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2bef794c30	قتن	قَتُنَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-57ab0f07b2	قصع	قَصُعَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-8b61a383bf	قطع	قَطُعَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-249396a224	قعر	قَعُرَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-310e00f058	قمل	قَمِلَ	فَعِلَ	5	لازم	قَمِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-45505d3acb	كدن	كَدِنَ	فَعِلَ	3	لازم	كَدِنٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ca6e087748	كرم	كَرُمَ	فَعُلَ	6	لازم	كريم	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-6206b5859a	كهم	كَهُمَ	فَعُلَ	4	لازم	كَهامٌ	فَعال	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-c88aa9335e	لبق	لَبِقَ	فَعِلَ	6	لازم	لَبِق	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3f23def7c3	لبق	لَبُقَ	فَعُلَ	2	لازم	لَبِيق	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-84be4fdc0c	لبك	لَبِكَ	فَعِلَ	2	لازم	لَبِكٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-21fcf2e152	لدن	لَدُنَ	فَعُلَ	7	لازم	لَدْن	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-8e5f51f294	لهج	لَهِجَ	فَعِلَ	5	لازم	لهج	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-0ae6978fd6	نجد	نَجُدَ	فَعُلَ	4	لازم	نَجِدٌّ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ff33bc81bc	ندب	نَدِبَ	فَعِلَ	4	لازم	نَدِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-606be52e19	نعت	نَعُتَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-3c9fc39b0d	نهج	نَهِجَ	فَعِلَ	3	لازم	نَهجٌّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-61b97ead93	قدو	قَدُوَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-4bec77a496	ءرب	أَرُبَ	فَعُلَ	3	مشترك	أرِيب	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-6217ed09e0	ءنض	أَنُضَ	فَعُلَ	3	متعدي			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-7de7ec108b	ءود	أَوِدَ	فَعِلَ	6	لازم	أَوِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-a969221d8d	بحت	بَحُتَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-6be54d8ee8	بكء	بَكُؤَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ed49543256	بلد	بَلُدَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-d328d359c4	بلغ	بَلُغَ	فَعُلَ	5	مشترك	بَلِيغٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-efb4cfc727	بهو	بَهُوَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-85ae11fd13	ترب	تَرِبَ	فَعِلَ	9	لازم	ترِبٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-6d165910ac	جثل	جَثُلَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-91a2b5e19a	جعد	جَعُدَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-540dfe420a	جمس	جَمُسَ	فَعُلَ	2	لازم	جمِيس	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5ca4676783	حرن	حَرُنَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-dda5b228b6	حسب	حَسُبَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ae1244a3ca	حشن	حَشِنَ	فَعِلَ	3	لازم	حَشِنْ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-efb4ec5de4	حصف	حَصُفَ	فَعُلَ	3	لازم	حَصِيفٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b647c62902	حلس	حَلِسَ	فَعِلَ	3	لازم	حَلِسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b3a693a7be	حلم	حَلُمَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ea718dec01	حمز	حَمُزَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ebbe0e0baa	حمض	حَمُضَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c87a6fe437	شبح	شَبُحَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-17cded1c33	شجن	شَجُنَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-b573700579	شسف	شَسُفَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ef8ec46eea	شقح	شَقُحَ	فَعُلَ	2	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-804fffe695	شنع	شَنُعَ	فَعُلَ	6	مشترك			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-7928e63ad8	صلد	صَلُدَ	فَعُلَ	4	غير معلوم			MAHALL	أَصْلَدَ	T_JAL	sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2f9e32f98f	ضرب	ضَرُبَ	فَعُلَ	3	مشترك			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-a7fcdbfc59	طرو	طَرُوَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ab723b5c9d	طمع	طَمُعَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-d9b4a387d4	عثل	عَثِلَ	فَعِلَ	2	لازم	عَثِل	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-fa50390b16	عزق	عَزِقَ	فَعِلَ	2	لازم	عَزِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-5feb5bb818	متن	مَتُنَ	فَعُلَ	3	لازم	مَتْنٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-0f65e6d1d3	مثل	مَثُلَ	فَعُلَ	5	لازم	مَثِيل	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-02ef47874e	معك	مَعُكَ	فَعُلَ	2	لازم	مَعِكٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-eff84819eb	مقت	مَقُتَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-d686185b41	ملء	مَلُؤَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-526a4a7e54	ملخ	مَلُخَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-355ee9c194	هكر	هَكِرَ	فَعِلَ	5	لازم	هَكِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-098bd1b48e	وتح	وَتُحَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-e189a09b00	وثج	وَثُجَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-009febcd82	وجب	وَجُبَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-45bb39c7da	وحد	وَحُدَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-f22b39ec12	وخش	وَخُشَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-dfc397e063	خشن	خَشُنَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-dae9ca947e	وعر	وَعُرَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-81c5e5794a	وغد	وَغُدَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c8b9065a20	وفر	وَفُرَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-d365e1f5d3	يقظ	يَقُظَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-69a82e7178	خصم	خَصِمَ	فَعِلَ	4	لازم	خصِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-70aed68a82	خلع	خَلُعَ	فَعُلَ	3	لازم	خَلِيعٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ee4c06abff	دحن	دَحِنَ	فَعِلَ	4	لازم	دَحِنّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-2db64ac425	درس	دَرُسَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5607bb33a7	ذءب	ذَؤُبَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-07166348ba	ذبل	ذَبُلَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-29d97ef9b5	رحب	رَحِبَ	فَعِلَ	2	لازم	رَحْب	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-10992a6695	رذل	رَذُلَ	فَعُلَ	5	لازم	رذْل	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-0821e0d149	رشق	رَشُقَ	فَعُلَ	4	لازم	رَشِيقٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-e9104583f6	رعف	رَعُفَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-6a2d4bf0e1	رغد	رَغُدَ	فَعُلَ	4	لازم	رَغد	فعل3	MAHALL	أَرْغَدَ	T_JAL	sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-90cf8fa313	رفع	رَفُعَ	فَعُلَ	6	مشترك	رفيعٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-3400767293	رفق	رَفُقَ	فَعُلَ	3	لازم	رفيق	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-1ec9b21939	رفه	رَفُهَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-aad955b0a0	زمت	زَمُتَ	فَعُلَ	3	لازم	زميتٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-7ad395d220	زنب	زَنِبَ	فَعِلَ	2	لازم	أَزْنَبُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-414ddfc79d	سرع	سَرُعَ	فَعُلَ	6	غير معلوم	سَريعٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-4e7b8f587b	سفط	سَفُطَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-252e21c0a7	سفه	سَفُهَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-f6174a7079	سلط	سَلُطَ	فَعُلَ	4	لازم	سليط	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-cc9d447330	سنع	سَنُعَ	فَعُلَ	3	لازم	سَنيع	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-a95db231b8	ذنن	ذَنَّ	فَعِلَ	5	لازم	أَذَنُّ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-10ead25310	رتت	رَتَّ	فَعِلَ	4	لازم	أَرَتُّ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-6c17fa53b9	سكك	سَكَّ	فَعِلَ	5	لازم	أَسَكُّ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-c5406c169e	عذو	عَذُوَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-9150cc1e93	ربز	رَبُزَ	فَعُلَ	2	لازم	رَبيز	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-1204f6fb7c	رخف	رَخِفَ	فَعِلَ	5	لازم	رَخِفٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_MUTAWAA	HFN-E-b143f586c4	بتر	انْبَتَرَ	انْفَعَلَ	2				MAHALL	بَتَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-efd485077c	بزل	انْبَزَلَ	انْفَعَلَ	2				MAHALL	بَزَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-080b6aa47c	بلق	انْبَلَقَ	انْفَعَلَ	2				MAHALL	بَلَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-76b5e3fc20	ثرم	انْثَرَمَ	انْفَعَلَ	3				MAHALL	ثَرَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c04bf292aa	جزر	انْجَزَرَ	انْفَعَلَ	2				MAHALL	جَزَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f63066ec84	جزع	انْجَزَعَ	انْفَعَلَ	2				MAHALL	جَزَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-3e363abb62	جعب	انْجَعَبَ	انْفَعَلَ	3				MAHALL	جَعَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-db92cb5e5f	حسر	انْحَسَرَ	انْفَعَلَ	3				MAHALL	حَسَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-253e6414c2	حسم	انْحَسَمَ	انْفَعَلَ	3				MAHALL	حَسَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-7dacc509f0	حصم	انْحَصَمَ	انْفَعَلَ	2				MAHALL	حَصَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-69939092c8	حمر	احْمَرَّ	افْعَلَّ	3				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-901182f484	خرق	انْخَرَقَ	انْفَعَلَ	5				MAHALL	خَرَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-00d1beaf46	خزع	انْخَزَعَ	انْفَعَلَ	3				MAHALL	خَزَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-d084089154	خسف	انْخَسَفَ	انْفَعَلَ	4				MAHALL	خَسَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-116cd4d67e	دثر	انْدَثَرَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-0bf8dc7560	دفق	انْدَفَقَ	انْفَعَلَ	3				MAHALL	دَفَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9e037649ae	دلص	انْدَلَصَ	انْفَعَلَ	3				MAHALL	دَلَصَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-cc567dae77	ذعر	انْذَعَرَ	انْفَعَلَ	3				MAHALL	ذَعَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-04cdac2e87	ربث	ارْبَثَّ	افْعَلَّ	3				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-d8d1898b17	ربد	ارْبَدَّ	افْعَلَّ	3				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-43c109ccbd	رفت	ارْفَتَّ	افْعَلَّ	4				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_LAWN	HFN-E-717dd0220f	رفض	ارْفَضَّ	افْعَلَّ	5				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-524ae4d2f1	زعق	انْزَعَقَ	انْفَعَلَ	3				MAHALL	زَعَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-11ee84bfb0	زهق	انْزَهَقَ	انْفَعَلَ	4				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-ee8e2620ab	سبء	انْسَبَءَ	انْفَعَلَ	2				MAHALL	سَبَأَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f35bbcea1c	سبك	انْسَبَكَ	انْفَعَلَ	2				MAHALL	سَبَكَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-0d32adc31b	سجر	انْسَجَرَ	انْفَعَلَ	3				MAHALL	سَجَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c7ed603f5d	سحل	انْسَحَلَ	انْفَعَلَ	2				MAHALL	سَحَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-3c538ede92	سرط	انْسَرَطَ	انْفَعَلَ	2				MAHALL	سَرَطَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-e57e9c6d1b	سرق	انْسَرَقَ	انْفَعَلَ	2				MAHALL	سَرَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-a2c26906fe	سلب	انْسَلَبَ	انْفَعَلَ	3				MAHALL	سَلَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-5833da1c2d	سلخ	اسْلَخَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-cafc36f55d	سلق	انْسَلَقَ	انْفَعَلَ	2				MAHALL	سَلَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-049464c8a6	شجر	انْشَجَرَ	انْفَعَلَ	2				MAHALL	شَجَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-5f447055a8	شرح	انْشَرَحَ	انْفَعَلَ	2				MAHALL	شَرَحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-61ee63ad81	ضفر	انْضَفَرَ	انْفَعَلَ	3				MAHALL	ضَفَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-1048600ffa	ضمر	انْضَمَرَ	انْفَعَلَ	3				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-37b5131eed	طبق	انْطَبَقَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9963413767	طلس	انْطَلَسَ	انْفَعَلَ	2				MAHALL	طَلَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-80781524b9	طمل	انْطَمَلَ	انْفَعَلَ	2				MAHALL	طَمَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-a852834740	عتل	انْعَتَلَ	انْفَعَلَ	2				MAHALL	عَتَلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-da3e226b72	عقد	انْعَقَدَ	انْفَعَلَ	3				MAHALL	عَقَدَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-0299e6e2be	عمد	انْعَمَدَ	انْفَعَلَ	2				MAHALL	عَمَدَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-2dd5bc30be	فحج	انْفَحَجَ	انْفَعَلَ	2				MAHALL	فَحَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-c876d50e5b	فرق	انْفَرَقَ	انْفَعَلَ	2				MAHALL	فَرَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-db505d3c80	قبع	انْقَبَعَ	انْفَعَلَ	3				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-2953ef95e5	قتم	اقْتَمَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-28d17bdd64	قدع	انْقَدَعَ	انْفَعَلَ	2				MAHALL	قَدَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-3b50ed1049	قرض	انْقَرَضَ	انْفَعَلَ	2				MAHALL	قَرَضَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-4cceafaf07	قسم	انْقَسَمَ	انْفَعَلَ	2				MAHALL	قَسَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9abdde40de	قعر	انْقَعَرَ	انْفَعَلَ	6				MAHALL	قَعَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-bc28848d37	قفع	انْقَفَعَ	انْفَعَلَ	2				MAHALL	قَفَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-fe1845568a	قلب	انْقَلَبَ	انْفَعَلَ	3				MAHALL	قَلَبَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-5fdd747d96	قمح	انْقَمَحَ	انْفَعَلَ	4				MAHALL	قَمِحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-85c37a8142	قهل	انْقَهَلَ	انْفَعَلَ	3				MAHALL	قَهِلَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-e31842b447	كسف	انْكَسَفَ	انْفَعَلَ	4				MAHALL	كَسَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9f5e457b3d	كشف	انْكَشَفَ	انْفَعَلَ	4				MAHALL	كَشَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-88700ae748	كفس	انْكَفَسَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-34e05dfad7	لمس	الْمَسَّ	افْعَلَّ	2				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-fd6360ef02	محق	انْمَحَقَ	انْفَعَلَ	3				MAHALL	مَحَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-2f14dc69fc	ملز	انْمَلَزَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-a4bca9573a	هجس	انْهَجَسَ	انْفَعَلَ	2				MAHALL	هَجَسَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8c0a01d0c9	هدم	انْهَدَمَ	انْفَعَلَ	2				MAHALL	هَدَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-7bf6a65216	هزم	انْهَزَمَ	انْفَعَلَ	3				MAHALL	هَزَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-67752f662b	هشم	انْهَشَمَ	انْفَعَلَ	2				MAHALL	هَشَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-809459e244	همء	انْهَمَءَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-5721c54564	همر	انْهَمَرَ	انْفَعَلَ	5				MAHALL	هَمَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_DAA	HFN-E-d5dafecbef	ءمض	أَمِضَ	فَعِلَ	3	لازم	أَمِض	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-d5a89eb868	تءق	تَءِقَ	فَعِلَ	2	لازم	تَئِقَ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bdc49cc8ec	جءز	جَءِزَ	فَعِلَ	2	لازم	جَئِز	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-7337bab899	سفق	سَفُقَ	فَعُلَ	5	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-7d9ce282a7	غرل	غَرِلَ	فَعِلَ	2	لازم	أَغرلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-fa6cf9065d	فغم	فَغِمَ	فَعِلَ	4	لازم	فَغِم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-82ebe8c2ea	قره	قَرِهَ	فَعِلَ	3	لازم	أَقْرَهُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-905ac6b069	نذل	نَذُلَ	فَعُلَ	6	لازم	نَدْلٌ		MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-d5fd400553	ءثم	أَثِمَ	فَعِلَ	6	لازم	أَثِّم	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-3511eef328	ءحن	أَحِنَ	فَعِلَ	3	لازم	أَحِن	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-62a6c354d3	بءل	بَءُلَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-f635005b1f	تفه	تَفِهَ	فَعِلَ	5	لازم	تَفِهٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-aa5407a9d8	ثبط	ثَبِطَ	فَعِلَ	3	لازم	ثَبِطَ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-eeec4141aa	جفس	جَفِسَ	فَعِلَ	4	لازم	جَفِسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-2dee7e8591	دغص	دَغِصَ	فَعِلَ	4	لازم	دَغْصان	فعلان	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e267a650ee	سنط	سَنُطَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-d7aaf7ccf2	شثن	شَثُنَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-986edba337	ضرك	ضَرُكَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-df23c47a47	نحف	نَحُفَ	فَعُلَ	3	لازم	نَحيف	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-0fe78fe3eb	وغب	وَغُبَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-6e9b4481cd	رذي	رَذِيَ	فَعِلَ	2	لازم	رَذِيٌّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_MUTAWAA	HFN-E-e32e630f04	جءف	انْجَءَفَ	انْفَعَلَ	3				MAHALL	جَأَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-57b7f21356	جذم	انْجَذَمَ	انْفَعَلَ	2				MAHALL	جَذَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-db17ffe696	جعف	انْجَعَفَ	انْفَعَلَ	3				MAHALL	جَعَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-9dbc2394d1	خفع	انْخَفَعَ	انْفَعَلَ	4				MAHALL	خَفَعَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-0d42a84b62	خنق	انْخَنَقَ	انْفَعَلَ	3				MAHALL	خَنَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-95faae2c89	دحق	انْدَحَقَ	انْفَعَلَ	2				MAHALL	دَحَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-12868df6c7	درج	انْدَرَجَ	انْفَعَلَ	2				MAHALL	دَرَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-fed60cd2dd	دقم	انْدَقَمَ	انْفَعَلَ	3				MAHALL	دَقَمَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-cf0e1b3f04	ذءج	انْذَءَجَ	انْفَعَلَ	2				MAHALL	ذَئِجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-4ee2015739	شتر	انْشَتَرَ	انْفَعَلَ	3				MAHALL	شَتَرَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-df5edc8e2a	شرث	انْشَرَثَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-65923fe771	صلع	انْصَلَعَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-ea55a45aa0	طفء	انْطَفَءَ	انْفَعَلَ	3				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-086865dd9f	غضف	انْغَضَفَ	انْفَعَلَ	4				MAHALL	غَضَفَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f76d646e46	فرث	انْفَرَثَ	انْفَعَلَ	3				MAHALL	فَرَثَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-8479937634	فرج	انْفَرَجَ	انْفَعَلَ	3				MAHALL	فَرَجَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-b27dfb58b4	فسق	انْفَسَقَ	انْفَعَلَ	2				MAHALL	فَسَقَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-16c2105a29	فشج	انْفَشَجَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-77ee11319e	فشح	انْفَشَحَ	انْفَعَلَ	3				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-f5c1262dd1	كشح	انْكَشَحَ	انْفَعَلَ	4				MAHALL	كَشَحَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-e5fe6993cb	مدح	انْمَدَحَ	انْفَعَلَ	2				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-99fa735e07	همل	انْهَمَلَ	انْفَعَلَ	3				MAHALL			sibawayhi.txt:16543	CANDIDATE
+J_SAJIYYA	HFN-E-8c7e9ad198	غرض	غَرُضَ	فَعُلَ	2	لازم	غَرِضٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-813a1b681b	غرق	غَرِقَ	فَعِلَ	5	لازم	غَرِق	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-8c01e7de36	غزر	غَزُرَ	فَعُلَ	8	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-86ea0e58dd	غضر	غَضِرَ	فَعِلَ	4	لازم	غضِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3b828e1d48	غمض	غَمُضَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-75c1ef33fd	خثم	خَثِمَ	فَعِلَ	3	لازم	أخثم	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-e3c8bf0b3a	خدر	خَدِرَ	فَعِلَ	6	لازم	خدِر	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bc5f6ee854	فتق	فَتِقَ	فَعِلَ	2	لازم	فَتِقٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-19d1f99324	فحش	فَحُشَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-86c7a0ff09	فحم	فَحُمَ	فَعُلَ	4	مشترك			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-4bad4892fd	فخر	فَخِرَ	فَعِلَ	2	لازم	فَخِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ced92b27ba	فخم	فَخُمَ	فَعُلَ	5	لازم	فَخْمٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-d527ede2e9	فدع	فَدِعَ	فَعِلَ	5	لازم	أفْدَعُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-47d441e656	فدم	فَدُمَ	فَعُلَ	3	لازم	فَدْمٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-047b7b24d4	فرض	فَرُضَ	فَعُلَ	4	مشترك	فارض	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-863f74da68	فرغ	فَرُغَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5cb62e37b8	فسق	فَسُقَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ab71916d61	فسل	فَسُلَ	فَعُلَ	2	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-614da13272	فعم	فَعُمَ	فَعُلَ	5	لازم	فَعْمٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-0cd9dbd895	قرب	قَرُبَ	فَعُلَ	7	مشترك	قريبٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-46ac40400b	قرح	قَرِحَ	فَعِلَ	4	لازم	قَرِحُ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-130be68ff8	قرد	قَرِدَ	فَعِلَ	6	لازم	قَرِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-db95d08de8	قرع	قَرِعَ	فَعِلَ	7	لازم	أقرع	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-9438ac3700	قزع	قَزِعَ	فَعِلَ	2	لازم	أقزع	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-c261cfc0c1	قزل	قَزِلَ	فَعِلَ	6	لازم	أَقْزَلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-94cac72cc4	قسب	قَسُبَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c5bc0b50e0	قسم	قَسُمَ	فَعُلَ	3	لازم	قَسِيمٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-024e41900f	قشب	قَشُبَ	فَعُلَ	4	لازم	قَشِيبٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-a6080418ed	قطف	قَطُفَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-64ddd45935	كرس	كَرِسَ	فَعِلَ	2	لازم	كَرِس	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-3f79127dc2	كره	كَرُهَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-9adf00613c	كمش	كَمُشَ	فَعُلَ	7	مشترك	كَمْشَّ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-49425f25b1	لجب	لَجُبَ	فَعُلَ	7	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b1a35297e8	لحز	لَحِزَ	فَعِلَ	2	لازم	لَحِزٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-fd1891e866	لزب	لَزُبَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-4dda1bebef	محت	مَحُتَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-f1105e9971	محض	مَحُضَ	فَعُلَ	2	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2541f2029d	مذل	مَذُلَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-22f2196d47	مرع	مَرُعَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-c699f80251	معن	مَعُنَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-caa0a4f241	مهن	مَهُنَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-5128146784	نحض	نَحُضَ	فَعُلَ	4	لازم	نحيضٌ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-e55a46684e	ندب	نَدُبَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-c0577f0d26	ندس	نَدِسَ	فَعِلَ	5	لازم	نَدْسٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-c3cb8ec283	نزر	نَزُرَ	فَعُلَ	9	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-90d16fcafd	نزع	نَزِعَ	فَعِلَ	5	لازم	أنزَع	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-0a858bbb91	نزق	نَزِقَ	فَعِلَ	7	لازم	نَزِق	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-c00ee2b532	نزل	نَزِلَ	فَعِلَ	5	لازم	نَزِلّ	فعل3	MAHALL	أَنْزَلَ	T_JAL	sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-9eec372a1e	نزه	نَزُهَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-5eadbdbf79	خزل	خَزِلَ	فَعِلَ	4	لازم	أَخْزَلُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-7deb8d6082	نسك	نَسُكَ	فَعُلَ	2	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-98444ba808	خزن	خَزُنَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2cb10eaedd	نعم	نَعُمَ	فَعُلَ	3	لازم	ناعِم	فاعل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-4de4a2ef9f	نفخ	نَفِخَ	فَعِلَ	3	لازم	أَنْفَخِ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-de7f99480a	نفس	نَفُسَ	فَعُلَ	6	لازم	نَفيس	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-7117a610d1	نقب	نَقُبَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-4d7d26efd9	نقد	نَقِدَ	فَعِلَ	2	لازم	نَقِدٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-fb4080e552	نقر	نَقِرَ	فَعِلَ	5	لازم	نَقِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-ba6a2c0357	نقص	نَقُصَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-ef2d3691a6	نقل	نَقِلَ	فَعِلَ	2	لازم	نَقِلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-bacb6680ce	نهك	نَهُكَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-7006c2a742	هرع	هَرِعَ	فَعِلَ	4	لازم	هَرِعُ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-715c48ace0	خضل	خَضِلَ	فَعِلَ	4	لازم	خَضَلٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-e95efd3901	خفض	خَفُضَ	فَعُلَ	3	مشترك	خَفْضُ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-00a109d03a	رسب	رَسُبَ	فَعُلَ	3	غير معلوم			MAHALL	أَرْسَبَ	T_JAL	sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-d26e0ec8e6	رصف	رَصُفَ	فَعُلَ	2	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-8475d8b402	رصن	رَصُنَ	فَعُلَ	5	لازم	رَصِينُ	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-01970056cc	رعن	رَعُنَ	فَعُلَ	5	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-cf71a5c766	رهف	رَهُفَ	فَعُلَ	3	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-c4e07ccf55	زرق	زَرِقَ	فَعِلَ	5	لازم	أَزرق	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-bb74e672e8	سلط	سَلِطَ	فَعِلَ	2	لازم	سَلِطٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-9a9c196493	سهل	سَهُلَ	فَعُلَ	4	لازم	سَهْل	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-88872961cf	قوي	قَوِيَ	فَعِلَ	5	لازم	قَوىٌّ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-876e63392f	لود	لَوِدَ	فَعِلَ	2	لازم	ألْوَدُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-b7a23d192b	مءج	مَؤُجَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-6138ad1a40	مهو	مَهُوَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-8597c381e9	هجو	هَجُوَ	فَعُلَ	2	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-481945d308	وبط	وَبُطَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-3ebec0bac2	وكع	وَكُعَ	فَعُلَ	6	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-44eae4837a	دهو	دَهُوَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-0ff5533cb4	رءف	رَؤُفَ	فَعُلَ	4	لازم	رءوف	فعول	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-4e60826c0d	سخو	سَخُوَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-9e20d96fe4	سود	سَوِدَ	فَعِلَ	4	لازم	أسوَدُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-f0cc993704	ءجن	أَجُنَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-743bbc08c9	ءدب	أَدُبَ	فَعُلَ	6	لازم	أَديب	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-50937a401d	ءمو	أَمُوَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-8f2b5b3775	بءل	بَؤُلَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-d0e3afb8c8	بذو	بَذُوَ	فَعُلَ	3	لازم	بَذِيٌّ		MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-87badf2e90	بلت	بَلُتَ	فَعُلَ	2	لازم	بليت	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-6c7c3b7eb4	تءق	تَئِقَ	فَعِلَ	4	لازم	تَئِقَ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-eb746f3426	ثدي	ثَدِيَ	فَعِلَ	2	لازم	ثَدْياءُ	فعلاء	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_DAA	HFN-E-1d6c43fee5	جءز	جَئِزَ	فَعِلَ	2	لازم	جَئِز	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-26d02b483d	جحم	جَحُمَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2c62c37bbf	جدب	جَدُبَ	فَعُلَ	7	لازم	جَدْبٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-b5ad74594b	حمت	حَمِتَ	فَعِلَ	4	لازم	حَمِتٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-4587f8fc28	حمت	حَمُتَ	فَعُلَ	3	لازم	حَمِتٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-156e90370d	حوس	حَوِسَ	فَعِلَ	2	لازم	أَحْوَسُ	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-75c25b5339	شبع	شَبُعَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-6ed4d07479	شحب	شَحُبَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2ea489f345	شحم	شَحُمَ	فَعُلَ	2	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-2b7a013c3c	شخت	شَخُتَ	فَعُلَ	5	لازم	شَخْتٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-0a78b9318c	شقر	شَقِرَ	فَعِلَ	5	لازم	شَقِرٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-29c9359561	شقن	شَقُنَ	فَعُلَ	3	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_DAA	HFN-E-021d80933d	شكم	شَكِمَ	فَعِلَ	2	لازم	شَكِمٌ	فعل3	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE
+J_SAJIYYA	HFN-E-2e24a7e756	شهم	شَهُمَ	فَعُلَ	4	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-f3f8d36c18	شهو	شَهُوَ	فَعُلَ	2	لازم	شَهِىٌّ		MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-cd8b6f68d4	صعب	صَعُبَ	فَعُلَ	6	لازم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-545fc27286	ضءل	ضَؤُلَ	فَعُلَ	4	غير معلوم			MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-ce551e7cd0	ضخم	ضَخُمَ	فَعُلَ	6	لازم	ضَخْمٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-9529198fce	عجف	عَجُفَ	فَعُلَ	3	لازم	عجيف	فعيل	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_SAJIYYA	HFN-E-3e90062574	عضب	عَضُبَ	فَعُلَ	4	لازم	عَضْبٌ	فعل3	MAHALL			sibawayhi.txt:16143–16144	CANDIDATE
+J_MUTAWAA	HFN-E-a5d666efcb	شقق	انْشَقَّ	انْفَعَلَ	5				MAHALL	شَقَّ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-de3f4e22a6	بيض	ابْيَضَّ	افْعَلَّ	4				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-1200d6cef5	فضض	انْفَضَّ	انْفَعَلَ	3				MAHALL	فَضَّ	R1	sibawayhi.txt:16543	CANDIDATE
+J_LAWN	HFN-E-a302d4777f	سود	اسْوَدَّ	افْعَلَّ	5				MAHALL			sibawayhi.txt:16108–16116	CANDIDATE
+J_MUTAWAA	HFN-E-1f199bfef0	هور	انْهَارَ	انْفَعَلَ	6				MAHALL	هَارَ	R1	sibawayhi.txt:16543	CANDIDATE
+J_MUTAWAA	HFN-E-841a2ab49d	قضض	انْقَضَّ	انْفَعَلَ	3				MAHALL	قَضَّ	R1	sibawayhi.txt:16543	CANDIDATE
+J_DAA	HFN-E-27320a4796	قدر	قَدِرَ	فَعِلَ	2	لازم	أَقْدر	أفعل	MAHALL			sibawayhi.txt:16016؛ 16108	CANDIDATE

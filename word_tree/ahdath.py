@@ -94,3 +94,33 @@ def for_root(root: str) -> list[dict]:
 def summary() -> dict:
     from collections import Counter
     return dict(Counter(x["route"] for x in _table()))
+
+
+# ── جهة الفاعل: محدِث أم محلّ قام به الحدث (ahdath/jiha.py) ─────────────────────
+# السند: الصبّان (sabban.txt:2228–2229) «من وجد منه الفعل أو قام به … كضربت ومت».
+# المقبول بالقياس (CLAUDE، ويلسون ≥ 0.78) وحده؛ المحجوب: J_LAWN (0.742، الحوض 30 فقط)، J_MUTAWAA (0.656).
+JIHA_ROUTES = {
+    "J_SAJIYYA": {"wilson_low": 0.890, "p": 1.0, "src": "الكتاب:16143–16144",
+                  "label_ar": "فَعُلَ: الفاعل موصوف بخصلة قامت به، لا محدِث"},
+    "J_DAA": {"wilson_low": 0.871, "p": 0.975, "src": "الكتاب:16016؛ 16108",
+              "label_ar": "فَعِلَ لازم صفته فَعِل/أفعل/فعلان: الفاعل محلّ داء أو حال"},
+}
+
+
+@lru_cache(maxsize=1)
+def _jiha() -> dict:
+    idx: dict[str, list[dict]] = {}
+    for r in _rows("jiha_pool.tsv"):
+        if r["route"] not in JIHA_ROUTES:
+            continue
+        x = dict(route=r["route"], verb=r["verb"], event_id=r["event_id"], root=r["root"], jiha=r["jiha"],
+                 musabbib_verb=r["musabbib_verb"], musabbib_route=r["musabbib_route"], sifa=r["sifa"],
+                 src=JIHA_ROUTES[r["route"]]["src"], label_ar=JIHA_ROUTES[r["route"]]["label_ar"], rank="CANDIDATE")
+        idx.setdefault(_bare(r["verb"]), []).append(x)
+    return idx
+
+
+def jiha(verb: str) -> list[dict]:
+    """جهة فاعل الفعل في المسالك المقبولة: jiha='MAHALL' (الفاعل محلّ قام به الحدث).
+    musabbib_verb: الفعل الذي يُظهر المسبِّب فاعلاً إن وُجد في مسلك مقبول (T_JAL/R1/R1W)."""
+    return [dict(x) for x in _jiha().get(_bare(verb), [])]

@@ -1,0 +1,41 @@
+route	event_id	verb	label	judge	note
+J_MUTAWAA	HFN-E-707bc19048	انْقَطَعَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-df5edc8e2a	انْشَرَثَ	DEFER	CLAUDE	لا نصّ في الوسيط أو المعنى غير بيّن
+J_MUTAWAA	HFN-E-253e6414c2	انْحَسَمَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-cf0e1b3f04	انْذَءَجَ	DEFER	CLAUDE	لا نصّ في الوسيط أو المعنى غير بيّن
+J_MUTAWAA	HFN-E-a852834740	انْعَتَلَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-0d42a84b62	انْخَنَقَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-65923fe771	انْصَلَعَ	DEFER	CLAUDE	لا نصّ في الوسيط أو المعنى غير بيّن
+J_MUTAWAA	HFN-E-0cac144b1e	انْصَلَتَ	MUHDITH	CLAUDE	جدّ وسبق في سيره
+J_MUTAWAA	HFN-E-7bce890511	انْبَعَقَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-84e3398ed8	انْفَلَقَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-d6768cb4ba	انْغَرَفَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-15a7325ec8	انْطَمَسَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-48c345a918	انْفَلَتَ	MUHDITH	CLAUDE	تخلّص ونجا
+J_MUTAWAA	HFN-E-8566518d96	انْضَرَجَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-b33e1fafda	انْحَضَجَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-db92cb5e5f	انْحَسَرَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-1a325a15c9	انْهَجَمَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-72b6eb8ab5	انْضَبَحَ	DEFER	CLAUDE	لا نصّ في الوسيط أو المعنى غير بيّن
+J_MUTAWAA	HFN-E-431cf3b6e4	انْسَتَرَ	MUHDITH	CLAUDE	استتر
+J_MUTAWAA	HFN-E-77ee11319e	انْفَشَحَ	DEFER	CLAUDE	لا نصّ في الوسيط أو المعنى غير بيّن
+J_MUTAWAA	HFN-E-a21ffa84ba	انْجَفَلَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-c9aac2701d	انْبَقَرَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-cbddda3a2f	انْمَلَصَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-dd97de7489	انْصَهَرَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-df41ca9ba9	انْسَفَرَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-eab6b2ad5a	انْغَمَسَ	MUHDITH	CLAUDE	اغتمس
+J_MUTAWAA	HFN-E-9182cc7fe0	انْعَدَلَ	DEFER	CLAUDE	لا نصّ في الوسيط أو المعنى غير بيّن
+J_MUTAWAA	HFN-E-76de77a611	انْفَتَلَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-c04bf292aa	انْجَزَرَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-8a15afa4ec	انْقَصَفَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-b008bc9164	انْفَرَدَ	MUHDITH	CLAUDE	استبدّ بالأمر
+J_MUTAWAA	HFN-E-080b6aa47c	انْبَلَقَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-94c0cf1329	انْعَقَفَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-4ee2015739	انْشَتَرَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-78194c9830	انْعَزَلَ	MUHDITH	CLAUDE	تنحّى
+J_MUTAWAA	HFN-E-a389a28435	انْعَصَبَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-00d1beaf46	انْخَزَعَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-ac1888a855	انْخَزَلَ	MAHALL	CLAUDE	
+J_MUTAWAA	HFN-E-581c2b2b47	انْسَبَتَ	DEFER	CLAUDE	لا نصّ في الوسيط أو المعنى غير بيّن
+J_MUTAWAA	HFN-E-480f46ef2c	انْقَعَشَ	MAHALL	CLAUDE	

@@ -268,3 +268,22 @@ def test_27_word_tree_adapter_accepted_only():
     k = WA.for_verb("كَسَرَ")
     assert any(x["route"] == "R1" and x["maful"] == "مَكْسُور" and x["athar"] == "انْكِسَار" for x in k)
     assert all(x["rank"] == "CANDIDATE" for x in WA._table())
+
+
+def test_28_jiha_measured():
+    """جهة الفاعل: J_SAJIYYA وJ_DAA مقبولان (ويلسون ≥ 0.78)، وJ_LAWN وJ_MUTAWAA محجوبان (انفرد، انعزل: فاعلهما محدِث)."""
+    sys.path.insert(0, os.path.join(ROOT, "ahdath"))
+    import jiha as J
+    s = J.score()
+    assert s["J_SAJIYYA"]["verdict"] == "ACCEPT" and s["J_DAA"]["verdict"] == "ACCEPT"
+    assert s["J_LAWN"]["verdict"] == "BLOCK" and s["J_MUTAWAA"]["verdict"] == "BLOCK"
+    g = {r["verb"]: r["label"] for r in _rows("jiha_gold_J_MUTAWAA.tsv")}
+    assert g["انْفَرَدَ"] == "MUHDITH" and g["انْقَطَعَ"] == "MAHALL"
+
+
+def test_29_word_tree_jiha_accepted_only():
+    """word_tree.ahdath.jiha يقرأ المقبول وحده؛ حَسُنَ فاعله محلّ؛ ولا يُعرض انفعل ولا افعلّ."""
+    from word_tree import ahdath as WA
+    assert any(x["jiha"] == "MAHALL" and x["route"] == "J_SAJIYYA" for x in WA.jiha("حَسُنَ"))
+    assert WA.jiha("انْكَسَرَ") == [] and WA.jiha("احْمَرَّ") == []
+    assert any(x["musabbib_verb"] == "أَضْجَرَ" for x in WA.jiha("ضَجِرَ"))
