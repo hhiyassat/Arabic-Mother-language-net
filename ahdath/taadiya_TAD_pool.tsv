@@ -1,0 +1,505 @@
+route	base_event	base	base_form	base_trans_wasit	base_harf	sifa	sifa_kind	sifa_src	event_id	verb	form	n_lex	verb_trans_hfn	verb_senses_wasit	fail	maful	maful_src	rank	text_phrase	text_src
+T_TAD	HFN-E-7ae37ebe7b	بَتِلَ	فَعِلَ	لازم		بَاتِل	FAIL	QIYAS	HFN-E-e2affda131	بَتَّلَ	فَعَّلَ	4			مُبَتِّل	مُبَتَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ed3e824422	بَجَمَ	فَعَلَ	لازم		بَاجِم	FAIL	QIYAS	HFN-E-b90a20a6eb	بَجَّمَ	فَعَّلَ	2			مُبَجِّم	مُبَجَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ddb8fa1b73	بَدِلَ	فَعِلَ	لازم		بَدِلٌ	THUBUT	SIFAT	HFN-E-f9a1b15648	بَدَّلَ	فَعَّلَ	7			مُبَدِّل	مُبَدَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8da3c2134e	بَرَزَ	فَعَلَ	لازم		بَارِز	FAIL	QIYAS	HFN-E-edeb203e41	بَرَّزَ	فَعَّلَ	7			مُبَرِّز	مُبَرَّز	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e02e510360	بَرُزَ	فَعُلَ	لازم		بَرْزٌ	THUBUT	SIFAT	HFN-E-edeb203e41	بَرَّزَ	فَعَّلَ	7			مُبَرِّز	مُبَرَّز	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fce5f56f06	بَرِقَ	فَعِلَ	لازم		أَبرق	THUBUT	SIFAT	HFN-E-13fff67c80	بَرَّقَ	فَعَّلَ	4			مُبَرِّق	مُبَرَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6008470783	بَرَكَ	فَعَلَ	لازم	على	بَرُوكٌ	THUBUT	SIFAT	HFN-E-a41c3a44fb	بَرَّكَ	فَعَّلَ	4			مُبَرِّك	مُبَرَّك	QIYAS	CANDIDATE		
+T_TAD	HFN-E-10fe46f3b5	بَشِرَ	فَعِلَ	لازم	ب	بَاشِر	FAIL	QIYAS	HFN-E-15e7d07d2b	بَشَّرَ	فَعَّلَ	4			مُبَشِّر	مُبَشَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-34415c5e2a	بَشُرَ	فَعُلَ	لازم		بشير	THUBUT	SIFAT	HFN-E-15e7d07d2b	بَشَّرَ	فَعَّلَ	4			مُبَشِّر	مُبَشَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0015b72e7f	بَعِدَ	فَعِلَ	لازم	في	بَاعِد	FAIL	QIYAS	HFN-E-36ea083b62	بَعَّدَ	فَعَّلَ	4			مُبَعِّد	مُبَعَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ec72bd9ec5	بَعُدَ	فَعُلَ	لازم		بَعيد	THUBUT	SIFAT	HFN-E-36ea083b62	بَعَّدَ	فَعَّلَ	4			مُبَعِّد	مُبَعَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-289c159fba	بَغُلَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-935b639582	بَغَّلَ	فَعَّلَ	4			مُبَغِّل	مُبَغَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-88d7cc3478	بَقِرَ	فَعِلَ	لازم		بَاقِر	FAIL	QIYAS	HFN-E-2525d1425b	بَقَّرَ	فَعَّلَ	4			مُبَقِّر	مُبَقَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ba5af879ea	بَقَلَ	فَعَلَ	لازم		بَاقِل	FAIL	QIYAS	HFN-E-f75ea412ca	بَقَّلَ	فَعَّلَ	5			مُبَقِّل	مُبَقَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6b3c73359d	بَكَرَ	فَعَلَ	لازم		بَاكِر	FAIL	QIYAS	HFN-E-d1c0f4133e	بَكَّرَ	فَعَّلَ	8			مُبَكِّر	مُبَكَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b86900269d	بَكِرَ	فَعِلَ	لازم		بَاكِر	FAIL	QIYAS	HFN-E-d1c0f4133e	بَكَّرَ	فَعَّلَ	8			مُبَكِّر	مُبَكَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-61d184fcfe	بَلَحَ	فَعَلَ	لازم		بَالِح	FAIL	QIYAS	HFN-E-d0317bc0db	بَلَّحَ	فَعَّلَ	5			مُبَلِّح	مُبَلَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-04fa98b43b	بَلَدَ	فَعَلَ	لازم	ب	بَالِدٌ	HUDUTH	SIFAT	HFN-E-68cc9cda83	بَلَّدَ	فَعَّلَ	5			مُبَلِّد	مُبَلَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b02576b6b8	بَلِدَ	فَعِلَ	لازم		بَالِد	FAIL	QIYAS	HFN-E-68cc9cda83	بَلَّدَ	فَعَّلَ	5			مُبَلِّد	مُبَلَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ed49543256	بَلُدَ	فَعُلَ	لازم		بَالِد	FAIL	QIYAS	HFN-E-68cc9cda83	بَلَّدَ	فَعَّلَ	5			مُبَلِّد	مُبَلَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1f0910c459	بَلَعَ	فَعَلَ	لازم	في	بالِعُ	HUDUTH	SIFAT	HFN-E-ef7398c3c9	بَلَّعَ	فَعَّلَ	4			مُبَلِّع	مُبَلَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a918a4ebe6	بَلِعَ	فَعِلَ	لازم		بَالِع	FAIL	QIYAS	HFN-E-ef7398c3c9	بَلَّعَ	فَعَّلَ	4			مُبَلِّع	مُبَلَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8506e3fc86	تَبِنَ	فَعِلَ	لازم		تَبِنَ	THUBUT	SIFAT	HFN-E-17c395b393	تَبَّنَ	فَعَّلَ	5			مُتَبِّن	مُتَبَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-85ae11fd13	تَرِبَ	فَعِلَ	لازم		ترِبٌ	THUBUT	SIFAT	HFN-E-c9375661d7	تَرَّبَ	فَعَّلَ	7			مُتَرِّب	مُتَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-067e5dd9e3	تَرُصَ	فَعُلَ	لازم		تارص	THUBUT	SIFAT	HFN-E-1c4088b4a7	تَرَّصَ	فَعَّلَ	4			مُتَرِّص	مُتَرَّص	QIYAS	CANDIDATE		
+T_TAD	HFN-E-feaeb65df3	تَرِعَ	فَعِلَ	لازم		تَرِعُ	THUBUT	SIFAT	HFN-E-bab87c8a0b	تَرَّعَ	فَعَّلَ	2			مُتَرِّع	مُتَرَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-aad73021a4	تَرِفَ	فَعِلَ	لازم		تَرِفٌ	THUBUT	SIFAT	HFN-E-0a38e2eeb9	تَرَّفَ	فَعَّلَ	4			مُتَرِّف	مُتَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-00e7ef7fcc	تَلَدَ	فَعَلَ	لازم		تَالِد	FAIL	QIYAS	HFN-E-d5e4263630	تَلَّدَ	فَعَّلَ	3			مُتَلِّد	مُتَلَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d4cee327bb	ثَبِجَ	فَعِلَ	لازم		أَثْبَجُ	THUBUT	SIFAT	HFN-E-8389047253	ثَبَّجَ	فَعَّلَ	4			مُثَبِّج	مُثَبَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-13a2c98806	ثَمَرَ	فَعَلَ	لازم	ل	ثَامِر	FAIL	QIYAS	HFN-E-b468f4bb5e	ثَمَّرَ	فَعَّلَ	4			مُثَمِّر	مُثَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-00b834e470	جَدِرَ	فَعِلَ	لازم		جَادِر	FAIL	QIYAS	HFN-E-bf55bd0ae7	جَدَّرَ	فَعَّلَ	4			مُجَدِّر	مُجَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-54e424dc16	جَرِبَ	فَعِلَ	لازم		أَجْرَب	THUBUT	SIFAT	HFN-E-eddcaed024	جَرَّبَ	فَعَّلَ	7			مُجَرِّب	مُجَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-77b91c9786	جَرِدَ	فَعِلَ	لازم		أَجرد	THUBUT	SIFAT	HFN-E-8966821d4f	جَرَّدَ	فَعَّلَ	7			مُجَرِّد	مُجَرَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-51a0d63ba7	جَزِعَ	فَعِلَ	لازم		جَزِعَ	THUBUT	SIFAT	HFN-E-7056386bac	جَزَّعَ	فَعَّلَ	5			مُجَزِّع	مُجَزَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7144a7054a	جَفَرَ	فَعَلَ	لازم	من	جَافِر	FAIL	QIYAS	HFN-E-acb6a7ee85	جَفَّرَ	فَعَّلَ	3			مُجَفِّر	مُجَفَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-62afd888e1	جَلِبَ	فَعِلَ	لازم		جَالِب	FAIL	QIYAS	HFN-E-e5d58a6aa7	جَلَّبَ	فَعَّلَ	5			مُجَلِّب	مُجَلَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e8026e2790	جَنَبَ	فَعَلَ	لازم	في	جَانِب	FAIL	QIYAS	HFN-E-d6eef8c382	جَنَّبَ	فَعَّلَ	8			مُجَنِّب	مُجَنَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6929ab1bef	جَنَبَ	فَعَلَ	لازم	في	جَانِب	FAIL	QIYAS	HFN-E-d6eef8c382	جَنَّبَ	فَعَّلَ	8			مُجَنِّب	مُجَنَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b05eaa225c	جَنِبَ	فَعِلَ	لازم		جنِب	THUBUT	SIFAT	HFN-E-d6eef8c382	جَنَّبَ	فَعَّلَ	8			مُجَنِّب	مُجَنَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2544df8420	جَنُبَ	فَعُلَ	لازم		جَنِيب	THUBUT	SIFAT	HFN-E-d6eef8c382	جَنَّبَ	فَعَّلَ	8			مُجَنِّب	مُجَنَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8bd2e36777	جَهَزَ	فَعَلَ	لازم	على	جَاهِز	FAIL	QIYAS	HFN-E-c7f2460831	جَهَّزَ	فَعَّلَ	6			مُجَهِّز	مُجَهَّز	QIYAS	CANDIDATE		
+T_TAD	HFN-E-945d54adec	حَجَلَ	فَعَلَ	لازم		حَاجِل	FAIL	QIYAS	HFN-E-5819ab274c	حَجَّلَ	فَعَّلَ	3			مُحَجِّل	مُحَجَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ecf2945186	حَدَثَ	فَعَلَ	لازم		حَادِث	FAIL	QIYAS	HFN-E-1501222edf	حَدَّثَ	فَعَّلَ	3			مُحَدِّث	مُحَدَّث	QIYAS	CANDIDATE		
+T_TAD	HFN-E-94a3e17f1d	حَرِبَ	فَعِلَ	لازم		حَارِب	FAIL	QIYAS	HFN-E-ac698b3991	حَرَّبَ	فَعَّلَ	6			مُحَرِّب	مُحَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-191e8ae639	حَرِدَ	فَعِلَ	لازم	على	حَرِدٌ	THUBUT	SIFAT	HFN-E-0bb2f8a280	حَرَّدَ	فَعَّلَ	4			مُحَرِّد	مُحَرَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c2de85d23d	حَرِقَ	فَعِلَ	لازم		حَرِقٌ	THUBUT	SIFAT	HFN-E-ba9386112f	حَرَّقَ	فَعَّلَ	5			مُحَرِّق	مُحَرَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-67765a3110	حَصِبَ	فَعِلَ	لازم		محْصُوب	OTHER	SIFAT	HFN-E-1980cedde4	حَصَّبَ	فَعَّلَ	5			مُحَصِّب	مُحَصَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d06b2d6504	حَمِرَ	فَعِلَ	لازم		حَمِر	THUBUT	SIFAT	HFN-E-ead57dd96f	حَمَّرَ	فَعَّلَ	3			مُحَمِّر	مُحَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-bd16eb0ce5	حَمَضَ	فَعَلَ	لازم		حَامِض	FAIL	QIYAS	HFN-E-0c9551095e	حَمَّضَ	فَعَّلَ	2			مُحَمِّض	مُحَمَّض	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ad67cce31c	حَنِبَ	فَعِلَ	لازم		أَحْنَبُ	THUBUT	SIFAT	HFN-E-42bf7545df	حَنَّبَ	فَعَّلَ	2			مُحَنِّب	مُحَنَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-20a3932b83	حَنِطَ	فَعِلَ	لازم		أَحْنَطْ	THUBUT	SIFAT	HFN-E-ad6cc3b62f	حَنَّطَ	فَعَّلَ	4			مُحَنِّط	مُحَنَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ca1522f446	حَنَطَ	فَعَلَ	لازم		حانطٌ	HUDUTH	SIFAT	HFN-E-ad6cc3b62f	حَنَّطَ	فَعَّلَ	4			مُحَنِّط	مُحَنَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-014e61e9ce	خَرَجَ	فَعَلَ	لازم	ب	خارج	HUDUTH	SIFAT	HFN-E-bc05bf9c04	خَرَّجَ	فَعَّلَ	6			مُخَرِّج	مُخَرَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-09fb8bb781	خَرِجَ	فَعِلَ	لازم		أَخرجُ	THUBUT	SIFAT	HFN-E-bc05bf9c04	خَرَّجَ	فَعَّلَ	6			مُخَرِّج	مُخَرَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b00eec5356	خَرِسَ	فَعِلَ	لازم		أَخْرَسُ	THUBUT	SIFAT	HFN-E-4d20b5b424	خَرَّسَ	فَعَّلَ	5			مُخَرِّس	مُخَرَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c9b55ad712	خَلَدَ	فَعَلَ	لازم		خَالِد	FAIL	QIYAS	HFN-E-f61011061f	خَلَّدَ	فَعَّلَ	6			مُخَلِّد	مُخَلَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fbf418e0da	خَلَصَ	فَعَلَ	لازم		خالِصٌ	HUDUTH	SIFAT	HFN-E-f0950d21df	خَلَّصَ	فَعَّلَ	6			مُخَلِّص	مُخَلَّص	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e1234bbd28	خَلِصَ	فَعِلَ	لازم		خَالِص	FAIL	QIYAS	HFN-E-f0950d21df	خَلَّصَ	فَعَّلَ	6			مُخَلِّص	مُخَلَّص	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9b6bc4e55e	خَلِفَ	فَعِلَ	لازم		أخلف	THUBUT	SIFAT	HFN-E-23c44141b4	خَلَّفَ	فَعَّلَ	5			مُخَلِّف	مُخَلَّف	QIYAS	CANDIDATE	جعله خلفه	WASIT_JAL_SAYR
+T_TAD	HFN-E-bcc69d96bb	خَيِطَ	فَعِلَ	لازم		أَخْبَطُ	OTHER	SIFAT	HFN-E-574fa85c31	خَيَّطَ	فَعَّلَ	5					QIYAS	CANDIDATE		
+T_TAD	HFN-E-4935a5f83d	دَبِرَ	فَعِلَ	لازم		دَبِرٌ	THUBUT	SIFAT	HFN-E-8f8739a786	دَبَّرَ	فَعَّلَ	5			مُدَبِّر	مُدَبَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d307060ce7	دَثَرَ	فَعَلَ	لازم		دَاثِر	FAIL	QIYAS	HFN-E-c78107d8d5	دَثَّرَ	فَعَّلَ	4			مُدَثِّر	مُدَثَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e9e37b60e6	دَرِبَ	فَعِلَ	لازم	ب	دارِب	HUDUTH	SIFAT	HFN-E-b0cd390167	دَرَّبَ	فَعَّلَ	7			مُدَرِّب	مُدَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-185f9d2356	دَلِهَ	فَعِلَ	لازم	عن	دَلُوه	THUBUT	SIFAT	HFN-E-8ab6e72cde	دَلَّهَ	فَعَّلَ	4			مُدَلِّه	مُدَلَّه	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c1123c3638	دَلَهَ	فَعَلَ	لازم		دَالِه	FAIL	QIYAS	HFN-E-8ab6e72cde	دَلَّهَ	فَعَّلَ	4			مُدَلِّه	مُدَلَّه	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ecdbe1d925	دَمِثَ	فَعِلَ	لازم		دَمِثْ	THUBUT	SIFAT	HFN-E-0027bd8b1f	دَمَّثَ	فَعَّلَ	4			مُدَمِّث	مُدَمَّث	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7b8ee9f44e	دَمُثَ	فَعُلَ	لازم		دميثٌ	THUBUT	SIFAT	HFN-E-0027bd8b1f	دَمَّثَ	فَعَّلَ	4			مُدَمِّث	مُدَمَّث	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1ba992166a	دَمِنَ	فَعِلَ	لازم	على	دَامِن	FAIL	QIYAS	HFN-E-143363bdfd	دَمَّنَ	فَعَّلَ	4			مُدَمِّن	مُدَمَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-65dee94a8a	دَنَحَ	فَعَلَ	لازم		دَانِح	FAIL	QIYAS	HFN-E-83c630d06b	دَنَّحَ	فَعَّلَ	3			مُدَنِّح	مُدَنَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-cc26fe832c	دَنِسَ	فَعِلَ	لازم		دَنِسٌ	THUBUT	SIFAT	HFN-E-01b6cbc7da	دَنَّسَ	فَعَّلَ	5			مُدَنِّس	مُدَنَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e6f940426a	ذَئِبَ	فَعِلَ	لازم		ذَاءِب	FAIL	QIYAS	HFN-E-ea4df96e5a	ذَءَّبَ	فَعَّلَ	3					QIYAS	CANDIDATE		
+T_TAD	HFN-E-cd54179158	ذَرِعَ	فَعِلَ	لازم		ذَرِعٌ	THUBUT	SIFAT	HFN-E-9b3f7167e9	ذَرَّعَ	فَعَّلَ	4			مُذَرِّع	مُذَرَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9afe567e99	ذَرَفَ	فَعَلَ	لازم		مَذْرُوفٌ	OTHER	SIFAT	HFN-E-e9ce228da9	ذَرَّفَ	فَعَّلَ	5			مُذَرِّف	مُذَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fbda517937	ذَرِفَ	فَعِلَ	لازم		ذَارِف	FAIL	QIYAS	HFN-E-e9ce228da9	ذَرَّفَ	فَعَّلَ	5			مُذَرِّف	مُذَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2be0027548	رَتِلَ	فَعِلَ	لازم		رَتِل	THUBUT	SIFAT	HFN-E-262a6924de	رَتَّلَ	فَعَّلَ	5			مُرَتِّل	مُرَتَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-160682e8f6	رَجَعَ	فَعَلَ	لازم	في	رَاجِع	FAIL	QIYAS	HFN-E-d52e2bcb5b	رَجَّعَ	فَعَّلَ	6			مُرَجِّع	مُرَجَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c9323b741d	رَحُبَ	فَعُلَ	لازم		رَحْب	THUBUT	SIFAT	HFN-E-2549dfdd98	رَحَّبَ	فَعَّلَ	3			مُرَحِّب	مُرَحَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-29d97ef9b5	رَحِبَ	فَعِلَ	لازم		رَحْب	THUBUT	SIFAT	HFN-E-2549dfdd98	رَحَّبَ	فَعَّلَ	3			مُرَحِّب	مُرَحَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-95fe7f3397	رَزَمَ	فَعَلَ	لازم	ب	رَازِم	FAIL	QIYAS	HFN-E-41a2e79fa8	رَزَّمَ	فَعَّلَ	7			مُرَزِّم	مُرَزَّم	QIYAS	CANDIDATE	جعلها رزما	WASIT_JAL_SAYR
+T_TAD	HFN-E-24e8052666	رَشَحَ	فَعَلَ	لازم		رَاشِح	FAIL	QIYAS	HFN-E-9d1d14ac00	رَشَّحَ	فَعَّلَ	4			مُرَشِّح	مُرَشَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9918fc6e2e	رَطِبَ	فَعِلَ	لازم		رَطْبٌ	THUBUT	SIFAT	HFN-E-b33b82878b	رَطَّبَ	فَعَّلَ	8			مُرَطِّب	مُرَطَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b71f0c4ae5	رَطُبَ	فَعُلَ	لازم		رَطْب	THUBUT	SIFAT	HFN-E-b33b82878b	رَطَّبَ	فَعَّلَ	8			مُرَطِّب	مُرَطَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1a8cdc2c79	رَقِشَ	فَعِلَ	لازم		أَرْقَشُ	THUBUT	SIFAT	HFN-E-0a8ded99a3	رَقَّشَ	فَعَّلَ	4			مُرَقِّش	مُرَقَّش	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b653e7058e	رَمَجَ	فَعَلَ	لازم		رَامِج	FAIL	QIYAS	HFN-E-a095c09a3b	رَمَّجَ	فَعَّلَ	3			مُرَمِّج	مُرَمَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-955496d608	رَمَدَ	فَعَلَ	لازم		رَامِد	FAIL	QIYAS	HFN-E-d7e4d123d9	رَمَّدَ	فَعَّلَ	6			مُرَمِّد	مُرَمَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5dce58abe7	رَمِدَ	فَعِلَ	لازم		أَرْمَدُ	THUBUT	SIFAT	HFN-E-d7e4d123d9	رَمَّدَ	فَعَّلَ	6			مُرَمِّد	مُرَمَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d4fa3ffc57	رَمُزَ	فَعُلَ	لازم		رَمِيزٌ	THUBUT	SIFAT	HFN-E-6f0ccd0b8e	رَمَّزَ	فَعَّلَ	2			مُرَمِّز	مُرَمَّز	QIYAS	CANDIDATE		
+T_TAD	HFN-E-cc826572bc	زَرَفَ	فَعَلَ	لازم	في	زَارِف	FAIL	QIYAS	HFN-E-c0050509e0	زَرَّفَ	فَعَّلَ	4			مُزَرِّف	مُزَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5b7794545a	زَرِفَ	فَعِلَ	لازم	في	زَارِف	FAIL	QIYAS	HFN-E-c0050509e0	زَرَّفَ	فَعَّلَ	4			مُزَرِّف	مُزَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-da6ff672ae	زَغِبَ	فَعِلَ	لازم		زَغِبٌ	THUBUT	SIFAT	HFN-E-aa83a028c1	زَغَّبَ	فَعَّلَ	5			مُزَغِّب	مُزَغَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-70046b0e7d	زَلِجَ	فَعِلَ	لازم		زلِج	THUBUT	SIFAT	HFN-E-5b7b3693d4	زَلَّجَ	فَعَّلَ	4			مُزَلِّج	مُزَلَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f3e5c1e5d6	زَنِدَ	فَعِلَ	لازم		زنِدَ	THUBUT	SIFAT	HFN-E-dd498c6b31	زَنَّدَ	فَعَّلَ	4			مُزَنِّد	مُزَنَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2755076b98	زَوِرَ	فَعِلَ	لازم		أَزْوَرُ	THUBUT	SIFAT	HFN-E-c2c2f4bcc4	زَوَّرَ	فَعَّلَ	7					QIYAS	CANDIDATE		
+T_TAD	HFN-E-3b06f2627c	سَبَدَ	فَعَلَ	لازم		سَابِد	FAIL	QIYAS	HFN-E-3831319b1e	سَبَّدَ	فَعَّلَ	7			مُسَبِّد	مُسَبَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6821d0daf3	سَرِحَ	فَعِلَ	لازم		سَارِح	FAIL	QIYAS	HFN-E-7d0a64cea8	سَرَّحَ	فَعَّلَ	8			مُسَرِّح	مُسَرَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d04904bef9	سَلَحَ	فَعَلَ	لازم		سالحٌ	HUDUTH	SIFAT	HFN-E-e5ea56f4dc	سَلَّحَ	فَعَّلَ	4			مُسَلِّح	مُسَلَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-21b6754988	سَلِمَ	فَعِلَ	لازم	من	سالِمٌ	HUDUTH	SIFAT	HFN-E-6dda4cd40f	سَلَّمَ	فَعَّلَ	6			مُسَلِّم	مُسَلَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0bd7cd4751	سَمُحَ	فَعُلَ	لازم		سَمْحٌ	THUBUT	SIFAT	HFN-E-32da59573c	سَمَّحَ	فَعَّلَ	6			مُسَمِّح	مُسَمَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-74f57dd147	سَمَدَ	فَعَلَ	لازم	عن	سَامِد	FAIL	QIYAS	HFN-E-18977cffa5	سَمَّدَ	فَعَّلَ	5			مُسَمِّد	مُسَمَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-61767120f0	سَنِمَ	فَعِلَ	لازم		سنِمُ	THUBUT	SIFAT	HFN-E-68a7788bd8	سَنَّمَ	فَعَّلَ	5			مُسَنِّم	مُسَنَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9a9c196493	سَهُلَ	فَعُلَ	لازم		سَهْل	THUBUT	SIFAT	HFN-E-73f391cbf3	سَهَّلَ	فَعَّلَ	3			مُسَهِّل	مُسَهَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-46c0b4aaf0	سَوِسَ	فَعِلَ	لازم		أَسْوَسُ	THUBUT	SIFAT	HFN-E-d027573645	سَوَّسَ	فَعَّلَ	5					QIYAS	CANDIDATE		
+T_TAD	HFN-E-a5b2c5bb14	شَبَرَ	فَعَلَ	لازم		شَابِر	FAIL	QIYAS	HFN-E-13f1d4f4ed	شَبَّرَ	فَعَّلَ	3			مُشَبِّر	مُشَبَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d6ac41b19e	شَرَدَ	فَعَلَ	لازم	عن	شارِد	HUDUTH	SIFAT	HFN-E-65bc033e03	شَرَّدَ	فَعَّلَ	7			مُشَرِّد	مُشَرَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5f9faf192d	شَرُفَ	فَعُلَ	لازم		شَرِيف	THUBUT	SIFAT	HFN-E-cd461fc106	شَرَّفَ	فَعَّلَ	3			مُشَرِّف	مُشَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f48ac1fdfb	شَعِبَ	فَعِلَ	لازم		أَشْعَب	THUBUT	SIFAT	HFN-E-5f494de0bd	شَعَّبَ	فَعَّلَ	6			مُشَعِّب	مُشَعَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ef8ec46eea	شَقُحَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-8265381065	شَقَّحَ	فَعَّلَ	4			مُشَقِّح	مُشَقَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e38cf2d679	شَوِعَ	فَعِلَ	لازم		شَاوِع	FAIL	QIYAS	HFN-E-905d18512c	شَوَّعَ	فَعَّلَ	2					QIYAS	CANDIDATE		
+T_TAD	HFN-E-9345c478ac	شَوِهَ	فَعِلَ	لازم		أَشْوَهُ	THUBUT	SIFAT	HFN-E-e26c69c888	شَوَّهَ	فَعَّلَ	4					QIYAS	CANDIDATE		
+T_TAD	HFN-E-de883e2e7a	صَبِحَ	فَعِلَ	لازم		أَصبَحُ	THUBUT	SIFAT	HFN-E-b0c6317e5d	صَبَّحَ	فَعَّلَ	6			مُصَبِّح	مُصَبَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a7914a29f3	صَبُحَ	فَعُلَ	لازم		صَبِيحٌ	THUBUT	SIFAT	HFN-E-b0c6317e5d	صَبَّحَ	فَعَّلَ	6			مُصَبِّح	مُصَبَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e480d81d3d	صَرِدَ	فَعِلَ	لازم	عن	صَارِد	FAIL	QIYAS	HFN-E-7007a05b10	صَرَّدَ	فَعَّلَ	4			مُصَرِّد	مُصَرَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3f439eff46	صَعِرَ	فَعِلَ	لازم		أَصْعَرُ	THUBUT	SIFAT	HFN-E-189036c0ee	صَعَّرَ	فَعَّلَ	5			مُصَعِّر	مُصَعَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-107973a909	صَفَرَ	فَعَلَ	لازم		صَافِر	FAIL	QIYAS	HFN-E-c5d853ab02	صَفَّرَ	فَعَّلَ	5			مُصَفِّر	مُصَفَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4e687e3fa5	صَفِرَ	فَعِلَ	لازم		صَفِر	THUBUT	SIFAT	HFN-E-c5d853ab02	صَفَّرَ	فَعَّلَ	5			مُصَفِّر	مُصَفَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7463dc7140	صَفُقَ	فَعُلَ	لازم		صَفِيقُ	THUBUT	SIFAT	HFN-E-27a6ea13c0	صَفَّقَ	فَعَّلَ	6			مُصَفِّق	مُصَفَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-27e6042d2a	صَلُبَ	فَعُلَ	لازم	على	صَالِب	FAIL	QIYAS	HFN-E-ef44e2a74b	صَلَّبَ	فَعَّلَ	5			مُصَلِّب	مُصَلَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-14051d2528	صَلَدَ	فَعَلَ	لازم		صَالِد	FAIL	QIYAS	HFN-E-7e6d64fc83	صَلَّدَ	فَعَّلَ	3			مُصَلِّد	مُصَلَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5fb25f0579	صَمَتَ	فَعَلَ	لازم		صَامِت	FAIL	QIYAS	HFN-E-e472af4a1d	صَمَّتَ	فَعَّلَ	4			مُصَمِّت	مُصَمَّت	QIYAS	CANDIDATE	جعله مصمتا	WASIT_JAL_SAYR
+T_TAD	HFN-E-c5f56a053a	صَمِرَ	فَعِلَ	لازم		صَمِر	THUBUT	SIFAT	HFN-E-6c84d37da9	صَمَّرَ	فَعَّلَ	2			مُصَمِّر	مُصَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-53f6ac468a	صَنَجَ	فَعَلَ	لازم		صَانِج	FAIL	QIYAS	HFN-E-2a2e8ea342	صَنَّجَ	فَعَّلَ	2			مُصَنِّج	مُصَنَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6f81250432	ضَرَطَ	فَعَلَ	لازم		ضَارِط	FAIL	QIYAS	HFN-E-1b9c8aec6e	ضَرَّطَ	فَعَّلَ	3			مُضَرِّط	مُضَرَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d17f78f4b2	ضَرِطَ	فَعِلَ	لازم		ضَرِطْ	THUBUT	SIFAT	HFN-E-1b9c8aec6e	ضَرَّطَ	فَعَّلَ	3			مُضَرِّط	مُضَرَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3dd6526a32	ضَعُفَ	فَعُلَ	لازم		ضَاعِف	FAIL	QIYAS	HFN-E-cc98e4fe4b	ضَعَّفَ	فَعَّلَ	7			مُضَعِّف	مُضَعَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c435daa1b5	ضَمِدَ	فَعِلَ	لازم	على	ضَامِد	FAIL	QIYAS	HFN-E-ee23f432c9	ضَمَّدَ	فَعَّلَ	3			مُضَمِّد	مُضَمَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-92e6481755	طَرِبَ	فَعِلَ	لازم	من	طَرِب	THUBUT	SIFAT	HFN-E-e926c8c592	طَرَّبَ	فَعَّلَ	6			مُطَرِّب	مُطَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-577997bbe8	طَرُفَ	فَعُلَ	لازم		طَارِف	FAIL	QIYAS	HFN-E-ab5381852b	طَرَّفَ	فَعَّلَ	3			مُطَرِّف	مُطَرَّف	QIYAS	CANDIDATE	جعله طرفا	WASIT_JAL_SAYR
+T_TAD	HFN-E-7c888b9e76	طَلِقَ	فَعِلَ	لازم		طَالِق	FAIL	QIYAS	HFN-E-ca9ea13eb0	طَلَّقَ	فَعَّلَ	7			مُطَلِّق	مُطَلَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-58fde3e0f3	طَلُقَ	فَعُلَ	لازم	من	طَالِق	FAIL	QIYAS	HFN-E-ca9ea13eb0	طَلَّقَ	فَعَّلَ	7			مُطَلِّق	مُطَلَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b4e6c118b4	طَنِبَ	فَعِلَ	لازم		أَطْنَبُ	THUBUT	SIFAT	HFN-E-542a142b7f	طَنَّبَ	فَعَّلَ	6			مُطَنِّب	مُطَنَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1adfb78a9e	طَنِفَ	فَعِلَ	لازم		طَنِف	THUBUT	SIFAT	HFN-E-f520c7c4a7	طَنَّفَ	فَعَّلَ	4			مُطَنِّف	مُطَنَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1965cdd727	ظَهِرَ	فَعِلَ	لازم		ظَهِر	THUBUT	SIFAT	HFN-E-d8337cf295	ظَهَّرَ	فَعَّلَ	4			مُظَهِّر	مُظَهَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-41da9436ba	عَثَرَ	فَعَلَ	لازم		عَاثِر	FAIL	QIYAS	HFN-E-b2d392dc26	عَثَّرَ	فَعَّلَ	2			مُعَثِّر	مُعَثَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6116029334	عَجِزَ	فَعِلَ	لازم		أَعْجَزْ	THUBUT	SIFAT	HFN-E-d088cf360d	عَجَّزَ	فَعَّلَ	7			مُعَجِّز	مُعَجَّز	QIYAS	CANDIDATE		
+T_TAD	HFN-E-03ab914c89	عَجِلَ	فَعِلَ	لازم		عَاجِل	FAIL	QIYAS	HFN-E-c2b19a3f9d	عَجَّلَ	فَعَّلَ	5			مُعَجِّل	مُعَجَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-efdf486ecd	عَدُلَ	فَعُلَ	لازم		عَادِل	FAIL	QIYAS	HFN-E-ddb5ad8897	عَدَّلَ	فَعَّلَ	5			مُعَدِّل	مُعَدَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3df35e1bbf	عَرِبَ	فَعِلَ	لازم		عَرَبٌ	THUBUT	SIFAT	HFN-E-c8ba384e57	عَرَّبَ	فَعَّلَ	7			مُعَرِّب	مُعَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f5844b7def	عَرُبَ	فَعُلَ	لازم		عَارِب	FAIL	QIYAS	HFN-E-c8ba384e57	عَرَّبَ	فَعَّلَ	7			مُعَرِّب	مُعَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a69789ff3d	عَرِجَ	فَعِلَ	لازم		أعرج	THUBUT	SIFAT	HFN-E-9eea830eda	عَرَّجَ	فَعَّلَ	6			مُعَرِّج	مُعَرَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5b4b16b6e8	عَرِدَ	فَعِلَ	لازم		عَارِد	FAIL	QIYAS	HFN-E-5994bfcf72	عَرَّدَ	فَعَّلَ	5			مُعَرِّد	مُعَرَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3ca23f04b6	عَرِسَ	فَعِلَ	لازم	ب	عَرِس	THUBUT	SIFAT	HFN-E-6af76691a9	عَرَّسَ	فَعَّلَ	4			مُعَرِّس	مُعَرَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1f82cc5ce0	عَرَفَ	فَعَلَ	لازم		عَارِف	FAIL	QIYAS	HFN-E-e593dafa69	عَرَّفَ	فَعَّلَ	5			مُعَرِّف	مُعَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b1b04daa77	عَرِفَ	فَعِلَ	لازم		عَرفٌ	THUBUT	SIFAT	HFN-E-e593dafa69	عَرَّفَ	فَعَّلَ	5			مُعَرِّف	مُعَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9cebe1524d	عَرُفَ	فَعُلَ	لازم		عَارِف	FAIL	QIYAS	HFN-E-e593dafa69	عَرَّفَ	فَعَّلَ	5			مُعَرِّف	مُعَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ae3316c551	عَرِقَ	فَعِلَ	لازم		عَرْقانُ	THUBUT	SIFAT	HFN-E-e0bff158df	عَرَّقَ	فَعَّلَ	6			مُعَرِّق	مُعَرَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d7dce16896	عَسِرَ	فَعِلَ	لازم	على	عَسِرٌ	THUBUT	SIFAT	HFN-E-756430389c	عَسَّرَ	فَعَّلَ	4			مُعَسِّر	مُعَسَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4ec230b798	عَسُرَ	فَعُلَ	لازم		عسير	THUBUT	SIFAT	HFN-E-756430389c	عَسَّرَ	فَعَّلَ	4			مُعَسِّر	مُعَسَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f8b936f02f	عَصِبَ	فَعِلَ	لازم	ب	عَصِبٌ	THUBUT	SIFAT	HFN-E-d7afdebc5b	عَصَّبَ	فَعَّلَ	6			مُعَصِّب	مُعَصَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0ff9bb3a5b	عَضِدَ	فَعِلَ	لازم		عَاضِد	FAIL	QIYAS	HFN-E-f91b76745d	عَضَّدَ	فَعَّلَ	4			مُعَضِّد	مُعَضَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5d50462c0f	عَطَبَ	فَعَلَ	لازم		عَاطِب	FAIL	QIYAS	HFN-E-5e765c7cb4	عَطَّبَ	فَعَّلَ	3			مُعَطِّب	مُعَطَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1ce4d60df3	عَطِبَ	فَعِلَ	لازم	على	عَاطِب	FAIL	QIYAS	HFN-E-5e765c7cb4	عَطَّبَ	فَعَّلَ	3			مُعَطِّب	مُعَطَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0a2d9e6ad2	عَطِنَ	فَعِلَ	لازم		عَطِنٌ	THUBUT	SIFAT	HFN-E-82e180f814	عَطَّنَ	فَعَّلَ	3			مُعَطِّن	مُعَطَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f28dee2fd7	عَفِرَ	فَعِلَ	لازم		أَعْفَرُ	THUBUT	SIFAT	HFN-E-d1673f77d7	عَفَّرَ	فَعَّلَ	9			مُعَفِّر	مُعَفَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-337c1ea392	عَقَبَ	فَعَلَ	لازم	في	عَاقِب	FAIL	QIYAS	HFN-E-fda5754f65	عَقَّبَ	فَعَّلَ	6			مُعَقِّب	مُعَقَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0008909b88	عَقِبَ	فَعِلَ	لازم		عَاقِب	FAIL	QIYAS	HFN-E-fda5754f65	عَقَّبَ	فَعَّلَ	6			مُعَقِّب	مُعَقَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-21195d87bb	عَقِلَ	فَعِلَ	لازم		أعْقَلُ	THUBUT	SIFAT	HFN-E-f78fe60d1c	عَقَّلَ	فَعَّلَ	4			مُعَقِّل	مُعَقَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6e422b4d91	عَلَسَ	فَعَلَ	لازم		عَالِس	FAIL	QIYAS	HFN-E-c3a627901f	عَلَّسَ	فَعَّلَ	5			مُعَلِّس	مُعَلَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-bc3c135362	عَمُرَ	فَعُلَ	لازم		عَمِيرٌ	THUBUT	SIFAT	HFN-E-46867a0d34	عَمَّرَ	فَعَّلَ	7			مُعَمِّر	مُعَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8922e020c0	عَمَنَ	فَعَلَ	لازم	ب	عامِن	HUDUTH	SIFAT	HFN-E-c861dc6a6a	عَمَّنَ	فَعَّلَ	3			مُعَمِّن	مُعَمَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-deb01aaf14	عَيِنَ	فَعِلَ	لازم		أَعين	THUBUT	SIFAT	HFN-E-f6f03e8534	عَيَّنَ	فَعَّلَ	6					QIYAS	CANDIDATE		
+T_TAD	HFN-E-96e966f988	غَبِرَ	فَعِلَ	لازم		أَغْبَرُ	THUBUT	SIFAT	HFN-E-3e30c00eae	غَبَّرَ	فَعَّلَ	5			مُغَبِّر	مُغَبَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0178b17170	غَبَرَ	فَعَلَ	لازم		غَابِر	FAIL	QIYAS	HFN-E-3e30c00eae	غَبَّرَ	فَعَّلَ	5			مُغَبِّر	مُغَبَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-95129f17c6	غَرِبَ	فَعِلَ	لازم		غَارِب	FAIL	QIYAS	HFN-E-c08d742ad5	غَرَّبَ	فَعَّلَ	5			مُغَرِّب	مُغَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c3a0517649	غَرُبَ	فَعُلَ	لازم	عن	غريب	THUBUT	SIFAT	HFN-E-c08d742ad5	غَرَّبَ	فَعَّلَ	5			مُغَرِّب	مُغَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-69249bed64	غَرِدَ	فَعِلَ	لازم		غَرِد	THUBUT	SIFAT	HFN-E-2f3dafd64a	غَرَّدَ	فَعَّلَ	5			مُغَرِّد	مُغَرَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5eba772a55	غَمُرَ	فَعُلَ	لازم		غَمْر	THUBUT	SIFAT	HFN-E-296b6e0ad8	غَمَّرَ	فَعَّلَ	4			مُغَمِّر	مُغَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2b0177663f	فَدَرَ	فَعَلَ	لازم		فادِرٌ	HUDUTH	SIFAT	HFN-E-95ba59be64	فَدَّرَ	فَعَّلَ	3			مُفَدِّر	مُفَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-48df32dbd5	فَدِرَ	فَعِلَ	لازم		غَدِرٌ	OTHER	SIFAT	HFN-E-95ba59be64	فَدَّرَ	فَعَّلَ	3			مُفَدِّر	مُفَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-15a6cf7a51	فَدَمَ	فَعَلَ	لازم	في	فَادِم	FAIL	QIYAS	HFN-E-755a5186ad	فَدَّمَ	فَعَّلَ	2			مُفَدِّم	مُفَدَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-47d441e656	فَدُمَ	فَعُلَ	لازم		فَدْمٌ	THUBUT	SIFAT	HFN-E-755a5186ad	فَدَّمَ	فَعَّلَ	2			مُفَدِّم	مُفَدَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fbf223f3ae	فَرَدَ	فَعَلَ	لازم	ب	فَارِد	FAIL	QIYAS	HFN-E-d8fbeb0828	فَرَّدَ	فَعَّلَ	2			مُفَرِّد	مُفَرَّد	QIYAS	CANDIDATE	جعله ءفرادا	WASIT_JAL_SAYR
+T_TAD	HFN-E-cb14f56fd7	فَرِعَ	فَعِلَ	لازم		أَفرعُ	THUBUT	SIFAT	HFN-E-417394cdc9	فَرَّعَ	فَعَّلَ	7			مُفَرِّع	مُفَرَّع	QIYAS	CANDIDATE	جعلها فروعا	WASIT_JAL_SAYR
+T_TAD	HFN-E-7eb27213d3	فَشَجَ	فَعَلَ	لازم		فَاشِج	FAIL	QIYAS	HFN-E-c69240b293	فَشَّجَ	فَعَّلَ	3			مُفَشِّج	مُفَشَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3991f80195	فَصُحَ	فَعُلَ	لازم		فَصْح	THUBUT	SIFAT	HFN-E-eaf547cacc	فَصَّحَ	فَعَّلَ	4			مُفَصِّح	مُفَصَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5af70ff1c3	فَصَلَ	فَعَلَ	لازم	عن	فَاصِل	FAIL	QIYAS	HFN-E-4593e4c3eb	فَصَّلَ	فَعَّلَ	3			مُفَصِّل	مُفَصَّل	QIYAS	CANDIDATE	جعله فصولا	WASIT_JAL_SAYR
+T_TAD	HFN-E-12a72a0050	فَصَلَ	فَعَلَ	لازم	عن	فَاصِل	FAIL	QIYAS	HFN-E-4593e4c3eb	فَصَّلَ	فَعَّلَ	3			مُفَصِّل	مُفَصَّل	QIYAS	CANDIDATE	جعله فصولا	WASIT_JAL_SAYR
+T_TAD	HFN-E-6b827faa38	فَضَلَ	فَعَلَ	لازم		فاضل	HUDUTH	SIFAT	HFN-E-d405ad7abf	فَضَّلَ	فَعَّلَ	4			مُفَضِّل	مُفَضَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7479e1b491	فَضُلَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-d405ad7abf	فَضَّلَ	فَعَّلَ	4			مُفَضِّل	مُفَضَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-600e1e15dd	فَقَحَ	فَعَلَ	لازم		فَاقِح	FAIL	QIYAS	HFN-E-d1e7893a95	فَقَّحَ	فَعَّلَ	5			مُفَقِّح	مُفَقَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2151b9bdf5	فَقِرَ	فَعِلَ	لازم		فَقِرّ	THUBUT	SIFAT	HFN-E-5010d619e8	فَقَّرَ	فَعَّلَ	4			مُفَقِّر	مُفَقَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a6233da347	فَكَرَ	فَعَلَ	لازم	في	فَاكِر	FAIL	QIYAS	HFN-E-d6aba3b2ba	فَكَّرَ	فَعَّلَ	3			مُفَكِّر	مُفَكَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-11e3772f9c	فَلِكَ	فَعِلَ	لازم		فَلِكٌ	THUBUT	SIFAT	HFN-E-98922c2ebe	فَلَّكَ	فَعَّلَ	6			مُفَلِّك	مُفَلَّك	QIYAS	CANDIDATE		
+T_TAD	HFN-E-bd2eabe817	فَلَكَ	فَعَلَ	لازم		فالك	HUDUTH	SIFAT	HFN-E-98922c2ebe	فَلَّكَ	فَعَّلَ	6			مُفَلِّك	مُفَلَّك	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f39a00475b	فَنِدَ	فَعِلَ	لازم	ب	فَانِد	FAIL	QIYAS	HFN-E-dcc823aabf	فَنَّدَ	فَعَّلَ	5			مُفَنِّد	مُفَنَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3dfe7bddc0	فَوِقَ	فَعِلَ	لازم		أَفْوَقُ	THUBUT	SIFAT	HFN-E-059b77d0bd	فَوَّقَ	فَعَّلَ	5					QIYAS	CANDIDATE		
+T_TAD	HFN-E-5893544c3f	قَبُحَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-d4a7e5c905	قَبَّحَ	فَعَّلَ	6			مُقَبِّح	مُقَبَّح	QIYAS	CANDIDATE	صيره قبيحا	WASIT_JAL_SAYR
+T_TAD	HFN-E-2a86753c27	قَحَبَ	فَعَلَ	لازم		قَاحِب	FAIL	QIYAS	HFN-E-e063faad48	قَحَّبَ	فَعَّلَ	4			مُقَحِّب	مُقَحَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a4134d8006	قَدِمَ	فَعِلَ	لازم	على	قادِم	HUDUTH	SIFAT	HFN-E-08c763adab	قَدَّمَ	فَعَّلَ	7			مُقَدِّم	مُقَدَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c05173ea2f	قَدُمَ	فَعُلَ	لازم		قديم	THUBUT	SIFAT	HFN-E-08c763adab	قَدَّمَ	فَعَّلَ	7			مُقَدِّم	مُقَدَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7afad8dccd	قَرِبَ	فَعِلَ	لازم	في	قَارِب	FAIL	QIYAS	HFN-E-549eadc2c9	قَرَّبَ	فَعَّلَ	7			مُقَرِّب	مُقَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-130be68ff8	قَرِدَ	فَعِلَ	لازم		قَرِدٌ	THUBUT	SIFAT	HFN-E-8cdf7b5169	قَرَّدَ	فَعَّلَ	5			مُقَرِّد	مُقَرَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-db95d08de8	قَرِعَ	فَعِلَ	لازم		أقرع	THUBUT	SIFAT	HFN-E-1b93447e73	قَرَّعَ	فَعَّلَ	3			مُقَرِّع	مُقَرَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f20cd8c20e	قَزَحَ	فَعَلَ	لازم		قَازِح	FAIL	QIYAS	HFN-E-beb3ff0de6	قَزَّحَ	فَعَّلَ	5			مُقَزِّح	مُقَزَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d340477507	قَزَعَ	فَعَلَ	لازم		قَازِع	FAIL	QIYAS	HFN-E-2a2a87cbec	قَزَّعَ	فَعَّلَ	4			مُقَزِّع	مُقَزَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9438ac3700	قَزِعَ	فَعِلَ	لازم		أقزع	THUBUT	SIFAT	HFN-E-2a2a87cbec	قَزَّعَ	فَعَّلَ	4			مُقَزِّع	مُقَزَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-024e41900f	قَشُبَ	فَعُلَ	لازم		قَشِيبٌ	THUBUT	SIFAT	HFN-E-ec393554d0	قَشَّبَ	فَعَّلَ	2			مُقَشِّب	مُقَشَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fa21a000fb	قَصِرَ	فَعِلَ	لازم		قَصِرٌ	THUBUT	SIFAT	HFN-E-6923b2e2bc	قَصَّرَ	فَعَّلَ	9			مُقَصِّر	مُقَصَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8b61a383bf	قَطُعَ	فَعُلَ	لازم		قَاطِع	FAIL	QIYAS	HFN-E-77a989436f	قَطَّعَ	فَعَّلَ	4			مُقَطِّع	مُقَطَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b620d1c6c2	قَلَصَ	فَعَلَ	لازم		قَالِص	FAIL	QIYAS	HFN-E-ee385c7a9b	قَلَّصَ	فَعَّلَ	3			مُقَلِّص	مُقَلَّص	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f4b4239bd3	قَمَحَ	فَعَلَ	لازم	عن	قَامِح	FAIL	QIYAS	HFN-E-92a7d67837	قَمَّحَ	فَعَّلَ	3			مُقَمِّح	مُقَمَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ccf11985bf	قَنَبَ	فَعَلَ	لازم	في	قَانِب	FAIL	QIYAS	HFN-E-bd4f0d0adb	قَنَّبَ	فَعَّلَ	5			مُقَنِّب	مُقَنَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-93cf8d6f56	قَنِعَ	فَعِلَ	لازم		قانع	HUDUTH	SIFAT	HFN-E-39bbc900e7	قَنَّعَ	فَعَّلَ	5			مُقَنِّع	مُقَنَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-709772d18f	قَوِسَ	فَعِلَ	لازم		أَقوس	THUBUT	SIFAT	HFN-E-97603708a7	قَوَّسَ	فَعَّلَ	4					QIYAS	CANDIDATE	جعله كالقوس.	WASIT_JAL_SAYR
+T_TAD	HFN-E-e6c157dbf8	كَبِرَ	فَعِلَ	لازم	على	كبير	THUBUT	SIFAT	HFN-E-c5bbee72fb	كَبَّرَ	فَعَّلَ	4			مُكَبِّر	مُكَبَّر	QIYAS	CANDIDATE	جعله كبيرا.	WASIT_JAL_SAYR
+T_TAD	HFN-E-d1e1146387	كَتِفَ	فَعِلَ	لازم		أكتف	THUBUT	SIFAT	HFN-E-989344def3	كَتَّفَ	فَعَّلَ	4			مُكَتِّف	مُكَتَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c6c35cd4b8	كَرِشَ	فَعِلَ	لازم		كَارِش	FAIL	QIYAS	HFN-E-88c956f8a7	كَرَّشَ	فَعَّلَ	4			مُكَرِّش	مُكَرَّش	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ca6e087748	كَرُمَ	فَعُلَ	لازم		كريم	THUBUT	SIFAT	HFN-E-6b255dcc93	كَرَّمَ	فَعَّلَ	5			مُكَرِّم	مُكَرَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-174e517b01	كَفَرَ	فَعَلَ	لازم		كَافِر	FAIL	QIYAS	HFN-E-c6a30376ab	كَفَّرَ	فَعَّلَ	6			مُكَفِّر	مُكَفَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a6e74e9ba1	كَفَرَ	فَعَلَ	لازم		كَافِر	FAIL	QIYAS	HFN-E-c6a30376ab	كَفَّرَ	فَعَّلَ	6			مُكَفِّر	مُكَفَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-35eb640537	كَلَسَ	فَعَلَ	لازم		كَالِس	FAIL	QIYAS	HFN-E-47be15f1b4	كَلَّسَ	فَعَّلَ	4			مُكَلِّس	مُكَلَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1fed0d117d	كَلِسَ	فَعِلَ	لازم		أَكلَس	THUBUT	SIFAT	HFN-E-47be15f1b4	كَلَّسَ	فَعَّلَ	4			مُكَلِّس	مُكَلَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-514f1a7f34	كَنِعَ	فَعِلَ	لازم		كَنِعٌ	THUBUT	SIFAT	HFN-E-4b25bd9680	كَنَّعَ	فَعَّلَ	3			مُكَنِّع	مُكَنَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-77ebf2a1b3	لَبِدَ	فَعِلَ	لازم	ب	لَابِد	FAIL	QIYAS	HFN-E-98f2d78875	لَبَّدَ	فَعَّلَ	6			مُلَبِّد	مُلَبَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-bd9c2ff332	لَبِسَ	فَعِلَ	لازم	على	لَابِس	FAIL	QIYAS	HFN-E-f6c9fc41be	لَبَّسَ	فَعَّلَ	4			مُلَبِّس	مُلَبَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ca3a70142a	لَجَفَ	فَعَلَ	لازم	في	لَجْفَاء	THUBUT	SIFAT	HFN-E-9ed7435105	لَجَّفَ	فَعَّلَ	3			مُلَجِّف	مُلَجَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-46b1a1fe21	لَجِنَ	فَعِلَ	لازم	في	لَاجِن	FAIL	QIYAS	HFN-E-51d14caa78	لَجَّنَ	فَعَّلَ	4			مُلَجِّن	مُلَجَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1ab4338603	لَعِبَ	فَعِلَ	لازم	ب	لَاعِب	FAIL	QIYAS	HFN-E-24c9e88ffe	لَعَّبَ	فَعَّلَ	3			مُلَعِّب	مُلَعَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5c7b6f683e	لَغِبَ	فَعِلَ	لازم		لَاغِب	FAIL	QIYAS	HFN-E-fdf0de228a	لَغَّبَ	فَعَّلَ	3			مُلَغِّب	مُلَغَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0f65e6d1d3	مَثُلَ	فَعُلَ	لازم		مَثِيل	THUBUT	SIFAT	HFN-E-df00e7416c	مَثَّلَ	فَعَّلَ	5			مُمَثِّل	مُمَثَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9da1384ffe	مَجُدَ	فَعُلَ	لازم		مَجِيد	THUBUT	SIFAT	HFN-E-2d8a17270f	مَجَّدَ	فَعَّلَ	6			مُمَجِّد	مُمَجَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a088e435a3	مَدَنَ	فَعَلَ	لازم		مَادِن	FAIL	QIYAS	HFN-E-d6697a7315	مَدَّنَ	فَعَّلَ	3			مُمَدِّن	مُمَدَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8452ceb690	مَشِرَ	فَعِلَ	لازم		مَاشِر	FAIL	QIYAS	HFN-E-b9d9fc336a	مَشَّرَ	فَعَّلَ	5			مُمَشِّر	مُمَشَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e1447e2ae9	مَعِرَ	فَعِلَ	لازم		أَمْعَرُ	THUBUT	SIFAT	HFN-E-d1972dfebc	مَعَّرَ	فَعَّلَ	3			مُمَعِّر	مُمَعَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2be515e5b9	مَلِحَ	فَعِلَ	لازم		أملحُ	THUBUT	SIFAT	HFN-E-83e5e4c8f3	مَلَّحَ	فَعَّلَ	7			مُمَلِّح	مُمَلَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b48e457163	مَلُحَ	فَعُلَ	لازم		مَلِيح	THUBUT	SIFAT	HFN-E-83e5e4c8f3	مَلَّحَ	فَعَّلَ	7			مُمَلِّح	مُمَلَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f838318492	نَبَتَ	فَعَلَ	لازم		نَابِت	FAIL	QIYAS	HFN-E-c04410ac16	نَبَّتَ	فَعَّلَ	4			مُنَبِّت	مُنَبَّت	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4dc1c74e34	نَبَصَ	فَعَلَ	لازم	ب	نَابِص	FAIL	QIYAS	HFN-E-dfb211f933	نَبَّصَ	فَعَّلَ	3			مُنَبِّص	مُنَبَّص	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c3cb8ec283	نَزُرَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-c01e49529d	نَزَّرَ	فَعَّلَ	2			مُنَزِّر	مُنَزَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0a858bbb91	نَزِقَ	فَعِلَ	لازم		نَزِق	THUBUT	SIFAT	HFN-E-1ea5ae174a	نَزَّقَ	فَعَّلَ	6			مُنَزِّق	مُنَزَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c1f523bd30	نَزَلَ	فَعَلَ	لازم	على	نَازِل	FAIL	QIYAS	HFN-E-d28e2aced7	نَزَّلَ	فَعَّلَ	6			مُنَزِّل	مُنَزَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c00ee2b532	نَزِلَ	فَعِلَ	لازم		نَزِلّ	THUBUT	SIFAT	HFN-E-d28e2aced7	نَزَّلَ	فَعَّلَ	6			مُنَزِّل	مُنَزَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d5f7f49947	نَشِمَ	فَعِلَ	لازم		نَشِم	THUBUT	SIFAT	HFN-E-9b34f34da5	نَشَّمَ	فَعَّلَ	7			مُنَشِّم	مُنَشَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-dd013efd32	نَعِمَ	فَعِلَ	لازم	ب	نَاعِم	FAIL	QIYAS	HFN-E-c6c5ef0bb3	نَعَّمَ	فَعَّلَ	5			مُنَعِّم	مُنَعَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2cb10eaedd	نَعُمَ	فَعُلَ	لازم		ناعِم	THUBUT	SIFAT	HFN-E-c6c5ef0bb3	نَعَّمَ	فَعَّلَ	5			مُنَعِّم	مُنَعَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0a8e9491c4	نِعْمَ	فَعِلَ	لازم	ب	نَاعِم	FAIL	QIYAS	HFN-E-c6c5ef0bb3	نَعَّمَ	فَعَّلَ	5			مُنَعِّم	مُنَعَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-de7f99480a	نَفُسَ	فَعُلَ	لازم		نَفيس	THUBUT	SIFAT	HFN-E-59b6bf221f	نَفَّسَ	فَعَّلَ	4			مُنَفِّس	مُنَفَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4ccb3a43cd	نَفَهَ	فَعَلَ	لازم		نافِةٌ	OTHER	SIFAT	HFN-E-e492d15a5e	نَفَّهَ	فَعَّلَ	4			مُنَفِّه	مُنَفَّه	QIYAS	CANDIDATE		
+T_TAD	HFN-E-246c9c02d1	نَقِبَ	فَعِلَ	لازم		نَاقِب	FAIL	QIYAS	HFN-E-52e8da086e	نَقَّبَ	فَعَّلَ	5			مُنَقِّب	مُنَقَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7117a610d1	نَقُبَ	فَعُلَ	لازم	على		FAIL	QIYAS	HFN-E-52e8da086e	نَقَّبَ	فَعَّلَ	5			مُنَقِّب	مُنَقَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a4f0f04cb6	نَقَرَ	فَعَلَ	لازم	عن	نَاقِر	FAIL	QIYAS	HFN-E-c9f1ed8708	نَقَّرَ	فَعَّلَ	7			مُنَقِّر	مُنَقَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fb4080e552	نَقِرَ	فَعِلَ	لازم	على	نَقِرٌ	THUBUT	SIFAT	HFN-E-c9f1ed8708	نَقَّرَ	فَعَّلَ	7			مُنَقِّر	مُنَقَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-79da471570	نَكِبَ	فَعِلَ	لازم		أنكَبُ	THUBUT	SIFAT	HFN-E-e86d797d61	نَكَّبَ	فَعَّلَ	5			مُنَكِّب	مُنَكَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b4a58b0e80	نَكِلَ	فَعِلَ	لازم	عن	نَاكِل	FAIL	QIYAS	HFN-E-abf642ca21	نَكَّلَ	فَعَّلَ	5			مُنَكِّل	مُنَكَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ec0abf0bf1	نَمِسَ	فَعِلَ	لازم		نَمِسٌ	THUBUT	SIFAT	HFN-E-73117a11bb	نَمَّسَ	فَعَّلَ	3			مُنَمِّس	مُنَمَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-da7f584d8c	هَدِبَ	فَعِلَ	لازم		أَهدبُ	THUBUT	SIFAT	HFN-E-4cfbe73b59	هَدَّبَ	فَعَّلَ	2			مُهَدِّب	مُهَدَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-16ec6dc620	هَدَرَ	فَعَلَ	لازم		هادر	HUDUTH	SIFAT	HFN-E-bfc65c4e4e	هَدَّرَ	فَعَّلَ	4			مُهَدِّر	مُهَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ef623345fa	هَدَرَ	فَعَلَ	لازم		هادر	HUDUTH	SIFAT	HFN-E-bfc65c4e4e	هَدَّرَ	فَعَّلَ	4			مُهَدِّر	مُهَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-790d0f4f78	هَرَبَ	فَعَلَ	لازم	في	هَارِب	FAIL	QIYAS	HFN-E-ed89b26e1c	هَرَّبَ	فَعَّلَ	4			مُهَرِّب	مُهَرَّب	QIYAS	CANDIDATE	جعله يهرب	WASIT_JAL_SAYR
+T_TAD	HFN-E-82937837b0	هَرِجَ	فَعِلَ	لازم		هَارِج	FAIL	QIYAS	HFN-E-984151efc8	هَرَّجَ	فَعَّلَ	3			مُهَرِّج	مُهَرَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6e7b5e71a1	هَزِجَ	فَعِلَ	لازم		هَزِجٌ	THUBUT	SIFAT	HFN-E-223fa7831d	هَزَّجَ	فَعَّلَ	3			مُهَزِّج	مُهَزَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e954d15f35	هَنَدَ	فَعَلَ	لازم		هَانِد	FAIL	QIYAS	HFN-E-78740c3ad0	هَنَّدَ	فَعَّلَ	5			مُهَنِّد	مُهَنَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c580e95355	هَوِشَ	فَعِلَ	لازم		هَاوِش	FAIL	QIYAS	HFN-E-58070fc56c	هَوَّشَ	فَعَّلَ	7					QIYAS	CANDIDATE		
+T_TAD	HFN-E-352dbad9a7	بَجَدَ	فَعَلَ	لازم	ب	بَاجِد	FAIL	QIYAS	HFN-E-87e977b355	بَجَّدَ	فَعَّلَ	2			مُبَجِّد	مُبَجَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-19c8e05bb3	بَسُلَ	فَعُلَ	لازم		باسِل	THUBUT	SIFAT	HFN-E-f2e604d72e	بَسَّلَ	فَعَّلَ	3			مُبَسِّل	مُبَسَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6149b41243	بَطِنَ	فَعِلَ	لازم		بَطِن	THUBUT	SIFAT	HFN-E-220a73d2e4	بَطَّنَ	فَعَّلَ	3			مُبَطِّن	مُبَطَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-312714535b	بَطُنَ	فَعُلَ	لازم		بَطِين	THUBUT	SIFAT	HFN-E-220a73d2e4	بَطَّنَ	فَعَّلَ	3			مُبَطِّن	مُبَطَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a1ec6cf550	جَلِفَ	فَعِلَ	لازم		جَالِف	FAIL	QIYAS	HFN-E-d407586480	جَلَّفَ	فَعَّلَ	5			مُجَلِّف	مُجَلَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0bfc8de821	حَبَشَ	فَعَلَ	لازم	ل	حَابِش	FAIL	QIYAS	HFN-E-33e237f3fc	حَبَّشَ	فَعَّلَ	4			مُحَبِّش	مُحَبَّش	QIYAS	CANDIDATE		
+T_TAD	HFN-E-67058c8ef6	حَرِشَ	فَعِلَ	لازم		أَحْرَشْ	THUBUT	SIFAT	HFN-E-79853602da	حَرَّشَ	فَعَّلَ	3			مُحَرِّش	مُحَرَّش	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e1b7eb119f	حَرِضَ	فَعِلَ	لازم		حريض	THUBUT	SIFAT	HFN-E-f5c2c362aa	حَرَّضَ	فَعَّلَ	5			مُحَرِّض	مُحَرَّض	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f5eac4b72f	حَسِرَ	فَعِلَ	لازم	على	حَسْرانُ	THUBUT	SIFAT	HFN-E-0d2cbf71c4	حَسَّرَ	فَعَّلَ	4			مُحَسِّر	مُحَسَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4e6a9d9976	حَصَلَ	فَعَلَ	لازم	على	حَاصِل	FAIL	QIYAS	HFN-E-a590f6ac3d	حَصَّلَ	فَعَّلَ	4			مُحَصِّل	مُحَصَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7ec0d81a74	حَمِقَ	فَعِلَ	لازم		حَمِقٌ	THUBUT	SIFAT	HFN-E-6031288de7	حَمَّقَ	فَعَّلَ	2			مُحَمِّق	مُحَمَّق	QIYAS	CANDIDATE	جعله كالءحمق	WASIT_JAL_SAYR
+T_TAD	HFN-E-7061118124	حَمُقَ	فَعُلَ	لازم		أحمق	THUBUT	SIFAT	HFN-E-6031288de7	حَمَّقَ	فَعَّلَ	2			مُحَمِّق	مُحَمَّق	QIYAS	CANDIDATE	جعله كالءحمق	WASIT_JAL_SAYR
+T_TAD	HFN-E-9e45a6d3a3	حَنِفَ	فَعِلَ	لازم		أَحنفُ	THUBUT	SIFAT	HFN-E-6896d67a06	حَنَّفَ	فَعَّلَ	2			مُحَنِّف	مُحَنَّف	QIYAS	CANDIDATE	جعله ءحنف	WASIT_JAL_SAYR
+T_TAD	HFN-E-77148a4703	حَنَفَ	فَعَلَ	لازم	عن	حَانِف	FAIL	QIYAS	HFN-E-6896d67a06	حَنَّفَ	فَعَّلَ	2			مُحَنِّف	مُحَنَّف	QIYAS	CANDIDATE	جعله ءحنف	WASIT_JAL_SAYR
+T_TAD	HFN-E-2b05fb651d	خَشِمَ	فَعِلَ	لازم		أَخْشَمُ	THUBUT	SIFAT	HFN-E-1be3ff14d8	خَشَّمَ	فَعَّلَ	4			مُخَشِّم	مُخَشَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7c5e99ffec	خَمِرَ	فَعِلَ	لازم	عن	خَمِرٌ	THUBUT	SIFAT	HFN-E-493f667e2d	خَمَّرَ	فَعَّلَ	7			مُخَمِّر	مُخَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-76817b9fb1	خَوِرَ	فَعِلَ	لازم		خَاوِر	FAIL	QIYAS	HFN-E-f9f4e95ea3	خَوَّرَ	فَعَّلَ	3					QIYAS	CANDIDATE		
+T_TAD	HFN-E-69e6c97ccc	دَبِلَ	فَعِلَ	لازم		دَبِلٌ	THUBUT	SIFAT	HFN-E-ed81bd976f	دَبَّلَ	فَعَّلَ	5			مُدَبِّل	مُدَبَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0e3907c79e	دَرِجَ	فَعِلَ	لازم		دَارِج	FAIL	QIYAS	HFN-E-53beab01af	دَرَّجَ	فَعَّلَ	6			مُدَرِّج	مُدَرَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5f505cf073	دَسِمَ	فَعِلَ	لازم		دسِمٌ	THUBUT	SIFAT	HFN-E-d3808c21e6	دَسَّمَ	فَعَّلَ	3			مُدَسِّم	مُدَسَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-20aa466242	دَكِنَ	فَعِلَ	لازم		أَدكن	THUBUT	SIFAT	HFN-E-f697f3b78f	دَكَّنَ	فَعَّلَ	5			مُدَكِّن	مُدَكَّن	QIYAS	CANDIDATE	جعله ءدكن	WASIT_JAL_SAYR
+T_TAD	HFN-E-39a67b2c5d	دَلِصَ	فَعِلَ	لازم		أَدْلَصُ	THUBUT	SIFAT	HFN-E-f76ebdf880	دَلَّصَ	فَعَّلَ	4			مُدَلِّص	مُدَلَّص	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a77f38b719	ذَقِنَ	فَعِلَ	لازم		ذَقِنٌ	THUBUT	SIFAT	HFN-E-3d690dd25e	ذَقَّنَ	فَعَّلَ	2			مُذَقِّن	مُذَقَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-af482f606a	ذَقَنَ	فَعَلَ	لازم	على	ذَاقِن	FAIL	QIYAS	HFN-E-3d690dd25e	ذَقَّنَ	فَعَّلَ	2			مُذَقِّن	مُذَقَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ecd466135a	ذَلِقَ	فَعِلَ	لازم	من	أَذْلقُ	THUBUT	SIFAT	HFN-E-c800511f43	ذَلَّقَ	فَعَّلَ	4			مُذَلِّق	مُذَلَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4eed14ea33	ذَلُقَ	فَعُلَ	لازم		ذَليقٌ	THUBUT	SIFAT	HFN-E-c800511f43	ذَلَّقَ	فَعَّلَ	4			مُذَلِّق	مُذَلَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-18dcac351a	ذَمَرَ	فَعَلَ	لازم		ذَامِر	FAIL	QIYAS	HFN-E-2a9bd603e3	ذَمَّرَ	فَعَّلَ	4			مُذَمِّر	مُذَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b1edb68dfd	رَهُدَ	فَعُلَ	لازم		رَهِيدٌ	THUBUT	SIFAT	HFN-E-5999533048	رَهَّدَ	فَعَّلَ	2			مُرَهِّد	مُرَهَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-292e01eed8	زَبُرَ	فَعُلَ	لازم		زَبِيرٌ	THUBUT	SIFAT	HFN-E-0cf4cd91c3	زَبَّرَ	فَعَّلَ	2			مُزَبِّر	مُزَبَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6ba2c2e9af	زَلِمَ	فَعِلَ	لازم		أَزْلمُ	THUBUT	SIFAT	HFN-E-f58e529c50	زَلَّمَ	فَعَّلَ	2			مُزَلِّم	مُزَلَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-24a7d6d852	سَبَغَ	فَعَلَ	لازم		سابغٌ	HUDUTH	SIFAT	HFN-E-fbfc35a164	سَبَّغَ	فَعَّلَ	4			مُسَبِّغ	مُسَبَّغ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3a437c664d	سَجِسَ	فَعِلَ	لازم		سجِسٌ	THUBUT	SIFAT	HFN-E-61cdb6f28b	سَجَّسَ	فَعَّلَ	2			مُسَجِّس	مُسَجَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f00cf37a95	سَرَبَ	فَعَلَ	لازم	في	سارب	HUDUTH	SIFAT	HFN-E-f94d8bd077	سَرَّبَ	فَعَّلَ	5			مُسَرِّب	مُسَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-34c4ea5ee1	سَرِبَ	فَعِلَ	لازم		سَارِب	FAIL	QIYAS	HFN-E-f94d8bd077	سَرَّبَ	فَعَّلَ	5			مُسَرِّب	مُسَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-abd8a5ea65	سَطِعَ	فَعِلَ	لازم		أَسطَعُ	THUBUT	SIFAT	HFN-E-2867c33300	سَطَّعَ	فَعَّلَ	2			مُسَطِّع	مُسَطَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9e20d96fe4	سَوِدَ	فَعِلَ	لازم		أسوَدُ	THUBUT	SIFAT	HFN-E-c1d9bd0b9f	سَوَّدَ	فَعَّلَ	5					QIYAS	CANDIDATE	جعله ءسود.	WASIT_JAL_SAYR
+T_TAD	HFN-E-cd9c8ff7b5	شَخِمَ	فَعِلَ	لازم		شخِمٌ	THUBUT	SIFAT	HFN-E-656bfb4413	شَخَّمَ	فَعَّلَ	3			مُشَخِّم	مُشَخَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2a2011b12e	شَرِقَ	فَعِلَ	لازم	ب	شَارِق	FAIL	QIYAS	HFN-E-1e1a793537	شَرَّقَ	فَعَّلَ	3			مُشَرِّق	مُشَرَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-998c0c9518	شَعِرَ	فَعِلَ	لازم		أَشْعَرُ	THUBUT	SIFAT	HFN-E-e494bbecc2	شَعَّرَ	فَعَّلَ	2			مُشَعِّر	مُشَعَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-52c252f9a8	شَكِلَ	فَعِلَ	لازم		شكِلٌ	THUBUT	SIFAT	HFN-E-5bcdcf290b	شَكَّلَ	فَعَّلَ	4			مُشَكِّل	مُشَكَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6be2171335	شَهِبَ	فَعِلَ	لازم		أَشهبُ	THUBUT	SIFAT	HFN-E-f47955261f	شَهَّبَ	فَعَّلَ	2			مُشَهِّب	مُشَهَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-17907bf377	صَلِعَ	فَعِلَ	لازم		صَالِع	FAIL	QIYAS	HFN-E-cb94a4bda2	صَلَّعَ	فَعَّلَ	2			مُصَلِّع	مُصَلَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-687b8ce0ef	ضَرَعَ	فَعَلَ	لازم		ضَارِع	FAIL	QIYAS	HFN-E-b26d22c954	ضَرَّعَ	فَعَّلَ	3			مُضَرِّع	مُضَرَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2e8add8534	ضَرِعَ	فَعِلَ	لازم		ضرِع	THUBUT	SIFAT	HFN-E-b26d22c954	ضَرَّعَ	فَعَّلَ	3			مُضَرِّع	مُضَرَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-defc74d2ab	ضَمُرَ	فَعُلَ	لازم		ضَامِر	FAIL	QIYAS	HFN-E-f1ccce985a	ضَمَّرَ	فَعَّلَ	3			مُضَمِّر	مُضَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4e557203fb	طَرِحَ	فَعِلَ	لازم		طَرِحٌ	THUBUT	SIFAT	HFN-E-dd9df7b382	طَرَّحَ	فَعَّلَ	5			مُطَرِّح	مُطَرَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-84c5542623	ظَلِمَ	فَعِلَ	لازم		ظَلِمٌ	THUBUT	SIFAT	HFN-E-b23b22f3ff	ظَلَّمَ	فَعَّلَ	4			مُظَلِّم	مُظَلَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8067cfd76a	عَجِبَ	فَعِلَ	لازم	من	عَاجِب	FAIL	QIYAS	HFN-E-224f5f4788	عَجَّبَ	فَعَّلَ	5			مُعَجِّب	مُعَجَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d74af2a7f4	عَصِلَ	فَعِلَ	لازم		أَعْصَلُ	THUBUT	SIFAT	HFN-E-43667274b7	عَصَّلَ	فَعَّلَ	2			مُعَصِّل	مُعَصَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7ebbb2575c	عَطِشَ	فَعِلَ	لازم		عاطِشّ	HUDUTH	SIFAT	HFN-E-f421ad4377	عَطَّشَ	فَعَّلَ	3			مُعَطِّش	مُعَطَّش	QIYAS	CANDIDATE		
+T_TAD	HFN-E-faa7097c7e	عَطِلَ	فَعِلَ	لازم		عَاطِل	FAIL	QIYAS	HFN-E-f6b02d86b3	عَطَّلَ	فَعَّلَ	5			مُعَطِّل	مُعَطَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6cd09b4934	عَكِرَ	فَعِلَ	لازم		عَكِرٌ	THUBUT	SIFAT	HFN-E-b10853d9fc	عَكَّرَ	فَعَّلَ	3			مُعَكِّر	مُعَكَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ef1354554e	عَكَرَ	فَعَلَ	لازم	ب	عاكِرٌ	HUDUTH	SIFAT	HFN-E-b10853d9fc	عَكَّرَ	فَعَّلَ	3			مُعَكِّر	مُعَكَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-886cf8927e	عَنِقَ	فَعِلَ	لازم		أَعْنقُ	THUBUT	SIFAT	HFN-E-fe10eb3391	عَنَّقَ	فَعَّلَ	2			مُعَنِّق	مُعَنَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e031b3979b	غَرِثَ	فَعِلَ	لازم		غَرْثان	THUBUT	SIFAT	HFN-E-8d15c8bc12	غَرَّثَ	فَعَّلَ	2			مُغَرِّث	مُغَرَّث	QIYAS	CANDIDATE		
+T_TAD	HFN-E-58c5ec8b42	غَمَضَ	فَعَلَ	لازم	في	غامض	HUDUTH	SIFAT	HFN-E-642b9713ef	غَمَّضَ	فَعَّلَ	8			مُغَمِّض	مُغَمَّض	QIYAS	CANDIDATE	جعله غامضا	WASIT_JAL_SAYR
+T_TAD	HFN-E-293701a7c2	غَمَضَ	فَعَلَ	لازم	في	غامض	HUDUTH	SIFAT	HFN-E-642b9713ef	غَمَّضَ	فَعَّلَ	8			مُغَمِّض	مُغَمَّض	QIYAS	CANDIDATE	جعله غامضا	WASIT_JAL_SAYR
+T_TAD	HFN-E-3b828e1d48	غَمُضَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-642b9713ef	غَمَّضَ	فَعَّلَ	8			مُغَمِّض	مُغَمَّض	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0531a5c3ae	فَتِلَ	فَعِلَ	لازم		أَفْتَلُ	THUBUT	SIFAT	HFN-E-f7523c6c77	فَتَّلَ	فَعَّلَ	2			مُفَتِّل	مُفَتَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fbf268b04f	فَجِلَ	فَعِلَ	لازم		فَاجِل	FAIL	QIYAS	HFN-E-fc5e9a7d15	فَجَّلَ	فَعَّلَ	3			مُفَجِّل	مُفَجَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ced92b27ba	فَخُمَ	فَعُلَ	لازم		فَخْمٌ	THUBUT	SIFAT	HFN-E-cafa03ec58	فَخَّمَ	فَعَّلَ	2			مُفَخِّم	مُفَخَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-70d1f0832d	فَرَغَ	فَعَلَ	لازم	من	فَارِغ	FAIL	QIYAS	HFN-E-77afb915ae	فَرَّغَ	فَعَّلَ	3			مُفَرِّغ	مُفَرَّغ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-97efad935b	فَرَغَ	فَعَلَ	لازم	من	فَارِغ	FAIL	QIYAS	HFN-E-77afb915ae	فَرَّغَ	فَعَّلَ	3			مُفَرِّغ	مُفَرَّغ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-863f74da68	فَرُغَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-77afb915ae	فَرَّغَ	فَعَّلَ	3			مُفَرِّغ	مُفَرَّغ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f45096b7aa	فَرِقَ	فَعِلَ	لازم		فَارِق	FAIL	QIYAS	HFN-E-635e31eb58	فَرَّقَ	فَعَّلَ	2			مُفَرِّق	مُفَرَّق	QIYAS	CANDIDATE	جعله فرقا	WASIT_JAL_SAYR
+T_TAD	HFN-E-9993b4794d	فَسَدَ	فَعَلَ	لازم		فَاسِد	FAIL	QIYAS	HFN-E-254a202ea1	فَسَّدَ	فَعَّلَ	3			مُفَسِّد	مُفَسَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-86466af1f2	فَلِحَ	فَعِلَ	لازم		أَفْلَحُ	THUBUT	SIFAT	HFN-E-f6651a3794	فَلَّحَ	فَعَّلَ	2			مُفَلِّح	مُفَلَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-46ac40400b	قَرِحَ	فَعِلَ	لازم		قَرِحُ	THUBUT	SIFAT	HFN-E-39797ea0cc	قَرَّحَ	فَعَّلَ	3			مُقَرِّح	مُقَرَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f0d5e9fa6f	قَرِسَ	فَعِلَ	لازم	ب	قَارِس	FAIL	QIYAS	HFN-E-89ed0e4c1f	قَرَّسَ	فَعَّلَ	5			مُقَرِّس	مُقَرَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-cd26bd9f0b	قَلِبَ	فَعِلَ	لازم		أَقْلب	THUBUT	SIFAT	HFN-E-5afe7e7d91	قَلَّبَ	فَعَّلَ	7			مُقَلِّب	مُقَلَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5dd2999762	قَوِدَ	فَعِلَ	لازم		أَقْوَد	THUBUT	SIFAT	HFN-E-a8c24d45ca	قَوَّدَ	فَعَّلَ	3					QIYAS	CANDIDATE		
+T_TAD	HFN-E-7721d76d4a	قَوِرَ	فَعِلَ	لازم		أَقْور	THUBUT	SIFAT	HFN-E-8c054ebfbd	قَوَّرَ	فَعَّلَ	5					QIYAS	CANDIDATE		
+T_TAD	HFN-E-1dcad06182	كَتِلَ	فَعِلَ	لازم		كَاتِل	FAIL	QIYAS	HFN-E-936a324594	كَتَّلَ	فَعَّلَ	2			مُكَتِّل	مُكَتَّل	QIYAS	CANDIDATE	جعله كتلة	WASIT_JAL_SAYR
+T_TAD	HFN-E-f58cd5318c	كَزِمَ	فَعِلَ	لازم		كزِمّ	THUBUT	SIFAT	HFN-E-b1dd0ace61	كَزَّمَ	فَعَّلَ	2			مُكَزِّم	مُكَزَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9962b5aa07	كَعِرَ	فَعِلَ	لازم		كَعِر	THUBUT	SIFAT	HFN-E-0051bf1d02	كَعَّرَ	فَعَّلَ	2			مُكَعِّر	مُكَعَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-18ed557490	كَلَحَ	فَعَلَ	لازم		كالح	HUDUTH	SIFAT	HFN-E-a402c55c91	كَلَّحَ	فَعَّلَ	2			مُكَلِّح	مُكَلَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c88aa9335e	لَبِقَ	فَعِلَ	لازم		لَبِق	THUBUT	SIFAT	HFN-E-2d142bc7a1	لَبَّقَ	فَعَّلَ	4			مُلَبِّق	مُلَبَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3f23def7c3	لَبُقَ	فَعُلَ	لازم		لَبِيق	THUBUT	SIFAT	HFN-E-2d142bc7a1	لَبَّقَ	فَعَّلَ	4			مُلَبِّق	مُلَبَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-dd7e1e9651	لَحَنَ	فَعَلَ	لازم	في	لاحن	HUDUTH	SIFAT	HFN-E-d535ab2840	لَحَّنَ	فَعَّلَ	4			مُلَحِّن	مُلَحَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-81c2438b16	لَحِنَ	فَعِلَ	لازم		لَحِنٌ	THUBUT	SIFAT	HFN-E-d535ab2840	لَحَّنَ	فَعَّلَ	4			مُلَحِّن	مُلَحَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8e24c60c10	مَحَلَ	فَعَلَ	لازم	ب	مَاحِل	FAIL	QIYAS	HFN-E-a4c703171b	مَحَّلَ	فَعَّلَ	2			مُمَحِّل	مُمَحَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f94c8da0e8	مَحُلَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-a4c703171b	مَحَّلَ	فَعَّلَ	2			مُمَحِّل	مُمَحَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8831b61a70	مَدِرَ	فَعِلَ	لازم		أَمْدَرُ	THUBUT	SIFAT	HFN-E-f9340203d9	مَدَّرَ	فَعَّلَ	5			مُمَدِّر	مُمَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-cc6fbd88bd	مَرَنَ	فَعَلَ	لازم	على	مَارِن	FAIL	QIYAS	HFN-E-c5a3ab9d63	مَرَّنَ	فَعَّلَ	3			مُمَرِّن	مُمَرَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-98ca72d725	مَزَحَ	فَعَلَ	لازم		مَازِح	FAIL	QIYAS	HFN-E-ad825b08a9	مَزَّحَ	فَعَّلَ	2			مُمَزِّح	مُمَزَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3c1bcb8a01	مَسَكَ	فَعَلَ	لازم	ب	مَاسِك	FAIL	QIYAS	HFN-E-385505b33b	مَسَّكَ	فَعَّلَ	5			مُمَسِّك	مُمَسَّك	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3154ce1499	مَضَرَ	فَعَلَ	لازم		ماضِرٌ	HUDUTH	SIFAT	HFN-E-e9f61fc818	مَضَّرَ	فَعَّلَ	4			مُمَضِّر	مُمَضَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-29db16d1b0	مَلِدَ	فَعِلَ	لازم		أَمْلَدُ	THUBUT	SIFAT	HFN-E-346fa84d61	مَلَّدَ	فَعَّلَ	3			مُمَلِّد	مُمَلَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-469a7f2b92	مَيِلَ	فَعِلَ	لازم		مَايِل	FAIL	QIYAS	HFN-E-282c947e9f	مَيَّلَ	فَعَّلَ	4					QIYAS	CANDIDATE		
+T_TAD	HFN-E-607beb9388	نَبَأَ	فَعَلَ	لازم	من	نَابِئ	FAIL	QIYAS	HFN-E-10e22324b3	نَبَّءَ	فَعَّلَ	3					QIYAS	CANDIDATE		
+T_TAD	HFN-E-ebf61c59ca	نَجِدَ	فَعِلَ	لازم		نَاجِد	FAIL	QIYAS	HFN-E-0ed64866c3	نَجَّدَ	فَعَّلَ	2			مُنَجِّد	مُنَجَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0ae6978fd6	نَجُدَ	فَعُلَ	لازم		نَجِدٌّ	THUBUT	SIFAT	HFN-E-0ed64866c3	نَجَّدَ	فَعَّلَ	2			مُنَجِّد	مُنَجَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2a5252191c	نَحَبَ	فَعَلَ	لازم	في	ناحب	HUDUTH	SIFAT	HFN-E-d28f04bb0e	نَحَّبَ	فَعَّلَ	2			مُنَحِّب	مُنَحَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-86f4be9aa1	نَحَبَ	فَعَلَ	لازم	في	ناحب	HUDUTH	SIFAT	HFN-E-d28f04bb0e	نَحَّبَ	فَعَّلَ	2			مُنَحِّب	مُنَحَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2bdb7efbbb	نَحَبَ	فَعَلَ	لازم	في	ناحب	HUDUTH	SIFAT	HFN-E-d28f04bb0e	نَحَّبَ	فَعَّلَ	2			مُنَحِّب	مُنَحَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ec93cb19b0	نَشِرَ	فَعِلَ	لازم		نَاشِر	FAIL	QIYAS	HFN-E-88230c46fa	نَشَّرَ	فَعَّلَ	5			مُنَشِّر	مُنَشَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-da8e434f0b	نَضَبَ	فَعَلَ	لازم	عن	نَاضِب	FAIL	QIYAS	HFN-E-2edfdc7f76	نَضَّبَ	فَعَّلَ	3			مُنَضِّب	مُنَضَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5db832b4f1	نَطَقَ	فَعَلَ	لازم		نَاطِق	FAIL	QIYAS	HFN-E-2584002da6	نَطَّقَ	فَعَّلَ	4			مُنَطِّق	مُنَطَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4de4a2ef9f	نَفِخَ	فَعِلَ	لازم		أَنْفَخِ	THUBUT	SIFAT	HFN-E-2639d95652	نَفَّخَ	فَعَّلَ	2			مُنَفِّخ	مُنَفَّخ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f7eef858a4	نَفَرَ	فَعَلَ	لازم	من	نَافِر	FAIL	QIYAS	HFN-E-56d4c0c78d	نَفَّرَ	فَعَّلَ	6			مُنَفِّر	مُنَفَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d76c6f62c6	نَفَرَ	فَعَلَ	لازم	من	نَافِر	FAIL	QIYAS	HFN-E-56d4c0c78d	نَفَّرَ	فَعَّلَ	6			مُنَفِّر	مُنَفَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e69bc9452c	نَكُرَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-019475009d	نَكَّرَ	فَعَّلَ	4			مُنَكِّر	مُنَكَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-542437507b	نَمِرَ	فَعِلَ	لازم		نمِرٌ	THUBUT	SIFAT	HFN-E-31c440a315	نَمَّرَ	فَعَّلَ	2			مُنَمِّر	مُنَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b23fc4cabd	نَمَرَ	فَعَلَ	لازم	في	نَامِر	FAIL	QIYAS	HFN-E-31c440a315	نَمَّرَ	فَعَّلَ	2			مُنَمِّر	مُنَمَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d8763e0437	نَمَقَ	فَعَلَ	لازم		نَامِق	FAIL	QIYAS	HFN-E-e7788e0abf	نَمَّقَ	فَعَّلَ	5			مُنَمِّق	مُنَمَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d8f65a1cc7	هَبُلَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-f8b0281069	هَبَّلَ	فَعَّلَ	2			مُهَبِّل	مُهَبَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2101f36523	هَبِلَ	فَعِلَ	لازم		هَابِل	FAIL	QIYAS	HFN-E-f8b0281069	هَبَّلَ	فَعَّلَ	2			مُهَبِّل	مُهَبَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-44f923aa7f	بَجِحَ	فَعِلَ	لازم	ب	بَجحٌ	THUBUT	SIFAT	HFN-E-291e2e8fb9	بَجَّحَ	فَعَّلَ	5			مُبَجِّح	مُبَجَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-59abbb18af	بَخِلَ	فَعِلَ	لازم		باخلٌ	HUDUTH	SIFAT	HFN-E-d00aac2a0e	بَخَّلَ	فَعَّلَ	3			مُبَخِّل	مُبَخَّل	QIYAS	CANDIDATE	جعله بخيلا	WASIT_JAL_SAYR
+T_TAD	HFN-E-bc5b519ada	بَدُعَ	فَعُلَ	لازم		بديع	THUBUT	SIFAT	HFN-E-4c970f6096	بَدَّعَ	فَعَّلَ	3			مُبَدِّع	مُبَدَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d12c86c789	بَرَأَ	فَعَلَ	لازم		بارئ	HUDUTH	SIFAT	HFN-E-432424d4cd	بَرَّءَ	فَعَّلَ	5					QIYAS	CANDIDATE		
+T_TAD	HFN-E-fbd760f94c	بَرِئَ	فَعِلَ	لازم	من	بارئ	HUDUTH	SIFAT	HFN-E-432424d4cd	بَرَّءَ	فَعَّلَ	5					QIYAS	CANDIDATE		
+T_TAD	HFN-E-acbbaaa88d	بَظِرَ	فَعِلَ	لازم		أَبْظَر	THUBUT	SIFAT	HFN-E-4db10dc0ac	بَظَّرَ	فَعَّلَ	2			مُبَظِّر	مُبَظَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-1e338fa9d2	تَرِحَ	فَعِلَ	لازم		ترِح	THUBUT	SIFAT	HFN-E-94e190e4cd	تَرَّحَ	فَعَّلَ	4			مُتَرِّح	مُتَرَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-299d007cc3	ثَبُتَ	فَعُلَ	لازم		ثَبْتُ	THUBUT	SIFAT	HFN-E-6f1fdfe968	ثَبَّتَ	فَعَّلَ	3			مُثَبِّت	مُثَبَّت	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b647557ea8	ثَبَتَ	فَعَلَ	لازم		ثَابِت	FAIL	QIYAS	HFN-E-6f1fdfe968	ثَبَّتَ	فَعَّلَ	3			مُثَبِّت	مُثَبَّت	QIYAS	CANDIDATE		
+T_TAD	HFN-E-20d4460423	جَدِلَ	فَعِلَ	لازم		جَدِل	THUBUT	SIFAT	HFN-E-f77a0f0e31	جَدَّلَ	فَعَّلَ	6			مُجَدِّل	مُجَدَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-140972859c	جَرَعَ	فَعَلَ	لازم		جَارِع	FAIL	QIYAS	HFN-E-fb63d05d5c	جَرَّعَ	فَعَّلَ	3			مُجَرِّع	مُجَرَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d415869b1a	جَرِمَ	فَعِلَ	لازم		جَارِم	FAIL	QIYAS	HFN-E-673f61e329	جَرَّمَ	فَعَّلَ	3			مُجَرِّم	مُجَرَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-bb39e5f867	جَرُمَ	فَعُلَ	لازم		جَارِم	FAIL	QIYAS	HFN-E-673f61e329	جَرَّمَ	فَعَّلَ	3			مُجَرِّم	مُجَرَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3156008bd1	جَشِمَ	فَعِلَ	لازم		جَشِمٌ	THUBUT	SIFAT	HFN-E-8a742d5fcb	جَشَّمَ	فَعَّلَ	4			مُجَشِّم	مُجَشَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d86065cda3	جَمَدَ	فَعَلَ	لازم		جَامِد	FAIL	QIYAS	HFN-E-b6eb32615e	جَمَّدَ	فَعَّلَ	4			مُجَمِّد	مُجَمَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-37cf74d244	حَتِدَ	فَعِلَ	لازم		حَتِدٌ	THUBUT	SIFAT	HFN-E-3ad673b2d0	حَتَّدَ	فَعَّلَ	2			مُحَتِّد	مُحَتَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-11eff66196	حَسَنَ	فَعَلَ	لازم		حَسَن	THUBUT	SIFAT	HFN-E-edce2d6a95	حَسَّنَ	فَعَّلَ	2			مُحَسِّن	مُحَسَّن	QIYAS	CANDIDATE	جعله حسنا	WASIT_JAL_SAYR
+T_TAD	HFN-E-751d1e2e5c	حَصُنَ	فَعُلَ	لازم		حَصِينٌ	THUBUT	SIFAT	HFN-E-b24f2d1ce4	حَصَّنَ	فَعَّلَ	5			مُحَصِّن	مُحَصَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4b3b9af469	حَلَفَ	فَعَلَ	لازم		حالِفٌ	HUDUTH	SIFAT	HFN-E-3972a13ca0	حَلَّفَ	فَعَّلَ	5			مُحَلِّف	مُحَلَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a8009ab11a	حَلِمَ	فَعِلَ	لازم		حَالِم	FAIL	QIYAS	HFN-E-0355c983b8	حَلَّمَ	فَعَّلَ	4			مُحَلِّم	مُحَلَّم	QIYAS	CANDIDATE	جعله حليما	WASIT_JAL_SAYR
+T_TAD	HFN-E-b3a693a7be	حَلُمَ	فَعُلَ	لازم		حَالِم	FAIL	QIYAS	HFN-E-0355c983b8	حَلَّمَ	فَعَّلَ	4			مُحَلِّم	مُحَلَّم	QIYAS	CANDIDATE	جعله حليما	WASIT_JAL_SAYR
+T_TAD	HFN-E-4eff203abc	خَبِلَ	فَعِلَ	لازم		خَبِلٌ	THUBUT	SIFAT	HFN-E-64627b203e	خَبَّلَ	فَعَّلَ	5			مُخَبِّل	مُخَبَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d77afc44b0	خَتِرَ	فَعِلَ	لازم		خَتِرٌ	THUBUT	SIFAT	HFN-E-8dd835b831	خَتَّرَ	فَعَّلَ	3			مُخَتِّر	مُخَتَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2d29b35dcd	خَثَرَ	فَعَلَ	لازم		خَاثِر	FAIL	QIYAS	HFN-E-77a78466c8	خَثَّرَ	فَعَّلَ	4			مُخَثِّر	مُخَثَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7686ea0642	خَثُرَ	فَعُلَ	لازم		خَثِيرٌ	THUBUT	SIFAT	HFN-E-77a78466c8	خَثَّرَ	فَعَّلَ	4			مُخَثِّر	مُخَثَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e3c8bf0b3a	خَدِرَ	فَعِلَ	لازم		خدِر	THUBUT	SIFAT	HFN-E-ad35184cb7	خَدَّرَ	فَعَّلَ	5			مُخَدِّر	مُخَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-eec58db671	خَدَعَ	فَعَلَ	لازم		خَادِع	FAIL	QIYAS	HFN-E-ed3b507ada	خَدَّعَ	فَعَّلَ	3			مُخَدِّع	مُخَدَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-16fd3474d8	خَرِبَ	فَعِلَ	لازم		خرِب	THUBUT	SIFAT	HFN-E-9d1dd6c4fd	خَرَّبَ	فَعَّلَ	6			مُخَرِّب	مُخَرَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fe59a88c9e	خَصَفَ	فَعَلَ	لازم		أَخْصَفُ	THUBUT	SIFAT	HFN-E-b00a1f2817	خَصَّفَ	فَعَّلَ	3			مُخَصِّف	مُخَصَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b5b67427a1	خَصِفَ	فَعِلَ	لازم		أَخْصَفُ	THUBUT	SIFAT	HFN-E-b00a1f2817	خَصَّفَ	فَعَّلَ	3			مُخَصِّف	مُخَصَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3568f3d2da	خَضِبَ	فَعِلَ	لازم		خَاضِب	FAIL	QIYAS	HFN-E-73ccde1ca2	خَضَّبَ	فَعَّلَ	2			مُخَضِّب	مُخَضَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6a4615d016	خَلِقَ	فَعِلَ	لازم		أَخلَقُ	THUBUT	SIFAT	HFN-E-e5050469da	خَلَّقَ	فَعَّلَ	5			مُخَلِّق	مُخَلَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c2b2aa0683	خَوِصَ	فَعِلَ	لازم		أَخْوَصُ	THUBUT	SIFAT	HFN-E-c1164a7342	خَوَّصَ	فَعَّلَ	3					QIYAS	CANDIDATE		
+T_TAD	HFN-E-5574d26c79	خَيِفَ	فَعِلَ	لازم		أَخْيَفُ	THUBUT	SIFAT	HFN-E-ca6796f547	خَيَّفَ	فَعَّلَ	3					QIYAS	CANDIDATE		
+T_TAD	HFN-E-468a467a75	دَبِقَ	فَعِلَ	لازم	ب	دَابِق	FAIL	QIYAS	HFN-E-7112fba7bd	دَبَّقَ	فَعَّلَ	4			مُدَبِّق	مُدَبَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c73c9d2534	ذَكِرَ	فَعِلَ	لازم		ذَكِرٌ	THUBUT	SIFAT	HFN-E-04babb3d8f	ذَكَّرَ	فَعَّلَ	5			مُذَكِّر	مُذَكَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b834f846a4	ذَمَلَ	فَعَلَ	لازم		ذامِل	HUDUTH	SIFAT	HFN-E-178d8a51eb	ذَمَّلَ	فَعَّلَ	3			مُذَمِّل	مُذَمَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a7d9cbbdd2	رَبَأَ	فَعَلَ	لازم	من	رَابِئ	FAIL	QIYAS	HFN-E-e22d6fd5e4	رَبَّءَ	فَعَّلَ	2					QIYAS	CANDIDATE		
+T_TAD	HFN-E-8781bcf817	رَبَتَ	فَعَلَ	لازم		رَابِت	FAIL	QIYAS	HFN-E-d4d048798b	رَبَّتَ	فَعَّلَ	4			مُرَبِّت	مُرَبَّت	QIYAS	CANDIDATE		
+T_TAD	HFN-E-253ac8d6bf	رَبِدَ	فَعِلَ	لازم		أَرْبد	THUBUT	SIFAT	HFN-E-34a20b7afd	رَبَّدَ	فَعَّلَ	4			مُرَبِّد	مُرَبَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-10992a6695	رَذُلَ	فَعُلَ	لازم		رذْل	THUBUT	SIFAT	HFN-E-db2bb18f02	رَذَّلَ	فَعَّلَ	2			مُرَذِّل	مُرَذَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-51823ca383	رَزَحَ	فَعَلَ	لازم	ب	رازِحٌ	HUDUTH	SIFAT	HFN-E-e97293b750	رَزَّحَ	فَعَّلَ	4			مُرَزِّح	مُرَزَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-580737ebd0	رَسِلَ	فَعِلَ	لازم		رَاسِل	FAIL	QIYAS	HFN-E-27e1bbd225	رَسَّلَ	فَعَّلَ	2			مُرَسِّل	مُرَسَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-92d9501ddd	رَشَدَ	فَعَلَ	لازم		راشد	HUDUTH	SIFAT	HFN-E-1b683849e4	رَشَّدَ	فَعَّلَ	3			مُرَشِّد	مُرَشَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7d58125cbb	رَقَصَ	فَعَلَ	لازم	في	رَاقِص	FAIL	QIYAS	HFN-E-afbbdf2bd7	رَقَّصَ	فَعَّلَ	3			مُرَقِّص	مُرَقَّص	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0e8f48fcac	رَكَزَ	فَعَلَ	لازم	في	رَاكِز	FAIL	QIYAS	HFN-E-9db7bc835c	رَكَّزَ	فَعَّلَ	3			مُرَكِّز	مُرَكَّز	QIYAS	CANDIDATE		
+T_TAD	HFN-E-315df12640	رَمِضَ	فَعِلَ	لازم		رمِضٌ	THUBUT	SIFAT	HFN-E-018271cb45	رَمَّضَ	فَعَّلَ	2			مُرَمِّض	مُرَمَّض	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5e30c93a00	رَنِقَ	فَعِلَ	لازم		رَنِقٌ	THUBUT	SIFAT	HFN-E-562a541cf4	رَنَّقَ	فَعَّلَ	4			مُرَنِّق	مُرَنَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d009701637	رَنَقَ	فَعَلَ	لازم		رَنْقٌ	THUBUT	SIFAT	HFN-E-562a541cf4	رَنَّقَ	فَعَّلَ	4			مُرَنِّق	مُرَنَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d4f75402dd	سَجِحَ	فَعِلَ	لازم		سَاجِح	FAIL	QIYAS	HFN-E-bff0df3904	سَجَّحَ	فَعَّلَ	3			مُسَجِّح	مُسَجَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d031d97862	سَهِدَ	فَعِلَ	لازم		سَهِدٌ	THUBUT	SIFAT	HFN-E-ba93ff6ae8	سَهَّدَ	فَعَّلَ	5			مُسَهِّد	مُسَهَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-625c6e7a05	شَبِمَ	فَعِلَ	لازم		شبِمٌ	THUBUT	SIFAT	HFN-E-347158238d	شَبَّمَ	فَعَّلَ	2			مُشَبِّم	مُشَبَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-cb2a9a7717	شَجُعَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-e414661b4a	شَجَّعَ	فَعَّلَ	3			مُشَجِّع	مُشَجَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-be46f530b2	شَنِجَ	فَعِلَ	لازم		شَنِجٌ	THUBUT	SIFAT	HFN-E-63da3d745a	شَنَّجَ	فَعَّلَ	3			مُشَنِّج	مُشَنَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3def01c4f4	شَنَفَ	فَعَلَ	لازم	عن	شَانِف	FAIL	QIYAS	HFN-E-d249a60a4a	شَنَّفَ	فَعَّلَ	2			مُشَنِّف	مُشَنَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-cd8b6f68d4	صَعُبَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-62321c3892	صَعَّبَ	فَعَّلَ	2			مُصَعِّب	مُصَعَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-ec4e2b499f	طَرِزَ	فَعِلَ	لازم		طَرِزٌ	THUBUT	SIFAT	HFN-E-d9cc2aadaa	طَرَّزَ	فَعَّلَ	3			مُطَرِّز	مُطَرَّز	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c64014cb18	طَلِسَ	فَعِلَ	لازم		طَالِس	FAIL	QIYAS	HFN-E-de469fb56d	طَلَّسَ	فَعَّلَ	4			مُطَلِّس	مُطَلَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-68beac43b6	طَنِخَ	فَعِلَ	لازم		طَانِخ	FAIL	QIYAS	HFN-E-f773c6db3f	طَنَّخَ	فَعَّلَ	2			مُطَنِّخ	مُطَنَّخ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e7a5a19d06	عَشِبَ	فَعِلَ	لازم		عَشِب	THUBUT	SIFAT	HFN-E-f127b6126f	عَشَّبَ	فَعَّلَ	2			مُعَشِّب	مُعَشَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5652caed18	عَشُبَ	فَعُلَ	لازم		غاشِبٌ	OTHER	SIFAT	HFN-E-f127b6126f	عَشَّبَ	فَعَّلَ	2			مُعَشِّب	مُعَشَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4ec5738279	عَظَلَ	فَعَلَ	لازم		عَاظِل	FAIL	QIYAS	HFN-E-4a8f6ac63f	عَظَّلَ	فَعَّلَ	2			مُعَظِّل	مُعَظَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2a6158fe9d	عَقِدَ	فَعِلَ	لازم		أَعقدُ	THUBUT	SIFAT	HFN-E-c91faceceb	عَقَّدَ	فَعَّلَ	4			مُعَقِّد	مُعَقَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8e9b2e44d7	عَقِصَ	فَعِلَ	لازم	على	أَعْقَصُ	THUBUT	SIFAT	HFN-E-22b4bf8cb7	عَقَّصَ	فَعَّلَ	2			مُعَقِّص	مُعَقَّص	QIYAS	CANDIDATE		
+T_TAD	HFN-E-58a1a240e7	عَلَنَ	فَعَلَ	لازم		عَالِن	FAIL	QIYAS	HFN-E-8bbb1c1b3d	عَلَّنَ	فَعَّلَ	2			مُعَلِّن	مُعَلَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e1cbd13957	عَلِنَ	فَعِلَ	لازم		عَلِن	THUBUT	SIFAT	HFN-E-8bbb1c1b3d	عَلَّنَ	فَعَّلَ	2			مُعَلِّن	مُعَلَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4693e46139	عَمِدَ	فَعِلَ	لازم		عَمِدٌ	THUBUT	SIFAT	HFN-E-af65f3b9ab	عَمَّدَ	فَعَّلَ	3			مُعَمِّد	مُعَمَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-838df11bf6	عَمِسَ	فَعِلَ	لازم		عَامِس	FAIL	QIYAS	HFN-E-94881c8799	عَمَّسَ	فَعَّلَ	3			مُعَمِّس	مُعَمَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c8c283f5fc	عَمُسَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-94881c8799	عَمَّسَ	فَعَّلَ	3			مُعَمِّس	مُعَمَّس	QIYAS	CANDIDATE		
+T_TAD	HFN-E-a2218683f0	عَمِلَ	فَعِلَ	لازم	على	عامل	HUDUTH	SIFAT	HFN-E-bf44775b6d	عَمَّلَ	فَعَّلَ	3			مُعَمِّل	مُعَمَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-7ec7fdd4e9	عَنِتَ	فَعِلَ	لازم		عَنِتْ	THUBUT	SIFAT	HFN-E-914c3c0fd6	عَنَّتَ	فَعَّلَ	3			مُعَنِّت	مُعَنَّت	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d3b0eed0a1	غَرِمَ	فَعِلَ	لازم	في	غَارِم	FAIL	QIYAS	HFN-E-612e96b499	غَرَّمَ	فَعَّلَ	4			مُغَرِّم	مُغَرَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-46aa824dea	غَلِبَ	فَعِلَ	لازم		أغلبُ	THUBUT	SIFAT	HFN-E-cb6ab2aad9	غَلَّبَ	فَعَّلَ	2			مُغَلِّب	مُغَلَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-52c33d2a6c	غَلِطَ	فَعِلَ	لازم		غَلْطَانُ	THUBUT	SIFAT	HFN-E-c9a7c39893	غَلَّطَ	فَعَّلَ	2			مُغَلِّط	مُغَلَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-95a83371d0	غَلِفَ	فَعِلَ	لازم		أَغلفُ	THUBUT	SIFAT	HFN-E-0002fe8c5e	غَلَّفَ	فَعَّلَ	4			مُغَلِّف	مُغَلَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d6563be30d	غَلِقَ	فَعِلَ	لازم	في	غَلِقٌ	THUBUT	SIFAT	HFN-E-d5e2cca786	غَلَّقَ	فَعَّلَ	2			مُغَلِّق	مُغَلَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-bc5f6ee854	فَتِقَ	فَعِلَ	لازم		فَتِقٌ	THUBUT	SIFAT	HFN-E-729259a486	فَتَّقَ	فَعَّلَ	2			مُفَتِّق	مُفَتَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2d4862c08a	فَرَثَ	فَعَلَ	لازم		فَرِتٌ	OTHER	SIFAT	HFN-E-8e287774b2	فَرَّثَ	فَعَّلَ	4			مُفَرِّث	مُفَرَّث	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9924d0ddd7	فَرَثَ	فَعَلَ	لازم		فَرِتٌ	OTHER	SIFAT	HFN-E-8e287774b2	فَرَّثَ	فَعَّلَ	4			مُفَرِّث	مُفَرَّث	QIYAS	CANDIDATE		
+T_TAD	HFN-E-851974b5a7	فَرِثَ	فَعِلَ	لازم		فَرِتٌ	OTHER	SIFAT	HFN-E-8e287774b2	فَرَّثَ	فَعَّلَ	4			مُفَرِّث	مُفَرَّث	QIYAS	CANDIDATE		
+T_TAD	HFN-E-90a71b9bbe	فَرِحَ	فَعِلَ	لازم		فَارِح	FAIL	QIYAS	HFN-E-928cdc2db2	فَرَّحَ	فَعَّلَ	4			مُفَرِّح	مُفَرَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9fd3a94e98	فَزِرَ	فَعِلَ	لازم		أَفْزَرُ	THUBUT	SIFAT	HFN-E-1baacb37de	فَزَّرَ	فَعَّلَ	2			مُفَزِّر	مُفَزَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b334b1ffe9	فَسَقَ	فَعَلَ	لازم	من	فاسق	HUDUTH	SIFAT	HFN-E-acd986613b	فَسَّقَ	فَعَّلَ	2			مُفَسِّق	مُفَسَّق	QIYAS	CANDIDATE		
+T_TAD	HFN-E-56290bb466	فَقُهَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-cf5eb91e32	فَقَّهَ	فَعَّلَ	2			مُفَقِّه	مُفَقَّه	QIYAS	CANDIDATE	صيره فقيها	WASIT_JAL_SAYR
+T_TAD	HFN-E-c8e76ce5a7	فَوِهَ	فَعِلَ	لازم		أَفْوَهُ	THUBUT	SIFAT	HFN-E-764b97253c	فَوَّهَ	فَعَّلَ	3					QIYAS	CANDIDATE		
+T_TAD	HFN-E-f264f2fef5	قَصِفَ	فَعِلَ	لازم		قَصِف	THUBUT	SIFAT	HFN-E-e0a21173b7	قَصَّفَ	فَعَّلَ	2			مُقَصِّف	مُقَصَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-dad7b795ee	قَفِصَ	فَعِلَ	لازم	من	قَفِصٌ	THUBUT	SIFAT	HFN-E-93d8355122	قَفَّصَ	فَعَّلَ	2			مُقَفِّص	مُقَفَّص	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b3a468e0cf	قَلِعَ	فَعِلَ	لازم		قَلِعٌ	THUBUT	SIFAT	HFN-E-7dd649df92	قَلَّعَ	فَعَّلَ	2			مُقَلِّع	مُقَلَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-24e22608ec	كَثُفَ	فَعُلَ	لازم		كثيف	THUBUT	SIFAT	HFN-E-7c36943487	كَثَّفَ	فَعَّلَ	2			مُكَثِّف	مُكَثَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-9692d58773	كَدِرَ	فَعِلَ	لازم		كَدِرٌ	THUBUT	SIFAT	HFN-E-ce44016829	كَدَّرَ	فَعَّلَ	6			مُكَدِّر	مُكَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-b4b00d2738	كَدُرَ	فَعُلَ	لازم		كَدِير	THUBUT	SIFAT	HFN-E-ce44016829	كَدَّرَ	فَعَّلَ	6			مُكَدِّر	مُكَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-52bdfb84be	كَوِدَ	فَعِلَ	لازم		كَاوِد	FAIL	QIYAS	HFN-E-d61534bef0	كَوَّدَ	فَعَّلَ	3					QIYAS	CANDIDATE		
+T_TAD	HFN-E-626b9d49aa	كَوِعَ	فَعِلَ	لازم		كَاوِع	FAIL	QIYAS	HFN-E-341c43c991	كَوَّعَ	فَعَّلَ	3					QIYAS	CANDIDATE		
+T_TAD	HFN-E-4aaad36b15	لَبِثَ	فَعِلَ	لازم	ب	لَابِث	FAIL	QIYAS	HFN-E-318e2eb843	لَبَّثَ	فَعَّلَ	3			مُلَبِّث	مُلَبَّث	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f013ada166	لَجِبَ	فَعِلَ	لازم		لَجِبٌ	THUBUT	SIFAT	HFN-E-ecfab90171	لَجَّبَ	فَعَّلَ	6			مُلَجِّب	مُلَجَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-174af8a469	لَحَجَ	فَعَلَ	لازم		لَاحِج	FAIL	QIYAS	HFN-E-f5bbc05fde	لَحَّجَ	فَعَّلَ	5			مُلَحِّج	مُلَحَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-58dee75c63	لَحِجَ	فَعِلَ	لازم	ب	لَحِجٌ	THUBUT	SIFAT	HFN-E-f5bbc05fde	لَحَّجَ	فَعَّلَ	5			مُلَحِّج	مُلَحَّج	QIYAS	CANDIDATE		
+T_TAD	HFN-E-43d97eeb7f	لَهِبَ	فَعِلَ	لازم		لَهْبَانُ	THUBUT	SIFAT	HFN-E-830b7ff66b	لَهَّبَ	فَعَّلَ	4			مُلَهِّب	مُلَهَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4c62c3867e	مَتُعَ	فَعُلَ	لازم		مَاتِع	FAIL	QIYAS	HFN-E-f411f36af7	مَتَّعَ	فَعَّلَ	6			مُمَتِّع	مُمَتَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-833b527018	مَدِشَ	فَعِلَ	لازم		أَمْدَش	THUBUT	SIFAT	HFN-E-278b1217d3	مَدَّشَ	فَعَّلَ	3			مُمَدِّش	مُمَدَّش	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4bde132bcc	مَدَشَ	فَعَلَ	لازم	من	مَادِش	FAIL	QIYAS	HFN-E-278b1217d3	مَدَّشَ	فَعَّلَ	3			مُمَدِّش	مُمَدَّش	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5a187943f9	مَرَخَ	فَعَلَ	لازم	ب	مَرِحُ	OTHER	SIFAT	HFN-E-eac786443e	مَرَّخَ	فَعَّلَ	5			مُمَرِّخ	مُمَرَّخ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-0fd1c089d7	مَرِخَ	فَعِلَ	لازم		مَرِخٌ	THUBUT	SIFAT	HFN-E-eac786443e	مَرَّخَ	فَعَّلَ	5			مُمَرِّخ	مُمَرَّخ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-6004d7ac43	مَرَخَ	فَعَلَ	لازم	ب	مَرِحُ	OTHER	SIFAT	HFN-E-eac786443e	مَرَّخَ	فَعَّلَ	5			مُمَرِّخ	مُمَرَّخ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-d44da16963	مَسِحَ	فَعِلَ	لازم		مَسْحَاءُ	THUBUT	SIFAT	HFN-E-054aeec18f	مَسَّحَ	فَعَّلَ	2			مُمَسِّح	مُمَسَّح	QIYAS	CANDIDATE		
+T_TAD	HFN-E-eff84819eb	مَقُتَ	فَعُلَ	لازم		مَاقِت	FAIL	QIYAS	HFN-E-ac195920da	مَقَّتَ	فَعَّلَ	3			مُمَقِّت	مُمَقَّت	QIYAS	CANDIDATE		
+T_TAD	HFN-E-5cb9a789ca	مَكُنَ	فَعُلَ	لازم		مَكِينَ	THUBUT	SIFAT	HFN-E-3cb96bbc31	مَكَّنَ	فَعَّلَ	3			مُمَكِّن	مُمَكَّن	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e6e364e6d5	مَلَزَ	فَعَلَ	لازم	عن	مَالِز	FAIL	QIYAS	HFN-E-ec0c1065d3	مَلَّزَ	فَعَّلَ	3			مُمَلِّز	مُمَلَّز	QIYAS	CANDIDATE		
+T_TAD	HFN-E-23d71b9bcc	مَلِسَ	فَعِلَ	لازم		أَملس	THUBUT	SIFAT	HFN-E-133fe4e930	مَلَّسَ	فَعَّلَ	3			مُمَلِّس	مُمَلَّس	QIYAS	CANDIDATE	جعله ءملس	WASIT_JAL_SAYR
+T_TAD	HFN-E-8a54887f58	مَلُسَ	فَعُلَ	لازم		مَلِيس	THUBUT	SIFAT	HFN-E-133fe4e930	مَلَّسَ	فَعَّلَ	3			مُمَلِّس	مُمَلَّس	QIYAS	CANDIDATE	جعله ءملس	WASIT_JAL_SAYR
+T_TAD	HFN-E-b6317ba3f0	مَلِطَ	فَعِلَ	لازم		أملط	THUBUT	SIFAT	HFN-E-027913beb8	مَلَّطَ	فَعَّلَ	5			مُمَلِّط	مُمَلَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-06a100ce66	مَهِكَ	فَعِلَ	لازم		مَاهِك	FAIL	QIYAS	HFN-E-e7eeb3d755	مَهَّكَ	فَعَّلَ	2			مُمَهِّك	مُمَهَّك	QIYAS	CANDIDATE		
+T_TAD	HFN-E-4ef733ff9c	مَهَكَ	فَعَلَ	لازم	في	مَاهِك	FAIL	QIYAS	HFN-E-e7eeb3d755	مَهَّكَ	فَعَّلَ	2			مُمَهِّك	مُمَهَّك	QIYAS	CANDIDATE		
+T_TAD	HFN-E-23f3b66f2d	مَهَلَ	فَعَلَ	لازم	في	مَاهِل	FAIL	QIYAS	HFN-E-e23a8b5951	مَهَّلَ	فَعَّلَ	4			مُمَهِّل	مُمَهَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-27a8368b80	نَبَطَ	فَعَلَ	لازم		نَابِط	FAIL	QIYAS	HFN-E-9a928e095d	نَبَّطَ	فَعَّلَ	2			مُنَبِّط	مُنَبَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-628aeceb30	نَبُلَ	فَعُلَ	لازم		نبيل	THUBUT	SIFAT	HFN-E-f6e4c66abf	نَبَّلَ	فَعَّلَ	3			مُنَبِّل	مُنَبَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e7c8dcd1f6	نَجُبَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-024922aa37	نَجَّبَ	فَعَّلَ	4			مُنَجِّب	مُنَجَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-90d16fcafd	نَزِعَ	فَعِلَ	لازم		أنزَع	THUBUT	SIFAT	HFN-E-3483e40819	نَزَّعَ	فَعَّلَ	2			مُنَزِّع	مُنَزَّع	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f6afe710dc	نَشِطَ	فَعِلَ	لازم	في	ناشِط	HUDUTH	SIFAT	HFN-E-b84b75cec8	نَشَّطَ	فَعَّلَ	4			مُنَشِّط	مُنَشَّط	QIYAS	CANDIDATE	جعله ينشط	WASIT_JAL_SAYR
+T_TAD	HFN-E-8bcaac658c	نَصِبَ	فَعِلَ	لازم		ناصِب	HUDUTH	SIFAT	HFN-E-d4633a32ec	نَصَّبَ	فَعَّلَ	4			مُنَصِّب	مُنَصَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-044eaf8c78	نَضِجَ	فَعِلَ	لازم		نَاضِج	FAIL	QIYAS	HFN-E-b3afe2c718	نَضَّجَ	فَعَّلَ	5			مُنَضِّج	مُنَضَّج	QIYAS	CANDIDATE	جعله ينضج	WASIT_JAL_SAYR
+T_TAD	HFN-E-a2a69ee9ec	نَكِظَ	فَعِلَ	لازم		نَاكِظ	FAIL	QIYAS	HFN-E-bc4521e256	نَكَّظَ	فَعَّلَ	4			مُنَكِّظ	مُنَكَّظ	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f2f84144cd	نَكِفَ	فَعِلَ	لازم		مَنْكُوف	OTHER	SIFAT	HFN-E-c2749fa728	نَكَّفَ	فَعَّلَ	3			مُنَكِّف	مُنَكَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2ebd2006f3	نَهَدَ	فَعَلَ	لازم		ناهِدٌ	HUDUTH	SIFAT	HFN-E-5e5fe7210c	نَهَّدَ	فَعَّلَ	3			مُنَهِّد	مُنَهَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-3df48f7afa	نَهَدَ	فَعَلَ	لازم		ناهِدٌ	HUDUTH	SIFAT	HFN-E-5e5fe7210c	نَهَّدَ	فَعَّلَ	3			مُنَهِّد	مُنَهَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-04dcffaaa6	نَهُدَ	فَعُلَ	لازم		نَاهِد	FAIL	QIYAS	HFN-E-5e5fe7210c	نَهَّدَ	فَعَّلَ	3			مُنَهِّد	مُنَهَّد	QIYAS	CANDIDATE		
+T_TAD	HFN-E-56ba2e6aea	هَرِمَ	فَعِلَ	لازم		هَرِمٌ	THUBUT	SIFAT	HFN-E-4e2a503efa	هَرَّمَ	فَعَّلَ	3			مُهَرِّم	مُهَرَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c1b77ef05c	هَزِلَ	فَعِلَ	لازم		هَازِل	FAIL	QIYAS	HFN-E-ace5539dd8	هَزَّلَ	فَعَّلَ	2			مُهَزِّل	مُهَزَّل	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e52ab86f8e	هَلِبَ	فَعِلَ	لازم		أَهْلَبُ	THUBUT	SIFAT	HFN-E-038a554d3c	هَلَّبَ	فَعَّلَ	4			مُهَلِّب	مُهَلَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-8ea4101a2d	هَلِمَ	فَعِلَ	لازم		هَليم	THUBUT	SIFAT	HFN-E-f7aaa323d0	هَلَّمَ	فَعَّلَ	2			مُهَلِّم	مُهَلَّم	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2018b9b3a3	هَيِغَ	فَعِلَ	لازم		هَايِغ	FAIL	QIYAS	HFN-E-d4f49cbc7e	هَيَّغَ	فَعَّلَ	2					QIYAS	CANDIDATE		
+T_TAD	HFN-E-d2b4c39566	عَذُبَ	فَعُلَ	لازم		عَاذِب	FAIL	QIYAS	HFN-E-658f50056b	عَذَّبَ	فَعَّلَ	6	متعدي		مُعَذِّب	مُعَذَّب	QIYAS	CANDIDATE		
+T_TAD	HFN-E-043dd79df9	قَدَرَ	فَعَلَ	لازم	على	قَادِر	FAIL	QIYAS	HFN-E-10b68254a4	قَدَّرَ	فَعَّلَ	7	متعدي		مُقَدِّر	مُقَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fb5098b688	قَدِرَ	فَعِلَ	لازم		أَقْدر	THUBUT	SIFAT	HFN-E-10b68254a4	قَدَّرَ	فَعَّلَ	7	متعدي		مُقَدِّر	مُقَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-36035df000	قَدَرَ	فَعَلَ	لازم	على	قَادِر	FAIL	QIYAS	HFN-E-10b68254a4	قَدَّرَ	فَعَّلَ	7	متعدي		مُقَدِّر	مُقَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-27320a4796	قَدِرَ	فَعِلَ	لازم		أَقْدر	THUBUT	SIFAT	HFN-E-10b68254a4	قَدَّرَ	فَعَّلَ	7	متعدي		مُقَدِّر	مُقَدَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-e7fe2d9b58	طَهُرَ	فَعُلَ	لازم		طَاهِر	FAIL	QIYAS	HFN-E-11588633bb	طَهَّرَ	فَعَّلَ	4	متعدي		مُطَهِّر	مُطَهَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-f8e6349bf5	حَرُفَ	فَعُلَ	لازم			FAIL	QIYAS	HFN-E-f0727f4c7d	حَرَّفَ	فَعَّلَ	2	متعدي		مُحَرِّف	مُحَرَّف	QIYAS	CANDIDATE		
+T_TAD	HFN-E-c2752980de	حَكُمَ	فَعُلَ	لازم		حَاكِم	FAIL	QIYAS	HFN-E-f3451fcae1	حَكَّمَ	فَعَّلَ	7	متعدي		مُحَكِّم	مُحَكَّم	QIYAS	CANDIDATE	جعله حكما	WASIT_JAL_SAYR
+T_TAD	HFN-E-f6174a7079	سَلُطَ	فَعُلَ	لازم		سليط	THUBUT	SIFAT	HFN-E-eab8a8a1d6	سَلَّطَ	فَعَّلَ	2	متعدي		مُسَلِّط	مُسَلَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-bb74e672e8	سَلِطَ	فَعِلَ	لازم		سَلِطٌ	THUBUT	SIFAT	HFN-E-eab8a8a1d6	سَلَّطَ	فَعَّلَ	2	متعدي		مُسَلِّط	مُسَلَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-2fcbe57428	أَجِلَ	فَعِلَ	لازم		آجِل	FAIL	QIYAS	HFN-E-ee6740b9f1	أَجَّلَ	فَعَّلَ	4	متعدي				QIYAS	CANDIDATE		
+T_TAD	HFN-E-aa5407a9d8	ثَبِطَ	فَعِلَ	لازم		ثَبِطَ	THUBUT	SIFAT	HFN-E-34756fede7	ثَبَّطَ	فَعَّلَ	3	متعدي		مُثَبِّط	مُثَبَّط	QIYAS	CANDIDATE		
+T_TAD	HFN-E-fecf5fa85e	سَكِرَ	فَعِلَ	لازم	من	سَكِرٌ	THUBUT	SIFAT	HFN-E-ab158cb420	سَكَّرَ	فَعَّلَ	4	متعدي		مُسَكِّر	مُسَكَّر	QIYAS	CANDIDATE		
+T_TAD	HFN-E-799bd53ae5	سَعِرَ	فَعِلَ	لازم		أَسعر	THUBUT	SIFAT	HFN-E-b4687f618b	سَعَّرَ	فَعَّلَ	5	متعدي		مُسَعِّر	مُسَعَّر	QIYAS	CANDIDATE		

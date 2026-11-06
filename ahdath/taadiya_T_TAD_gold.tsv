@@ -1,0 +1,33 @@
+n	event_id	verb	base_event	base	text_phrase	label	note	judge
+1	HFN-E-23c44141b4	خَلَّفَ	HFN-E-9b6bc4e55e	خَلِفَ	جعله خلفه	NOT	جعله خلفه: ظرف لا حال خَلِفَ	CLAUDE
+2	HFN-E-41a2e79fa8	رَزَّمَ	HFN-E-95fe7f3397	رَزَمَ	جعلها رزما	NOT	رِزَم: اسم جمع، فعّل من الاسم	CLAUDE
+3	HFN-E-e472af4a1d	صَمَّتَ	HFN-E-5fb25f0579	صَمَتَ	جعله مصمتا	NOT	مُصمَت غير صامت: معنى آخر	CLAUDE
+4	HFN-E-ab5381852b	طَرَّفَ	HFN-E-577997bbe8	طَرُفَ	جعله طرفا	NOT	طَرَف: اسم لا حال طَرُفَ	CLAUDE
+5	HFN-E-d8fbeb0828	فَرَّدَ	HFN-E-fbf223f3ae	فَرَدَ	جعله ءفرادا	TAADIYA	أفراد: صار كلّ منه فرداً	CLAUDE
+6	HFN-E-417394cdc9	فَرَّعَ	HFN-E-cb14f56fd7	فَرِعَ	جعلها فروعا	NOT	فروع: من الاسم لا من فَرِعَ	CLAUDE
+7	HFN-E-4593e4c3eb	فَصَّلَ	HFN-E-5af70ff1c3	فَصَلَ	جعله فصولا	NOT	فصول: من الاسم	CLAUDE
+8	HFN-E-4593e4c3eb	فَصَّلَ	HFN-E-12a72a0050	فَصَلَ	جعله فصولا	NOT	فصول: من الاسم	CLAUDE
+9	HFN-E-d4a7e5c905	قَبَّحَ	HFN-E-5893544c3f	قَبُحَ	صيره قبيحا	TAADIYA		CLAUDE
+10	HFN-E-97603708a7	قَوَّسَ	HFN-E-709772d18f	قَوِسَ	جعله كالقوس.	TAADIYA		CLAUDE
+11	HFN-E-c5bbee72fb	كَبَّرَ	HFN-E-e6c157dbf8	كَبِرَ	جعله كبيرا.	TAADIYA		CLAUDE
+12	HFN-E-ed89b26e1c	هَرَّبَ	HFN-E-790d0f4f78	هَرَبَ	جعله يهرب	TAADIYA		CLAUDE
+13	HFN-E-6031288de7	حَمَّقَ	HFN-E-7ec0d81a74	حَمِقَ	جعله كالءحمق	DEFER	كالأحمق: تشبيه أو نسبة	CLAUDE
+14	HFN-E-6031288de7	حَمَّقَ	HFN-E-7061118124	حَمُقَ	جعله كالءحمق	DEFER	كالأحمق: تشبيه أو نسبة	CLAUDE
+15	HFN-E-6896d67a06	حَنَّفَ	HFN-E-9e45a6d3a3	حَنِفَ	جعله ءحنف	TAADIYA		CLAUDE
+16	HFN-E-6896d67a06	حَنَّفَ	HFN-E-77148a4703	حَنَفَ	جعله ءحنف	DEFER	حَنَفَ بالفتح: مال، والأحنف صفة حَنِفَ	CLAUDE
+17	HFN-E-f697f3b78f	دَكَّنَ	HFN-E-20aa466242	دَكِنَ	جعله ءدكن	TAADIYA		CLAUDE
+18	HFN-E-c1d9bd0b9f	سَوَّدَ	HFN-E-9e20d96fe4	سَوِدَ	جعله ءسود.	TAADIYA		CLAUDE
+19	HFN-E-642b9713ef	غَمَّضَ	HFN-E-58c5ec8b42	غَمَضَ	جعله غامضا	TAADIYA		CLAUDE
+20	HFN-E-642b9713ef	غَمَّضَ	HFN-E-293701a7c2	غَمَضَ	جعله غامضا	TAADIYA		CLAUDE
+21	HFN-E-635e31eb58	فَرَّقَ	HFN-E-f45096b7aa	فَرِقَ	جعله فرقا	NOT	فِرَق: من الاسم لا من فَرِقَ (خاف)	CLAUDE
+22	HFN-E-936a324594	كَتَّلَ	HFN-E-1dcad06182	كَتِلَ	جعله كتلة	DEFER	كَتِلَ غير متيقَّن	CLAUDE
+23	HFN-E-d00aac2a0e	بَخَّلَ	HFN-E-59abbb18af	بَخِلَ	جعله بخيلا	TAADIYA		CLAUDE
+24	HFN-E-edce2d6a95	حَسَّنَ	HFN-E-11eff66196	حَسَنَ	جعله حسنا	TAADIYA		CLAUDE
+25	HFN-E-0355c983b8	حَلَّمَ	HFN-E-a8009ab11a	حَلِمَ	جعله حليما	NOT	WRONG_BASE: حَلِمَ الأديم فسد، والحليم من حَلُمَ	CLAUDE
+26	HFN-E-0355c983b8	حَلَّمَ	HFN-E-b3a693a7be	حَلُمَ	جعله حليما	TAADIYA		CLAUDE
+27	HFN-E-cf5eb91e32	فَقَّهَ	HFN-E-56290bb466	فَقُهَ	صيره فقيها	TAADIYA		CLAUDE
+28	HFN-E-133fe4e930	مَلَّسَ	HFN-E-23d71b9bcc	مَلِسَ	جعله ءملس	TAADIYA		CLAUDE
+29	HFN-E-133fe4e930	مَلَّسَ	HFN-E-8a54887f58	مَلُسَ	جعله ءملس	TAADIYA		CLAUDE
+30	HFN-E-b84b75cec8	نَشَّطَ	HFN-E-f6afe710dc	نَشِطَ	جعله ينشط	TAADIYA		CLAUDE
+31	HFN-E-b3afe2c718	نَضَّجَ	HFN-E-044eaf8c78	نَضِجَ	جعله ينضج	TAADIYA		CLAUDE
+32	HFN-E-f3451fcae1	حَكَّمَ	HFN-E-c2752980de	حَكُمَ	جعله حكما	NOT	حَكَم (المحكَّم) لا حكيم	CLAUDE

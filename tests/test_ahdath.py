@@ -248,3 +248,13 @@ def test_25_jiha_sitt():
     d = json.load(open(os.path.join(ROOT, "data", "wordnet", "wordnet_tahayyuz.json"), encoding="utf-8"))
     e = d[[k for k in d if k != "_meta"][0]]
     assert e["left.n.01"]["class"] == "HAYYIZ_MUBHAM" and e["left.n.01"]["subtype"] == "JIHA"
+
+
+def test_26_t_tad_blocked():
+    """T_TAD: فَعَّلَ بنصّ «جعله/صيّره» — كَبَّرَ ← كَبِرَ «جعله كبيرا»؛ والمسلك محجوب (0.643 < 0.78)."""
+    rows = _rows("taadiya_T_TAD.tsv")
+    assert any(A.bare(r["verb"]) == "كبر" and "كبير" in r["text_phrase"] for r in rows)
+    gold = _rows("taadiya_T_TAD_gold.tsv")
+    judged = [g for g in gold if g["label"] != "DEFER"]
+    ok = sum(g["label"] == "TAADIYA" for g in judged)
+    assert A.wilson(ok, len(judged)) < A.THRESH
