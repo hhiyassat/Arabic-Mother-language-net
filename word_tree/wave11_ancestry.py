@@ -27,11 +27,11 @@ if os.path.isdir(_MAQ):
     sys.path.insert(1, _MAQ)
 
 from maqayis_v2.maqayis_api import MaqayisAPI
-from engines.noun_root_corrector import load_maqayis_index, extract_root_for_maqayis
-from engines.derivation_engine import derive, derive_from_dict, DerivationSet, MazidEntry
-from engines.morphological_engine import conjugate, ConjugationParadigm
-from engines.slots_engine import parse_predicate, PredicateStructure, Slot
-from core.types import RootType, Baab
+from word_tree.engines.noun_root_corrector import load_maqayis_index, extract_root_for_maqayis
+from word_tree.engines.derivation_engine import derive, derive_from_dict, DerivationSet, MazidEntry
+from word_tree.engines.morphological_engine import conjugate, ConjugationParadigm
+from word_tree.engines.slots_engine import parse_predicate, PredicateStructure, Slot
+from word_tree.core.types import RootType, Baab
 
 # ── ملف بيانات الجذور التجريبية ────────────────────────────────────────
 _PILOT_JSON = os.path.join(os.path.dirname(__file__), "data", "pilot_roots.json")
