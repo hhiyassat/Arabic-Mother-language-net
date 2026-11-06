@@ -67,6 +67,31 @@ def _hfn_vowelled(text: str, event_id: str) -> str:
     return h if h and _HARAKAT.sub("", h) == _HARAKAT.sub("", unicodedata.normalize("NFC", text or "")) else text
 
 
+_HARAKA = re.compile(r"[ً-ْ]")
+
+
+def _mutawi_flags(text: str, root: str) -> list[str]:
+    """علامات مطاوعٍ كُتب من نصّ الوسيط بلا حدث HFN (فحص الجذور، الدفعة 2: 23 صفّاً؛ audit/mutawaa_text_only.tsv).
+    لا يُغيَّر النصّ — لا دليل يصحّحه — بل يُعلَّم: PARTIAL_VOWELLING حرفٌ صحيح بلا حركة ولا شدّة؛
+    ROOT_LETTERS_MISSING حروف الجذر الصحيحة ليست فيه بترتيبها (نصّ OCR تالف)."""
+    t = unicodedata.normalize("NFC", text or "")
+    flags = []
+    for i, c in enumerate(t):
+        if _HARAKAT.match(c) or c in "اويىآ":
+            continue
+        nxt = t[i + 1] if i + 1 < len(t) else ""
+        if not (_HARAKA.match(nxt) or nxt == "ّ"):
+            flags.append("PARTIAL_VOWELLING")
+            break
+    bare, it = _bare(t), iter(_bare(t))
+    rb = _bare(root)
+    rb = rb[:2] if len(rb) == 3 and rb[1] == rb[2] else rb          # المضعّف: الشدّة تُسقط تكرار الحرف
+    sound = [c for c in rb if c not in "اوي"]
+    if root and not all(c in it for c in sound) and bare:
+        flags.append("ROOT_LETTERS_MISSING")
+    return flags
+
+
 @lru_cache(maxsize=1)
 def _table() -> list[dict]:
     out = []
@@ -78,9 +103,11 @@ def _table() -> list[dict]:
     for r in _rows(ROUTES["R1W"]["file"]):
         if r.get("mani"):
             continue
+        mv = _hfn_vowelled(r["mutawi"], r["mutawi_event"])
         out.append(dict(route="R1W", root=r["root"], verb=r["base"], event_id=r["base_event"], fail=r["fail"],
-                        maful=r["maful"], mutawi=_hfn_vowelled(r["mutawi"], r["mutawi_event"]),
-                        mutawi_text=r["mutawi"], athar=r["athar"], sifa="", rank="CANDIDATE"))
+                        maful=r["maful"], mutawi=mv, mutawi_text=r["mutawi"],
+                        mutawi_src="HFN" if mv == _hfn_verbs().get(r["mutawi_event"] or "") else "WASIT_TEXT",
+                        mutawi_flags=_mutawi_flags(mv, r["root"]), athar=r["athar"], sifa="", rank="CANDIDATE"))
     for r in _rows(ROUTES["T_JAL"]["file"]):
         out.append(dict(route="T_JAL", root="", verb=r["verb"], event_id=r["event_id"], fail=r["fail"],
                         maful=r["maful"], mutawi=r["base"], athar="", sifa=r["sifa"], rank="CANDIDATE",
