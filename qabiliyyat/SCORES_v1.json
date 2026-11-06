@@ -1,0 +1,43 @@
+{
+ "R1_MUTAWAA": {
+  "labels": {
+   "DEFER": 5,
+   "PHYS": 49,
+   "NAFS": 4,
+   "NOT": 2
+  },
+  "judged": 55,
+  "ok": 53,
+  "precision": 0.964,
+  "wilson_low": 0.877,
+  "verdict": "ACCEPT"
+ },
+ "R2_FACULA": {
+  "labels": {
+   "KHASLA_NAFS": 21,
+   "KHASSA_JINS": 22,
+   "DEFER": 10,
+   "BOTH": 2,
+   "NOT": 5
+  },
+  "judged": 50,
+  "ok": 45,
+  "precision": 0.9,
+  "wilson_low": 0.786,
+  "verdict": "ACCEPT"
+ },
+ "R3_FACUL": {
+  "labels": {
+   "KHASLA": 22,
+   "OTHER": 21,
+   "QABIL_FAIL": 10,
+   "DEFER": 5,
+   "QABIL_MUNFAIL": 2
+  },
+  "judged": 55,
+  "ok": 12,
+  "precision": 0.218,
+  "wilson_low": 0.129,
+  "verdict": "BLOCK"
+ }
+}

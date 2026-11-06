@@ -1,0 +1,61 @@
+n	event_id	verb	transitivity	label	basis	note	judge
+1	HFN-E-6f8a49fbda	رَدَفَ	متعدي	LA_ATHAR	KNOWLEDGE	ردفه: ركب خلفه أو تبعه	CLAUDE
+2	HFN-E-2af50c6f05	دَكَّ	متعدي	MUATHTHIR	KNOWLEDGE	دكّ الجبل: هدمه وسوّاه	CLAUDE
+3	HFN-E-c43f938027	خَصَلَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+4	HFN-E-dd6661e035	بَثَّ	متعدي	MUATHTHIR	GLOSS	نشره وفرّقه	CLAUDE
+5	HFN-E-d92d3f80ba	رَقَبَ	مشترك	LA_ATHAR	KNOWLEDGE	رقبه: رصده وانتظره؛ والشرح للازم	CLAUDE
+6	HFN-E-2aa1464227	وَقَشَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+7	HFN-E-252944c05f	زَأَمَ	مشترك	MUATHTHIR	GLOSS	ذعره؛ البرد ملأ جسمه حتى ارتعد	CLAUDE
+8	HFN-E-dcfcd4ae9a	جَاظَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+9	HFN-E-95902a481f	نَتَشَ	مشترك	MUATHTHIR	GLOSS	جذبه واستخرجه؛ نتف	CLAUDE
+10	HFN-E-14bd46a421	رَفَعَ	مشترك	MUATHTHIR	GLOSS	أعلاه	CLAUDE
+11	HFN-E-e4c3764791	بَذَرَ	مشترك	MUATHTHIR	GLOSS	ألقاه في الأرض؛ فرّقه	CLAUDE
+12	HFN-E-3156008bd1	جَشِمَ	مشترك	LA_ATHAR	GLOSS	تكلّف الأمر على مشقّة	CLAUDE
+13	HFN-E-c634484ae9	غَبَنَ	متعدي	DEFER	GLOSS	نقص الرأي، ونسي؛ والغبن في البيع نقص في الملك لا في المحلّ	CLAUDE
+14	HFN-E-f85d424e6f	حَلَا	مشترك	NOT_TRANS	GLOSS	كان حلواً	CLAUDE
+15	HFN-E-0805f7fb82	قَذَرَ	مشترك	MUATHTHIR	GLOSS	جعله قذراً	CLAUDE
+16	HFN-E-dfa0aec43c	حَضَرَ	مشترك	LA_ATHAR	GLOSS	أقام، قدم، جاء	CLAUDE
+17	HFN-E-6f310a451e	جَمَخَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+18	HFN-E-627158fcaf	لَطَثَ	مشترك	MUATHTHIR	GLOSS	ضربه بعرض اليد	CLAUDE
+19	HFN-E-b9bf6b9f31	أَحَلَّ	متعدي	DEFER	GLOSS	جعله حلالاً حكم لا أثر؛ أحلّه المكان نقل	CLAUDE
+20	HFN-E-d90be14e70	نَضَّ	مشترك	NOT_TRANS	GLOSS	سال قليلاً	CLAUDE
+21	HFN-E-d752c8bf06	لَمَطَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+22	HFN-E-908af3f6aa	لَاسَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+23	HFN-E-f45433cf31	رَقَعَ	مشترك	MUATHTHIR	KNOWLEDGE	رقع الثوب: أصلحه برقعة	CLAUDE
+24	HFN-E-c09fba802b	ذَاجَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+25	HFN-E-4635c5ae87	حَاذَ	مشترك	DEFER	GLOSS	حافظ وحاط، وساق سوقاً عنيفاً	CLAUDE
+26	HFN-E-30b63f295a	وَدَّعَ	متعدي	LA_ATHAR	KNOWLEDGE	ودّعه عند السفر	CLAUDE
+27	HFN-E-1775cf6129	وَتَنَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+28	HFN-E-b464a0f18f	خَطَبَ	مشترك	LA_ATHAR	GLOSS	ألقى خطبة؛ طلب المرأة	CLAUDE
+29	HFN-E-a4ca5d73c7	بَسَّ	مشترك	MUATHTHIR	GLOSS	فتّته	CLAUDE
+30	HFN-E-965fb1d94e	سَفَنَ	مشترك	MUATHTHIR	KNOWLEDGE	سفنه: قشره	CLAUDE
+31	HFN-E-8fdb27ef76	دَفَا	متعدي	MUATHTHIR	GLOSS	أجهز على الجريح	CLAUDE
+32	HFN-E-6ea052aa3f	حَاشَ	مشترك	MUATHTHIR	GLOSS	جمع الدوابّ وساقها	CLAUDE
+33	HFN-E-018f5475d4	لَحِكَ	متعدي	MUATHTHIR	GLOSS	لأمه وألزقه	CLAUDE
+34	HFN-E-b907cdd6ba	شَتَّ	مشترك	NOT_TRANS	KNOWLEDGE	شتّ الأمر: تفرّق	CLAUDE
+35	HFN-E-cbfe14de3f	جَلَقَ	مشترك	MUATHTHIR	GLOSS	كشفه، حلق رأسه	CLAUDE
+36	HFN-E-43d3ad318e	قَبَطَ	متعدي	MUATHTHIR	GLOSS	جمعه بيده، خلطه	CLAUDE
+37	HFN-E-da5cd13d39	نَجَفَ	متعدي	MUATHTHIR	GLOSS	حفر فيه ووسّع جوفه، قطعه	CLAUDE
+38	HFN-E-345db69fb5	رَضَمَ	مشترك	NOT_TRANS	GLOSS	ثقل عدوه، أقام	CLAUDE
+39	HFN-E-5c3aeab6c5	يَقِنَ	مشترك	LA_ATHAR	KNOWLEDGE	يقن الأمر: علمه	CLAUDE
+40	HFN-E-ef371a883a	صَامَ	مشترك	NOT_TRANS	GLOSS	أمسك	CLAUDE
+41	HFN-E-539cf0f3f4	لَمَأَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+42	HFN-E-a8303fef64	حَذَّ	متعدي	MUATHTHIR	KNOWLEDGE	حذّه: قطعه	CLAUDE
+43	HFN-E-ad047bebbf	شَكَّ	مشترك	DEFER	GLOSS	لصق، والتبس؛ وشكّه بالرمح خرقه	CLAUDE
+44	HFN-E-e0d782b685	سَتَهَ	متعدي	MUATHTHIR	KNOWLEDGE	سته: ضرب سَتَهه	CLAUDE
+45	HFN-E-765fc871f9	رَعَصَ	مشترك	NOT_TRANS	GLOSS	ارتعد واضطرب	CLAUDE
+46	HFN-E-9e93ceba04	لَهَطَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+47	HFN-E-b42c3a54db	أَلَكَ	مشترك	LA_ATHAR	GLOSS	أبلغه رسالة	CLAUDE
+48	HFN-E-81ab0a3358	حَظَلَ	مشترك	LA_ATHAR	GLOSS	منعه، ضيّق عليه	CLAUDE
+49	HFN-E-b2362392bd	جَبَخَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+50	HFN-E-5a60eb17f1	وَهَطَ	مشترك	DEFER	NO_GLOSS		CLAUDE
+51	HFN-E-cb03933af1	نَهَكَ	مشترك	MUATHTHIR	GLOSS	جهده وغلبه؛ نهكته الحمّى	CLAUDE
+52	HFN-E-19d5d9550e	بَطَنَ	مشترك	LA_ATHAR	GLOSS	خبره وعرف باطنه	CLAUDE
+53	HFN-E-9a3f6e8f39	عَاضَ	متعدي	DEFER	NO_GLOSS		CLAUDE
+54	HFN-E-629bdf0f2a	رَزَأَ	متعدي	DEFER	NO_GLOSS	نقص المال	CLAUDE
+55	HFN-E-57bd803ab7	قَرَأَ	متعدي	LA_ATHAR	GLOSS	تتبّع كلماته ونطق بها	CLAUDE
+56	HFN-E-de5c4645d8	شَكَعَ	مشترك	MUATHTHIR	GLOSS	رفع رأس الدابّة بزمامها	CLAUDE
+57	HFN-E-f672ee5154	مَشَطَ	متعدي	MUATHTHIR	GLOSS	رجّل الشعر وسرّحه	CLAUDE
+58	HFN-E-9b726bef8f	خَشِيَ	مشترك	LA_ATHAR	KNOWLEDGE	خشيه: خافه	CLAUDE
+59	HFN-E-1a8f73ac6f	لَحَطَ	متعدي	MUATHTHIR	GLOSS	كنسه ورشّه ونظّفه	CLAUDE
+60	HFN-E-a918a4ebe6	بَلِعَ	متعدي	MUATHTHIR	GLOSS	جرع الماء	CLAUDE

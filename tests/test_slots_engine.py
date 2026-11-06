@@ -2,21 +2,21 @@
 اختبار محرك الفتحات على الجذور العشرة التجريبية
 """
 import sys, os, json
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from word_tree.engines.slots_engine import (
+from engines.slots_engine import (
     parse_predicate_from_dict,
     find_compatible_pairs,
     group_by_predicate,
     group_by_signature,
     PredicateStructure,
 )
-from word_tree.core.types import SemanticType
+from core.types import SemanticType
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'pilot_roots.json')
 
 
-def test_root(root_data: dict) -> bool:
+def check_root(root_data: dict) -> bool:
     label   = root_data["display"]
     letters = root_data["letters"]
     print(f"\n{'═'*60}")
@@ -57,7 +57,7 @@ def main():
     passed = 0
 
     for rd in roots:
-        ok = test_root(rd)
+        ok = check_root(rd)
         if ok:
             passed += 1
             structures.append(parse_predicate_from_dict(rd))
@@ -93,3 +93,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+import pytest  # noqa: E402
+
+
+def _roots():
+    with open(DATA_PATH, encoding="utf-8") as f:
+        return json.load(f)["roots"]
+
+
+@pytest.mark.parametrize("root_data", _roots(), ids=lambda r: r.get("display", "?"))
+def test_pilot_root(root_data):
+    assert check_root(root_data)

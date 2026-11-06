@@ -1,0 +1,289 @@
+route	base_event	base	base_form	base_trans_wasit	base_harf	sifa	sifa_kind	sifa_src	event_id	verb	form	n_lex	verb_trans_hfn	fail	maful	maful_src	rank
+T_IFAL	HFN-E-a54b9c60d0	بَؤُسَ	فَعُلَ	لازم		بَئِيس	THUBUT	WASIT_FAHUWA	HFN-E-657d192edc	أَبْءَسَ	أَفْعَلَ	4					CANDIDATE
+T_IFAL	HFN-E-058a507222	بَاءَ	فَعَلَ	لازم	ب		HUDUTH	ISM_FAIL	HFN-E-3f95205c4f	أَبَاءَ	أَفَالَ	6					CANDIDATE
+T_IFAL	HFN-E-ef8b394d61	بَاتَ	فَعَلَ	لازم	في	بائِت	HUDUTH	WASIT_FAHUWA	HFN-E-2e4c99d001	أَبَاتَ	أَفَالَ	6					CANDIDATE
+T_IFAL	HFN-E-2d42e0708a	بَتِعَ	فَعِلَ	لازم	على	بَتِعٌ	THUBUT	WASIT_FAHUWA	HFN-E-fc509ac006	أَبْتَعَ	أَفْعَلَ	2		مُبْتِع	مُبْتَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-44f923aa7f	بَجِحَ	فَعِلَ	لازم	ب	بَجحٌ	THUBUT	WASIT_FAHUWA	HFN-E-9bef8646d8	أَبْجَحَ	أَفْعَلَ	2		مُبْجِح	مُبْجَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-59abbb18af	بَخِلَ	فَعِلَ	لازم		باخلٌ	HUDUTH	WASIT_FAHUWA	HFN-E-cbf5107713	أَبْخَلَ	أَفْعَلَ	3		مُبْخِل	مُبْخَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ddb8fa1b73	بَدِلَ	فَعِلَ	لازم		بَدِلٌ	THUBUT	WASIT_FAHUWA	HFN-E-5cfbe5856f	أَبْدَلَ	أَفْعَلَ	7		مُبْدِل	مُبْدَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3b722fe0e6	بَرَضَ	فَعَلَ	لازم	ل	بَارِض	HUDUTH	ISM_FAIL	HFN-E-31a3f6278a	أَبْرَضَ	أَفْعَلَ	2		مُبْرِض	مُبْرَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6008470783	بَرَكَ	فَعَلَ	لازم	على	بَرُوكٌ	THUBUT	WASIT_FAHUWA	HFN-E-d5109a4ad4	أَبْرَكَ	أَفْعَلَ	6		مُبْرِك	مُبْرَك	QIYAS	CANDIDATE
+T_IFAL	HFN-E-0a5d95bf32	بَرِشَ	فَعِلَ	لازم		أَبْرَشُ	THUBUT	WASIT_FAHUWA	HFN-E-7af42a2106	أَبْرَشَ	أَفْعَلَ	3		مُبْرِش	مُبْرَش	QIYAS	CANDIDATE
+T_IFAL	HFN-E-0e340439e3	بَرِمَ	فَعِلَ	لازم	ب	بَرِمْ	THUBUT	WASIT_FAHUWA	HFN-E-5a6d5966ac	أَبْرَمَ	أَفْعَلَ	7		مُبْرِم	مُبْرَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5918bdb9de	بَسَقَ	فَعَلَ	لازم	في	بَاسِق	HUDUTH	ISM_FAIL	HFN-E-d3509a5f9b	أَبْسَقَ	أَفْعَلَ	4		مُبْسِق	مُبْسَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a1fd3cd2b0	بَشِمَ	فَعِلَ	لازم	من	بَشِم	THUBUT	WASIT_FAHUWA	HFN-E-b5a30c5491	أَبْشَمَ	أَفْعَلَ	2		مُبْشِم	مُبْشَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ba5af879ea	بَقَلَ	فَعَلَ	لازم		بَاقِل	HUDUTH	ISM_FAIL	HFN-E-ef86b34f77	أَبْقَلَ	أَفْعَلَ	6		مُبْقِل	مُبْقَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-61d184fcfe	بَلَحَ	فَعَلَ	لازم		بَالِح	HUDUTH	ISM_FAIL	HFN-E-f37b80c274	أَبْلَحَ	أَفْعَلَ	6		مُبْلِح	مُبْلَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1f0910c459	بَلَعَ	فَعَلَ	لازم	في	بالِعُ	HUDUTH	WASIT_FAHUWA	HFN-E-f3b6e7b9a3	أَبْلَعَ	أَفْعَلَ	2		مُبْلِع	مُبْلَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-2c0bdf409f	بَلِمَ	فَعِلَ	لازم		بَالِم	HUDUTH	ISM_FAIL	HFN-E-52b45047c0	أَبْلَمَ	أَفْعَلَ	5		مُبْلِم	مُبْلَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d5a89eb868	تَءِقَ	فَعِلَ	لازم		تَئِقَ	THUBUT	WASIT_FAHUWA	HFN-E-97fb04c093	أَتْءَقَ	أَفْعَلَ	3					CANDIDATE
+T_IFAL	HFN-E-067e5dd9e3	تَرُصَ	فَعُلَ	لازم		تارص	THUBUT	WASIT_FAHUWA	HFN-E-c88deaf6e2	أَتْرَصَ	أَفْعَلَ	5		مُتْرِص	مُتْرَص	QIYAS	CANDIDATE
+T_IFAL	HFN-E-aad73021a4	تَرِفَ	فَعِلَ	لازم		تَرِفٌ	THUBUT	WASIT_FAHUWA	HFN-E-c87d33788e	أَتْرَفَ	أَفْعَلَ	4		مُتْرِف	مُتْرَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-55440b45fe	تَهِمَ	فَعِلَ	لازم		تَاهِم	HUDUTH	ISM_FAIL	HFN-E-08228760fe	أَتْهَمَ	أَفْعَلَ	6		مُتْهِم	مُتْهَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-bfdc4d562e	ثَابَ	فَعَلَ	لازم		ثَائِب	HUDUTH	ISM_FAIL	HFN-E-7f91271afd	أَثَابَ	أَفَالَ	4					CANDIDATE
+T_IFAL	HFN-E-48d185ce5a	ثَارَ	فَعَلَ	لازم		ثَائِر	HUDUTH	ISM_FAIL	HFN-E-87f8604b9a	أَثَارَ	أَفَالَ	6					CANDIDATE
+T_IFAL	HFN-E-aea2b552ca	ثَخُنَ	فَعُلَ	لازم		ثَخين	THUBUT	WASIT_FAHUWA	HFN-E-dbaab1a063	أَثْخَنَ	أَفْعَلَ	4		مُثْخِن	مُثْخَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1c3a93660b	ثَرِمَ	فَعِلَ	لازم		أَثْرمُ	THUBUT	WASIT_FAHUWA	HFN-E-166b1343c8	أَثْرَمَ	أَفْعَلَ	4		مُثْرِم	مُثْرَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-13a2c98806	ثَمَرَ	فَعَلَ	لازم	ل	ثَامِر	HUDUTH	ISM_FAIL	HFN-E-3c1ebc2dc6	أَثْمَرَ	أَفْعَلَ	5		مُثْمِر	مُثْمَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-765004729f	جَادَ	فَعَلَ	لازم		جيِّدٌ	OTHER	WASIT_FAHUWA	HFN-E-3d298854cd	أَجَادَ	أَفَالَ	6					CANDIDATE
+T_IFAL	HFN-E-94be557868	جَارَ	فَعَلَ	لازم	عن	جائرٌ	HUDUTH	WASIT_FAHUWA	HFN-E-f2fa77d673	أَجَارَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-75858d0906	جَاعَ	فَعَلَ	لازم		جائع	HUDUTH	WASIT_FAHUWA	HFN-E-5901c58ac5	أَجَاعَ	أَفَالَ	7					CANDIDATE
+T_IFAL	HFN-E-a571d77514	جَالَ	فَعَلَ	لازم		جَائِل	HUDUTH	ISM_FAIL	HFN-E-96da2b10fc	أَجَالَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-7c57db236f	جَحَرَ	فَعَلَ	لازم		جَاحِر	HUDUTH	ISM_FAIL	HFN-E-24a2131969	أَجْحَرَ	أَفْعَلَ	6		مُجْحِر	مُجْحَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-0be4df365b	جَرَنَ	فَعَلَ	لازم		جارِنٌ	HUDUTH	WASIT_FAHUWA	HFN-E-e07ae3b6b5	أَجْرَنَ	أَفْعَلَ	2		مُجْرِن	مُجْرَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-54e424dc16	جَرِبَ	فَعِلَ	لازم		أَجْرَب	THUBUT	WASIT_FAHUWA	HFN-E-5c12c40680	أَجْرَبَ	أَفْعَلَ	5		مُجْرِب	مُجْرَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-9a38cebc82	جَزَى	فَعَلَ	لازم		جَازٍ	HUDUTH	ISM_FAIL	HFN-E-6994c98cb7	أَجْزَى	أَفْعَى	4					CANDIDATE
+T_IFAL	HFN-E-3156008bd1	جَشِمَ	فَعِلَ	لازم		جَشِمٌ	THUBUT	WASIT_FAHUWA	HFN-E-c33c2ec8e0	أَجْشَمَ	أَفْعَلَ	4		مُجْشِم	مُجْشَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-562defc525	جَعِمَ	فَعِلَ	لازم		جَعِمُ	THUBUT	WASIT_FAHUWA	HFN-E-0beb488db3	أَجْعَمَ	أَفْعَلَ	5		مُجْعِم	مُجْعَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-7144a7054a	جَفَرَ	فَعَلَ	لازم	من	جَافِر	HUDUTH	ISM_FAIL	HFN-E-5aa5db56fa	أَجْفَرَ	أَفْعَلَ	6		مُجْفِر	مُجْفَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-0f297baeea	جَلَسَ	فَعَلَ	لازم		جالس	HUDUTH	WASIT_FAHUWA	HFN-E-8aef74db7c	أَجْلَسَ	أَفْعَلَ	3		مُجْلِس	مُجْلَس	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3bf7a58b31	جَلِعَ	فَعِلَ	لازم		جَلِع	THUBUT	WASIT_FAHUWA	HFN-E-e07dad6a0c	أَجْلَعَ	أَفْعَلَ	3		مُجْلِع	مُجْلَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-8bd2e36777	جَهَزَ	فَعَلَ	لازم	على	جَاهِز	HUDUTH	ISM_FAIL	HFN-E-41c54ea29c	أَجْهَزَ	أَفْعَلَ	5		مُجْهِز	مُجْهَز	QIYAS	CANDIDATE
+T_IFAL	HFN-E-b9ab1d1eb0	حَاجَ	فَعَلَ/فَعِلَ	لازم		حَائِج	HUDUTH	ISM_FAIL	HFN-E-68304df83b	أَحَاجَ	أَفَالَ	2					CANDIDATE
+T_IFAL	HFN-E-0bfc8de821	حَبَشَ	فَعَلَ	لازم	ل	حَابِش	HUDUTH	ISM_FAIL	HFN-E-50bfccda3d	أَحْبَشَ	أَفْعَلَ	2		مُحْبِش	مُحْبَش	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c0006b02b6	حَبَضَ	فَعَلَ	لازم	ب	حَابِض	HUDUTH	ISM_FAIL	HFN-E-bcea890f87	أَحْبَضَ	أَفْعَلَ	4		مُحْبِض	مُحْبَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ecf2945186	حَدَثَ	فَعَلَ	لازم		حَادِث	HUDUTH	ISM_FAIL	HFN-E-e0e85f225b	أَحْدَثَ	أَفْعَلَ	6		مُحْدِث	مُحْدَث	QIYAS	CANDIDATE
+T_IFAL	HFN-E-e8459f379a	حَسِكَ	فَعِلَ	لازم	على	حَسِكٌ	THUBUT	WASIT_FAHUWA	HFN-E-3f2b9525e5	أَحْسَكَ	أَفْعَلَ	2		مُحْسِك	مُحْسَك	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a77a101545	حَشَدَ	فَعَلَ	لازم		حَاشِد	HUDUTH	ISM_FAIL	HFN-E-331229f606	أَحْشَدَ	أَفْعَلَ	2		مُحْشِد	مُحْشَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6d80df9481	حَشَفَ	فَعَلَ	لازم		حَشِف	THUBUT	WASIT_FAHUWA	HFN-E-84b42a757a	أَحْشَفَ	أَفْعَلَ	4		مُحْشِف	مُحْشَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-12a86d93d5	حَشِمَ	فَعِلَ	لازم		حَشِم	THUBUT	WASIT_FAHUWA	HFN-E-5699d26648	أَحْشَمَ	أَفْعَلَ	2		مُحْشِم	مُحْشَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ae1244a3ca	حَشِنَ	فَعِلَ	لازم		حَشِنْ	THUBUT	WASIT_FAHUWA	HFN-E-500d330c3a	أَحْشَنَ	أَفْعَلَ	2		مُحْشِن	مُحْشَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-4e251b8a7b	حَقَلَ	فَعَلَ	لازم		حَاقِل	HUDUTH	ISM_FAIL	HFN-E-5e488f5453	أَحْقَلَ	أَفْعَلَ	5		مُحْقِل	مُحْقَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d06b2d6504	حَمِرَ	فَعِلَ	لازم		حَمِر	THUBUT	WASIT_FAHUWA	HFN-E-05c194eedf	أَحْمَرَ	أَفْعَلَ	4		مُحْمِر	مُحْمَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-20a3932b83	حَنِطَ	فَعِلَ	لازم		أَحْنَطْ	THUBUT	WASIT_FAHUWA	HFN-E-b8dc85cd19	أَحْنَطَ	أَفْعَلَ	4		مُحْنِط	مُحْنَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-fb163ef93a	حَنِقَ	فَعِلَ	لازم	على	حَنِق	THUBUT	WASIT_FAHUWA	HFN-E-c5857d0dd9	أَحْنَقَ	أَفْعَلَ	4		مُحْنِق	مُحْنَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f4e78ec02b	خَبَتَ	فَعَلَ	لازم		خَابِت	HUDUTH	ISM_FAIL	HFN-E-88a834d19f	أَخْبَتَ	أَفْعَلَ	7		مُخْبِت	مُخْبَت	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c2991dc1cb	خَذَأَ	فَعَلَ	لازم	ل	خَاذِئ	HUDUTH	ISM_FAIL	HFN-E-e52511cfee	أَخْذَءَ	أَفْعَلَ	2					CANDIDATE
+T_IFAL	HFN-E-b66c9b6113	خَذَا	فَعَلَ	لازم		خَاذٍ	HUDUTH	ISM_FAIL	HFN-E-6043957a66	أَخْذَى	أَفْعَى	2					CANDIDATE
+T_IFAL	HFN-E-3a1a2cf4dc	خَرِدَ	فَعِلَ	لازم		خارِدٌ	HUDUTH	WASIT_FAHUWA	HFN-E-41bddcd91e	أَخْرَدَ	أَفْعَلَ	4		مُخْرِد	مُخْرَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-20ad059a04	خَرِفَ	فَعِلَ	لازم		خَرِف	THUBUT	WASIT_FAHUWA	HFN-E-7608bf5d39	أَخْرَفَ	أَفْعَلَ	6		مُخْرِف	مُخْرَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-e90bcd41e0	خَشَعَ	فَعَلَ	لازم		خاشع	HUDUTH	WASIT_FAHUWA	HFN-E-9d0f26279d	أَخْشَعَ	أَفْعَلَ	2		مُخْشِع	مُخْشَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-02e4fed65b	خَطِلَ	فَعِلَ	لازم	في	خطِل	THUBUT	WASIT_FAHUWA	HFN-E-245e44474e	أَخْطَلَ	أَفْعَلَ	5		مُخْطِل	مُخْطَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f51b16e224	خَفِشَ	فَعِلَ	لازم		أَخفشُ	THUBUT	WASIT_FAHUWA	HFN-E-fe1f74fb2d	أَخْفَشَ	أَفْعَلَ	2		مُخْفِش	مُخْفَش	QIYAS	CANDIDATE
+T_IFAL	HFN-E-8d393ec795	خَلَا	فَعَلَ	لازم	على	خَالٍ	HUDUTH	ISM_FAIL	HFN-E-11370a685f	أَخْلَى	أَفْعَى	4					CANDIDATE
+T_IFAL	HFN-E-c9b55ad712	خَلَدَ	فَعَلَ	لازم		خَالِد	HUDUTH	ISM_FAIL	HFN-E-c9890a2375	أَخْلَدَ	أَفْعَلَ	9		مُخْلِد	مُخْلَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a1cd8d364e	خَمَصَ	فَعَلَ	لازم		خَمِيصٌ	THUBUT	WASIT_FAHUWA	HFN-E-efb69a1963	أَخْمَصَ	أَفْعَلَ	2		مُخْمِص	مُخْمَص	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5574d26c79	خَيِفَ	فَعِلَ	لازم		أَخْيَفُ	THUBUT	WASIT_FAHUWA	HFN-E-61ead55de0	أَخَافَ	أَفَالَ	3					CANDIDATE
+T_IFAL	HFN-E-873dc1bec6	دَالَ	فَعَلَ/فَعِلَ	لازم		دَائِل	HUDUTH	ISM_FAIL	HFN-E-7a6871b4d3	أَدَالَ	أَفَالَ	4					CANDIDATE
+T_IFAL	HFN-E-f541502ef3	دَجَنَ	فَعَلَ	لازم	ب	دَاجِن	HUDUTH	ISM_FAIL	HFN-E-e0be840811	أَدْجَنَ	أَفْعَلَ	5		مُدْجِن	مُدْجَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6aaea11f2b	دَخَرَ	فَعَلَ	لازم		دَاخِر	HUDUTH	ISM_FAIL	HFN-E-900726a4f7	أَدْخَرَ	أَفْعَلَ	4		مُدْخِر	مُدْخَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-e9e37b60e6	دَرِبَ	فَعِلَ	لازم	ب	دارِب	HUDUTH	WASIT_FAHUWA	HFN-E-5d2cee3c05	أَدْرَبَ	أَفْعَلَ	2		مُدْرِب	مُدْرَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-4ace42e872	دَرِدَ	فَعِلَ	لازم		أَدْرَدُ	THUBUT	WASIT_FAHUWA	HFN-E-4559ba38bc	أَدْرَدَ	أَفْعَلَ	3		مُدْرِد	مُدْرَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a60156641b	دَرِنَ	فَعِلَ	لازم		دَرِنٌّ	THUBUT	WASIT_FAHUWA	HFN-E-f513861ccf	أَدْرَنَ	أَفْعَلَ	3		مُدْرِن	مُدْرَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-371f3edff6	دَسِقَ	فَعِلَ	لازم		دَاسِق	HUDUTH	ISM_FAIL	HFN-E-388bfaf578	أَدْسَقَ	أَفْعَلَ	4		مُدْسِق	مُدْسَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-2dee7e8591	دَغِصَ	فَعِلَ	لازم		دَغْصان	THUBUT	WASIT_FAHUWA	HFN-E-88b0c7dea8	أَدْغَصَ	أَفْعَلَ	2		مُدْغِص	مُدْغَص	QIYAS	CANDIDATE
+T_IFAL	HFN-E-0eada696bc	دَقَلَ	فَعَلَ	لازم		دَاقِل	HUDUTH	ISM_FAIL	HFN-E-bb42e409f0	أَدْقَلَ	أَفْعَلَ	3		مُدْقِل	مُدْقَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-2da1af7aaf	دَقِعَ	فَعِلَ	لازم		دَاقِع	HUDUTH	ISM_FAIL	HFN-E-b173480d61	أَدْقَعَ	أَفْعَلَ	3		مُدْقِع	مُدْقَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-4fb2283614	دَلَجَ	فَعَلَ	لازم		دالج	HUDUTH	WASIT_FAHUWA	HFN-E-7e734ed20e	أَدْلَجَ	أَفْعَلَ	7		مُدْلِج	مُدْلَج	QIYAS	CANDIDATE
+T_IFAL	HFN-E-8b7931280a	دَلَفَ	فَعَلَ	لازم		دَالِف	HUDUTH	ISM_FAIL	HFN-E-17bbf2f5bd	أَدْلَفَ	أَفْعَلَ	3		مُدْلِف	مُدْلَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-e596b05bbd	دَمِصَ	فَعِلَ	لازم		أَدْمَصُ	THUBUT	WASIT_FAHUWA	HFN-E-3eb660ecbb	أَدْمَصَ	أَفْعَلَ	2		مُدْمِص	مُدْمَص	QIYAS	CANDIDATE
+T_IFAL	HFN-E-9cd408bb8d	دَنِفَ	فَعِلَ	لازم		دَنِفٌ	THUBUT	WASIT_FAHUWA	HFN-E-b88834af45	أَدْنَفَ	أَفْعَلَ	5		مُدْنِف	مُدْنَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-0c61f361b5	دَهِشَ	فَعِلَ	لازم		دَهِش	THUBUT	WASIT_FAHUWA	HFN-E-5650454c88	أَدْهَشَ	أَفْعَلَ	6		مُدْهِش	مُدْهَش	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d1de280d79	ذَالَ	فَعَلَ	لازم		ذَائِل	HUDUTH	ISM_FAIL	HFN-E-8e1756739f	أَذَالَ	أَفَالَ	7					CANDIDATE
+T_IFAL	HFN-E-9a5378acdd	ذَعِرَ	فَعِلَ	لازم		ذَعِرٌ	THUBUT	WASIT_FAHUWA	HFN-E-a85c331933	أَذْعَرَ	أَفْعَلَ	3		مُذْعِر	مُذْعَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-4acd94f54b	ذَعِنَ	فَعِلَ	لازم		ذَاعِن	HUDUTH	ISM_FAIL	HFN-E-0ad24d02f4	أَذْعَنَ	أَفْعَلَ	6		مُذْعِن	مُذْعَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-fbc9bec84c	رَاغَ	فَعَلَ	لازم		رَائِغ	HUDUTH	ISM_FAIL	HFN-E-7492351419	أَرَاغَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-5db17b0dd4	رَاقَ	فَعَلَ/فَعِلَ	لازم		رَائِق	HUDUTH	ISM_FAIL	HFN-E-760b2fabbf	أَرَاقَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-a7d9cbbdd2	رَبَأَ	فَعَلَ	لازم	من	رَابِئ	HUDUTH	ISM_FAIL	HFN-E-eb462db87b	أَرْبَءَ	أَفْعَلَ	2					CANDIDATE
+T_IFAL	HFN-E-6d71cf1a94	رَبَلَ	فَعَلَ	لازم		رَابِل	HUDUTH	ISM_FAIL	HFN-E-303a88a525	أَرْبَلَ	أَفْعَلَ	3		مُرْبِل	مُرْبَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ed48d926ff	رَبُجَ	فَعُلَ	لازم		رَبِيجٌ	THUBUT	WASIT_FAHUWA	HFN-E-090545a03a	أَرْبَجَ	أَفْعَلَ	2		مُرْبِج	مُرْبَج	QIYAS	CANDIDATE
+T_IFAL	HFN-E-253ac8d6bf	رَبِدَ	فَعِلَ	لازم		أَرْبد	THUBUT	WASIT_FAHUWA	HFN-E-ec01f543c5	أَرْبَدَ	أَفْعَلَ	3		مُرْبِد	مُرْبَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a4ace3edac	رَبِذَ	فَعِلَ	لازم		رَبِذ	THUBUT	WASIT_FAHUWA	HFN-E-663de230bd	أَرْبَذَ	أَفْعَلَ	2		مُرْبِذ	مُرْبَذ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-099e9198b8	رَبِغَ	فَعِلَ	لازم		رَبغ	THUBUT	WASIT_FAHUWA	HFN-E-da47bb79c2	أَرْبَغَ	أَفْعَلَ	2		مُرْبِغ	مُرْبَغ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-160682e8f6	رَجَعَ	فَعَلَ	لازم	في	رَاجِع	HUDUTH	ISM_FAIL	HFN-E-6436c3cb70	أَرْجَعَ	أَفْعَلَ	4		مُرْجِع	مُرْجَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c9323b741d	رَحُبَ	فَعُلَ	لازم		رَحْب	THUBUT	WASIT_FAHUWA	HFN-E-84502ba218	أَرْحَبَ	أَفْعَلَ	4		مُرْحِب	مُرْحَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-14a87a27d5	رَدُؤَ	فَعُلَ	لازم		رَدِءٌ	THUBUT	WASIT_FAHUWA	HFN-E-735d8bc575	أَرْدَءَ	أَفْعَلَ	6					CANDIDATE
+T_IFAL	HFN-E-4bda59d11a	رَذِمَ	فَعِلَ	لازم		رَذِم	THUBUT	WASIT_FAHUWA	HFN-E-4638b35914	أَرْذَمَ	أَفْعَلَ	2		مُرْذِم	مُرْذَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-51823ca383	رَزَحَ	فَعَلَ	لازم	ب	رازِحٌ	HUDUTH	WASIT_FAHUWA	HFN-E-b26dec0a51	أَرْزَحَ	أَفْعَلَ	3		مُرْزِح	مُرْزَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-95fe7f3397	رَزَمَ	فَعَلَ	لازم	ب	رَازِم	HUDUTH	ISM_FAIL	HFN-E-08e0c54265	أَرْزَمَ	أَفْعَلَ	6		مُرْزِم	مُرْزَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-dd06838fdd	رَزِغَ	فَعِلَ	لازم		رَزِغٌ	THUBUT	WASIT_FAHUWA	HFN-E-e4a4b99498	أَرْزَغَ	أَفْعَلَ	5		مُرْزِغ	مُرْزَغ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ee48615373	رَسَبَ	فَعَلَ	لازم	في	رَاسِب	HUDUTH	ISM_FAIL	HFN-E-6192799f81	أَرْسَبَ	أَفْعَلَ	3		مُرْسِب	مُرْسَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c81f5f6c9e	رَسَفَ	فَعَلَ	لازم	في	رَاسِف	HUDUTH	ISM_FAIL	HFN-E-ddd9d20e3d	أَرْسَفَ	أَفْعَلَ	2		مُرْسِف	مُرْسَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-cc2fd712cd	رَسَنَ	فَعَلَ	لازم		رَاسِن	HUDUTH	ISM_FAIL	HFN-E-0dc5289c62	أَرْسَنَ	أَفْعَلَ	6		مُرْسِن	مُرْسَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-77bf768acf	رَسِحَ	فَعِلَ	لازم		رَاسِح	HUDUTH	ISM_FAIL	HFN-E-01c045bb2a	أَرْسَحَ	أَفْعَلَ	5		مُرْسِح	مُرْسَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-580737ebd0	رَسِلَ	فَعِلَ	لازم		رَاسِل	HUDUTH	ISM_FAIL	HFN-E-b516d16dc9	أَرْسَلَ	أَفْعَلَ	4		مُرْسِل	مُرْسَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-24e8052666	رَشَحَ	فَعَلَ	لازم		رَاشِح	HUDUTH	ISM_FAIL	HFN-E-3f6279d6ea	أَرْشَحَ	أَفْعَلَ	5		مُرْشِح	مُرْشَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1edf4d1ea5	رَضَعَ	فَعَلَ	لازم		راضعٌ	HUDUTH	WASIT_FAHUWA	HFN-E-c6d62bd683	أَرْضَعَ	أَفْعَلَ	5		مُرْضِع	مُرْضَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-45f4ee4c24	رَعَدَ	فَعَلَ	لازم	ب	رَاعِد	HUDUTH	ISM_FAIL	HFN-E-789df1fad1	أَرْعَدَ	أَفْعَلَ	7		مُرْعِد	مُرْعَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c839767843	رَغَا	فَعَلَ	لازم		رَاغٍ	HUDUTH	ISM_FAIL	HFN-E-5fe2da6716	أَرْغَى	أَفْعَى	3					CANDIDATE
+T_IFAL	HFN-E-9e1ad0f383	رَغِدَ	فَعِلَ	لازم		رَغْدٌ	THUBUT	WASIT_FAHUWA	HFN-E-c84bfee08d	أَرْغَدَ	أَفْعَلَ	6		مُرْغِد	مُرْغَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-b4206e0f97	رَقَدَ	فَعَلَ	لازم		راقد	HUDUTH	WASIT_FAHUWA	HFN-E-f1337da298	أَرْقَدَ	أَفْعَلَ	3		مُرْقِد	مُرْقَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-7d58125cbb	رَقَصَ	فَعَلَ	لازم	في	رَاقِص	HUDUTH	ISM_FAIL	HFN-E-a58c1fdba9	أَرْقَصَ	أَفْعَلَ	4		مُرْقِص	مُرْقَص	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3e6e4d0799	رَكَحَ	فَعَلَ	لازم		رَاكِح	HUDUTH	ISM_FAIL	HFN-E-c3bf6a9b6b	أَرْكَحَ	أَفْعَلَ	4		مُرْكِح	مُرْكَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-0e8f48fcac	رَكَزَ	فَعَلَ	لازم	في	رَاكِز	HUDUTH	ISM_FAIL	HFN-E-f938b64534	أَرْكَزَ	أَفْعَلَ	6		مُرْكِز	مُرْكَز	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ffdf249852	رَكَضَ	فَعَلَ	لازم		رَاكِض	HUDUTH	ISM_FAIL	HFN-E-448be78ac2	أَرْكَضَ	أَفْعَلَ	3		مُرْكِض	مُرْكَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ffdd6b6ccb	رَمَكَ	فَعَلَ	لازم	في	رَامِك	HUDUTH	ISM_FAIL	HFN-E-afa803aa68	أَرْمَكَ	أَفْعَلَ	4		مُرْمِك	مُرْمَك	QIYAS	CANDIDATE
+T_IFAL	HFN-E-315df12640	رَمِضَ	فَعِلَ	لازم		رمِضٌ	THUBUT	WASIT_FAHUWA	HFN-E-92df2c7d03	أَرْمَضَ	أَفْعَلَ	3		مُرْمِض	مُرْمَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-b2699be261	رَمِعَ	فَعِلَ	لازم		رَامِع	HUDUTH	ISM_FAIL	HFN-E-1aed147a2a	أَرْمَعَ	أَفْعَلَ	2		مُرْمِع	مُرْمَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3c6a46d80f	رَهِقَ	فَعِلَ	لازم		رَاهِق	HUDUTH	ISM_FAIL	HFN-E-8dbe62cf6c	أَرْهَقَ	أَفْعَلَ	3		مُرْهِق	مُرْهَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5eac9b7b42	زَالَ	فَعَلَ	لازم	ب	زَائِل	HUDUTH	ISM_FAIL	HFN-E-f5ce7df49c	أَزَالَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-afdd800f0a	زَحَفَ	فَعَلَ	لازم	على	زَاحِف	HUDUTH	ISM_FAIL	HFN-E-0f5941293d	أَزْحَفَ	أَفْعَلَ	4		مُزْحِف	مُزْحَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-50ec9940f9	زَرَى	فَعَلَ	لازم	على	زَارٍ	OTHER	WASIT_FAHUWA	HFN-E-a81ca1dc20	أَزْرَى	أَفْعَى	6					CANDIDATE
+T_IFAL	HFN-E-6ee87651c5	زَعِجَ	فَعِلَ	لازم		زَاعِج	HUDUTH	ISM_FAIL	HFN-E-b0c314319a	أَزْعَجَ	أَفْعَلَ	8		مُزْعِج	مُزْعَج	QIYAS	CANDIDATE
+T_IFAL	HFN-E-7a9d394baf	زَعِلَ	فَعِلَ	لازم	من	زَعِلّ	THUBUT	WASIT_FAHUWA	HFN-E-c44bf34714	أَزْعَلَ	أَفْعَلَ	6		مُزْعِل	مُزْعَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5844204937	زَهَقَ	فَعَلَ	لازم		زاهقٌ	HUDUTH	WASIT_FAHUWA	HFN-E-f4bcd3d01b	أَزْهَقَ	أَفْعَلَ	5		مُزْهِق	مُزْهَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-43c4c96011	زَهِفَ	فَعِلَ	لازم		زَاهِف	HUDUTH	ISM_FAIL	HFN-E-c165661b40	أَزْهَفَ	أَفْعَلَ	4		مُزْهِف	مُزْهَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-44800ffd6f	سَارَ	فَعَلَ	لازم		سائر	HUDUTH	WASIT_FAHUWA	HFN-E-7c894fe1a9	أَسَارَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-3b06f2627c	سَبَدَ	فَعَلَ	لازم		سَابِد	HUDUTH	ISM_FAIL	HFN-E-32989e57a8	أَسْبَدَ	أَفْعَلَ	2		مُسْبِد	مُسْبَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-24a7d6d852	سَبَغَ	فَعَلَ	لازم		سابغٌ	HUDUTH	WASIT_FAHUWA	HFN-E-c661beab20	أَسْبَغَ	أَفْعَلَ	4		مُسْبِغ	مُسْبَغ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1580ff7620	سَدِفَ	فَعِلَ	لازم		أَسمدفُ	OTHER	WASIT_FAHUWA	HFN-E-d2546a4799	أَسْدَفَ	أَفْعَلَ	6		مُسْدِف	مُسْدَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f00cf37a95	سَرَبَ	فَعَلَ	لازم	في	سارب	HUDUTH	WASIT_FAHUWA	HFN-E-043405bb27	أَسْرَبَ	أَفْعَلَ	3		مُسْرِب	مُسْرَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d9f1aa7d39	سَرَى	فَعَلَ	لازم		سَارٍ	HUDUTH	ISM_FAIL	HFN-E-b0b478fb1b	أَسْرَى	أَفْعَى	6					CANDIDATE
+T_IFAL	HFN-E-8d7a65fa84	سَرِعَ	فَعِلَ	لازم		سَرِع	THUBUT	WASIT_FAHUWA	HFN-E-6a4aea4488	أَسْرَعَ	أَفْعَلَ	4		مُسْرِع	مُسْرَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d99073bcca	سَعِفَ	فَعِلَ	لازم		سَاعِف	HUDUTH	ISM_FAIL	HFN-E-861b3b3a5e	أَسْعَفَ	أَفْعَلَ	3		مُسْعِف	مُسْعَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-b55c80cc59	سَعِلَ	فَعِلَ	لازم		سَاعِل	HUDUTH	ISM_FAIL	HFN-E-37eb9d43e7	أَسْعَلَ	أَفْعَلَ	5		مُسْعِل	مُسْعَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6e9a95ce0b	سَغِبَ	فَعِلَ	لازم		سَغِب	THUBUT	WASIT_FAHUWA	HFN-E-4d87dd5ba0	أَسْغَبَ	أَفْعَلَ	3		مُسْغِب	مُسْغَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1608ff6af5	سَفَدَ	فَعَلَ	لازم		سَافِد	HUDUTH	ISM_FAIL	HFN-E-820e5d0b37	أَسْفَدَ	أَفْعَلَ	4		مُسْفِد	مُسْفَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5419f5f48e	سَقَطَ	فَعَلَ	لازم	من	ساقِطٌ	HUDUTH	WASIT_FAHUWA	HFN-E-32b3a5dce1	أَسْقَطَ	أَفْعَلَ	5		مُسْقِط	مُسْقَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-fd15667dad	سَقِبَ	فَعِلَ	لازم		ساقِب	HUDUTH	WASIT_FAHUWA	HFN-E-87dbb870e3	أَسْقَبَ	أَفْعَلَ	6		مُسْقِب	مُسْقَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d04904bef9	سَلَحَ	فَعَلَ	لازم		سالحٌ	HUDUTH	WASIT_FAHUWA	HFN-E-dea00b3b75	أَسْلَحَ	أَفْعَلَ	3		مُسْلِح	مُسْلَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-b304e738d2	سَلِسَ	فَعِلَ	لازم	ل	سَلِسٌ	THUBUT	WASIT_FAHUWA	HFN-E-385f5b66bc	أَسْلَسَ	أَفْعَلَ	3		مُسْلِس	مُسْلَس	QIYAS	CANDIDATE
+T_IFAL	HFN-E-cc9d447330	سَنُعَ	فَعُلَ	لازم		سَنيع	THUBUT	WASIT_FAHUWA	HFN-E-31ab05bbf5	أَسْنَعَ	أَفْعَلَ	2		مُسْنِع	مُسْنَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-61767120f0	سَنِمَ	فَعِلَ	لازم		سنِمُ	THUBUT	WASIT_FAHUWA	HFN-E-61d58bbef8	أَسْنَمَ	أَفْعَلَ	4		مُسْنِم	مُسْنَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d031d97862	سَهِدَ	فَعِلَ	لازم		سَهِدٌ	THUBUT	WASIT_FAHUWA	HFN-E-3bc906d368	أَسْهَدَ	أَفْعَلَ	3		مُسْهِد	مُسْهَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-64109e47a1	شَاطَ	فَعَلَ	لازم		شَائِط	HUDUTH	ISM_FAIL	HFN-E-62084bdb1f	أَشَاطَ	أَفَالَ	6					CANDIDATE
+T_IFAL	HFN-E-97f1f5cb01	شَبَلَ	فَعَلَ	لازم		شابل	HUDUTH	WASIT_FAHUWA	HFN-E-448dc9ad74	أَشْبَلَ	أَفْعَلَ	5		مُشْبِل	مُشْبَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-cb2a9a7717	شَجُعَ	فَعُلَ	لازم			HUDUTH	ISM_FAIL	HFN-E-b714da62c5	أَشْجَعَ	أَفْعَلَ	3		مُشْجِع	مُشْجَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-374937fc7b	شَخَصَ	فَعَلَ	لازم	من	شَخِيصٌ	THUBUT	WASIT_FAHUWA	HFN-E-8d0346cb3b	أَشْخَصَ	أَفْعَلَ	7		مُشْخِص	مُشْخَص	QIYAS	CANDIDATE
+T_IFAL	HFN-E-cd9c8ff7b5	شَخِمَ	فَعِلَ	لازم		شخِمٌ	THUBUT	WASIT_FAHUWA	HFN-E-d0b695a6e9	أَشْخَمَ	أَفْعَلَ	2		مُشْخِم	مُشْخَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-285ab40fd3	شَذَا	فَعَلَ	لازم		شَاذٍ	HUDUTH	ISM_FAIL	HFN-E-a7889e38a7	أَشْذَى	أَفْعَى	5					CANDIDATE
+T_IFAL	HFN-E-d6ac41b19e	شَرَدَ	فَعَلَ	لازم	عن	شارِد	HUDUTH	WASIT_FAHUWA	HFN-E-ed40ffe0dc	أَشْرَدَ	أَفْعَلَ	3		مُشْرِد	مُشْرَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-27c6779e6a	شَعِنَ	فَعِلَ	لازم		شَاعِن	HUDUTH	ISM_FAIL	HFN-E-21bf280057	أَشْعَنَ	أَفْعَلَ	2		مُشْعِن	مُشْعَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-29a105c3d5	شَكِعَ	فَعِلَ	لازم		شَاكِع	HUDUTH	ISM_FAIL	HFN-E-d4cf8ca6e5	أَشْكَعَ	أَفْعَلَ	2		مُشْكِع	مُشْكَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-be46f530b2	شَنِجَ	فَعِلَ	لازم		شَنِجٌ	THUBUT	WASIT_FAHUWA	HFN-E-2f88a72e1b	أَشْنَجَ	أَفْعَلَ	2		مُشْنِج	مُشْنَج	QIYAS	CANDIDATE
+T_IFAL	HFN-E-b879247e62	صَابَ	فَعَلَ	لازم	ب	صَائِب	HUDUTH	ISM_FAIL	HFN-E-ce51e93bb8	أَصَابَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-6ea921abce	صَارَ	فَعَلَ	لازم		صَائِر	HUDUTH	ISM_FAIL	HFN-E-f461acebc2	أَصَارَ	أَفَالَ	3					CANDIDATE
+T_IFAL	HFN-E-d5f1940dc8	صَافَ	فَعَلَ	لازم	ب	صَائِف	HUDUTH	ISM_FAIL	HFN-E-1dda45f4e5	أَصَافَ	أَفَالَ	2					CANDIDATE
+T_IFAL	HFN-E-5443494201	صَبَأَ	فَعَلَ	لازم	من	صابىٌّ	OTHER	WASIT_FAHUWA	HFN-E-3548882a05	أَصْبَءَ	أَفْعَلَ	4					CANDIDATE
+T_IFAL	HFN-E-0d90e2878d	صَرَخَ	فَعَلَ	لازم		صَارِخ	HUDUTH	ISM_FAIL	HFN-E-2c66d29d98	أَصْرَخَ	أَفْعَلَ	6		مُصْرِخ	مُصْرَخ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3f439eff46	صَعِرَ	فَعِلَ	لازم		أَصْعَرُ	THUBUT	WASIT_FAHUWA	HFN-E-9fb8b18f96	أَصْعَرَ	أَفْعَلَ	6		مُصْعِر	مُصْعَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-14051d2528	صَلَدَ	فَعَلَ	لازم		صَالِد	HUDUTH	ISM_FAIL	HFN-E-64c748634c	أَصْلَدَ	أَفْعَلَ	6		مُصْلِد	مُصْلَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5fb25f0579	صَمَتَ	فَعَلَ	لازم		صَامِت	HUDUTH	ISM_FAIL	HFN-E-5a3afdc41c	أَصْمَتَ	أَفْعَلَ	8		مُصْمِت	مُصْمَت	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c97cda5c05	صَمَلَ	فَعَلَ	لازم	عن	صاملٌ	HUDUTH	WASIT_FAHUWA	HFN-E-86349932ee	أَصْمَلَ	أَفْعَلَ	2		مُصْمِل	مُصْمَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-78d34926f4	ضَاءَ	فَعَلَ	لازم			HUDUTH	ISM_FAIL	HFN-E-8831a6ee73	أَضَاءَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-c3f340f668	ضَاعَ	فَعَلَ	لازم		ضَائِع	HUDUTH	ISM_FAIL	HFN-E-024c6e8f6e	أَضَاعَ	أَفَالَ	4					CANDIDATE
+T_IFAL	HFN-E-d5cb4f17a0	ضَجَعَ	فَعَلَ	لازم	في	ضَاجِع	HUDUTH	ISM_FAIL	HFN-E-4f3f597c20	أَضْجَعَ	أَفْعَلَ	4		مُضْجِع	مُضْجَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-bcb9d808a5	ضَجِرَ	فَعِلَ	لازم	ب	ضجِر	THUBUT	WASIT_FAHUWA	HFN-E-16fef1731b	أَضْجَرَ	أَفْعَلَ	3		مُضْجِر	مُضْجَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-11e912c463	ضَجِمَ	فَعِلَ	لازم		أَضجم	THUBUT	WASIT_FAHUWA	HFN-E-6f8c90cace	أَضْجَمَ	أَفْعَلَ	3		مُضْجِم	مُضْجَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-425b0db3d5	طَابَ	فَعَلَ	لازم	ب	طَائِب	HUDUTH	ISM_FAIL	HFN-E-52be11394d	أَطَابَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-3641304a31	طَارَ	فَعَلَ	لازم	في	طَائِر	HUDUTH	ISM_FAIL	HFN-E-d3406cc167	أَطَارَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-9dfc410a27	طَافَ	فَعَلَ	لازم	ب	طَائِف	HUDUTH	ISM_FAIL	HFN-E-b538064793	أَطَافَ	أَفَالَ	4					CANDIDATE
+T_IFAL	HFN-E-b4e6c118b4	طَنِبَ	فَعِلَ	لازم		أَطْنَبُ	THUBUT	WASIT_FAHUWA	HFN-E-7a0dba629d	أَطْنَبَ	أَفْعَلَ	2		مُطْنِب	مُطْنَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-754a9ec03e	ظَرُفَ	فَعُلَ	لازم		ظَريف	THUBUT	WASIT_FAHUWA	HFN-E-f3709977cc	أَظْرَفَ	أَفْعَلَ	5		مُظْرِف	مُظْرَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f4e765adf8	ظَعَنَ	فَعَلَ	لازم		ظَاعِن	HUDUTH	ISM_FAIL	HFN-E-e09dcc6279	أَظْعَنَ	أَفْعَلَ	2		مُظْعِن	مُظْعَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-756fd00c04	عَاشَ	فَعَلَ	لازم		عائِش	HUDUTH	WASIT_FAHUWA	HFN-E-4ae56bf5af	أَعَاشَ	أَفَالَ	4					CANDIDATE
+T_IFAL	HFN-E-8067cfd76a	عَجِبَ	فَعِلَ	لازم	من	عَاجِب	HUDUTH	ISM_FAIL	HFN-E-350c68008c	أَعْجَبَ	أَفْعَلَ	6		مُعْجِب	مُعْجَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-03ab914c89	عَجِلَ	فَعِلَ	لازم		عَاجِل	HUDUTH	ISM_FAIL	HFN-E-0882c9739e	أَعْجَلَ	أَفْعَلَ	6		مُعْجِل	مُعْجَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-60929624b6	عَرِيَ	فَعِلَ	لازم	من	عارٍ	OTHER	WASIT_FAHUWA	HFN-E-bf8ba35047	أَعْرَى	أَفْعَى	5					CANDIDATE
+T_IFAL	HFN-E-303074f9b2	عَشِيَ	فَعِلَ	لازم	على	عش	OTHER	WASIT_FAHUWA	HFN-E-58a6eddd23	أَعْشَى	أَفْعَى	5					CANDIDATE
+T_IFAL	HFN-E-5d50462c0f	عَطَبَ	فَعَلَ	لازم		عَاطِب	HUDUTH	ISM_FAIL	HFN-E-0bcd6311d9	أَعْطَبَ	أَفْعَلَ	7		مُعْطِب	مُعْطَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-7ebbb2575c	عَطِشَ	فَعِلَ	لازم		عاطِشّ	HUDUTH	WASIT_FAHUWA	HFN-E-05922678a8	أَعْطَشَ	أَفْعَلَ	4		مُعْطِش	مُعْطَش	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6cd09b4934	عَكِرَ	فَعِلَ	لازم		عَكِرٌ	THUBUT	WASIT_FAHUWA	HFN-E-a5c8706369	أَعْكَرَ	أَفْعَلَ	2		مُعْكِر	مُعْكَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-58a1a240e7	عَلَنَ	فَعَلَ	لازم		عَالِن	HUDUTH	ISM_FAIL	HFN-E-fc91df0396	أَعْلَنَ	أَفْعَلَ	8		مُعْلِن	مُعْلَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a2218683f0	عَمِلَ	فَعِلَ	لازم	على	عامل	HUDUTH	WASIT_FAHUWA	HFN-E-45848facbb	أَعْمَلَ	أَفْعَلَ	4		مُعْمِل	مُعْمَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-7ec7fdd4e9	عَنِتَ	فَعِلَ	لازم		عَنِتْ	THUBUT	WASIT_FAHUWA	HFN-E-136d918a6e	أَعْنَتَ	أَفْعَلَ	7		مُعْنِت	مُعْنَت	QIYAS	CANDIDATE
+T_IFAL	HFN-E-886cf8927e	عَنِقَ	فَعِلَ	لازم		أَعْنقُ	THUBUT	WASIT_FAHUWA	HFN-E-eb902f04a1	أَعْنَقَ	أَفْعَلَ	3		مُعْنِق	مُعْنَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-96e966f988	غَبِرَ	فَعِلَ	لازم		أَغْبَرُ	THUBUT	WASIT_FAHUWA	HFN-E-7b35a50115	أَغْبَرَ	أَفْعَلَ	5		مُغْبِر	مُغْبَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-12b0600c34	غَبِسَ	فَعِلَ	لازم		أَغْبَسُ	THUBUT	WASIT_FAHUWA	HFN-E-a610009779	أَغْبَسَ	أَفْعَلَ	3		مُغْبِس	مُغْبَس	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d3b0eed0a1	غَرِمَ	فَعِلَ	لازم	في	غَارِم	HUDUTH	ISM_FAIL	HFN-E-61f87fc5ef	أَغْرَمَ	أَفْعَلَ	5		مُغْرِم	مُغْرَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-110fcd075b	غَرِيَ	فَعِلَ	لازم	ب	غَارٍ	HUDUTH	ISM_FAIL	HFN-E-cdddd83b16	أَغْرَى	أَفْعَى	5					CANDIDATE
+T_IFAL	HFN-E-7202d36585	غَزِلَ	فَعِلَ	لازم		غَزِلٌ	THUBUT	WASIT_FAHUWA	HFN-E-26528647d8	أَغْزَلَ	أَفْعَلَ	2		مُغْزِل	مُغْزَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-09fcc391ad	غَسَمَ	فَعَلَ	لازم		غَاسِم	HUDUTH	ISM_FAIL	HFN-E-8580ac5c96	أَغْسَمَ	أَفْعَلَ	3		مُغْسِم	مُغْسَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-40a2261a75	غَسِيَ	فَعِلَ	لازم		غَاسٍ	HUDUTH	ISM_FAIL	HFN-E-6386d9e029	أَغْسَى	أَفْعَى	4					CANDIDATE
+T_IFAL	HFN-E-dda6ef6f36	غَطِشَ	فَعِلَ	لازم		أَغطش	THUBUT	WASIT_FAHUWA	HFN-E-912514cff0	أَغْطَشَ	أَفْعَلَ	6		مُغْطِش	مُغْطَش	QIYAS	CANDIDATE
+T_IFAL	HFN-E-358b181523	غَفَا	فَعَلَ	لازم	على	غَافٍ	HUDUTH	ISM_FAIL	HFN-E-c3db84eead	أَغْفَى	أَفْعَى	2					CANDIDATE
+T_IFAL	HFN-E-4142b57301	غَفِرَ	فَعِلَ	لازم		غَافِر	HUDUTH	ISM_FAIL	HFN-E-01152b0458	أَغْفَرَ	أَفْعَلَ	4		مُغْفِر	مُغْفَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3ea5d299e5	غَلَا	فَعَلَ	لازم	في	غالٍ	OTHER	WASIT_FAHUWA	HFN-E-e95c10eaa3	أَغْلَى	أَفْعَى	4					CANDIDATE
+T_IFAL	HFN-E-935ceadb32	غَنِيَ	فَعِلَ	لازم	عن	غانٍ	OTHER	WASIT_FAHUWA	HFN-E-d01862218d	أَغْنَى	أَفْعَى	4					CANDIDATE
+T_IFAL	HFN-E-8b349dfa7d	غَهِبَ	فَعِلَ	لازم	عن	غَاهِب	HUDUTH	ISM_FAIL	HFN-E-4936249b5f	أَغْهَبَ	أَفْعَلَ	2		مُغْهِب	مُغْهَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-4a68f3c7c7	فَاءَ	فَعَلَ	لازم	على		HUDUTH	ISM_FAIL	HFN-E-704b9af945	أَفَاءَ	أَفَالَ	3					CANDIDATE
+T_IFAL	HFN-E-27efc3d31e	فَازَ	فَعَلَ	لازم	ب	فَائِز	HUDUTH	ISM_FAIL	HFN-E-1cdef95c75	أَفَازَ	أَفَالَ	5					CANDIDATE
+T_IFAL	HFN-E-217907ffcc	فَجَسَ	فَعَلَ	لازم		فَاجِس	HUDUTH	ISM_FAIL	HFN-E-7165ca82b1	أَفْجَسَ	أَفْعَلَ	3		مُفْجِس	مُفْجَس	QIYAS	CANDIDATE
+T_IFAL	HFN-E-2b0177663f	فَدَرَ	فَعَلَ	لازم		فادِرٌ	HUDUTH	WASIT_FAHUWA	HFN-E-b279f1b4ad	أَفْدَرَ	أَفْعَلَ	3		مُفْدِر	مُفْدَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-90a71b9bbe	فَرِحَ	فَعِلَ	لازم		فَارِح	HUDUTH	ISM_FAIL	HFN-E-22f0e7c080	أَفْرَحَ	أَفْعَلَ	7		مُفْرِح	مُفْرَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6787afe272	فَشَا	فَعَلَ	لازم	على	فَاشٍ	HUDUTH	ISM_FAIL	HFN-E-b3e180ba96	أَفْشَى	أَفْعَى	4					CANDIDATE
+T_IFAL	HFN-E-3991f80195	فَصُحَ	فَعُلَ	لازم		فَصْح	THUBUT	WASIT_FAHUWA	HFN-E-dc83a513f0	أَفْصَحَ	أَفْعَلَ	7		مُفْصِح	مُفْصَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-e61ed282da	فَضَا	فَعَلَ	لازم	ب	فَاضٍ	HUDUTH	ISM_FAIL	HFN-E-3f70f031e2	أَفْضَى	أَفْعَى	5					CANDIDATE
+T_IFAL	HFN-E-1bf8564341	فَظُعَ	فَعُلَ	لازم			HUDUTH	ISM_FAIL	HFN-E-baed1f698d	أَفْظَعَ	أَفْعَلَ	5		مُفْظِع	مُفْظَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ec8bf88687	فَغَرَ	فَعَلَ	لازم		فَاغِر	HUDUTH	ISM_FAIL	HFN-E-f23f1e6fc8	أَفْغَرَ	أَفْعَلَ	4		مُفْغِر	مُفْغَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-56290bb466	فَقُهَ	فَعُلَ	لازم			HUDUTH	ISM_FAIL	HFN-E-9f4c1d05fc	أَفْقَهَ	أَفْعَلَ	6		مُفْقِه	مُفْقَه	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a6233da347	فَكَرَ	فَعَلَ	لازم	في	فَاكِر	HUDUTH	ISM_FAIL	HFN-E-c80a032903	أَفْكَرَ	أَفْعَلَ	4		مُفْكِر	مُفْكَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1f897c960d	فَلَتَ	فَعَلَ	لازم		فالِتٌ	HUDUTH	WASIT_FAHUWA	HFN-E-e4c1ab7832	أَفْلَتَ	أَفْعَلَ	7		مُفْلِت	مُفْلَت	QIYAS	CANDIDATE
+T_IFAL	HFN-E-aef10e4c90	فَلِسَ	فَعِلَ	لازم	من	فَلِسٌ	THUBUT	WASIT_FAHUWA	HFN-E-fccd405add	أَفْلَسَ	أَفْعَلَ	5		مُفْلِس	مُفْلَس	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f39a00475b	فَنِدَ	فَعِلَ	لازم	ب	فَانِد	HUDUTH	ISM_FAIL	HFN-E-e1ffbad2cd	أَفْنَدَ	أَفْعَلَ	7		مُفْنِد	مُفْنَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f4dcf1f412	فَنِيَ	فَعِلَ	لازم	في	فانٍ	OTHER	WASIT_FAHUWA	HFN-E-fd4921628e	أَفْنَى	أَفْعَى	5					CANDIDATE
+T_IFAL	HFN-E-a4c40a0da2	فَهِقَ	فَعِلَ	لازم		فَاهِق	HUDUTH	ISM_FAIL	HFN-E-fcde1b3bc7	أَفْهَقَ	أَفْعَلَ	5		مُفْهِق	مُفْهَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-bb371da20c	قَاحَ	فَعَلَ	لازم		قَائِح	HUDUTH	ISM_FAIL	HFN-E-ad554b54f0	أَقَاحَ	أَفَالَ	3					CANDIDATE
+T_IFAL	HFN-E-66a715061e	قَامَ	فَعَلَ	لازم	على	قَائِم	HUDUTH	ISM_FAIL	HFN-E-39c7488acc	أَقَامَ	أَفَالَ	6					CANDIDATE
+T_IFAL	HFN-E-7afad8dccd	قَرِبَ	فَعِلَ	لازم	في	قَارِب	HUDUTH	ISM_FAIL	HFN-E-552712e5f7	أَقْرَبَ	أَفْعَلَ	6		مُقْرِب	مُقْرَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d340477507	قَزَعَ	فَعَلَ	لازم		قَازِع	HUDUTH	ISM_FAIL	HFN-E-0585d21a1d	أَقْزَعَ	أَفْعَلَ	3		مُقْزِع	مُقْزَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-aee04d4921	قَزَلَ	فَعَلَ	لازم		قَازِل	HUDUTH	ISM_FAIL	HFN-E-ba62a3fe98	أَقْزَلَ	أَفْعَلَ	2		مُقْزِل	مُقْزَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-1b0ea0f5bb	قَسَطَ	فَعَلَ	لازم		قَاسِط	HUDUTH	ISM_FAIL	HFN-E-4342445724	أَقْسَطَ	أَفْعَلَ	4		مُقْسِط	مُقْسَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-511670be04	قَلِتَ	فَعِلَ	لازم		قَلِتْ	THUBUT	WASIT_FAHUWA	HFN-E-332f021938	أَقْلَتَ	أَفْعَلَ	6		مُقْلِت	مُقْلَت	QIYAS	CANDIDATE
+T_IFAL	HFN-E-96a9510720	قَلِقَ	فَعِلَ	لازم		قلِق	THUBUT	WASIT_FAHUWA	HFN-E-0624c23e25	أَقْلَقَ	أَفْعَلَ	6		مُقْلِق	مُقْلَق	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f4b4239bd3	قَمَحَ	فَعَلَ	لازم	عن	قَامِح	HUDUTH	ISM_FAIL	HFN-E-807d87bb52	أَقْمَحَ	أَفْعَلَ	3		مُقْمِح	مُقْمَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-310e00f058	قَمِلَ	فَعِلَ	لازم		قَمِلٌ	THUBUT	WASIT_FAHUWA	HFN-E-497e56ae74	أَقْمَلَ	أَفْعَلَ	5		مُقْمِل	مُقْمَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ccf11985bf	قَنَبَ	فَعَلَ	لازم	في	قَانِب	HUDUTH	ISM_FAIL	HFN-E-9c7e4486d7	أَقْنَبَ	أَفْعَلَ	2		مُقْنِب	مُقْنَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-93cf8d6f56	قَنِعَ	فَعِلَ	لازم		قانع	HUDUTH	WASIT_FAHUWA	HFN-E-1bc95a3575	أَقْنَعَ	أَفْعَلَ	6		مُقْنِع	مُقْنَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c541ba5f38	كَسَدَ	فَعَلَ	لازم		كاسد	HUDUTH	WASIT_FAHUWA	HFN-E-c5056755fa	أَكْسَدَ	أَفْعَلَ	5		مُكْسِد	مُكْسَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-37a66167e7	كَسَفَ	فَعَلَ	لازم		كَاسِف	HUDUTH	ISM_FAIL	HFN-E-b8f4b6c25c	أَكْسَفَ	أَفْعَلَ	2		مُكْسِف	مُكْسَف	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5a97682044	كَسِلَ	فَعِلَ	لازم	عن	كَسِلّ	THUBUT	WASIT_FAHUWA	HFN-E-e1edfa33ee	أَكْسَلَ	أَفْعَلَ	6		مُكْسِل	مُكْسَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-9962b5aa07	كَعِرَ	فَعِلَ	لازم		كَعِر	THUBUT	WASIT_FAHUWA	HFN-E-73d3846db1	أَكْعَرَ	أَفْعَلَ	5		مُكْعِر	مُكْعَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-18ed557490	كَلَحَ	فَعَلَ	لازم		كالح	HUDUTH	WASIT_FAHUWA	HFN-E-b77bfc2bbf	أَكْلَحَ	أَفْعَلَ	5		مُكْلِح	مُكْلَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6206b5859a	كَهُمَ	فَعُلَ	لازم		كَهامٌ	THUBUT	WASIT_FAHUWA	HFN-E-4f29b35bc3	أَكْهَمَ	أَفْعَلَ	4		مُكْهِم	مُكْهَم	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5b0fdf044d	كَهِيَ	فَعِلَ	لازم		أَكْهَى	THUBUT	WASIT_FAHUWA	HFN-E-cf09062b4d	أَكْهَى	أَفْعَى	2					CANDIDATE
+T_IFAL	HFN-E-5e7a9070af	لَأَى	فَعَلَ	لازم	في		HUDUTH	ISM_FAIL	HFN-E-c53f038092	أَلْءَى	أَفْعَى	2					CANDIDATE
+T_IFAL	HFN-E-4aaad36b15	لَبِثَ	فَعِلَ	لازم	ب	لَابِث	HUDUTH	ISM_FAIL	HFN-E-0fb61bdb7d	أَلْبَثَ	أَفْعَلَ	3		مُلْبِث	مُلْبَث	QIYAS	CANDIDATE
+T_IFAL	HFN-E-174af8a469	لَحَجَ	فَعَلَ	لازم		لَاحِج	HUDUTH	ISM_FAIL	HFN-E-3745941e18	أَلْحَجَ	أَفْعَلَ	4		مُلْحِج	مُلْحَج	QIYAS	CANDIDATE
+T_IFAL	HFN-E-68f8fe72a1	لَسِنَ	فَعِلَ	لازم		لَسِن	THUBUT	WASIT_FAHUWA	HFN-E-f56c20e54b	أَلْسَنَ	أَفْعَلَ	2		مُلْسِن	مُلْسَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5c3272bd17	لَغَزَ	فَعَلَ	لازم		لَاغِز	HUDUTH	ISM_FAIL	HFN-E-00f9b5a7a5	أَلْغَزَ	أَفْعَلَ	7		مُلْغِز	مُلْغَز	QIYAS	CANDIDATE
+T_IFAL	HFN-E-63a38ce1f1	لَغَطَ	فَعَلَ	لازم		لاغطٌ	HUDUTH	WASIT_FAHUWA	HFN-E-4957cc982e	أَلْغَطَ	أَفْعَلَ	4		مُلْغِط	مُلْغَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-cfcbf5f31c	لَمَحَ	فَعَلَ	لازم		لامِحٌ	HUDUTH	WASIT_FAHUWA	HFN-E-eab8e04ee6	أَلْمَحَ	أَفْعَلَ	8		مُلْمِح	مُلْمَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-897e10d1c6	لَمِيَ	فَعِلَ	لازم		لَامٍ	HUDUTH	ISM_FAIL	HFN-E-b9674cf4cc	أَلْمَى	أَفْعَى	4					CANDIDATE
+T_IFAL	HFN-E-43d97eeb7f	لَهِبَ	فَعِلَ	لازم		لَهْبَانُ	THUBUT	WASIT_FAHUWA	HFN-E-48e10a43f0	أَلْهَبَ	أَفْعَلَ	5		مُلْهِب	مُلْهَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-913292f549	لَهِيَ	فَعِلَ	لازم	ب	لَاهٍ	HUDUTH	ISM_FAIL	HFN-E-8bc0e199ab	أَلْهَى	أَفْعَى	7					CANDIDATE
+T_IFAL	HFN-E-331e4346a0	مَئِقَ	فَعِلَ	لازم		مَئِقٌ	THUBUT	WASIT_FAHUWA	HFN-E-7b228a8b3c	أَمْءَقَ	أَفْعَلَ	3					CANDIDATE
+T_IFAL	HFN-E-451209c8f6	مَارَ	فَعَلَ	لازم	على	مَائِر	HUDUTH	ISM_FAIL	HFN-E-17f681beb9	أَمَارَ	أَفَالَ	7					CANDIDATE
+T_IFAL	HFN-E-830fcc6476	مَاسَ	فَعَلَ	لازم		مائِس	HUDUTH	WASIT_FAHUWA	HFN-E-0d437ba0c9	أَمَاسَ	أَفَالَ	2					CANDIDATE
+T_IFAL	HFN-E-1bec06b61d	مَجِرَ	فَعِلَ	لازم	من	مَاجِر	HUDUTH	ISM_FAIL	HFN-E-080d726648	أَمْجَرَ	أَفْعَلَ	6		مُمْجِر	مُمْجَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-8e24c60c10	مَحَلَ	فَعَلَ	لازم	ب	مَاحِل	HUDUTH	ISM_FAIL	HFN-E-4e8591a773	أَمْحَلَ	أَفْعَلَ	5		مُمْحِل	مُمْحَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-833b527018	مَدِشَ	فَعِلَ	لازم		أَمْدَش	THUBUT	WASIT_FAHUWA	HFN-E-d7f68935aa	أَمْدَشَ	أَفْعَلَ	2		مُمْدِش	مُمْدَش	QIYAS	CANDIDATE
+T_IFAL	HFN-E-da274107eb	مَذِحَ	فَعِلَ	لازم	ب	مَاذِح	HUDUTH	ISM_FAIL	HFN-E-cd5e34989e	أَمْذَحَ	أَفْعَلَ	2		مُمْذِح	مُمْذَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-be436a5010	مَذِلَ	فَعِلَ	لازم	على	مَذِلَ	THUBUT	WASIT_FAHUWA	HFN-E-89d0b1c8f6	أَمْذَلَ	أَفْعَلَ	3		مُمْذِل	مُمْذَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-4a8a671202	مَرَأَ	فَعَلَ	لازم		مرءٌ	THUBUT	WASIT_FAHUWA	HFN-E-676f6d88a7	أَمْرَءَ	أَفْعَلَ	3					CANDIDATE
+T_IFAL	HFN-E-5a187943f9	مَرَخَ	فَعَلَ	لازم	ب	مَرِحُ	OTHER	WASIT_FAHUWA	HFN-E-6ff82f48b7	أَمْرَخَ	أَفْعَلَ	4		مُمْرِخ	مُمْرَخ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-54f1822688	مَرِضَ	فَعِلَ	لازم		مريض	THUBUT	WASIT_FAHUWA	HFN-E-b53a3aedc8	أَمْرَضَ	أَفْعَلَ	3		مُمْرِض	مُمْرَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-3c1bcb8a01	مَسَكَ	فَعَلَ	لازم	ب	مَاسِك	HUDUTH	ISM_FAIL	HFN-E-3d29097622	أَمْسَكَ	أَفْعَلَ	6		مُمْسِك	مُمْسَك	QIYAS	CANDIDATE
+T_IFAL	HFN-E-6d75d71449	مَشَى	فَعَلَ	لازم		مَاشٍ	HUDUTH	ISM_FAIL	HFN-E-3d11f62209	أَمْشَى	أَفْعَى	6					CANDIDATE
+T_IFAL	HFN-E-d4561cd965	مَضَى	فَعَلَ	لازم		مَاضٍ	HUDUTH	ISM_FAIL	HFN-E-a90ef25629	أَمْضَى	أَفْعَى	3					CANDIDATE
+T_IFAL	HFN-E-e1447e2ae9	مَعِرَ	فَعِلَ	لازم		أَمْعَرُ	THUBUT	WASIT_FAHUWA	HFN-E-71c3670da6	أَمْعَرَ	أَفْعَلَ	5		مُمْعِر	مُمْعَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-37abb11c0b	مَعِضَ	فَعِلَ	لازم	من	ماعِض	HUDUTH	WASIT_FAHUWA	HFN-E-73316e89a4	أَمْعَضَ	أَفْعَلَ	3		مُمْعِض	مُمْعَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-bc503fed7d	مَغَرَ	فَعَلَ	لازم		مَاغِر	HUDUTH	ISM_FAIL	HFN-E-52e05aefc8	أَمْغَرَ	أَفْعَلَ	7		مُمْغِر	مُمْغَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-5cb9a789ca	مَكُنَ	فَعُلَ	لازم		مَكِينَ	THUBUT	WASIT_FAHUWA	HFN-E-2917693f92	أَمْكَنَ	أَفْعَلَ	6		مُمْكِن	مُمْكَن	QIYAS	CANDIDATE
+T_IFAL	HFN-E-23f3b66f2d	مَهَلَ	فَعَلَ	لازم	في	مَاهِل	HUDUTH	ISM_FAIL	HFN-E-f9a7169d95	أَمْهَلَ	أَفْعَلَ	6		مُمْهِل	مُمْهَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-60d88d4445	نَابَ	فَعَلَ	لازم	عن	نائِبٌ	HUDUTH	WASIT_FAHUWA	HFN-E-89a4cd72a4	أَنَابَ	أَفَالَ	6					CANDIDATE
+T_IFAL	HFN-E-054d8764ba	نَاصَ	فَعَلَ	لازم		نَائِص	HUDUTH	ISM_FAIL	HFN-E-104e8a8063	أَنَاصَ	أَفَالَ	2					CANDIDATE
+T_IFAL	HFN-E-6599aedee9	نَاضَ	فَعَلَ	لازم		نَائِض	HUDUTH	ISM_FAIL	HFN-E-8463767836	أَنَاضَ	أَفَالَ	2					CANDIDATE
+T_IFAL	HFN-E-e633f21d33	نَبَا	فَعَلَ	لازم	عن	نَابٍ	HUDUTH	ISM_FAIL	HFN-E-c40fb8235d	أَنْبَى	أَفْعَى	3					CANDIDATE
+T_IFAL	HFN-E-f838318492	نَبَتَ	فَعَلَ	لازم		نَابِت	HUDUTH	ISM_FAIL	HFN-E-b702443080	أَنْبَتَ	أَفْعَلَ	8		مُنْبِت	مُنْبَت	QIYAS	CANDIDATE
+T_IFAL	HFN-E-523ce1c67c	نَبَجَ	فَعَلَ	لازم		نَابِج	HUDUTH	ISM_FAIL	HFN-E-ae38bbdec1	أَنْبَجَ	أَفْعَلَ	2		مُنْبِج	مُنْبَج	QIYAS	CANDIDATE
+T_IFAL	HFN-E-772ec17d32	نَبَضَ	فَعَلَ	لازم		نَابِض	HUDUTH	ISM_FAIL	HFN-E-859a975c7f	أَنْبَضَ	أَفْعَلَ	6		مُنْبِض	مُنْبَض	QIYAS	CANDIDATE
+T_IFAL	HFN-E-27a8368b80	نَبَطَ	فَعَلَ	لازم		نَابِط	HUDUTH	ISM_FAIL	HFN-E-e204d6f7a7	أَنْبَطَ	أَفْعَلَ	7		مُنْبِط	مُنْبَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a96c822892	نَبَغَ	فَعَلَ	لازم	في	نَابِغ	HUDUTH	ISM_FAIL	HFN-E-6c4d42316d	أَنْبَغَ	أَفْعَلَ	2		مُنْبِغ	مُنْبَغ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-174c6435cc	نَجَحَ	فَعَلَ	لازم		نَاجِح	HUDUTH	ISM_FAIL	HFN-E-cef5ece1be	أَنْجَحَ	أَفْعَلَ	6		مُنْجِح	مُنْجَح	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d1d7b5f65b	نَجِسَ	فَعِلَ	لازم		نَاجِس	HUDUTH	ISM_FAIL	HFN-E-eecff2eadd	أَنْجَسَ	أَفْعَلَ	4		مُنْجِس	مُنْجَس	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c1f523bd30	نَزَلَ	فَعَلَ	لازم	على	نَازِل	HUDUTH	ISM_FAIL	HFN-E-03efdb6dcd	أَنْزَلَ	أَفْعَلَ	6		مُنْزِل	مُنْزَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-bc46e02ae8	نَسَلَ	فَعَلَ	لازم		نَاسِل	HUDUTH	ISM_FAIL	HFN-E-80947e1143	أَنْسَلَ	أَفْعَلَ	5		مُنْسِل	مُنْسَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f6afe710dc	نَشِطَ	فَعِلَ	لازم	في	ناشِط	HUDUTH	WASIT_FAHUWA	HFN-E-b68f17cd81	أَنْشَطَ	أَفْعَلَ	8		مُنْشِط	مُنْشَط	QIYAS	CANDIDATE
+T_IFAL	HFN-E-da8e434f0b	نَضَبَ	فَعَلَ	لازم	عن	نَاضِب	HUDUTH	ISM_FAIL	HFN-E-49bdb223b7	أَنْضَبَ	أَفْعَلَ	5		مُنْضِب	مُنْضَب	QIYAS	CANDIDATE
+T_IFAL	HFN-E-044eaf8c78	نَضِجَ	فَعِلَ	لازم		نَاضِج	HUDUTH	ISM_FAIL	HFN-E-24e17a718e	أَنْضَجَ	أَفْعَلَ	6		مُنْضِج	مُنْضَج	QIYAS	CANDIDATE
+T_IFAL	HFN-E-21a188f210	نَطِسَ	فَعِلَ	لازم		نَطِسٌ	THUBUT	WASIT_FAHUWA	HFN-E-f692db04af	أَنْطَسَ	أَفْعَلَ	3		مُنْطِس	مُنْطَس	QIYAS	CANDIDATE
+T_IFAL	HFN-E-d8b662d4be	نَغِلَ	فَعِلَ	لازم		نَاغِل	HUDUTH	ISM_FAIL	HFN-E-2b61576a81	أَنْغَلَ	أَفْعَلَ	2		مُنْغِل	مُنْغَل	QIYAS	CANDIDATE
+T_IFAL	HFN-E-f7eef858a4	نَفَرَ	فَعَلَ	لازم	من	نَافِر	HUDUTH	ISM_FAIL	HFN-E-8e39089614	أَنْفَرَ	أَفْعَلَ	5		مُنْفِر	مُنْفَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-a4f0f04cb6	نَقَرَ	فَعَلَ	لازم	عن	نَاقِر	HUDUTH	ISM_FAIL	HFN-E-fa745d6403	أَنْقَرَ	أَفْعَلَ	4		مُنْقِر	مُنْقَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-e69bc9452c	نَكُرَ	فَعُلَ	لازم			HUDUTH	ISM_FAIL	HFN-E-6b7229e337	أَنْكَرَ	أَفْعَلَ	7		مُنْكِر	مُنْكَر	QIYAS	CANDIDATE
+T_IFAL	HFN-E-93680e1b85	نَكِدَ	فَعِلَ	لازم		نكِدٌ	THUBUT	WASIT_FAHUWA	HFN-E-f7853b323b	أَنْكَدَ	أَفْعَلَ	4		مُنْكِد	مُنْكَد	QIYAS	CANDIDATE
+T_IFAL	HFN-E-ec0abf0bf1	نَمِسَ	فَعِلَ	لازم		نَمِسٌ	THUBUT	WASIT_FAHUWA	HFN-E-b863f04a9f	أَنْمَسَ	أَفْعَلَ	2		مُنْمِس	مُنْمَس	QIYAS	CANDIDATE
+T_IFAL	HFN-E-7a2bebd844	هَبَذَ	فَعَلَ	لازم		هَابِذ	HUDUTH	ISM_FAIL	HFN-E-b63d3dca8c	أَهْبَذَ	أَفْعَلَ	2		مُهْبِذ	مُهْبَذ	QIYAS	CANDIDATE
+T_IFAL	HFN-E-c00e40dff7	هَجَعَ	فَعَلَ	لازم		هَاجِع	HUDUTH	ISM_FAIL	HFN-E-19397b7090	أَهْجَعَ	أَفْعَلَ	2		مُهْجِع	مُهْجَع	QIYAS	CANDIDATE
+T_IFAL	HFN-E-7943cd091f	هَيِفَ	فَعِلَ	لازم		أَهيف	THUBUT	WASIT_FAHUWA	HFN-E-4f5f7b47c9	أَهَافَ	أَفَالَ	4					CANDIDATE

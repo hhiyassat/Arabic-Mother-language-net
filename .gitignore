@@ -6,3 +6,6 @@ __pycache__/
 *.jsonl
 *.tar.gz
 .DS_Store
+.vercel
+.fuse_hidden*
+data/wordnet/_pre_*/

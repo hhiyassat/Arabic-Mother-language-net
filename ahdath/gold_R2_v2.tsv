@@ -1,0 +1,61 @@
+n	event_id	verb	transitivity	label	basis	note	judge
+1	HFN-E-47fa9ac168	قَأَبَ	متعدي	DEFER	NO_GLOSS		CLAUDE
+2	HFN-E-7a92174de7	تَغَشَّى	متعدي	NOT_TRANS	GLOSS	الأوّل: تغطّى (مطاوعة)	CLAUDE
+3	HFN-E-a0f189602a	خَاطَبَ	متعدي	LA_ATHAR	KNOWLEDGE	خاطبه: كلّمه — لسان	CLAUDE
+4	HFN-E-c2c1e67ec3	أَحْصَرَ	متعدي	MUATHTHIR	GLOSS	حبسه: تغيّر أينه	CLAUDE
+5	HFN-E-35eb523d63	لَحَتَ	متعدي	DEFER	GLOSS	الشرح للَحَّ لا لَحَتَ	CLAUDE
+6	HFN-E-4332a1dcd4	رَحَضَ	متعدي	MUATHTHIR	GLOSS	غسله	CLAUDE
+7	HFN-E-942487a70a	ضَارَ	متعدي	NOT_TRANS	GLOSS	اشتدّ جوعه	CLAUDE
+8	HFN-E-6124e68c1c	عَطَّ	متعدي	MUATHTHIR	GLOSS	شقّه	CLAUDE
+9	HFN-E-8781bcf817	رَبَتَ	متعدي	MUATHTHIR	GLOSS	ربّاه	CLAUDE
+10	HFN-E-04310d60c5	نَهِسَ	متعدي	MUATHTHIR	GLOSS	نتفه، عضّه	CLAUDE
+11	HFN-E-fca757659a	ثَمَأَ	متعدي	MUATHTHIR	GLOSS	فتّه، شدخه	CLAUDE
+12	HFN-E-00cb4958c1	رَصَّ	متعدي	NOT_TRANS	GLOSS	انضمّ بعضه إلى بعض	CLAUDE
+13	HFN-E-acc4e61199	ذَنَبَ	متعدي	NOT_TRANS	GLOSS	مدّ ذنبه	CLAUDE
+14	HFN-E-ead999d4ea	أَلِفَ	متعدي	LA_ATHAR	KNOWLEDGE	ألفه: أنس به — قلب	CLAUDE
+15	HFN-E-563833d3fd	فَجَعَ	متعدي	MUATHTHIR	KNOWLEDGE	فجعه: أوجعه — ألم في المحلّ	CLAUDE
+16	HFN-E-ce9be75058	سَرَفَ	متعدي	LA_ATHAR	GLOSS	أغفله، أخطأه	CLAUDE
+17	HFN-E-48212c1cfd	أَسَّسَ	متعدي	MUATHTHIR	GLOSS	أسّ البناء	CLAUDE
+18	HFN-E-72d633dafd	زَرَدَ	متعدي	MUATHTHIR	GLOSS	بلعها	CLAUDE
+19	HFN-E-4e506e6f44	نَحَّ	متعدي	NOT_TRANS	GLOSS	تردّد صوته	CLAUDE
+20	HFN-E-081101d63f	قَزَّ	متعدي	NOT_TRANS	GLOSS	قعد ثم وثب	CLAUDE
+21	HFN-E-eb014df858	بَخَتَ	متعدي	DEFER	NO_GLOSS		CLAUDE
+22	HFN-E-eb30affe38	ذَأَرَ	متعدي	DEFER	NO_GLOSS		CLAUDE
+23	HFN-E-492eed7f5c	وَطَمَ	متعدي	DEFER	NO_GLOSS		CLAUDE
+24	HFN-E-a3d5507a94	حَرَسَ	متعدي	LA_ATHAR	KNOWLEDGE	حرسه: حفظه	CLAUDE
+25	HFN-E-7afad8dccd	قَرِبَ	متعدي	LA_ATHAR	GLOSS	دنا منه — مسير	CLAUDE
+26	HFN-E-b6b9521ea6	رَطَسَ	متعدي	DEFER	NO_GLOSS		CLAUDE
+27	HFN-E-f557190c5e	جَاهَ	متعدي	LA_ATHAR	GLOSS	واجهه بمكروه — لسان	CLAUDE
+28	HFN-E-9c4a1ccf69	ثَقَلَ	متعدي	LA_ATHAR	GLOSS	قدّر ثقله؛ فاقه في الوزن	CLAUDE
+29	HFN-E-72082750cb	حَرَمَ	متعدي	LA_ATHAR	GLOSS	منعه إيّاه — كحَظَلَ في v1	CLAUDE
+30	HFN-E-b762e75e51	شَهَمَ	متعدي	NOT_TRANS	GLOSS	كان شهماً	CLAUDE
+31	HFN-E-114de6453e	غَمِصَ	متعدي	LA_ATHAR	KNOWLEDGE	غمصه: احتقره — قلب	CLAUDE
+32	HFN-E-7336deda09	زَانَ	متعدي	MUATHTHIR	KNOWLEDGE	زانه: زيّنه	CLAUDE
+33	HFN-E-4545972b20	عَلَمَ	متعدي	DEFER	GLOSS	مختلط: انشقّت شفته/عرفه/وسمه	CLAUDE
+34	HFN-E-78495ca5aa	نَدَخَ	متعدي	DEFER	NO_GLOSS		CLAUDE
+35	HFN-E-9b2ab70f02	غَصَنَ	متعدي	MUATHTHIR	GLOSS	قطعه	CLAUDE
+36	HFN-E-b9fad33717	ضَأَدَ	متعدي	DEFER	NO_GLOSS		CLAUDE
+37	HFN-E-282962e2e4	قَحَزَ	متعدي	NOT_TRANS	GLOSS	وثب منزعجاً	CLAUDE
+38	HFN-E-9605d74e80	لَحِسَ	متعدي	MUATHTHIR	GLOSS	لعقه	CLAUDE
+39	HFN-E-693ac42d05	غَمَنَ	متعدي	MUATHTHIR	GLOSS	دفنه لينفصل صوفه	CLAUDE
+40	HFN-E-dddae153d3	أَدَّى	متعدي	LA_ATHAR	GLOSS	قام به، قضاه	CLAUDE
+41	HFN-E-34ca8611ad	هَالَ	متعدي	NOT_TRANS	GLOSS	خاف ورعب	CLAUDE
+42	HFN-E-ad2b7d4e97	وَرِثَ	متعدي	LA_ATHAR	GLOSS	ورث المال: انتقال ملك لا أثر في المحلّ	CLAUDE
+43	HFN-E-011389aad2	حَبَلَ	متعدي	MUATHTHIR	GLOSS	ضفّره؛ صاده	CLAUDE
+44	HFN-E-99f2313577	غَفَلَ	متعدي	NOT_TRANS	GLOSS	غفل عن	CLAUDE
+45	HFN-E-f7b3a736a8	حَرَقَ	متعدي	MUATHTHIR	GLOSS	برده	CLAUDE
+46	HFN-E-19ab424742	غَمَدَ	متعدي	MUATHTHIR	GLOSS	أدخله في غمده: تغيّر أينه	CLAUDE
+47	HFN-E-7dd442f67b	شَظَفَ	متعدي	NOT_TRANS	GLOSS	يبس	CLAUDE
+48	HFN-E-b686b5a6c6	أَوْعَى	متعدي	LA_ATHAR	GLOSS	وعاه وحفظه	CLAUDE
+49	HFN-E-0b21fd8b9f	رَاوَدَ	متعدي	LA_ATHAR	KNOWLEDGE	راوده: طلب منه — لسان	CLAUDE
+50	HFN-E-a47b71c5c0	ذَعَجَ	متعدي	DEFER	NO_GLOSS		CLAUDE
+51	HFN-E-70bc204ecf	رَمَضَ	متعدي	MUATHTHIR	GLOSS	حدّده؛ شقّ الشاة	CLAUDE
+52	HFN-E-85ef14e674	جَمَلَ	متعدي	DEFER	GLOSS	الشرح لجَمُلَ	CLAUDE
+53	HFN-E-b3f644c167	كَثَرَ	متعدي	NOT_TRANS	GLOSS	كَثُر: خلاف قلّ	CLAUDE
+54	HFN-E-1653d501d4	كَلَمَ	متعدي	MUATHTHIR	KNOWLEDGE	كلمه: جرحه	CLAUDE
+55	HFN-E-b5efd4949a	وَقَّرَ	متعدي	LA_ATHAR	GLOSS	عظّمه وبجّله	CLAUDE
+56	HFN-E-c78acf4e5d	نَطَحَ	متعدي	MUATHTHIR	KNOWLEDGE	نطحه بقرنه	CLAUDE
+57	HFN-E-8d9d103f19	حَنَّ	متعدي	NOT_TRANS	GLOSS	صوّت	CLAUDE
+58	HFN-E-82d7f4e103	ثَمَنَ	متعدي	LA_ATHAR	GLOSS	أخذ ثمنه؛ كان ثامنهم	CLAUDE
+59	HFN-E-569eaec4a9	فَاشَ	متعدي	NOT_TRANS	GLOSS	افتخر	CLAUDE
+60	HFN-E-85b0942e7b	نَثَلَ	متعدي	MUATHTHIR	GLOSS	استخرجه	CLAUDE

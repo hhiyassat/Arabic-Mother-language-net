@@ -1,0 +1,141 @@
+{
+ "file": "wordnet_lookup_unified_LH.json",
+ "level": "LH_HAMZA_AFTER_L1",
+ "normalization": "NFC · drop marks · then أ إ آ ٱ ⟶ ا",
+ "built_on": {
+  "file": "wordnet_lookup_unified.json",
+  "sha256": "5d529b40aae4e138d73c5da235f4f76813eaf6b637519626642055a24a1649c3"
+ },
+ "derived_from": "wordnet_search_index.json",
+ "derived_from_sha256": "4f1573b64a0cb5b3611b416f14353054a8ad86522a1bd1434fce96d34814e193",
+ "sha256": "31656cd010e0ccc2cbef70a1632cf16f24eb4df42c7c5926ce2e451c38271672",
+ "ruling": {
+  "n": 6,
+  "id": "LH_HAMZA_UNIFICATION",
+  "verdict": "APPROVED",
+  "constraints": [
+   "AFTER=L1_DIACRITIC_UNIFICATION"
+  ],
+  "ruled_by": "DR_HUSSEIN",
+  "ruled_utc": "2026-09-08"
+ },
+ "not_applied": [
+  "L2_ARTICLE_UNIFICATION (DEFERRED_BY_THE_OWNER)"
+ ],
+ "witness": {
+  "word": "ابن",
+  "named_target": "son.n.01",
+  "target_words_ar": [
+   "إِبْن",
+   "وَلَد"
+  ],
+  "reached": true
+ },
+ "after": {
+  "denominator_name": "index_keys",
+  "denominator": 65544,
+  "groups": 58004,
+  "keys_whose_answer_changed": 12796,
+  "keys_unchanged": 52748,
+  "added_candidates_total": 66511,
+  "added_per_key": 1.015,
+  "quoted_bound": {
+   "added_candidates_total": 186568,
+   "added_per_key": 2.846,
+   "measured_at_level": "fold_alif(strip_article(bare(s)))",
+   "includes": "L2_ARTICLE_UNIFICATION (DEFERRED_BY_THE_OWNER)",
+   "source": "final-september/output/ceiling/00_ceiling.json#P1_load_by_level/LH_PLUS_HAMZA"
+  },
+  "quoted_minus_measured": 120057,
+  "why_they_differ": "المنقولُ يضمّ أداةَ التعريف (L2) وقد أُجِّلت — والمنفَّذُ هو المحكومُ به وحدَه",
+  "rule": "COUNT_IS_NOT_MEMBERSHIP"
+ },
+ "guards": [
+  {
+   "guard": "G_L1_IS_EXECUTED_FIRST",
+   "state": "HELD",
+   "saw": {
+    "file": "wordnet_lookup_unified.json",
+    "keys": 58727
+   },
+   "expected": "L1 موجودٌ ومقروء",
+   "note": "AFTER=L1_DIACRITIC_UNIFICATION — قيدُ المالك"
+  },
+  {
+   "guard": "G_L1_FILE_IS_UNTOUCHED",
+   "state": "HELD",
+   "saw": "5d529b40aae4e138",
+   "expected": "5d529b40aae4e138",
+   "note": ""
+  },
+  {
+   "guard": "G_L2_IS_NOT_SMUGGLED_IN",
+   "state": "HELD",
+   "saw": {
+    "الكتاب": "الكتاب",
+    "كتاب": "كتاب"
+   },
+   "expected": "مجموعتان لا واحدة",
+   "note": "L2 مؤجَّلٌ بحكم المالك — ولا يدخل من باب الهمزة"
+  },
+  {
+   "guard": "G_THE_HAMZA_IS_FOLDED",
+   "state": "HELD",
+   "saw": {
+    "إبن": "ابن",
+    "ابن": "ابن"
+   },
+   "expected": "مجموعةٌ واحدة",
+   "note": ""
+  },
+  {
+   "guard": "G_THE_NAMED_WITNESS_IS_REACHED",
+   "state": "HELD",
+   "saw": {
+    "key": "ابن",
+    "candidates": 23,
+    "target_present": true
+   },
+   "expected": "son.n.01",
+   "note": "COUNT_IS_NOT_MEMBERSHIP — الشاهدُ عضويّةٌ لا عدد"
+  },
+  {
+   "guard": "G_NO_ID_INVENTED",
+   "state": "HELD",
+   "saw": 102634,
+   "expected": 102634,
+   "note": "اتّحادٌ لا توليد"
+  },
+  {
+   "guard": "G_LH_CONTAINS_L1",
+   "state": "HELD",
+   "saw": 0,
+   "expected": 0,
+   "note": "درجةٌ فوقَ درجة، لا بديلٌ عنها"
+  },
+  {
+   "guard": "G_EXECUTION_FOLLOWS_A_RECORDED_RULING",
+   "state": "HELD",
+   "saw": true,
+   "expected": true,
+   "note": "/sessions/rcw-01t966hfgcenbyf88mfumasu/mnt/final-september/output/rulings/00_RULINGS.json"
+  }
+ ],
+ "consumers": "NONE_YET — القراءةُ من هذا الملفِّ حكمٌ آخر",
+ "PROJECT_FINISHED": "NO",
+ "rebuilt_2026_10_30": {
+  "reason": "words_ar replaced by AWN4 4.1.0 (owner approval DR_HUSSEIN 2026-10-30)",
+  "same_rulings": true,
+  "previous_sha256": "b197622c7984fa7107e11f1398b6f95a417183ca1882ff03ecb787fa1f4c6f79",
+  "previous_meta": "_pre_awn4_words_20261030/wordnet_lookup_unified_LH.META.json",
+  "new_keys": 102183,
+  "built_on_sha256": "2d55d870a2202499667a7bb3cc65d4a49248649973d4bca7731a055bf5328c56"
+ },
+ "rebuilt_2026_11_01": {
+  "reason": "awn words merged + pos r→s (owner approval 2026-11-01)",
+  "same_rulings": true,
+  "previous_sha256": "e57b2972898cb447be264f87fafa0b76792e5715e58af6977fdf640cfa54ac81",
+  "new_keys": 107931,
+  "built_on_sha256": "d9a75d5cd66389b3505e6716c25533580c8f67077d26850f914e8057a6d99423"
+ }
+}

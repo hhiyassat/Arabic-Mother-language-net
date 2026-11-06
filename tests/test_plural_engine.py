@@ -2,9 +2,9 @@
 اختبار محرك التكسير على الجذور العشرة التجريبية
 """
 import sys, os, json
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from word_tree.engines.plural_engine import (
+from engines.plural_engine import (
     build_plural_set_from_dict,
     wazn_frequency,
     PluralSet,
@@ -13,7 +13,7 @@ from word_tree.engines.plural_engine import (
 DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'pilot_roots.json')
 
 
-def test_root(root_data: dict) -> tuple[bool, PluralSet | None]:
+def check_root(root_data: dict) -> tuple[bool, PluralSet | None]:
     label   = root_data["display"]
     letters = root_data["letters"]
     rt      = root_data["root_type"]
@@ -63,7 +63,7 @@ def main():
     passed = 0
 
     for rd in roots:
-        ok, ps = test_root(rd)
+        ok, ps = check_root(rd)
         if ok:
             passed += 1
             if ps:
@@ -83,3 +83,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+import pytest  # noqa: E402
+
+
+def _roots():
+    with open(DATA_PATH, encoding="utf-8") as f:
+        return json.load(f)["roots"]
+
+
+@pytest.mark.parametrize("root_data", _roots(), ids=lambda r: r.get("display", "?"))
+def test_pilot_root(root_data):
+    ok, _ = check_root(root_data)
+    assert ok

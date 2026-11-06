@@ -1,0 +1,61 @@
+candidate	base	label	note	jurjani_kind
+بَلُدَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+فَصُحَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+قَضُفَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+مَعُقَ		DEFER	المعنى غير بيّن	DEFER
+قَبُحَ		BOTH	يُستعمل في الجسم والنفس (الوسيط)	BOTH
+حَكُمَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+شَسُبَ		DEFER	غير بيّن	DEFER
+لَبُقَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+نَكُرَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+عَبُمَ		DEFER	غير بيّن	DEFER
+سَهُلَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+بَعُدَ		NOT	نسبة بين شيئين (بُعد)، لا خاصيّة جنس	IDAFA
+بَدُنَ		KHASSA_JINS	خاصيّة ثابتة في جسم	IDAFA_KAMM
+رَشُقَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+مَلُسَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+قَعُرَ		KHASSA_JINS	خاصيّة ثابتة في جسم	IDAFA_KAMM
+رَقُعَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+حَسُبَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+ثَقُلَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+رَصُنَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+عَذُوَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+عَثُرَ		DEFER	الشرح لا يوافق فَعُل	DEFER
+كَفُلَ		DEFER	الشرح لا يوافق فَعُل	DEFER
+عَذُبَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+وَبُلَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+تَرُصَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+عَرُفَ		NOT	منصب عارض	HAL
+سَحُقَ		NOT	بُعد: نسبة	IDAFA
+جَلُدَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+شَرُفَ		BOTH	يُستعمل في الجسم والنفس (الوسيط)	BOTH
+فَقُهَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+بَؤُسَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+كَدُرَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+غَلُظَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+هَبُلَ		DEFER	غير بيّن	DEFER
+دَهُوَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+عَنُفَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+رَصُفَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+كَهُبَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+فَقُرَ		NOT	حال عارضة	HAL
+كَبُرَ		KHASSA_JINS	خاصيّة ثابتة في جسم	IDAFA_KAMM
+فَسُقَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+جَبُنَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+ذَهُنَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+مَكُثَ		NOT	لُبث: حال	HAL
+سَلُطَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+عَمُقَ		KHASSA_JINS	خاصيّة ثابتة في جسم	IDAFA_KAMM
+فَرُهَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+نَسُكَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+رَدُحَ		KHASSA_JINS	خاصيّة ثابتة في جسم	IDAFA_KAMM
+شَبُعَ		DEFER	شَبُعَ غير معروف بهذه الصيغة	DEFER
+بَزُعَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+شَحُمَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+مَثُلَ		DEFER	مَثُل: مشترك	DEFER
+بَؤُلَ		DEFER	غير بيّن	DEFER
+جَهُرَ		KHASSA_JINS	خاصيّة ثابتة في جسم	MAHSUSA
+غَضُرَ		DEFER	غير بيّن	DEFER
+قَدُمَ		KHASSA_JINS	خاصيّة ثابتة في جسم	IDAFA_KAMM
+رَزُنَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
+حَصُفَ		KHASLA_NAFS	خصلة ثابتة في النفس	NAFSANIYYA
