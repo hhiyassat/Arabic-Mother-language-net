@@ -60,6 +60,12 @@ FORM_ROMAN = {"فَعَّلَ": "II", "فَاعَلَ": "III", "أَفْعَلَ
 ROUTE_FORM = {"J_SAJIYYA": "فَعُلَ", "J_DAA": "فَعِلَ", "T_JAL": "أَفْعَلَ"}
 
 
+def form_is(form, want):
+    """وزن HFN: «أَفْعَلَ» أو صيغته المعتلّة بالنصّ «أَفْعَى (أفعل ناقص)» (فحص الجذور، الدفعة 2: أَغْنَى)."""
+    head, _, note = form.partition(" ")
+    return head == want or HAR.sub("", nfc(want)) in note
+
+
 def letters(s):
     return HAR.sub("", nfc(s)).replace("ـ", "")
 
@@ -374,8 +380,10 @@ class Audit:
             if nfc(e["verb"]) != nfc(x["verb"]):
                 probs.append(f'الفعل في HFN «{e["verb"]}»')
             want = ROUTE_FORM.get(x["route"])
-            if want and e["form"].split(" ")[0] != want:
+            if want and not form_is(e["form"], want):
                 probs.append(f'وزن الحدث {e["form"]} لا {want}')
+            if x.get("mutawi_flags"):
+                probs.append(f'المطاوع «{x["mutawi"]}» ({x.get("mutawi_src", "")}): ' + "، ".join(x["mutawi_flags"]))
             out.append(("A_AHDATH", "FAIL" if probs else "PASS", tag + (": " + "؛ ".join(probs) if probs else "")))
         for e in self.ev_by_root.get(R, []):
             for x in P_WAZN.features(e["verb"]):

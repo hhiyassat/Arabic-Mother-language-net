@@ -120,3 +120,26 @@ def test_maqayis_fallback_finds_doubled_and_naqis_keys(monkeypatch):
         assert m and m[0]["evidence"].endswith(f"key={key}"), root
     assert R.key_variants("يدي") == ["يدى", "يدو"]          # الثنائي الملتبس (يد) لا تسترجع به الواجهة
     assert R.key_variants("يدي", biliteral_naqis=True)[-1] == "يد"
+
+
+def test_r1w_mutawi_flags_text_only_forms():
+    """فحص الجذور، الدفعة 2: مطاوعٌ من نصّ الوسيط بلا حدث HFN يُعلَّم ولا يُغيَّر."""
+    import unicodedata
+    from word_tree import ahdath as A
+    n = lambda s: unicodedata.normalize("NFC", s)  # noqa: E731
+    rows = {(x["root"], n(x["mutawi"])): x for x in A._table() if x["route"] == "R1W"}
+    assert rows[("صوب", n("تصوَّبَ"))]["mutawi_flags"] == ["PARTIAL_VOWELLING"]
+    assert rows[("صوب", n("تصوَّبَ"))]["mutawi_src"] == "WASIT_TEXT"
+    assert "ROOT_LETTERS_MISSING" in rows[("طبع", n("انْعَلَبَعَ"))]["mutawi_flags"]
+    # المضعّف: الشدّة تُسقط تكرار الحرف — اصْطَفَّ من صفف ليس تالفاً
+    assert "ROOT_LETTERS_MISSING" not in rows[("صفف", n("اصْطَفَّ"))]["mutawi_flags"]
+    assert all(not x["mutawi_flags"] for x in rows.values() if x["mutawi_src"] == "HFN")
+
+
+def test_audit_form_is_accepts_hfn_naqis_label():
+    import sys, os
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "audit"))
+    import roots_audit as RA
+    assert RA.form_is("أَفْعَى (أفعل ناقص)", "أَفْعَلَ")
+    assert RA.form_is("أَفْعَلَ", "أَفْعَلَ")
+    assert not RA.form_is("فَعَّلَ", "أَفْعَلَ")
