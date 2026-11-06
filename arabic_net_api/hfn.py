@@ -67,7 +67,8 @@ def features(verb: str, root: str = "", form: str = "") -> list[dict]:
     src = h.release
     for e, m in events(verb, root, form):
         eid = e["event_id"]
-        kw = dict(provider=PROVIDER, status=RELEASE, source=src, match=m, event_id=eid, verb=e["verb"])
+        kw = dict(provider=PROVIDER, status=RELEASE, source=src, match=m, event_id=eid, verb=e["verb"], matched=e["verb"],
+                  found_trans=e.get("transitivity", ""))
         out.append(feature("hfn_event", dict(event_id=eid, root=e["root_K"], form=e["form"], layer=e["layer"],
                                              tier=e.get("tier", ""), n_lex=e.get("n_lex", ""),
                                              licensing=e.get("licensing_status", ""), residual=e.get("residual", "")), **kw))
