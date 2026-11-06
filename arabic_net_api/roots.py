@@ -36,7 +36,16 @@ def key_variants(R: str, biliteral_naqis: bool = False) -> list[str]:
     if len(R) == 3 and R[1] == R[2]:
         out.append(R[:2])
     if len(R) == 3 and R[2] in "ويى":
-        out += [R[:2] + "ى", R[:2] + "ي", R[:2] + "و"] + ([R[:2]] if biliteral_naqis else [])
+        out += [R[:2] + "ى", R[:2] + "ي", R[:2] + "و"]
+    # مادّة جامعة عند ابن فارس (فحص الجذور، الدفعة 4). المفتاح بعد K:
+    #   Xوء «والحرف المعتلّ والمهموز» (خطوأ، بكوأ، رفوأ) — للناقص وللمهموز اللام؛
+    #   Xوي «والحرف المعتلّ … الواو والياء» (بروى، ثروى) ونادراً Xوا (دسوا) — للناقص وحده.
+    if len(R) == 3 and R[2] in "ويى":
+        out += [R[:2] + "وي", R[:2] + "وا", R[:2] + "وء"]
+    if len(R) == 3 and R[2] == "ء":
+        out.append(R[:2] + "وء")
+    if biliteral_naqis and len(R) == 3 and R[2] in "ويى":
+        out.append(R[:2])                    # الملتبس آخراً: لا يسبق المادّة الجامعة
     seen = []
     for v in out:
         if v != R and v not in seen:
