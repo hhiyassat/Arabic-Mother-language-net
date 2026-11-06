@@ -118,7 +118,7 @@ def test_maqayis_fallback_finds_doubled_and_naqis_keys(monkeypatch):
     for root, key in (("ربب", "رب"), ("حقق", "حق"), ("دنو", "دني")):          # K يوحّد ى→ي
         m = R.meaning(root)
         assert m and m[0]["evidence"].endswith(f"key={key}"), root
-    assert R.key_variants("يدي") == ["يدى", "يدو"]          # الثنائي الملتبس (يد) لا تسترجع به الواجهة
+    assert R.key_variants("يدي")[:2] == ["يدى", "يدو"] and "يد" not in R.key_variants("يدي")          # الثنائي الملتبس (يد) لا تسترجع به الواجهة
     assert R.key_variants("يدي", biliteral_naqis=True)[-1] == "يد"
 
 
@@ -151,3 +151,13 @@ def test_wazn_skips_unresolved_mutawaa_base():
     fs = [f for f in W.features("تَطَهَّرَ") if f["feature"] == "mutawaa_base"]
     assert all(f["value"] for f in fs)
     assert all(f["source"] == "mutawaa_v4.tsv" for f in W.features("انْكَسَرَ"))
+
+
+def test_maqayis_combined_naqis_hamza_entries():
+    """فحص الجذور، الدفعة 4: ابن فارس يجمع المعتلّ والمهموز في مادّة (خطوأ) والواويّ واليائيّ في مادّة (بروى)."""
+    from arabic_net_api import roots as R
+    t = R._maqayis()
+    pick = lambda r: next((v for v in [r] + R.key_variants(r) if v in t), None)  # noqa: E731
+    assert pick("خطء") == pick("خطو") == "خطوء"
+    assert pick("بري") == "بروي"
+    assert pick("برء") is None          # برأ مادّة مهموزة مستقلّة: لا تُحمل على «بروى» المعتلّة
