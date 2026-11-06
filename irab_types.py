@@ -17,6 +17,10 @@ LAYER5_FROZEN_TOKEN = "IFADAH_KERNEL_LAYER5_FROZEN_READY_FOR_LAYER6_HANDOFF"
 # ── الحكم الختامي لـ LAYER 6 ─────────────────────────────────────────────────
 LAYER6_VERDICT_TOKEN = "IRAB_JUDGMENT_KERNEL_LAYER6_BUILT_READY_FOR_HOKOM_HANDOFF"
 
+# ── الثابت الجامد لـ LAYER 6 حين يُسلَّم إلى LAYER 7 (يطابق layer6_frozen) ──
+#   LAYER 7 (HokomKernel) يستقبل Layer7Handoff ويتحقق من هذا الختم في GUARD_L7_00.
+LAYER6_FROZEN_TOKEN = LAYER6_VERDICT_TOKEN
+
 
 # ══════════════════════════════════════════════════════════════════════════════
 # الأدوار الإعرابية
@@ -158,6 +162,42 @@ class IrabJudgmentResult:
             "block_reasons":  self.block_reasons,
             "layer6_frozen":  self.layer6_frozen,
         }
+
+    def to_layer7_handoff(self) -> "Layer7Handoff":
+        """يُنتج حزمة الـ handoff الرسمية لـ LAYER 7 (HokomKernel).
+
+        LAYER 7 يستقبل هذا فقط — لا يُعيد فتح Wave11 ولا IfadahResult ولا IrabJudgmentResult.
+        """
+        return Layer7Handoff(
+            root          = self.root,
+            synset_id     = self.synset_id,
+            sentence      = self.sentence,
+            sentence_type = self.sentence_type,
+            entries       = tuple(self.entries),
+            irab_verdict  = self.verdict,
+            layer6_frozen = self.layer6_frozen,
+        )
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Handoff إلى LAYER 7 (HokomKernel)
+# ══════════════════════════════════════════════════════════════════════════════
+
+@dataclass(frozen=True)
+class Layer7Handoff:
+    """
+    ما يُسلَّم إلى LAYER 7 (HokomKernel) حصراً.
+
+    LAYER 7 يحكم على سلامة الجملة تركيبياً (حكم لغوي) — لا حكم فقهي ولا فتوى.
+    يستقبل هذا فقط، ولا يُعيد فتح أي طبقة سابقة.
+    """
+    root:           str
+    synset_id:      str
+    sentence:       str               # الجملة الكاملة كما وردت
+    sentence_type:  str               # SentenceType.*
+    entries:        tuple             # tuple[IrabEntry] — أحكام LAYER 6 الإعرابية
+    irab_verdict:   str               # حكم LAYER 6: "IRAB_COMPLETE" / "BLOCKED"
+    layer6_frozen:  str = LAYER6_VERDICT_TOKEN
 
 
 # ══════════════════════════════════════════════════════════════════════════════
