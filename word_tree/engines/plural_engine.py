@@ -8,7 +8,7 @@ from dataclasses import dataclass, field
 from typing import Optional
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
-from core.types import RootType
+from word_tree.core.types import RootType
 
 # حركات يُتجاهَل وجودها عند تجريد الكلمة
 _DIACRITICS = set("ٌٍَُِّْٰ")

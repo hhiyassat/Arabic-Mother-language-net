@@ -4,7 +4,7 @@
 import sys, os, json
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from engines.plural_engine import (
+from word_tree.engines.plural_engine import (
     build_plural_set_from_dict,
     wazn_frequency,
     PluralSet,

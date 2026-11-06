@@ -4,8 +4,8 @@
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
-from engines.morphological_engine import conjugate
-from core.types import RootType, Baab
+from word_tree.engines.morphological_engine import conjugate
+from word_tree.core.types import RootType, Baab
 
 
 # الجذور العشر مع حروفها الأصلية الصحيحة (ثلاثة أحرف)

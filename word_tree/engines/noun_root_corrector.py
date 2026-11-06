@@ -9,6 +9,7 @@ from __future__ import annotations
 import re
 import json
 import sqlite3
+from contextlib import closing
 from dataclasses import dataclass, field
 from typing import Optional
 
@@ -100,11 +101,11 @@ class MaqayisIndex:
 
 def load_maqayis_index(db_path: str) -> MaqayisIndex:
     idx = MaqayisIndex()
-    conn = sqlite3.connect(db_path)
-    rows = conn.execute(
-        "SELECT root_display FROM entries WHERE root_display IS NOT NULL"
-    ).fetchall()
-    conn.close()
+    # **يُغلق في كلّ مسار** — ومنها الاستثناءُ أثناء الاستعلام.
+    with closing(sqlite3.connect(db_path)) as conn:
+        rows = conn.execute(
+            "SELECT root_display FROM entries WHERE root_display IS NOT NULL"
+        ).fetchall()
 
     for (display,) in rows:
         raw = strip_harakat(display.strip())
