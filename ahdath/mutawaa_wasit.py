@@ -19,7 +19,66 @@ import taadiya as TD  # noqa: E402
 
 PAT = re.compile(r"مطاوع(?:ة)?\s+([^\s.،:؛)]+)")
 COLS = ["route", "root", "mutawi", "mutawi_event", "base_text", "base", "base_event", "base_form", "n_lex",
-        "mani", "fail", "maful", "athar", "rank"]
+        "mani", "fail", "maful", "athar", "rank", "base_match"]
+
+# صيغة الأصل من صيغة المطاوع (سيبويه، باب المطاوعة؛ الكليات:27626): تفعّل←فعّل، تفاعل←فاعل، تفعلل←فعلل،
+# انفعل/افتعل ← المجرّد (وافتعل قد يطاوع أفعل).
+MUT2BASE = {
+    "تَفَعَّلَ": ("فَعَّلَ",),
+    "تَفَاعَلَ": ("فَاعَلَ",),
+    "تَفَعْلَلَ": ("فَعْلَلَ",),
+    "انْفَعَلَ": ("فَعَلَ", "فَعِلَ", "فَعُلَ", "فَعَلَ/فَعِلَ"),
+    "افْتَعَلَ": ("فَعَلَ", "فَعِلَ", "فَعُلَ", "فَعَلَ/فَعِلَ", "أَفْعَلَ"),
+}
+
+
+SHADDA, FATHA, KASRA, DAMMA = "\u0651", "\u064e", "\u0650", "\u064f"
+_H = "[\u064b-\u0652]*"
+RAW = re.compile("م" + _H + "ط" + _H + "ا" + _H + "و" + _H + "ع" + _H + "(?:ة" + _H + ")?\\s+([^\\s.،:؛)]+)")
+
+
+def text_forms(raw):
+    """صيغة الأصل من شكل كلمته في نصّ الوسيط نفسه (دفَّقه ← فَعَّلَ؛ دفَقَه ← فَعَلَ). None إن لم يُشكَل."""
+    tok = re.sub(r"(ه|ها|هم)[\u064b-\u0652]*$", "", A.nfc(raw))
+    letters = []
+    for ch in tok:
+        if "\u064b" <= ch <= "\u0652":
+            if letters:
+                letters[-1][1].append(ch)
+        else:
+            letters.append([ch, []])
+    n = len(letters)
+    if any(SHADDA in m for _, m in letters) and n == 3:
+        return ("فَعَّلَ",)
+    if n == 4 and letters[0][0] in "أاإ":
+        return ("أَفْعَلَ",)
+    if n == 4 and letters[1][0] == "ا":
+        return ("فَاعَلَ",)
+    if n == 4:
+        return ("فَعْلَلَ",)
+    if n == 3:
+        v = letters[1][1]
+        if FATHA in v:
+            return ("فَعَلَ", "فَعَلَ/فَعِلَ")
+        if KASRA in v:
+            return ("فَعِلَ", "فَعَلَ/فَعِلَ")
+        if DAMMA in v:
+            return ("فَعُلَ",)
+    return None
+
+
+def want_forms(head, mut):
+    """الصيغ المقبولة للأصل: من صيغة المطاوع في HFN إن عُرفت، وإلا من شكل الكلمة."""
+    if mut and mut["form"].split(" ")[0] in MUT2BASE:
+        return MUT2BASE[mut["form"].split(" ")[0]]
+    hw = A.nfc(head)
+    if hw.startswith("ت") and "ّ" in hw:
+        return MUT2BASE["تَفَعَّلَ"]
+    if hw.startswith("ت") and len(TD.WF.bare(hw)) == 5 and TD.WF.bare(hw)[2] == "ا":
+        return MUT2BASE["تَفَاعَلَ"]
+    if hw.startswith("ت"):
+        return MUT2BASE["تَفَعْلَلَ"]
+    return ("فَعَلَ", "فَعِلَ", "فَعُلَ", "فَعَلَ/فَعِلَ", "أَفْعَلَ")
 
 
 def build():
@@ -41,17 +100,23 @@ def build():
                 if not base:
                     st["no_base"] += 1
                     continue
-                # الصيغة من المطاوع: تَفَعَّلَ ← فَعَّلَ؛ تَفَعْلَلَ ← فَعْلَلَ؛ انفعل/افتعل ← المجرّد
-                hw = A.nfc(head.split()[0])
-                want = ("فَعَّلَ",) if ("ّ" in hw and hw.startswith("تَ") or hw.startswith("ت") and "ّ" in hw) else \
-                       ("فَعْلَلَ",) if hw.startswith("تَ") or hw.startswith("ت") else ("فَعَلَ", "فَعِلَ", "فَعُلَ", "أَفْعَلَ")
+                raws = RAW.findall(A.nfc(text))
+                tf = next((text_forms(r) for r in raws if WF.bare(re.sub(r"(ه|ها|هم)[\u064b-\u0652]*$", "", r)) == b), None)
+                want = tf or want_forms(head.split()[0], mut)
+                if tf and not any(e["form"].split(" ")[0] in tf for e in base):
+                    st["base_form_absent_in_hfn"] += 1   # النصّ يسمّي صيغةً ليست في HFN: لا إبدال بغيرها
+                    continue
                 pref = [e for e in base if e["form"].split(" ")[0] in want]
-                bse = sorted(pref or base, key=lambda e: (-A.nlex(e)))[0]
+                if not pref and len({e["form"].split(" ")[0] for e in base}) > 1:
+                    st["ambiguous_base"] += 1      # لا صيغة مطابقة وأكثر من صيغة: لا ترجيح بلا سند
+                    continue
+                bse = sorted(pref or base, key=lambda e: (-A.nlex(e), e["event_id"]))[0]
                 p = A.participles(dict(bse, transitivity="متعدي"), lus)
                 rows.append(dict(route="R1W", root=root, mutawi=head.split()[0], mutawi_event=mut["event_id"] if mut else "",
                                  base_text=bt, base=bse["verb"], base_event=bse["event_id"], base_form=bse["form"].split(" ")[0],
                                  n_lex=A.nlex(bse), mani=A.mani(bse["verb"]), fail=p["fail"], maful=p["maful"],
-                                 athar=(mut["masdar"] if mut else ""), rank="CANDIDATE"))
+                                 athar=(mut["masdar"] if mut else ""), rank="CANDIDATE",
+                                 base_match=("TEXT" if tf else "MUT_FORM") if pref else "ONLY_FORM"))
                 st["ok"] += 1
     seen, uniq = set(), []
     for r in rows:

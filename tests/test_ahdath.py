@@ -230,11 +230,16 @@ def test_23_r2w_from_wasit():
 
 
 def test_24_r1w_wasit_mutawaa():
-    """R1W: نصّ الوسيط «مطاوع Yه» — تَهَشَّمَ مطاوع هَشَمَ (الكليات:27626: المطاوع من غير انفعل)."""
+    """R1W: نصّ الوسيط «مطاوع Yه» — المطاوع من غير انفعل (الكليات:27626)، وصيغة الأصل من شكل النصّ نفسه."""
     pool = _rows("mutawaa_R1W_pool.tsv")
-    pairs = {(A.bare(x["mutawi"]), A.bare(x["base"])) for x in pool}
-    assert ("تهشم", "هشم") in pairs and ("انكسر", "كسر") in pairs
+    by = {(A.bare(x["mutawi"]), A.bare(x["base"])): x for x in pool}
+    assert ("انكسر", "كسر") in by and ("انهشم", "هشم") in by
+    # «تَطَهَّرَ: مطاوع طَهَّرَه» ← فَعَّلَ لا فَعُلَ (طَهُرَ لازم)
+    assert A.nfc(by[("تطهر", "طهر")]["base"]) == A.nfc("طَهَّرَ")
+    # «تَكَسَّرَ: مطاوع كسّرَه» و«تهشّم: مطاوع هشّمه»: فَعَّلَ غير موجود في HFN، فلا يُبدَل بفَعَلَ
+    assert ("تكسر", "كسر") not in by and ("تهشم", "هشم") not in by
     assert all(x["route"] == "R1W" and x["rank"] == "CANDIDATE" for x in pool)
+    assert {x["base_match"] for x in pool} <= {"TEXT", "MUT_FORM", "ONLY_FORM"}
 
 
 def test_25_jiha_sitt():
