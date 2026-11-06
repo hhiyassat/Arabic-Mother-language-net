@@ -1,0 +1,61 @@
+n	base_event	mutawi	base	base_form	label	note	judge
+1	HFN-E-2698c51500	اصْطَفَقَ	صَفَقَ	فَعَلَ	MUATHTHIR		CLAUDE
+2	HFN-E-d3f0b533c3	احْتَفَظَ	أَحْفَظَ	أَفْعَلَ	MUATHTHIR		CLAUDE
+3	HFN-E-19a9491e79	انكَبَتَ	كَبَتَ	فَعَلَ	MUATHTHIR		CLAUDE
+4	HFN-E-723ee56cea	انحَطم	حَطَمَ	فَعَلَ	MUATHTHIR		CLAUDE
+5	HFN-E-a61b13c677	انقلب	قَلَبَ	فَعَلَ	MUATHTHIR		CLAUDE
+6	HFN-E-1f5723631d	اصْطَفَّ	صَفَّ	فَعَلَ	MUATHTHIR		CLAUDE
+7	HFN-E-24cfe72288	تَخَذَّمَ	خَذَمَ	فَعَلَ	MUATHTHIR		CLAUDE
+8	HFN-E-7a13bb2432	تبَرقعَ	بَرْقَعَ	فَعْلَلَ	MUATHTHIR		CLAUDE
+9	HFN-E-d027573645	تَسَوّسَ	سَوَّسَ	فَعَّلَ	DEFER		CLAUDE
+10	HFN-E-d4633a32ec	تَنَصَّبَ	نَصَّبَ	فَعَّلَ	MUATHTHIR		CLAUDE
+11	HFN-E-cae39481e1	تَطَرَّسَ	طَوَّسَ	فَعَّلَ	MUATHTHIR		CLAUDE
+12	HFN-E-b2d392dc26	تَعَتَّرَ	عَثَّرَ	فَعَّلَ	MUATHTHIR		CLAUDE
+13	HFN-E-ebb4bfe1fd	تَدَفَّقَ	دَفَقَ	فَعَلَ	MUATHTHIR		CLAUDE
+14	HFN-E-984e98daac	تَأَيَّس	أَيِسَ	فَعِلَ	NOT	WRONG_BASE_FORM	CLAUDE
+15	HFN-E-75de858762	انْفَعَلَ	فَعَلَ	فَعَلَ	MUATHTHIR		CLAUDE
+16	HFN-E-ced4a59eac	تَغَيَّرَ	غَيَّرَ	فَعَّلَ	MUATHTHIR		CLAUDE
+17	HFN-E-941cae23b5	انْكَسَرَ	كَسَرَ	فَعَلَ	MUATHTHIR		CLAUDE
+18	HFN-E-b0cd390167	تَدَرَّبَ	دَرَّبَ	فَعَّلَ	MUATHTHIR		CLAUDE
+19	HFN-E-722e72e0c7	استاة	سَاءَ	فَعَلَ	MUATHTHIR		CLAUDE
+20	HFN-E-47e9bfd0b9	انحَاز	حَازَ	فَعَلَ	MUATHTHIR		CLAUDE
+21	HFN-E-1cb54b81cb	انْخلَعَ	خَلَعَ	فَعَلَ	MUATHTHIR		CLAUDE
+22	HFN-E-c890cc8fc6	انْصَاغَ	صَاغَ	فَعَلَ	MUATHTHIR		CLAUDE
+23	HFN-E-cb8cabac70	انْدَحَّ	دَحَّ	فَعَلَ	MUATHTHIR		CLAUDE
+24	HFN-E-48a777b60e	انْفَتَلَ	فَتَلَ	فَعَلَ	MUATHTHIR		CLAUDE
+25	HFN-E-af30f61575	انشرَحَ	شَرَحَ	فَعَلَ	MUATHTHIR		CLAUDE
+26	HFN-E-3a6215d03a	انْجَعَبَ	جَعَبَ	فَعَلَ	MUATHTHIR		CLAUDE
+27	HFN-E-6c0509cb04	اندعَت	دَعَتَ	فَعَلَ	MUATHTHIR		CLAUDE
+28	HFN-E-3005750329	تَطَوَّلَ	طَوَّلَ	فَعَّلَ	MUATHTHIR		CLAUDE
+29	HFN-E-24eb4e77aa	انْحَلَفَأ	أَطْفَءَ	أَفْعَلَ	MUATHTHIR		CLAUDE
+30	HFN-E-e7fe2d9b58	تَطَهِرَ	طَهُرَ	فَعُلَ	NOT	WRONG_BASE_FORM	CLAUDE
+31	HFN-E-84bd24d659	انْضَرَحَ	ضَرَحَ	فَعَلَ	MUATHTHIR		CLAUDE
+32	HFN-E-e04b23858e	تَدَخَّنَ	دَخَّنَ	فَعَّلَ	MUATHTHIR		CLAUDE
+33	HFN-E-da94e9e9af	ارتدم	رَدَمَ	فَعَلَ	MUATHTHIR		CLAUDE
+34	HFN-E-84f0d88815	اندَحى	دَحَا	فَعَلَ	MUATHTHIR		CLAUDE
+35	HFN-E-0ba3ed687d	تَدَوَّنَ	دَوَّنَ	فَعَّلَ	MUATHTHIR		CLAUDE
+36	HFN-E-05d546cb26	انآدَ	آدَ	فَعَلَ	MUATHTHIR		CLAUDE
+37	HFN-E-330c34f1e5	الْتَاَمَ	لَأَمَ	فَعَلَ	MUATHTHIR		CLAUDE
+38	HFN-E-ebb4bfe1fd	انْدَفَقَ	دَفَقَ	فَعَلَ	MUATHTHIR		CLAUDE
+39	HFN-E-95c0dd8f04	اجْتمَعَ	جَمَعَ	فَعَلَ	MUATHTHIR		CLAUDE
+40	HFN-E-5bcdcf290b	تَشَكَّلَ	شَكَّلَ	فَعَّلَ	MUATHTHIR		CLAUDE
+41	HFN-E-46c7c6d079	تَكَعْبَرَ	كَعْبَرَ	فَعْلَلَ	MUATHTHIR		CLAUDE
+42	HFN-E-10b2a114e3	تَدَخَّلَ	دَخَلَ	فَعَلَ	NOT	WRONG_BASE_FORM	CLAUDE
+43	HFN-E-431b4b8dfb	انْعَقَدَ	عَقَدَ	فَعَلَ	MUATHTHIR		CLAUDE
+44	HFN-E-8a3f552dea	تَهَشَّمَ	هَشَمَ	فَعَلَ	MUATHTHIR		CLAUDE
+45	HFN-E-55d53b358a	تَجَسَّدَ	جَسِدَ	فَعِلَ	NOT	WRONG_BASE_FORM	CLAUDE
+46	HFN-E-f02107882c	انْعَصَم	عَصَمَ	فَعَلَ	LA_ATHAR		CLAUDE
+47	HFN-E-3bf7a58b31	انْجَلَعَ	جَلِعَ	فَعِلَ	NOT	WRONG_BASE_FORM	CLAUDE
+48	HFN-E-6983fee879	تَجلَّدَ	جَلَّدَ	فَعَّلَ	MUATHTHIR		CLAUDE
+49	HFN-E-702182069a	تَبَوَّب	بَوَّبَ	فَعَّلَ	MUATHTHIR		CLAUDE
+50	HFN-E-a4b8ba2515	انجَلَطَ	جَلَطَ	فَعَلَ	MUATHTHIR		CLAUDE
+51	HFN-E-d319730e45	انْجفلَ	جَفَلَ	فَعَلَ	MUATHTHIR		CLAUDE
+52	HFN-E-e4f60e0e94	تَأَلَّفَ	أَلَّفَ	فَعَّلَ	MUATHTHIR		CLAUDE
+53	HFN-E-903a4cf114	انْعَتَلَ	عَتَلَ	فَعَلَ	MUATHTHIR		CLAUDE
+54	HFN-E-5965e5e4b1	انْشَغَلَ	شَغَلَ	فَعَلَ	MUATHTHIR		CLAUDE
+55	HFN-E-ee23f432c9	تَضَمَّدَ	ضَمَّدَ	فَعَّلَ	MUATHTHIR		CLAUDE
+56	HFN-E-8c054ebfbd	تقَوَّرَ	قَوَّرَ	فَعَّلَ	MUATHTHIR		CLAUDE
+57	HFN-E-35606adedb	انجزم	جَزَمَ	فَعَلَ	MUATHTHIR		CLAUDE
+58	HFN-E-cff5a97c35	انْغَمَلَ	غَمَلَ	فَعَلَ	MUATHTHIR		CLAUDE
+59	HFN-E-aed113a419	اكْتَوَى	كَوَى	فَعَلَ	MUATHTHIR		CLAUDE
+60	HFN-E-68356cf071	انجلب	جَلَبَ	فَعَلَ	MUATHTHIR		CLAUDE

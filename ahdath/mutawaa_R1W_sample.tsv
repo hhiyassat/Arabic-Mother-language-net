@@ -1,61 +1,61 @@
-route	root	mutawi	mutawi_event	base_text	base	base_event	base_form	n_lex	mani	fail	maful	athar	rank
-R1W	صفق	اصْطَفَقَ		صفقه	صَفَقَ	HFN-E-2698c51500	فَعَلَ	7		صَافِق	مَصْفُوق		CANDIDATE
-R1W	حفظ	احْتَفَظَ	HFN-E-c8af3d0dfd	ءحفظه	أَحْفَظَ	HFN-E-d3f0b533c3	أَفْعَلَ	7		مُحْفِظ	مُحْفَظ	احْتِفَاظ	CANDIDATE
-R1W	كبت	انكَبَتَ	HFN-E-bd4265bb74	كبت	كَبَتَ	HFN-E-19a9491e79	فَعَلَ	8		كَابِت	مَكْبُوت	انْكِبَات	CANDIDATE
-R1W	حطم	انحَطم	HFN-E-9c2ac57770	حطمه	حَطَمَ	HFN-E-723ee56cea	فَعَلَ	6		حَاطِم	مَحْطُوم	انْحِطَام	CANDIDATE
-R1W	قلب	انقلب	HFN-E-fe1845568a	قلبه	قَلَبَ	HFN-E-a61b13c677	فَعَلَ	8		قَالِب	مَقْلُوب	انْقِلَاب	CANDIDATE
-R1W	صفف	اصْطَفَّ		صفه	صَفَّ	HFN-E-1f5723631d	فَعَلَ	5		صَافّ	مَصْفُوف		CANDIDATE
-R1W	خذم	تَخَذَّمَ		خذمه	خَذَمَ	HFN-E-24cfe72288	فَعَلَ	5		خَاذِم	مَخْذُوم		CANDIDATE
-R1W	برقع	تبَرقعَ		برقعه	بَرْقَعَ	HFN-E-7a13bb2432	فَعْلَلَ	3					CANDIDATE
-R1W	سوس	تَسَوّسَ	HFN-E-2ce4d4be5d	سوسه	سَوَّسَ	HFN-E-d027573645	فَعَّلَ	5				تَسَوُّس	CANDIDATE
-R1W	نصب	تَنَصَّبَ	HFN-E-c6cae3a463	نصب	نَصَّبَ	HFN-E-d4633a32ec	فَعَّلَ	4		مُنَصِّب	مُنَصَّب	تَنَصُّب	CANDIDATE
-R1W	طوس	تَطَرَّسَ		طوسه	طَوَّسَ	HFN-E-cae39481e1	فَعَّلَ	2					CANDIDATE
-R1W	عثر	تَعَتَّرَ		عثره	عَثَّرَ	HFN-E-b2d392dc26	فَعَّلَ	2		مُعَثِّر	مُعَثَّر		CANDIDATE
-R1W	دفق	تَدَفَّقَ	HFN-E-893cedb686	دفقه	دَفَقَ	HFN-E-ebb4bfe1fd	فَعَلَ	7		دَافِق	مَدْفُوق	تَدَفُّق	CANDIDATE
-R1W	ءيس	تَأَيَّس		ءيسه	أَيِسَ	HFN-E-984e98daac	فَعِلَ	7					CANDIDATE
-R1W	فعل	انْفَعَلَ	HFN-E-b6c5c29bf2	فعله	فَعَلَ	HFN-E-75de858762	فَعَلَ	7		فَاعِل	مَفْعُول	انْفِعَال	CANDIDATE
-R1W	غير	تَغَيَّرَ	HFN-E-0a609b6a65	غيره	غَيَّرَ	HFN-E-ced4a59eac	فَعَّلَ	6				تَغَيُّر	CANDIDATE
-R1W	كسر	انْكَسَرَ	HFN-E-6f9c3c6e5e	كسره	كَسَرَ	HFN-E-941cae23b5	فَعَلَ	9		كَاسِر	مَكْسُور	انْكِسَار	CANDIDATE
-R1W	درب	تَدَرَّبَ	HFN-E-806632e95a	دربه	دَرَّبَ	HFN-E-b0cd390167	فَعَّلَ	7		مُدَرِّب	مُدَرَّب	تَدَرُّب	CANDIDATE
-R1W	سوء	استاة		ساءه	سَاءَ	HFN-E-722e72e0c7	فَعَلَ	6					CANDIDATE
-R1W	حوز	انحَاز		حازه	حَازَ	HFN-E-47e9bfd0b9	فَعَلَ	7		حَائِز	مَحُوز		CANDIDATE
-R1W	خلع	انْخلَعَ	HFN-E-e3430f1b9a	خلعه	خَلَعَ	HFN-E-1cb54b81cb	فَعَلَ	6		خَالِع	مَخْلُوع	انْخِلَاع	CANDIDATE
-R1W	صوغ	انْصَاغَ		صاغه	صَاغَ	HFN-E-c890cc8fc6	فَعَلَ	7		صَائِغ	مَصُوغ		CANDIDATE
-R1W	دحح	انْدَحَّ		دحه	دَحَّ	HFN-E-cb8cabac70	فَعَلَ	4		دَاحّ	مَدْحُوح		CANDIDATE
-R1W	فتل	انْفَتَلَ	HFN-E-76de77a611	فتل	فَتَلَ	HFN-E-48a777b60e	فَعَلَ	7		فَاتِل	مَفْتُول	انْفِتَال	CANDIDATE
-R1W	شرح	انشرَحَ	HFN-E-5f447055a8	شرحه	شَرَحَ	HFN-E-af30f61575	فَعَلَ	7		شَارِح	مَشْرُوح	انْشِرَاح	CANDIDATE
-R1W	جعب	انْجَعَبَ	HFN-E-3e363abb62	جعبه	جَعَبَ	HFN-E-3a6215d03a	فَعَلَ	6		جَاعِب	مَجْعُوب	انْجِعَاب	CANDIDATE
-R1W	دعت	اندعَت		دعت	دَعَتَ	HFN-E-6c0509cb04	فَعَلَ	4		دَاعِت	مَدْعُوت		CANDIDATE
-R1W	طول	تَطَوَّلَ	HFN-E-92b7abd26c	طوله	طَوَّلَ	HFN-E-3005750329	فَعَّلَ	4				تَطَوُّل	CANDIDATE
-R1W	طفء	انْحَلَفَأ		ءطفءه	أَطْفَءَ	HFN-E-24eb4e77aa	أَفْعَلَ	4					CANDIDATE
-R1W	طهر	تَطَهِرَ	HFN-E-8fd40f720b	طهره	طَهُرَ	HFN-E-e7fe2d9b58	فَعُلَ	7		طَاهِر		تَطَهُّر	CANDIDATE
-R1W	ضرح	انْضَرَحَ	HFN-E-104a8fecb0	ضرحه	ضَرَحَ	HFN-E-84bd24d659	فَعَلَ	6		ضَارِح	مَضْرُوح	انْضِرَاح	CANDIDATE
-R1W	دخن	تَدَخَّنَ	HFN-E-49f494e12e	دخنه	دَخَّنَ	HFN-E-e04b23858e	فَعَّلَ	3		مُدَخِّن	مُدَخَّن	تَدَخُّن	CANDIDATE
-R1W	ردم	ارتدم		ردم	رَدَمَ	HFN-E-da94e9e9af	فَعَلَ	6		رَادِم	مَرْدُوم		CANDIDATE
-R1W	دحو	اندَحى		دحاه	دَحَا	HFN-E-84f0d88815	فَعَلَ	3		دَاحٍ	مَدْحُوّ		CANDIDATE
-R1W	دون	تَدَوَّنَ		دونه	دَوَّنَ	HFN-E-0ba3ed687d	فَعَّلَ	3					CANDIDATE
-R1W	ءود	انآدَ		ءده	آدَ	HFN-E-05d546cb26	فَعَلَ	9					CANDIDATE
-R1W	لءم	الْتَاَمَ		لءمه	لَأَمَ	HFN-E-330c34f1e5	فَعَلَ	4		لَائِم	مَلْؤُوم		CANDIDATE
-R1W	دفق	انْدَفَقَ	HFN-E-0bf8dc7560	دفقه	دَفَقَ	HFN-E-ebb4bfe1fd	فَعَلَ	7		دَافِق	مَدْفُوق	انْدِفَاق	CANDIDATE
-R1W	جمع	اجْتمَعَ	HFN-E-c26df9352e	جمعه	جَمَعَ	HFN-E-95c0dd8f04	فَعَلَ	7		جَامِع	مَجْمُوع	اجْتِمَاع	CANDIDATE
-R1W	شكل	تَشَكَّلَ	HFN-E-e9be399aec	شكله	شَكَّلَ	HFN-E-5bcdcf290b	فَعَّلَ	4		مُشَكِّل	مُشَكَّل	تَشَكُّل	CANDIDATE
-R1W	كعبر	تَكَعْبَرَ		كعبره	كَعْبَرَ	HFN-E-46c7c6d079	فَعْلَلَ	3					CANDIDATE
-R1W	دخل	تَدَخَّلَ	HFN-E-c666b059f5	دخله	دَخَلَ	HFN-E-10b2a114e3	فَعَلَ	6		دَاخِل	مَدْخُول	تَدَخُّل	CANDIDATE
-R1W	عقد	انْعَقَدَ	HFN-E-da3e226b72	عقده	عَقَدَ	HFN-E-431b4b8dfb	فَعَلَ	4		عَاقِد	مَعْقُود	انْعِقَاد	CANDIDATE
-R1W	هشم	تَهَشَّمَ	HFN-E-6dcfb9d71f	هشمه	هَشَمَ	HFN-E-8a3f552dea	فَعَلَ	5		هَاشِم	مَهْشُوم	تَهَشُّم	CANDIDATE
-R1W	جسد	تَجَسَّدَ	HFN-E-321ddbf779	جسده	جَسِدَ	HFN-E-55d53b358a	فَعِلَ	4		جَاسِد	مَجْسُود	تَجَسُّد	CANDIDATE
-R1W	عصم	انْعَصَم		عصمه	عَصَمَ	HFN-E-f02107882c	فَعَلَ	4		عَاصِم	مَعْصُوم		CANDIDATE
-R1W	جلع	انْجَلَعَ	HFN-E-05d281e701	جلعه	جَلِعَ	HFN-E-3bf7a58b31	فَعِلَ	5		جَالِع	مَجْلُوع	انْجِلَاع	CANDIDATE
-R1W	جلد	تَجلَّدَ	HFN-E-0c712bc197	جلده	جَلَّدَ	HFN-E-6983fee879	فَعَّلَ	5		مُجَلِّد	مُجَلَّد	تَجَلُّد	CANDIDATE
-R1W	بوب	تَبَوَّب	HFN-E-b68ed0721b	بوبه	بَوَّبَ	HFN-E-702182069a	فَعَّلَ	2				تَبَوُّب	CANDIDATE
-R1W	جلط	انجَلَطَ	HFN-E-abd80310f6	جلطه	جَلَطَ	HFN-E-a4b8ba2515	فَعَلَ	5		جَالِط	مَجْلُوط	انْجِلَاط	CANDIDATE
-R1W	جفل	انْجفلَ	HFN-E-a21ffa84ba	جفله	جَفَلَ	HFN-E-d319730e45	فَعَلَ	7		جَافِل	مَجْفُول	انْجِفَال	CANDIDATE
-R1W	ءلف	تَأَلَّفَ		ءلفه	أَلَّفَ	HFN-E-e4f60e0e94	فَعَّلَ	2					CANDIDATE
-R1W	عتل	انْعَتَلَ	HFN-E-a852834740	عتله	عَتَلَ	HFN-E-903a4cf114	فَعَلَ	6		عَاتِل	مَعْتُول	انْعِتَال	CANDIDATE
-R1W	شغل	انْشَغَلَ		شغله	شَغَلَ	HFN-E-5965e5e4b1	فَعَلَ	7		شَاغِل	مَشْغُول		CANDIDATE
-R1W	ضمد	تَضَمَّدَ	HFN-E-18fa66b8c9	ضمده	ضَمَّدَ	HFN-E-ee23f432c9	فَعَّلَ	3		مُضَمِّد	مُضَمَّد	تَضَمُّد	CANDIDATE
-R1W	قور	تقَوَّرَ	HFN-E-1515cc3312	قور	قَوَّرَ	HFN-E-8c054ebfbd	فَعَّلَ	5				تَقَوُّر	CANDIDATE
-R1W	جزم	انجزم		جزم	جَزَمَ	HFN-E-35606adedb	فَعَلَ	6		جَازِم	مَجْزُوم		CANDIDATE
-R1W	غمل	انْغَمَلَ	HFN-E-e203370602	غمله	غَمَلَ	HFN-E-cff5a97c35	فَعَلَ	5		غَامِل	مَغْمُول	انْغِمَال	CANDIDATE
-R1W	كوي	اكْتَوَى		كوي	كَوَى	HFN-E-aed113a419	فَعَلَ	6					CANDIDATE
-R1W	جلب	انجلب	HFN-E-dda1a007d5	جلبه	جَلَبَ	HFN-E-68356cf071	فَعَلَ	8		جَالِب	مَجْلُوب	انْجِلَاب	CANDIDATE
+route	root	mutawi	mutawi_event	base_text	base	base_event	base_form	n_lex	mani	fail	maful	athar	rank	base_match
+R1W	طول	تَطَوَّلَ	HFN-E-92b7abd26c	طوله	طَوَّلَ	HFN-E-3005750329	فَعَّلَ	4				تَطَوُّل	CANDIDATE	TEXT
+R1W	دخن	تَدَخَّنَ	HFN-E-49f494e12e	دخنه	دَخَّنَ	HFN-E-e04b23858e	فَعَّلَ	3		مُدَخِّن	مُدَخَّن	تَدَخُّن	CANDIDATE	TEXT
+R1W	دحر	انْدَحَرِ		دحره	دَحَرَ	HFN-E-ee52bff3ff	فَعَلَ	5		دَاحِر	مَدْحُور		CANDIDATE	TEXT
+R1W	طوق	تَطَوَّقَ	HFN-E-2f38e70067	طوقه	طَوَّقَ	HFN-E-d96e5c9119	فَعَّلَ	6				تَطَوُّق	CANDIDATE	TEXT
+R1W	درس	تَدرَّسَ	HFN-E-ddeb2452f9	درسه	دَرَّسَ	HFN-E-176e152a50	فَعَّلَ	3		مُدَرِّس	مُدَرَّس	تَدَرُّس	CANDIDATE	TEXT
+R1W	جشر	تَجَشَّرَ	HFN-E-2b76c2d919	جشره	جَشَّرَ	HFN-E-83a9ab553e	فَعَّلَ	4		مُجَشِّر	مُجَشَّر	تَجَشُّر	CANDIDATE	TEXT
+R1W	طبع	انْعَلَبَعَ		طبعه	طَبَعَ	HFN-E-666df9f66b	فَعَلَ	6		طَابِع	مَطْبُوع		CANDIDATE	TEXT
+R1W	قور	تقَوَّرَ	HFN-E-1515cc3312	قور	قَوَّرَ	HFN-E-8c054ebfbd	فَعَّلَ	5				تَقَوُّر	CANDIDATE	TEXT
+R1W	كعبر	تَكَعْبَرَ		كعبره	كَعْبَرَ	HFN-E-46c7c6d079	فَعْلَلَ	3					CANDIDATE	TEXT
+R1W	صفق	انْصَفَقَ	HFN-E-c213620e1d	صفقه	صَفَقَ	HFN-E-2698c51500	فَعَلَ	7		صَافِق	مَصْفُوق	انْصِفَاق	CANDIDATE	TEXT
+R1W	جزم	انجزم		جزم	جَزَمَ	HFN-E-35606adedb	فَعَلَ	6		جَازِم	مَجْزُوم		CANDIDATE	MUT_FORM
+R1W	ضبط	انْضَبَطَ		ضبط	ضَبَطَ	HFN-E-6e186d0815	فَعَلَ	5		ضَابِط	مَضْبُوط		CANDIDATE	TEXT
+R1W	شكل	تَشَكَّلَ	HFN-E-e9be399aec	شكله	شَكَّلَ	HFN-E-5bcdcf290b	فَعَّلَ	4		مُشَكِّل	مُشَكَّل	تَشَكُّل	CANDIDATE	TEXT
+R1W	قيد	تَقَيَّدَ		قيد	قَيَّدَ	HFN-E-6421310284	فَعَّلَ	6					CANDIDATE	MUT_FORM
+R1W	سوء	استاة		ساءه	سَاءَ	HFN-E-722e72e0c7	فَعَلَ	6					CANDIDATE	MUT_FORM
+R1W	طوس	تَطَرَّسَ		طوسه	طَوَّسَ	HFN-E-cae39481e1	فَعَّلَ	2					CANDIDATE	TEXT
+R1W	شول	انْشَالَ		شاله	شَالَ	HFN-E-be65747227	فَعَلَ	5		شَائِل	مَشُول		CANDIDATE	MUT_FORM
+R1W	حور	احْوَرّ		حوره	حَوَّرَ	HFN-E-6fa6488ab1	فَعَّلَ	5					CANDIDATE	TEXT
+R1W	ضمد	تَضَمَّدَ	HFN-E-18fa66b8c9	ضمده	ضَمَّدَ	HFN-E-ee23f432c9	فَعَّلَ	3		مُضَمِّد	مُضَمَّد	تَضَمُّد	CANDIDATE	TEXT
+R1W	فتح	انفَتَحَ	HFN-E-73dd5639cb	فتحه	فَتَحَ	HFN-E-0921ff35d1	فَعَلَ	7		فَاتِح	مَفْتُوح	انْفِتَاح	CANDIDATE	TEXT
+R1W	عصم	انْعَصَم		عصمه	عَصَمَ	HFN-E-f02107882c	فَعَلَ	4		عَاصِم	مَعْصُوم		CANDIDATE	TEXT
+R1W	غضف	تَغَضَّفَ	HFN-E-4c8f274697	غضفه	غَضَّفَ	HFN-E-f1547e0556	فَعَّلَ	2		مُغَضِّف	مُغَضَّف	تَغَضُّف	CANDIDATE	TEXT
+R1W	دحح	انْدَحَّ		دحه	دَحَّ	HFN-E-cb8cabac70	فَعَلَ	4		دَاحّ	مَدْحُوح		CANDIDATE	MUT_FORM
+R1W	جلف	تَجَدَّفَ		جلف	جَلَّفَ	HFN-E-d407586480	فَعَّلَ	5		مُجَلِّف	مُجَلَّف		CANDIDATE	MUT_FORM
+R1W	وهط	تَوَهْطَ		وهطه	وَهَطَ	HFN-E-5a60eb17f1	فَعَلَ	5		وَاهِط	مَوْهُوط		CANDIDATE	TEXT
+R1W	حشر	انْحَشر		حشره	حَشَرَ	HFN-E-d5df2d8168	فَعَلَ	8		حَاشِر	مَحْشُور		CANDIDATE	MUT_FORM
+R1W	كبت	انكَبَتَ	HFN-E-bd4265bb74	كبت	كَبَتَ	HFN-E-19a9491e79	فَعَلَ	8		كَابِت	مَكْبُوت	انْكِبَات	CANDIDATE	MUT_FORM
+R1W	درس	انْدَرَّس	HFN-E-f8ff86a37d	درس	دَرَسَ	HFN-E-5fc9a349c6	فَعَلَ	9		دَارِس	مَدْرُوس	انْدِرَاس	CANDIDATE	MUT_FORM
+R1W	حطم	انحَطم	HFN-E-9c2ac57770	حطمه	حَطَمَ	HFN-E-723ee56cea	فَعَلَ	6		حَاطِم	مَحْطُوم	انْحِطَام	CANDIDATE	TEXT
+R1W	سوق	انْسَاقَ		ساقه	سَاقَ	HFN-E-eacf354360	فَعَلَ	5		سَائِق	مَسُوق		CANDIDATE	MUT_FORM
+R1W	دحو	اندَحى		دحاه	دَحَا	HFN-E-84f0d88815	فَعَلَ	3		دَاحٍ	مَدْحُوّ		CANDIDATE	MUT_FORM
+R1W	شمر	تَشَمَّرَ	HFN-E-c93a8423a9	شمره	شَمَّرَ	HFN-E-8fba26e894	فَعَّلَ	7		مُشَمِّر	مُشَمَّر	تَشَمُّر	CANDIDATE	TEXT
+R1W	جسم	تَجَسَّمَ	HFN-E-1635c69963	جسمه	جَسُمَ	HFN-E-f4e8975132	فَعُلَ	5		جَاسِم		تَجَسُّم	CANDIDATE	ONLY_FORM
+R1W	حوش	انْحَاشَ		حاشه	حَاشَ	HFN-E-39488ca74c	فَعَلَ	6		حَائِش	مَحُوش		CANDIDATE	MUT_FORM
+R1W	ديث	تدَيث		ديثه	دَيَّثَ	HFN-E-103f8acb60	فَعَّلَ	5					CANDIDATE	TEXT
+R1W	دكك	انْدَكَ		دك	دَكَّ	HFN-E-2af50c6f05	فَعَلَ	5		دَاكّ	مَدْكُوك		CANDIDATE	MUT_FORM
+R1W	دهده	تَدَهْدَهَ		دهدهه	دَهْدَهَ	HFN-E-ffd4f05dcc	فَعْلَلَ	2					CANDIDATE	TEXT
+R1W	دسس	انْدَسَّس		دسه	دَسَّ	HFN-E-4483d05f88	فَعَلَ	7		دَاسّ	مَدْسُوس		CANDIDATE	MUT_FORM
+R1W	حفظ	احْتَفَظَ	HFN-E-c8af3d0dfd	ءحفظه	أَحْفَظَ	HFN-E-d3f0b533c3	أَفْعَلَ	7		مُحْفِظ	مُحْفَظ	احْتِفَاظ	CANDIDATE	TEXT
+R1W	خلف	تمخلَّفَ		خلفه	خَلَّفَ	HFN-E-23c44141b4	فَعَّلَ	5		مُخَلِّف	مُخَلَّف		CANDIDATE	TEXT
+R1W	حطم	تحَطمَ	HFN-E-411b56ec38	حطمه	حَطَمَ	HFN-E-723ee56cea	فَعَلَ	6		حَاطِم	مَحْطُوم	تَحَطُّم	CANDIDATE	TEXT
+R1W	خلع	انْخلَعَ	HFN-E-e3430f1b9a	خلعه	خَلَعَ	HFN-E-1cb54b81cb	فَعَلَ	6		خَالِع	مَخْلُوع	انْخِلَاع	CANDIDATE	TEXT
+R1W	شغل	انْشَغَلَ		شغله	شَغَلَ	HFN-E-5965e5e4b1	فَعَلَ	7		شَاغِل	مَشْغُول		CANDIDATE	TEXT
+R1W	برقع	تبَرقعَ		برقعه	بَرْقَعَ	HFN-E-7a13bb2432	فَعْلَلَ	3					CANDIDATE	TEXT
+R1W	شمر	انْشَمَرَ	HFN-E-092e0268a8	شمره	شَمَرَ	HFN-E-e59d6231d0	فَعَلَ	3		شَامِر	مَشْمُور	انْشِمَار	CANDIDATE	TEXT
+R1W	قلب	انقلب	HFN-E-fe1845568a	قلبه	قَلَبَ	HFN-E-a61b13c677	فَعَلَ	8		قَالِب	مَقْلُوب	انْقِلَاب	CANDIDATE	MUT_FORM
+R1W	صوع	انْصَاعَ		صاعه	صَاعَ	HFN-E-32dcc4ef4c	فَعَلَ	3		صَائِع	مَصُوع		CANDIDATE	MUT_FORM
+R1W	خفس	انخَفَسَ	HFN-E-38f30f120c	خفسه	خَفَسَ	HFN-E-8b6354fb65	فَعَلَ	3		خَافِس	مَخْفُوس	انْخِفَاس	CANDIDATE	TEXT
+R1W	جفل	انْجفلَ	HFN-E-a21ffa84ba	جفله	جَفَلَ	HFN-E-d319730e45	فَعَلَ	7		جَافِل	مَجْفُول	انْجِفَال	CANDIDATE	MUT_FORM
+R1W	وصل	اتَّصَلَ		وصله	وَصَلَ	HFN-E-17aecb5f9c	فَعَلَ	6		وَاصِل	مَوْصُول		CANDIDATE	MUT_FORM
+R1W	صفق	اصْطَفَقَ		صفقه	صَفَقَ	HFN-E-2698c51500	فَعَلَ	7		صَافِق	مَصْفُوق		CANDIDATE	TEXT
+R1W	قود	انْقَادَ		قاد	قَادَ	HFN-E-da019e8f30	فَعَلَ	5		قَائِد	مَقُود		CANDIDATE	MUT_FORM
+R1W	ضرج	تَصَرَّجَ		ضرجه	ضَرَّجَ	HFN-E-47a11220f6	فَعَّلَ	4		مُضَرِّج	مُضَرَّج		CANDIDATE	TEXT
+R1W	نصب	تَنَصَّبَ	HFN-E-c6cae3a463	نصب	نَصَبَ	HFN-E-98d88e4a5a	فَعَلَ	7		نَاصِب	مَنْصُوب	تَنَصُّب	CANDIDATE	TEXT
+R1W	سلف	تَسَلَفَ	HFN-E-17711fa0c4	سلفه	سَلَّفَ	HFN-E-3fc1f90206	فَعَّلَ	3		مُسَلِّف	مُسَلَّف	تَسَلُّف	CANDIDATE	TEXT
+R1W	جلع	انْجَلَعَ	HFN-E-05d281e701	جلعه	جَلَعَ	HFN-E-be12c039ab	فَعَلَ	4		جَالِع	مَجْلُوع	انْجِلَاع	CANDIDATE	TEXT
+R1W	غير	تَغَيَّرَ	HFN-E-0a609b6a65	غيره	غَيَّرَ	HFN-E-ced4a59eac	فَعَّلَ	6				تَغَيُّر	CANDIDATE	TEXT
+R1W	حوز	انحَاز		حازه	حَازَ	HFN-E-47e9bfd0b9	فَعَلَ	7		حَائِز	مَحُوز		CANDIDATE	MUT_FORM
+R1W	طيب	تَطَيِّبَ	HFN-E-0cd6703b93	طيبه	طَيَّبَ	HFN-E-ec38dcc4b8	فَعَّلَ	6				تَطَيُّب	CANDIDATE	TEXT
+R1W	جفر	تَجَفَّرَ	HFN-E-a109a36aff	جفره	جَفَّرَ	HFN-E-acb6a7ee85	فَعَّلَ	3		مُجَفِّر	مُجَفَّر	تَجَفُّر	CANDIDATE	TEXT

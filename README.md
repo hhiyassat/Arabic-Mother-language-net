@@ -13,7 +13,7 @@
 ## الاستخدام السريع — تشغيل كامل
 
 ```bash
-python -m engines.noun_root_corrector \
+python -m word_tree.engines.noun_root_corrector \
   --synmap  /path/to/arabic_synset_map.json \
   --db      /path/to/maqayis.db \
   --out     /path/to/arabic_synset_map_corrected.json \
@@ -29,7 +29,7 @@ python -m engines.noun_root_corrector \
 ### 1. تحميل فهرس المقاييس
 
 ```python
-from engines.noun_root_corrector import load_maqayis_index
+from word_tree.engines.noun_root_corrector import load_maqayis_index
 
 idx = load_maqayis_index("maqayis_v2/maqayis.db")
 # idx.raw         → مجموعة الجذور الخام
@@ -40,7 +40,7 @@ idx = load_maqayis_index("maqayis_v2/maqayis.db")
 ### 2. البحث عن جذر كلمة واحدة في المقاييس
 
 ```python
-from engines.noun_root_corrector import lookup
+from word_tree.engines.noun_root_corrector import lookup
 
 result = lookup("كتب", idx)   # → "كتب"  (موجود)
 result = lookup("كتاب", idx)  # → None   (غير موجود مباشرة، هذا ليس جذراً)
@@ -49,7 +49,7 @@ result = lookup("كتاب", idx)  # → None   (غير موجود مباشرة،
 ### 3. توليد مرشَّحات الجذر من كلمة
 
 ```python
-from engines.noun_root_corrector import candidates_from_word
+from word_tree.engines.noun_root_corrector import candidates_from_word
 
 cands = candidates_from_word("المكتبة")
 # → ["كتب", "كتب", ...]  قائمة مرشَّحات مرتَّبة من الأعلى احتمالاً
@@ -58,7 +58,7 @@ cands = candidates_from_word("المكتبة")
 ### 4. استخراج الجذر لمجموعة كلمات (synset)
 
 ```python
-from engines.noun_root_corrector import extract_root_for_maqayis
+from word_tree.engines.noun_root_corrector import extract_root_for_maqayis
 
 root, status, source_word = extract_root_for_maqayis(
     words=["المكتبة", "library"],
@@ -80,7 +80,7 @@ root, status, source_word = extract_root_for_maqayis(
 ### 5. تصحيح خريطة أسماء كاملة
 
 ```python
-from engines.noun_root_corrector import correct_noun_tree
+from word_tree.engines.noun_root_corrector import correct_noun_tree
 
 corrected_map, results = correct_noun_tree(
     synmap_path="arabic_synset_map.json",
@@ -104,7 +104,7 @@ for r in results:
 ### 6. تطبيع النص وإزالة الحركات
 
 ```python
-from engines.noun_root_corrector import strip_harakat, normalize_for_match
+from word_tree.engines.noun_root_corrector import strip_harakat, normalize_for_match
 
 strip_harakat("كَتَبَ")       # → "كتب"
 normalize_for_match("رئيس")  # → "رايس"  (مُطبَّع للمقارنة)

@@ -230,11 +230,16 @@ def test_23_r2w_from_wasit():
 
 
 def test_24_r1w_wasit_mutawaa():
-    """R1W: نصّ الوسيط «مطاوع Yه» — تَهَشَّمَ مطاوع هَشَمَ (الكليات:27626: المطاوع من غير انفعل)."""
+    """R1W: نصّ الوسيط «مطاوع Yه» — المطاوع من غير انفعل (الكليات:27626)، وصيغة الأصل من شكل النصّ نفسه."""
     pool = _rows("mutawaa_R1W_pool.tsv")
-    pairs = {(A.bare(x["mutawi"]), A.bare(x["base"])) for x in pool}
-    assert ("تهشم", "هشم") in pairs and ("انكسر", "كسر") in pairs
+    by = {(A.bare(x["mutawi"]), A.bare(x["base"])): x for x in pool}
+    assert ("انكسر", "كسر") in by and ("انهشم", "هشم") in by
+    # «تَطَهَّرَ: مطاوع طَهَّرَه» ← فَعَّلَ لا فَعُلَ (طَهُرَ لازم)
+    assert A.nfc(by[("تطهر", "طهر")]["base"]) == A.nfc("طَهَّرَ")
+    # «تَكَسَّرَ: مطاوع كسّرَه» و«تهشّم: مطاوع هشّمه»: فَعَّلَ غير موجود في HFN، فلا يُبدَل بفَعَلَ
+    assert ("تكسر", "كسر") not in by and ("تهشم", "هشم") not in by
     assert all(x["route"] == "R1W" and x["rank"] == "CANDIDATE" for x in pool)
+    assert {x["base_match"] for x in pool} <= {"TEXT", "MUT_FORM", "ONLY_FORM"}
 
 
 def test_25_jiha_sitt():
@@ -243,3 +248,23 @@ def test_25_jiha_sitt():
     d = json.load(open(os.path.join(ROOT, "data", "wordnet", "wordnet_tahayyuz.json"), encoding="utf-8"))
     e = d[[k for k in d if k != "_meta"][0]]
     assert e["left.n.01"]["class"] == "HAYYIZ_MUBHAM" and e["left.n.01"]["subtype"] == "JIHA"
+
+
+def test_26_t_tad_blocked():
+    """T_TAD: فَعَّلَ بنصّ «جعله/صيّره» — كَبَّرَ ← كَبِرَ «جعله كبيرا»؛ والمسلك محجوب (0.643 < 0.78)."""
+    rows = _rows("taadiya_T_TAD.tsv")
+    assert any(A.bare(r["verb"]) == "كبر" and "كبير" in r["text_phrase"] for r in rows)
+    gold = _rows("taadiya_T_TAD_gold.tsv")
+    judged = [g for g in gold if g["label"] != "DEFER"]
+    ok = sum(g["label"] == "TAADIYA" for g in judged)
+    assert A.wilson(ok, len(judged)) < A.THRESH
+
+
+def test_27_word_tree_adapter_accepted_only():
+    """word_tree.ahdath يقرأ المقبول وحده (R1، R1W، T_JAL) ولا يقرأ المحجوب (R2، T، T_TAD)."""
+    from word_tree import ahdath as WA
+    s = WA.summary()
+    assert set(s) == {"R1", "R1W", "T_JAL"} and all(v > 0 for v in s.values())
+    k = WA.for_verb("كَسَرَ")
+    assert any(x["route"] == "R1" and x["maful"] == "مَكْسُور" and x["athar"] == "انْكِسَار" for x in k)
+    assert all(x["rank"] == "CANDIDATE" for x in WA._table())
