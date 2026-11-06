@@ -24,11 +24,11 @@ def test_verb_all_providers():
 @need
 def test_exact_match_is_default_and_nothing_dropped_silently():
     from arabic_net_api import verb
-    r = verb("كسر")  # بلا حركات: لا شيء مطابق مشكولاً، وكلّه في excluded بسببه
-    assert r["features"] == {} and r["excluded"]
-    assert all("excluded_reason" in x for x in r["excluded"])
+    r = verb("كسر")  # بلا حركات (كما يرد من WordNet): لا مقبول ولا مرفوض — كلّه في pending بسببه
+    assert r["features"] == {} and not r["excluded"] and r["pending"]
+    assert all("pending_reason" in x and x["match"] == "UNVOWELLED_QUERY" for x in r["pending"])
     r2 = verb("كسر", match="letters")
-    assert r2["features"] and not r2["excluded"]
+    assert r2["features"] and not r2["excluded"] and not r2["pending"]
 
 
 @need
@@ -60,3 +60,37 @@ def test_failing_provider_reported_not_raised(monkeypatch):
     monkeypatch.setattr(A.wazn, "features", boom)
     r = A.verb("كَسَرَ")
     assert any(m["provider"] == "wazn" for m in r["missing"]) and "masdar" in r["features"]
+
+
+@need
+def test_different_vowelling_rejected_only_with_evidence():
+    """ضَرَبَ لا يأخذ جهة ضَرُبَ (HFN: حدثان مستقلّان)؛ والتشكيل المخالف بلا دليل لا يُرفض."""
+    from arabic_net_api import verb
+    from word_tree import ahdath as W
+    from word_tree import vowel_evidence as V
+    assert W.jiha("ضَرَبَ") == []
+    rej = W.jiha("ضَرَبَ", keep_rejected=True)
+    assert rej and rej[0]["match"] == "DIFFERENT_VERB" and rej[0]["vowel_evidence"][0]["source"] == "HFN"
+    assert W.jiha("ضَرُبَ")[0]["match"] == "EXACT"
+    assert W.jiha("ضرب")[0]["match"] == "UNVOWELLED_QUERY"          # من WordNet بلا حركات: يُبقى معلَّماً
+    r = verb("ضَرَبَ")
+    assert "fail_jiha" not in r["features"]
+    assert any(x["feature"] == "fail_jiha" and "HFN" in x["excluded_reason"] for x in r["excluded"])
+    # الوسيط يكتب «اصْفَرَ» بلا شدّة: لا يشهد له HFN حدثاً مستقلاً → لا دليل → لا يُرفض
+    j = V.judge("اصْفَرَّ", "اصْفَرَ")
+    assert j["match"] == "UNRESOLVED" and j["keep"] and j["evidence"][0]["source"] == "NONE"
+    assert V.judge("عَلِمَ", "عَلَّمَ")["match"] == "DIFFERENT_VERB"
+    assert V.judge("اَشْرَقَ", "أَشْرَقَ")["keep"]                       # رسم الهمزة رسمٌ لا دليل
+
+
+@need
+def test_english_translation_is_recorded_not_decisive():
+    """الترجمة الإنجليزية دليلٌ يُسجَّل ويُعلَّم، ولا يَرفض وحده (قيس: 10/15، ويلسون 0.42 < 0.78)."""
+    from word_tree import vowel_evidence as V
+    if V.english("beat.v.02") is None:
+        pytest.skip("nltk wordnet غير متاح")
+    j = V.judge("ضرب", "ضَرُبَ", "لازم", synset="beat.v.02")
+    assert j["keep"] and j["flags"] == ["en_conflict"] and j["evidence"][0]["source"] == "EN"
+    assert j["evidence"][0]["en_trans"] == "متعدي"
+    e = V.judge("ضَرُبَ", "ضَرُبَ", "لازم", synset="beat.v.02")
+    assert e["match"] == "EXACT" and e["flags"] == ["en_conflict"]

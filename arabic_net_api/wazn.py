@@ -29,14 +29,14 @@ def features(verb: str) -> list[dict]:
     out = []
     for x in _call(M.mutawaa_of, verb):
         out.append(feature("mutawaa", x.mutawaa, provider=PROVIDER, status=MEASURED, source="mutawaa_v3.tsv",
-                           route=x.route, match=match_kind(x.base, verb), evidence=x.evidence[:300],
+                           route=x.route, match=match_kind(x.base, verb), matched=x.base, found_trans="متعدي", evidence=x.evidence[:300],
                            athar=x.athar, mutawaa_form=x.mutawaa_form, n_lex=x.n_lex))
     for x in _call(M.base_of, verb):
         out.append(feature("mutawaa_base", x.base, provider=PROVIDER, status=MEASURED, source="mutawaa_v3.tsv",
-                           route=x.route, match=match_kind(x.mutawaa, verb), evidence=x.evidence[:300],
+                           route=x.route, match=match_kind(x.mutawaa, verb), matched=x.mutawaa, found_trans="لازم", evidence=x.evidence[:300],
                            base_form=x.base_form, athar=x.athar))
     for x in _call(T.taadiya_of, verb):
         out.append(feature("taadiya", x.mutaaddi, provider=PROVIDER, status=MEASURED, source="ahdath taadiya",
-                           route=x.route, measure=x.measure, match=match_kind(x.lazim, verb),
+                           route=x.route, measure=x.measure, match=match_kind(x.lazim, verb), matched=x.lazim, found_trans="لازم",
                            form=x.form, sifa=x.sifa, maful=x.maful))
     return out

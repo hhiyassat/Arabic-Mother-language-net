@@ -1,0 +1,16 @@
+wn_word	synset	found_verb	route	en_trans	definition	reject_correct	judge
+درج	step.v.02	دَرَجَ	R1	لازم	put down or press the foot, place the foot	YES	CLAUDE
+جفل	shy.v.01	جَفَلَ	R1W	لازم	start suddenly, as from fright	NO	CLAUDE
+ضمد	dress.v.01	ضَمَّدَ	R1W	لازم	put on clothes	YES	CLAUDE
+قاد	drive.v.02	قَادَ	R1W	لازم	travel or be transported in a vehicle	NO	CLAUDE
+خدع	submit.v.03	خَدَعَ	R1	لازم	yield to the control of another	YES	CLAUDE
+سلق	seethe.v.02	سَلَقَ	R1	لازم	be in an agitated emotional state	YES	CLAUDE
+طمس	blur.v.06	طَمَسَ	R1	لازم	become vague or indistinct	YES	CLAUDE
+قطع	tear.v.05	قَطَعَ	R1	لازم	fill with tears or shed tears	YES	CLAUDE
+طرح	shed.v.04	طَرَحَ	R1W	لازم	cast off hair, skin, horn, or feathers	NO	CLAUDE
+خدع	cheat.v.03	خَدَعَ	R1	لازم	engage in deceitful behavior; practice trickery or fraud	NO	CLAUDE
+وصل	carry.v.19	وَصَلَ	R1W	لازم	be conveyed over a certain distance	YES	CLAUDE
+وصل	connect.v.03	وَصَلَ	R1W	لازم	be or become joined or united or linked	YES	CLAUDE
+صوب	sight.v.02	صَوَّبَ	R1W	لازم	take aim by looking through the sights of a gun (or other device)	NO	CLAUDE
+برد	calm.v.03	بَرَّدَ	R1W	لازم	become quiet or calm, especially after a state of agitation	YES	CLAUDE
+خلص	clear.v.07	خَلَّصَ	R1W	لازم	be debited and credited to the proper bank accounts	YES	CLAUDE

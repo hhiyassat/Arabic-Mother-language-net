@@ -80,9 +80,28 @@ def _by_verb() -> dict:
     return idx
 
 
-def for_verb(verb: str) -> list[dict]:
-    """ما في المسالك المقبولة للفعل (بلا شكل: يجمع ما يشترك في الحروف؛ ففرّق بالحقل verb المشكول)."""
-    return [dict(x) for x in _by_verb().get(_bare(verb), [])]
+# أثر المسلك في تعدّي الفعل الموجود (للمقارنة بالترجمة الإنجليزية): R1/R1W/T_JAL أفعالٌ متعدّية.
+_ROUTE_TRANS = {"R1": "متعدي", "R1W": "متعدي", "T_JAL": "متعدي"}
+
+
+def _judged(rows, verb, synset, keep_rejected, trans_of):
+    """المطابقة بالحروف والحركات (vowel_evidence): EXACT يُبقى؛ والتشكيل المخالف لا يُرفض إلا بدليلٍ مسمّى
+    (HFN أو الوسيط أو الترجمة الإنجليزية)؛ وكلّ سجلّ يحمل match وvowel_evidence."""
+    from . import vowel_evidence as VE
+    out = []
+    for x in rows:
+        j = VE.judge(verb, x["verb"], trans_of(x), synset)
+        if j["keep"] or keep_rejected:
+            out.append(dict(x, match=j["match"], keep=j["keep"], vowel_evidence=j["evidence"], vowel_flags=j["flags"]))
+    return out
+
+
+def for_verb(verb: str, synset: str | None = None, keep_rejected: bool = False) -> list[dict]:
+    """ما في المسالك المقبولة للفعل. المرشّحون بالحروف، ثم يُحكم في كلٍّ بـ vowel_evidence.judge:
+    ضَرَبَ لا يأخذ حكم ضَرُبَ (HFN يشهد أنّهما حدثان)؛ والسؤال بلا حركات يُبقي الكلّ معلَّماً.
+    synset: معنى WordNet الذي جاء منه السؤال — ترجمته الإنجليزية دليلٌ على التعدّي."""
+    return _judged(_by_verb().get(_bare(verb), []), verb, synset, keep_rejected,
+                   lambda x: _ROUTE_TRANS.get(x["route"], ""))
 
 
 def for_root(root: str) -> list[dict]:
@@ -115,12 +134,13 @@ def _jiha() -> dict:
             continue
         x = dict(route=r["route"], verb=r["verb"], event_id=r["event_id"], root=r["root"], jiha=r["jiha"],
                  musabbib_verb=r["musabbib_verb"], musabbib_route=r["musabbib_route"], sifa=r["sifa"],
+                 trans_wasit=r.get("trans_wasit", ""),
                  src=JIHA_ROUTES[r["route"]]["src"], label_ar=JIHA_ROUTES[r["route"]]["label_ar"], rank="CANDIDATE")
         idx.setdefault(_bare(r["verb"]), []).append(x)
     return idx
 
 
-def jiha(verb: str) -> list[dict]:
+def jiha(verb: str, synset: str | None = None, keep_rejected: bool = False) -> list[dict]:
     """جهة فاعل الفعل في المسالك المقبولة: jiha='MAHALL' (الفاعل محلّ قام به الحدث).
     musabbib_verb: الفعل الذي يُظهر المسبِّب فاعلاً إن وُجد في مسلك مقبول (T_JAL/R1/R1W)."""
-    return [dict(x) for x in _jiha().get(_bare(verb), [])]
+    return _judged(_jiha().get(_bare(verb), []), verb, synset, keep_rejected, lambda x: x.get("trans_wasit", ""))
