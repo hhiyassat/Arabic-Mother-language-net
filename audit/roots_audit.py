@@ -11,7 +11,8 @@ audit/roots_top200_parallelquran.tsv (https://parallelquran.com/morphology-explo
   الجذر
     R_HFN        الجذر في HFN roots.csv (بمفتاح K)
     R_MEANING    معنى الجذر في بنك HFN (عشرة معاجم): كم معجماً، وأيّها غائب
-    R_LEXLINK    لكلّ معجم: سجلٌّ للجذر في ملفّ المعجم (~/roots) والبنك لا يربطه → FAIL؛ لا سجلّ أصلاً → INFO (نقص OCR)
+    R_LEXLINK    لكلّ معجم: سجلٌّ للجذر في ملفّ المعجم (~/roots) والبنك لا يربطه → REVIEW مع نسبة نصوصه التي تذكر الجذر
+                 (ربطٌ ناقص أم سجلّ مقطَّع خطأً — يُقرأ)؛ لا سجلّ أصلاً → INFO (نقص OCR)
     R_MAQAYIS    الجذر في مقاييس ابن فارس (Maqaiys-roots)
     R_WORDNET    الجذر في wordnet_roots.json، وعدد synsets
     R_TAHAYYUZ   توزيع تحيّز معاني الجذر الاسمية (word_tree.tahayyuz)
@@ -29,6 +30,7 @@ audit/roots_top200_parallelquran.tsv (https://parallelquran.com/morphology-explo
     A_AHDATH     كلّ صفّ R1/R1W/T_JAL/J_* للجذر: event_id في HFN v37، والفعل نفسه مشكولاً، ووزنه وزن المسلك
     A_WAZN       المطاوعة والتعدية من wazn-net: الناتج فيه حروف الجذر الصحيحة بترتيبها
     W_ROOTWORDS  كلمات WordNet المنسوبة إلى الجذر (arabic_synset_map): كم منها لا تحوي حروفه الصحيحة بترتيبها
+  الحالات: PASS · FAIL خطأ · REVIEW يحتاج قراءة · KNOWN فرقٌ يوثّقه المصدر نفسه (HFN residual) · CONV عُرف · INFO مفسَّر · NA لا ينطبق
 """
 from __future__ import annotations
 
@@ -89,14 +91,21 @@ def instantiate(form, rad):
     return "".join(out)
 
 
+def mentions(text, R):
+    """في النصّ كلمةٌ فيها حروف الجذر بترتيبها (الهمزة بمقاعدها ألفٌ؛ المضعّف بحرفيه)."""
+    t = HAR.sub("", nfc(text)).translate(str.maketrans({"أ": "ا", "إ": "ا", "آ": "ا", "ء": "ا", "ؤ": "ا", "ئ": "ا"}))
+    rad = R.replace("ء", "ا")
+    if len(rad) == 3 and rad[1] == rad[2]:
+        rad = rad[:2]
+    pat = re.compile(".*".join(map(re.escape, rad)))
+    return any(pat.search(w) for w in t.split())
+
+
 def variants(R):
-    """مفاتيح الجذر في عُرف المقاييس وWordNet: المضعّف حرفان (ربب→رب)، والناقص بالألف المقصورة (دنو→دنى)."""
-    out = []
-    if len(R) == 3 and R[1] == R[2]:
-        out.append(R[:2])
-    if len(R) == 3 and R[2] in "وي":
-        out += [R[:2] + "ي", R[:2] + "و"]
-    return [v for v in out if v != R]
+    """مفاتيح الجذر في عُرف المقاييس وWordNet — من الواجهة نفسها (arabic_net_api.roots.key_variants)،
+    مع مفتاح الناقص الثنائي الملتبس (يدي→يد)."""
+    from arabic_net_api.roots import key_variants
+    return key_variants(R, biliteral_naqis=True)
 
 
 WASL = re.compile("^اِ")
@@ -166,6 +175,7 @@ class Audit:
         for col, (fn, src) in RM.LEX.items():
             files[fn].add(src)
         found = defaultdict(set)                       # (file, src) → مفاتيح K
+        self.lexshare = {}                             # (col, K) → (claims تذكر الجذر، claims ذات نصّ)
         for fn, srcs in files.items():
             pth = os.path.join(base, fn)
             if not os.path.exists(pth):
@@ -176,6 +186,10 @@ class Audit:
                 for sname, sv in (r.get("sources") or {}).items():
                     if sname in srcs and (sv.get("claims") or []):
                         found[(fn, sname)].add(k)
+                        for col, (f2, s2) in RM.LEX.items():
+                            if f2 == fn and s2 == sname:
+                                txt = [c.get("text") for c in sv["claims"] if c.get("text")]
+                                self.lexshare[(col, k)] = (sum(mentions(t, k) for t in txt), len(txt))
         self.lexkeys = {col: (found[(fn, src)], RM.NAME.get(col, col)) for col, (fn, src) in RM.LEX.items()}
         wr = json.load(open(os.path.join(AMLN, "data", "wordnet", "wordnet_roots.json"), encoding="utf-8"))["roots"]
         self.wn_roots = {K(r["display"]): r for r in wr}
@@ -220,8 +234,14 @@ class Audit:
             infile = R in keys
             if linked:
                 continue
-            out.append(("R_LEXLINK", "FAIL" if infile else "INFO",
-                        f"{name}: " + ("سجلّ الجذر في ملفّ المعجم والبنك لا يربطه" if infile else "لا سجلّ للجذر في ملفّ المعجم (نقص OCR)")))
+            if not infile:
+                out.append(("R_LEXLINK", "INFO", f"{name}: لا سجلّ للجذر في ملفّ المعجم (نقص OCR)"))
+                continue
+            k, n = self.lexshare.get((col, R), (0, 0))
+            # لا عتبة: في السجلّات المربوطة نفسها كثيرٌ نصفُ نصوصه لا يذكر الجذر (القاموس 0.40، المحكم 0.48 وسيطاً)،
+            # وفي غير المربوطة سجلّات مقطَّعة خطأً (لسان «علم» 1/38 نصّه عن نظم). فالحكم بالقراءة لا بالنسبة.
+            out.append(("R_LEXLINK", "REVIEW", f"{name}: سجلّ الجذر في ملفّ المعجم والبنك لا يربطه — "
+                                               f"{k}/{n} من نصوصه تذكر الجذر؛ يُقرأ: ربطٌ ناقص أم سجلّ مقطَّع خطأً"))
         for chk, table in (("R_MAQAYIS", P_ROOTS._maqayis()), ("R_WORDNET", self.wn_roots)):
             x = table.get(R)
             if x is not None:
@@ -229,8 +249,10 @@ class Audit:
                 continue
             v = next((v for v in variants(R) if v in table), None)
             if v:
+                amb = len(v) == 2 and R[1] != R[2]
                 out.append((chk, "CONV", f"لا يوجد بمفتاح «{R}» بل «{v}» (عُرف المضعّف/الناقص): "
-                                         "مطابقةٌ بالمفتاح K وحده لا تجده"))
+                                         + ("مفتاح ثنائي ملتبس بالمضعّف، والواجهة لا تسترجع به"
+                                            if amb else "الواجهة تسترجع به منذ الدفعة 1")))
             else:
                 out.append((chk, "FAIL", f"لا بـ«{R}» ولا بـ{variants(R) or 'بديل'}"))
         try:
@@ -257,6 +279,7 @@ class Audit:
         for e in evs:
             v, f, eid = e["verb"], e["form"], e["event_id"]
             tag = f"{v} ({f}) {eid}"
+            i0 = len(out)
             pr = ortho(v)
             out.append(("E_ORTHO", "FAIL" if pr else "PASS", f"{tag}" + (": " + "؛ ".join(pr) if pr else "")))
             f0 = f.split(" ")[0]
@@ -286,6 +309,16 @@ class Audit:
             ms = [x for x in self.lus[eid] if x["pos_ar"] == "مصدر"]
             out.append(("E_MASDAR", "PASS" if ms or e.get("masdar") else "FAIL",
                         f"{tag}: " + "، ".join(x["lemma"] for x in ms)))
+            # KNOWN: الفرق موثَّق في HFN نفسه (residual) — ليس خطأً جديداً، ويبقى نقصاً معلناً.
+            res = e.get("residual") or ""
+            for j in range(i0, len(out)):
+                chk, st, d = out[j]
+                if st != "FAIL":
+                    continue
+                if "JAMID" in res and chk in ("E_CONJ", "E_TEMPLATE", "E_MASDAR"):
+                    out[j] = (chk, "KNOWN", d + " — HFN: فعلٌ جامد موثَّق (" + res.split(" · ")[0][:80] + ")")
+                elif chk == "E_MASDAR" and "NO_MASDAR_FOUND" in res:
+                    out[j] = (chk, "KNOWN", d + " — HFN يعلن: VERB_ATTESTED_NO_MASDAR_FOUND")
             # المشتقّات مقابل المولِّد
             ag = [x["lemma"] for x in self.lus[eid] if x["pos_ar"] == "اسم فاعل"]
             pt = [x["lemma"] for x in self.lus[eid] if x["pos_ar"] == "اسم مفعول"]
@@ -396,7 +429,7 @@ def main():
         w.writerows(rows)
     c = Counter((x["check"], x["status"]) for x in rows)
     summ = dict(release=A.release, roots=len(lst), rows=len(rows),
-                by_check={k: {s: c[(k, s)] for s in ("PASS", "FAIL", "CONV", "INFO", "NA") if c[(k, s)]}
+                by_check={k: {s: c[(k, s)] for s in ("PASS", "FAIL", "REVIEW", "KNOWN", "CONV", "INFO", "NA") if c[(k, s)]}
                           for k in sorted({x["check"] for x in rows})})
     json.dump(summ, open(os.path.join(out, "summary.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(json.dumps(summ, ensure_ascii=False, indent=1))

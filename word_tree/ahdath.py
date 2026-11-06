@@ -50,6 +50,24 @@ def _rows(name: str) -> list[dict]:
 
 
 @lru_cache(maxsize=1)
+def _hfn_verbs() -> dict:
+    """event_id → فعل HFN المشكول (الإصدار نفسه الذي يقرأه vowel_evidence). مكتبة قياسية فقط: يحمَّل منفرداً."""
+    p = os.path.join(os.path.expanduser(os.environ.get("ARABIC_NET_HOME", "~/arabic-net")), "HusseinFrameNet",
+                     "release", os.environ.get("AMLN_HFN_RELEASE", "release_v36"), "events.csv")
+    if not os.path.exists(p):
+        return {}
+    return {e["event_id"]: unicodedata.normalize("NFC", e["verb"].strip())
+            for e in csv.DictReader(open(p, encoding="utf-8"))}
+
+
+def _hfn_vowelled(text: str, event_id: str) -> str:
+    """مطاوع R1W مكتوب بتشكيل نصّ الوسيط (OCR: «انقلب»، «تَطَهِرَ»). إن ربطه الصفّ بحدث HFN حروفُه حروفه
+    فالتشكيل تشكيل HFN؛ وإلا يبقى النصّ كما هو (فحص الجذور، الدفعة 1: 27 من 140)."""
+    h = _hfn_verbs().get(event_id or "")
+    return h if h and _HARAKAT.sub("", h) == _HARAKAT.sub("", unicodedata.normalize("NFC", text or "")) else text
+
+
+@lru_cache(maxsize=1)
 def _table() -> list[dict]:
     out = []
     for r in _rows(ROUTES["R1"]["file"]):
@@ -61,7 +79,8 @@ def _table() -> list[dict]:
         if r.get("mani"):
             continue
         out.append(dict(route="R1W", root=r["root"], verb=r["base"], event_id=r["base_event"], fail=r["fail"],
-                        maful=r["maful"], mutawi=r["mutawi"], athar=r["athar"], sifa="", rank="CANDIDATE"))
+                        maful=r["maful"], mutawi=_hfn_vowelled(r["mutawi"], r["mutawi_event"]),
+                        mutawi_text=r["mutawi"], athar=r["athar"], sifa="", rank="CANDIDATE"))
     for r in _rows(ROUTES["T_JAL"]["file"]):
         out.append(dict(route="T_JAL", root="", verb=r["verb"], event_id=r["event_id"], fail=r["fail"],
                         maful=r["maful"], mutawi=r["base"], athar="", sifa=r["sifa"], rank="CANDIDATE",
