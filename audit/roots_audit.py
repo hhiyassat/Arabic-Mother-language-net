@@ -211,6 +211,8 @@ class Audit:
         self.classify, self.D, self.M, self.past_baab = classify, D, M, past_baab
         from word_tree import ahdath as WA
         self.WA = WA
+        self.text_only = {nfc(r["mutawaa_text"]) for r in csv.DictReader(
+            open(os.path.join(AMLN, "audit", "mutawaa_text_only.tsv"), encoding="utf-8"), delimiter="\t")}
         self.ahdath_rows = defaultdict(list)
         for x in WA._table():
             k = K(x["root"]) if x["root"] else None
@@ -382,9 +384,10 @@ class Audit:
             want = ROUTE_FORM.get(x["route"])
             if want and not form_is(e["form"], want):
                 probs.append(f'وزن الحدث {e["form"]} لا {want}')
-            if x.get("mutawi_flags"):
-                probs.append(f'المطاوع «{x["mutawi"]}» ({x.get("mutawi_src", "")}): ' + "، ".join(x["mutawi_flags"]))
-            out.append(("A_AHDATH", "FAIL" if probs else "PASS", tag + (": " + "؛ ".join(probs) if probs else "")))
+            known = (f'المطاوع «{x["mutawi"]}» ({x.get("mutawi_src", "")}): ' + "، ".join(x["mutawi_flags"])
+                     + " — معلَّم بحكم المالك 2026-11-06 «أبقِها معلَّمة»") if x.get("mutawi_flags") else ""
+            st = "FAIL" if probs else ("KNOWN" if known else "PASS")
+            out.append(("A_AHDATH", st, tag + (": " + "؛ ".join(probs + ([known] if known else [])) if probs or known else "")))
         for e in self.ev_by_root.get(R, []):
             for x in P_WAZN.features(e["verb"]):
                 if x["match"] != "EXACT":
@@ -395,7 +398,10 @@ class Audit:
                 if not HAR.search(nfc(x["value"])):
                     why.append("الناتج بلا حركات")
                 why += ortho(x["value"])
-                out.append(("A_WAZN", "FAIL" if why else "PASS",
+                st = "FAIL" if why else "PASS"
+                if why and nfc(x["value"]) in self.text_only:
+                    st, why = "KNOWN", why + ["مطاوع من نصّ الوسيط معلَّم بحكم المالك 2026-11-06 (audit/mutawaa_text_only.tsv)"]
+                out.append(("A_WAZN", st,
                             f'{x["feature"]} {e["verb"]} → {x["value"]} ({x["route"]})' + (" — " + "؛ ".join(why) if why else "")))
         syns = [(sid, [w for w in ws if len(letters(w)) >= 2]) for sid, ws in self.syn_by_root.get(R, [])]
         syns = [(sid, ws) for sid, ws in syns if ws]

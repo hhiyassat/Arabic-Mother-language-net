@@ -143,3 +143,11 @@ def test_audit_form_is_accepts_hfn_naqis_label():
     assert RA.form_is("أَفْعَى (أفعل ناقص)", "أَفْعَلَ")
     assert RA.form_is("أَفْعَلَ", "أَفْعَلَ")
     assert not RA.form_is("فَعَّلَ", "أَفْعَلَ")
+
+
+def test_wazn_skips_unresolved_mutawaa_base():
+    """فحص الجذور، الدفعة 3: base_of يعيد base فارغاً لـBASE_UNRESOLVED — لا تُعرض قيمةٌ فارغة."""
+    from arabic_net_api import wazn as W
+    fs = [f for f in W.features("تَطَهَّرَ") if f["feature"] == "mutawaa_base"]
+    assert all(f["value"] for f in fs)
+    assert all(f["source"] == "mutawaa_v4.tsv" for f in W.features("انْكَسَرَ"))
