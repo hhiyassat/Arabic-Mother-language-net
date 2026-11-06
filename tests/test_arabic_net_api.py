@@ -94,3 +94,29 @@ def test_english_translation_is_recorded_not_decisive():
     assert j["evidence"][0]["en_trans"] == "متعدي"
     e = V.judge("ضَرُبَ", "ضَرُبَ", "لازم", synset="beat.v.02")
     assert e["match"] == "EXACT" and e["flags"] == ["en_conflict"]
+
+
+def test_r1w_mutawi_takes_hfn_vowelling():
+    """فحص الجذور 1: مطاوع R1W كان بتشكيل الوسيط («انقلب»)؛ يؤخذ من حدث HFN المربوط ويُحفظ النصّ."""
+    from word_tree import ahdath as A
+    rows = [x for x in A._table() if x["route"] == "R1W"]
+    if not A._hfn_verbs() or not rows:
+        pytest.skip("HFN release or R1W pool not available")
+    q = [x for x in rows if x["verb"] == "قَلَبَ"]
+    assert q and q[0]["mutawi"] == "انْقَلَبَ" and q[0]["mutawi_text"] == "انقلب"
+    import unicodedata
+    nfc = lambda s: unicodedata.normalize("NFC", s)
+    assert sum(nfc(x["mutawi"]) != nfc(x["mutawi_text"]) for x in rows) == 27
+
+
+def test_maqayis_fallback_finds_doubled_and_naqis_keys(monkeypatch):
+    """فحص الجذور 1: المقاييس تكتب المضعّف حرفين (رب) والناقص بالألف المقصورة (دنى)؛ الاحتياط كان لا يجدهما."""
+    from arabic_net_api import roots as R
+    if not R._maqayis():
+        pytest.skip("maqayis_all_roots.json not available")
+    monkeypatch.setattr(R, "_root_meaning", lambda: (lambda r: {}))
+    for root, key in (("ربب", "رب"), ("حقق", "حق"), ("دنو", "دني")):          # K يوحّد ى→ي
+        m = R.meaning(root)
+        assert m and m[0]["evidence"].endswith(f"key={key}"), root
+    assert R.key_variants("يدي") == ["يدى", "يدو"]          # الثنائي الملتبس (يد) لا تسترجع به الواجهة
+    assert R.key_variants("يدي", biliteral_naqis=True)[-1] == "يد"

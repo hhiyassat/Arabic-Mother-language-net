@@ -27,6 +27,23 @@ def _maqayis():
     return {K(r["display"]): r for r in d["roots"]}
 
 
+def key_variants(R: str, biliteral_naqis: bool = False) -> list[str]:
+    """مفاتيح الجذر في عُرف المقاييس وWordNet (فحص الجذور، الدفعة 1): المضعّف حرفان (ربب→رب)،
+    والناقص بالألف المقصورة أو بالياء/الواو (دنو→دنى).
+    biliteral_naqis: والناقص بحرفيه الأوّلين أيضاً (يدي→يد: «الياء والدال»). هذا المفتاح يشترك فيه المضعّف
+    (يد = يدد أو يدي)، فلا تستعمله الواجهة لاسترجاع المعنى؛ يستعمله الفحص ليعلّمه CONV ملتبساً."""
+    out = []
+    if len(R) == 3 and R[1] == R[2]:
+        out.append(R[:2])
+    if len(R) == 3 and R[2] in "ويى":
+        out += [R[:2] + "ى", R[:2] + "ي", R[:2] + "و"] + ([R[:2]] if biliteral_naqis else [])
+    seen = []
+    for v in out:
+        if v != R and v not in seen:
+            seen.append(v)
+    return seen
+
+
 def meaning(root: str, full: bool = False) -> list[dict]:
     out = []
     r = _root_meaning()(root)
@@ -36,11 +53,14 @@ def meaning(root: str, full: bool = False) -> list[dict]:
                            status=OCR, source=lx["lexicon"], match="ROOT", evidence=lx.get("status", ""),
                            record_id=lx.get("record_id", ""), root=r.get("K", "")))
     if not out:
-        m = _maqayis().get(K(root))
+        table, k = _maqayis(), K(root)
+        key = k if k in table else next((v for v in key_variants(k) if v in table), None)
+        m = table.get(key) if key else None
         if m:
             out.append(feature("root_meaning", [m["body_snippet"]], provider=PROVIDER, status=OCR,
                                source="مقاييس اللغة (ابن فارس) — maqayis_all_roots.json", match="ROOT",
-                               evidence=f'axes={m.get("axes_count")}', record_id=str(m.get("id")), root=K(root)))
+                               evidence=f'axes={m.get("axes_count")}' + (f" · key={key}" if key != k else ""),
+                               record_id=str(m.get("id")), root=k))
     return out
 
 
