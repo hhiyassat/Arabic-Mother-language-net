@@ -175,3 +175,24 @@ def test_maqayis_embedded_roots_from_full_text():
             m = R.meaning(root)
             assert m and f"«{host}»" in m[0]["evidence"], root
         assert R.meaning("يوم")[0]["value"][0].startswith("الياء والواو والميم")
+
+
+def test_meaning_alt_reduplicated_and_naqis():
+    """فحص كلّ الجذور: الرباعي المضاعف يُذكر في مادّة الثلاثي المضاعف (زلزل في زلل)، والناقص و/ي مادّة واحدة (دمو/دمي)."""
+    from arabic_net_api import roots as R
+    assert R.alt_roots("زلزل") == [("زلل", "REDUPLICATED_UNDER_GEMINATE", True)]
+    assert ("دمي", "NAQIS_WAW_YA", False) in R.alt_roots("دمو")
+    m = R.meaning("زلزل")
+    if m:   # البنك حاضر
+        assert all(x["match"] in ("ROOT", "ROOT_ALT") for x in m)
+
+
+def test_maqayis_hamza_in_naqis_entry():
+    """فحص كلّ الجذور: «وأمّا المهموز …» في مادّة المعتلّ (درأ في درى، فتأ في فتى) — بنصّ ابن فارس."""
+    from arabic_net_api import roots as R
+    e = R._embedded()
+    if not e:
+        import pytest
+        pytest.skip("data/maqayis_embedded.tsv غائب")
+    assert e["درء"]["host_display"] == "درى" and e["درء"]["how"] == "SAME_ENTRY_HAMZ"
+    assert e["حرق"]["host_display"] == "حرف"          # «الحاء ولراء والقاف»: الألف ساقطة في OCR

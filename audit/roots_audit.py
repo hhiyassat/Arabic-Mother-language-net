@@ -235,7 +235,9 @@ class Audit:
         try:
             ms = P_ROOTS.meaning(R)
             lex = [m["source"] for m in ms]
-            out.append(("R_MEANING", "PASS" if lex else "FAIL", f"{len(lex)} معجم: " + "، ".join(lex)))
+            alt = ms and all(m.get("match") == "ROOT_ALT" for m in ms)
+            out.append(("R_MEANING", ("CONV" if alt else "PASS") if lex else "FAIL",
+                        f"{len(lex)} معجم: " + "، ".join(lex) + (f' — {ms[0]["evidence"]}' if alt else "")))
         except Exception as e:
             out.append(("R_MEANING", "FAIL", f"{type(e).__name__}: {e}"[:200]))
         b = self.bank.get(R)

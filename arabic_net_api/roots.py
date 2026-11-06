@@ -86,6 +86,38 @@ def key_variants(R: str, biliteral_naqis: bool = False) -> list[str]:
     return seen
 
 
+def alt_roots(k: str) -> list[tuple[str, str, bool]]:
+    """مادّة بديلة في عُرف المعاجم حين لا سجلّ للجذر نفسه (فحص كلّ الجذور، 2026-11-07):
+      الرباعي المضاعف (زلزل، صلصل) يُذكر في مادّة الثلاثي المضاعف (زلل، صلل) — يُشترط أن يذكره نصّ المعجم؛
+      الناقص الواويّ/اليائيّ (دمو/دمي) مادّة واحدة.  → [(البديل، الكيف، يُشترط ذكر الكلمة)]"""
+    out = []
+    if len(k) == 4 and k[0] == k[2] and k[1] == k[3]:
+        out.append((k[0] + k[1] + k[1], "REDUPLICATED_UNDER_GEMINATE", True))
+    if len(k) == 3 and k[2] in "وي":
+        out.append((k[:2] + ("ي" if k[2] == "و" else "و"), "NAQIS_WAW_YA", False))
+    return out
+
+
+def _meaning_alt(root: str, full: bool) -> list[dict]:
+    k = K(root)
+    for alt, how, must_mention in alt_roots(k):
+        r = _root_meaning()(alt)
+        out = []
+        for lx in r.get("lexicons", []):
+            ms = lx.get("meanings") or []
+            if must_mention:
+                ms = [m for m in ms if k in _HAR.sub("", m)]
+                if not ms:
+                    continue
+            out.append(feature("root_meaning", ms if full else [m[:400] for m in ms[:2]], provider=PROVIDER,
+                               status=OCR, source=lx["lexicon"], match="ROOT_ALT",
+                               evidence=f"مادّة «{alt}» ({how})" + (" · نصوصٌ تذكر «" + k + "»" if must_mention else ""),
+                               record_id=lx.get("record_id", ""), root=alt))
+        if out:
+            return out
+    return []
+
+
 def meaning(root: str, full: bool = False) -> list[dict]:
     out = []
     r = _root_meaning()(root)
@@ -94,6 +126,8 @@ def meaning(root: str, full: bool = False) -> list[dict]:
         out.append(feature("root_meaning", ms if full else [m[:400] for m in ms[:2]], provider=PROVIDER,
                            status=OCR, source=lx["lexicon"], match="ROOT", evidence=lx.get("status", ""),
                            record_id=lx.get("record_id", ""), root=r.get("K", "")))
+    if not out:
+        out = _meaning_alt(root, full)
     if not out:
         table, k = _maqayis(), K(root)
         key = k if k in table else next((v for v in key_variants(k) if v in table), None)
