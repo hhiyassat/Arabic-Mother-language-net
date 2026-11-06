@@ -94,3 +94,17 @@ def test_english_translation_is_recorded_not_decisive():
     assert j["evidence"][0]["en_trans"] == "متعدي"
     e = V.judge("ضَرُبَ", "ضَرُبَ", "لازم", synset="beat.v.02")
     assert e["match"] == "EXACT" and e["flags"] == ["en_conflict"]
+
+
+def test_ahdath_loads_standalone():
+    """عامل sarf يحمّل word_tree/ahdath.py منفرداً (importlib، python3 -I) — يجب أن يعمل بلا حزمة."""
+    import subprocess
+    import sys
+    p = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "word_tree", "ahdath.py")
+    code = ("import importlib.util,sys\n"
+            f"s=importlib.util.spec_from_file_location('_up_amln_ahdath',{p!r})\n"
+            "m=importlib.util.module_from_spec(s);sys.modules['_up_amln_ahdath']=m;s.loader.exec_module(m)\n"
+            "print(m.jiha('ضَرَبَ'), [x['match'] for x in m.jiha('ضَرُبَ')])")
+    r = subprocess.run([sys.executable, "-I", "-c", code], capture_output=True, text=True, cwd="/")
+    assert r.returncode == 0, r.stderr
+    assert r.stdout.strip() == "[] ['EXACT']"

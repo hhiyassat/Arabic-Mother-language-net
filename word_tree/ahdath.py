@@ -84,10 +84,29 @@ def _by_verb() -> dict:
 _ROUTE_TRANS = {"R1": "متعدي", "R1W": "متعدي", "T_JAL": "متعدي"}
 
 
+@lru_cache(maxsize=1)
+def _vowel_evidence():
+    """vowel_evidence من مساره: هذا الملفّ يُحمَّل منفرداً أيضاً (عامل sarf المعزول، importlib بلا حزمة)."""
+    try:
+        from . import vowel_evidence as VE
+        return VE
+    except ImportError:
+        import importlib.util
+        import sys
+        name = "_amln_vowel_evidence"
+        if name not in sys.modules:
+            spec = importlib.util.spec_from_file_location(
+                name, os.path.join(os.path.dirname(os.path.abspath(__file__)), "vowel_evidence.py"))
+            m = importlib.util.module_from_spec(spec)
+            sys.modules[name] = m
+            spec.loader.exec_module(m)
+        return sys.modules[name]
+
+
 def _judged(rows, verb, synset, keep_rejected, trans_of):
     """المطابقة بالحروف والحركات (vowel_evidence): EXACT يُبقى؛ والتشكيل المخالف لا يُرفض إلا بدليلٍ مسمّى
     (HFN أو الوسيط أو الترجمة الإنجليزية)؛ وكلّ سجلّ يحمل match وvowel_evidence."""
-    from . import vowel_evidence as VE
+    VE = _vowel_evidence()
     out = []
     for x in rows:
         j = VE.judge(verb, x["verb"], trans_of(x), synset)
