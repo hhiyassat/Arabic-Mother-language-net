@@ -258,3 +258,13 @@ def test_26_t_tad_blocked():
     judged = [g for g in gold if g["label"] != "DEFER"]
     ok = sum(g["label"] == "TAADIYA" for g in judged)
     assert A.wilson(ok, len(judged)) < A.THRESH
+
+
+def test_27_word_tree_adapter_accepted_only():
+    """word_tree.ahdath يقرأ المقبول وحده (R1، R1W، T_JAL) ولا يقرأ المحجوب (R2، T، T_TAD)."""
+    from word_tree import ahdath as WA
+    s = WA.summary()
+    assert set(s) == {"R1", "R1W", "T_JAL"} and all(v > 0 for v in s.values())
+    k = WA.for_verb("كَسَرَ")
+    assert any(x["route"] == "R1" and x["maful"] == "مَكْسُور" and x["athar"] == "انْكِسَار" for x in k)
+    assert all(x["rank"] == "CANDIDATE" for x in WA._table())
