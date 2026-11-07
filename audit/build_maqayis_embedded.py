@@ -37,7 +37,11 @@ N = {"الهمزة": "ء", "الباء": "ب", "التاء": "ت", "الثاء":
      "الصاد": "ص", "الصاء": "ص", "الضاد": "ض", "الطاء": "ط", "الظاء": "ظ", "العين": "ع", "الغين": "غ",
      "الفاء": "ف", "القاف": "ق", "الكاف": "ك", "اللام": "ل", "الميم": "م", "النون": "ن", "الهاء": "ه",
      "الواو": "و", "الياء": "ي"}
-ALT = "|".join(sorted(N, key=len, reverse=True))
+ALT = "|".join("ا?" + re.escape(n[1:]) for n in sorted(N, key=len, reverse=True))     # «ولراء» (الألف ساقطة في OCR)
+
+
+def nm(g):
+    return N.get(g) or N.get("ا" + g)
 S = r"\s*\*?\s*"
 FULL = re.compile(rf"({ALT}){S}و{S}({ALT}){S}و{S}({ALT})(?![\w])")
 LOST = re.compile(rf"(?:^|[.:؛\]\)٠-٩\n])\s*\*\s*و({ALT}){S}و{S}({ALT})(?![\w])")
@@ -61,13 +65,13 @@ def scan():
                 out.setdefault(k, (disp, eid, pos, how, bb[pos:pos + 60].replace("\n", " ").replace("\t", " ")))
         for m in FULL.finditer(bb):
             if m.start() >= 5 and PRE.search(bb[max(0, m.start() - 14):m.start()]):
-                add(K("".join(N[g] for g in m.groups())), m.start(), "HEADING")
+                add(K("".join(nm(g) for g in m.groups())), m.start(), "HEADING")
         for m in LOST.finditer(bb):
-            add(K(hk[0] + "".join(N[g] for g in m.groups())), m.start(), "HEADING_FIRST_LETTER_LOST")
+            add(K(hk[0] + "".join(nm(g) for g in m.groups())), m.start(), "HEADING_FIRST_LETTER_LOST")
         for m in DOUBLED.finditer(bb):
             g = [x for x in m.groups() if x]
-            if N[g[0]] != N[g[1]]:
-                add(K(N[g[0]] + N[g[1]] + N[g[1]]), m.start(), "DOUBLED")
+            if nm(g[0]) != nm(g[1]):
+                add(K(nm(g[0]) + nm(g[1]) + nm(g[1])), m.start(), "DOUBLED")
     return out
 
 
@@ -85,9 +89,45 @@ def manual(out):
             out[k] = (host, eid, pos, how, bb[pos:pos + 60].replace("\n", " "))
 
 
+HAMZ = re.compile(r"(?:فأما|وأما|ومن|وإذا|فإذا|وإن)\s+(?:المهموز|همز(?:ت)?)|وبالهمز|وأما\s+الهمز")
+
+
+def targets():
+    """الجذور المطلوبة: HFN (أحدث إصدار) وكلّ جذور القرآن (audit/all_roots/quran_all_roots.csv)."""
+    ks = set()
+    rel = sorted((d for d in os.listdir(os.path.join(R.REPOS["hfn"], "release")) if d.startswith("release_v")),
+                 key=lambda d: int(d.split("_v")[1]))[-1]
+    for r in csv.DictReader(open(os.path.join(R.REPOS["hfn"], "release", rel, "roots.csv"), encoding="utf-8")):
+        ks.add(r["root_K"])
+    q = os.path.join(HERE, "all_roots", "quran_all_roots.csv")
+    if os.path.exists(q):
+        ks |= {K(r["root_ar"].replace(" ", "")) for r in csv.DictReader(open(q, encoding="utf-8-sig"))}
+    return ks
+
+
+def same_entry(out):
+    """ابن فارس يذكر المهموز اللام في مادّة المعتلّ أو المادّة المجاورة بنصّه: «وأمّا المهموز …»، «وإذا همز …» (درأ في درى،
+    فتأ في فتى، نسأ في نسي). يُقبل إذا تلت العبارةَ كلمةٌ بحرفي الجذر الأوّلين ثم همزة في 160 حرفاً."""
+    table = R._maqayis()
+    con = sqlite3.connect(DB)
+    ents = [(eid, disp, HAR.sub("", body)) for eid, disp, body in con.execute("select id, root_display, body_text from entries order by id")]
+    for k in sorted(targets()):
+        if len(k) != 3 or k[2] != "ء" or k in out or known(k, table):
+            continue
+        word = re.compile(k[0] + k[1] + "[أءئؤا]")
+        for eid, disp, bb in ents:
+            if K(disp)[:2] != k[:2]:
+                continue
+            hit = next((m for m in HAMZ.finditer(bb) if word.search(bb[m.start():m.start() + 160])), None)
+            if hit:
+                out[k] = (disp, eid, hit.start(), "SAME_ENTRY_HAMZ", bb[hit.start():hit.start() + 60].replace("\n", " "))
+                break
+
+
 def main():
     out = scan()
     manual(out)
+    same_entry(out)
     with open(OUT, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter="\t")
         w.writerow(["root_K", "host_display", "host_entry_id", "offset", "how", "heading"])
