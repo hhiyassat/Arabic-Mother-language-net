@@ -16,7 +16,7 @@ def test_verb_all_providers():
     f = r["features"]
     assert r["missing"] == [] and r["rank"] == "CANDIDATE"
     assert f["masdar"][0]["value"] == "كَسْر" and f["ism_fail"][0]["value"] == "كَاسِر"
-    assert f["mutawaa"][0]["value"] == "انْكَسَرَ" and f["mutawaa"][0]["status"] == "MEASURED_ACCEPTED"
+    assert f["mutawaa"][0]["value"] == "ٱنْكَسَرَ" and f["mutawaa"][0]["status"] == "MEASURED_ACCEPTED"
     assert {x["route"] for x in f["ahdath_effect"]} >= {"R1"}
     assert all(x["match"] == "EXACT" and x["is_fact"] is False for v in f.values() for x in v)
 

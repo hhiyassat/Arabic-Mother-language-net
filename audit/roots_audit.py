@@ -214,11 +214,11 @@ class Audit:
         self.classify, self.D, self.M, self.past_baab = classify, D, M, past_baab
         from word_tree import ahdath as WA
         self.WA = WA
-        self.text_only = {nfc(r["mutawaa_text"]) for r in csv.DictReader(
+        self.text_only = {wasl(r["mutawaa_text"]) for r in csv.DictReader(
             open(os.path.join(AMLN, "audit", "mutawaa_text_only.tsv"), encoding="utf-8"), delimiter="\t")}
         self.ahdath_rows = defaultdict(list)
         # حكم المالك «أبقِها معلَّمة» يشمل كلّ مطاوعٍ معلَّم (PARTIAL_VOWELLING وROOT_LETTERS_MISSING)، لا ملفّ القائمة وحده
-        self.text_only |= {nfc(x["mutawi"]) for x in WA._table() if x.get("mutawi_flags")}
+        self.text_only |= {wasl(x["mutawi"]) for x in WA._table() if x.get("mutawi_flags")}
         for x in WA._table():
             k = K(x["root"]) if x["root"] else None
             if k:
@@ -416,7 +416,7 @@ class Audit:
                     why.append("الناتج بلا حركات")
                 why += ortho(x["value"])
                 st = "FAIL" if why else "PASS"
-                if why and nfc(x["value"]) in self.text_only:
+                if why and wasl(x["value"]) in self.text_only:   # wazn-net يرسم ٱ (حكم المالك 2026-11-07)
                     st, why = "KNOWN", why + ["مطاوع من نصّ الوسيط معلَّم بحكم المالك 2026-11-06 (audit/mutawaa_text_only.tsv)"]
                 out.append(("A_WAZN", st,
                             f'{x["feature"]} {e["verb"]} → {x["value"]} ({x["route"]})' + (" — " + "؛ ".join(why) if why else "")))
