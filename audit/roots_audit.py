@@ -269,6 +269,9 @@ class Audit:
                 e = P_ROOTS._embedded()[R]
                 out.append((chk, "INFO", f'مدفون في سجلّ «{e["host_display"]}» ({e["how"]}، الموضع {e["offset"]}): '
                                          "خطأ تقطيع في الاستخراج، والواجهة تسترجعه من النصّ الكامل منذ الدفعة 5"))
+            elif chk == "R_MAQAYIS" and R in P_ROOTS.absent_in_book():
+                a = P_ROOTS.absent_in_book()[R]
+                out.append((chk, "KNOWN", f'ليس في كتاب المقاييس نفسه ({a["kind"]}): {a["editor_note"]} — {a["where"]}'))
             else:
                 out.append((chk, "FAIL", f"لا بـ«{R}» ولا بـ{variants(R) or 'بديل'}"))
         try:

@@ -43,6 +43,18 @@ def _embedded() -> dict:
     return {r["root_K"]: r for r in csv.DictReader(open(EMBEDDED_TSV, encoding="utf-8"), delimiter="\t")}
 
 
+ABSENT_TSV = os.path.join(_AMLN, "data", "maqayis_absent_in_book.tsv")
+
+
+@lru_cache(maxsize=1)
+def absent_in_book() -> dict:
+    """مادّةٌ ليست في كتاب المقاييس نفسه بنصّ حاشية المحقِّق (عبد السلام هارون، دار الفكر 1979؛ نسخة archive.org
+    maktabah2000_gmail_20150716_2027): أهملها ابن فارس، أو سقطت من الأصل المخطوط. فغيابها ليس خطأ استخراج."""
+    if not os.path.exists(ABSENT_TSV):
+        return {}
+    return {r["root_K"]: r for r in csv.DictReader(open(ABSENT_TSV, encoding="utf-8"), delimiter="\t")}
+
+
 def _embedded_text(eid: int, offset: int, n: int = 400) -> str:
     """نصّ المادّة المدفونة من body_text الكامل. الموضع محسوبٌ على النصّ بلا حركات، فيُترجم إلى النصّ المشكول."""
     if not os.path.exists(MAQAYIS_DB):
