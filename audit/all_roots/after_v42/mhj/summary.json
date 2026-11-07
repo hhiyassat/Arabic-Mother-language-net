@@ -1,0 +1,46 @@
+{
+ "release": "HFN_release_v42",
+ "roots": 1,
+ "rows": 14,
+ "by_check": {
+  "E_API": {
+   "PASS": 1
+  },
+  "E_CONJ": {
+   "PASS": 1
+  },
+  "E_MASDAR": {
+   "PASS": 1
+  },
+  "E_ORTHO": {
+   "PASS": 1
+  },
+  "E_PART_GEN": {
+   "PASS": 1
+  },
+  "E_TEMPLATE": {
+   "PASS": 1
+  },
+  "R_HFN": {
+   "PASS": 1
+  },
+  "R_LEXLINK": {
+   "INFO": 2
+  },
+  "R_MAQAYIS": {
+   "PASS": 1
+  },
+  "R_MEANING": {
+   "PASS": 1
+  },
+  "R_TAHAYYUZ": {
+   "INFO": 1
+  },
+  "R_WORDNET": {
+   "PASS": 1
+  },
+  "W_ROOTWORDS": {
+   "PASS": 1
+  }
+ }
+}
