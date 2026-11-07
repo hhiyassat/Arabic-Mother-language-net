@@ -163,7 +163,9 @@ class Audit:
         info = P_HFN.info()
         self.release = info["release"]
         d = info["dir"]
-        self.events = list(csv.DictReader(open(os.path.join(d, "events.csv"), encoding="utf-8")))
+        # HFN-D067: events marked WITHDRAWN (event_review_v36) are not served by the API and are not counted as events here
+        self.events = [e for e in csv.DictReader(open(os.path.join(d, "events.csv"), encoding="utf-8"))
+                       if not e.get("event_review_v36", "").startswith("WITHDRAWN")]
         self.ev_by_id = {e["event_id"]: e for e in self.events}
         self.ev_by_root = defaultdict(list)
         for e in self.events:
@@ -231,7 +233,8 @@ class Audit:
     # ── الجذر ─────────────────────────────────────────────────────────
     def root_checks(self, R):
         out = []
-        out.append(("R_HFN", "PASS" if R in self.roots else "FAIL", "" if R in self.roots else "ليس في roots.csv"))
+        live = R in self.roots and any(e["root_K"] == R for e in self.events)   # roots.csv also indexes WITHDRAWN events (HFN-D067)
+        out.append(("R_HFN", "PASS" if live else "FAIL", "" if live else ("ليس في roots.csv" if R not in self.roots else "أحداثه كلّها مسحوبة (WITHDRAWN)")))
         try:
             ms = P_ROOTS.meaning(R)
             lex = [m["source"] for m in ms]
