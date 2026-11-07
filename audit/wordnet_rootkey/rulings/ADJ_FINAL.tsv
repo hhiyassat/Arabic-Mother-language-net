@@ -1,0 +1,564 @@
+pair_id	word	synset	verdict	K	basis	adjA	adjB	reason
+P0030	كاريوكا	carioca.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم أهل مدينة ريو (علم أعجمي)
+P0041	تشيلا	chela.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	تشيلا: لقب هندي عام، معرّب لا مادة له
+P0089	هام	ham.n.03	LOAN		ADJ2_AGREED	LOAN:	LOAN:	هام: هاوي اللاسلكي، اسم جنس معرّب
+P0122	داية	midwife.n.01	ROOT	دوي	ADJ2_AGREED	ROOT:دوي	ROOT:دوي	اللسان (دوا): الداية الظئر، عربي فصيح
+P0234	باز	goshawk.n.01	ROOT	بزو	OWNER_DELEGATED_CLAUDE	ROOT:بزو	ROOT:بوز	اللسان والصحاح (بزا)، وابن جني: البازي من بزا
+P0246	لابرادور	labrador_retriever.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	سلالة كلاب: اسم جنس معرّب وإن أخذ من اسم مكان
+P0248	ليونبرغر	leonberg.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	سلالة كلاب: اسم جنس معرّب
+P0253	نيوفاوندلاند	newfoundland.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	سلالة كلاب: اسم جنس معرّب
+P0349	زراوند	birthwort.n.01	ROOT	زرد	ADJ2_AGREED	ROOT:زرد	ROOT:زرد	القاموس (زرد): والزراوند دواء
+P0374	كاذي	genus_pandanus.n.01	ROOT	كوذ	ADJ2_AGREED	ROOT:كوذ	ROOT:كوذ	اللسان (كوذ): الكاذي شجر طيب الريح؛ القاموس وضعه في كذو
+P0385	بنفسج	hedge_violet.n.01	ROOT	بنفسج	ADJ2_AGREED	ROOT:بنفسج	ROOT:بنفسج	القاموس رأس مادة: البنفسج م NOT_IN_BANK
+P0398	سرخس	new_york_fern.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القاموس يذكر سرخس بلدا لا نباتا؛ توافق الحروف وتخالف المعنى
+P0492	إسطبل	stable.n.01	ROOT	صطبل	OWNER_DELEGATED_CLAUDE	ROOT:ءصطبل	ROOT:صطبل	اللسان يضعه رأساً في الرباعي (صطبل)؛ والهمزة همزة وصل عند أكثرهم
+P0586	يانصيب	lottery.n.01	ROOT	نصب	ADJ2_AGREED	ROOT:نصب	ROOT:نصب	منحوت من يا+نصيب، جزؤه الدال عربي
+P0590	تلاشي	vanishing.n.01	ROOT	لشو	OWNER_DELEGATED_CLAUDE	ROOT:شيء	ROOT:لشو	القاموس (لشا): «خسّ بعد رفعة»؛ التلاشي تفاعل منه، والمعجم مقدَّم على النحت (R7)
+P0591	فئة	denomination.n.02	ROOT	فءو	ADJ2_AGREED	ROOT:فءو	ROOT:فءو	ابن برّي في اللسان: الهاء عوض من الواو من فأوت؛ ابن فارس (فأو)؛ النسبة فئوي
+P0626	تَقَوْقُع	cocooning.n.01	ROOT	قوقع	ADJ2_AGREED	ROOT:قوقع	ROOT:قوقع	رباعي من قوقعة؛ ليس في المعاجم NOT_IN_BANK
+P0689	الخنازير	scrofula.n.01	ROOT	خزر	ADJ2_AGREED	ROOT:خزر	ROOT:خزر	القاموس: الخنزير في (خ ز ر)؛ اللسان وابن فارس: مأخوذ من الخزر
+P0859	بيو-ماندارا	biu-mandara.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم مجموعة لغات
+P0905	تذبذب	oscillation.n.01	ROOT	ذبذب	ADJ2_AGREED	ROOT:ذبذب	ROOT:ذبذب	مكرّر رباعي
+P1019	قابا	contrast.v.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	قابا لا تعرف في المعاجم بمعنى قارن
+P1056	أغرى	tease.v.03	ROOT	غرو	ADJ2_AGREED	ROOT:غرو	ROOT:غرو	القاموس (غرو): أغراه به؛ الصحاح غروت؛ ابن فارس غرو
+P1136	مغناطيسي	magnetic.a.02	ROOT	غطس	ADJ2_AGREED	ROOT:غطس	ROOT:غطس	القاموس في غطس (بعد تغاطس): المغنطيس والمغناطيس حجر يجذب
+P1180	أغسطي	augustan.a.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	منسوب إلى علم أعجمي (أغسطس)
+P1183	تبيكي	benedictory.a.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	تبيكي لا أصل لها
+P1209	أستاذي	professorial.a.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	أستاذ لا رأس له في المعاجم، ذكره القاموس عرضا
+P1258	مغناطيسياً	magnetically.r.01	ROOT	غطس	ADJ2_AGREED	ROOT:غطس	ROOT:غطس	القاموس (غطس): المغناطيس
+P1265		only.r.06	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	فقط: أداة (ف+قط)
+P1291	لاهوتياً	theologically.r.02	ROOT	ليه	ADJ2_AGREED	ROOT:ليه	ROOT:ليه	القاموس (ليه) والصحاح: لاهوت إن كان من كلامهم ففعلوت من لاه
+P1323	الجيزة	giza.n.01	ROOT	جوز	ADJ2_AGREED	ROOT:جوز	ROOT:جوز	NAME؛ القاموس (جوز): الجيزة الناحية؛ اللسان أفرد جيز وليس في البنك
+P1338	مغناطيس	magnet.n.01	ROOT	غطس	ADJ2_AGREED	ROOT:غطس	ROOT:غطس	القاموس (غطس): المغناطيس
+X0003	علي	ali.n.02	ROOT	علو	ADJ2_AGREED	ROOT:علو	ROOT:علو	NAME؛ علم عربي
+X0007	آري	aryan.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم قوم (آريون)
+X0013	أسقف	bishop.n.01	ROOT	سقف	ADJ2_AGREED	ROOT:سقف	ROOT:سقف	اللسان (سقف): ومنه اشتق أسقف النصارى
+X0080	سفا	arista.n.01	ROOT	سفو	ADJ2_AGREED	ROOT:سفو	ROOT:سفو	ابن فارس (سفو): السفا؛ الصحاح السفا شوك البهمى
+X0138	برغل	bulgur.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القاموس (برغل): البراغيل القرى، يخالف المعنى
+X0158	نشا	arum.n.01	ROOT	نشو	ADJ2_AGREED	ROOT:نشو	ROOT:نشو	القاموس: النشا النشاستج معرب حذف شطره (نشو/نشي)؛ نشي ليس في البنك
+X0203	انحناء	bight.n.04	ROOT	حنو	ADJ2_AGREED	ROOT:حنو	ROOT:حنو	حنوت وحنيت؛ تعادل، رأس ابن فارس حنو
+X0212	قسطرة	catheter.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	قسطر في المعاجم منتقد الدراهم، يخالف معنى القسطرة
+X0227	هرمس	herm.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جنس لتمثال وإن أخذ من علم
+X0258	سدى	warp.n.04	ROOT	سدو	OWNER_DELEGATED_CLAUDE	ROOT:سدو	ROOT:سدي	ابن فارس (سدو): الإهمال، «أن يترك سدى»؛ المعنى معنى الإهمال
+X0283	انهيار	avalanche.n.01	ROOT	هور	ADJ2_AGREED	ROOT:هور	ROOT:هور	المعاجم الأربعة (هور)
+X0387	على	burning.n.05	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	حرف جر
+X0460	إرضاء	gratification.n.02	ROOT	رضو	ADJ2_AGREED	ROOT:رضو	ROOT:رضو	القاموس في الواو؛ ابن فارس: أصله الواو لقولهم رضوان
+X0605	خام	iron_ore.n.01	ROOT	خيم	ADJ2_AGREED	ROOT:خيم	ROOT:خيم	اللسان (خيم): الخام من الجلود ما لم يدبغ
+X0702	إِرْضَاء	satisfactoriness.n.01	ROOT	رضو	ADJ2_AGREED	ROOT:رضو	ROOT:رضو	القاموس في الواو؛ رضوان
+X0711	اِنْحِنَاء	tilt.n.04	ROOT	حنو	ADJ2_AGREED	ROOT:حنو	ROOT:حنو	تعادل، رأس ابن فارس حنو
+X0723	مارس	annunciation.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم شهر/عيد
+X0770	مناداة	paging.n.01	ROOT	ندي	ADJ2_AGREED	ROOT:ندي	ROOT:ندي	تعادل الوجهين، رأس ابن فارس ندي
+X0802	رضا	satisfaction.n.01	ROOT	رضو	ADJ2_AGREED	ROOT:رضو	ROOT:رضو	القاموس في الواو؛ رضوان
+X0852	انْهَارَ	break.v.56	ROOT	هور	ADJ2_AGREED	ROOT:هور	ROOT:هور	المعاجم (هور)
+X0860	نَمَا	burgeon.v.01	ROOT	نمي	ADJ2_AGREED	ROOT:نمي	ROOT:نمي	ينمي وينمو؛ تعادل، رأس ابن فارس نمي
+X0867	قَسْطَرَ	catheterize.v.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	قسطر يخالف المعنى
+X0877	انهار	crash.v.11	ROOT	هور	ADJ2_AGREED	ROOT:هور	ROOT:هور	المعاجم (هور)
+X0952	ملت	malt.v.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	مالت معرّب
+X0953	مَلَّتَ	malt.v.03	LOAN		ADJ2_AGREED	LOAN:	LOAN:	مالت معرّب
+X0964	غَطَّى	overgrow.v.03	ROOT	غطي	OWNER_DELEGATED_CLAUDE	ROOT:غطو	ROOT:غطي	R4: الإسناد إلى الضمير «غطيت الشيء» (ابن فارس)
+X0970	بَسْتَرَ	pasteurize.v.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبني على علم أعجمي (باستور)
+X0978	أَرْجَنَ	purple.v.02	ROOT	رجو	OWNER_DELEGATED_CLAUDE	LOAN:	ROOT:رجو	R7: اللسان والصحاح (رجا): «والأرجوان الحمرة»
+X1067	نَادَى	call.v.08	ROOT	ندي	ADJ2_AGREED	ROOT:ندي	ROOT:ندي	تعادل، رأس ابن فارس ندي
+X1075	أَطْرَى	compliment.v.02	ROOT	طرو	ADJ2_AGREED	ROOT:طرو	ROOT:طرو	القاموس في الواو: أطراه أحسن الثناء؛ الطراوة
+X1079	انْحَنَى	congee.v.02	ROOT	حنو	ADJ2_AGREED	ROOT:حنو	ROOT:حنو	تعادل، رأس ابن فارس حنو
+X1137	انحنى	take_a_bow.v.02	ROOT	حنو	ADJ2_AGREED	ROOT:حنو	ROOT:حنو	تعادل، رأس ابن فارس حنو
+X1173	غطى	coif.v.01	ROOT	غطي	OWNER_DELEGATED_CLAUDE	ROOT:غطو	ROOT:غطي	R4: «غطيت الشيء»
+X1207	حَنَى	incurvate.v.02	ROOT	حنو	ADJ2_AGREED	ROOT:حنو	ROOT:حنو	حنوت وحنيت؛ ابن فارس حنو
+X1231	ضَحَّى	sacrifice.v.02	ROOT	ضحو	ADJ2_AGREED	ROOT:ضحو	ROOT:ضحو	ضحوة؛ القاموس (ضحو)
+X1237	غرّى	size.v.01	ROOT	غرو	ADJ2_AGREED	ROOT:غرو	ROOT:غرو	الصحاح والقاموس: غروت الجلد ألصقته بالغراء
+X1257	غَرَّى	birdlime.v.01	ROOT	غرو	ADJ2_AGREED	ROOT:غرو	ROOT:غرو	غروت الجلد؛ القاموس والصحاح
+X1292	أَحْنَى	incline.v.03	ROOT	حنو	ADJ2_AGREED	ROOT:حنو	ROOT:حنو	تعادل، رأس ابن فارس حنو
+X1297	إلى	move_in.v.03	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	حرف جر
+X1311	أَفَلت	set.v.10	ROOT	ءفل	ADJ2_AGREED	ROOT:ءفل	ROOT:ءفل	أفلت الشمس: غربت
+X1396	اقتنى	keep.v.16	ROOT	قنو	ADJ2_AGREED	ROOT:قنو	ROOT:قنو	القاموس والصحاح: قنوت واقتنيت؛ البصريون الأصل الواو (اللسان)
+X1436	احْتَارَ	puzzle_over.v.01	ROOT	حير	ADJ2_AGREED	ROOT:حير	ROOT:حير	احتار من الحيرة
+X1449	أَفَادَ	help.v.02	ROOT	فيد	ADJ2_AGREED	ROOT:فيد	ROOT:فيد	أفاد من الفائدة
+X1459	كَسَا	vest.v.05	ROOT	كسو	ADJ2_AGREED	ROOT:كسو	ROOT:كسو	الكسوة
+X1462	دَمْشَقَ	damascene.v.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	دمشق: مبني على اسم المدينة؛ القاموس دمشق بمعنى أسرع يخالف المعنى
+X1552	أغرى	tease.v.03	ROOT	غرو	ADJ2_AGREED	ROOT:غرو	ROOT:غرو	القاموس (غرو): أغراه به
+X1598	إِلَى	bifurcated.s.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	حرف جر
+X1604	سُدًى	bootless.s.01	ROOT	سدو	ADJ2_AGREED	ROOT:سدو	ROOT:سدو	ابن فارس (سدو): سدى مهملا
+X1667	نَقِيّ	immaculate.s.02	ROOT	نقو	OWNER_DELEGATED_CLAUDE	ROOT:نقو	ROOT:نقي	R4: المصدر نقاوة، والتثنية نقوان (القاموس في الواو)
+X1680	مُحْيٍ	life-giving.s.01	ROOT	حيي	ADJ2_AGREED	ROOT:حيي	ROOT:حيي	أحيا
+X1693	صافٍ	net.a.01	ROOT	صفو	ADJ2_AGREED	ROOT:صفو	ROOT:صفو	صفا يصفو
+X1725	نقي	uncontaminated.a.01	ROOT	نقو	OWNER_DELEGATED_CLAUDE	ROOT:نقو	ROOT:نقي	R4: المصدر نقاوة
+X1732	مدون	written.a.02	ROOT	دون	ADJ2_AGREED	ROOT:دون	ROOT:دون	دوّن
+X1749	بِدُونَ	inelegantly.r.01	ROOT	دون	ADJ2_AGREED	ROOT:دون	ROOT:دون	ب+دون، ودون ظرف اسمي
+X1790	دكا	dhaka.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم مدينة أعجمي
+X1829	متى	matthew.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم شخص
+X1837	بسترة	pasteurization.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبني على علم أعجمي (باستور)
+X1878	واط	watt.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	وحدة قياس معرّبة
+E00087	تحدمية	hyphema.n.01	ROOT	حدم	ADJ2_AGREED	ROOT:حدم	ROOT:حدم	اللسان (حدم): احتدم الدم اشتدت حمرته؛ مصطلح مولد
+E00135	سيسبان	colorado_river_hemp.n.01	ROOT	سبسب	ADJ2_AGREED	ROOT:سبسب	ROOT:سبسب	اللسان (سبسب): السيسبان شجر؛ القاموس وضعه في سسب
+E00166	سعودي	saudi.n.01	ROOT	سعد	ADJ2_AGREED	ROOT:سعد	ROOT:سعد	NAME؛ نسبة إلى سعود
+E00232	بإطراء	sky-high.r.02	ROOT	طرو	ADJ2_AGREED	ROOT:طرو	ROOT:طرو	القاموس في الواو: أطراه أحسن الثناء
+E00242	يهودي	conservative_jew.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	يهود علم عبراني الأصل؛ اشتقاقه من هاد شعبي
+E00259	تَكْتَكَ	click.v.02	ROOT	تكتك	ADJ2_AGREED	ROOT:تكتك	ROOT:تكتك	مكرّر رباعي NOT_IN_BANK
+E00290	هجمية	barbarization.n.01	ROOT	همج	ADJ2_AGREED	ROOT:همج	ROOT:همج	تصحيف همجية (بربرية)
+E00314	ساتورناليا	saturnalia.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم عيد بعينه
+E00317	السيتي	the_city.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم حيّ بعينه
+E00399	سالي	sally_lunn.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم كعكة، اسم جنس معرّب
+E00457	مَسْكُونِيّ	ecumenic.s.01	ROOT	سكن	ADJ2_AGREED	ROOT:سكن	ROOT:سكن	ترجمة عربية من المسكونة أي الأرض المعمورة
+E00473	وهابي	wahhabi.n.01	ROOT	وهب	ADJ2_AGREED	ROOT:وهب	ROOT:وهب	NAME؛ نسبة إلى عبد الوهاب
+E00492	إنبيق	alembic.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	ليس في المعاجم
+E00680	إكسمور	exmoor.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	سلالة مهور، اسم جنس
+E00820	ميدلارز	medical_literature_analysis_and_retrieval_system.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم قاعدة بيانات بعينها
+E00831	نستور	nestor.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جنس أحيائي معرّب
+E00892	أذار	adar.n.01	PROPER		OWNER_DELEGATED_CLAUDE	ROOT:ءذر	PROPER:	R6: آذار اسم شهر روميّ، عَلَم أعجميّ
+E00934	سنديان	american_white_oak.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	يرد في اللسان شرحا للبلخ لا رأس مادة
+E00986	لوطي	pederast.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	الصحاح: لوط اسم ينصرف مع العجمة؛ مبني على علم أعجمي
+E00992	فالنتين	valentine.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	بطاقة، اسم جنس
+E01001	مُتَخَطِّي	collinear.s.01	ROOT	خطو	ADJ2_AGREED	ROOT:خطو	ROOT:خطو	بنية تخطّى؛ المعنى المراد (على خط واحد) غامض
+E01071	مُتَرَسِّع	hasty.s.02	ROOT	سرع	ADJ2_AGREED	ROOT:سرع	ROOT:سرع	تصحيف متسرّع
+E01130	نقانق	frank.n.02	LOAN		ADJ2_AGREED	LOAN:	LOAN:	نقانق في اللسان صوت الضفادع، يخالف المعنى
+E01136	زبادي	blueberry_yogurt.n.01	LOAN		OWNER_DELEGATED_CLAUDE	UNSURE:	LOAN:	ليست في المعاجم بهذا المعنى
+E01177	غاريقون	agaric.n.01	ROOT	غرق	ADJ2_AGREED	ROOT:غرق	ROOT:غرق	القاموس (غرق): غاريقون أو أغاريقون أصل نبات
+E01183	مُتَبَاهٍ	boastful.s.01	ROOT	بهو	ADJ2_AGREED	ROOT:بهو	ROOT:بهو	القاموس (بهو): باهيته فبهوته
+E01224	هليون	asparagus.n.02	ROOT	هلن	ADJ2_AGREED	ROOT:هلن	ROOT:هلن	القاموس (هلن): الهليون نبت م؛ الصحاح كذلك NOT_IN_BANK
+E01244	بهائي	bahai.n.01	ROOT	بهو	ADJ2_AGREED	ROOT:بهو	ROOT:بهو	NAME؛ نسبة إلى بهاء الله؛ البهاء في القاموس (بهو)
+E01301	مسرطن	carcinogenic.a.01	ROOT	سرط	ADJ2_AGREED	ROOT:سرط	ROOT:سرط	السرطان في المعاجم الأربعة تحت سرط
+E01335	متصنت	eavesdropper.n.01	ROOT	نصت	ADJ2_AGREED	ROOT:نصت	ROOT:نصت	تصنّت قلب عامي لتنصّت
+E01341	عبوة	blister_pack.n.01	ROOT	عبء	ADJ2_AGREED	ROOT:عبء	ROOT:عبء	عبّأ: ملأ وهيّأ
+E01492	تريط	band.n.03	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	تريط لا أصل لها
+E01698	كوة	porthole.n.01	ROOT	كوي	OWNER_DELEGATED_CLAUDE	ROOT:كوو	ROOT:كوي	R4: تعادل الشاهدان، فيؤخذ رأس ابن فارس واللسان (كوى)
+E01705	ارْتِوَازِيّ	artesian.a.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	ارتوازي منسوب إلى أرتوا (علم أعجمي)؛ ربطه بروي شعبي
+E01741	سلطعون	american_lady_crab.n.01	LOAN		OWNER_DELEGATED_CLAUDE	UNSURE:	LOAN:	ليست في المعاجم
+E01795	براهمة	brahman.n.03	PROPER		OWNER_DELEGATED_CLAUDE	LOAN:	ROOT:برهم	R6: البراهمة اسم قوم أعجميّ
+E01927	بولينغ	bowling_green.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم بلدة
+E01932	شتاين	stein.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم شخص
+E02021	بطوط	donald_duck.n.01	ROOT	بطط	ADJ2_AGREED	ROOT:بطط	ROOT:بطط	NAME؛ علم عربي من البطة
+E02086	آنَذَاك	then.s.01	ROOT	ءون	OWNER_DELEGATED_CLAUDE	ROOT:ءون	ROOT:ءين	R4: تعادل اللسان (أين) وابن فارس (أون)، فرأس ابن فارس
+E02089	الحمى	foot-and-mouth_disease.n.01	ROOT	حمم	ADJ2_AGREED	ROOT:حمم	ROOT:حمم	الحمّى من حُمّ
+E02187	بذي	seed_fern.n.01	ROOT	بذر	ADJ2_AGREED	ROOT:بذر	ROOT:بذر	تصحيف بذري (سرخس بذري)
+E02227	دستوري	constitutionalist.n.01	ROOT	دستر	ADJ2_AGREED	ROOT:دستر	ROOT:دستر	القاموس (دستر): الدستور النسخة المعمولة للجماعات NOT_IN_BANK
+E02322	أَكِيد	certain.s.02	ROOT	ءكد	ADJ2_AGREED	ROOT:ءكد	ROOT:ءكد	بالهمز كما ورد؛ أكّد لغة في وكّد (اللسان)
+E02327	الجودية	gaelic.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم لغة
+E02468	شيميات	carangid_fish.n.01	LOAN		OWNER_DELEGATED_CLAUDE	UNSURE:	LOAN:	اسم فصيلة أعجميّ
+E02489	تاوني	tawney.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم شخص
+E02490	سيينا	sienna.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم صبغ، اسم جنس
+E02495	أثرياء	rich_people.n.01	ROOT	ثرو	ADJ2_AGREED	ROOT:ثرو	ROOT:ثرو	القاموس في الواو: الثروة، رجل ثري
+E02516	بوجوليه	beaujolais.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبيذ، اسم جنس
+E02697	غِشائِيّ	membranous.s.01	ROOT	غشي	ADJ2_AGREED	ROOT:غشي	ROOT:غشي	القاموس في الياء: غشاء القلب؛ ابن فارس: غشيت الشيء أغشيه
+E02735	شينوك	chinook.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم شعب
+E02794	بهشية	american_holly.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	بهش في المعاجم لا يدل على هذا النبات
+E02796	بوكمال	bokmal.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم لغة
+E02798	طاولة	breakfast_table.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	طاولة من الإيطالية، ليست في المعاجم
+E02826	نرجسية	self-love.n.02	PROPER		OWNER_DELEGATED_CLAUDE	PROPER:	ROOT:نرجس	R6: النرجسية مبنية على عَلَم أسطوريّ أعجميّ
+E02829	جوقي	choral.a.01	ROOT	جوق	ADJ2_AGREED	ROOT:جوق	ROOT:جوق	القاموس والصحاح: الجوقة الجماعة؛ اللسان (جوق)
+E02889	الماندرين	mandarin.n.06	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم لغة
+E02919	التباهي	name-dropping.n.01	ROOT	بهو	ADJ2_AGREED	ROOT:بهو	ROOT:بهو	القاموس (بهو): باهيته فبهوته
+E03048	طوباي	utopian.a.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	من يوتوبيا؛ ربطه بطوبى شعبي ويخالف المعنى
+E03195	غجري	gitano.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم قوم
+E03269	فِئَوِيّ	divisional.s.02	ROOT	فءو	ADJ2_AGREED	ROOT:فءو	ROOT:فءو	النسبة فئوي ترد اللام واوا؛ ابن برّي وابن فارس
+E03294	الأميرالية	admiralty.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	أميرال ليس في المعاجم القديمة وإن أصله عربي
+E03348	فايشيا	vaisya.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	اسم طبقة هندية
+E03366	الدالاي	dalai_lama.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	لقب شخص بعينه
+E03407	حقولي	legal.a.04	ROOT	حقق	OWNER_DELEGATED_CLAUDE	ROOT:حقق	UNSURE:	تصحيف «حقوقيّ»
+E03431	ليفايز	levi's.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علامة تجارية
+E03472	مُطرّي	tenderizer.n.01	ROOT	طرو	ADJ2_AGREED	ROOT:طرو	ROOT:طرو	القاموس في الواو: طرّاه جعله طريا؛ الطراوة
+E03551	شبيط	cocklebur.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	شبيط ليس في المعاجم بهذا المعنى
+E03556	فينيكس	phoenix.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم مدينة
+E03592	قيط	aglet.n.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	قيط ليس في المعاجم
+E03684	بيستون	piston.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم شخص
+E03863	القصديريك	stannic_chloride.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القصدير يرد شرحا في القاموس (رصص) لا رأس مادة
+E03874	تَتَوْأَمَ	twin.v.03	ROOT	وءم	OWNER_DELEGATED_CLAUDE	ROOT:وءم	ROOT:تءم	ابن فارس (وأم): التاء في التوأم بدل من الواو، كتراث من ورث
+E03966	دبح	genus_scorzonera.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	دبح نبات لا يعرف في المعاجم
+E04050	دُسْتُورِيّ	constitutional.a.02	ROOT	دستر	ADJ2_AGREED	ROOT:دستر	ROOT:دستر	القاموس (دستر): الدستور NOT_IN_BANK
+E04067	جيرزي	jersey.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم جزيرة
+E04075	أوريو	oreo.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علامة تجارية
+E04168	سَيَّخَ	skewer.v.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	سيخ فارسي ليس في المعاجم
+E04173	سوزان	black-eyed_susan.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبات
+E04187	أولوية	back_burner.n.01	ROOT	ولي	ADJ2_AGREED	ROOT:ولي	ROOT:ولي	من أولى بالشيء
+E04291	لوغر	luger.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علامة تجارية لسلاح
+E04320	أريثوسا	arethusa.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جنس نباتي
+E04365	شيكر	shaker.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم طائفة
+E04403	بولوني	polony.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم سجق
+E04428	ميلانتا	mylanta.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E04464	فراسيون	common_horehound.n.01	ROOT	فرسن	ADJ2_AGREED	ROOT:فرسن	ROOT:فرسن	القاموس (فرسن): والفراسيون
+E04475	بَرْمَائِيّ	amphibious.a.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	منحوت حديث (بر+ماء)
+E04494	زرزور	common_starling.n.01	ROOT	زرزر	ADJ2_AGREED	ROOT:زرزر	ROOT:زرزر	مكرّر رباعي
+E04503	مَأْسَاوِيّ	desperate.s.06	ROOT	ءسي	ADJ2_AGREED	ROOT:ءسي	ROOT:ءسي	القاموس في الياء: أسيت أسى حزنت؛ ابن فارس (أسى) الحزن
+E04520	قُنْبُزَة	quiff.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	قنبزة ليست في المعاجم
+E04655	طاقية	beanie.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	طاقية ليست في المعاجم، من الفارسية/التركية
+E04701	(حُكْمًا/عُقُوبَةً)	give.v.41	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	المدخل كلمتان مختلفتا الجذر
+E04732	إيبولا	ebola_hemorrhagic_fever.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم مرض، اسم جنس
+E04785	قصدرة	tinning.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القصدير ليس رأس مادة
+E04821	بورغينيون	bourguignon.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم طبق
+E04860	شُرَّابِيّ	tassel-shaped.s.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	شرّابة ليست في المعاجم بهذا المعنى
+E05072	هيمين	hymen.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم إله
+E05093	بورت	port.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبيذ
+E05135	قصدر	tin.v.03	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القصدير ليس رأس مادة
+E05159	كراويا	caraway.n.02	ROOT	كري	OWNER_DELEGATED_CLAUDE	LOAN:	ROOT:كري	R7: اللسان (كرى): «الكروياء»
+E05164	تمتم	hem_and_haw.v.01	ROOT	تمتم	ADJ2_AGREED	ROOT:تمتم	ROOT:تمتم	مكرّر رباعي NOT_IN_BANK
+E05195	السعودية	saudi_arabia.n.01	ROOT	سعد	ADJ2_AGREED	ROOT:سعد	ROOT:سعد	NAME؛ نسبة إلى آل سعود
+E05224	كافري	kafir.n.02	ROOT	كفر	ADJ2_AGREED	ROOT:كفر	ROOT:كفر	NAME؛ اسم القوم من كافر العربية
+E05326	بوردوليز	bordelaise.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم صلصة
+E05329	مُطَرَّى	tenderized.s.01	ROOT	طرو	ADJ2_AGREED	ROOT:طرو	ROOT:طرو	القاموس في الواو: طرّاه؛ الطراوة
+E05343	الدُّلْفِين	delphinus.n.01	ROOT	دلف	ADJ2_AGREED	ROOT:دلف	ROOT:دلف	اللسان والصحاح والقاموس (دلف): الدلفين
+E05352	ليمونية	scleroderma_citrinum.n.01	ROOT	ليم	ADJ2_AGREED	ROOT:ليم	ROOT:ليم	القاموس (ليم): الليمون ثمر م
+E05402	أجرعية	agrobacterium_tumefaciens.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	نقل صوتي لأغروباكتريوم
+E05557	دَرْدَارِيّ	ashen.s.02	ROOT	دردر	ADJ2_AGREED	ROOT:دردر	ROOT:دردر	مكرّر رباعي
+E05608	هوداة	letup.n.01	ROOT	هود	ADJ2_AGREED	ROOT:هود	ROOT:هود	تصحيف هوادة
+E05637	سوفيتي	soviet.a.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	منسوب إلى الاتحاد السوفيتي
+E05757	تحيزي	particularistic.a.01	ROOT	حوز	ADJ2_AGREED	ROOT:حوز	ROOT:حوز	ابن فارس (حيز): ياؤه في الحقيقة واو؛ اللسان: تحيّز أصلها تحيوز
+E05786	كهروضغطي	piezoelectric.a.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	منحوت حديث من كلمتين
+E05792	متاريس	cheval-de-frise.n.01	ROOT	ترس	ADJ2_AGREED	ROOT:ترس	ROOT:ترس	اللسان والقاموس والصحاح (ترس): المترس
+E05839	زِنْجَفْرِيّ	vermilion.s.01	ROOT	زنجفر	ADJ2_AGREED	ROOT:زنجفر	ROOT:زنجفر	القاموس رأس مادة: الزنجفر NOT_IN_BANK
+E05944	حَلَزُونِيّ	coiling.s.01	ROOT	حلزن	ADJ2_AGREED	ROOT:حلزن	ROOT:حلزن	اللسان رأس مادة حلزن والصحاح كذلك؛ القاموس في حلز NOT_IN_BANK
+E06022	ليمبرغر	limburger.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جبن
+E06058	هنائية	hereness.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	من اسم الإشارة هنا
+E06085	الكاثوليكية	roman_catholic.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم كنيسة بعينها
+E06128	آنذاك	then.n.01	ROOT	ءون	OWNER_DELEGATED_CLAUDE	ROOT:ءون	ROOT:ءين	R4: رأس ابن فارس (أون)
+E06142	ليمون	bitter_lemon.n.01	ROOT	ليم	ADJ2_AGREED	ROOT:ليم	ROOT:ليم	القاموس (ليم): الليمون
+E06263	نيوتن	newton.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	وحدة قياس
+E06269	اَلنُّونِيّ	nth.s.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	من اسم حرف النون
+E06283	بانتو	panto.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	اختصار بانتومايم
+E06337	فينوس	venus.n.03	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جنس أحيائي
+E06457	زرنيخي	arsenical.n.01	ROOT	زرنخ	ADJ2_AGREED	ROOT:زرنخ	ROOT:زرنخ	اللسان والقاموس (زرنخ): الزرنيخ NOT_IN_BANK
+E06462	إيدام	edam.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جبن
+E06471	بوتقة	bone-ash_cup.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	المعاجم تذكر البوطة (بوط) لا البوتقة
+E06548	سبطانة	barrel.n.01	ROOT	سبط	ADJ2_AGREED	ROOT:سبط	ROOT:سبط	اللسان والقاموس وابن فارس (سبط): السبطانة قناة جوفاء
+E06656	صفير	common_hyacinth.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	صفير اسم نبات لا يعرف في المعاجم
+E06672	تغاضى	excuse.v.06	ROOT	غضو	ADJ2_AGREED	ROOT:غضو	ROOT:غضو	ابن فارس: غضا (غضو) الإغضاء؛ القاموس (غضو)
+E06693	بشاقولية	plumb.r.02	ROOT	شقل	ADJ2_AGREED	ROOT:شقل	ROOT:شقل	اللسان والقاموس (شقل): الشاقول
+E06706	الدويل	dail_eireann.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم مجلس بعينه
+E06729	ميكعة	vomer.n.01	ROOT	وكع	ADJ2_AGREED	ROOT:وكع	ROOT:وكع	اللسان والقاموس (وكع): الميكعة سكة الحراثة
+E06836	فرزجة	diaphragm.n.03	LOAN		ADJ2_AGREED	LOAN:	LOAN:	الفرزجة ترد عرضا في القاموس لا رأس مادة
+E06849	كونكيورر	konqueror.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم برنامج
+E06900	بانشين	panchen_lama.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	لقب شخص بعينه
+E07060	المرمر	alabaster.n.01	ROOT	مرمر	ADJ2_AGREED	ROOT:مرمر	ROOT:مرمر	مكرّر رباعي؛ اللسان ذكره في مرر
+E07142	لالانز	lallans.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم لهجة
+E07153	عائلة	brass_family.n.01	ROOT	عول	ADJ2_AGREED	ROOT:عول	ROOT:عول	عال عياله يعولهم؛ اللسان: عيّل أصله عيوِل
+E07155	خردق	bird_shot.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القاموس (خردق): المرقة معرّب، يخالف المعنى
+E07173	بلايا	blaia_zimondal.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم لغة مصطنعة
+E07190	تقلون	alkalinize.v.01	ROOT	قلو	ADJ2_AGREED	ROOT:قلو	ROOT:قلو	قلوت وقليت لغتان (الصحاح)؛ تعادل، رأس ابن فارس قلو
+E07219	ضَحِيَّة	muggee.n.01	ROOT	ضحو	ADJ2_AGREED	ROOT:ضحو	ROOT:ضحو	ضحّى من الضحوة؛ القاموس (ضحو)
+E07236	الماكيز	maquis.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم حركة بعينها
+E07281	حفاضة	diaper.n.01	ROOT	حفظ	ADJ2_AGREED	ROOT:حفظ	ROOT:حفظ	حفّاظة من الحفظ، والضاد كتابة عامية
+E07291	نتسكيب	netscape.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم برنامج
+E07395	أوكسيدنتال	occidental.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم لغة
+E07511	بركانية	volcanism.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	البركان في القاموس شجر واللسان كساء، يخالف المعنى
+E07520	مارستان	bedlam.n.02	ROOT	مرس	ADJ2_AGREED	ROOT:مرس	ROOT:مرس	القاموس والصحاح (مرس): المارستان دار المرضى معرّب
+E07569	شوفينية	male_chauvinism.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبنية على علم أعجمي (شوفان)
+E07579	جوجل	google.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم شركة
+E07637	صيدلية	drugstore.n.01	ROOT	صدل	OWNER_DELEGATED_CLAUDE	ROOT:صدل	ROOT:صدن	اللسان (صدل): «الصيدلاني معروف، فارسي معرّب»
+E07644	شوفيني	chauvinist.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبني على علم أعجمي (شوفان)
+E07673	دارفون	propoxyphene.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E07732	أوفرال	ovral.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري
+E07742	كرملين	kremlin.n.02	LOAN		ADJ2_AGREED	LOAN:	LOAN:	كرملين قلعة مدينة روسية، اسم جنس
+E07838	الرايخ	hohenzollern_empire.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم دولة بعينها
+E07840	درامبوي	drambuie.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علامة تجارية
+E07871	بونستيل	mefenamic_acid.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E07920	قلواني	alkaloidal.a.01	ROOT	قلو	ADJ2_AGREED	ROOT:قلو	ROOT:قلو	تعادل، رأس ابن فارس قلو
+E07964	بُرْكَانِيّ	volcanic.s.02	LOAN		ADJ2_AGREED	LOAN:	LOAN:	البركان يخالف معنى المعاجم
+E08011	ضوضاء	background_noise.n.01	ROOT	ضوضو	OWNER_DELEGATED_CLAUDE	ROOT:ضوضو	ROOT:ضوضي	R1 والشافية: «ضوضيت رباعي … والياء إلى الواو انتمى»، فالأصل ضوضوت
+E08020	طقوسية	ritualism.n.02	LOAN		ADJ2_AGREED	LOAN:	LOAN:	طقس ليس في المعاجم
+E08115	ويندوز	windows.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علامة تجارية
+E08176	كانفيلد	canfield.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم لعبة
+E08213	آيبود	ipod.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علامة تجارية
+E08218	باستيل	bastille.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	سجن، اسم جنس
+E08237	الأبجدية	abecedarian.n.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	من أسماء الحروف (أبجد)
+E08240	دوبونيت	dubonnet.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علامة تجارية
+E08244	مالوكس	maalox.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E08274	زيتي	ziti.n.01	LOAN		OWNER_DELEGATED_CLAUDE	ROOT:زيت	LOAN:	الزيتي هنا المعكرونة الإيطالية (ziti)؛ الحروف توافق والمعنى يخالف
+E08292	بلافيكس	clopidogrel_bisulfate.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E08423	إنترلينجوا	interlingua.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم لغة
+E08434	بلعوم	laryngopharynx.n.01	ROOT	بلعم	ADJ2_AGREED	ROOT:بلعم	ROOT:بلعم	القاموس والصحاح (بلعم): البلعوم؛ اللسان في بلعم وبلع
+E08440	سيبرو	ciprofloxacin.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E08454	لانوكسين	digoxin.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E08506	عثمانيون	ottoman.n.02	ROOT	عثم	ADJ2_AGREED	ROOT:عثم	ROOT:عثم	NAME؛ نسبة إلى عثمان
+E08640	زبدية	bowl.n.03	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	زبدية ليست في المعاجم والأصل غير معروف
+E08707	يؤكد	assert.v.03	ROOT	ءكد	ADJ2_AGREED	ROOT:ءكد	ROOT:ءكد	بالهمز كما ورد؛ لغة في وكد
+E08745	كبريتيد	cadmium_sulfide.n.01	ROOT	كبرت	ADJ2_AGREED	ROOT:كبرت	ROOT:كبرت	اللسان والقاموس رأس مادة كبرت
+E08925	مُتَرَجْرِج	shimmery.s.01	ROOT	رجرج	ADJ2_AGREED	ROOT:رجرج	ROOT:رجرج	مكرّر رباعي
+E08926	واقواق	black-billed_cuckoo.n.01	ROOT	وقوق	OWNER_DELEGATED_CLAUDE	UNSURE:	ROOT:وقوق	R1: مكرّر رباعيّ، حكاية صوت الطائر
+E08941	عندئذ	just_then.r.01	ROOT	عند	ADJ2_AGREED	ROOT:عند	ROOT:عند	عند+إذ، وعند ظرف اسمي
+E08950	بلانك	blanc.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	اسم صلصة
+E08963	مايو	cinco_de_mayo.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم عيد
+E09033	برمجي	software_error.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	برنامج معرّب (القاموس)؛ برمج مولّد
+E09102	صابورة	ballast.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	صابورة ليست في المعاجم
+E09132	حامول	bladderwort.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	حامول ليس في المعاجم
+E09137	بقبعة	gurgle.n.01	ROOT	بقبق	ADJ2_AGREED	ROOT:بقبق	ROOT:بقبق	تصحيف بقبقة؛ مكرّر رباعي
+E09149	شاكتي	shaktist.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبني على اسم إلهة
+E09200	استمارة	application_form.n.01	LOAN		OWNER_DELEGATED_CLAUDE	UNSURE:	LOAN:	ليست في المعاجم
+E09205	آيفي	ivy_league.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم رابطة بعينها
+E09212	جرمينال	germinal.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم شهر
+E09301	الدوتشي	mussolini.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	لقب شخص بعينه
+E09329	رانجبور	rangpur.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم ثمرة
+E09330	طُوباوِيّ	utopian.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	من يوتوبيا؛ ربطه بطوبى شعبي
+E09396	طارة	handwheel.n.01	LOAN		OWNER_DELEGATED_CLAUDE	UNSURE:	LOAN:	ليست في المعاجم بهذا المعنى
+E09480	زرادية	locking_pliers.n.01	ROOT	زرد	ADJ2_AGREED	ROOT:زرد	ROOT:زرد	من الزرّاد صانع الزرد (اللسان)؛ مولّد
+E09510	بايثون	python.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جنس لروح عرافة
+E09587	بلية	marble.n.02	LOAN		ADJ2_AGREED	LOAN:	LOAN:	بلية من الإيطالية
+E09697	بُورِيتَانِيّ	blue.s.07	LOAN		ADJ2_AGREED	LOAN:	LOAN:	بيوريتان اسم جنس
+E09710	زبلين	zeppelin.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	منطاد، اسم جنس
+E09768	واقواقيات	cuculiform_bird.n.01	ROOT	وقوق	OWNER_DELEGATED_CLAUDE	UNSURE:	ROOT:وقوق	R1: مكرّر رباعيّ
+E09782	ياجور	yajur-veda.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم كتاب بعينه
+E09797	قَيْطُس	cetus.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم كوكبة
+E09814	دانش	danish.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم معجنات
+E09846	متباهٍ	bragger.n.01	ROOT	بهو	ADJ2_AGREED	ROOT:بهو	ROOT:بهو	القاموس (بهو): باهيته فبهوته
+E09856	إيرديل	airedale.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	سلالة كلاب
+E09874		bald_cypress.n.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الكلمة فارغة والعبارة متعددة الكلمات
+E09892	خيميائي	alchemist.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	المعاجم تذكر الكيمياء (كمي) لا الخيمياء
+E10085	مريديان	meridian.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم بلدة
+E10091	جملون	bell_gable.n.01	UNSURE		OWNER_DELEGATED_CLAUDE	ROOT:جمل	UNSURE:	الجملون ليس في المعاجم
+E10122	تأكيد	confirmation.n.04	ROOT	ءكد	ADJ2_AGREED	ROOT:ءكد	ROOT:ءكد	بالهمز كما ورد
+E10141	سيليزيا	silesia.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم قماش
+E10205	تريبولي	rottenstone.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم حجر
+E10212	العراق	iraq.n.01	ROOT	عرق	ADJ2_AGREED	ROOT:عرق	ROOT:عرق	NAME؛ علم عربي
+E10220	الأنجليكانية	high_church.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم كنيسة بعينها
+E10268	تينو	mikado.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	لقب عام
+E10316	شَقْلَبَ	loop.v.03	ROOT	شقلب	ADJ2_AGREED	ROOT:شقلب	ROOT:شقلب	رباعي عامي NOT_IN_BANK
+E10349	إيرباص	airbus.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	طائرة ركاب، اسم جنس
+E10377	نابلس	monkshood.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	نعت لاتيني لنبات لا اسم المدينة
+E10383	سيكويا	genus_sequoia.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبات
+E10479	ورنية	vernier_scale.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبني على علم أعجمي (فيرنييه)
+E10495	ساسكاتون	saskatoon.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم ثمرة
+E10503	خربطة	balagan.n.01	ROOT	خربط	ADJ2_AGREED	ROOT:خربط	ROOT:خربط	رباعي عامي NOT_IN_BANK
+E10511	هندام	outfit.n.02	ROOT	هدم	OWNER_DELEGATED_CLAUDE	ROOT:هدم	LOAN:	R7: القاموس (هدم): «هندام معرّب أندام»
+E10544	بولو	polo.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم شخص
+E10607	بلامبالاة	indifferently.r.01	ROOT	بلي	OWNER_DELEGATED_CLAUDE	ROOT:بلو	ROOT:بلي	R4: الإسناد «ما باليت به مبالاة»
+E10660	يوريالي	euryale.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم أسطوري لفرد
+E10664	شمبلان	hornwort.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	شمبلان ليس في المعاجم
+E10680	الجزائري	algeripithecus_minutus.n.01	ROOT	جزر	ADJ2_AGREED	ROOT:جزر	ROOT:جزر	NAME؛ نسبة إلى الجزائر
+E10724	نيتروسبان	nitrospan.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E10748	أنجلو-كاثوليكي	anglo-catholic.a.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبني على علم (أنجلو)
+E10765	مِملَج	float.n.05	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	مملج ليس في المعاجم بهذا المعنى
+E10774	كراكي	northern_pike.n.01	UNSURE		OWNER_DELEGATED_CLAUDE	ROOT:كرك	UNSURE:	الكركيّ في المعاجم طائر لا سمك
+E10810	سرفل	overcast.v.02	LOAN		ADJ2_AGREED	LOAN:	LOAN:	سرفل ليس في المعاجم
+E10842	بلوطة	black_horehound.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	بلوطة هنا نقل لـBallota، يخالف معنى البلوط
+E10925	جادولينيت	gadolinite.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم معدن
+E10944	قَعْقَعِيّ	clunky.s.02	ROOT	قعقع	ADJ2_AGREED	ROOT:قعقع	ROOT:قعقع	مكرّر رباعي NOT_IN_BANK
+E10978	كوديه	coude_telescope.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	اسم نظام تلسكوب
+E11119	الترتار	tartare_sauce.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم صلصة
+E11173	سبانخ	spinach.n.02	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القاموس يذكر الإسفاناخ (سفنخ) بالفاء، لا السبانخ
+E11205	براملي	cooper.n.04	LOAN		ADJ2_AGREED	LOAN:	LOAN:	من برميل وليس في المعاجم
+E11311	سايتيشن	citation.n.06	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم حصان بعينه
+E11314	أرجنتين	argentine.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	اسم سمك
+E11320	قَعْقَاع	clanking.s.01	ROOT	قعقع	ADJ2_AGREED	ROOT:قعقع	ROOT:قعقع	مكرّر رباعي NOT_IN_BANK
+E11332	دَرْدَشَ	chew_the_fat.v.01	ROOT	دردش	ADJ2_AGREED	ROOT:دردش	ROOT:دردش	رباعي عامي NOT_IN_BANK
+E11354	سلوقي	saluki.n.01	ROOT	سلق	ADJ2_AGREED	ROOT:سلق	ROOT:سلق	NAME؛ اللسان والصحاح (سلق): السلوقية منسوبة إلى سلوق قرية باليمن
+E11389	ديكيري	daiquiri.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم كوكتيل
+E11392	السنهدرين	sanhedrin.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم مجلس بعينه
+E11394	بوري	striped_mullet.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	البوري في المعاجم الحصير، يخالف المعنى
+E11480	بظيظة	corydalis.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	بظيظة ليست في المعاجم
+E11503	فيلسوف	pre-socratic.n.01	ROOT	فلسف	ADJ2_AGREED	ROOT:فلسف	ROOT:فلسف	اللسان (فلسف): الفلسفة الحكمة أعجمي، وهو الفيلسوف
+E11548		ante_meridiem.s.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الكلمة فارغة والعبارة مضطربة
+E11591	بيريديوم	phenazopyridine.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E11593	يانكي	new_englander.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم قوم
+E11630	البشمركة	pesh_merga.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم قوة بعينها
+E11728	سمبوسة	samosa.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	سنبس في المعاجم اسم حي من طيء، يخالف المعنى
+E11830	أمريكانوس	macowanites_americanus.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	نعت لاتيني لنوع
+E11941	اليهوديات	judaica.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	يهود علم عبراني الأصل
+E11959	مُصَلْصِل	jangling.s.01	ROOT	صلصل	ADJ2_AGREED	ROOT:صلصل	ROOT:صلصل	مكرّر رباعي
+E12003	عبراني	hebraic.a.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	عبراني منسوب إلى علم أعجمي
+E12107	ثَرْثَار	chatty.s.01	ROOT	ثرثر	ADJ2_AGREED	ROOT:ثرثر	ROOT:ثرثر	مكرّر رباعي
+E12155	شرشير	garganey.n.01	ROOT	شرشر	ADJ2_AGREED	ROOT:شرشر	ROOT:شرشر	مكرّر رباعي
+E12207	دردور	whirlpool.n.01	ROOT	دردر	ADJ2_AGREED	ROOT:دردر	ROOT:دردر	مكرّر رباعي
+E12342	كراوية	whorled_caraway.n.01	ROOT	كري	OWNER_DELEGATED_CLAUDE	LOAN:	ROOT:كري	R7: اللسان (كرى): «الكروياء»
+E12456	تغاضي	condonation.n.01	ROOT	غضو	ADJ2_AGREED	ROOT:غضو	ROOT:غضو	ابن فارس: غضا (غضو)؛ القاموس (غضو)
+E12510	قنصل	consul.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القنصل في اللسان والقاموس القصير، يخالف المعنى
+E12532	لينكس	linux.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم نظام تشغيل
+E12662	خلنج	australian_heath.n.01	ROOT	خلنج	ADJ2_AGREED	ROOT:خلنج	ROOT:خلنج	اللسان رأس مادة خلنج فارسي معرّب؛ القاموس في خلج NOT_IN_BANK
+E12671	خرفيش	milk_thistle.n.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	خرفيش ليس في المعاجم
+E12775	أفريكندر	africander.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	سلالة ماشية
+E13003	سِتِّينِيّ	sexagenarian.s.01	ROOT	سدس	ADJ2_AGREED	ROOT:سدس	ROOT:سدس	ستيني من ستة وأصلها سدسة
+E13080	ستيني	sexagenarian.n.01	ROOT	سدس	ADJ2_AGREED	ROOT:سدس	ROOT:سدس	ستيني من ستة
+E13113	الأرخص	aurochs.n.02	LOAN		ADJ2_AGREED	LOAN:	LOAN:	نقل لـaurochs؛ أرخ يخالف البنية
+E13127	بللاتيني	palatine.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	لقب منصب، اسم جنس
+E13134	شَارْتُرُوزِيّ	chartreuse.s.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	منسوب إلى شارتروز (علم)
+E13255	غراند	grand_marnier.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علامة تجارية
+E13274	رتّاء	darner.n.01	ROOT	رتء	OWNER_DELEGATED_CLAUDE	ROOT:رتق	ROOT:رتء	الصحاح (رتأ): «رتأت العقدة شددتها»؛ يؤخذ اللفظ المكتوب لأنه له مادة
+E13329	الشاشة	filmdom.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	شاشة من الشاش الفارسي، ليست في المعاجم
+E13343	قطلب	alpine_bearberry.n.01	LOAN		OWNER_DELEGATED_CLAUDE	UNSURE:	LOAN:	ليست في المعاجم
+E13350	الغجرية	romany.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم لغة قوم
+E13396	مغطى	angiospermous.a.01	ROOT	غطي	OWNER_DELEGATED_CLAUDE	ROOT:غطو	ROOT:غطي	R4: «غطيت الشيء»
+E13490	قَرْقَرِيّ	grumbling.s.01	ROOT	قرقر	ADJ2_AGREED	ROOT:قرقر	ROOT:قرقر	مكرّر رباعي
+E13510	سايكلوب	cyclops.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جنس لعملاق
+E13537	سلور	armored_catfish.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	السلّور يونانية، تذكر عرضا بالصاد
+E13580	لاهوت	theology.n.03	ROOT	ليه	ADJ2_AGREED	ROOT:ليه	ROOT:ليه	القاموس (ليه): لاهوت فعلوت من لاه
+E13588	بِثَرْثَرَة	chattily.r.01	ROOT	ثرثر	ADJ2_AGREED	ROOT:ثرثر	ROOT:ثرثر	مكرّر رباعي
+E13616	وروار	bee_eater.n.01	ROOT	ورور	ADJ2_AGREED	ROOT:ورور	ROOT:ورور	مكرّر رباعي؛ ليس في المعاجم NOT_IN_BANK
+E13713	متحايل	finagler.n.01	ROOT	حول	ADJ2_AGREED	ROOT:حول	ROOT:حول	ابن فارس (حول): الحول الحيلة؛ احتال والمحاولة
+E13813	الكابيتول	capitol.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	مبنى المجلس، اسم جنس
+E13824	مُبَدِّر	powderer.n.01	ROOT	بذر	ADJ2_AGREED	ROOT:بذر	ROOT:بذر	تصحيف مبذّر (ناثر)
+E13864	البارود	ramrod.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	البارود ليس في المعاجم
+E13884	غشاء	operculum.n.01	ROOT	غشي	ADJ2_AGREED	ROOT:غشي	ROOT:غشي	القاموس في الياء؛ ابن فارس: غشيت أغشيه والغشاء الغطاء
+E13897	دفتر	order_book.n.02	ROOT	دفتر	ADJ2_AGREED	ROOT:دفتر	ROOT:دفتر	اللسان والقاموس والصحاح رأس مادة دفتر
+E13931	مُزِيل	abator.n.01	ROOT	زول	ADJ2_AGREED	ROOT:زول	ROOT:زول	أزال يزيل من زال يزول
+E13968	عبري	hebraic.a.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	عبري منسوب إلى علم أعجمي
+E13985	إِطْرَائِيّ	laudatory.s.01	ROOT	طرو	ADJ2_AGREED	ROOT:طرو	ROOT:طرو	القاموس في الواو: أطراه
+E14012	مُغَطًّى	capped.s.02	ROOT	غطي	OWNER_DELEGATED_CLAUDE	ROOT:غطو	ROOT:غطي	R4: «غطيت الشيء»
+E14077	بحريني	bahraini.n.01	ROOT	بحر	ADJ2_AGREED	ROOT:بحر	ROOT:بحر	NAME؛ نسبة إلى البحرين
+E14176	توليفة	concoction.n.02	ROOT	ولف	ADJ2_AGREED	ROOT:ولف	ROOT:ولف	بالواو كما ورد؛ اللسان والقاموس (ولف)، لغة في ألف
+E14224	توهان	disorientation.n.02	ROOT	توه	ADJ2_AGREED	ROOT:توه	ROOT:توه	بالواو كما ورد؛ تاه يتوه لغة في يتيه
+E14241	بطباط	prince's-feather.n.01	LOAN		OWNER_DELEGATED_CLAUDE	ROOT:بطبط	LOAN:	البطباط ليس في المعاجم
+E14252	غافث	agrimonia.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	غافث ليس في المعاجم المستخرجة
+E14292	أينشتاينيوم	einsteinium.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم عنصر
+E14293	قَرْقَشَ	crunch.v.03	ROOT	قرقش	ADJ2_AGREED	ROOT:قرقش	ROOT:قرقش	رباعي NOT_IN_BANK
+E14319	بَدَائِيَّة	crudeness.n.03	ROOT	بدء	ADJ2_AGREED	ROOT:بدء	ROOT:بدء	البدائي من البدء
+E14342	كدش	hack.n.06	UNSURE		OWNER_DELEGATED_CLAUDE	ROOT:كدش	UNSURE:	الكديش ليس في المعاجم بهذا المعنى
+E14345	مُغَطَّى	bone-covered.s.01	ROOT	غطي	OWNER_DELEGATED_CLAUDE	ROOT:غطو	ROOT:غطي	R4: «غطيت الشيء»
+E14363	إنجلمانسيا	engelmannia.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبات
+E14370	تقني	radiologic_technologist.n.01	ROOT	تقن	ADJ2_AGREED	ROOT:تقن	ROOT:تقن	تقنية من الإتقان، وضع عربي
+E14432	غلوكسينيا	florist's_gloxinia.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبات
+E14437	حذقت	bear_down.v.02	ROOT	حزق	ADJ2_AGREED	ROOT:حزق	ROOT:حزق	حزق: شدّ وضغط؛ حذقت تصحيف
+E14442	سرسرة	stridulation.n.01	ROOT	سرسر	ADJ2_AGREED	ROOT:سرسر	ROOT:سرسر	مكرّر رباعي كما ورد (صرصرة بالسين) NOT_IN_BANK
+E14505	فورسيثيا	forsythia.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبات
+E14508	الستون	sixtieth.n.01	ROOT	سدس	ADJ2_AGREED	ROOT:سدس	ROOT:سدس	الستون من ستة
+E14533	شباط	february.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم شهر؛ القاموس يذكر سباط بالسين في سبط
+E14572	مندليفيوم	mendelevium.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم عنصر
+E14589	كولكويتزيا	beauty_bush.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبات
+E14602	هناكية	thereness.n.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	من اسم الإشارة هناك
+E14609	السواحيلية	kiswahili.n.01	ROOT	سحل	ADJ2_AGREED	ROOT:سحل	ROOT:سحل	NAME؛ من السواحل العربية
+E14661	السوفييت	soviets.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	حكومة بعينها
+E14683	هاكني	hackney.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	سلالة خيل
+E14699	مدخرات	savings.n.01	ROOT	ذخر	ADJ2_AGREED	ROOT:ذخر	ROOT:ذخر	ادّخر من ذخر
+E14701	ذيفان	anatoxin.n.01	ROOT	ذيف	ADJ2_AGREED	ROOT:ذيف	ROOT:ذيف	اللسان (ذيف): الذيفان السم الناقع
+E14719	جويسئة	bedstraw.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	جويسئة ليست في المعاجم
+E14721	تقنياً	technically.r.01	ROOT	تقن	ADJ2_AGREED	ROOT:تقن	ROOT:تقن	تقنية من الإتقان
+E14760	شُوفِينِيّ	chauvinistic.s.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبني على علم أعجمي (شوفان)
+E14773	جَرَّوِيُّ	urn-shaped.s.01	ROOT	جرر	ADJ2_AGREED	ROOT:جرر	ROOT:جرر	منسوب إلى الجرّة
+E14820	دافنبورت	davenport.n.03	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	أريكة، اسم جنس
+E14850	فرانسيوم	francium.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم عنصر
+E14903	أرجيلة	hookah.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	المعاجم تذكر النارجيل (جوز الهند) لا الأرجيلة
+E14973	حزيران	june.n.01	PROPER		OWNER_DELEGATED_CLAUDE	ROOT:حزر	PROPER:	R6: حزيران «بالرومية اسم شهر» (الصحاح)
+E14979	أدنسونية	sour_gourd.n.03	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبات
+E14998	طلوق	charger.n.01	UNSURE		OWNER_DELEGATED_CLAUDE	ROOT:طلق	UNSURE:	لا شاهد لهذا المعنى
+E15000	عراقي	iraqi.a.01	ROOT	عرق	ADJ2_AGREED	ROOT:عرق	ROOT:عرق	NAME؛ نسبة إلى العراق
+E15023	القبار	caper_sauce.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القبّار في اللسان قوم يجرّون الشباك، يخالف المعنى
+E15057	إيشولتسية	california_poppy.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبات
+E15065	مُتْخَم	glutted.s.01	ROOT	وخم	ADJ2_AGREED	ROOT:وخم	ROOT:وخم	التخمة التاء فيها بدل من الواو
+E15087	الناتو	north_atlantic_treaty_organization.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم منظمة
+E15107	غرنديليا	gumweed.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبات
+E15113	جوفمعوي	coelenterate.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	منحوت حديث من كلمتين
+E15159	طاحر	subtracter.n.01	ROOT	طرح	ADJ2_AGREED	ROOT:طرح	ROOT:طرح	تصحيف طارح
+E15172	زامبوني	zamboni.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علامة تجارية
+E15198	تبولة	tabbouleh.n.01	ROOT	تبل	ADJ2_AGREED	ROOT:تبل	ROOT:تبل	تبّولة من التابل، مولّد
+E15218	ميزاب	cullis.n.01	ROOT	وزب	ADJ2_AGREED	ROOT:وزب	ROOT:وزب	اللسان والقاموس (وزب): الميزاب، بغير همز
+E15220	مُتَرَبِّب	begrimed.s.01	ROOT	ترب	OWNER_DELEGATED_CLAUDE	ROOT:ترب	ROOT:ربب	المعنى «وسخ بالتراب»؛ تصحيف «مترّب»
+E15287	دَوالِيّ	varicose.s.01	ROOT	دلو	ADJ2_AGREED	ROOT:دلو	ROOT:دلو	جمع دالية، اللسان (دلا)
+E15290	سنقر	gyrfalcon.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	سنقر في القاموس علم سلطان، يخالف المعنى
+E15292	جالانت	gallant_fox.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم حصان بعينه
+E15350	بوميرانيان	pomeranian.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	سلالة كلاب
+E15513	إسلاموفوبيا	islamophobia.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	المعنى الدال (فوبيا) أعجمي
+E15522	يرقان	hyperbilirubinemia_of_the_newborn.n.01	ROOT	يرق	ADJ2_AGREED	ROOT:يرق	ROOT:يرق	بالياء كما ورد؛ اللسان (يرق): اليرقان مثل الأرقان
+E15526	كيرنغورم	cairngorm.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم معدن
+E15560	وعلانيات	commelinidae.n.01	ROOT	وعل	ADJ2_AGREED	ROOT:وعل	ROOT:وعل	من الوعل
+E15602	دستورياً	constitutionally.r.01	ROOT	دستر	ADJ2_AGREED	ROOT:دستر	ROOT:دستر	القاموس (دستر): الدستور NOT_IN_BANK
+E15663	النغت	woolly_alder_aphid.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	النغت ليس في المعاجم
+E15712	خيمر	chimera.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم وحش أسطوري بعينه
+E15728	الفوهرر	hitler.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	لقب شخص بعينه
+E15729	سرسوع	sissoo.n.01	LOAN		OWNER_DELEGATED_CLAUDE	UNSURE:	LOAN:	ليست في المعاجم
+E15739	الكنيست	knesset.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم برلمان
+E15744	خِنْزِيرِيّ	gross.s.02	ROOT	خزر	ADJ2_AGREED	ROOT:خزر	ROOT:خزر	القاموس: الخنزير في (خ ز ر)
+E15771	مُزيل	eliminator.n.01	ROOT	زول	ADJ2_AGREED	ROOT:زول	ROOT:زول	أزال يزيل من زال يزول
+E15783	صنفرة	emery.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	صنفرة ليست في المعاجم
+E15805	رفراف	belted_kingfisher.n.01	ROOT	رفرف	ADJ2_AGREED	ROOT:رفرف	ROOT:رفرف	مكرّر رباعي
+E15816	فلافل	falafel.n.01	LOAN		OWNER_DELEGATED_CLAUDE	ROOT:فلفل	LOAN:	الفلافل طعام ليس في المعاجم؛ ربطه بالفلفل اشتقاق شعبي
+E15818	كالفادوس	calvados.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم براندي
+E15862	باسيليوس	basil.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم شخص
+E15954	خمان	elder.n.02	UNSURE		OWNER_DELEGATED_CLAUDE	ROOT:خمن	UNSURE:	لا شاهد للنبات في المعاجم
+E16061	بنفسجي	violet.n.02	ROOT	بنفسج	ADJ2_AGREED	ROOT:بنفسج	ROOT:بنفسج	القاموس رأس مادة: البنفسج NOT_IN_BANK
+E16070	مبالاة	indifference.n.01	ROOT	بلي	OWNER_DELEGATED_CLAUDE	ROOT:بلو	ROOT:بلي	R4: «ما باليت به مبالاة»
+E16073	دستور	pharmacopoeia.n.01	ROOT	دستر	ADJ2_AGREED	ROOT:دستر	ROOT:دستر	القاموس (دستر): الدستور NOT_IN_BANK
+E16087	سرداب	catacomb.n.01	ROOT	سردب	ADJ2_AGREED	ROOT:سردب	ROOT:سردب	القاموس واللسان رأس مادة سردب NOT_IN_BANK
+E16119	النشواني	amyloidosis.n.01	ROOT	نشو	ADJ2_AGREED	ROOT:نشو	ROOT:نشو	القاموس: النشا النشاستج معرّب
+E16201	حدافة	fluid_flywheel.n.01	ROOT	حذف	ADJ2_AGREED	ROOT:حذف	ROOT:حذف	حدّافة عامية من الحذف
+E16220	قيصرة	czarina.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	قيصر علم أعجمي ليس رأس مادة
+E16245	فشار	popcorn.n.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الفشار في القاموس الهذيان، يخالف المعنى
+E16256	طرخون	tarragon.n.02	ROOT	طرخن	ADJ2_AGREED	ROOT:طرخن	ROOT:طرخن	اللسان رأس مادة طرخن؛ القاموس في طرخ NOT_IN_BANK
+E16272	ماوس	mickey_mouse.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم شخصية بعينها
+E16290		mare_nostrum.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الكلمة فارغة والعبارة مضطربة
+E16370	منادٍ	barker.n.01	ROOT	ندي	ADJ2_AGREED	ROOT:ندي	ROOT:ندي	تعادل، رأس ابن فارس ندي
+E16484	طبلية	pallet.n.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الطبلية في القاموس دراهم الخراج، يخالف المعنى
+E16491	رَسْمَلَ	capitalize.v.04	ROOT	رءس	ADJ2_AGREED	ROOT:رءس	ROOT:رءس	من رأس المال
+E16556	حَلَزُونِيُّ	spiral-shelled.s.01	ROOT	حلزن	ADJ2_AGREED	ROOT:حلزن	ROOT:حلزن	اللسان والصحاح (حلزن) NOT_IN_BANK
+E16583		colored_person.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الكلمة فارغة والعبارة متعددة الكلمات
+E16654	زمزريق	western_redbud.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	زمزريق ليس في المعاجم
+E16744	عُنْصُرِيّ	racist.s.01	ROOT	عصر	OWNER_DELEGATED_CLAUDE	ROOT:عصر	ROOT:عنصر	القاموس والصحاح (عصر): «العنصر الأصل»؛ وكذلك عنصل ← عصل
+E16781	هويس	weir.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الهويس في المعاجم الفكر، يخالف المعنى
+E16794	قَنْطُورُس	centaurus.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم كوكبة
+E16820	مطيلية	ductility.n.01	ROOT	مطل	ADJ2_AGREED	ROOT:مطل	ROOT:مطل	مطل الحديدة مدّها وطرقها
+E16891	ميرميدون	myrmidon.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم قوم
+E16943		crap_up.v.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الكلمة فارغة والعبارة مضطربة
+E16947		el_libertador.n.02	UNSURE		OWNER_DELEGATED_CLAUDE	UNSURE:	PROPER:	الكلمة فارغة والعبارة مضطربة
+E16949	نافورة	fountain.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	نافورة ليست في المعاجم
+E16958	كولوم	coulomb.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	وحدة قياس
+E17005	رَضَّى	content.v.02	ROOT	رضو	ADJ2_AGREED	ROOT:رضو	ROOT:رضو	القاموس في الواو؛ رضوان
+E17086	بانتهاك	irreverently.r.02	ROOT	نهك	ADJ2_AGREED	ROOT:نهك	ROOT:نهك	انتهك
+E17138	بماسوشية	masochistically.r.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبني على علم أعجمي (مازوخ)
+E17253	نقشارة	wood_warbler.n.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	نقشارة ليست في المعاجم
+E17265	أَنْتَارْكْتِيكِيّ	south-polar.s.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	نعت جغرافي معرّب
+E17337	دامر	cotoneaster_dammeri.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	نعت لاتيني لنوع
+E17482		latino_sine_flexione.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الكلمة فارغة والعبارة مضطربة
+E17577	الحسونيات	fringillidae.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الحسّون ليس في المعاجم المستخرجة
+E17594	نشاء	amyloid.n.01	ROOT	نشو	ADJ2_AGREED	ROOT:نشو	ROOT:نشو	القاموس: النشا وقد يمد
+E17615	اشرفية	genus_coreopsis.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	أشرفية اسم نبات لا يعرف في المعاجم
+E17653	تيلة	cotter.n.03	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	تيلة ليست في المعاجم
+E17689	تشينوك	chinook_salmon.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم سمك
+E17690	وَسِتُّونَ	one_hundred_sixty.s.01	ROOT	سدس	ADJ2_AGREED	ROOT:سدس	ROOT:سدس	ستون من ستة
+E17754	عنواني	titular.a.03	ROOT	عنن	ADJ2_AGREED	ROOT:عنن	ROOT:عنن	القاموس والصحاح (عنن): عنوان الكتاب، وأصله عنّان
+E17846	أَنْقَلِيسِيّ	eel-shaped.s.01	ROOT	قلس	ADJ2_AGREED	ROOT:قلس	ROOT:قلس	القاموس (قلس): الأنقليس سمكة كالحية
+E17880	وهابية	wahhabism.n.01	ROOT	وهب	ADJ2_AGREED	ROOT:وهب	ROOT:وهب	NAME؛ نسبة إلى عبد الوهاب
+E17944	أقنوم	hypostasis.n.03	ROOT	قنم	ADJ2_AGREED	ROOT:قنم	ROOT:قنم	اللسان والقاموس (قنم): الأقنوم الأصل
+E17952	فابي	fabian.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	مبني على علم (فابيوس)
+E17968	نقرشة	finger_food.n.01	ROOT	نقرش	ADJ2_AGREED	ROOT:نقرش	ROOT:نقرش	رباعي عامي NOT_IN_BANK
+E17977	مُنْتَهِك	offensive.s.01	ROOT	نهك	ADJ2_AGREED	ROOT:نهك	ROOT:نهك	انتهك
+E18067	كانتري	west_country.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم إقليم
+E18080	ليك	lake_district.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم إقليم
+E18087	بلسنر	pilsner.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم بيرة
+E18157	شانتونج	shantung.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم قماش
+E18238	بلاتيني	palatine.a.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	لقب منصب
+E18252	شوبك	rolling_pin.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	القاموس يذكر الشوبق بالقاف معرّبا، لا الشوبك
+E18268	مريلة	bib.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	مريلة ليست في المعاجم
+E18303	استرضائي	expiatory.a.01	ROOT	رضو	ADJ2_AGREED	ROOT:رضو	ROOT:رضو	القاموس في الواو؛ رضوان
+E18312	مُدْمَص	occluded.s.02	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	إدمصاص مصطلح منحوت، لا يعرف أصله
+E18347	قلويد	alkaloid.n.01	ROOT	قلو	ADJ2_AGREED	ROOT:قلو	ROOT:قلو	تعادل، رأس ابن فارس قلو
+E18456	بافلوفا	pavlova.n.02	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم حلوى
+E18464	جمشتي	amethystine.a.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	جمش في المعاجم الحلق، يخالف المعنى
+E18509	غطائي	muffle.n.01	ROOT	غطي	OWNER_DELEGATED_CLAUDE	ROOT:غطو	ROOT:غطي	R4: «غطيت الشيء»
+E18535	شامبانيا	champagne.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم نبيذ
+E18579	كتكوت	chick.n.01	ROOT	كتكت	ADJ2_AGREED	ROOT:كتكت	ROOT:كتكت	مكرّر رباعي
+E18581	فسيفساء	mosaic.n.01	ROOT	فسفس	ADJ2_AGREED	ROOT:فسفس	ROOT:فسفس	مكرّر رباعي؛ اللسان ذكره في فسس
+E18584	تنورة	full_skirt.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	تنّورة ليست في المعاجم
+E18686	طرطاشي	splashy.a.01	ROOT	طرطش	ADJ2_AGREED	ROOT:طرطش	ROOT:طرطش	مكرّر رباعي NOT_IN_BANK
+E18715	دربة	whitlow_grass.n.01	UNSURE		OWNER_DELEGATED_CLAUDE	UNSURE:	LOAN:	الدربة في المعاجم العادة، ولا شاهد للنبات
+E18803	طهيوج	grouse.n.01	ROOT	طهج	ADJ2_AGREED	ROOT:طهج	ROOT:طهج	اللسان (طهج): طيهوج طائر، ولا أحسبه عربيا NOT_IN_BANK
+E18814	بستنة	gardening.n.01	ROOT	بست	ADJ2_AGREED	ROOT:بست	ROOT:بست	اللسان والقاموس (بست): البستان
+E18851	راتنج	acaroid_resin.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	راتنج ليس في المعاجم
+E18859	إيوني	ionic.a.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	منسوب إلى أيونيا (علم)
+E18907	تموز	july.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم شهر لا رأس مادة له
+E18954	نانكين	nankeen.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم قماش
+E18976	كاتاوبا	catawba.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم شعب
+E19005	آذار	march.n.01	PROPER		OWNER_DELEGATED_CLAUDE	ROOT:ءذر	PROPER:	R6: آذار اسم شهر روميّ
+E19070	بستانياً	horticulturally.r.01	ROOT	بست	ADJ2_AGREED	ROOT:بست	ROOT:بست	القاموس (بست): البستان
+E19091	سرطنة	sucker.n.02	ROOT	سرط	ADJ2_AGREED	ROOT:سرط	ROOT:سرط	من السرطان؛ المعنى في المصدر غامض
+E19092	أمبير	ampere.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	وحدة قياس
+E19131	مورون	moron.n.02	PROPER		ADJ2_AGREED	PROPER:	PROPER:	علم مدينة
+E19192	بستان	apple_orchard.n.01	ROOT	بست	ADJ2_AGREED	ROOT:بست	ROOT:بست	اللسان والقاموس (بست): البستان
+E19206	بالتأكيد	all_right.r.02	ROOT	ءكد	ADJ2_AGREED	ROOT:ءكد	ROOT:ءكد	بالهمز كما ورد
+E19237	أبيوني	nazarene.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم طائفة
+E19251	مُؤَكَّد	certain.a.03	ROOT	ءكد	ADJ2_AGREED	ROOT:ءكد	ROOT:ءكد	بالهمز كما ورد
+E19256	يوتون	jotun.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جنس لعمالقة
+E19306	ستينغر	stinger.n.03	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم منظومة سلاح
+E19332	هلفيتيكا	sans_serif.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم خط
+E19339	أيلول	september.n.01	PROPER		OWNER_DELEGATED_CLAUDE	ROOT:ءيل	PROPER:	R6: أيلول «شهر من شهور الروم» (اللسان)
+E19350	بندراغون	pendragon.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	لقب عام
+E19404	أوفريت	ovrette.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري
+E19432	طبرزية	taboret.n.01	LOAN		ADJ2_AGREED	LOAN:	LOAN:	طبرزذ في المعاجم السكر، يخالف المعنى
+E19444	شوح	abies.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	شوح ليس في المعاجم
+E19481	بينما	even_as.r.01	ROOT	بين	ADJ2_AGREED	ROOT:بين	ROOT:بين	بين+ما، وبين ظرف اسمي
+E19483	مكدام	macadam.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم جنس
+E19523	ألماس	diamond.n.01	ROOT	موس	ADJ2_AGREED	ROOT:موس	ROOT:موس	القاموس (موس): والماس حجر متقوم
+E19524	(حاسوبياً)	finger.v.03	ROOT	حسب	ADJ2_AGREED	ROOT:حسب	ROOT:حسب	حاسوب من حسب
+E19550	بالبريغان	balbriggan.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم قماش
+E19673		out_of_the_way.r.06	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الكلمة فارغة والعبارة مضطربة
+E19717		on_the_spur_of_the_moment.r.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	الكلمة فارغة والعبارة مضطربة
+E19754	ثورن	thorn.n.03	UNSURE		OWNER_DELEGATED_CLAUDE	LOAN:	UNSURE:	R8: اسم حرف
+E19769	طنجرة	pressure_cooker.n.01	ROOT	طنجر	ADJ2_AGREED	ROOT:طنجر	ROOT:طنجر	القاموس (طنجر): الطنجير معرّب NOT_IN_BANK
+E19785	باناسيا	panacea.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم إلهة
+E19832	ختمية	checkerbloom.n.01	ROOT	خطم	ADJ2_AGREED	ROOT:خطم	ROOT:خطم	الختمية لغة في الخطمية؛ اللسان (خطم)
+E19910	بنشبك	pinchbeck.n.01	LOAN		ADJ2_NO_ROOT	LOAN:	PROPER:	اسم سبيكة
+E19912	تينوريتيك	tenoretic.n.01	PROPER		ADJ2_AGREED	PROPER:	PROPER:	اسم تجاري لدواء
+E19913	أشرفية	coreopsis.n.01	UNSURE		ADJ2_AGREED	UNSURE:	UNSURE:	أشرفية اسم نبات لا يعرف في المعاجم

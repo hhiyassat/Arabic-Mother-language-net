@@ -1,0 +1,1342 @@
+synset	root_source_word	roots_before	roots_after	basis3
+abator.n.01	مُزِيل	زيل	زول	ADJ2
+alchemist.n.01	خيميائي	خيم		ADJ2_NO_ROOT_LOAN
+ali.n.02	علي	عل	علو	ADJ2
+ali_baba.n.01	علي	عل	علو	ADJ2
+aryan.n.01	آري	آر		ADJ2_NO_ROOT_PROPER
+bahai.n.01	بهائي	بهء	بهو	ADJ2
+bahraini.n.01	بحريني	بحن	بحر	ADJ2
+barker.n.01	منادٍ	نءد	ندي	ADJ2
+basil.n.02	باسيليوس	بءس		ADJ2_NO_ROOT_PROPER
+basileus.n.01	باسيليوس	بءس		ADJ2_NO_ROOT_PROPER
+bishop.n.01	أسقف	أسف	سقف	ADJ2
+bragger.n.01	متباهٍ	بوه	بهو	ADJ2
+caller.n.05	منادٍ	نءد	ندي	ADJ2
+carioca.n.01	كاريوكا	كار		ADJ2_NO_ROOT_PROPER
+catawba.n.01	كاتاوبا	كيت		ADJ2_NO_ROOT_PROPER
+chatterer.n.01	ثرثار	ثرر	ثرثر	RULE_R1
+chauvinist.n.01	شوفيني	شفن		ADJ2_NO_ROOT_PROPER
+chauvinist.n.02	شوفيني	شفن		ADJ2_NO_ROOT_PROPER
+chela.n.01	تشيلا	شيل		ADJ2_NO_ROOT_LOAN
+chimera.n.01	خيمر	خمر		ADJ2_NO_ROOT_PROPER
+chinook.n.02	شينوك	شوك		ADJ2_NO_ROOT_PROPER
+colored_person.n.01		شخص		ADJ2_NO_ROOT_UNSURE
+conservative_jew.n.01	يهودي	هود		ADJ2_NO_ROOT_PROPER
+constitutionalist.n.01	دستوري	دسر	دستر	ADJ2
+consul.n.01	قنصل	قصل		ADJ2_NO_ROOT_LOAN
+cooper.n.04	براملي	رمل		ADJ2_NO_ROOT_LOAN
+cyclops.n.01	سايكلوب	سوي		ADJ2_NO_ROOT_LOAN
+czarina.n.01	قيصرة	قصر		ADJ2_NO_ROOT_PROPER
+dalai_lama.n.01	الدالاي	دءل		ADJ2_NO_ROOT_PROPER
+diocesan.n.01	أسقف	أسف	سقف	ADJ2
+eavesdropper.n.01	متصنت	صنو	نصت	ADJ2
+eparch.n.01	أسقف	أسف	سقف	ADJ2
+euryale.n.01	يوريالي	وري		ADJ2_NO_ROOT_PROPER
+fabian.n.01	فابي	ءبي		ADJ2_NO_ROOT_PROPER
+flibbertigibbet.n.01	ثرثارة	ثرر	ثرثر	RULE_R1
+gasbag.n.01	ثرثار	ثرر	ثرثر	RULE_R1
+gitano.n.01	غجري	جري		ADJ2_NO_ROOT_PROPER
+gossip.n.03	ثرثار	ثرر	ثرثر	RULE_R1
+gypsy.n.02	غجري	جري		ADJ2_NO_ROOT_PROPER
+hitler.n.01	الفوهرر	فهر		ADJ2_NO_ROOT_PROPER
+hummer.n.01	همهم	همم	همهم	RULE_R1
+hymen.n.01	هيمين	هيم		ADJ2_NO_ROOT_PROPER
+jotun.n.01	يوتون	يتن		ADJ2_NO_ROOT_LOAN
+loudmouth.n.01	ثرثار	ثرر	ثرثر	RULE_R1
+male_chauvinist.n.01	شوفيني	شفن		ADJ2_NO_ROOT_PROPER
+midwife.n.01	داية	دأى	دوي	ADJ2
+mikado.n.01	تينو	تين		ADJ2_NO_ROOT_LOAN
+motormouth.n.01	ثرثار	ثرر	ثرثر	RULE_R1
+muggee.n.01	ضَحِيَّة	ضحح	ضحو	ADJ2
+mussolini.n.01	الدوتشي	دوش		ADJ2_NO_ROOT_PROPER
+mutterer.n.01	متمتم	تمم	تمتم	RULE_R1
+myrmidon.n.02	ميرميدون	مير		ADJ2_NO_ROOT_PROPER
+nazarene.n.01	أبيوني	ءبن		ADJ2_NO_ROOT_PROPER
+new_englander.n.01	يانكي	ءنك		ADJ2_NO_ROOT_PROPER
+orthodox_jew.n.01	يهودي	هود		ADJ2_NO_ROOT_PROPER
+palatine.n.01	بللاتيني	بلل		ADJ2_NO_ROOT_LOAN
+panacea.n.01	باناسيا	بون		ADJ2_NO_ROOT_PROPER
+panchen_lama.n.01	بانشين	بوش		ADJ2_NO_ROOT_PROPER
+pederast.n.01	لوطي	لوط		ADJ2_NO_ROOT_PROPER
+pendragon.n.01	بندراغون	بند		ADJ2_NO_ROOT_LOAN
+piston.n.01	بيستون	بيت		ADJ2_NO_ROOT_PROPER
+polo.n.01	بولو	بول		ADJ2_NO_ROOT_PROPER
+popinjay.n.01	متباهٍ	بوه	بهو	ADJ2
+powderer.n.01	مُبَدِّر	بدر	بذر	ADJ2
+prattler.n.01	ثرثار	ثرر	ثرثر	RULE_R1
+pre-socratic.n.01	فيلسوف	فيل	فلسف	ADJ2
+prey.n.01	ضَحِيَّة	ضحح	ضحو	ADJ2
+proconsul.n.02	قنصل	قصل		ADJ2_NO_ROOT_LOAN
+python.n.02	بايثون	بوث		ADJ2_NO_ROOT_LOAN
+python.n.03	بايثون	بوث		ADJ2_NO_ROOT_LOAN
+reform_jew.n.01	يهودي	هود		ADJ2_NO_ROOT_PROPER
+salamander.n.02	سمندل	سمندل	سمدل	RULE_MAP_v8
+sexagenarian.n.01	ستيني	ستن	سدس	ADJ2
+shaker.n.02	شيكر	شكر		ADJ2_NO_ROOT_PROPER
+shaktist.n.01	شاكتي	شءت		ADJ2_NO_ROOT_PROPER
+sodomite.n.01	لوطي	لوط		ADJ2_NO_ROOT_PROPER
+steen.n.01	ستين	ستت	سدس	RULE_R2
+stein.n.02	شتاين	شين		ADJ2_NO_ROOT_PROPER
+subtracter.n.01	طاحر	طحر	طرح	ADJ2
+suffragan.n.01	أسقف	أسف	سقف	ADJ2
+tawney.n.01	تاوني	ءون		ADJ2_NO_ROOT_PROPER
+utopian.n.01	طُوباوِيّ	بءو		ADJ2_NO_ROOT_LOAN
+vaisya.n.01	فايشيا	فيش		ADJ2_NO_ROOT_LOAN
+wiggler.n.01	مُتَمَلْمِل	ملل	ململ	RULE_R1
+wordmonger.n.01	ثرثار	ثرر	ثرثر	RULE_R1
+yankee.n.03	يانكي	ءنك		ADJ2_NO_ROOT_PROPER
+yenta.n.01	ثرثارة	ثرر	ثرثر	RULE_R1
+africander.n.01	أفريكندر	ءفر		ADJ2_NO_ROOT_LOAN
+agrobacterium_tumefaciens.n.01	أجرعية	جرع		ADJ2_NO_ROOT_LOAN
+airedale.n.01	إيرديل	ءير		ADJ2_NO_ROOT_LOAN
+alpine_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+ambystomid.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+american_cockroach.n.01	صرصور	صرر	صرصر	RULE_R1
+american_lady_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+amethystine_python.n.01	بايثون	بوث		ADJ2_NO_ROOT_LOAN
+arboreal_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+argentine.n.01	أرجنتين	ءجن		ADJ2_NO_ROOT_LOAN
+arista.n.01	سفا	سف	سفو	ADJ2
+armored_catfish.n.01	سلور	سور		ADJ2_NO_ROOT_LOAN
+aurochs.n.02	الأرخص	رخص		ADJ2_NO_ROOT_LOAN
+australian_cockroach.n.01	صرصور	صرر	صرصر	RULE_R1
+babbler.n.02	ثرثار	ثرر	ثرثر	RULE_R1
+bee_eater.n.01	وروار	وءر	ورور	ADJ2
+belted_kingfisher.n.01	رفراف	رفف	رفرف	ADJ2
+black-billed_cuckoo.n.01	واقواق	وءق	وقوق	OWNER_DELEGATED
+blue_catfish.n.01	سلور	سور		ADJ2_NO_ROOT_LOAN
+blue_crab.n.02	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+brambling.n.01	شرشور	شرر	شرشر	RULE_R1
+brown_bullhead.n.01	سلور	سور		ADJ2_NO_ROOT_LOAN
+bullhead.n.02	سلور	سور		ADJ2_NO_ROOT_LOAN
+cactus_wren.n.01	نمنمة	نمم	نمنم	RULE_R1
+california_newt.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+carangid_fish.n.01	شيميات	شيم		OWNER_DELEGATED_NO_ROOT_LOAN
+carolina_wren.n.01	نمنمة	نمم	نمنم	RULE_R1
+catfish.n.03	سلور	سور		ADJ2_NO_ROOT_LOAN
+chaffinch.n.01	شرشور	شرر	شرشر	RULE_R1
+chain_pickerel.n.01	السلسلة	لسس	سلسل	RULE_R1
+channel_catfish.n.01	سلور	سور		ADJ2_NO_ROOT_LOAN
+charger.n.01	طلوق	طلق		OWNER_DELEGATED_NO_ROOT_UNSURE
+chick.n.01	كتكوت	كتت	كتكت	ADJ2
+citation.n.06	سايتيشن	سوي		ADJ2_NO_ROOT_PROPER
+climbing_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+cockroach.n.01	صرصور	صرر	صرصر	RULE_R1
+common_newt.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+common_starling.n.01	زرزور	زرر	زرزر	ADJ2
+cricket.n.01	جدجد	جدد	جدجد	RULE_R1
+cuckoo.n.02	وقواق	وقق	وقوق	RULE_R1
+cuculiform_bird.n.01	واقواقيات	وءق	وقوق	OWNER_DELEGATED
+donald_duck.n.01	بطوط	طوط	بطط	ADJ2
+dusky_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+eastern_red-backed_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+eft.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+english_lady_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+eurasian_kingfisher.n.01	رفراف	رفف	رفرف	ADJ2
+european_catfish.n.01	سلور	سور		ADJ2_NO_ROOT_LOAN
+european_cuckoo.n.01	واقواق	وءق	وقوق	OWNER_DELEGATED
+european_fire_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+european_house_cricket.n.01	صرصور	صرر	صرصر	RULE_R1
+european_spider_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+exmoor.n.02	إكسمور	كسم		ADJ2_NO_ROOT_LOAN
+field_cricket.n.01	صرصور	صرر	صرصر	RULE_R1
+flathead_catfish.n.01	سلور	سور		ADJ2_NO_ROOT_LOAN
+gallant_fox.n.01	جالانت	جول		ADJ2_NO_ROOT_PROPER
+garganey.n.01	شرشير	شرر	شرشر	ADJ2
+german_cockroach.n.01	صرصور	صرر	صرصر	RULE_R1
+giant_cockroach.n.01	صرصور	صرر	صرصر	RULE_R1
+giant_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+giant_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+gyrfalcon.n.01	سنقر	سقر		ADJ2_NO_ROOT_LOAN
+hack.n.06	كدش	كدش		OWNER_DELEGATED_NO_ROOT_UNSURE
+hackney.n.02	هاكني	هون		ADJ2_NO_ROOT_LOAN
+hellbender.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+horned_pout.n.01	سلور	سور		ADJ2_NO_ROOT_LOAN
+house_wren.n.01	نمنمة	نمم	نمنم	RULE_R1
+indian_python.n.01	بايثون	بوث		ADJ2_NO_ROOT_LOAN
+kingfisher.n.01	رفراف	رفف	رفرف	ADJ2
+labrador_retriever.n.01	لابرادور	لاب		ADJ2_NO_ROOT_LOAN
+leonberg.n.01	ليونبرغر	ليو		ADJ2_NO_ROOT_LOAN
+limestone_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+long-billed_marsh_wren.n.01	نمنمة	نمم	نمنم	RULE_R1
+lungless_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+marsh_wren.n.01	نمنمة	نمم	نمنم	RULE_R1
+mickey_mouse.n.01	ماوس	ءوس		ADJ2_NO_ROOT_PROPER
+mole_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+mormon_cricket.n.01	صرصور	صرر	صرصر	RULE_R1
+nestor.n.02	نستور	نتر		ADJ2_NO_ROOT_LOAN
+new_zealand_wren.n.01	نمنمة	نمم	نمنم	RULE_R1
+newfoundland.n.01	نيوفاوندلاند	نيو		ADJ2_NO_ROOT_LOAN
+newt.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+northern_pike.n.01	كراكي	كري		OWNER_DELEGATED_NO_ROOT_UNSURE
+olympic_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+operculum.n.01	غشاء	شيء	غشي	ADJ2
+oriental_cockroach.n.01	صرصور	صرر	صرصر	RULE_R1
+oyster_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+pacific_giant_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+pacific_newt.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+polynesian_tattler.n.01	ثرثارة	ثرر	ثرثر	RULE_R1
+pomeranian.n.01	بوميرانيان	بوم		ADJ2_NO_ROOT_LOAN
+python.n.01	بايثون	بوث		ADJ2_NO_ROOT_LOAN
+red_eft.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+reticulated_python.n.01	بايثون	بوث		ADJ2_NO_ROOT_LOAN
+rock_python.n.01	بايثون	بوث		ADJ2_NO_ROOT_LOAN
+rock_wren.n.01	نمنمة	نمم	نمنم	RULE_R1
+rock_wren.n.02	نمنمة	نمم	نمنم	RULE_R1
+rose-colored_starling.n.01	زرزور	زرر	زرزر	ADJ2
+rough-skinned_newt.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+sand_cricket.n.01	صرصور	صرر	صرصر	RULE_R1
+sea_catfish.n.01	سلور	سور		ADJ2_NO_ROOT_LOAN
+sedge_wren.n.01	نمنمة	نمم	نمنم	RULE_R1
+shasta_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+slender_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+snowy_tree_cricket.n.01	صرصور	صرر	صرصر	RULE_R1
+spotted_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+spotted_salamander.n.02	سمندل	سمندل	سمدل	RULE_MAP_v8
+starling.n.01	زرزور	زرر	زرزر	ADJ2
+striped_mullet.n.01	بوري	بور		ADJ2_NO_ROOT_LOAN
+tiger_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+tree_cricket.n.01	صرصور	صرر	صرصر	RULE_R1
+troglodytes.n.01	نمنمة	نمم	نمنم	RULE_R1
+vanellus.n.01	قطقاط	قطط	قطقط	RULE_R1
+venus.n.03	فينوس	نوس		ADJ2_NO_ROOT_LOAN
+web-toed_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+western_red-backed_salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+white_mullet.n.01	بوري	بور		ADJ2_NO_ROOT_LOAN
+winter_wren.n.01	نمنمة	نمم	نمنم	RULE_R1
+wood_warbler.n.02	نقشارة	نشر		ADJ2_NO_ROOT_UNSURE
+woolly_alder_aphid.n.01	النغت	نغي		ADJ2_NO_ROOT_UNSURE
+wren-tit.n.01	نمنمة	نمم	نمنم	RULE_R1
+wren.n.02	نمنمة	نمم	نمنم	RULE_R1
+basilar_membrane.n.01	غشاء	شيء	غشي	ADJ2
+cell_membrane.n.01	غشاء	شيء	غشي	ADJ2
+coccyx.n.01	عصعص	عصص	عصعص	RULE_R1
+fertilization_membrane.n.01	غشاء	شيء	غشي	ADJ2
+fetal_membrane.n.01	غشاء	شيء	غشي	ADJ2
+haw.n.02	غشاء	شيء	غشي	ADJ2
+hyaloid_membrane.n.01	غشاء	شيء	غشي	ADJ2
+hymen.n.02	غشاء	شيء	غشي	ADJ2
+imperforate_hymen.n.01	غشاء	شيء	غشي	ADJ2
+laryngopharynx.n.01	بلعوم	بلم	بلعم	ADJ2
+nasopharynx.n.01	بلعوم	بلم	بلعم	ADJ2
+oropharynx.n.01	بلعوم	بلم	بلعم	ADJ2
+quiff.n.01	قُنْبُزَة	قنب		ADJ2_NO_ROOT_UNSURE
+semipermeable_membrane.n.01	غشاء	شيء	غشي	ADJ2
+serous_membrane.n.01	غشاء	شيء	غشي	ADJ2
+synovial_membrane.n.01	غشاء	شيء	غشي	ADJ2
+vomer.n.01	ميكعة	ميع	وكع	ADJ2
+alaska_king_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+apricot.n.02	مشمش	مشش	مشمش	RULE_R1
+apricot_sauce.n.01	المشمش	مشش	مشمش	RULE_R1
+asparagus.n.02	هليون	هون	هلن	ADJ2
+beaujolais.n.01	بوجوليه	بوج		ADJ2_NO_ROOT_LOAN
+blanc.n.01	بلانك	بنك		ADJ2_NO_ROOT_LOAN
+blue_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+blueberry_yogurt.n.01	زبادي	زبد		OWNER_DELEGATED_NO_ROOT_LOAN
+bordelaise.n.01	بوردوليز	بور		ADJ2_NO_ROOT_LOAN
+bourguignon.n.01	بورغينيون	بور		ADJ2_NO_ROOT_LOAN
+bulgur.n.01	برغل	بغل		ADJ2_NO_ROOT_LOAN
+calvados.n.01	كالفادوس	دوس		ADJ2_NO_ROOT_LOAN
+caper_sauce.n.01	القبار	قبر		ADJ2_NO_ROOT_LOAN
+champagne.n.01	شامبانيا	شءم		ADJ2_NO_ROOT_LOAN
+champagne_cup.n.01	شامبانيا	شءم		ADJ2_NO_ROOT_LOAN
+chili_sauce.n.01	الفلفل	فلل	فلفل	RULE_R1
+chinook_salmon.n.01	تشينوك	شين		ADJ2_NO_ROOT_LOAN
+clove.n.04	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+crab.n.05	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+daiquiri.n.01	ديكيري	دير		ADJ2_NO_ROOT_LOAN
+danish.n.02	دانش	دوش		ADJ2_NO_ROOT_LOAN
+drambuie.n.01	درامبوي	رءم		ADJ2_NO_ROOT_PROPER
+dried_apricot.n.01	مشمش	مشش	مشمش	RULE_R1
+dubonnet.n.01	دوبونيت	دوب		ADJ2_NO_ROOT_PROPER
+dungeness_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+edam.n.01	إيدام	ءدم		ADJ2_NO_ROOT_LOAN
+falafel.n.01	فلافل	فلل		OWNER_DELEGATED_NO_ROOT_LOAN
+fennel.n.02	بسباس	بسس	بسبس	RULE_R1
+finger_food.n.01	نقرشة	نقش	نقرش	ADJ2
+frank.n.02	نقانق	نقق		ADJ2_NO_ROOT_LOAN
+frozen_yogurt.n.01	زبادي	زبد		OWNER_DELEGATED_NO_ROOT_LOAN
+grand_marnier.n.01	غراند	غرد		ADJ2_NO_ROOT_PROPER
+grouse.n.01	طهيوج	هوج	طهج	ADJ2
+hotdog.n.02	نقانق	نقق		ADJ2_NO_ROOT_LOAN
+japanese_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+limburger.n.01	ليمبرغر	ليم		ADJ2_NO_ROOT_LOAN
+mace.n.03	بسباسة	بسس	بسبس	RULE_R1
+mullet.n.01	بوري	بور		ADJ2_NO_ROOT_LOAN
+nada_daiquiri.n.01	ديكيري	دير		ADJ2_NO_ROOT_LOAN
+oreo.n.01	أوريو	ءرو		ADJ2_NO_ROOT_PROPER
+pavlova.n.02	بافلوفا	ءفل		ADJ2_NO_ROOT_LOAN
+pepper_sauce.n.01	الفلفل	فلل	فلفل	RULE_R1
+pickerel.n.01	كراكي	كري		OWNER_DELEGATED_NO_ROOT_UNSURE
+pigs_in_blankets.n.01	نقانق	نقق		ADJ2_NO_ROOT_LOAN
+pilsner.n.01	بلسنر	بلس		ADJ2_NO_ROOT_LOAN
+polony.n.01	بولوني	بون		ADJ2_NO_ROOT_LOAN
+popcorn.n.02	فشار	فءر		ADJ2_NO_ROOT_UNSURE
+port.n.02	بورت	برت		ADJ2_NO_ROOT_LOAN
+sally_lunn.n.01	سالي	سءل		ADJ2_NO_ROOT_LOAN
+samosa.n.01	سمبوسة	سبس		ADJ2_NO_ROOT_LOAN
+saskatoon.n.02	ساسكاتون	سوس		ADJ2_NO_ROOT_LOAN
+sesame_seed.n.01	سمسم	سمم	سمسم	RULE_R1
+soft-shell_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+sour_gourd.n.03	أدنسونية	دنس		ADJ2_NO_ROOT_LOAN
+spinach.n.02	سبانخ	سنخ		ADJ2_NO_ROOT_LOAN
+stone_crab.n.01	سلطعون	سطع		OWNER_DELEGATED_NO_ROOT_LOAN
+strawberry_daiquiri.n.01	ديكيري	دير		ADJ2_NO_ROOT_LOAN
+tabbouleh.n.01	تبولة	بول	تبل	ADJ2
+tarragon.n.02	طرخون	طرخ	طرخن	ADJ2
+tartare_sauce.n.01	الترتار	ترر		ADJ2_NO_ROOT_LOAN
+vienna_sausage.n.01	نقانق	نقق		ADJ2_NO_ROOT_LOAN
+wild_spinach.n.03	سبانخ	سنخ		ADJ2_NO_ROOT_LOAN
+ziti.n.01	زيتي	زيت		OWNER_DELEGATED_NO_ROOT_LOAN
+abies.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+agrimonia.n.01	غافث	غوث		ADJ2_NO_ROOT_UNSURE
+alpine_bearberry.n.01	قطلب	قلب		OWNER_DELEGATED_NO_ROOT_LOAN
+alpine_fir.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+amabilis_fir.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+american_elm.n.01	دردار	درر	دردر	RULE_R1
+american_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+american_white_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+apricot.n.01	مشمش	مشش	مشمش	RULE_R1
+arbutus.n.01	قطلب	قلب		OWNER_DELEGATED_NO_ROOT_LOAN
+arethusa.n.01	أريثوسا	ريث		ADJ2_NO_ROOT_LOAN
+arizona_white_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+arum.n.01	نشا	نش	نشو	ADJ2
+ash.n.03	دردار	درر	دردر	RULE_R1
+australian_heath.n.01	خلنج	خلج	خلنج	ADJ2
+bald_cypress.n.02		شجر		ADJ2_NO_ROOT_UNSURE
+basket_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+bath_asparagus.n.01	هليون	هون	هلن	ADJ2
+beach_heather.n.01	خلنج	خلج	خلنج	ADJ2
+bear_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+bearberry.n.02	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+beard.n.02	سفا	سف	سفو	ADJ2
+beauty_bush.n.01	كولكويتزيا	كول		ADJ2_NO_ROOT_LOAN
+bedstraw.n.01	جويسئة	جسء		ADJ2_NO_ROOT_UNSURE
+bell_heather.n.02	خلنج	خلج	خلنج	ADJ2
+birthwort.n.01	زراوند	زرا	زرد	ADJ2
+black-eyed_susan.n.01	سوزان	زون		ADJ2_NO_ROOT_LOAN
+black_horehound.n.01	بلوطة	بلط		ADJ2_NO_ROOT_LOAN
+blackjack_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+bladderwort.n.01	حامول	حمل		ADJ2_NO_ROOT_UNSURE
+blue_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+bog_rose.n.01	أريثوسا	ريث		ADJ2_NO_ROOT_LOAN
+boston_ivy.n.01	لبلاب	لبب	لبلب	RULE_R1
+brazilian_pepper_tree.n.01		شجر		ADJ2_NO_ROOT_UNSURE
+bur_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+bush_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+button_pink.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+california_poppy.n.01	إيشولتسية	شول		ADJ2_NO_ROOT_LOAN
+california_white_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+canyon_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+carnation.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+caryophyllidae.n.01	قرنفليات	قرنفل	قرفل	RULE_MAP_v8
+cedar_elm.n.01	دردار	درر	دردر	RULE_R1
+celandine_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+chain_fern.n.01	السلسلة	لسس	سلسل	RULE_R1
+checkerbloom.n.01	ختمية	ختم	خطم	ADJ2
+cheddar_pink.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+china_pink.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+chinese_elm.n.02	دردار	درر	دردر	RULE_R1
+chinese_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+chinquapin_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+cliff_rose.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+clove.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+clove.n.02	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+clustered_poppy_mallow.n.01	ختمية	ختم	خطم	ADJ2
+coast_live_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+cocklebur.n.01	شبيط	شيط		ADJ2_NO_ROOT_UNSURE
+colorado_river_hemp.n.01	سيسبان	سيب	سبسب	ADJ2
+common_apricot.n.01	مشمش	مشش	مشمش	RULE_R1
+common_fennel.n.01	بسباس	بسس	بسبس	RULE_R1
+common_heath.n.01	خلنج	خلج	خلنج	ADJ2
+common_heath.n.02	خلنج	خلج	خلنج	ADJ2
+common_horehound.n.01	فراسيون	فري	فرسن	ADJ2
+common_hyacinth.n.01	صفير	صفر		ADJ2_NO_ROOT_UNSURE
+common_winterberry_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+connemara_heath.n.01	خلنج	خلج	خلنج	ADJ2
+coreopsis.n.01	أشرفية	ءرف		ADJ2_NO_ROOT_UNSURE
+corn_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+cornish_heath.n.01	خلنج	خلج	خلنج	ADJ2
+corydalis.n.01	بظيظة	بيظ		ADJ2_NO_ROOT_UNSURE
+cotoneaster_dammeri.n.01	دامر	دمر		ADJ2_NO_ROOT_LOAN
+cottage_pink.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+cross-leaved_heath.n.01	خلنج	خلج	خلنج	ADJ2
+deciduous_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+dodder.n.01	حامول	حمل		ADJ2_NO_ROOT_UNSURE
+douglas_fir.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+dutch_elm.n.01	دردار	درر	دردر	RULE_R1
+dwarf_chinkapin_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+elder.n.02	خمان	خمم		OWNER_DELEGATED_NO_ROOT_UNSURE
+elm.n.01	دردار	درر	دردر	RULE_R1
+engelmannia.n.01	إنجلمانسيا	نجل		ADJ2_NO_ROOT_LOAN
+english_elm.n.01	دردار	درر	دردر	RULE_R1
+erica.n.01	خلنج	خلج	خلنج	ADJ2
+european_silver_fir.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+false_heather.n.01	خلنج	خلج	خلنج	ADJ2
+fennel.n.01	بسباس	بسس	بسبس	RULE_R1
+fir.n.02	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+florist's_gloxinia.n.01	غلوكسينيا	لوك		ADJ2_NO_ROOT_LOAN
+forsythia.n.01	فورسيثيا	فور		ADJ2_NO_ROOT_LOAN
+fraser_fir.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+fringed_pink.n.02	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+fringed_poppy_mallow.n.01	ختمية	ختم	خطم	ADJ2
+genus_arethusa.n.01	أريثوسا	ريث		ADJ2_NO_ROOT_LOAN
+genus_asparagus.n.01	هليون	هون	هلن	ADJ2
+genus_convolvulus.n.01	لبلاب	لبب	لبلب	RULE_R1
+genus_coreopsis.n.01	اشرفية	ءرف		ADJ2_NO_ROOT_UNSURE
+genus_forsythia.n.01	فورسيثيا	فور		ADJ2_NO_ROOT_LOAN
+genus_pandanus.n.01	كاذي	كاذ	كوذ	ADJ2
+genus_scilla.n.01	عنصل	عنصل	عصل	RULE_MAP_v8
+genus_scorzonera.n.01	دبح	دبح		ADJ2_NO_ROOT_UNSURE
+genus_sequoia.n.01	سيكويا	سوي		ADJ2_NO_ROOT_LOAN
+geogia_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+german_ivy.n.01	لبلاب	لبب	لبلب	RULE_R1
+giant_sequoia.n.01	سيكويا	سوي		ADJ2_NO_ROOT_LOAN
+good-king-henry.n.01	سبانخ	سنخ		ADJ2_NO_ROOT_LOAN
+gumweed.n.01	غرنديليا	غرن		ADJ2_NO_ROOT_LOAN
+heath.n.01	خلنج	خلج	خلنج	ADJ2
+heather.n.01	خلنج	خلج	خلنج	ADJ2
+hedge_bindweed.n.01	لبلاب	لبب	لبلب	RULE_R1
+hedge_violet.n.01	بنفسج	بنف	بنفسج	ADJ2
+hemp_agrimony.n.01	غافث	غوث		ADJ2_NO_ROOT_UNSURE
+hollyhock.n.02	ختمية	ختم	خطم	ADJ2
+holm_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+horehound.n.01	فراسيون	فري	فرسن	ADJ2
+horn_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+hornwort.n.01	شمبلان	شبل		ADJ2_NO_ROOT_UNSURE
+huntingdon_elm.n.01	دردار	درر	دردر	RULE_R1
+hyacinth_bean.n.01	لبلاب	لبب	لبلب	RULE_R1
+iceland_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+iceland_poppy.n.02	خشخاش	خشش	خشخش	RULE_R1
+inkberry.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+interior_live_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+ivy.n.01	لبلاب	لبب	لبلب	RULE_R1
+japanese_apricot.n.01	مشمش	مشش	مشمش	RULE_R1
+japanese_pink.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+jersey_elm.n.01	دردار	درر	دردر	RULE_R1
+joe-pye_weed.n.01	غافث	غوث		ADJ2_NO_ROOT_UNSURE
+joe-pye_weed.n.02	غافث	غوث		ADJ2_NO_ROOT_UNSURE
+juneberry_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+largeleaf_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+love_vine.n.01	حامول	حمل		ADJ2_NO_ROOT_UNSURE
+low_gallberry_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+lowland_fir.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+macowanites_americanus.n.01	أمريكانوس	ءمر		ADJ2_NO_ROOT_LOAN
+maiden_pink.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+marsh_mallow.n.01	ختمية	ختم	خطم	ADJ2
+marsh_pink.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+metasequoia.n.01	سيكويا	سوي		ADJ2_NO_ROOT_LOAN
+milk_thistle.n.02	خرفيش	خرش		ADJ2_NO_ROOT_UNSURE
+monkshood.n.01	نابلس	نبس		ADJ2_NO_ROOT_LOAN
+montezuma_cypress.n.01		شجر		ADJ2_NO_ROOT_UNSURE
+mountain_heath.n.01	خلنج	خلج	خلنج	ADJ2
+mountain_hollyhock.n.01	ختمية	ختم	خطم	ADJ2
+mullein_pink.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+myrtle_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+new_york_fern.n.01	سرخس	سخس		ADJ2_NO_ROOT_LOAN
+new_zealand_spinach.n.01	سبانخ	سنخ		ADJ2_NO_ROOT_LOAN
+northern_bedstraw.n.01	جويسئة	جسء		ADJ2_NO_ROOT_UNSURE
+oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+oregon_white_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+oriental_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+pine_hyacinth.n.01	صفير	صفر		ADJ2_NO_ROOT_UNSURE
+pink.n.02	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+poison_ivy.n.02	لبلاب	لبب	لبلب	RULE_R1
+pond_cypress.n.01		شجر		ADJ2_NO_ROOT_UNSURE
+port_jackson_heath.n.01	خلنج	خلج	خلنج	ADJ2
+prairie_mallow.n.01	ختمية	ختم	خطم	ADJ2
+prickly_poppy.n.02	خشخاش	خشش	خشخش	RULE_R1
+prince's-feather.n.01	بطباط	بطط		OWNER_DELEGATED_NO_ROOT_LOAN
+prince-of-wales'-heath.n.01	خلنج	خلج	خلنج	ADJ2
+purple_apricot.n.01	مشمش	مشش	مشمش	RULE_R1
+purple_heather.n.01	خلنج	خلج	خلنج	ADJ2
+purple_poppy_mallow.n.01	ختمية	ختم	خطم	ADJ2
+rangpur.n.01	رانجبور	رون		ADJ2_NO_ROOT_LOAN
+red_goosefoot.n.01	سبانخ	سنخ		ADJ2_NO_ROOT_LOAN
+rock_elm.n.01	دردار	درر	دردر	RULE_R1
+rock_pink.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+rose_mallow.n.01	ختمية	ختم	خطم	ADJ2
+rose_mallow.n.02	ختمية	ختم	خطم	ADJ2
+rose_of_sharon.n.01	ختمية	ختم	خطم	ADJ2
+salt_marsh_mallow.n.01	ختمية	ختم	خطم	ADJ2
+santa_lucia_fir.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+scarlet_wisteria_tree.n.01	سيسبان	سيب	سبسب	ADJ2
+scleroderma_citrinum.n.01	ليمونية	لون	ليم	ADJ2
+seed_fern.n.01	بذي	بذذ	بذر	ADJ2
+september_elm.n.01	دردار	درر	دردر	RULE_R1
+sesame.n.01	جلجلان	جلل	جلجل	RULE_R1
+sesbania.n.01	سيسبان	سيب	سبسب	ADJ2
+shumard_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+siberian_elm.n.01	دردار	درر	دردر	RULE_R1
+silver_fir.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+sissoo.n.01	سرسوع	سرع		OWNER_DELEGATED_NO_ROOT_LOAN
+sitka_willow.n.01	صفصاف	صفف	صفصف	RULE_R1
+slippery_elm.n.01	دردار	درر	دردر	RULE_R1
+smooth-leaved_elm.n.01	دردار	درر	دردر	RULE_R1
+smooth_winterberry_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+southern_live_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+southern_red_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+spanish_heath.n.01	خلنج	خلج	خلنج	ADJ2
+spike_heath.n.01	خلنج	خلج	خلنج	ADJ2
+spinach.n.01	سبانخ	سنخ		ADJ2_NO_ROOT_LOAN
+spring_squill.n.01	عنصل	عنصل	عصل	RULE_MAP_v8
+sucker.n.02	سرطنة	سطن	سرط	ADJ2
+swamp_chestnut_oak.n.01	سنديان	سني		ADJ2_NO_ROOT_LOAN
+sweet_william.n.01	قرنفل	قرنفل	قرفل	RULE_MAP_v8
+sweet_woodruff.n.01	جويسئة	جسء		ADJ2_NO_ROOT_UNSURE
+tall_gallberry_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+tarragon.n.01	طرخون	طرخ	طرخن	ADJ2
+tree_heath.n.01	خلنج	خلج	خلنج	ADJ2
+tree_heath.n.02	خلنج	خلج	خلنج	ADJ2
+violet.n.01	بنفسج	بنف	بنفسج	ADJ2
+virginia_chain_fern.n.01	السلسلة	لسس	سلسل	RULE_R1
+water_elm.n.01	دردار	درر	دردر	RULE_R1
+water_horehound.n.01	فراسيون	فري	فرسن	ADJ2
+welsh_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+western_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+western_redbud.n.01	زمزريق	مزر		ADJ2_NO_ROOT_UNSURE
+white_fir.n.01	شوح	شيح		ADJ2_NO_ROOT_UNSURE
+white_heather.n.01	خلنج	خلج	خلنج	ADJ2
+white_snakeroot.n.01	غافث	غوث		ADJ2_NO_ROOT_UNSURE
+whitlow_grass.n.01	دربة	درب		OWNER_DELEGATED_NO_ROOT_UNSURE
+wild_hollyhock.n.02	ختمية	ختم	خطم	ADJ2
+wild_licorice.n.01	جويسئة	جسء		ADJ2_NO_ROOT_UNSURE
+wild_madder.n.01	جويسئة	جسء		ADJ2_NO_ROOT_UNSURE
+wind_poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+winged_elm.n.01	دردار	درر	دردر	RULE_R1
+winter_heath.n.01	خلنج	خلج	خلنج	ADJ2
+witch_elm.n.01	دردار	درر	دردر	RULE_R1
+woodruff.n.02	جويسئة	جسء		ADJ2_NO_ROOT_UNSURE
+yaupon_holly.n.01	بهشية	بهش		ADJ2_NO_ROOT_UNSURE
+yellow_bedstraw.n.01	جويسئة	جسء		ADJ2_NO_ROOT_UNSURE
+aglet.n.02	قيط	قوط		ADJ2_NO_ROOT_UNSURE
+airbus.n.01	إيرباص	ءير		ADJ2_NO_ROOT_LOAN
+alembic.n.01	إنبيق	ءبق		ADJ2_NO_ROOT_LOAN
+anklet.n.03	خلخال	خلل	خلخل	RULE_R1
+apple_orchard.n.01	بستان	بسس	بست	ADJ2
+balbriggan.n.01	بالبريغان	بيغ		ADJ2_NO_ROOT_LOAN
+ballast.n.01	صابورة	صبر		ADJ2_NO_ROOT_LOAN
+barrel.n.01	سبطانة	سطن	سبط	ADJ2
+bastille.n.02	باستيل	بءس		ADJ2_NO_ROOT_LOAN
+beanie.n.01	طاقية	طوق		ADJ2_NO_ROOT_LOAN
+bedlam.n.02	مارستان	ءرس	مرس	ADJ2
+bell_gable.n.01	جملون	جمل		OWNER_DELEGATED_NO_ROOT_UNSURE
+bib.n.01	مريلة	ميل		ADJ2_NO_ROOT_UNSURE
+bib.n.02	مريلة	ميل		ADJ2_NO_ROOT_UNSURE
+bight.n.04	انحناء	أنح	حنو	ADJ2
+bird_shot.n.01	خردق	خرق		ADJ2_NO_ROOT_LOAN
+blister_pack.n.01	عبوة	بوه	عبء	ADJ2
+bolo.n.02	بولو	بول		ADJ2_NO_ROOT_PROPER
+bone-ash_cup.n.01	بوتقة	بوق		ADJ2_NO_ROOT_LOAN
+bowl.n.03	زبدية	زبد		ADJ2_NO_ROOT_UNSURE
+breakfast_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+butcher_board.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+capitol.n.01	الكابيتول	كءب		ADJ2_NO_ROOT_LOAN
+capitol.n.02	الكابيتول	كءب		ADJ2_NO_ROOT_LOAN
+card_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+card_table.n.02	طاولة	طول		ADJ2_NO_ROOT_LOAN
+catacomb.n.01	سرداب	سرب	سردب	ADJ2
+catheter.n.01	قسطرة	قطر		ADJ2_NO_ROOT_LOAN
+cellar.n.03	سرداب	سرب	سردب	ADJ2
+cheval-de-frise.n.01	متاريس	ءرس	ترس	ADJ2
+ciprofloxacin.n.01	سيبرو	سرو		ADJ2_NO_ROOT_PROPER
+clopidogrel_bisulfate.n.01	بلافيكس	ليف		ADJ2_NO_ROOT_PROPER
+coffee_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+conference_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+corbie_gable.n.01	جملون	جمل		OWNER_DELEGATED_NO_ROOT_UNSURE
+cotter.n.03	تيلة	تول		ADJ2_NO_ROOT_UNSURE
+coude_telescope.n.01	كوديه	كده		ADJ2_NO_ROOT_LOAN
+crucible.n.01	بوتقة	بوق		ADJ2_NO_ROOT_LOAN
+crypt.n.01	سرداب	سرب	سردب	ADJ2
+cullis.n.01	ميزاب	زءب	وزب	ADJ2
+davenport.n.03	دافنبورت	دوف		ADJ2_NO_ROOT_LOAN
+diaper.n.01	حفاضة	حفض	حفظ	ADJ2
+diaphragm.n.01	غشاء	شيء	غشي	ADJ2
+diaphragm.n.03	فرزجة	فرج		ADJ2_NO_ROOT_LOAN
+digoxin.n.01	لانوكسين	لون		ADJ2_NO_ROOT_PROPER
+dining-room_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+dining_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+drafting_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+drip.n.03	ميزاب	زءب	وزب	ADJ2
+dripstone.n.02	ميزاب	زءب	وزب	ADJ2
+drop-leaf_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+float.n.05	مِملَج	ملج		ADJ2_NO_ROOT_UNSURE
+fluid_flywheel.n.01	حدافة	حيف	حذف	ADJ2
+flywheel.n.01	حدافة	حيف	حذف	ADJ2
+fountain.n.01	نافورة	نفر		ADJ2_NO_ROOT_UNSURE
+fountain.n.03	نافورة	نفر		ADJ2_NO_ROOT_UNSURE
+full_skirt.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+gable.n.01	جملون	جمل		OWNER_DELEGATED_NO_ROOT_UNSURE
+gaming_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+gateleg_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+gathered_skirt.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+grass_skirt.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+grove.n.02	بستان	بسس	بست	ADJ2
+gutter.n.01	ميزاب	زءب	وزب	ADJ2
+hackney.n.01	هاكني	هون		ADJ2_NO_ROOT_LOAN
+handwheel.n.01	طارة	طور		OWNER_DELEGATED_NO_ROOT_LOAN
+herm.n.01	هرمس	همس		ADJ2_NO_ROOT_LOAN
+hobble_skirt.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+hookah.n.01	أرجيلة	رجل		ADJ2_NO_ROOT_LOAN
+improvised_explosive_device.n.01	عبوة	بوه	عبء	ADJ2
+ipod.n.01	آيبود	ءبد		ADJ2_NO_ROOT_PROPER
+kitchen_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+kremlin.n.02	كرملين	كمل		ADJ2_NO_ROOT_LOAN
+lab_bench.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+lemon_grove.n.01	بستان	بسس	بست	ADJ2
+levi's.n.01	ليفايز	ليف		ADJ2_NO_ROOT_PROPER
+luger.n.01	لوغر	وغر		ADJ2_NO_ROOT_PROPER
+man.n.10	بيدق	بدق	بذق	RULE_MAP_v8
+marble.n.02	بلية	بلل		ADJ2_NO_ROOT_LOAN
+market_garden.n.01	بستان	بسس	بست	ADJ2
+maxi.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+mefenamic_acid.n.01	بونستيل	بون		ADJ2_NO_ROOT_PROPER
+membrane.n.01	غشاء	شيء	غشي	ADJ2
+miniskirt.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+mosaic.n.01	فسيفساء	سيف	فسفس	ADJ2
+mosaic.n.05	فسيفساء	سيف	فسفس	ADJ2
+mosaic.n.06	فسيفساء	سيف	فسفس	ADJ2
+muffle.n.01	غطائي	غطو	غطي	OWNER_DELEGATED
+nankeen.n.01	نانكين	نوك		ADJ2_NO_ROOT_LOAN
+nitrospan.n.02	نيتروسبان	نيت		ADJ2_NO_ROOT_PROPER
+oilstone.n.01	زيتي	زيت		OWNER_DELEGATED_NO_ROOT_LOAN
+operating_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+orange_grove.n.01	بستان	بسس	بست	ADJ2
+order_book.n.02	دفتر	دفر	دفتر	ADJ2
+overskirt.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+ovral.n.01	أوفرال	وفر		ADJ2_NO_ROOT_PROPER
+ovrette.n.01	أوفريت	وفر		ADJ2_NO_ROOT_PROPER
+pallet.n.02	طبلية	طبل		ADJ2_NO_ROOT_UNSURE
+parsons_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+pawn.n.03	بيدق	بدق	بذق	RULE_MAP_v8
+peach_orchard.n.01	بستان	بسس	بست	ADJ2
+pedestal_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+peplum.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+petticoat.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+pharmacopoeia.n.01	دستور	دسر	دستر	ADJ2
+phenazopyridine.n.01	بيريديوم	ريد		ADJ2_NO_ROOT_PROPER
+pier_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+plane_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+pool_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+porringer.n.01	زبدية	زبد		ADJ2_NO_ROOT_UNSURE
+porthole.n.01	كوة	كوو	كوي	OWNER_DELEGATED
+pressure_cooker.n.01	طنجرة	نجر	طنجر	ADJ2
+propoxyphene.n.01	دارفون	دوف		ADJ2_NO_ROOT_PROPER
+ramrod.n.01	البارود	برد		ADJ2_NO_ROOT_LOAN
+refectory_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+rolling_pin.n.01	شوبك	شبك		ADJ2_NO_ROOT_LOAN
+safety_match.n.01	دفتر	دفر	دفتر	ADJ2
+shantung.n.01	شانتونج	شءن		ADJ2_NO_ROOT_LOAN
+silesia.n.02	سيليزيا	سيل		ADJ2_NO_ROOT_LOAN
+six-pack.n.01	عبوة	بوه	عبء	ADJ2
+six-spot.n.01	ستة	ستت	سدس	RULE_R2
+skirt.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+skirt_of_tasses.n.01	تنورة	نور		ADJ2_NO_ROOT_LOAN
+skullcap.n.01	طاقية	طوق		ADJ2_NO_ROOT_LOAN
+soap_film.n.01	غشاء	شيء	غشي	ADJ2
+soda_fountain.n.02	نافورة	نفر		ADJ2_NO_ROOT_UNSURE
+soup_bowl.n.01	زبدية	زبد		ADJ2_NO_ROOT_UNSURE
+stable.n.01	إسطبل	إسط	صطبل	OWNER_DELEGATED
+stabling.n.01	إسطبل	إسط	صطبل	OWNER_DELEGATED
+stewing_pan.n.01	طنجرة	نجر	طنجر	ADJ2
+stinger.n.03	ستينغر	تين		ADJ2_NO_ROOT_PROPER
+table-tennis_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+taboret.n.01	طبرزية	طرز		ADJ2_NO_ROOT_LOAN
+tambour.n.01	طارة	طور		OWNER_DELEGATED_NO_ROOT_LOAN
+tea_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+tenoretic.n.01	تينوريتيك	تين		ADJ2_NO_ROOT_PROPER
+tessera.n.01	فسيفساء	سيف	فسفس	ADJ2
+tilt-top_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+torpedo.n.03	عبوة	بوه	عبء	ADJ2
+torus.n.02	طارة	طور		OWNER_DELEGATED_NO_ROOT_LOAN
+trestle_table.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+truss.n.02	جملون	جمل		OWNER_DELEGATED_NO_ROOT_UNSURE
+vernier_scale.n.01	ورنية	وني		ADJ2_NO_ROOT_PROPER
+video_ipod.n.01	آيبود	ءبد		ADJ2_NO_ROOT_PROPER
+warp.n.04	سدى	سد	سدو	OWNER_DELEGATED
+waterspout.n.03	ميزاب	زءب	وزب	ADJ2
+weir.n.01	هويس	هيس		ADJ2_NO_ROOT_UNSURE
+workbench.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+worktable.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+zamboni.n.01	زامبوني	زءم		ADJ2_NO_ROOT_PROPER
+zeppelin.n.02	زبلين	زبل		ADJ2_NO_ROOT_LOAN
+bowling_green.n.01	بولينغ	بول		ADJ2_NO_ROOT_PROPER
+champagne.n.02	شامبانيا	شءم		ADJ2_NO_ROOT_LOAN
+davenport.n.01	دافنبورت	دوف		ADJ2_NO_ROOT_LOAN
+grand_island.n.01	غراند	غرد		ADJ2_NO_ROOT_PROPER
+grand_rapids.n.01	غراند	غرد		ADJ2_NO_ROOT_PROPER
+jersey.n.02	جيرزي	جرز		ADJ2_NO_ROOT_PROPER
+labrador.n.01	لابرادور	لاب		ADJ2_NO_ROOT_LOAN
+lake_district.n.01	ليك	لوك		ADJ2_NO_ROOT_PROPER
+melting_pot.n.01	بوتقة	بوق		ADJ2_NO_ROOT_LOAN
+meridian.n.02	مريديان	ردي		ADJ2_NO_ROOT_PROPER
+moron.n.02	مورون	مور		ADJ2_NO_ROOT_PROPER
+newfoundland.n.02	نيوفاوندلاند	نيو		ADJ2_NO_ROOT_LOAN
+phoenix.n.01	فينيكس	فين		ADJ2_NO_ROOT_PROPER
+port-au-prince.n.01	بورت	برت		ADJ2_NO_ROOT_LOAN
+port_louis.n.01	بورت	برت		ADJ2_NO_ROOT_LOAN
+port_moresby.n.01	بورت	برت		ADJ2_NO_ROOT_LOAN
+port_vila.n.01	بورت	برت		ADJ2_NO_ROOT_LOAN
+saskatoon.n.01	ساسكاتون	سوس		ADJ2_NO_ROOT_LOAN
+west_country.n.01	كانتري	كتر		ADJ2_NO_ROOT_PROPER
+avalanche.n.01	انهيار	نهي	هور	ADJ2
+background_noise.n.01	ضوضاء	ضوء	ضوضو	OWNER_DELEGATED
+bending.n.01	انحناء	أنح	حنو	ADJ2
+collapse.n.02	انهيار	نهي	هور	ADJ2
+concoction.n.02	توليفة	ليف	ولف	ADJ2
+crash.n.05	انهيار	نهي	هور	ADJ2
+debacle.n.01	انهيار	نهي	هور	ADJ2
+fall.n.06	انهيار	نهي	هور	ADJ2
+flame-out.n.02	انهيار	نهي	هور	ADJ2
+gravitational_collapse.n.01	انهيار	نهي	هور	ADJ2
+gurgle.n.01	بقبعة	بقع	بقبق	ADJ2
+lottery.n.01	يانصيب	يان	نصب	ADJ2
+meltdown.n.02	انهيار	نهي	هور	ADJ2
+mudslide.n.01	انهيار	نهي	هور	ADJ2
+radio_noise.n.01	ضوضاء	ضوء	ضوضو	OWNER_DELEGATED
+rockslide.n.01	انهيار	نهي	هور	ADJ2
+shipwreck.n.02	انهيار	نهي	هور	ADJ2
+software_error.n.01	برمجي	برج		ADJ2_NO_ROOT_LOAN
+stall.n.04	انهيار	نهي	هور	ADJ2
+stridulation.n.01	سرسرة	سرر	سرسر	ADJ2
+surface_noise.n.01	ضوضاء	ضوء	ضوضو	OWNER_DELEGATED
+tick.n.01	تكتكة	تكك	تكتك	RULE_R1
+vanishing.n.01	تلاشي	لاش	لشو	OWNER_DELEGATED
+whirlpool.n.01	دردور	درد	دردر	ADJ2
+whistle.n.01	صفير	صفر		ADJ2_NO_ROOT_UNSURE
+white_noise.n.01	ضوضاء	ضوء	ضوضو	OWNER_DELEGATED
+abecedarian.n.02	الأبجدية	ءجد		ADJ2_NO_ROOT_UNSURE
+admiralty.n.01	الأميرالية	مير		ADJ2_NO_ROOT_LOAN
+brahman.n.03	براهمة	بهم		OWNER_DELEGATED_NO_ROOT_PROPER
+brass_family.n.01	عائلة	عله	عول	ADJ2
+choir.n.02	عائلة	عله	عول	ADJ2
+country_club.n.01	كانتري	كتر		ADJ2_NO_ROOT_PROPER
+dail_eireann.n.01	الدويل	ديل		ADJ2_NO_ROOT_PROPER
+denomination.n.02	فئة	فأ	فءو	ADJ2
+filmdom.n.01	الشاشة	ءشش		ADJ2_NO_ROOT_LOAN
+garden.n.02	بستان	بسس	بست	ADJ2
+high_church.n.01	الأنجليكانية	نجل		ADJ2_NO_ROOT_PROPER
+hohenzollern_empire.n.01	الرايخ	ريخ		ADJ2_NO_ROOT_PROPER
+ivy_league.n.01	آيفي	ءيي		ADJ2_NO_ROOT_PROPER
+judaica.n.01	اليهوديات	هدي		ADJ2_NO_ROOT_PROPER
+maquis.n.02	الماكيز	ميز		ADJ2_NO_ROOT_PROPER
+pesh_merga.n.01	البشمركة	بشم		ADJ2_NO_ROOT_PROPER
+price_bracket.n.01	فئة	فأ	فءو	ADJ2
+rich_people.n.01	أثرياء	ءثر	ثرو	ADJ2
+roman_catholic.n.02	الكاثوليكية	ثول		ADJ2_NO_ROOT_PROPER
+sanhedrin.n.01	السنهدرين	سنه		ADJ2_NO_ROOT_PROPER
+table.n.05	طاولة	طول		ADJ2_NO_ROOT_LOAN
+the_city.n.02	السيتي	ءلت		ADJ2_NO_ROOT_PROPER
+vaisya.n.02	فايشيا	فيش		ADJ2_NO_ROOT_LOAN
+violin_family.n.01	عائلة	عله	عول	ADJ2
+woodwind_family.n.01	عائلة	عله	عول	ADJ2
+backgammon.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+barbarization.n.01	هجمية	هجم	همج	ADJ2
+bowling.n.01	بولينغ	بول		ADJ2_NO_ROOT_PROPER
+burning.n.05	على	عل		ADJ2_NO_ROOT_UNSURE
+canfield.n.01	كانفيلد	كون		ADJ2_NO_ROOT_LOAN
+catheterization.n.01	قسطرة	قطر		ADJ2_NO_ROOT_LOAN
+cocooning.n.01	تَقَوْقُع	تقق	قوقع	ADJ2
+condonation.n.01	تغاضي	غيض	غضو	ADJ2
+crouch.n.01	انحناء	أنح	حنو	ADJ2
+dislocation.n.02	انهيار	نهي	هور	ADJ2
+downspin.n.01	انهيار	نهي	هور	ADJ2
+flop.n.04	انهيار	نهي	هور	ADJ2
+gratification.n.02	إرضاء	رضى	رضو	ADJ2
+incurvation.n.02	انحناء	أنح	حنو	ADJ2
+leaning.n.04	انحناء	أنح	حنو	ADJ2
+lottery.n.02	يانصيب	يان	نصب	ADJ2
+male_chauvinism.n.01	شوفينية	شفن		ADJ2_NO_ROOT_PROPER
+on_the_road.n.01	على	عل		ADJ2_NO_ROOT_UNSURE
+panto.n.01	بانتو	بتو		ADJ2_NO_ROOT_LOAN
+pleasing.n.01	إرضاء	رضى	رضو	ADJ2
+polo.n.02	بولو	بول		ADJ2_NO_ROOT_PROPER
+ritualism.n.02	طقوسية	طوس		ADJ2_NO_ROOT_LOAN
+satisfaction.n.05	إرضاء	رضى	رضو	ADJ2
+saturnalia.n.01	ساتورناليا	ءتو		ADJ2_NO_ROOT_PROPER
+self-gratification.n.02	إرضاء	رضى	رضو	ADJ2
+spank.n.01	على	عل		ADJ2_NO_ROOT_UNSURE
+spanking.n.01	على	عل		ADJ2_NO_ROOT_UNSURE
+stoop.n.01	انحناء	أنح	حنو	ADJ2
+tenpins.n.01	بولينغ	بول		ADJ2_NO_ROOT_PROPER
+theology.n.03	لاهوت	لوت	ليه	ADJ2
+tinning.n.01	قصدرة	قدر		ADJ2_NO_ROOT_LOAN
+tinning.n.02	قصدرة	قدر		ADJ2_NO_ROOT_LOAN
+trespass.n.01	على	عل		ADJ2_NO_ROOT_UNSURE
+vanishing.n.02	تلاشي	لاش	لشو	OWNER_DELEGATED
+vertical_bank.n.01	انحناء	أنح	حنو	ADJ2
+whistling.n.02	صفير	صفر		ADJ2_NO_ROOT_UNSURE
+amyloidosis.n.01	النشواني	نون	نشو	ADJ2
+back_burner.n.01	أولوية	ءول	ولي	ADJ2
+balagan.n.01	خربطة	خبط	خربط	ADJ2
+breakdown.n.02	انهيار	نهي	هور	ADJ2
+curvature.n.01	انحناء	أنح	حنو	ADJ2
+dutch_elm_disease.n.01	الدردار	درر	دردر	RULE_R1
+ebola_hemorrhagic_fever.n.01	إيبولا	ءبل		ADJ2_NO_ROOT_LOAN
+front_burner.n.01	أولوية	ءول	ولي	ADJ2
+hereness.n.01	هنائية	هنء		ADJ2_NO_ROOT_UNSURE
+hyperbilirubinemia_of_the_newborn.n.01	يرقان	يقن	يرق	ADJ2
+jaundice_of_the_newborn.n.01	يرقان	يقن	يرق	ADJ2
+kernicterus.n.01	يرقان	يقن	يرق	ADJ2
+mosaic.n.02	فسيفساء	سيف	فسفس	ADJ2
+nervous_breakdown.n.01	انهيار	نهي	هور	ADJ2
+poison_ivy.n.01	اللبلاب	لبب	لبلب	RULE_R1
+potato_mosaic.n.01	فسيفساء	سيف	فسفس	ADJ2
+primacy.n.01	أولوية	ءول	ولي	ADJ2
+scrofula.n.01	الخنازير	خنا	خزر	ADJ2
+spina_bifida.n.01	السنسنة	سنن	سنسن	RULE_R1
+spinal_curvature.n.01	انحناء	أنح	حنو	ADJ2
+tailspin.n.01	انهيار	نهي	هور	ADJ2
+thereness.n.02	هناكية	هوك		ADJ2_NO_ROOT_UNSURE
+tobacco_mosaic.n.01	فسيفساء	سيف	فسفس	ADJ2
+water_on_the_knee.n.01	على	عل		ADJ2_NO_ROOT_UNSURE
+acaroid_resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+alabaster.n.01	المرمر	مرر	مرمر	ADJ2
+alkaloid.n.01	قلويد	قلد	قلو	ADJ2
+allyl_resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+amyloid.n.01	نشاء	نشء	نشو	ADJ2
+arsenical.n.01	زرنيخي	رنخ	زرنخ	ADJ2
+cadmium_sulfide.n.01	كبريتيد	كبر	كبرت	ADJ2
+cairngorm.n.01	كيرنغورم	كير		ADJ2_NO_ROOT_LOAN
+cornstarch.n.01	نشا	نش	نشو	ADJ2
+coumarone-indene_resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+einsteinium.n.01	أينشتاينيوم	ءين		ADJ2_NO_ROOT_LOAN
+emery.n.01	صنفرة	صفر		ADJ2_NO_ROOT_LOAN
+francium.n.01	فرانسيوم	رون		ADJ2_NO_ROOT_LOAN
+gadolinite.n.01	جادولينيت	جود		ADJ2_NO_ROOT_LOAN
+glycogen.n.01	نشا	نش	نشو	ADJ2
+hemin.n.01	هيمين	هيم		ADJ2_NO_ROOT_PROPER
+hydrogen_sulfide.n.01	كبريتيد	كبر	كبرت	ADJ2
+iron_ore.n.01	خام	خام	خيم	ADJ2
+lead_ore.n.01	خام	خام	خيم	ADJ2
+maalox.n.01	مالوكس	مءل		ADJ2_NO_ROOT_PROPER
+macadam.n.01	مكدام	كدم		ADJ2_NO_ROOT_LOAN
+melamine_resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+mendelevium.n.01	مندليفيوم	ندل		ADJ2_NO_ROOT_LOAN
+message_pad.n.01	دفتر	دفر	دفتر	ADJ2
+mylanta.n.01	ميلانتا	ميل		ADJ2_NO_ROOT_PROPER
+oleoresin_capiscum.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+ore.n.01	خام	خام	خيم	ADJ2
+pad.n.01	دفتر	دفر	دفتر	ADJ2
+phenolic_resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+pinchbeck.n.01	بنشبك	بنش		ADJ2_NO_ROOT_LOAN
+raw_sienna.n.02	خام	خام	خيم	ADJ2
+rottenstone.n.01	تريبولي	ريب		ADJ2_NO_ROOT_LOAN
+sienna.n.01	سيينا	سين		ADJ2_NO_ROOT_LOAN
+silicone_resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+stannic_chloride.n.01	القصديريك	قصد		ADJ2_NO_ROOT_LOAN
+staple.n.02	تيلة	تول		ADJ2_NO_ROOT_UNSURE
+starch.n.02	نشا	نش	نشو	ADJ2
+tenderizer.n.01	مُطرّي	مطر	طرو	ADJ2
+uranium_ore.n.01	خام	خام	خيم	ADJ2
+urea-formaldehyde_resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+zinc_cadmium_sulfide.n.01	كبريتيد	كبر	كبرت	ADJ2
+zinc_sulfide.n.01	كبريتيد	كبر	كبرت	ADJ2
+el_libertador.n.02		ءلل		OWNER_DELEGATED_NO_ROOT_UNSURE
+eliminator.n.01	مُزيل	زيل	زول	ADJ2
+mare_nostrum.n.01		دوي		ADJ2_NO_ROOT_UNSURE
+webbing.n.01	غشاء	شيء	غشي	ADJ2
+islamophobia.n.01	إسلاموفوبيا	ءسل		ADJ2_NO_ROOT_LOAN
+liberation_theology.n.01	لاهوت	لوت	ليه	ADJ2
+mosaic.n.04	فسيفساء	سيف	فسفس	ADJ2
+theology.n.02	لاهوت	لوت	ليه	ADJ2
+band.n.03	تريط	ريط		ADJ2_NO_ROOT_UNSURE
+carnation.n.02	قرنفلي	قرنفل	قرفل	RULE_MAP_v8
+curvature.n.02	انحناء	أنح	حنو	ADJ2
+pastel.n.01	باستيل	بءس		ADJ2_NO_ROOT_LOAN
+preemption.n.03	أولوية	ءول	ولي	ADJ2
+right_of_way.n.02	أولوية	ءول	ولي	ADJ2
+satisfactoriness.n.01	إِرْضَاء	رضى	رضو	ADJ2
+self-love.n.02	نرجسية	نجس		OWNER_DELEGATED_NO_ROOT_PROPER
+slouch.n.02	انحناء	أنح	حنو	ADJ2
+tilt.n.04	اِنْحِنَاء	أنح	حنو	ADJ2
+violet.n.02	بنفسجي	نفس	بنفسج	ADJ2
+ampere.n.01	أمبير	ءبر		ADJ2_NO_ROOT_LOAN
+sixteen.n.01	سِتَّة	ستت	سدس	RULE_R2
+twenty-six.n.01	سِتَّة	ستت	سدس	RULE_R2
+adar.n.01	أذار	ءور		OWNER_DELEGATED_NO_ROOT_PROPER
+annunciation.n.01	مارس	أرس		ADJ2_NO_ROOT_PROPER
+cinco_de_mayo.n.01	مايو	مءي		ADJ2_NO_ROOT_PROPER
+commonwealth_day.n.01	مايو	مءي		ADJ2_NO_ROOT_PROPER
+germinal.n.01	جرمينال	جرم		ADJ2_NO_ROOT_PROPER
+remembrance_day.n.01	الخشخاش	خشش	خشخش	RULE_R1
+saint_joseph.n.01	مارس	أرس		ADJ2_NO_ROOT_PROPER
+sixties.n.01	الستينات	ستت	سدس	RULE_R2
+sixties.n.02	الستينات	ستت	سدس	RULE_R2
+st_patrick's_day.n.01	مارس	أرس		ADJ2_NO_ROOT_PROPER
+texas_independence_day.n.01	مارس	أرس		ADJ2_NO_ROOT_PROPER
+then.n.01	آنذاك	ءنك	ءون	OWNER_DELEGATED
+application_form.n.01	استمارة	مءر		OWNER_DELEGATED_NO_ROOT_LOAN
+appointment_book.n.01	دفتر	دفر	دفتر	ADJ2
+arabic_alphabet.n.01	الأبجدية	ءجد		ADJ2_NO_ROOT_UNSURE
+armenian.n.03	الأبجدية	ءجد		ADJ2_NO_ROOT_UNSURE
+biu-mandara.n.01	بيو-ماندارا	بيو		ADJ2_NO_ROOT_PROPER
+blaia_zimondal.n.01	بلايا	لوي		ADJ2_NO_ROOT_PROPER
+blotter.n.02	دفتر	دفر	دفتر	ADJ2
+bokmal.n.01	بوكمال	بوك		ADJ2_NO_ROOT_PROPER
+bow.n.06	انحناء	أنح	حنو	ADJ2
+catcall.n.01	صفير	صفر		ADJ2_NO_ROOT_UNSURE
+code.n.01	دستور	دسر	دستر	ADJ2
+codex.n.01	دستور	دسر	دستر	ADJ2
+commonplace_book.n.01	دفتر	دفر	دفتر	ADJ2
+ethic.n.02	دستور	دسر	دستر	ADJ2
+form.n.08	استمارة	مءر		OWNER_DELEGATED_NO_ROOT_LOAN
+formulary.n.01	دستور	دسر	دستر	ADJ2
+gaelic.n.01	الجودية	جود		ADJ2_NO_ROOT_PROPER
+google.n.01	جوجل	جول		ADJ2_NO_ROOT_PROPER
+greek_alphabet.n.01	الأبجدية	ءجد		ADJ2_NO_ROOT_UNSURE
+hebrew_alphabet.n.01	الأبجدية	ءجد		ADJ2_NO_ROOT_UNSURE
+interlingua.n.01	إنترلينجوا	ءنت		ADJ2_NO_ROOT_PROPER
+jotter.n.01	دفتر	دفر	دفتر	ADJ2
+kiswahili.n.01	السواحيلية	ويح	سحل	ADJ2
+konqueror.n.01	كونكيورر	كون		ADJ2_NO_ROOT_PROPER
+lallans.n.01	لالانز	ليل		ADJ2_NO_ROOT_PROPER
+latino_sine_flexione.n.01		جيب		ADJ2_NO_ROOT_UNSURE
+linux.n.01	لينكس	نكس		ADJ2_NO_ROOT_PROPER
+logbook.n.01	دفتر	دفر	دفتر	ADJ2
+lynx.n.01	لينكس	نكس		ADJ2_NO_ROOT_PROPER
+mandarin.n.06	الماندرين	ندر		ADJ2_NO_ROOT_PROPER
+medical_literature_analysis_and_retrieval_system.n.01	ميدلارز	ميد		ADJ2_NO_ROOT_PROPER
+minute_book.n.01	دفتر	دفر	دفتر	ADJ2
+mumble.n.01	غمغمة	غمم	غمغم	RULE_R1
+mumbling.n.01	تمتمة	تمم	تمتم	RULE_R1
+name-dropping.n.01	التباهي	بوه	بهو	ADJ2
+netscape.n.01	نتسكيب	نتس		ADJ2_NO_ROOT_PROPER
+occidental.n.02	أوكسيدنتال	وكس		ADJ2_NO_ROOT_PROPER
+paging.n.01	مناداة	نأد	ندي	ADJ2
+playbook.n.01	دفتر	دفر	دفتر	ADJ2
+roman_alphabet.n.01	الأبجدية	ءجد		ADJ2_NO_ROOT_UNSURE
+romany.n.02	الغجرية	جري		ADJ2_NO_ROOT_PROPER
+sans_serif.n.01	هلفيتيكا	هلف		ADJ2_NO_ROOT_PROPER
+silver_screen.n.01	الشاشة	ءشش		ADJ2_NO_ROOT_LOAN
+substitution_class.n.01	فئة	فأ	فءو	ADJ2
+swahili.n.01	السواحيلية	ويح	سحل	ADJ2
+thorn.n.03	ثورن	ثور		OWNER_DELEGATED_NO_ROOT_UNSURE
+ticket_book.n.01	دفتر	دفر	دفتر	ADJ2
+type_family.n.01	عائلة	عله	عول	ADJ2
+united_states_constitution.n.01	دستور	دسر	دستر	ADJ2
+valentine.n.02	فالنتين	تين		ADJ2_NO_ROOT_LOAN
+windows.n.01	ويندوز	وين		ADJ2_NO_ROOT_PROPER
+yajur-veda.n.01	ياجور	ءجر		ADJ2_NO_ROOT_PROPER
+sixtieth.n.01	الستون	ستت	سدس	ADJ2
+fidget.n.01	تململ	ملل	ململ	RULE_R1
+satisfaction.n.01	رضا	رض	رضو	ADJ2
+oscillation.n.01	تذبذب	تذب	ذبذب	ADJ2
+debacle.n.02	انهيار	نهي	هور	ADJ2
+scattering.n.03	رشراش	رشش	رشرش	RULE_R1
+volcanism.n.01	بركانية	ركن		ADJ2_NO_ROOT_LOAN
+bankbook.n.01	دفتر	دفر	دفتر	ADJ2
+checkbook.n.01	دفتر	دفر	دفتر	ADJ2
+cost_ledger.n.01	دفتر	دفر	دفتر	ADJ2
+daybook.n.01	دفتر	دفر	دفتر	ADJ2
+deep_pocket.n.01		جيب		ADJ2_NO_ROOT_UNSURE
+diamond.n.01	ألماس	ءلس	موس	ADJ2
+easy_street.n.01	بحبوحة	بحح	بحبح	RULE_R1
+general_ledger.n.01	دفتر	دفر	دفتر	ADJ2
+ice.n.03	ألماس	ءلس	موس	ADJ2
+savings.n.01	مدخرات	دخر	ذخر	ADJ2
+sixpence.n.01	ستة	ستت	سدس	RULE_R2
+subsidiary_ledger.n.01	دفتر	دفر	دفتر	ADJ2
+tare.n.01	طارة	طور		OWNER_DELEGATED_NO_ROOT_LOAN
+bight.n.01	انحناء	أنح	حنو	ADJ2
+toroid.n.01	طارة	طور		OWNER_DELEGATED_NO_ROOT_LOAN
+torus.n.01	طارة	طور		OWNER_DELEGATED_NO_ROOT_LOAN
+alkalinize.v.01	تقلون	تقن	قلو	ADJ2
+break.v.56	انْهَارَ	أهر	هور	ADJ2
+burgeon.v.01	نَمَا	نم	نمي	ADJ2
+catheterize.v.01	قَسْطَرَ	قطر		ADJ2_NO_ROOT_LOAN
+collapse.v.07	انْهَارَ	أهر	هور	ADJ2
+crash.v.11	انهار	أهر	هور	ADJ2
+denationalize.v.01	خَصْخَصَ	خصص	خصخص	RULE_R1
+drop.v.21	انْهَارَ	أهر	هور	ADJ2
+full.v.02	فَضْفَضَ	فضض	فضفض	RULE_R1
+malt.v.01	ملت	ملو		ADJ2_NO_ROOT_LOAN
+malt.v.03	مَلَّتَ	ملو		ADJ2_NO_ROOT_LOAN
+malt.v.04	مَلَّتَ	ملو		ADJ2_NO_ROOT_LOAN
+overgrow.v.03	غَطَّى	غط	غطي	OWNER_DELEGATED
+pasteurize.v.01	بَسْتَرَ	بتر		ADJ2_NO_ROOT_PROPER
+privatize.v.01	خَصْخَصَ	خصص	خصخص	RULE_R1
+purple.v.02	أَرْجَنَ	أجن	رجو	OWNER_DELEGATED
+tin.v.03	قصدر	قدر		ADJ2_NO_ROOT_LOAN
+twin.v.03	تَتَوْأَمَ	تءم	وءم	OWNER_DELEGATED
+undergrow.v.01	نَمَا	نم	نمي	ADJ2
+vegetate.v.04	نَمَا	نم	نمي	ADJ2
+badger.v.02	على	عل		ADJ2_NO_ROOT_UNSURE
+call.v.08	نَادَى	نأد	ندي	ADJ2
+call.v.09	نَادَى	نأد	ندي	ADJ2
+call_out.v.02	نَادَى	نأد	ندي	ADJ2
+compliment.v.02	أَطْرَى	أطر	طرو	ADJ2
+congee.v.02	انْحَنَى	أحن	حنو	ADJ2
+cover_for.v.01	على	عل		ADJ2_NO_ROOT_UNSURE
+curtsy.v.02	انْحَنَى	أحن	حنو	ADJ2
+excuse.v.06	تغاضى	غيض	غضو	ADJ2
+gibber.v.02	غَمْغَمَ	غمم	غمغم	RULE_R1
+give.v.41	(حُكْمًا/عُقُوبَةً)	حكم		ADJ2_NO_ROOT_UNSURE
+halloo.v.02	نَادَى	نأد	ندي	ADJ2
+hem_and_haw.v.01	تمتم	تمم	تمتم	ADJ2
+murmur.v.02	تَمْتَمَ	تمم	تمتم	RULE_R1
+page.v.01	نَادَى	نأد	ندي	ADJ2
+rave.v.03	أَطْرَى	أطر	طرو	ADJ2
+sough.v.01	تَمْتَمَ	تمم	تمتم	RULE_R1
+take_a_bow.v.02	انحنى	أحن	حنو	ADJ2
+unbosom.v.01	فَضْفَضَ	فضض	فضفض	RULE_R1
+bear_down.v.02	حذقت	حذق	حزق	ADJ2
+bestrew.v.01	غَطَّى	غط	غطي	OWNER_DELEGATED
+break_down.v.06	انهار	أهر	هور	ADJ2
+coif.v.01	غطى	غط	غطي	OWNER_DELEGATED
+crap_up.v.01		فوق		ADJ2_NO_ROOT_UNSURE
+finger.v.03	(حاسوبياً)	حوس	حسب	ADJ2
+frost.v.01	غطى	غط	غطي	OWNER_DELEGATED
+incurvate.v.02	حَنَى	حن	حنو	ADJ2
+lean_on.v.01	على	عل		ADJ2_NO_ROOT_UNSURE
+overcast.v.02	سرفل	سفل		ADJ2_NO_ROOT_LOAN
+overlay.v.01	غَطَّى	غط	غطي	OWNER_DELEGATED
+sacrifice.v.02	ضَحَّى	ضح	ضحو	ADJ2
+size.v.01	غرّى	غر	غرو	ADJ2
+skewer.v.01	سَيَّخَ	سوخ		ADJ2_NO_ROOT_LOAN
+slime.v.01	غَطَّى	غط	غطي	OWNER_DELEGATED
+stoop.v.05	انحنى	أحن	حنو	ADJ2
+tin.v.01	قصدر	قدر		ADJ2_NO_ROOT_LOAN
+avalanche.v.01	انْهَارَ	أهر	هور	ADJ2
+birdlime.v.01	غَرَّى	غر	غرو	ADJ2
+bow.v.03	انحنى	أحن	حنو	ADJ2
+call.v.16	نَادَى	نأد	ندي	ADJ2
+collapse.v.01	انهار	أهر	هور	ADJ2
+crook.v.01	حَنَى	حن	حنو	ADJ2
+crouch.v.01	انْحَنَى	أحن	حنو	ADJ2
+curtsy.v.01	انحنى	أحن	حنو	ADJ2
+dip.v.07	حَنَى	حن	حنو	ADJ2
+founder.v.04	انهار	أهر	هور	ADJ2
+hunt.v.04	تذبذب	تذب	ذبذب	ADJ2
+hunt.v.05	تذبذب	تذب	ذبذب	ADJ2
+hydroplane.v.01	على	عل		ADJ2_NO_ROOT_UNSURE
+incline.v.03	أَحْنَى	أحن	حنو	ADJ2
+incurvate.v.01	انْحَنَى	أحن	حنو	ADJ2
+librate.v.02	تذبذب	تذب	ذبذب	ADJ2
+loop.v.03	شَقْلَبَ	شقب	شقلب	ADJ2
+move_in.v.03	إلى	أل		ADJ2_NO_ROOT_UNSURE
+plane.v.02	على	عل		ADJ2_NO_ROOT_UNSURE
+plummet.v.01	انْهَارَ	أهر	هور	ADJ2
+set.v.10	أَفَلت	ألت	ءفل	ADJ2
+stoop.v.04	انْحَنَى	أحن	حنو	ADJ2
+cover.v.16	غَطَّى	غط	غطي	OWNER_DELEGATED
+grow_up.v.01	تَرَعْرَعَ	رعع	رعرع	RULE_R1
+impinge.v.01	على	عل		ADJ2_NO_ROOT_UNSURE
+victimize.v.02	ضَحَّى	ضح	ضحو	ADJ2
+work_at.v.01	على	عل		ADJ2_NO_ROOT_UNSURE
+beat.v.12	على	عل		ADJ2_NO_ROOT_UNSURE
+brim.v.01	ترقرق	رقق	رقرق	RULE_R1
+cap.v.01	غَطَّى	غط	غطي	OWNER_DELEGATED
+keep.v.16	اقتنى	أتن	قنو	ADJ2
+capitalize.v.04	رَسْمَلَ	رمل	رءس	ADJ2
+capitalize.v.05	رَسْمَلَ	رمل	رءس	ADJ2
+contrast.v.01	قابا	قاب		ADJ2_NO_ROOT_UNSURE
+reckon.v.06	على	عل		ADJ2_NO_ROOT_UNSURE
+help.v.02	أَفَادَ	أفد	فيد	ADJ2
+vest.v.05	كَسَا	كس	كسو	ADJ2
+vesture.v.01	كَسَا	كس	كسو	ADJ2
+wink.v.04	تغاضى	غيض	غضو	ADJ2
+damascene.v.01	دَمْشَقَ	دمق		ADJ2_NO_ROOT_PROPER
+benefit.v.02	أَفَادَ	أفد	فيد	ADJ2
+cover.v.18	غطى	غط	غطي	OWNER_DELEGATED
+sacrifice.v.04	ضَحَّى	ضح	ضحو	ADJ2
+top.v.05	غطى	غط	غطي	OWNER_DELEGATED
+wield.v.01	مارس	أرس		ADJ2_NO_ROOT_PROPER
+click.v.02	تَكْتَكَ	تكك	تكتك	ADJ2
+snuff.v.01	شمشم	شمم	شمشم	RULE_R1
+sputter.v.01	تَمْتَمَ	تمم	تمتم	RULE_R1
+content.v.02	رَضَّى	رضض	رضو	ADJ2
+crack_up.v.01	انهار	أهر	هور	ADJ2
+dissolve.v.05	انهار	أهر	هور	ADJ2
+tease.v.03	أغرى	أغر	غرو	ADJ2
+cover.v.23	غَطَّى	غط	غطي	OWNER_DELEGATED
+get_the_best.v.01	على	عل		ADJ2_NO_ROOT_UNSURE
+outdo.v.02	على	عل		ADJ2_NO_ROOT_UNSURE
+swallow.v.02	على	عل		ADJ2_NO_ROOT_UNSURE
+crunch.v.03	قَرْقَشَ	قرش	قرقش	ADJ2
+devour.v.03	على	عل		ADJ2_NO_ROOT_UNSURE
+shimmer.v.01	تَرَقْرَقَ	رقق	رقرق	RULE_R1
+ante_meridiem.s.01		فتر		ADJ2_NO_ROOT_UNSURE
+argillaceous.a.01	صَلْصَالِيّ	صلل	صلصل	RULE_R1
+artesian.a.01	ارْتِوَازِيّ	روز		ADJ2_NO_ROOT_PROPER
+ashen.s.02	دَرْدَارِيّ	درد	دردر	ADJ2
+baggy.s.01	فَضْفَاض	فضض	فضفض	RULE_R1
+begrimed.s.01	مُتَرَبِّب	متر	ترب	OWNER_DELEGATED
+bifurcated.s.01	إِلَى	أل		ADJ2_NO_ROOT_UNSURE
+blue.s.07	بُورِيتَانِيّ	بور		ADJ2_NO_ROOT_LOAN
+boastful.s.01	مُتَبَاهٍ	بوه	بهو	ADJ2
+bone-covered.s.01	مُغَطَّى	مغط	غطي	OWNER_DELEGATED
+bootless.s.01	سُدًى	سد	سدو	ADJ2
+capped.s.02	مُغَطًّى	مغط	غطي	OWNER_DELEGATED
+carnation.s.01	قُرُنْفُلِيّ	قرنفل	قرفل	RULE_MAP_v8
+chartreuse.s.01	شَارْتُرُوزِيّ	شور		ADJ2_NO_ROOT_PROPER
+chatty.s.01	ثَرْثَار	ثرر	ثرثر	ADJ2
+chatty.s.02	ثَرْثَار	ثرر	ثرثر	ADJ2
+chauvinistic.s.01	شُوفِينِيّ	شفن		ADJ2_NO_ROOT_PROPER
+clanking.s.01	قَعْقَاع	قعع	قعقع	ADJ2
+clattery.s.01	خَشْخَاش	خشش	خشخش	RULE_R1
+clunky.s.02	قَعْقَعِيّ	قعع	قعقع	ADJ2
+cobwebby.s.02	مُغَطًّى	مغط	غطي	OWNER_DELEGATED
+coiling.s.01	حَلَزُونِيّ	حزن	حلزن	ADJ2
+collinear.s.01	مُتَخَطِّي	خطط	خطو	ADJ2
+constitutional.a.02	دُسْتُورِيّ	دسر	دستر	ADJ2
+depilatory.s.01	مُزِيل	زيل	زول	ADJ2
+desperate.s.06	مَأْسَاوِيّ	ءسو	ءسي	ADJ2
+diffuse.s.02	فَضْفَاض	فضض	فضفض	RULE_R1
+eel-shaped.s.01	أَنْقَلِيسِيّ	ءنق	قلس	ADJ2
+eighty-six.s.01	سِتَّة	ستت	سدس	RULE_R2
+fifty-six.s.01	سِتَّة	ستت	سدس	RULE_R2
+forty-six.s.01	سِتَّة	ستت	سدس	RULE_R2
+glutted.s.01	مُتْخَم	خمم	وخم	ADJ2
+grass-covered.s.01	مُغَطَّى	مغط	غطي	OWNER_DELEGATED
+grumbling.s.01	قَرْقَرِيّ	قرق	قرقر	ADJ2
+hasty.s.02	مُتَرَسِّع	رسع	سرع	ADJ2
+immaculate.s.02	نَقِيّ	نق	نقو	OWNER_DELEGATED
+informal.s.01	فَضْفَاض	فضض	فضفض	RULE_R1
+jangling.s.01	مُصَلْصِل	مصل	صلصل	ADJ2
+laudatory.s.01	إِطْرَائِيّ	طري	طرو	ADJ2
+life-giving.s.01	مُحْيٍ	مح	حيي	ADJ2
+liquid.s.03	رَقْرَاق	رقق	رقرق	RULE_R1
+loose.a.03	فضفاض	فضض	فضفض	RULE_R1
+loose.s.05	فَضْفَاض	فضض	فضفض	RULE_R1
+loosely_knit.s.01	فَضْفَاض	فضض	فضفض	RULE_R1
+magnetic.a.02	مغناطيسي	مغن	غطس	ADJ2
+magnetic.a.04	مغناطيسي	مغن	غطس	ADJ2
+membranous.s.01	غِشائِيّ	شيء	غشي	ADJ2
+net.a.01	صافٍ	صوف	صفو	ADJ2
+ninety-six.s.01	سِتَّة	ستت	سدس	RULE_R2
+nth.s.01	اَلنُّونِيّ	نون		ADJ2_NO_ROOT_UNSURE
+occluded.s.02	مُدْمَص	دمص		ADJ2_NO_ROOT_UNSURE
+one_hundred_sixty.s.01	وَسِتُّونَ	وتن	سدس	ADJ2
+post_meridiem.s.01		فتر		ADJ2_NO_ROOT_UNSURE
+pure.s.02	صافٍ	صوف	صفو	ADJ2
+purse-proud.s.01	مُتَبَاهٍ	بوه	بهو	ADJ2
+raw.a.03	خام	خام	خيم	ADJ2
+reefy.s.01	ضَحْضَاح	ضحح	ضحضح	RULE_R1
+scummy.s.02	مُغَطًّى	مغط	غطي	OWNER_DELEGATED
+seventy-six.s.01	سِتَّة	ستت	سدس	RULE_R2
+sexagenarian.s.01	سِتِّينِيّ	ستن	سدس	ADJ2
+shimmery.s.01	مُتَرَجْرِج	جرج	رجرج	ADJ2
+six.s.01	سِتَّة	ستت	سدس	RULE_R2
+sixteen.s.01	سِتَّةَ	ستت	سدس	RULE_R2
+sixty-six.s.01	سِتَّة	ستت	سدس	RULE_R2
+smothered.s.02	مُغَطًّى	مغط	غطي	OWNER_DELEGATED
+south-polar.s.01	أَنْتَارْكْتِيكِيّ	نتء		ADJ2_NO_ROOT_LOAN
+spiral-shelled.s.01	حَلَزُونِيُّ	حزن	حلزن	ADJ2
+stainless.s.01	نَقِيّ	نق	نقو	OWNER_DELEGATED
+stuffed.s.02	مُتْخَم	خمم	وخم	ADJ2
+tassel-shaped.s.01	شُرَّابِيّ	شرب		ADJ2_NO_ROOT_UNSURE
+tenderized.s.01	مُطَرَّى	مطر	طرو	ADJ2
+then.s.01	آنَذَاك	ءنك	ءون	OWNER_DELEGATED
+thirty-six.s.01	سِتَّة	ستت	سدس	RULE_R2
+twenty-six.s.01	سِتَّة	ستت	سدس	RULE_R2
+uncontaminated.a.01	نقي	نق	نقو	OWNER_DELEGATED
+uncut.a.03	خام	خام	خيم	ADJ2
+undiluted.a.01	صافٍ	صوف	صفو	ADJ2
+unmodified.a.01	على	عل		ADJ2_NO_ROOT_UNSURE
+unprocessed.a.02	خام	خام	خيم	ADJ2
+unrefined.a.01	خام	خام	خيم	ADJ2
+unsoiled.s.01	نَقِيّ	نق	نقو	OWNER_DELEGATED
+urn-shaped.s.01	جَرَّوِيُّ	جرو	جرر	ADJ2
+varicose.s.01	دَوالِيّ	دءل	دلو	ADJ2
+vermilion.s.01	زِنْجَفْرِيّ	زنج	زنجفر	ADJ2
+verticillate.s.01	حَلَزُونِيّ	حزن	حلزن	ADJ2
+volcanic.s.02	بُرْكَانِيّ	ركن		ADJ2_NO_ROOT_LOAN
+voluble.a.01	ثرثار	ثرر	ثرثر	RULE_R1
+wide.s.04	فَضْفَاض	فضض	فضفض	RULE_R1
+written.a.02	مدون	مد	دون	ADJ2
+year-round.a.01	على	عل		ADJ2_NO_ROOT_UNSURE
+alkaloidal.a.01	قلواني	قين	قلو	ADJ2
+amethystine.a.01	جمشتي	جمش		ADJ2_NO_ROOT_LOAN
+anglo-catholic.a.01	أنجلو-كاثوليكي	نجل		ADJ2_NO_ROOT_PROPER
+arsenical.a.01	زرنيخي	رنخ	زرنخ	ADJ2
+augustan.a.01	أغسطي	أسط		ADJ2_NO_ROOT_PROPER
+benedictory.a.01	تبيكي	بيك		ADJ2_NO_ROOT_UNSURE
+butyraceous.a.01	زبدية	زبد		ADJ2_NO_ROOT_UNSURE
+butyric.a.01	زبدية	زبد		ADJ2_NO_ROOT_UNSURE
+carcinogenic.a.01	مسرطن	مسر	سرط	ADJ2
+chauvinistic.a.01	شوفيني	شفن		ADJ2_NO_ROOT_PROPER
+choral.a.01	جوقي	جوي	جوق	ADJ2
+expiatory.a.01	استرضائي	ضوء	رضو	ADJ2
+fabian.a.01	فابي	ءبي		ADJ2_NO_ROOT_PROPER
+hebraic.a.01	عبري	عبر		ADJ2_NO_ROOT_PROPER
+hebraic.a.02	عبراني	عرن		ADJ2_NO_ROOT_PROPER
+ionic.a.02	إيوني	ءون		ADJ2_NO_ROOT_PROPER
+ionic.a.03	إيوني	ءون		ADJ2_NO_ROOT_PROPER
+jewish.a.01	يهودي	هود		ADJ2_NO_ROOT_PROPER
+judeo-christian.a.01	يهودي	هود		ADJ2_NO_ROOT_PROPER
+legal.a.04	حقولي	حقل	حقق	OWNER_DELEGATED
+magnetic.a.01	مغناطيسي	مغن	غطس	ADJ2
+palatine.a.02	بلاتيني	لوت		ADJ2_NO_ROOT_LOAN
+particularistic.a.01	تحيزي	حيز	حوز	ADJ2
+piezoelectric.a.01	كهروضغطي	كهر		ADJ2_NO_ROOT_UNSURE
+professorial.a.01	أستاذي	سيذ		ADJ2_NO_ROOT_LOAN
+soviet.a.01	سوفيتي	سوف		ADJ2_NO_ROOT_PROPER
+splashy.a.01	طرطاشي	طرش	طرطش	ADJ2
+titular.a.03	عنواني	عين	عنن	ADJ2
+utopian.a.01	طوباي	وبء		ADJ2_NO_ROOT_LOAN
+aback.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+ad_infinitum.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+all_the_way.r.03	إلى	أل		ADJ2_NO_ROOT_UNSURE
+along.r.05	على	عل		ADJ2_NO_ROOT_UNSURE
+around_the_clock.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+ashore.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+astern.r.01	إِلَى	أل		ADJ2_NO_ROOT_UNSURE
+at_home.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+at_least.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+at_leisure.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+at_stake.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+at_stake.r.02	على	عل		ADJ2_NO_ROOT_UNSURE
+besides.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+chattily.r.01	بِثَرْثَرَة	بثر	ثرثر	ADJ2
+constitutionally.r.01	دستورياً	دست	دستر	ADJ2
+contrarily.r.02	على	عل		ADJ2_NO_ROOT_UNSURE
+decisively.r.02	بِتَبْت	بتت	بتبت	RULE_R1
+even_as.r.01	بينما	ينم	بين	ADJ2
+evermore.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+extensively.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+far.r.03	إلى	أل		ADJ2_NO_ROOT_UNSURE
+flush.r.02	على	عل		ADJ2_NO_ROOT_UNSURE
+for_one.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+grandiloquently.r.01	بقعقعة	قعع	قعقع	RULE_R1
+home.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+hopefully.r.02	على	عل		ADJ2_NO_ROOT_UNSURE
+immeasurably.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+in_full_swing.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+in_perpetuity.r.02	إلى	أل		ADJ2_NO_ROOT_UNSURE
+in_the_least.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+indefinitely.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+indifferently.r.01	بلامبالاة	لءم	بلي	OWNER_DELEGATED
+inelegantly.r.01	بِدُونَ	بد	دون	ADJ2
+interminably.r.01	إِلَى	أل		ADJ2_NO_ROOT_UNSURE
+inward.r.01	إِلَى	أل		ADJ2_NO_ROOT_UNSURE
+irreverently.r.02	بانتهاك	بون	نهك	ADJ2
+least_of_all.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+magnetically.r.01	مغناطيسياً	مغن	غطس	ADJ2
+magnetically.r.02	مغناطيسياً	مغن	غطس	ADJ2
+masochistically.r.01	بماسوشية	موس		ADJ2_NO_ROOT_PROPER
+maximally.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+minimally.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+on_the_coattails.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+on_the_spur_of_the_moment.r.01		لحظ		ADJ2_NO_ROOT_UNSURE
+only.r.06		فقط		ADJ2_NO_ROOT_UNSURE
+out_of_the_way.r.06		طرق		ADJ2_NO_ROOT_UNSURE
+outward.r.01	إِلَى	أل		ADJ2_NO_ROOT_UNSURE
+over.r.01	إِلَى	أل		ADJ2_NO_ROOT_UNSURE
+overleaf.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+permanently.r.01	إلى	أل		ADJ2_NO_ROOT_UNSURE
+plumb.r.02	بشاقولية	شوق	شقل	ADJ2
+respectively.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+sacrilegiously.r.01	بانتهاك	بون	نهك	ADJ2
+separably.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+short.r.02	على	عل		ADJ2_NO_ROOT_UNSURE
+short.r.06	على	عل		ADJ2_NO_ROOT_UNSURE
+sidelong.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+sixfold.r.01	ستة	ستت	سدس	RULE_R2
+sky-high.r.02	بإطراء	ءطر	طرو	ADJ2
+so.r.04	إلى	أل		ADJ2_NO_ROOT_UNSURE
+then.r.03	آنذاك	ءنك	ءون	OWNER_DELEGATED
+theologically.r.02	لاهوتياً	لاه	ليه	ADJ2
+thus.r.02	على	عل		ADJ2_NO_ROOT_UNSURE
+tiptoe.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+unawares.r.02	على	عل		ADJ2_NO_ROOT_UNSURE
+under.r.07	إلى	أل		ADJ2_NO_ROOT_UNSURE
+unwontedly.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+widely.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+age_class.n.01	فئة	فأ	فءو	ADJ2
+ampere.n.02	أمبير	ءبر		ADJ2_NO_ROOT_LOAN
+amphibious.a.02	بَرْمَائِيّ	برم		ADJ2_NO_ROOT_UNSURE
+angiospermous.a.01	مغطى	مغط	غطي	OWNER_DELEGATED
+at_least.r.02	على	عل		ADJ2_NO_ROOT_UNSURE
+at_most.r.01	على	عل		ADJ2_NO_ROOT_UNSURE
+bend.v.02	انحنى	أحن	حنو	ADJ2
+book.n.11	دفتر	دفر	دفتر	ADJ2
+bow.n.05	انحناء	أنح	حنو	ADJ2
+bow.v.01	انْحَنَى	أحن	حنو	ADJ2
+break_down.v.08	انهار	أهر	هور	ADJ2
+canteen.n.01	زمزمية	زمم	زمزم	RULE_R1
+centaurus.n.01	قَنْطُورُس	قنط		ADJ2_NO_ROOT_PROPER
+cetus.n.01	قَيْطُس	قطس		ADJ2_NO_ROOT_PROPER
+chew_the_fat.v.01	دَرْدَشَ	درد	دردش	ADJ2
+clay.n.01	صلصال	صلل	صلصل	RULE_R1
+clog.n.01	قبقاب	قبب	قبقب	RULE_R1
+coelenterate.n.01	جوفمعوي	جوف		ADJ2_NO_ROOT_UNSURE
+collapse.n.01	انهيار	نهي	هور	ADJ2
+combination.n.04	توليفة	ليف	ولف	ADJ2
+combination.n.06	توليفة	ليف	ولف	ADJ2
+contentment.n.01	رضا	رض	رضو	ADJ2
+coulomb.n.01	كولوم	كلم		ADJ2_NO_ROOT_LOAN
+covered.a.01	مغطى	مغط	غطي	OWNER_DELEGATED
+crash.n.03	انهيار	نهي	هور	ADJ2
+crumble.v.01	انْهَارَ	أهر	هور	ADJ2
+curvature.n.03	انحناء	أنح	حنو	ADJ2
+daybook.n.02	دفتر	دفر	دفتر	ADJ2
+demoralization.n.03	انهيار	نهي	هور	ADJ2
+denationalization.n.01	خصخصة	خصص	خصخص	RULE_R1
+devastation.n.02	انهيار	نهي	هور	ADJ2
+dhaka.n.01	دكا	دك		ADJ2_NO_ROOT_PROPER
+diamond.n.02	ألماس	ءلس	موس	ADJ2
+drugstore.n.01	صيدلية	صيد	صدل	OWNER_DELEGATED
+duck.v.01	انحنى	أحن	حنو	ADJ2
+epoxy.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+february.n.01	شباط	شوط		ADJ2_NO_ROOT_PROPER
+fidget.v.01	تململ	ملل	ململ	RULE_R1
+film.n.04	غشاء	شيء	غشي	ADJ2
+finch.n.01	شرشور	شرر	شرشر	RULE_R1
+fringillidae.n.01	الحسونيات	سني		ADJ2_NO_ROOT_UNSURE
+fundamental_law.n.01	دستور	دسر	دستر	ADJ2
+garden.n.01	بستان	بسس	بست	ADJ2
+gardening.n.01	بستنة	ستن	بست	ADJ2
+giza.n.01	الجيزة	جيز	جوز	ADJ2
+grammatical_category.n.01	فئة	فأ	فءو	ADJ2
+have.v.01	اقتنى	أتن	قنو	ADJ2
+inclination.n.08	انحناء	أنح	حنو	ADJ2
+indifference.n.01	مبالاة	بول	بلي	OWNER_DELEGATED
+ironing_board.n.01	طاولة	طول		ADJ2_NO_ROOT_LOAN
+july.n.01	تموز	موز		ADJ2_NO_ROOT_PROPER
+june.n.01	حزيران	حزر		OWNER_DELEGATED_NO_ROOT_PROPER
+knesset.n.01	الكنيست	كنت		ADJ2_NO_ROOT_PROPER
+laud.v.01	أَطْرَى	أطر	طرو	ADJ2
+lean.v.01	انْحَنَى	أحن	حنو	ADJ2
+ledger.n.01	دفتر	دفر	دفتر	ADJ2
+lock.n.04	هويس	هيس		ADJ2_NO_ROOT_UNSURE
+magnet.n.01	مغناطيس	مغن	غطس	ADJ2
+march.n.01	آذار	ءور		OWNER_DELEGATED_NO_ROOT_PROPER
+matthew.n.01	متى	مت		ADJ2_NO_ROOT_PROPER
+membrane.n.02	غشاء	شيء	غشي	ADJ2
+mumble.v.01	تَمْتَمَ	تمم	تمتم	RULE_R1
+murmur.v.01	تَمْتَمَ	تمم	تمتم	RULE_R1
+mutter.n.01	تمتمة	تمم	تمتم	RULE_R1
+natural_resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+newton.n.02	نيوتن	نون		ADJ2_NO_ROOT_LOAN
+north_atlantic_treaty_organization.n.01	الناتو	ءتو		ADJ2_NO_ROOT_PROPER
+oleoresin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+pasteurization.n.01	بسترة	بتر		ADJ2_NO_ROOT_PROPER
+philosopher.n.01	فيلسوف	فيل	فلسف	ADJ2
+poppy.n.01	خشخاش	خشش	خشخش	RULE_R1
+port_of_spain.n.01	بورت	برت		ADJ2_NO_ROOT_LOAN
+rarefaction.n.01	تخلخل	خلل	خلخل	RULE_R1
+reich.n.01	الرايخ	ريخ		ADJ2_NO_ROOT_PROPER
+report.v.02	أَفَادَ	أفد	فيد	ADJ2
+resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+ripple.v.02	تَرَقْرَقَ	رقق	رقرق	RULE_R1
+salamander.n.01	سمندل	سمندل	سمدل	RULE_MAP_v8
+sausage.n.01	نقانق	نقق		ADJ2_NO_ROOT_LOAN
+september.n.01	أيلول	ءول		OWNER_DELEGATED_NO_ROOT_PROPER
+skirt.n.02	تنورة	نور		ADJ2_NO_ROOT_LOAN
+soviets.n.01	السوفييت	سوف		ADJ2_NO_ROOT_PROPER
+starch.n.01	نشا	نش	نشو	ADJ2
+stew.n.02	إيدام	ءدم		ADJ2_NO_ROOT_LOAN
+sulfide.n.01	كبريتيد	كبر	كبرت	ADJ2
+synthetic_resin.n.01	راتنج	رتج		ADJ2_NO_ROOT_LOAN
+table.n.02	طاولة	طول		ADJ2_NO_ROOT_LOAN
+teddy.n.01	دبدوب	دبب	دبدب	RULE_R1
+theology.n.01	لاهوت	لوت	ليه	ADJ2
+throat.n.01	بلعوم	بلم	بلعم	ADJ2
+tick.v.02	تَكْتَكَ	تكك	تكتك	ADJ2
+tumble.v.01	انْهَارَ	أهر	هور	ADJ2
+ulmus.n.01	دردار	درر	دردر	RULE_R1
+venus.n.02	فينوس	نوس		ADJ2_NO_ROOT_LOAN
+victim.n.01	ضَحِيَّة	ضحح	ضحو	ADJ2
+watt.n.01	واط	واط		ADJ2_NO_ROOT_LOAN
+yogurt.n.01	زبادي	زبد		OWNER_DELEGATED_NO_ROOT_LOAN

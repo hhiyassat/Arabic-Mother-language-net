@@ -1,0 +1,51 @@
+K_in	decision	K_out	records	note
+ءذر	NEW	ءذر	M06#ROOT_SOURCE_DISPLAY_SHA256:6ea97f3de3be47c6	معرّب، القاموس (أذر) يذكر الآذريون؛ سجلّ التاج في المادة عن آذار فقط
+ءشن	NEW	ءشن	M04#ROOT_SOURCE_DISPLAY_SHA256:c90bfef01b3c153b;M05#ROOT_SOURCE_DISPLAY_SHA256:c90bfef01b3c153b	الأشنة في المحكم واللسان مادة أشن
+ببغ	NEW	ببغ	M06#ROOT_SOURCE_DISPLAY_SHA256:c0c1fc500b202e9d	الببغاء في القاموس مادة ببغ
+ببنج	NEW	ببنج	M06#ROOT_SOURCE_DISPLAY_SHA256:88b2062a9d0d8bfd;M07#ROOT_SOURCE_DISPLAY_SHA256:499274e60643e471	معرّب؛ القاموس ببنج والتاج بابونج
+بدق	NEW	بذق	M06#ROOT_SOURCE_DISPLAY_SHA256:7711f33813055878	الأصل البَيْذَق بالذال؛ رأس القاموس بذق (قرأه OCR بدق)؛ في اللسان مدمجة في سجلّ بذعر؛ باذق المحكم معنى آخر
+بذنج	NEW	بذنج	M04#ROOT_SOURCE_DISPLAY_SHA256:560e8a9089cb8ea7;M05#ROOT_SOURCE_DISPLAY_SHA256:560e8a9089cb8ea7	الباذنجان فارسي، في المحكم واللسان بذنج
+بطي	NEW	بطي	M03#ROOT_SOURCE_DISPLAY_SHA256:fbce64580179b246;M05#ROOT_SOURCE_DISPLAY_SHA256:fbce64580179b246;M04#ROOT_SOURCE_DISPLAY_SHA256:d879d02ba6f17ab6;M06#ROOT_SOURCE_DISPLAY_SHA256:119a0885599878c4	الباطية: الناجود؛ القاموس يائي؛ ابن فارس والتاج يذكرانها في بطأ «مجهول أصله»
+بنفسج	NEW	بنفسج	M06#ROOT_SOURCE_DISPLAY_SHA256:6fd4fb9e6236d233;M07#ROOT_SOURCE_DISPLAY_SHA256:1095d3bc41e1fa9a	معرّب في القاموس والتاج (رأس القاموس قرأه OCR بنخسج)
+جذمر	NEW	جذمر	M04#ROOT_SOURCE_DISPLAY_SHA256:1cb74baab83e54c9;M05#ROOT_SOURCE_DISPLAY_SHA256:1cb74baab83e54c9;M06#ROOT_SOURCE_DISPLAY_SHA256:21d535d9fc9cb054	الجذمور أصل الشيء
+حرذن	NEW	حرذن	M05#ROOT_SOURCE_DISPLAY_SHA256:77e9ba187bd0be61;M06#ROOT_SOURCE_DISPLAY_SHA256:77e9ba187bd0be61	دويبة؛ ابن فارس يذكرها في حرذ «ليست فيه عربية صحيحة» (M02 حرذ)
+حلزن	MAP	حلز	M05#ROOT_SOURCE_DISPLAY_SHA256:dad508ee7f80adb6;M07#ROOT_SOURCE_DISPLAY_SHA256:ae7b8e852f351a63;M11#ROOT_SOURCE_DISPLAY_SHA256:ae7b8e852f351a63	القاموس والتاج والوسيط في حلز (النون زائدة، فعلون)؛ اللسان رأس مستقل حلزن
+خربط	NEW	خربط		عامّي، لا مادة في المعاجم؛ رباعي بحروفه
+دستر	NEW	دستر	M06#ROOT_SOURCE_DISPLAY_SHA256:87bd32fc4f556567	الدستور معرّب في القاموس؛ في التاج مدمج داخل سجلّ دسر
+دعسق	NEW	دعسق		المادة في اللسان والقاموس (دعسق) بمعنى الوطء وليلة دعسقة؛ الدعسوقة غير مذكورة
+ريي	NEW	ريي	M06#ROOT_SOURCE_DISPLAY_SHA256:14db4ba99559cbea;M05#ROOT_SOURCE_DISPLAY_SHA256:0aedbd9869439433	الراية: العلم، لا تُهمز؛ القاموس ريي واللسان ريا
+زرنخ	NEW	زرنخ	M05#ROOT_SOURCE_DISPLAY_SHA256:d18683d486baf9cf;M06#ROOT_SOURCE_DISPLAY_SHA256:d18683d486baf9cf	الزرنيخ أعجمي في اللسان والقاموس
+زمرد	NEW	زمرد	M06#ROOT_SOURCE_DISPLAY_SHA256:ef53735847ecf375;M07#ROOT_SOURCE_DISPLAY_SHA256:ef53735847ecf375;M03#ROOT_SOURCE_DISPLAY_SHA256:92a9530a37745f6b;M07#ROOT_SOURCE_DISPLAY_SHA256:92a9530a37745f6b	الزمرد/الزمرذ؛ الصحاح بالذال
+زنجبل	NEW	زنجبل	M04#ROOT_SOURCE_DISPLAY_SHA256:ce867bda8ef099be;M06#ROOT_SOURCE_DISPLAY_SHA256:ce867bda8ef099be;M05#ROOT_SOURCE_DISPLAY_SHA256:fa05a67a4b5ffa92	النون ثانية لا ثالثة فلا R5؛ رأس اللسان قرأه OCR زيجبيل
+زنجفر	NEW	زنجفر	M06#ROOT_SOURCE_DISPLAY_SHA256:6bc764fd2001b145;M07#ROOT_SOURCE_DISPLAY_SHA256:6bc764fd2001b145	صبغ معروف
+سمسم	NEW	سمسم	M09#ROOT_SOURCE_DISPLAY_SHA256:dcddb50653aea06e	R1 رباعي مضاعف؛ المصباح يذكر السمسم الحب في سمم
+سمندل	NEW	سمدل	M04#ROOT_SOURCE_DISPLAY_SHA256:6cd3693022791608;M05#ROOT_SOURCE_DISPLAY_SHA256:1a367fb21a6b4861;M06#ROOT_SOURCE_DISPLAY_SHA256:1a367fb21a6b4861	R5 النون الثالثة الساكنة زائدة؛ المحكم في سمدل
+شتل	NEW	شتل	M11#ROOT_SOURCE_DISPLAY_SHA256:6dcdda04d2c38ca5	محدثة في الوسيط فقط؛ لا مادة في المعاجم القديمة
+شرسف	NEW	شرسف	M05#ROOT_SOURCE_DISPLAY_SHA256:c2da29a2059893e4	الشرسوف غضروف الضلع
+شرغف	NEW	شرغف	M06#ROOT_SOURCE_DISPLAY_SHA256:479d301f48ddb365	الشرغوف الضفدع الصغيرة
+شطرنج	NEW	شطرنج	M04#ROOT_SOURCE_DISPLAY_SHA256:34b9aad54610335f;M06#ROOT_SOURCE_DISPLAY_SHA256:34b9aad54610335f;M07#ROOT_SOURCE_DISPLAY_SHA256:2314c05cb10e359f	النون رابعة فلا R5؛ التاج في شطرج
+شفط	NEW	شفط		عامّي، لا مادة في المعاجم
+شقلب	NEW	شقلب		عامّي، لا مادة في المعاجم؛ ليست من شقل (الوزن)
+شنقب	NEW	شنقب	M06#ROOT_SOURCE_DISPLAY_SHA256:7929cdf1a343dabd;M07#ROOT_SOURCE_DISPLAY_SHA256:7929cdf1a343dabd	ضرب من الطير
+صنر	NEW	صنر	M02#ROOT_SOURCE_DISPLAY:2210;M06#ROOT_SOURCE_DISPLAY_SHA256:4d7031954fd7f824;M07#ROOT_SOURCE_DISPLAY_SHA256:4d7031954fd7f824	السنّارة = الصنّارة: حديدة المغزل المعقفة؛ سنر (الهرّ) معنى آخر
+ضمحل	NEW	ضمحل	M05#ROOT_SOURCE_DISPLAY_SHA256:3640427d741a9e15;M06#ROOT_SOURCE_DISPLAY_SHA256:3640427d741a9e15	اضمحلّ رباعي في اللسان والقاموس؛ يُذكر أيضاً في ضحل وضمحن
+طبشر	NEW	طبشر	M06#ROOT_SOURCE_DISPLAY_SHA256:a3867064fe0f590d;M07#ROOT_SOURCE_DISPLAY_SHA256:a3867064fe0f590d	الطباشير في القاموس والتاج
+طرطش	NEW	طرطش		عامّي؛ مادة طرطش في القاموس عَلَم بلد (طرطوشة) فلا تُعدّ
+طزج	NEW	طزج	M05#ROOT_SOURCE_DISPLAY_SHA256:e2227c1042cab8c2;M07#ROOT_SOURCE_DISPLAY_SHA256:e2227c1042cab8c2;M06#ROOT_SOURCE_DISPLAY_SHA256:da3a5cfd7a091dbd	الطازج معرّب تازه؛ رأس القاموس قرأه OCR طرج
+عنصل	MAP	عصل	M05#ROOT_SOURCE_DISPLAY_SHA256:290af9c9080328e9;M06#ROOT_SOURCE_DISPLAY_SHA256:290af9c9080328e9;M04#ROOT_SOURCE_DISPLAY_SHA256:82a7f4be5c15248f;M05#ROOT_SOURCE_DISPLAY_SHA256:82a7f4be5c15248f	نون عنصلاء زائدة (سيبويه)؛ المحكم واللسان في عصل؛ للّسان والقاموس رأس عنصل أيضاً
+غندر	NEW	غندر	M04#ROOT_SOURCE_DISPLAY_SHA256:850348378d86c360;M06#ROOT_SOURCE_DISPLAY_SHA256:850348378d86c360;M05#ROOT_SOURCE_DISPLAY_SHA256:42d4ac48b7c4fe31	غلام غندر: سمين ناعم؛ رأس اللسان قرأه OCR عندره
+فتنج	NEW	فتنج	M06#ROOT_SOURCE_DISPLAY_SHA256:472c55af45f45589;M07#ROOT_SOURCE_DISPLAY_SHA256:472c55af45f45589	الفوتنج معرّب بوتنك
+فستق	NEW	فستق	M05#ROOT_SOURCE_DISPLAY_SHA256:bbcf07b03970ddf8;M06#ROOT_SOURCE_DISPLAY_SHA256:bbcf07b03970ddf8	معرّب بسته
+فوفل	NEW	فوفل	M04#ROOT_SOURCE_DISPLAY_SHA256:591736af11ed6410;M05#ROOT_SOURCE_DISPLAY_SHA256:591736af11ed6410	ثمر نخلة
+قءقء	NEW	قءقء	M07#ROOT_SOURCE_DISPLAY_SHA256:8d87780666cc916a	R1 مضاعف؛ القأقأ حكاية أصوات الغربان في التاج
+قرقع	NEW	قرقع		R1 مضاعف؛ لا رأس قرقع في المعاجم المتاحة
+قرنفل	MAP	قرفل	M05#ROOT_SOURCE_DISPLAY_SHA256:d934f446f4f31099;M06#ROOT_SOURCE_DISPLAY_SHA256:d934f446f4f31099;M11#ROOT_SOURCE_DISPLAY_SHA256:4914bb1b410324c9	R5 نصّ ابن جني: قرنفل ← قرفل
+قلفط	NEW	قلفط		قلفط في القاموس لقب رجل فقط؛ مقلفط غير مذكور
+قلقس	NEW	قلقس	M06#ROOT_SOURCE_DISPLAY_SHA256:529b4822e0a36be1;M07#ROOT_SOURCE_DISPLAY_SHA256:529b4822e0a36be1	القلقاس
+قوقع	NEW	قوقع		لا مادة في المعاجم؛ ليس مضاعفاً
+كشمش	NEW	كشمش	M05#ROOT_SOURCE_DISPLAY_SHA256:d638fc180edb29b2;M06#ROOT_SOURCE_DISPLAY_SHA256:d638fc180edb29b2	ضرب من العنب
+لذن	NEW	لذن	M05#ROOT_SOURCE_DISPLAY_SHA256:96fa98eadd10df9f	اللاذن من العلوك
+مردقش	NEW	مردقش	M03#ROOT_SOURCE_DISPLAY_SHA256:d7ab0d36b78a49b8;M05#ROOT_SOURCE_DISPLAY_SHA256:d01008c7864a451c;M06#ROOT_SOURCE_DISPLAY_SHA256:d01008c7864a451c	المرزنجوش؛ رأس الصحاح قرأه OCR مردش
+نغز	NEW	نغز	M07#ROOT_SOURCE_DISPLAY_SHA256:dd3724f00f8173e5;M11#ROOT_SOURCE_DISPLAY_SHA256:dd3724f00f8173e5	نغز بين القوم: أغرى
+نمذج	NEW	نمذج	M06#ROOT_SOURCE_DISPLAY_SHA256:55677b598294a6f1;M07#ROOT_SOURCE_DISPLAY_SHA256:55677b598294a6f1	النموذج معرّب
+هلن	NEW	هلن	M06#ROOT_SOURCE_DISPLAY_SHA256:75f8b8fde310cf54	الهليون نبت

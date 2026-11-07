@@ -13,16 +13,17 @@ import pytest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NET = os.environ.get("ARABIC_NET_HOME", os.path.dirname(ROOT))
-BANK = os.path.join(NET, "HusseinFrameNet", "02_roots", "HFN_ROOTS_v7.csv")
+BANK = os.path.join(NET, "HusseinFrameNet", "02_roots", "HFN_ROOTS_v8.csv")
 SYN = os.path.join(ROOT, "data", "wordnet", "wordnet_synsets.json")
 LOG = os.path.join(ROOT, "data", "wordnet", "ROOTKEY_CHANGES_20261107.tsv")
 DEC = os.path.join(ROOT, "audit", "wordnet_rootkey", "WN_ROOT_REVIEW_DECISIONS.tsv")
 DEC2 = os.path.join(ROOT, "audit", "wordnet_rootkey", "census", "E_DECISIONS.tsv")
 LOG2 = os.path.join(ROOT, "data", "wordnet", "ROOTKEY2_CHANGES_20261107.tsv")
 VERIFIED = {"READ2", "READ2_LOAN_FILED", "LEX_ATTEST", "CENSUS2", "CENSUS2_LOAN_FILED", "CONFIRMED_HFN", "CONFIRMED_LEX",
-            "READ2_DISAGREE", "CENSUS2_DISAGREE"}
+            "ADJ2", "OWNER_DELEGATED", "RULE_R1", "RULE_R2", "RULE_MAP_v8"}
+LOG3 = os.path.join(ROOT, "data", "wordnet", "ROOTKEY3_CHANGES_20261107.tsv")
 
-pytestmark = pytest.mark.skipif(not os.path.exists(BANK), reason="HusseinFrameNet HFN_ROOTS_v7 غير موجود")
+pytestmark = pytest.mark.skipif(not os.path.exists(BANK), reason="HusseinFrameNet HFN_ROOTS_v8 غير موجود")
 
 
 @pytest.fixture(scope="module")
@@ -35,9 +36,10 @@ def data():
 
 
 def test_every_root_is_a_bank_key(data):
-    bk, syn, agreed_new = data
-    bad = [(s["id"], r) for s in syn for r in s.get("roots") or []
-           if r not in bk and r not in agreed_new and "PENDING_OWNER_ROOT" not in s.get("root_status_rootkey", [])]
+    """ROOTKEY v3: owner rulings done and bank v8 holds the new keys — every root is a bank key, nothing pending."""
+    bk, syn, _ = data
+    bad = [(s["id"], r) for s in syn for r in s.get("roots") or [] if r not in bk]
+    assert not any("PENDING_OWNER_ROOT" in s.get("root_status_rootkey", []) for s in syn)
     assert not bad, bad[:20]
 
 
@@ -62,11 +64,14 @@ def test_nothing_lost(data):
         assert r["roots_before"] == "|".join(s["roots_prev_rootkey"])
     for r in csv.DictReader(open(LOG2, encoding="utf-8"), delimiter="\t"):
         s = changed[r["synset"]]
-        assert r["roots_before"] == "|".join(s["roots_prev_rootkey2"]) and r["roots_after"] == "|".join(s["roots"])
+        assert r["roots_before"] == "|".join(s["roots_prev_rootkey2"])
+    for r in csv.DictReader(open(LOG3, encoding="utf-8"), delimiter="\t"):
+        s = changed[r["synset"]]
+        assert r["roots_before"] == "|".join(s["roots_prev_rootkey3"]) and r["roots_after"] == "|".join(s["roots"])
     # الجذر لا يُسقط إلا بحكم القارئين أنّ الكلمة معرّبة أو علم أو أداة
     for s in changed.values():
         if not s["roots"]:
-            bs = s.get("root_key_basis", []) + s.get("root_key_basis2", [])
+            bs = s.get("root_key_basis", []) + s.get("root_key_basis2", []) + s.get("root_key_basis3", [])
             assert any("NO_ROOT_" in b for b in bs), s["id"]
 
 
@@ -77,7 +82,7 @@ def test_every_root_verified(data):
     for s in syn:
         if not s.get("roots"):
             continue
-        bs = [b for b in s.get("root_key_basis2") or [] if "NO_ROOT_" not in b]
+        bs = [b for b in (s.get("root_key_basis3") or s.get("root_key_basis2") or []) if "NO_ROOT_" not in b]
         assert bs, s["id"]
         bad += [(s["id"], b) for b in bs if b not in VERIFIED]
     assert not bad, bad[:20]
