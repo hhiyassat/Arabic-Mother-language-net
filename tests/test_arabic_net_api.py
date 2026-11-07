@@ -196,3 +196,11 @@ def test_maqayis_hamza_in_naqis_entry():
         pytest.skip("data/maqayis_embedded.tsv غائب")
     assert e["درء"]["host_display"] == "درى" and e["درء"]["how"] == "SAME_ENTRY_HAMZ"
     assert e["حرق"]["host_display"] == "حرف"          # «الحاء ولراء والقاف»: الألف ساقطة في OCR
+
+
+def test_maqayis_absent_in_book_from_editor_notes():
+    """عون وعوم وعول وعوق أهملها ابن فارس، ورتل ورتق سقطت من الأصل (حاشية هارون): غيابها من الكتاب لا من الاستخراج."""
+    from arabic_net_api import roots as R
+    a = R.absent_in_book()
+    assert a["عون"]["kind"] == "OMITTED_BY_AUTHOR" and a["رتل"]["kind"] == "MANUSCRIPT_LACUNA"
+    assert "عون" not in R._maqayis() and "عوض" in R._maqayis()
