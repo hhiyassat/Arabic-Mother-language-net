@@ -1,0 +1,690 @@
+pair_id	verdict	K	note
+P0001	PROPER		آخيون: اسم شعب يوناني
+P0002	PROPER		اسم قبيلة أمريكية
+P0003	PROPER		علم أسطوري يوناني
+P0004	ROOT	كفح	كافح يكافح مكافحة: اسم فاعل مفاعلة
+P0005	PROPER		علم لاتيني
+P0006	PROPER		علم أعجمي
+P0007	PROPER		اسم ولاية
+P0008	PROPER		اسم جبال/شعب
+P0009	PROPER		علم لاتيني
+P0010	ROOT	دعو	دعا يدعو؛ الهاء للمبالغة
+P0011	PROPER		نسبة إلى اسم أعجمي
+P0012	PROPER		علم لاتيني
+P0013	PROPER		نسبة إلى علم أعجمي
+P0014	PROPER		اسم شعب
+P0015	PROPER		علم أعجمي
+P0016	PROPER		علم أعجمي
+P0017	PROPER		نسبة إلى برلين
+P0018	PROPER		علم أعجمي
+P0019	PROPER		علم أعجمي
+P0020	LOAN		berserker إسكندنافية
+P0021	LOAN		باي: لقب تركي (بك)
+P0022	ROOT	ءخو	الأخ أصله أخَوٌ (أخوان، الأخوّة)
+P0023	ROOT	ءخو	أصله أخَوٌ
+P0024	LOAN		billionaire
+P0025	ROOT	يدي	اليد أصلها يَدْيٌ (أيدٍ، يديت)
+P0026	ROOT	دعو	اسم فاعل من دعا
+P0027	PROPER		علم أعجمي
+P0028	LOAN		cardinal
+P0029	ROOT	قوم	قائم: اسم فاعل من قام، الهمزة منقلبة عن واو
+P0030	LOAN		carioca: ساكن ريو
+P0031	PROPER		علم أعجمي
+P0032	PROPER		علم أعجمي
+P0033	PROPER		نسبة إلى الأسرة الكارولنجية
+P0034	PROPER		نسبة إلى علم أعجمي
+P0035	PROPER		علم أعجمي
+P0036	ROOT	عرب	عربة + لاحقة جي التركية للنسبة المهنية
+P0037	PROPER		نسبة إلى دير شارتروز
+P0038	PROPER		علم أعجمي
+P0039	PROPER		علم أعجمي
+P0040	ROOT	فهرس	معرّب قديم، فهرس يفهرس؛ اسم فاعل
+P0041	PROPER		اسم شعب
+P0042	PROPER		علم أعجمي
+P0043	LOAN		Chicano
+P0044	PROPER		اسم قبيلة
+P0045	PROPER		نسبة إلى تشيلي
+P0046	PROPER		علم صيني
+P0047	ROOT	ولي	استولى يستولي: استفعال من الولاية
+P0048	PROPER		علم أعجمي (كوكا)
+P0049	ROOT	حظو	حظيت المرأة عند زوجها حُظوة؛ الحظيّة (حظو/حظي كلاهما في البنك)
+P0050	ROOT	حلو	الحلواء + ياء النسب، النون زائدة
+P0051	ROOT	قوم	قيِّم فَيْعِل من قام، أصله قَيْوِم
+P0052	PROPER		علم أعجمي
+P0053	PROPER		القوزاق: اسم شعب تركي الأصل
+P0054	ROOT	كفح	اسم فاعل من كافح
+P0055	ROOT	ولي	الوليّ فعيل من الولاية
+P0056	ROOT	ولي	مؤنث وليّ
+P0057	PROPER		نسبة إلى التشيك
+P0058	PROPER		نسبة إلى تشيكوسلوفاكيا
+P0059	PROPER		علم أسطوري
+P0060	PROPER		علم ألماني
+P0061	PROPER		علم أعجمي
+P0062	PROPER		اسم قبيلة
+P0063	ROOT	ملو	أملى يُملي (لغة في أملّ)؛ اللام واو/ياء، ملي ليس في البنك
+P0064	PROPER		علم أسطوري
+P0065	PROPER		اسم قبيلة
+P0066	PROPER		علم أعجمي
+P0067	LOAN		إمبراطور: لاتيني imperator
+P0068	PROPER		علم يوناني
+P0069	PROPER		علم أسطوري
+P0070	PROPER		علم أسطوري
+P0071	PROPER		اسم شعب
+P0072	ROOT	كون	كائن: اسم فاعل من كان، الهمزة عن واو
+P0073	PROPER		نسبة إلى فنلندا
+P0074	ROOT	حبب	أحبّ يحبّ فهو مُحِبّ
+P0075	ROOT	دمم	دمَّ يدِمّ دمامةً فهو دميم
+P0076	PROPER		علم أعجمي
+P0077	PROPER		علم أعجمي
+P0078	PROPER		علم أعجمي
+P0079	LOAN		gaucho
+P0080	LOAN		geisha
+P0081	PROPER		نسبة إلى غونغورا
+P0082	PROPER		علم أعجمي
+P0083	PROPER		علم أعجمي
+P0084	PROPER		علم أعجمي
+P0085	ROOT	ولد	والدة: اسم فاعل من ولد
+P0086	ROOT	زمجر	رباعي: زمجر يزمجر
+P0087	ROOT	دمدم	رباعي مضعف: دمدم يدمدم
+P0088	PROPER		نسبة إلى غواتيمالا
+P0089	LOAN		ham (هاوي لاسلكي)
+P0090	PROPER		علم أعجمي
+P0091	PROPER		علم يوناني
+P0092	PROPER		علم فيتنامي
+P0093	ROOT	دهن	فعّال من الدِّهان
+P0094	ROOT	همم	الهمهمة في اللسان والقاموس تحت همم (همهم ليس في البنك)
+P0095	PROPER		علم أعجمي
+P0096	PROPER		علم عبراني
+P0097	LOAN		imperial
+P0098	PROPER		نسبة إلى جاكسون
+P0099	PROPER		علم أعجمي
+P0100	PROPER		نسبة إلى جامايكا
+P0101	PROPER		علم أعجمي
+P0102	ROOT	هرول	هرول يهرول (رباعي في البنك)
+P0103	PROPER		اسم قبيلة
+P0104	PROPER		اسم قبيلة
+P0105	PROPER		علم أعجمي
+P0106	PROPER		علم أسطوري
+P0107	PROPER		علم أعجمي
+P0108	PROPER		علم أعجمي
+P0109	PROPER		علم أسطوري
+P0110	PROPER		نسبة إلى ليبيريا
+P0111	PROPER		نسبة إلى ليبيا
+P0112	PROPER		علم أعجمي
+P0113	PROPER		علم روسي
+P0114	PROPER		نسبة إلى مكيافيلي
+P0115	LOAN		mafioso
+P0116	ROOT	لوي	اللواء: الراية، من لوى، الهمزة عن ياء
+P0117	PROPER		علم يوناني
+P0118	ROOT	مني	استمنى: استفعال من المنيّ
+P0119	ROOT	خوم	الخام: المادة غير المصنوعة؛ اللسان والقاموس في خوم وخيم
+P0120	PROPER		علم أعجمي
+P0121	PROPER		علم أعجمي
+P0122	ROOT	دوي	الداية: الظئر/القابلة، في اللسان تحت دوا
+P0123	ROOT	دعو	داعية: من دعا
+P0124	LOAN		millionaire
+P0125	PROPER		علم أعجمي
+P0126	PROPER		علم لاتيني
+P0127	ROOT	تمم	التمتمة تحت تمم عند ابن فارس (تمتم ليس في البنك)
+P0128	ROOT	سمو	سمّى يسمّي فهو مسمٍّ
+P0129	PROPER		علم أعجمي
+P0130	PROPER		نسبة إلى ولاية
+P0131	PROPER		نسبة إلى ولاية
+P0132	PROPER		نسبة إلى مدينة
+P0133	LOAN		cardinal
+P0134	PROPER		علم أعجمي
+P0135	LOAN		ninja
+P0136	PROPER		اسم قبيلة
+P0137	ROOT	ظلل	المِظلّة + ياء النسب
+P0138	PROPER		نسبة إلى بيرو
+P0139	PROPER		علم يوناني
+P0140	PROPER		علم أعجمي
+P0141	PROPER		اسم شعب
+P0142	PROPER		نسبة إلى كيبك
+P0143	PROPER		علم أسطوري
+P0144	ROOT	لهو	لها يلهو فهو لاهٍ
+P0145	PROPER		علم أعجمي
+P0146	PROPER		نسبة إلى جزر ريوكيو
+P0147	PROPER		علم أعجمي
+P0148	LOAN		sangoma
+P0149	PROPER		علم أعجمي
+P0150	PROPER		نسبة إلى السكوثيين
+P0151	PROPER		شيث: علم عبراني
+P0152	LOAN		شاه: لقب فارسي
+P0153	LOAN		shegetz يديشية
+P0154	PROPER		اسم قبيلة
+P0155	PROPER		نسبة إلى سنغافورة
+P0156	PROPER		اسم قبيلة
+P0157	ROOT	زلق	انزلق ينزلق: انفعال
+P0158	PROPER		اسم شعب
+P0159	LOAN		squaw
+P0160	PROPER		علم أعجمي
+P0161	PROPER		علم أعجمي
+P0162	PROPER		اسم شعب/لغة
+P0163	PROPER		نسبة إلى الطاجيك
+P0164	LOAN		taoiseach إيرلندية
+P0165	LOAN		thane
+P0166	PROPER		علم أسطوري
+P0167	LOAN		theosophy
+P0168	PROPER		علم أسطوري
+P0169	PROPER		علم أعجمي
+P0170	PROPER		علم أعجمي
+P0171	PROPER		علم أعجمي
+P0172	LOAN		tractarian
+P0173	PROPER		علم أعجمي
+P0174	PROPER		علم أعجمي
+P0175	PROPER		علم أعجمي
+P0176	PROPER		علم أعجمي
+P0177	PROPER		نسبة إلى أوغندا
+P0178	LOAN		vaquero
+P0179	PROPER		علم أسطوري
+P0180	PROPER		نسبة إلى فيرمونت
+P0181	PROPER		نسبة إلى فيكتوريا
+P0182	PROPER		علم لاتيني
+P0183	PROPER		نسبة إلى فرجينيا
+P0184	LOAN		viscount
+P0185	LOAN		viscountess
+P0186	PROPER		اسم لغة/شعب
+P0187	PROPER		نسبة إلى واشنطن
+P0188	PROPER		علم أعجمي
+P0189	PROPER		علم أعجمي
+P0190	LOAN		wicca
+P0191	PROPER		اسم قبيلة
+P0192	PROPER		نسبة إلى علم أعجمي
+P0193	PROPER		اسم قبيلة
+P0194	LOAN		yahoo
+P0195	PROPER		علم هندي أسطوري
+P0196	PROPER		اسم قبيلة
+P0197	PROPER		اسم قبيلة
+P0198	LOAN		yogi
+P0199	PROPER		اسم قبيلة
+P0200	PROPER		نسبة إلى يوغوسلافيا
+P0201	PROPER		علم أسطوري
+P0202	LOAN		actinia
+P0203	PROPER		اسم حصان
+P0204	ROOT	حرذن	الحِرذَون في اللسان والقاموس تحت حرذن؛ NOT_IN_BANK
+P0205	LOAN		amphiuma
+P0206	ROOT	هوي	لا + هواء + ياء النسب، الهواء من هوي
+P0207	LOAN		caracara
+P0208	LOAN		caribou
+P0209	ROOT	قيق	القيق: طائر، الصحاح والقاموس في قيق (اللسان في قوق)
+P0210	LOAN		macaque
+P0211	LOAN		carabao
+P0212	LOAN		Cardigan (سلالة كلاب)
+P0213	PROPER		اسم ولاية
+P0214	ROOT	رءس	جمع رأسيّ، من الرأس
+P0215	PROPER		اسم خليج
+P0216	LOAN		chimpanzee
+P0217	LOAN		chuck-will's-widow
+P0218	LOAN		cisco
+P0219	LOAN		cockatiel
+P0220	LOAN		cockatoo
+P0221	LOAN		cariama
+P0222	ROOT	مسح	التمساح في اللسان والصحاح والقاموس تحت مسح
+P0223	PROPER		علم أسطوري
+P0224	LOAN		ginkgo
+P0225	LOAN		dinocerata
+P0226	LOAN		diplodocus
+P0227	LOAN		drosophila
+P0228	LOAN		قاقم: فارسي/تركي، لا مادة له في المعاجم
+P0229	LOAN		euglena
+P0230	LOAN		euglenidae
+P0231	LOAN		hamster
+P0232	LOAN		geoduck
+P0233	LOAN		schnauzer
+P0234	ROOT	بوز	الباز لغة في البازي، الصحاح والقاموس في بوز (أبواز، بيزان)
+P0235	PROPER		اسم مقاطعة
+P0236	UNSURE		بلشون: عامّي لطائر مالك الحزين، لا يرد في المعاجم القديمة ولا يتبيّن له جذر ولا أصل أعجمي مؤكد
+P0237	ROOT	دمي	الدم أصله دَمْيٌ (دميت، دميان)
+P0238	ROOT	قلس	القلنسوة في اللسان والقاموس والصحاح تحت قلس، والنون والواو زائدتان
+P0239	LOAN		ichthyostega
+P0240	LOAN		iguanodon
+P0241	LOAN		jack
+P0242	LOAN		jaguarundi
+P0243	LOAN		kea
+P0244	LOAN		keeshond
+P0245	LOAN		kookaburra
+P0246	LOAN		Labrador (سلالة)
+P0247	LOAN		leishmania
+P0248	LOAN		leonberger
+P0249	LOAN		macaw
+P0250	LOAN		mink
+P0251	LOAN		muskellunge
+P0252	ROOT	عرس	ابن عِرس + ياء نسب وجمع
+P0253	LOAN		Newfoundland (سلالة)
+P0254	ROOT	عسب	اليعسوب في اللسان والصحاح تحت عسب، الياء زائدة
+P0255	ROOT	قوم	استقام يستقيم: استفعال
+P0256	ROOT	برذن	البِرذَون في الصحاح تحت برذن
+P0257	ROOT	ببغ	الببغاء في القاموس تحت ببغ؛ NOT_IN_BANK
+P0258	LOAN		phoebe
+P0259	LOAN		phycoerythrin
+P0260	LOAN		pickerel
+P0261	LOAN		piculet
+P0262	ROOT	يءيء	اليؤيؤ: طائر، التاج تحت يأيأ
+P0263	LOAN		procyon
+P0264	ROOT	رءس	رئيس من الرأس + جمع النسبة
+P0265	ROOT	طلع	طليعة/طلائع + ياء النسب
+P0266	LOAN		puffin
+P0267	LOAN		quagga
+P0268	LOAN		quahog
+P0269	LOAN		ray
+P0270	LOAN		scallop
+P0271	LOAN		scallopine
+P0272	ROOT	سقر	السقنقور: معرّب، أورده القاموس في سقر (مادة سقنقر ليست في البنك)
+P0273	LOAN		chara
+P0274	ROOT	مصص	مِمصّ: اسم آلة من مصّ
+P0275	ROOT	رتل	الرُّتيلاء في اللسان والقاموس تحت رتل
+P0276	LOAN		tenrec
+P0277	LOAN		tetrahymena
+P0278	LOAN		chachalaca
+P0279	LOAN		titanosaur
+P0280	LOAN		tuatara
+P0281	ROOT	همم	الهوامّ جمع هامّة من همّ يهمّ (دبّ)
+P0282	LOAN		viscacha
+P0283	LOAN		wahoo
+P0284	LOAN		whiff
+P0285	LOAN		yersinia
+P0286	ROOT	قوم	استقام
+P0287	ROOT	غور	الغار: الكهف/التجويف، من غار يغور
+P0288	ROOT	دمي	الدم أصله دَمْيٌ
+P0289	LOAN		autacoid
+P0290	ROOT	قنو	القناة جمعها قنوات، واوية
+P0291	ROOT	رءي	الرئة: أصلها رِئْيٌ (رأيته أصبت رئته)، اللسان في رأى
+P0292	ROOT	مخخ	تصغير مخّ
+P0293	ROOT	قوم	استقام
+P0294	ROOT	دهن	جمع دُهن
+P0295	LOAN		thyroxine
+P0296	ROOT	لهو	اللهاة جمعها لهوات
+P0297	ROOT	حشو	الحشا جمعه أحشاء، حشوة
+P0298	LOAN		ambrosia
+P0299	LOAN		aquavit
+P0300	LOAN		avocado
+P0301	LOAN		tofu
+P0302	ROOT	رقق	رقيقة/رقائق من رقّ
+P0303	LOAN		carbonado
+P0304	LOAN		cashew
+P0305	LOAN		taco
+P0306	LOAN		cacao
+P0307	LOAN		macaroon
+P0308	LOAN		curry
+P0309	LOAN		egg foo yong
+P0310	LOAN		tokay
+P0311	LOAN		flip
+P0312	LOAN		foie gras
+P0313	LOAN		genoise
+P0314	LOAN		gouda
+P0315	LOAN		guacamole
+P0316	ROOT	طهو	طها يطهو طَهْوًا، والاسم الطَّهي (ويقال يطهى)
+P0317	LOAN		jalapeño
+P0318	LOAN		jambalaya
+P0319	LOAN		curry
+P0320	LOAN		lekvar
+P0321	ROOT	قوم	القائمة من قام
+P0322	LOAN		mocha
+P0323	LOAN		melegueta
+P0324	LOAN		صلصة: من الإيطالية salsa، لا ترد في المعاجم
+P0325	ROOT	لءلء	اللؤلؤ، تلألأ؛ رباعي مضعف
+P0326	LOAN		Pernod
+P0327	LOAN		piccalilli
+P0328	LOAN		quiche
+P0329	LOAN		ratafia
+P0330	LOAN		ratatouille
+P0331	LOAN		roux
+P0332	LOAN		sangria
+P0333	LOAN		satsuma
+P0334	LOAN		taco
+P0335	LOAN		tagliatelle
+P0336	LOAN		teriyaki
+P0337	LOAN		tetrazzini
+P0338	LOAN		vermouth
+P0339	LOAN		yam
+P0340	LOAN		أقاقيا: يونانية akakia، ذُكرت في القاموس عرضًا تحت قرظ دون مادة
+P0341	ROOT	شقق	شقيقة جمعها شقائق
+P0342	LOAN		angelim
+P0343	LOAN		angostura
+P0344	LOAN		araucaria
+P0345	LOAN		ayapana
+P0346	LOAN		برباريس: رومية، القاموس يذكرها في أمبرباريس بلا جذر
+P0347	ROOT	لحو	لحا العود يلحوه: قشره، اللِّحاء
+P0348	ROOT	غور	الغار: شجر، من غور
+P0349	ROOT	زرد	الزراوند: دواء معرّب، أورده القاموس والتاج في زرد
+P0350	LOAN		liatris
+P0351	LOAN		jacaranda
+P0352	LOAN		gardenia
+P0353	ROOT	هوم	الهامة: الرأس، عينها واو (هامات)
+P0354	LOAN		caracolito
+P0355	LOAN		carpenteria
+P0356	LOAN		cascarilla
+P0357	LOAN		cecropia
+P0358	LOAN		chichipe
+P0359	LOAN		citrange
+P0360	ROOT	جلجل	الجُلجُل والجلاجل؛ الجلاجلاء مولّد منه
+P0361	LOAN		dahlia
+P0362	LOAN		laburnum
+P0363	LOAN		deutzia
+P0364	LOAN		liatris
+P0365	LOAN		dracontium
+P0366	LOAN		drosophyllum
+P0367	LOAN		eucalyptus
+P0368	LOAN		fusarium
+P0369	LOAN		gazania
+P0370	LOAN		inga
+P0371	LOAN		iva
+P0372	LOAN		macadamia
+P0373	LOAN		magnolia
+P0374	ROOT	كوذ	الكاذي: شجر طيب الريح، اللسان في كوذ
+P0375	LOAN		pavonia
+P0376	LOAN		pistia
+P0377	LOAN		protea
+P0378	LOAN		tithonia
+P0379	LOAN		vernonia
+P0380	LOAN		yucca
+P0381	LOAN		clianthus
+P0382	LOAN		guar
+P0383	LOAN		hamelia
+P0384	ROOT	يدي	اليد أصلها يَدْيٌ
+P0385	ROOT	بنفسج	معرّب قديم، التاج يفرد له مادة بنفسج؛ NOT_IN_BANK
+P0386	LOAN		ylang-ylang
+P0387	LOAN		inga
+P0388	LOAN		catharobe
+P0389	LOAN		kowhai
+P0390	LOAN		persea
+P0391	LOAN		lecanopteris
+P0392	LOAN		lecanora
+P0393	LOAN		leccinum
+P0394	ROOT	لحو	اللِّحاء من لحا يلحو
+P0395	LOAN		romneya
+P0396	LOAN		maxillaria
+P0397	LOAN		mitrula
+P0398	LOAN		سرخس: فارسي (واسم مدينة)، لا مادة له في المعاجم
+P0399	ROOT	جوز	تصغير جوزة
+P0400	LOAN		caragana
+P0401	ROOT	لءلء	نسبة إلى اللؤلؤ
+P0402	LOAN		physostigmine
+P0403	LOAN		toetoe
+P0404	LOAN		heuchera
+P0405	LOAN		rhizoctinia
+P0406	LOAN		rhizopus
+P0407	LOAN		rochelle (اسم جنس)
+P0408	LOAN		sclerotinia
+P0409	ROOT	صفف	الصفصاف في اللسان والصحاح تحت صفف
+P0410	LOAN		stelis
+P0411	LOAN		tagasaste
+P0412	LOAN		toitoi
+P0413	LOAN		verticillium
+P0414	LOAN		vesicaria
+P0415	ROOT	لحو	اللِّحاء من لحا
+P0416	ROOT	مرر	مَمَرّ: اسم مكان من مرّ
+P0417	LOAN		ampicillin
+P0418	LOAN		angiotensin
+P0419	ROOT	طلي	طلى يطلي طِلاء
+P0420	LOAN		azactam
+P0421	ROOT	ضوء	أضاء إضاءة
+P0422	LOAN		فستان: من التركية/الإيطالية، مولّد
+P0423	ROOT	ريي	الراية في القاموس تحت ريي؛ NOT_IN_BANK
+P0424	LOAN		bevatron
+P0425	LOAN		bungalow
+P0426	ROOT	ظلل	مِظلّة: اسم آلة
+P0427	LOAN		carbomycin
+P0428	LOAN		carburetor
+P0429	ROOT	رجح	الأرجوحة في المعاجم تحت رجح، الهمزة والواو زائدتان
+P0430	LOAN		caryatid
+P0431	ROOT	كوي	مِكواة: اسم آلة من كوى
+P0432	LOAN		cello
+P0433	ROOT	بلع	فاعولة من بلع
+P0434	LOAN		diuril
+P0435	ROOT	صفو	مِصفاة من صفا
+P0436	ROOT	غور	مغارة: مفعلة من غار
+P0437	LOAN		cycloserine
+P0438	LOAN		cyclotron
+P0439	ROOT	سطن	الأسطوانة: ابن فارس وغيره في سطن، على وزن أفعوانة
+P0440	LOAN		diazoxide
+P0441	LOAN		dimity
+P0442	ROOT	وجه	اتجاه افتعال من وجه + ياء النسب
+P0443	ROOT	دمي	الدُّمية: الصورة، في اللسان تحت دمي
+P0444	ROOT	محو	مِمحاة من محا يمحو
+P0445	LOAN		ethernet
+P0446	LOAN		اسم تجاري (Fiosol)
+P0447	LOAN		ناي: فارسي (ابن فارس يذكره عرضًا في نأي)
+P0448	LOAN		flageolet
+P0449	ROOT	رذذ	الرذاذ من رذّت السماء
+P0450	ROOT	يدي	مثنى اليد
+P0451	LOAN		hyoscyamine
+P0452	LOAN		jaconet
+P0453	LOAN		junk
+P0454	LOAN		kakemono
+P0455	LOAN		ketch
+P0456	LOAN		kimono
+P0457	LOAN		lamé
+P0458	LOAN		lanai
+P0459	LOAN		laptop
+P0460	LOAN		laser
+P0461	LOAN		lido
+P0462	LOAN		low/overall
+P0463	LOAN		mackinaw
+P0464	LOAN		magnum
+P0465	LOAN		Maxzide
+P0466	LOAN		meccano
+P0467	LOAN		microfiche
+P0468	LOAN		microfilm
+P0469	LOAN		micrometer
+P0470	LOAN		micronor
+P0471	LOAN		microphone
+P0472	LOAN		microwave
+P0473	LOAN		numdah فارسي
+P0474	LOAN		ocarina
+P0475	ROOT	ذبذب	رباعي مضعف
+P0476	ROOT	صبب	مَصبّ اسم مكان من صبّ
+P0477	LOAN		pagoda
+P0478	LOAN		piccolo
+P0479	LOAN		piqué
+P0480	ROOT	نصص	منصّة: مِفعلة من نصّ (رفع)
+P0481	LOAN		procaine
+P0482	LOAN		pyocyanase
+P0483	LOAN		pyocyanin
+P0484	ROOT	ءوي	آوى يؤوي إيواءً
+P0485	ROOT	دكك	مِدكّ: اسم آلة من دكّ
+P0486	ROOT	غير	غيّر/غيار من الغيرة والتغيير، يائية
+P0487	ROOT	فعي	الأفعى + فُعلانية (مركبة الأفعوانية)
+P0488	LOAN		satinet
+P0489	ROOT	قصص	مِقصّ اسم آلة
+P0490	LOAN		stash/soutache
+P0491	LOAN		sputnik
+P0492	ROOT	صطبل	الإصطبل معرّب، في اللسان مادة صطبل؛ NOT_IN_BANK
+P0493	ROOT	مكن	أماكن جمع أمكنة، توهموا الميم أصلية؛ اللسان في مكن
+P0494	LOAN		stockinette
+P0495	LOAN		tachograph
+P0496	LOAN		tachymeter
+P0497	LOAN		Tannoy
+P0498	ROOT	لفف	مِلفّ: اسم آلة من لفّ
+P0499	LOAN		tokamak
+P0500	LOAN		vibraphone
+P0501	LOAN		vicuña
+P0502	LOAN		viomycin
+P0503	LOAN		يشمك تركي
+P0504	LOAN		yawl
+P0505	LOAN		yo-yo
+P0506	LOAN		yurt
+P0507	PROPER		اسم موضع
+P0508	PROPER		اسم موضع
+P0509	PROPER		اسم بلد
+P0510	PROPER		اسم موضع
+P0511	PROPER		اسم موضع
+P0512	PROPER		اسم موضع
+P0513	PROPER		اسم موضع
+P0514	PROPER		اسم موضع
+P0515	PROPER		اسم موضع
+P0516	PROPER		اسم موضع
+P0517	PROPER		اسم موضع
+P0518	PROPER		اسم موضع
+P0519	PROPER		اسم موضع
+P0520	PROPER		اسم موضع
+P0521	PROPER		اسم موضع
+P0522	PROPER		اسم موضع
+P0523	PROPER		اسم موضع
+P0524	ROOT	وجه	اتجاه: افتعال من وجه، الواو تاء
+P0525	LOAN		empire
+P0526	PROPER		اسم موضع
+P0527	PROPER		اسم موضع
+P0528	PROPER		اسم موضع
+P0529	PROPER		اسم موضع
+P0530	PROPER		اسم موضع
+P0531	PROPER		غزة: علم موضع قديم غير عربي الأصل (يذكر عرضًا في غزز)
+P0532	ROOT	قنو	القناة واوية
+P0533	PROPER		اسم موضع
+P0534	PROPER		اسم موضع
+P0535	PROPER		اسم موضع
+P0536	PROPER		اسم موضع
+P0537	PROPER		اسم موضع
+P0538	PROPER		اسم موضع
+P0539	PROPER		اسم موضع
+P0540	PROPER		اسم موضع
+P0541	PROPER		اسم موضع
+P0542	PROPER		اسم موضع
+P0543	PROPER		اسم موضع
+P0544	PROPER		اسم موضع
+P0545	PROPER		اسم موضع
+P0546	PROPER		اسم موضع
+P0547	PROPER		اسم موضع
+P0548	PROPER		اسم موضع
+P0549	PROPER		اسم موضع
+P0550	PROPER		اسم موضع
+P0551	PROPER		اسم موضع
+P0552	PROPER		اسم موضع
+P0553	ROOT	خلو	الخلاء من خلا يخلو
+P0554	PROPER		اسم موضع
+P0555	PROPER		اسم موضع
+P0556	PROPER		اسم موضع
+P0557	PROPER		اسم موضع
+P0558	PROPER		اسم موضع
+P0559	PROPER		اسم موضع
+P0560	PROPER		اسم موضع (San)
+P0561	PROPER		اسم موضع
+P0562	PROPER		اسم موضع
+P0563	PROPER		اسم موضع
+P0564	PROPER		اسم موضع
+P0565	PROPER		اسم موضع
+P0566	PROPER		اسم موضع
+P0567	PROPER		اسم موضع
+P0568	PROPER		اسم موضع
+P0569	PROPER		اسم موضع
+P0570	PROPER		اسم موضع
+P0571	PROPER		اسم موضع
+P0572	PROPER		اسم موضع
+P0573	PROPER		اسم موضع
+P0574	PROPER		اسم موضع
+P0575	PROPER		اسم موضع
+P0576	PROPER		اسم موضع
+P0577	PROPER		اسم موضع
+P0578	PROPER		اسم موضع
+P0579	PROPER		اسم موضع
+P0580	PROPER		اسم موضع
+P0581	PROPER		اسم موضع
+P0582	PROPER		اسم موضع
+P0583	PROPER		اسم موضع
+P0584	ROOT	ثغو	ثغت الشاة تثغو ثُغاءً
+P0585	PROPER		علم أسطوري
+P0586	UNSURE		يانصيب: قيل من «يا نصيب» (نصب)، وقيل دخيل؛ لا ترد في المعاجم القديمة
+P0587	ROOT	موء	ماءت الهرة تموء مُواءً
+P0588	ROOT	قوم	القيامة من قام
+P0589	ROOT	شحن	الشحناء: العداوة، فعلاء من شحن
+P0590	ROOT	شيء	تلاشى مولّد منحوت من «لا شيء»؛ لا مادة لشي في البنك
+P0591	ROOT	فءو	الفئة: أصلها فِئْوٌ من فأوت أي فرّقت (القاموس فأو)
+P0592	LOAN		diet
+P0593	PROPER		اسم منظمة
+P0594	ROOT	قوي	القوة من قوي، واوها عين ولامها ياء
+P0595	ROOT	قوي	القوة
+P0596	PROPER		اسم منظمة
+P0597	ROOT	جمهر	تجمهر: تفعلل من جمهر
+P0598	ROOT	غوغ	الغوغاء في القاموس والوسيط تحت غوغ
+P0599	LOAN		macumba
+P0600	ROOT	ظلل	جمع مظلّي
+P0601	PROPER		اسم موضع
+P0602	LOAN		طقم: تركي takım
+P0603	PROPER		اسم شعب
+P0604	ROOT	لقي	لقي يلقى لقاءً
+P0605	LOAN		wicca
+P0606	ROOT	حيي	الحياة من حيي
+P0607	ROOT	خلو	تخلّى يتخلّى تخلّيًا من خلا
+P0608	LOAN		adagio
+P0609	ROOT	غور	أغار يغير غارة: من غور
+P0610	ROOT	علو	عليا مؤنث أعلى
+P0611	ROOT	رسو	أرسى يرسي إرساءً
+P0612	ROOT	ولي	استولى استيلاءً
+P0613	ROOT	فصل	تمفصل: من مَفصِل، الميم زائدة تُوُهِّمت أصلية
+P0614	ROOT	لقي	لقاء
+P0615	LOAN		auction
+P0616	ROOT	دقق	دقّق تدقيقًا
+P0617	ROOT	لقي	تلقاء + ياء النسب
+P0618	LOAN		ballet
+P0619	ROOT	رشو	ارتشى ارتشاءً من الرشوة
+P0620	ROOT	رجح	أرجح/أرجحة من رجح
+P0621	LOAN		billiardo
+P0622	ROOT	رشو	الرشوة واوية
+P0623	LOAN		cardinalate
+P0624	LOAN		cha-cha
+P0625	LOAN		cinch
+P0626	UNSURE		تقوقع: من القوقعة، لا مادة لها في المعاجم المتاحة؛ لعلها رباعي قوقع (ليس في البنك) أو من قوق
+P0627	ROOT	نشء	أنشأ إنشاءً
+P0628	ROOT	زري	ازدرى من زرى عليه، تاء الافتعال دالًا
+P0629	ROOT	لوي	التوى التواءً من لوى
+P0630	ROOT	كفح	مكافحة: مفاعلة من كفح
+P0631	ROOT	غطي	غطّى تغطيةً؛ غطي في المقاييس
+P0632	ROOT	رهن	الرهان من رهن
+P0633	ROOT	قوم	القيمة من قام، أصلها قِوْمة
+P0634	ROOT	نءي	نأى ينأى
+P0635	ROOT	هرول	هرولة مصدر هرول
+P0636	LOAN		duckpins
+P0637	LOAN		eisteddfod
+P0638	ROOT	لهم	التهم التهامًا من لهم
+P0639	LOAN		Exakta
+P0640	ROOT	طوي	طوى طيًّا
+P0641	ROOT	رقق	رقّق ترقيقًا
+P0642	ROOT	ولي	استيلاء
+P0643	ROOT	هتي	هاتِ يهاتي: القاموس في هتي، واللسان في هتا، والصحاح في هيت
+P0644	ROOT	حقق	حقّق تحقيقًا
+P0645	LOAN		jig
+P0646	LOAN		karaoke
+P0647	LOAN		karate
+P0648	ROOT	رءي	رأى رؤيةً
+P0649	ROOT	لقي	استلقى استلقاءً
+P0650	LOAN		mambo
+P0651	ROOT	لعب	ألعوبة جمعها ألاعيب
+P0652	LOAN		mitzvah
+P0653	ROOT	لغو	اللغة أصلها لُغْوة
+P0654	ROOT	صلو	الصلاة واوية (صلوات)
+P0655	ROOT	كفح	مكافحة
+P0656	ROOT	مطو	تمطّى: مدّ مَطاه، واللسان في مطا
+P0657	ROOT	جوز	اجتاز اجتيازًا من جاز
+P0658	ROOT	ولج	أولج إيلاجًا
+P0659	ROOT	رءرء	رأرأ رأرأة
+P0660	LOAN		eisteddfod
+P0661	LOAN		shag
+P0662	ROOT	حكي	حاكى محاكاةً من حكى
+P0663	LOAN		stickball
+P0664	ROOT	خيل	الخُيَلاء من الخيال/الاختيال
+P0665	ROOT	حسو	احتسى احتساءً من حسا
+P0666	LOAN		tango
+P0667	ROOT	دغدغ	رباعي مضعف
+P0668	ROOT	قوي	بالقوة
+P0669	LOAN		yoga
+P0670	LOAN		achlorhydria (لا + هيدروكلوري)
+P0671	ROOT	لوع	اللوعة من لاع يلوع
+P0672	LOAN		anorgasmia (لا + أرجاز)
+P0673	ROOT	رشش	الرشاشيات من رشّ
+P0674	LOAN		دشبذ: فارسي طبي، لا مادة له في المعاجم
+P0675	LOAN		carotenemia
+P0676	ROOT	غضرف	تغضرف من الغضروف
+P0677	ROOT	حدو	تحدّى من حدا (تحدّاه: باراه)
+P0678	ROOT	نجب	لا + إنجاب من نجب
+P0679	ROOT	وثق	الثقة: مصدر وثق، الواو محذوفة
+P0680	LOAN		ergot
+P0681	LOAN		hysteria
+P0682	ROOT	دوء	داء من داء يداء، العين واو
+P0683	LOAN		kwashiorkor
+P0684	PROPER		علم أعجمي (مكاردل)
+P0685	ROOT	غثي	غثت النفس تغثي غثيانًا
+P0686	ROOT	دود	تدوّد من الدود
+P0687	ROOT	وفي	الوفاة من توفّى/وفي
+P0688	ROOT	قوم	مقام: مفعل من قام
+P0689	ROOT	خزر	الخنزير: ابن فارس في خزر (النون زائدة)، واللسان في خنزر أيضًا

@@ -1,0 +1,90 @@
+pair_id	word	wn_root	synset	n_synsets	readerA	readerB	readerC_anchored
+P0030	كاريوكا	كار	carioca.n.01	1	PROPER:	LOAN:	
+P0041	تشيلا	شيل	chela.n.01	1	LOAN:	PROPER:	
+P0089	هام	هام	ham.n.03	6	PROPER:	LOAN:	
+P0122	داية	دأى	midwife.n.01	1	ROOT:دءي	ROOT:دوي	
+P0234	باز	باز	goshawk.n.01	1	ROOT:بزو	ROOT:بوز	
+P0246	لابرادور	لاب	labrador_retriever.n.01	2	PROPER:	LOAN:	
+P0248	ليونبرغر	ليو	leonberg.n.01	1	PROPER:	LOAN:	
+P0253	نيوفاوندلاند	نيو	newfoundland.n.01	2	PROPER:	LOAN:	
+P0349	زراوند	زرا	birthwort.n.01	1	LOAN:	ROOT:زرد	
+P0374	كاذي	كاذ	genus_pandanus.n.01	1	LOAN:	ROOT:كوذ	
+P0385	بنفسج	بنف	hedge_violet.n.01	2	LOAN:	ROOT:بنفسج	
+P0398	سرخس	سخس	new_york_fern.n.01	1	ROOT:سرخس	LOAN:	
+P0492	إسطبل	إسط	stable.n.01	2	LOAN:	ROOT:صطبل	
+P0586	يانصيب	يان	lottery.n.01	2	LOAN:	UNSURE:	
+P0590	تلاشي	لاش	vanishing.n.01	2	ROOT:لشو	ROOT:شيء	
+P0591	فئة	فأ	denomination.n.02	5	ROOT:فءي	ROOT:فءو	
+P0626	تَقَوْقُع	تقق	cocooning.n.01	1	ROOT:قوقع	UNSURE:	
+P0689	الخنازير	خنا	scrofula.n.01	1	ROOT:خنزر	ROOT:خزر	
+P0859	بيو-ماندارا	بيو	biu-mandara.n.01	1	LOAN:	PROPER:	
+P0905	تذبذب	تذب	oscillation.n.01	4	ROOT:ذبذب	ROOT:ذبب	
+P1019	قابا	قاب	contrast.v.01	1	UNSURE:	UNSURE:قبل	
+P1056	أغرى	أغر	tease.v.03	1	ROOT:غري	ROOT:غرو	
+P1136	مغناطيسي	مغن	magnetic.a.02	3	LOAN:	ROOT:غطس	
+P1180	أغسطي	أسط	augustan.a.01	1	LOAN:	PROPER:	
+P1183	تبيكي	بيك	benedictory.a.01	1	UNSURE:	UNSURE:برك	
+P1209	أستاذي	سيذ	professorial.a.01	1	LOAN:	ROOT:ستذ	
+P1258	مغناطيسياً	مغن	magnetically.r.01	2	LOAN:	ROOT:غطس	
+P1265		فقط	only.r.06	1	ROOT:قطط	ROOT:فقط	
+P1291	لاهوتياً	لاه	theologically.r.02	1	LOAN:	ROOT:ليه	
+P1323	الجيزة	جيز	giza.n.01	1	ROOT:جيز	ROOT:جوز	
+P1338	مغناطيس	مغن	magnet.n.01	1	LOAN:	ROOT:غطس	
+X0003	علي	عل	ali.n.02	2	ROOT:علو	PROPER:	ROOT:علو
+X0007	آري	آر	aryan.n.01	1	PROPER:	LOAN:	LOAN:
+X0013	أسقف	أسف	bishop.n.01	4	LOAN:	ROOT:سقف	LOAN:سقف
+X0080	سفا	سف	arista.n.01	2	ROOT:سفو	ROOT:سفي	UNSURE:سفي
+X0138	برغل	بغل	bulgur.n.01	1	ROOT:برغل	LOAN:	LOAN:برغل
+X0158	نشا	نش	arum.n.01	5	LOAN:	ROOT:نشو	LOAN:نشو
+X0203	انحناء	أنح	bight.n.04	16	ROOT:حنو	ROOT:حني	ROOT:حنو
+X0212	قسطرة	قطر	catheter.n.01	2	ROOT:قسطر	LOAN:	LOAN:قسطر
+X0227	هرمس	همس	herm.n.01	1	PROPER:	LOAN:	PROPER:
+X0258	سدى	سد	warp.n.04	1	ROOT:سدو	ROOT:سدي	ROOT:سدي
+X0283	انهيار	نهي	avalanche.n.01	23	ROOT:هور	ROOT:هير	ROOT:هور
+X0387	على	عل	burning.n.05	50	ROOT:علو	UNSURE:	UNSURE:علو
+X0460	إرضاء	رضى	gratification.n.02	4	ROOT:رضو	ROOT:رضي	ROOT:رضو
+X0605	خام	خام	iron_ore.n.01	9	LOAN:	ROOT:خيم	LOAN:خيم
+X0702	إِرْضَاء	رضى	satisfactoriness.n.01	1	ROOT:رضو	ROOT:رضي	ROOT:رضو
+X0711	اِنْحِنَاء	أنح	tilt.n.04	1	ROOT:حنو	ROOT:حني	ROOT:حنو
+X0723	مارس	أرس	annunciation.n.01	5	PROPER:	LOAN:	LOAN:
+X0770	مناداة	نأد	paging.n.01	1	ROOT:ندو	ROOT:ندي	ROOT:ندو
+X0802	رضا	رض	satisfaction.n.01	2	ROOT:رضو	ROOT:رضي	ROOT:رضو
+X0852	انْهَارَ	أهر	break.v.56	7	ROOT:هور	ROOT:هير	ROOT:هور
+X0860	نَمَا	نم	burgeon.v.01	3	ROOT:نمو	ROOT:نمي	ROOT:نمو
+X0867	قَسْطَرَ	قطر	catheterize.v.01	1	ROOT:قسطر	LOAN:	LOAN:قسطر
+X0877	انهار	أهر	crash.v.11	7	ROOT:هور	ROOT:هير	ROOT:هور
+X0952	ملت	ملو	malt.v.01	1	LOAN:	LOAN:ملت	
+X0953	مَلَّتَ	ملو	malt.v.03	2	LOAN:	LOAN:ملت	
+X0964	غَطَّى	غط	overgrow.v.03	7	ROOT:غطو	ROOT:غطي	
+X0970	بَسْتَرَ	بتر	pasteurize.v.01	1	LOAN:	LOAN:بستر	
+X0978	أَرْجَنَ	أجن	purple.v.02	1	LOAN:	ROOT:رجن	
+X1067	نَادَى	نأد	call.v.08	6	ROOT:ندي	ROOT:ندو	
+X1075	أَطْرَى	أطر	compliment.v.02	3	ROOT:طري	ROOT:طرو	
+X1079	انْحَنَى	أحن	congee.v.02	7	ROOT:حني	ROOT:حنو	
+X1137	انحنى	أحن	take_a_bow.v.02	6	ROOT:حني	ROOT:حنو	
+X1173	غطى	غط	coif.v.01	4	ROOT:غطو	ROOT:غطي	
+X1207	حَنَى	حن	incurvate.v.02	3	ROOT:حني	ROOT:حنو	
+X1231	ضَحَّى	ضح	sacrifice.v.02	3	ROOT:ضحي	ROOT:ضحو	
+X1237	غرّى	غر	size.v.01	1	ROOT:غري	ROOT:غرو	
+X1257	غَرَّى	غر	birdlime.v.01	1	ROOT:غري	ROOT:غرو	
+X1292	أَحْنَى	أحن	incline.v.03	1	ROOT:حني	ROOT:حنو	
+X1297	إلى	أل	move_in.v.03	17	ROOT:ءلي	UNSURE:	
+X1311	أَفَلت	ألت	set.v.10	1	ROOT:فلت	ROOT:ءفل	
+X1396	اقتنى	أتن	keep.v.16	2	ROOT:قني	ROOT:قنو	
+X1436	احْتَارَ	حير	puzzle_over.v.01	1	ROOT:حير	ROOT:حتر	
+X1449	أَفَادَ	أفد	help.v.02	3	ROOT:فيد	ROOT:فود	
+X1459	كَسَا	كس	vest.v.05	2	ROOT:كسو	ROOT:كسء	
+X1462	دَمْشَقَ	دمق	damascene.v.01	1	PROPER:	PROPER:دمشق	
+X1552	أغرى	أغر	tease.v.03	1	ROOT:غري	ROOT:غرو	
+X1598	إِلَى	أل	bifurcated.s.01	6	ROOT:ءلي	UNSURE:	
+X1604	سُدًى	سد	bootless.s.01	1	ROOT:سدي	ROOT:سدو	
+X1667	نَقِيّ	نق	immaculate.s.02	3	ROOT:نقي	ROOT:نقو	
+X1680	مُحْيٍ	مح	life-giving.s.01	1	ROOT:حيي	ROOT:محي	
+X1693	صافٍ	صوف	net.a.01	3	ROOT:صفو	ROOT:صيف	
+X1725	نقي	نق	uncontaminated.a.01	1	ROOT:نقي	ROOT:نقو	
+X1732	مدون	مد	written.a.02	1	ROOT:دون	ROOT:مدن	
+X1749	بِدُونَ	بد	inelegantly.r.01	1	ROOT:دون	ROOT:بدن	
+X1790	دكا	دك	dhaka.n.01	1	PROPER:	PROPER:دكا	
+X1829	متى	مت	matthew.n.01	1	PROPER:	PROPER:متى	
+X1837	بسترة	بتر	pasteurization.n.01	1	LOAN:	LOAN:بستر	
+X1878	واط	واط	watt.n.01	1	LOAN:	LOAN:واط	
