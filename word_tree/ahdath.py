@@ -50,10 +50,21 @@ def _rows(name: str) -> list[dict]:
 
 
 @lru_cache(maxsize=1)
+def _hfn_rel():
+    """AMLN_HFN_RELEASE أو أحدث release_vN فيه MANIFEST (كما في hfn_release.py؛ مكرَّر هنا لأنّ الوحدة تُحمَّل منفردة)."""
+    if os.environ.get("AMLN_HFN_RELEASE"):
+        return os.environ["AMLN_HFN_RELEASE"]
+    b = os.path.join(os.path.expanduser(os.environ.get("ARABIC_NET_HOME", "~/arabic-net")), "HusseinFrameNet", "release")
+    if not os.path.isdir(b):
+        return "release_v45"
+    r = [d for d in os.listdir(b) if d.startswith("release_v") and d[9:].isdigit() and os.path.exists(os.path.join(b, d, "MANIFEST.json"))]
+    return max(r, key=lambda d: int(d[9:])) if r else "release_v45"
+
+
 def _hfn_verbs() -> dict:
     """event_id → فعل HFN المشكول (الإصدار نفسه الذي يقرأه vowel_evidence). مكتبة قياسية فقط: يحمَّل منفرداً."""
     p = os.path.join(os.path.expanduser(os.environ.get("ARABIC_NET_HOME", "~/arabic-net")), "HusseinFrameNet",
-                     "release", os.environ.get("AMLN_HFN_RELEASE", "release_v36"), "events.csv")
+                     "release", _hfn_rel(), "events.csv")
     if not os.path.exists(p):
         return {}
     return {e["event_id"]: unicodedata.normalize("NFC", e["verb"].strip())
@@ -64,7 +75,8 @@ def _hfn_vowelled(text: str, event_id: str) -> str:
     """مطاوع R1W مكتوب بتشكيل نصّ الوسيط (OCR: «انقلب»، «تَطَهِرَ»). إن ربطه الصفّ بحدث HFN حروفُه حروفه
     فالتشكيل تشكيل HFN؛ وإلا يبقى النصّ كما هو (فحص الجذور، الدفعة 1: 27 من 140)."""
     h = _hfn_verbs().get(event_id or "")
-    return h if h and _HARAKAT.sub("", h) == _HARAKAT.sub("", unicodedata.normalize("NFC", text or "")) else text
+    same = h and _HARAKAT.sub("", h).replace("ٱ", "ا") == _HARAKAT.sub("", unicodedata.normalize("NFC", text or "")).replace("ٱ", "ا")
+    return h if same else text  # ٱ (HFN v44) = ا في المقارنة؛ ويُعاد تشكيل HFN كما هو
 
 
 _HARAKA = re.compile(r"[ً-ْ]")
@@ -77,7 +89,7 @@ def _mutawi_flags(text: str, root: str) -> list[str]:
     t = unicodedata.normalize("NFC", text or "")
     flags = []
     for i, c in enumerate(t):
-        if _HARAKAT.match(c) or c in "اويىآ":
+        if _HARAKAT.match(c) or c in "اويىآٱ":   # ٱ همزة وصل لا حركة لها (HFN v44)
             continue
         nxt = t[i + 1] if i + 1 < len(t) else ""
         if not (_HARAKA.match(nxt) or nxt == "ّ"):

@@ -26,7 +26,9 @@ REPO = os.path.dirname(HERE)
 SYN = os.path.join(REPO, 'data', 'wordnet', 'wordnet_synsets.json')
 GOLD = os.path.join(HERE, 'GOLD_TAHAYYUZ_v1.tsv')
 OUT = os.path.join(REPO, 'data', 'wordnet', 'wordnet_tahayyuz.json')
-HFN_LU = os.path.expanduser('~/arabic-net/HusseinFrameNet/release/release_v36/lexical_units.csv')
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.dirname(_o.path.abspath(__file__))))
+from hfn_release import hfn_release_dir  # noqa: E402  (AMLN_HFN_RELEASE أو أحدث إصدار)
+HFN_LU = os.path.join(hfn_release_dir(), 'lexical_units.csv')
 THRESH = 0.78
 
 DI = re.compile('[ً-ْٰـ]')

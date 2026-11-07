@@ -25,7 +25,9 @@ import unicodedata
 from collections import Counter, defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-HFN = os.path.expanduser("~/arabic-net/HusseinFrameNet/release/release_v36")
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.dirname(_o.path.abspath(__file__))))
+from hfn_release import hfn_release_dir  # noqa: E402  (AMLN_HFN_RELEASE أو أحدث إصدار)
+HFN = hfn_release_dir()
 R1_FILE = os.path.join(HERE, "..", "qabiliyyat", "candidates_R1_MUTAWAA.tsv")
 SEED = 20261105
 N_SAMPLE = 60
@@ -84,6 +86,7 @@ MANI_EXCLUDE = {nfc(v) for v in ("عَلَمَ", "كَلَمَ", "سَلَمَ",
 
 
 def mani(verb: str) -> str:
+    verb = verb.replace("ٱ", "ا")
     if nfc(verb) in MANI_EXCLUDE:
         return ""
     b = bare(verb)
@@ -191,12 +194,13 @@ def participles(ev: dict, lus: dict):
     f_att = att.get("اسم فاعل", [""])[0]
     m_att = att.get("اسم مفعول", [""])[0]
     form = ev["form"].split(" ")[0]
+    verb = ev["verb"].replace("ٱ", "ا")  # همزة الوصل ٱ (HFN v44) = ا في القياس، وإلا خرج «مُٱتَّبِع» أو لا شيء
     if form in THULATHI:
-        q = derive_thulathi(ev["root_K"], trans, ev["verb"])
+        q = derive_thulathi(ev["root_K"], trans, verb)
     elif form == "فَعُلَ":
         q = None  # فَعُلَ: صفة مشبّهة للثبوت، لا اسم فاعل للحدوث (التعريفات:470)
     else:
-        q = derive_mazid(ev["verb"], ev["root_K"], trans, form)
+        q = derive_mazid(verb, ev["root_K"], trans, form)
     out = {"fail": f_att, "fail_src": "SAMAI" if f_att else "",
            "maful": m_att, "maful_src": "SAMAI" if m_att else "",
            "qiyas_kind": q[2] if q else ""}

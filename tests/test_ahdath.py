@@ -2,7 +2,7 @@
 
 المدخَل هنا بنيةٌ لا جملة: لا يوجد مُعرِب يحلّل الجملة، فكلّ مثال يُعطى فعله وصيغته وبناؤه
 (معلوم/مجهول) وجنس فاعله، ويُختبر ما يخرج من القواعد.
-تحتاج rules_R1.tsv و pool_R2.tsv (python3 ahdath/ahdath.py build) و HusseinFrameNet release_v36.
+تحتاج rules_R1.tsv و pool_R2.tsv (python3 ahdath/ahdath.py build) و HusseinFrameNet (أحدث إصدار، hfn_release.py).
 """
 import csv
 import os
@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.join(ROOT, "ahdath"))
 import ahdath as A  # noqa: E402
 
 pytestmark = pytest.mark.skipif(not os.path.exists(os.path.join(A.HFN, "events.csv")),
-                                reason="HusseinFrameNet release_v36 غير موجود")
+                                reason="HusseinFrameNet غير موجود")
 
 
 def _tsv(name):
@@ -55,7 +55,7 @@ def test_01_daraba_ustadh_talib(R2, HFN):
 def test_02_kasara_fa_inkasara(R1):
     """كَسَرَ الوَلَدُ الإِنَاءَ فَانْكَسَرَ — المطاوعة دليل التأثير، ومصدر المطاوع اسم الأثر."""
     r = R1["كَسَرَ"]
-    assert (r["mutawaa"], r["athar"], r["effect"]) == ("انْكَسَرَ", "انْكِسَار", "MUATHTHIR")
+    assert (r["mutawaa"], r["athar"], r["effect"]) == ("ٱنْكَسَرَ", "ٱنْكِسَار", "MUATHTHIR")
     assert (r["fail"], r["maful"]) == ("كَاسِر", "مَكْسُور")
 
 
@@ -70,7 +70,7 @@ def test_03_inkasara_al_inau():
 def test_04_qata_tu_al_habla(R1):
     """قَطَعْتُ الحَبْلَ فَانْقَطَعَ — مثال الجرجاني «القاطع ما دام قاطعاً»."""
     r = R1["قَطَعَ"]
-    assert (r["fail"], r["maful"], r["mutawaa"], r["athar"]) == ("قَاطِع", "مَقْطُوع", "انْقَطَعَ", "انْقِطَاع")
+    assert (r["fail"], r["maful"], r["mutawaa"], r["athar"]) == ("قَاطِع", "مَقْطُوع", "ٱنْقَطَعَ", "ٱنْقِطَاع")
 
 
 def test_05_ahraqat_al_nar():
@@ -266,7 +266,7 @@ def test_27_word_tree_adapter_accepted_only():
     s = WA.summary()
     assert set(s) == {"R1", "R1W", "T_JAL"} and all(v > 0 for v in s.values())
     k = WA.for_verb("كَسَرَ")
-    assert any(x["route"] == "R1" and x["maful"] == "مَكْسُور" and x["athar"] == "انْكِسَار" for x in k)
+    assert any(x["route"] == "R1" and x["maful"] == "مَكْسُور" and x["athar"] == "ٱنْكِسَار" for x in k)
     assert all(x["rank"] == "CANDIDATE" for x in WA._table())
 
 

@@ -1,232 +1,232 @@
 route	root	candidate	base	n_lex	lexicons	event_id	gloss
-R1_MUTAWAA	بتر	انْبَتَرَ	بَتَرَ	2	muhkam·taj	HFN-E-b143f586c4	wasit:انقطع
-R1_MUTAWAA	بتل	انْبَتَلَ	بَتَلَ	3	muhkam·lisan·qamus	HFN-E-deec805cc1	wasit:انقطعَ . و- الفسيلة من أُمِّها : انفصلت عنها
-R1_MUTAWAA	بثق	انْبَثَقَ	بَثَقَ	3	qamus·asas·misbah	HFN-E-dc712fe4d7	wasit:انثقب وانْشَقَّ . و - السيلُ : عليهم : أَقبل فجْأَة . و - فلانٌ عليهم بالكلام: اندفع . و - الأَرضُ : أَخْصَبَتْ
-R1_MUTAWAA	بجس	انْبَجَسَ	بَجَسَ	7	ayn·maqayis·lisan·qamus·taj·asas·misbah	HFN-E-d5c02dc322	wasit:انفجر. وفى التنزيل العزيز: (فَانْبَجَسَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً)
-R1_MUTAWAA	بزخ	انْبَزَخَ	بَزَخَ	2	muhkam·taj	HFN-E-15f5b675da	wasit:ظهرُ الفرس : بَزَخَ
-R1_MUTAWAA	بزل	انْبَزَلَ	بَزَلَ	2	maqayis·qamus	HFN-E-efd485077c	wasit:انشقَّ
-R1_MUTAWAA	بسط	انْبَسَطَ	بَسَطَ	3	sihah·muhkam·qamus	HFN-E-c68876411d	wasit:الشيءُ : انتشر . و - يدُه: متَدَّتْ . و - لسانُه : انْطَلَقَ . و - فلانٌ : سُرَّ . و - تركَ الاحتشامَ . و - النّهارُ : طال
-R1_MUTAWAA	بعث	انْبَعَثَ	بَعَثَ	5	sihah·muhkam·lisan·qamus·taj	HFN-E-9dc197627e	wasit:هَبَ واندفَع . و - فى السَّير : أسرعَ . و - لحاجته : نهض لها
-R1_MUTAWAA	بعج	انْبَعَجَ	بَعَجَ	3	muhkam·taj·asas	HFN-E-33afdfde1e	wasit:اتسع وانْفَرَجَتْ جَوَانبُهُ ،. و - السحاب : انبثق بمطر غزير. و - فلانٌ بالحديث : تَدَفَّق
-R1_MUTAWAA	بعق	انْبَعَقَ	بَعَقَ	4	sihah·muhkam·lisan·asas	HFN-E-7bce890511	wasit:انشَقّ. يقال : انبعق السحابُ بالمطر . و - فى الكلام : ابتَعَق . و - عليه الشءُ : فاجأه
-R1_MUTAWAA	بقر	انْبَقَرَ	بَقَرَ	2	lisan·taj	HFN-E-c9aac2701d	wasit:انشَقَّ
-R1_MUTAWAA	بلت	انْبَلَتَ	بَلَتَ	3	muhkam·lisan·taj	HFN-E-7185e5e71a	
-R1_MUTAWAA	بلج	انْبَلَجَ	بَلَجَ	4	sihah·lisan·qamus·taj	HFN-E-2e3c97ed1c	
-R1_MUTAWAA	بلق	انْبَلَقَ	بَلَقَ	2	ayn·qamus	HFN-E-080b6aa47c	wasit:البابُ : انفَتَح
-R1_MUTAWAA	بهر	انْبَهَرَ	بَهَرَ	6	sihah·muhkam·lisan·qamus·taj·asas	HFN-E-208b334bd1	
-R1_MUTAWAA	ثرم	انْثَرَمَ	ثَرَمَ	3	ayn·muhkam·asas	HFN-E-76b5e3fc20	wasit:صار أَثْرَمَ . و - ثَنِيَّتُه : انكسر بعضها فصارت ثرماء
-R1_MUTAWAA	ثعب	انْثَعَبَ	ثَعَبَ	3	maqayis·sihah·muhkam	HFN-E-18b2eb4940	
-R1_MUTAWAA	ثلم	انْثَلَمَ	ثَلَمَ	2	lisan·qamus	HFN-E-f416ae98e4	
-R1_MUTAWAA	جءف	انْجَءَفَ	جَأَفَ	3	muhkam·lisan·qamus	HFN-E-e32e630f04	
-R1_MUTAWAA	جحر	انْجَحَرَ	جَحَرَ	3	ayn·muhkam·lisan	HFN-E-5697620714	wasit:دخل الجُحْرَ ‖ misbah:الضَّبُ وَغِيرُهُمَا فَتَكُونُ الجَبْهَةُ بَيْنَ جَبِينَيْنِ وجَمْعُهُ
-R1_MUTAWAA	جدل	انْجَدَلَ	جَدَلَ	3	ayn·sihah·lisan	HFN-E-6668c9c670	wasit:انْصَرَعَ
-R1_MUTAWAA	جذب	انْجَذَبَ	جَذَبَ	5	ayn·muhkam·lisan·taj·asas	HFN-E-8003f132dc	
-R1_MUTAWAA	جذم	انْجَذَمَ	جَذَمَ	2	sihah·asas	HFN-E-57b7f21356	
-R1_MUTAWAA	جرد	انْجَرَدَ	جَرَدَ	5	sihah·lisan·qamus·taj·asas	HFN-E-75af63e450	wasit:من ثوبه : تَعَرَّى . و - الإِبلُ من أَوبارها : سقطت عنها . و - السُّنبلةُ خرجت من لفائفها . و - الثوبُ : أخلق . و - شعرُ الفرس : كان قصيرًا . و - فى سيره : جدَّ
-R1_MUTAWAA	جزر	انْجَزَرَ	جَزَرَ	2	muhkam·taj	HFN-E-c04bf292aa	wasit:البحرُ والنَّهرُ : جَزَرَ
-R1_MUTAWAA	جزع	انْجَزَعَ	جَزَعَ	2	muhkam·qamus	HFN-E-f63066ec84	wasit:انقطع من وسَطِه . يقال : انجزع الحبلُ ، وانجزعَتِ العصا
-R1_MUTAWAA	جعب	انْجَعَبَ	جَعَبَ	3	muhkam·qamus·taj	HFN-E-3e363abb62	wasit:مطاوع جَعَبه
-R1_MUTAWAA	جعف	انْجَعَفَ	جَعَفَ	3	maqayis·muhkam·qamus	HFN-E-db17ffe696	wasit:مطاوع جَعَفَهُ
-R1_MUTAWAA	جفل	انْجَفَلَ	جَفَلَ	4	maqayis·sihah·lisan·asas	HFN-E-a21ffa84ba	wasit:مطاوع جَفلَه
-R1_MUTAWAA	جلب	انْجَلَبَ	جَلَبَ	3	lisan·qamus·taj	HFN-E-dda1a007d5	wasit:مطاوع جلبه
-R1_MUTAWAA	جلع	انْجَلَعَ	جَلِعَ	3	sihah·lisan·qamus	HFN-E-05d281e701	wasit:مطاوع جَلَعَهُ
-R1_MUTAWAA	حجز	انْحَجَزَ	حَجَزَ	2	sihah·qamus	HFN-E-c93fe4afa5	
-R1_MUTAWAA	حدر	انْحَدَرَ	حَدَرَ	5	ayn·sihah·muhkam·qamus·taj	HFN-E-afe3856dda	wasit:انْحطَّ من عُلو إِلى سُفل . و - جلده : حَدّرَ
-R1_MUTAWAA	حذق	انْحَذَقَ	حَذَقَ	4	ayn·muhkam·lisan·qamus	HFN-E-d96d866d96	wasit:انْقطع
-R1_MUTAWAA	حرف	انْحَرَفَ	حَرَفَ	6	ayn·sihah·muhkam·qamus·asas·misbah	HFN-E-c8abf96761	wasit:مال . ويُقال : انحرف مِزاجُه : مال عن الاعتِدال. و - إلى فلان : مال إليه . و - عن فلان : انصرف
-R1_MUTAWAA	حسر	انْحَسَرَ	حَسَرَ	3	ayn·asas·misbah	HFN-E-db92cb5e5f	wasit:انكشف و - الماءُ عن السَّاحل : ارتدَّ حتَّى بدَت الأَرضُ و - الطيرُ : سقَط ريشُه العتيق ونبتَ ريشُه الحديث
-R1_MUTAWAA	حسم	انْحَسَمَ	حَسَمَ	3	sihah·muhkam·misbah	HFN-E-253e6414c2	
-R1_MUTAWAA	حصم	انْحَصَمَ	حَصَمَ	2	muhkam·qamus	HFN-E-7dacc509f0	wasit:العُودُ : انكَسَرَ
-R1_MUTAWAA	حضج	انْحَضَجَ	حَضَجَ	5	ayn·sihah·muhkam·lisan·taj	HFN-E-b33e1fafda	wasit:البعيرُ وغيره : وقع لجنبه . و - برك . و - الرجلُ : اضطجع . و - انبسط على الشَّىء . و - ضرب بنفسه الأرضَ غيظًا
-R1_MUTAWAA	حطم	انْحَطَمَ	حَطَمَ	5	ayn·muhkam·lisan·asas·misbah	HFN-E-9c2ac57770	wasit:مطاوع حَطَمه . و - الناس عليه : تزاحموا
-R1_MUTAWAA	حلب	انْحَلَبَ	حَلَبَ	3	muhkam·qamus·taj	HFN-E-70c93c715a	
-R1_MUTAWAA	خبز	انْخَبَزَ	خَبَزَ	3	muhkam·qamus·taj	HFN-E-385ef975e0	wasit:المكانُ : انْخَفض واطمأَنَ
-R1_MUTAWAA	خدع	انْخَدَعَ	خَدَعَ	4	sihah·muhkam·lisan·qamus	HFN-E-2041cfca5d	wasit:خُدِعَ . و - أَظهر أَنه ممخدوع وليس بهِ . و - الشيءُ : توارى واستتر . يقال : انخدع الضَّبُّ . و- السوقُ : كَسَدتْ
-R1_MUTAWAA	خرط	انْخَرَطَ	خَرَطَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-2331f96067	
-R1_MUTAWAA	خرع	انْخَرَعَ	خَرَعَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-a0a91a0575	wasit:انْشَقَّ . و - لان واستَرْخى . و - الرَّجُلُ : ذلَّ وضَعُفَ . ويقال : انْخَرَع له : و - العُذْموُ : زال عن موضعه فى الجسم
-R1_MUTAWAA	خرق	انْخَرَقَ	خَرَقَ	5	ayn·sihah·muhkam·lisan·asas	HFN-E-901182f484	wasit:الشءُ : انْشَقَّ . و - الرِّيحُ فى الأرضِ : هَبّتْ على غيرِ استقامة . و - اشتدّ هُبوبُها وتَخلُّلُها المواضِع
-R1_MUTAWAA	خرم	انْخَرَمَ	خَرَمَ	2	sihah·misbah	HFN-E-5f85a92f65	wasit:انشق ٠ و - أنقَطع . و- العامُ ونحوه : ذهب وانقضى. و- القوم: فَنُوا وذهبوا . وفى الحديث
-R1_MUTAWAA	خزع	انْخَزَعَ	خَزَعَ	3	muhkam·qamus·asas	HFN-E-00d1beaf46	wasit:الشءُ : انقطع . و - الحَبْلُ : انقطع من نصْفِه . و - مَنْنُ الرجُلِ : انْحَنَى من كِبَر وضَعْفٍ: ون العودُ : انكَسر قطعتين
-R1_MUTAWAA	خزق	انْخَزَقَ	خَزَقَ	2	muhkam·lisan	HFN-E-174a91c12d	wasit:الشءُ : انغَرز فى الأرض . ويقال : انْخَرق الشءُ الحادَّ فى الشىء
-R1_MUTAWAA	خزل	انْخَزَلَ	خَزَلَ	4	maqayis·sihah·lisan·qamus	HFN-E-ac1888a855	wasit:انْقَطع . وفى حديث أُحُدٍ : « انخزَلَ عبد اللّٰه بن أُبَيٍّ من ذلك المكان » . ويقال : انخزل فى كلامه . و- المرأَةَ فى مِشيتها : خَزِلَتْ . و - فلانٌ عن الأمر : 
-R1_MUTAWAA	خسء	انْخَسَءَ	خَسَأَ	4	muhkam·lisan·qamus·taj	HFN-E-7db8ac9e49	
-R1_MUTAWAA	خسف	انْخَسَفَ	خَسَفَ	4	ayn·lisan·qamus·asas	HFN-E-d084089154	
-R1_MUTAWAA	خضد	انْخَضَدَ	خَضَدَ	5	ayn·lisan·qamus·taj·asas	HFN-E-9b022f9873	wasit:انكَسَر . و - انثَنَى . و - الثمر : تشدّخ
-R1_MUTAWAA	خفع	انْخَفَعَ	خَفَعَ	4	ayn·maqayis·muhkam·qamus	HFN-E-9dbc2394d1	
-R1_MUTAWAA	خنس	انْخَنَسَ	خَنَسَ	5	muhkam·lisan·qamus·taj·misbah	HFN-E-92325a03a2	wasit:اختنَس . و - رَجَع
-R1_MUTAWAA	خنق	انْخَنَقَ	خَنَقَ	3	sihah·muhkam·asas	HFN-E-0d42a84b62	
-R1_MUTAWAA	دبغ	انْدَبَغَ	دَبَغَ	2	sihah·lisan	HFN-E-b9e4128d37	wasit:مطاوع دَبَمه ‖ misbah:الْجِلدُ فِى الْمُطَاوَعَةِ والْفَاعِلُ
-R1_MUTAWAA	دحق	انْدَحَقَ	دَحَقَ	2	sihah·lisan	HFN-E-95faae2c89	wasit:انْدَلَقَ . و - بَطْنُهُ : اتَّسَع
-R1_MUTAWAA	دخل	انْدَخَلَ	دَخَلَ	3	sihah·lisan·qamus	HFN-E-e34b10a09b	
-R1_MUTAWAA	درء	انْدَرَءَ	دَرَأَ	4	muhkam·lisan·qamus·taj	HFN-E-fd0f92127d	
-R1_MUTAWAA	درج	انْدَرَجَ	دَرَجَ	2	qamus·taj	HFN-E-12868df6c7	wasit:مطاوع درَجَه . و - عليهِ : انطوى . ويتمال : اندَرح تحته كذا ، أَو فيه كذا : دخل فيه وكان مما انطوى عليه
-R1_MUTAWAA	درس	انْدَرَسَ	دَرَسَ	2	qamus·taj	HFN-E-f8ff86a37d	wasit:مطاوع درس
-R1_MUTAWAA	درع	انْدَرَعَ	دَرَعَ	3	muhkam·lisan·qamus	HFN-E-6ee9a5386b	wasit:البطْنُ : امتلاً . و - العظْمُ من اللحم : انخلع . و - القمر من السحاب : خرج . و - فلانٌ فى الدَّيْرِ : تقدَّم . ويقال : اندرع يفعل كذا : اندفع
-R1_MUTAWAA	دفع	انْدَفَعَ	دَفَعَ	4	sihah·lisan·asas·misbah	HFN-E-85f3088b0a	wasit:مطاوع دفعه. و - فى الأَمرِ : مَضى. ويقال: اندفع فى الحديث: أَفاض.. و - الفرسُ: أَسرَعَ فى سَمَيْرِه. و- السَّيْلُ : دفع بعضُه بعضاً
-R1_MUTAWAA	دفق	انْدَفَقَ	دَفَقَ	3	ayn·maqayis·qamus	HFN-E-0bf8dc7560	wasit:الماءُ ونحوه : مطاوع دفَقَه
-R1_MUTAWAA	دفن	انْدَفَنَ	دَفَنَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-6f602dd8e4	wasit:مطاوع دفنه
-R1_MUTAWAA	دقم	انْدَقَمَ	دَقَمَ	3	ayn·muhkam·lisan	HFN-E-fed60cd2dd	
-R1_MUTAWAA	دكم	انْدَكَمَ	دَكَمَ	2	lisan·qamus	HFN-E-ef04d5b6e7	
-R1_MUTAWAA	دلص	انْدَلَصَ	دَلَصَ	3	maqayis·muhkam·lisan	HFN-E-9e037649ae	wasit:الشئُرَ من يده : انْمَلَصَ وسقط . و - الشئُ عن الشيء : انفصل
-R1_MUTAWAA	دلظ	انْدَلَظَ	دَلَظَ	2	muhkam·lisan	HFN-E-9970dbac01	wasit:الماءُ : اندفع
-R1_MUTAWAA	دلق	انْدَلَقَ	دَلَقَ	6	ayn·maqayis·muhkam·lisan·asas·misbah	HFN-E-66ffdfffbe	wasit:الشءُ : اندفع: من مكانه . يقال : طعنه فاندلقَت أحشاءُ بطنه . و_ السيلُ : اندفع وهَجَمَ . ويقال : اندلقت الخيل . و - البابُ : كلما فُتِح عاد كما كان . ( تَدَلَّق ‖ misbah:السَّيْفُ مِنْ غِمْدِهِ خَرَجَ مِن غَيْرِ أَنْ يُسَلَّ و
-R1_MUTAWAA	دمج	انْدَمَجَ	دَمَجَ	5	lisan·qamus·taj·asas·misbah	HFN-E-229d5f181b	wasit:الشءُ فى الشءِ : دَمَجَ
-R1_MUTAWAA	دمق	انْدَمَقَ	دَمَقَ	5	maqayis·sihah·muhkam·lisan·qamus	HFN-E-1996a226ae	wasit:رأَسُ الفخذ : زالَ عن مكانه . و - فيه ، ومنه : خرج
-R1_MUTAWAA	دمل	انْدَمَلَ	دَمَلَ	5	maqayis·sihah·muhkam·lisan·qamus	HFN-E-3834f18f3f	wasit:الجرح : أخذ فى البرء . ويقال: اندمل المريض: قارب الشفاء من مرضه أَو من جرحه
-R1_MUTAWAA	ذءج	انْذَءَجَ	ذَئِجَ	2	qamus·taj	HFN-E-cf0e1b3f04	
-R1_MUTAWAA	ذعر	انْذَعَرَ	ذَعَرَ	3	ayn·muhkam·lisan	HFN-E-cc567dae77	wasit:خاف وفزع
-R1_MUTAWAA	زبق	انْزَبَقَ	زَبَقَ	4	maqayis·muhkam·lisan·qamus	HFN-E-34ca5e96a8	
-R1_MUTAWAA	زجر	انْزَجَرَ	زَجَرَ	6	ayn·maqayis·sihah·qamus·taj·misbah	HFN-E-a36b613bee	wasit:يقال انزجر له : انتقاد
-R1_MUTAWAA	زرب	انْزَرَبَ	زَرَبَ	2	muhkam·taj	HFN-E-cf957481aa	wasit:) : دخَلَ فى الزّرِيبَةِ . يقال : انزربت الغنم . وانزربَ الصائدُ : دخل فى حُفْرَته
-R1_MUTAWAA	زعج	انْزَعَجَ	زَعَجَ	4	maqayis·muhkam·qamus·taj	HFN-E-a5274b7787	wasit:زُعِجَ
-R1_MUTAWAA	زعق	انْزَعَقَ	زَعَقَ	3	maqayis·sihah·qamus	HFN-E-524ae4d2f1	wasit:فَزِعَ . و - الدَواب : أَسرعت
-R1_MUTAWAA	زقب	انْزَقَبَ	زَقَبَ	4	muhkam·lisan·qamus·taj	HFN-E-74b296484e	wasit:الجُرَذُ : زَقَب
-R1_MUTAWAA	سبء	انْسَبَءَ	سَبَأَ	2	muhkam·taj	HFN-E-ee8e2620ab	
-R1_MUTAWAA	سبت	انْسَبَتَ	سَبَتَ	4	muhkam·lisan·qamus·taj	HFN-E-581c2b2b47	
-R1_MUTAWAA	سبك	انْسَبَكَ	سَبَكَ	2	muhkam·lisan	HFN-E-f35bbcea1c	wasit:سُبِكَ
-R1_MUTAWAA	ستر	انْسَتَرَ	سَتَرَ	3	muhkam·lisan·taj	HFN-E-431cf3b6e4	wasit:استتر
-R1_MUTAWAA	سجر	انْسَجَرَ	سَجَرَ	3	sihah·lisan·taj	HFN-E-0d32adc31b	wasit:امتلأ . و - الشعرُ وغيره : سترْسل .و - فى السيرِ : تتابَعَ
-R1_MUTAWAA	سجل	انْسَجَلَ	سَجَلَ	4	maqayis·sihah·lisan·qamus	HFN-E-4ff8fb25d8	wasit:يقال : انسَجَلَ الماءُ والدمعُ : انصَب
-R1_MUTAWAA	سجم	انْسَجَمَ	سَجَمَ	2	sihah·lisan	HFN-E-00857dd20b	wasit:انصَّبَ
-R1_MUTAWAA	سحب	انْسَحَبَ	سَحَبَ	5	muhkam·lisan·qamus·taj·misbah	HFN-E-ccb5bc6193	wasit:انجرَّ على وجه الأرض . و - فلان من المجلس : خرج منه لسببٍ ما. (محدثة). ويقال : انسحب الجيش من الميدان
-R1_MUTAWAA	سحج	انْسَحَجَ	سَحَجَ	4	maqayis·lisan·qamus·taj	HFN-E-f4304098ef	wasit:انْفَشَرَ
-R1_MUTAWAA	سحط	انْسَحَطَ	سَحَطَ	3	muhkam·lisan·qamus	HFN-E-de454f9e7d	wasit:الشءُ من يده: أَفلت فسقط. و - فلانٌ عن النخلة : تدلى عنها حتى ينزل وهو لا يمسكها بيده
-R1_MUTAWAA	سحق	انْسَحَقَ	سَحَقَ	5	sihah·muhkam·lisan·qamus·asas	HFN-E-de5aabccc2	wasit:الدواءُ : أندقَّ . و - الثوبُ : بلِيَ . و - فلانْ : بَعُدَ . و - الدمْعُ : انحدر و - الشيء : اتسع
-R1_MUTAWAA	سحل	انْسَحَلَ	سَحَلَ	2	muhkam·qamus	HFN-E-c7ed603f5d	wasit:انقشر . و - أسرع ومضى. يقال : انسحلت الناقة : وانسحلَ الخطيب : مضى فى خطبته مُسرعاً
-R1_MUTAWAA	سدح	انْسَدَحَ	سَدَحَ	4	sihah·muhkam·lisan·taj	HFN-E-8c522a47a7	
-R1_MUTAWAA	سدر	انْسَدَرَ	سَدَرَ	5	ayn·sihah·muhkam·qamus·taj	HFN-E-c400a668b2	wasit:أَسرعَ فى عَدْوِه
-R1_MUTAWAA	سرب	انْسَرَبَ	سَرَبَ	7	ayn·sihah·muhkam·lisan·qamus·taj·misbah	HFN-E-830a6850df	misbah:الْوَحْشُ فِى
-R1_MUTAWAA	سرح	انْسَرَحَ	سَرَحَ	3	sihah·lisan·taj	HFN-E-b315d9c767	wasit:فلانٌ : تجرّدَ من ثيابه . و - أَسْرعَ
-R1_MUTAWAA	سرط	انْسَرَطَ	سَرَطَ	2	muhkam·lisan	HFN-E-3c538ede92	wasit:الطعامُ فى حَلْقِهِ : سارَ فيه سيْرًا سَهْلًا
-R1_MUTAWAA	سرق	انْسَرَقَ	سَرَقَ	2	muhkam·lisan	HFN-E-e57e9c6d1b	wasit:فتَرَ وضعُف. يقال : انْسَرَقَ صوتُه ، وانَّسَرَقَتْ مفاصلُه ، وانسرقت قُوّتُه و - عن القوم : تأخَر واختَفَى ليذهب
-R1_MUTAWAA	سطح	انْسَطَحَ	سَطَحَ	6	maqayis·sihah·muhkam·lisan·taj·misbah	HFN-E-d38a75dc76	wasit:انْبَسَطَ . و - امتَدَّ على قفاه ولم يتحرَّك ‖ misbah:الرَّجُلُ مِنْ بَابِ نَفَعَ بَسَطَّتُهُ و
-R1_MUTAWAA	سفر	انْسَفَرَ	سَفَرَ	5	ayn·muhkam·lisan·qamus·taj	HFN-E-df41ca9ba9	wasit:الشءُ : انحسَرَ وانكشف . ويقال: انسفَر مقدَّم رأُسهِ من الشعرِ : صار أَصْلَع
-R1_MUTAWAA	سفك	انْسَفَكَ	سَفَكَ	2	muhkam·lisan	HFN-E-7f29732b36	wasit:انْصَبَّ وأْريق
-R1_MUTAWAA	سكب	انْسَكَبَ	سَكَبَ	3	sihah·qamus·taj	HFN-E-4a393fd980	wasit:انْصَبَّ
-R1_MUTAWAA	سلب	انْسَلَبَ	سَلَبَ	3	sihah·lisan·taj	HFN-E-a2c26906fe	
-R1_MUTAWAA	سلت	انْسَلَتَ	سَلَتَ	3	muhkam·lisan·taj	HFN-E-3c740bd5ef	wasit:انْسَلَّ
-R1_MUTAWAA	سلخ	انْسَلَخَ	سَلَخَ	7	ayn·sihah·lisan·qamus·taj·asas·misbah	HFN-E-04a69af6b1	wasit:انْكَشَفَ
-R1_MUTAWAA	سلع	انْسَلَعَ	سَلَعَ	4	sihah·muhkam·lisan·qamus	HFN-E-bebe66051a	wasit:جِلْدُهُ : تَشَقَّقْ
-R1_MUTAWAA	سلق	انْسَلَقَ	سَلَقَ	2	muhkam·lisan	HFN-E-cafc36f55d	wasit:مطاوعُ سَلَقَهُ . و- اللسانَ : أَصابَهُ تَقَشَّر .و الجُفُونُ: اعتتْه فَتَسَلَّخَتْ وتقشَّرَت
-R1_MUTAWAA	شتر	انْشَتَرَ	شَتَرَ	3	sihah·qamus·taj	HFN-E-4ee2015739	
-R1_MUTAWAA	شجر	انْشَجَرَ	شَجَرَ	2	lisan·taj	HFN-E-049464c8a6	
-R1_MUTAWAA	شخب	انْشَخَبَ	شَخَبَ	4	ayn·lisan·qamus·taj	HFN-E-fd7b504dbc	
-R1_MUTAWAA	شدخ	انْشَدَخَ	شَدَخَ	4	lisan·qamus·taj·misbah	HFN-E-59a6d700ce	wasit:انْشَجّ
-R1_MUTAWAA	شرج	انْشَرَجَ	شَرَجَ	6	ayn·sihah·muhkam·lisan·qamus·taj	HFN-E-81bd4bb4e5	wasit:انشقَّ قَسْمين
-R1_MUTAWAA	شرح	انْشَرَحَ	شَرَحَ	2	sihah·lisan	HFN-E-5f447055a8	wasit:مطاوع شرحه . ويقال : أنشرَحَ صدره لكذا : سُرَّ به وأَقبل عليه
-R1_MUTAWAA	شرم	انْشَرَمَ	شَرَمَ	3	sihah·muhkam·lisan	HFN-E-5f18eeae5f	wasit:انشقَّ
-R1_MUTAWAA	شعب	انْشَعَبَ	شَعَبَ	5	muhkam·lisan·qamus·taj·asas	HFN-E-e8410fb129	wasit:انتشر وتفسرق . يقال : انشعبَتْ أَغصانُ الشجرة . و - صار ذا شُعَبٍ . يقال ، انْشعَبَ النهرُ . وانشعب الطريقُ . و - عنه :: تباعَدَ . ويقال : انشعب القولُ بصاحبه . ‖ misbah:الطَّرِيقُ اقْتَرقَ وَكُلُّ مَسْلَكٍ وطَرِيقٍ
-R1_MUTAWAA	شقق	انْشَقَّ	شَقَّ	5	sihah·muhkam·lisan·qamus·misbah	HFN-E-a5d666efcb	wasit:انْصَدَعَ . و - الفَجْرُ : طَلَعَ ظَهَرَ . و - البَرْقُ : لَمَعَ . و - الرأْىُ : تبَدَّدَ اختلافًا ويقال: انشقَّت عَصَا الجماعَةِ : تفرَّقوا ‖ misbah:الشَّىء إِذَا انْفَرَجَ فِيهِ فُرْجَةٌ و
-R1_MUTAWAA	شمر	انْشَمَرَ	شَمَرَ	4	sihah·muhkam·qamus·taj	HFN-E-092e0268a8	wasit:مطاوع شَمَرَهُ
-R1_MUTAWAA	شمل	انْشَمَلَ	شَمَلَ	3	muhkam·lisan·qamus	HFN-E-d924136674	
-R1_MUTAWAA	صدع	انْصَدَعَ	صَدَعَ	5	maqayis·muhkam·lisan·asas·misbah	HFN-E-79d0185c4d	wasit:انشقَّ . و - الصَّبحُ : أَسنَرَ
-R1_MUTAWAA	صرف	انْصَرَفَ	صَرَفَ	3	sihah·muhkam·lisan	HFN-E-b297cd3123	wasit:عنه : تحوّل عنه وتركه . وفى التنزيل العزيز : (ثُمَّ انْصَرَفُوا صَرَفَ اللهُ قُلُوبَهُم)
-R1_MUTAWAA	صرم	انْصَرَمَ	صَرَمَ	5	ayn·muhkam·qamus·asas·misbah	HFN-E-1903679a31	wasit:انقَطَعَ . ويقال : انصرم الليلُ : ذَهَبَ . وانصرم الشتاءُ : انقضى ‖ misbah:اللَّيْلُ و
-R1_MUTAWAA	صفق	انْصَفَقَ	صَفَقَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-c213620e1d	wasit:مطاوِعُ صَفَقَهُ . و - القومُ : أَقِبلوا وأَطبقُوا
-R1_MUTAWAA	صلت	انْصَلَتَ	صَلَتَ	4	sihah·lisan·qamus·taj	HFN-E-0cac144b1e	wasit:بَرَزَ وظَهَرَ . و - فى سَيْرِهِ ، أَو أَمِرِه : جَدِّ وسَبَقَ
-R1_MUTAWAA	صهر	انْصَهَرَ	صَهَرَ	3	sihah·muhkam·taj	HFN-E-dd97de7489	wasit:ذابَ
-R1_MUTAWAA	ضبح	انْضَبَحَ	ضَبَحَ	3	sihah·muhkam·taj	HFN-E-72b6eb8ab5	
-R1_MUTAWAA	ضرج	انْضَرَجَ	ضَرَجَ	4	sihah·qamus·taj·asas	HFN-E-8566518d96	wasit:انْشَقّ . ويقال : انضرج النَّوْرُ : تَفَتَّحَ. وانضرَج الشجرُ : تفتحت عيونُ ورَقِه وبَدَتْ أَطْرافُهُ . و - الطريقُ : اتَّسَع . ويقال : انضرج ما بينهُمْ : تباعَ
-R1_MUTAWAA	ضرح	انْضَرَحَ	ضَرَحَ	3	sihah·lisan·taj	HFN-E-104a8fecb0	wasit:مطاوعُ ضَرَحَهُ
-R1_MUTAWAA	ضفر	انْضَفَرَ	ضَفَرَ	3	sihah·lisan·taj	HFN-E-61ee63ad81	
-R1_MUTAWAA	طبخ	انْطَبَخَ	طَبَخَ	4	sihah·muhkam·lisan·qamus	HFN-E-52626d8e30	wasit:طُبِخَ
-R1_MUTAWAA	طلس	انْطَلَسَ	طَلَسَ	2	qamus·taj	HFN-E-9963413767	wasit:أمَّحَى أَو خفِيّ
-R1_MUTAWAA	طلق	انْطَلَقَ	طَلَقَ	5	maqayis·muhkam·lisan·qamus·asas	HFN-E-3b215f5e9d	wasit:انْحَلَّ . و - ذهب ومرَّ . ويقال : انْطلقَ يفعل كذا : أَخذ : و - الوجه أَو اللِّسانُ : صار طَلْقاً
-R1_MUTAWAA	طمس	انْطَمَسَ	طَمَسَ	4	sihah·lisan·qamus·taj	HFN-E-15a7325ec8	
-R1_MUTAWAA	طمل	انْطَمَلَ	طَمَلَ	2	lisan·qamus	HFN-E-80781524b9	wasit:فلان : شارَكَ الدُّصوص
-R1_MUTAWAA	ظلم	انْظَلَمَ	ظَلَمَ	3	muhkam·lisan·qamus	HFN-E-7c33fe0fcd	wasit:اظَّلَمَ
-R1_MUTAWAA	عتل	انْعَتَلَ	عَتَلَ	2	muhkam·qamus	HFN-E-a852834740	wasit:مطاوع عَتَلَهُ. ويقال : لا أَنْعَنِلُ مَعَكَ : لا أَبرح مكانى
-R1_MUTAWAA	عدل	انْعَدَلَ	عَدَلَ	4	sihah·muhkam·lisan·qamus	HFN-E-9182cc7fe0	
-R1_MUTAWAA	عزل	انْعَزَلَ	عَزَلَ	4	muhkam·lisan·qamus·misbah	HFN-E-78194c9830	wasit:عنه : تنحَّى وبَعُدَ ‖ misbah:عَنِ النَّاسِ إِذَا تَنَحَّى عَنْهُمْ جَانِباً وفُلَانٌ عَنِ الحَقِّ
-R1_MUTAWAA	عصب	انْعَصَبَ	عَصَبَ	3	sihah·lisan·qamus	HFN-E-a389a28435	wasit:اشتَدَّ
-R1_MUTAWAA	عصر	انْعَصَرَ	عَصَرَ	2	sihah·qamus	HFN-E-19d22cbeb4	wasit:عْصِرَ
-R1_MUTAWAA	عضب	انْعَضَبَ	عَضَبَ	3	muhkam·lisan·taj	HFN-E-b7d17cf81f	wasit:القرنُ : انكسَرَ .: نصيرَ له . و - من لا أَخَ له . (ج) عُضْب
-R1_MUTAWAA	عطف	انْعَطَفَ	عَطَفَ	5	maqayis·muhkam·lisan·qamus·misbah	HFN-E-8a81c19e86	wasit:مال وانحنى
-R1_MUTAWAA	عطن	انْعَطَنَ	عَطَنَ	3	sihah·muhkam·lisan	HFN-E-ad9ae336b1	wasit:الجلْدُ : عَطِنَ
-R1_MUTAWAA	عفر	انْعَفَرَ	عَفَرَ	6	sihah·muhkam·lisan·qamus·taj·misbah	HFN-E-f618be62c7	wasit:تمرَّغَ فى العَفَرِ. و-الشءُ : تَتَرَّبَ
-R1_MUTAWAA	عفس	انْعَفَسَ	عَفَسَ	4	muhkam·lisan·qamus·taj	HFN-E-07317679cd	
-R1_MUTAWAA	عفق	انْعَفَقَ	عَفَقَ	3	sihah·lisan·qamus	HFN-E-d1195dcc21	wasit:فى: حاجته : مضى فيها وأَسرع
-R1_MUTAWAA	عقد	انْعَقَدَ	عَقَدَ	3	ayn·muhkam·asas	HFN-E-da3e226b72	wasit:مطاوع عَقَدَهُ . يقال : انْعَقَدَ الحَبْلُ ، أَو البناءُ ، أَو اليمينُ
-R1_MUTAWAA	عقر	انْعَقَرَ	عَقَرَ	4	ayn·sihah·muhkam·lisan	HFN-E-9c99905be3	wasit:ظهرُ الدَّابةِ : جُرِحَ . و- البعيرُ والفَرَسُ : ضُرِبَتْ قوائمهُ بالسَّيْفِ
-R1_MUTAWAA	عقف	انْعَقَفَ	عَقَفَ	5	sihah·muhkam·lisan·qamus·misbah	HFN-E-94c0cf1329	wasit:الشءُ : انحدى والتوى
-R1_MUTAWAA	عكس	انْعَكَسَ	عَكَسَ	3	lisan·qamus·taj	HFN-E-565e076e60	wasit:الشءُ : ارتدّ آخرُه على أَوّله . و - انْقَلَبَ
-R1_MUTAWAA	عمد	انْعَمَدَ	عَمَدَ	2	sihah·lisan	HFN-E-0299e6e2be	wasit:مطاوع عمدَه . و - قام على عمادٍ يعتمد عليه
-R1_MUTAWAA	غرف	انْغَرَفَ	غَرَفَ	2	lisan·qamus	HFN-E-d6768cb4ba	
-R1_MUTAWAA	غضف	انْغَضَفَ	غَضَفَ	4	ayn·sihah·muhkam·lisan	HFN-E-086865dd9f	wasit:العُود: انكسَر وانثَنَى . و - أُذنُهُ : ندلَّت من غير خلقة . و - القومُ فى الغبار : دخَلوا فيه . و - البئرُ :: انهارت . و- الضَّبابُ : تراكم بعضُه على بعض
-R1_MUTAWAA	غمس	انْغَمَسَ	غَمَسَ	4	sihah·taj·asas·misbah	HFN-E-eab6b2ad5a	wasit:في الماء : اغتمس فيه
-R1_MUTAWAA	فتح	انْفَتَحَ	فَتَحَ	4	muhkam·lisan·taj·misbah	HFN-E-73dd5639cb	wasit:البابُ: مطاوِعُ فَتَحَهُ . و- الشءُ عنِ الشَّىْء : انْكَشَفَ عَنْهُ
-R1_MUTAWAA	فتق	انْفَتَقَ	فَتَقَ	4	maqayis·lisan·qamus·misbah	HFN-E-c69505f0a2	wasit:انشَق
-R1_MUTAWAA	فتل	انْفَتَلَ	فَتَلَ	3	muhkam·lisan·qamus	HFN-E-76de77a611	wasit:التَوَى . و - انْصَرَف. ويقال: : مطاوعُ فَتْل فَتَلَ تَتْرَابه وعن حاجَّنٍ . والنفتلَ وجهَهُ عنه
-R1_MUTAWAA	فجر	انْفَجَرَ	فَجَرَ	5	ayn·maqayis·lisan·qamus·taj	HFN-E-796d7f84fc	wasit:مطاوع فَجَرَ . و - الماءُ ونحوُه : لْبَعَثَ سائلًا . وفى التنزيل العزيز : (فَقُلْنَا اضْرِبْ بِمَصَاكَ الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً 
-R1_MUTAWAA	فحج	انْفَحَجَ	فَحَجَ	2	muhkam·taj	HFN-E-2dd5bc30be	
-R1_MUTAWAA	فخت	انْفَخَتَ	فَخَتَ	2	qamus·taj	HFN-E-610e3c896e	
-R1_MUTAWAA	فرث	انْفَرَثَ	فَرَثَ	3	muhkam·qamus·taj	HFN-E-f76d646e46	
-R1_MUTAWAA	فرج	انْفَرَجَ	فَرَجَ	3	ayn·qamus·taj	HFN-E-8479937634	wasit:الشَّءُ : اتَّسَع . ويقال : انفرج •١ بين الشَّيشين . و - الغَمُّ والكَرْبُ : انكَشَفَ و - فلانٌ من ضِيقِه : تخلَّص
-R1_MUTAWAA	فرش	انْفَرَشَ	فَرَشَ	2	muhkam·lisan	HFN-E-d702a3b988	wasit:الشءُ : انْبَسَطَ
-R1_MUTAWAA	فرق	انْفَرَقَ	فَرَقَ	2	ayn·lisan	HFN-E-c876d50e5b	wasit:الشءُ : افترقَ . و - انشق ويقال : انفَرَق الصّبح : انفَلَق
-R1_MUTAWAA	فسح	انْفَسَحَ	فَسَحَ	5	ayn·muhkam·lisan·qamus·taj	HFN-E-18f3a2e70d	wasit:المكانُ : اتَّسَعَ . و - صَدْرُهُ : انْشَرَحَ . و - طَرْفَهُ : امتدّ نظره بلا عائق
-R1_MUTAWAA	فسخ	انْفَسَخَ	فَسَخَ	4	ayn·lisan·qamus·taj	HFN-E-466c7d0aa0	
-R1_MUTAWAA	فسق	انْفَسَقَ	فَسَقَ	2	muhkam·qamus	HFN-E-b27dfb58b4	
-R1_MUTAWAA	فصد	انْفَصَدَ	فَصَدَ	4	muhkam·lisan·qamus·taj	HFN-E-7ca37fcefc	wasit:الدمُ ونحوه : سالَ
-R1_MUTAWAA	فصل	انْفَصَلَ	فَصَلَ	3	sihah·muhkam·lisan	HFN-E-42e7c7eab7	wasit:الشئُ : انقطع . و - القومُ عن مكان كذا : فارقوه
-R1_MUTAWAA	فصم	انْفَصَمَ	فَصَمَ	4	sihah·muhkam·lisan·misbah	HFN-E-8aea686e34	wasit:الشءُ : انكِسر من غير فَصْل. و- العُقدةُ : انحلَّت . و-العُروة. : انقطعت , وفى التنزيل العزيز: (فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى | (ج) فضائح. لَاَ ان ‖ misbah:وَفِي التَّنْزِيلِ
-R1_MUTAWAA	فضض	انْفَضَّ	فَضَّ	3	maqayis·lisan·misbah	HFN-E-1200d6cef5	wasit:الشءُ : انكسر . و - الجمعُ : تَفَرَّقَ . وفى التنزيل العزيز : ( وَلَوْ كُنْتَ فَظَّا غَلِيظَ القَلْبِ لا نْفَضُّوا مِنْ حَوْلِكَ )
-R1_MUTAWAA	فطر	انْفَطَرَ	فَطَرَ	3	sihah·muhkam·lisan	HFN-E-e2a2b4f4e0	wasit:الشَّءُ : انشقَّ. وفى التنزيل العزيز
-R1_MUTAWAA	فغر	انْفَغَرَ	فَغَرَ	5	maqayis·lisan·qamus·taj·asas	HFN-E-46d4f6b97b	wasit:الفَمُ : انْفَتَحَ
-R1_MUTAWAA	فلع	انْفَلَعَ	فَلَعَ	4	ayn·maqayis·muhkam·lisan	HFN-E-d81ff60f04	wasit:الشءُ : انشق . يقال : انفلعت البيضة عن الفرخ
-R1_MUTAWAA	فلق	انْفَلَقَ	فَلَقَ	4	ayn·maqayis·lisan·qamus	HFN-E-84e3398ed8	
-R1_MUTAWAA	فهق	انْفَهَقَ	فَهَقَ	3	muhkam·lisan·qamus	HFN-E-88a5724945	
-R1_MUTAWAA	قبض	انْقَبَضَ	قَبَضَ	4	ayn·muhkam·lisan·misbah	HFN-E-1704965392	wasit:الشءُ : تجمَّعَ وانْطَوَى . و - المالُ . : ضار مقبوضاً . و - الرّجُلُ على نفسه : ضاق بالحياة فاعتزل . و- عن الشىء : اشمازَّ . و - عن القوم : هجرهم . و - فى حاجت
-R1_MUTAWAA	قحم	انْقَحَمَ	قَحَمَ	2	lisan·qamus	HFN-E-2081a6fe51	wasit:فى الأَمْرِ : قَحَمَ
-R1_MUTAWAA	قدر	انْقَدَرَ	قَدَرَ	2	sihah·qamus	HFN-E-33201f97fb	wasit:جاءً على المقدار . يقال قدرتُ الثوب فانقدر
-R1_MUTAWAA	قدع	انْقَدَعَ	قَدَعَ	2	sihah·lisan	HFN-E-28d17bdd64	wasit:كف وامتنع . و- عن الشىء : استحيا منه
-R1_MUTAWAA	قرض	انْقَرَضَ	قَرَضَ	2	sihah·lisan	HFN-E-3b50ed1049	wasit:الشءُ : انقطع . و - القومُ : ذهبوا ولم يبقَ منهم أَحدٌ
-R1_MUTAWAA	قسم	انْقَسَمَ	قَسَمَ	2	sihah·lisan	HFN-E-4cceafaf07	wasit:الشءُ : تجزَّا أَجزَاءٌ
-R1_MUTAWAA	قشر	انْقَشَرَ	قَشَرَ	5	ayn·sihah·lisan·qamus·taj	HFN-E-b6d374c9ea	wasit:الشءُ : زَال عنه قشرُه
-R1_MUTAWAA	قشع	انْقَشَعَ	قَشَعَ	6	maqayis·sihah·muhkam·lisan·asas·misbah	HFN-E-53ba2665d6	wasit:عنه الشءُ : غَشِيه ثم انجلى عنه . يقال : انقشع الظلامُ عن الصبح، وانقشع الهَمُّ عن القلب ، وانقشع الدَّحابُ عن الجو. و - القومُ : ذهَبوا وتفرّقوا . و - عن الماء
-R1_MUTAWAA	قصد	انْقَصَدَ	قَصَدَ	5	ayn·muhkam·lisan·qamus·taj	HFN-E-61325dee28	wasit:العودُ : انكسر
-R1_MUTAWAA	قصف	انْقَصَفَ	قَصَفَ	7	ayn·sihah·muhkam·lisan·qamus·asas·misbah	HFN-E-8a15afa4ec	wasit:الشءُ: انكسر وبان. و- القوم عن الشىء : تركوه ومرُّوا عَجْزًا . و - القومُ : جتمعوا وازدحموا. ويقال: انقصفوا على الشيء : تتابعوا ‖ misbah:عَنِ الشَّءِ تَركَهُ و
-R1_MUTAWAA	قصم	انْقَصَمَ	قَصَمَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-531bff8b7a	wasit:انكسر
-R1_MUTAWAA	قضب	انْقَضَبَ	قَضَبَ	5	maqayis·muhkam·qamus·taj·misbah	HFN-E-53e7879686	wasit:انقطع . ويقال : انقضب الكوكَبُ مِن مكانه: انقطع وانقَضَّ. فهو مُنْقَضِبٌ
-R1_MUTAWAA	قضض	انْقَضَّ	قَضَّ	3	maqayis·muhkam·lisan	HFN-E-841a2ab49d	wasit:الشءُ : تقطَّعَ وانكسر . ويقال: انقضَّت أَوصالُه : تفرَّقت وتقطَّعت. و_ الجدارُ : سقط . و- الطائرُ : هوى فى طيرانه بسرعة يريد الوقوع على شىء . و- الخيل على الأع
-R1_MUTAWAA	قضع	انْقَضَعَ	قَضَعَ	3	muhkam·lisan·qamus	HFN-E-49eb7a8336	
-R1_MUTAWAA	قطع	انْقَطَعَ	قَطَعَ	6	ayn·sihah·lisan·qamus·asas·misbah	HFN-E-707bc19048	wasit:الشءُ : ذهب وقتُه : يقال: انقطع الحرّ والبُرْدُ .. ويقال : انقطع الكلامُ:. و - النهرُ : جَفَّ . و _ الكلامُ : وقَفَ فلم بَمضٍ . و - إِلى فلانٍ : انفرد بصحبته خا ‖ wasit:بفلان [ مجهولا ] : إذا. كان ابن سبيل فانقطع به السفر دون طِيَّته .ن فهو منقَطَع به
-R1_MUTAWAA	قعر	انْقَعَرَ	قَعَرَ	6	ayn·maqayis·muhkam·qamus·taj·asas	HFN-E-9abdde40de	
-R1_MUTAWAA	قعش	انْقَعَشَ	قَعَشَ	2	lisan·qamus	HFN-E-480f46ef2c	
-R1_MUTAWAA	قعص	انْقَعَصَ	قَعَصَ	2	lisan·qamus	HFN-E-1d31a41c7d	
-R1_MUTAWAA	قفش	انْقَفَشَ	قَفَشَ	2	lisan·qamus	HFN-E-2163e35c02	
-R1_MUTAWAA	قفع	انْقَفَعَ	قَفَعَ	2	muhkam·qamus	HFN-E-bc28848d37	wasit:النباتُ : يبس وتصلَّبَ . و - عن الشيء : امتنع
-R1_MUTAWAA	قلب	انْقَلَبَ	قَلَبَ	3	ayn·lisan·asas	HFN-E-fe1845568a	wasit:مطاوع قلبه . و - رجع وانصرف ، وفى التنزيل العزيز : (فَانْقَلَبُوا بِنِعْمَةٍ مِنَ اللهِ وَفَضْل )
-R1_MUTAWAA	قلع	انْقَلَعَ	قَلَعَ	6	ayn·sihah·muhkam·lisan·qamus·misbah	HFN-E-f6dd8562a0	wasit:مطاوع قلَعَ . و - البعيرُ : كان صحيحاً فوقع ميِّتاً
-R1_MUTAWAA	قمح	انْقَمَحَ	قَمِحَ	4	ayn·maqayis·sihah·taj	HFN-E-5fdd747d96	
-R1_MUTAWAA	قمس	انْقَمَسَ	قَمَسَ	5	sihah·muhkam·lisan·qamus·taj	HFN-E-8cbc50dd0c	wasit:الكوكبُ : غَرَب . و - فى الماء : وثب فيه
-R1_MUTAWAA	قمع	انْقَمَعَ	قَمَعَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-160a3dc8eb	wasit:تغيّبَ ودخل وراء سِتر . و- فى البيْتِ : قَمَع . و - جدس وحده
-R1_MUTAWAA	قهل	انْقَهَلَ	قَهِلَ	3	muhkam·lisan·qamus	HFN-E-85c37a8142	
-R1_MUTAWAA	كبت	انْكَبَتَ	كَبَتَ	3	muhkam·lisan·taj	HFN-E-bd4265bb74	wasit:مطاوعُ كبت
-R1_MUTAWAA	كدر	انْكَدَرَ	كَدَرَ	4	sihah·muhkam·lisan·qamus	HFN-E-9a54edea42	wasit:فى سيره : أسرع وانقضّ. و - عليه القومُ : انصبّوا . و - النجومُ : تناثرت. وفى التنزيل العزيز
-R1_MUTAWAA	كرث	انْكَرَثَ	كَرَثَ	2	qamus·taj	HFN-E-433c929e77	
-R1_MUTAWAA	كسر	انْكَسَرَ	كَسَرَ	5	sihah·lisan·qamus·taj·misbah	HFN-E-6f9c3c6e5e	wasit:الشءُ : مطاوع كَسَرَه . و - الشءُ : فَتَرَ . يقال : انكسر الحرَّ وبَرُد الماء . و - العسكرُ : انهزم وتبدّد . فهو مكسور ، ولا يقال : منكسر . و - الشِّعرُ : لم يَ
-R1_MUTAWAA	كسف	انْكَسَفَ	كَسَفَ	4	sihah·lisan·qamus·misbah	HFN-E-e31842b447	
-R1_MUTAWAA	كشح	انْكَشَحَ	كَشَحَ	4	sihah·lisan·qamus·taj	HFN-E-f5c1262dd1	
-R1_MUTAWAA	كشط	انْكَشَطَ	كَشَطَ	4	maqayis·sihah·lisan·qamus	HFN-E-cf86634571	wasit:مطاوع كَشَطَ . ويقال : انكشطَ رَوْعهُ : ذهب خوفُه
-R1_MUTAWAA	كشف	انْكَشَفَ	كَشَفَ	4	muhkam·qamus·asas·misbah	HFN-E-9f5e457b3d	
-R1_MUTAWAA	كفت	انْكَفَتَ	كَفَتَ	3	lisan·qamus·taj	HFN-E-b64f676c08	wasit:الرّجُل : اجتمع خَلْقُه و - الفرسُ : ضَمَرَ . و _ الرّجُلُ : انصرف و - القومُ إلى منازلهم : انقلبوا
-R1_MUTAWAA	كمش	انْكَمَشَ	كَمَشَ	3	sihah·lisan·qamus	HFN-E-b3a774eabc	wasit:فى أَمره : أَسْرَع . ويقال : انكمش الفرسُ فى سَيْره. و- الجلدُ أَو النَّسيج تقبَّضٍ واجتمع
-R1_MUTAWAA	محق	انْمَحَقَ	مَحَقَ	3	ayn·asas·misbah	HFN-E-fd6360ef02	misbah:الْهِلاَل لِثَلَاثِ لَيَالِ فِي آخِر الشَّهْرِ لاَ يَكَادْ يُرَى لِخَفَائِهِ وَالاِسْمُ
-R1_MUTAWAA	مدح	انْمَدَحَ	مَدَحَ	2	taj·misbah	HFN-E-e5fe6993cb	
-R1_MUTAWAA	مرط	انْمَرَطَ	مَرَطَ	2	muhkam·lisan	HFN-E-f8e762ed11	
-R1_MUTAWAA	ملس	انْمَلَسَ	مَلَسَ	2	lisan·taj	HFN-E-8c498790dd	
-R1_MUTAWAA	ملق	انْمَلَقَ	مَلَقَ	4	maqayis·sihah·lisan·qamus	HFN-E-f1c2644e14	wasit:الشءُ ، و
-R1_MUTAWAA	هتك	انْهَتَكَ	هَتَكَ	5	ayn·muhkam·lisan·qamus·misbah	HFN-E-2798d8e721	misbah:و
-R1_MUTAWAA	هجس	انْهَجَسَ	هَجَسَ	2	lisan·qamus	HFN-E-a4bca9573a	
-R1_MUTAWAA	هجم	انْهَجَمَ	هَجَمَ	3	ayn·muhkam·qamus	HFN-E-1a325a15c9	
-R1_MUTAWAA	هدم	انْهَدَمَ	هَدَمَ	2	muhkam·misbah	HFN-E-8c0a01d0c9	
-R1_MUTAWAA	هرج	انْهَرَجَ	هَرَجَ	2	lisan·taj	HFN-E-e59a910956	wasit:فلانٌ من الخمر : اضمحلَّت قُواه من تناوُلها
-R1_MUTAWAA	هزم	انْهَزَمَ	هَزَمَ	3	sihah·muhkam·qamus	HFN-E-7bf6a65216	
-R1_MUTAWAA	هشم	انْهَشَمَ	هَشَمَ	2	muhkam·lisan	HFN-E-67752f662b	wasit:الشءُ : مطاوعُ هَشَمه .و- الإِبلُ : خارتْ وضعُفت
-R1_MUTAWAA	هصر	انْهَصَرَ	هَصَرَ	4	muhkam·lisan·qamus·taj	HFN-E-5346006354	
-R1_MUTAWAA	هلب	انْهَلَبَ	هَلَبَ	3	muhkam·qamus·taj	HFN-E-4bda70debf	
-R1_MUTAWAA	هلت	انْهَلَتَ	هَلَتَ	3	lisan·qamus·taj	HFN-E-6caddb583d	wasit:يعدو : انسلَتَ بعدو
-R1_MUTAWAA	همر	انْهَمَرَ	هَمَرَ	5	ayn·maqayis·muhkam·lisan·qamus	HFN-E-5721c54564	wasit:الماءُ : انسكبَ بقرَّةٍ . فهو منهمر . وفى التنزيل العزيز : (فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءِ مُنْهَيِرٍ ) . ويقال : انهمر بالكلام . و - البنَاءُ : انهدم
-R1_MUTAWAA	همك	انْهَمَكَ	هَمَكَ	7	ayn·maqayis·muhkam·lisan·qamus·asas·misbah	HFN-E-8f3f8ec856	wasit:فلانٌ فى الأمر : جدَّ وثابر فيه برغبة وحرص
-R1_MUTAWAA	هور	انْهَارَ	هَارَ	6	ayn·sihah·muhkam·lisan·qamus·asas	HFN-E-1f199bfef0	wasit:البناءُ ونحوه : انْهَدم . وفى التنزيل العزيز ‖ misbah:و
+R1_MUTAWAA	بتر	ٱنْبَتَرَ	بَتَرَ	2	muhkam·taj	HFN-E-b143f586c4	wasit:انقطع
+R1_MUTAWAA	بتل	ٱنْبَتَلَ	بَتَلَ	3	muhkam·lisan·qamus	HFN-E-deec805cc1	wasit:انقطعَ . و- الفسيلة من أُمِّها : انفصلت عنها
+R1_MUTAWAA	بثق	ٱنْبَثَقَ	بَثَقَ	3	qamus·asas·misbah	HFN-E-dc712fe4d7	wasit:انثقب وانْشَقَّ . و - السيلُ : عليهم : أَقبل فجْأَة . و - فلانٌ عليهم بالكلام: اندفع . و - الأَرضُ : أَخْصَبَتْ
+R1_MUTAWAA	بجس	ٱنْبَجَسَ	بَجَسَ	7	ayn·maqayis·lisan·qamus·taj·asas·misbah	HFN-E-d5c02dc322	wasit:انفجر. وفى التنزيل العزيز: (فَانْبَجَسَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً)
+R1_MUTAWAA	بزخ	ٱنْبَزَخَ	بَزَخَ	2	muhkam·taj	HFN-E-15f5b675da	wasit:ظهرُ الفرس : بَزَخَ
+R1_MUTAWAA	بزل	ٱنْبَزَلَ	بَزَلَ	2	maqayis·qamus	HFN-E-efd485077c	wasit:انشقَّ
+R1_MUTAWAA	بسط	ٱنْبَسَطَ	بَسَطَ	3	sihah·muhkam·qamus	HFN-E-c68876411d	wasit:الشيءُ : انتشر . و - يدُه: متَدَّتْ . و - لسانُه : انْطَلَقَ . و - فلانٌ : سُرَّ . و - تركَ الاحتشامَ . و - النّهارُ : طال
+R1_MUTAWAA	بعث	ٱنْبَعَثَ	بَعَثَ	5	sihah·muhkam·lisan·qamus·taj	HFN-E-9dc197627e	wasit:هَبَ واندفَع . و - فى السَّير : أسرعَ . و - لحاجته : نهض لها
+R1_MUTAWAA	بعج	ٱنْبَعَجَ	بَعَجَ	3	muhkam·taj·asas	HFN-E-33afdfde1e	wasit:اتسع وانْفَرَجَتْ جَوَانبُهُ ،. و - السحاب : انبثق بمطر غزير. و - فلانٌ بالحديث : تَدَفَّق
+R1_MUTAWAA	بعق	ٱنْبَعَقَ	بَعَقَ	4	sihah·muhkam·lisan·asas	HFN-E-7bce890511	wasit:انشَقّ. يقال : انبعق السحابُ بالمطر . و - فى الكلام : ابتَعَق . و - عليه الشءُ : فاجأه
+R1_MUTAWAA	بقر	ٱنْبَقَرَ	بَقَرَ	2	lisan·taj	HFN-E-c9aac2701d	wasit:انشَقَّ
+R1_MUTAWAA	بلت	ٱنْبَلَتَ	بَلَتَ	3	muhkam·lisan·taj	HFN-E-7185e5e71a	
+R1_MUTAWAA	بلج	ٱنْبَلَجَ	بَلَجَ	4	sihah·lisan·qamus·taj	HFN-E-2e3c97ed1c	
+R1_MUTAWAA	بلق	ٱنْبَلَقَ	بَلَقَ	2	ayn·qamus	HFN-E-080b6aa47c	wasit:البابُ : انفَتَح
+R1_MUTAWAA	بهر	ٱنْبَهَرَ	بَهَرَ	6	sihah·muhkam·lisan·qamus·taj·asas	HFN-E-208b334bd1	
+R1_MUTAWAA	ثرم	ٱنْثَرَمَ	ثَرَمَ	3	ayn·muhkam·asas	HFN-E-76b5e3fc20	wasit:صار أَثْرَمَ . و - ثَنِيَّتُه : انكسر بعضها فصارت ثرماء
+R1_MUTAWAA	ثعب	ٱنْثَعَبَ	ثَعَبَ	3	maqayis·sihah·muhkam	HFN-E-18b2eb4940	
+R1_MUTAWAA	ثلم	ٱنْثَلَمَ	ثَلَمَ	2	lisan·qamus	HFN-E-f416ae98e4	
+R1_MUTAWAA	جءف	ٱنْجَءَفَ	جَأَفَ	3	muhkam·lisan·qamus	HFN-E-e32e630f04	
+R1_MUTAWAA	جحر	ٱنْجَحَرَ	جَحَرَ	3	ayn·muhkam·lisan	HFN-E-5697620714	wasit:دخل الجُحْرَ ‖ misbah:الضَّبُ وَغِيرُهُمَا فَتَكُونُ الجَبْهَةُ بَيْنَ جَبِينَيْنِ وجَمْعُهُ
+R1_MUTAWAA	جدل	ٱنْجَدَلَ	جَدَلَ	3	ayn·sihah·lisan	HFN-E-6668c9c670	wasit:انْصَرَعَ
+R1_MUTAWAA	جذب	ٱنْجَذَبَ	جَذَبَ	5	ayn·muhkam·lisan·taj·asas	HFN-E-8003f132dc	
+R1_MUTAWAA	جذم	ٱنْجَذَمَ	جَذَمَ	2	sihah·asas	HFN-E-57b7f21356	
+R1_MUTAWAA	جرد	ٱنْجَرَدَ	جَرَدَ	5	sihah·lisan·qamus·taj·asas	HFN-E-75af63e450	wasit:من ثوبه : تَعَرَّى . و - الإِبلُ من أَوبارها : سقطت عنها . و - السُّنبلةُ خرجت من لفائفها . و - الثوبُ : أخلق . و - شعرُ الفرس : كان قصيرًا . و - فى سيره : جدَّ
+R1_MUTAWAA	جزر	ٱنْجَزَرَ	جَزَرَ	2	muhkam·taj	HFN-E-c04bf292aa	wasit:البحرُ والنَّهرُ : جَزَرَ
+R1_MUTAWAA	جزع	ٱنْجَزَعَ	جَزَعَ	2	muhkam·qamus	HFN-E-f63066ec84	wasit:انقطع من وسَطِه . يقال : انجزع الحبلُ ، وانجزعَتِ العصا
+R1_MUTAWAA	جعب	ٱنْجَعَبَ	جَعَبَ	3	muhkam·qamus·taj	HFN-E-3e363abb62	wasit:مطاوع جَعَبه
+R1_MUTAWAA	جعف	ٱنْجَعَفَ	جَعَفَ	3	maqayis·muhkam·qamus	HFN-E-db17ffe696	wasit:مطاوع جَعَفَهُ
+R1_MUTAWAA	جفل	ٱنْجَفَلَ	جَفَلَ	4	maqayis·sihah·lisan·asas	HFN-E-a21ffa84ba	wasit:مطاوع جَفلَه
+R1_MUTAWAA	جلب	ٱنْجَلَبَ	جَلَبَ	3	lisan·qamus·taj	HFN-E-dda1a007d5	wasit:مطاوع جلبه
+R1_MUTAWAA	جلع	ٱنْجَلَعَ	جَلِعَ	3	sihah·lisan·qamus	HFN-E-05d281e701	wasit:مطاوع جَلَعَهُ
+R1_MUTAWAA	حجز	ٱنْحَجَزَ	حَجَزَ	2	sihah·qamus	HFN-E-c93fe4afa5	
+R1_MUTAWAA	حدر	ٱنْحَدَرَ	حَدَرَ	5	ayn·sihah·muhkam·qamus·taj	HFN-E-afe3856dda	wasit:انْحطَّ من عُلو إِلى سُفل . و - جلده : حَدّرَ
+R1_MUTAWAA	حذق	ٱنْحَذَقَ	حَذَقَ	4	ayn·muhkam·lisan·qamus	HFN-E-d96d866d96	wasit:انْقطع
+R1_MUTAWAA	حرف	ٱنْحَرَفَ	حَرَفَ	6	ayn·sihah·muhkam·qamus·asas·misbah	HFN-E-c8abf96761	wasit:مال . ويُقال : انحرف مِزاجُه : مال عن الاعتِدال. و - إلى فلان : مال إليه . و - عن فلان : انصرف
+R1_MUTAWAA	حسر	ٱنْحَسَرَ	حَسَرَ	3	ayn·asas·misbah	HFN-E-db92cb5e5f	wasit:انكشف و - الماءُ عن السَّاحل : ارتدَّ حتَّى بدَت الأَرضُ و - الطيرُ : سقَط ريشُه العتيق ونبتَ ريشُه الحديث
+R1_MUTAWAA	حسم	ٱنْحَسَمَ	حَسَمَ	3	sihah·muhkam·misbah	HFN-E-253e6414c2	
+R1_MUTAWAA	حصم	ٱنْحَصَمَ	حَصَمَ	2	muhkam·qamus	HFN-E-7dacc509f0	wasit:العُودُ : انكَسَرَ
+R1_MUTAWAA	حضج	ٱنْحَضَجَ	حَضَجَ	5	ayn·sihah·muhkam·lisan·taj	HFN-E-b33e1fafda	wasit:البعيرُ وغيره : وقع لجنبه . و - برك . و - الرجلُ : اضطجع . و - انبسط على الشَّىء . و - ضرب بنفسه الأرضَ غيظًا
+R1_MUTAWAA	حطم	ٱنْحَطَمَ	حَطَمَ	5	ayn·muhkam·lisan·asas·misbah	HFN-E-9c2ac57770	wasit:مطاوع حَطَمه . و - الناس عليه : تزاحموا
+R1_MUTAWAA	حلب	ٱنْحَلَبَ	حَلَبَ	3	muhkam·qamus·taj	HFN-E-70c93c715a	
+R1_MUTAWAA	خبز	ٱنْخَبَزَ	خَبَزَ	3	muhkam·qamus·taj	HFN-E-385ef975e0	wasit:المكانُ : انْخَفض واطمأَنَ
+R1_MUTAWAA	خدع	ٱنْخَدَعَ	خَدَعَ	4	sihah·muhkam·lisan·qamus	HFN-E-2041cfca5d	wasit:خُدِعَ . و - أَظهر أَنه ممخدوع وليس بهِ . و - الشيءُ : توارى واستتر . يقال : انخدع الضَّبُّ . و- السوقُ : كَسَدتْ
+R1_MUTAWAA	خرط	ٱنْخَرَطَ	خَرَطَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-2331f96067	
+R1_MUTAWAA	خرع	ٱنْخَرَعَ	خَرَعَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-a0a91a0575	wasit:انْشَقَّ . و - لان واستَرْخى . و - الرَّجُلُ : ذلَّ وضَعُفَ . ويقال : انْخَرَع له : و - العُذْموُ : زال عن موضعه فى الجسم
+R1_MUTAWAA	خرق	ٱنْخَرَقَ	خَرَقَ	5	ayn·sihah·muhkam·lisan·asas	HFN-E-901182f484	wasit:الشءُ : انْشَقَّ . و - الرِّيحُ فى الأرضِ : هَبّتْ على غيرِ استقامة . و - اشتدّ هُبوبُها وتَخلُّلُها المواضِع
+R1_MUTAWAA	خرم	ٱنْخَرَمَ	خَرَمَ	2	sihah·misbah	HFN-E-5f85a92f65	wasit:انشق ٠ و - أنقَطع . و- العامُ ونحوه : ذهب وانقضى. و- القوم: فَنُوا وذهبوا . وفى الحديث
+R1_MUTAWAA	خزع	ٱنْخَزَعَ	خَزَعَ	3	muhkam·qamus·asas	HFN-E-00d1beaf46	wasit:الشءُ : انقطع . و - الحَبْلُ : انقطع من نصْفِه . و - مَنْنُ الرجُلِ : انْحَنَى من كِبَر وضَعْفٍ: ون العودُ : انكَسر قطعتين
+R1_MUTAWAA	خزق	ٱنْخَزَقَ	خَزَقَ	2	muhkam·lisan	HFN-E-174a91c12d	wasit:الشءُ : انغَرز فى الأرض . ويقال : انْخَرق الشءُ الحادَّ فى الشىء
+R1_MUTAWAA	خزل	ٱنْخَزَلَ	خَزَلَ	4	maqayis·sihah·lisan·qamus	HFN-E-ac1888a855	wasit:انْقَطع . وفى حديث أُحُدٍ : « انخزَلَ عبد اللّٰه بن أُبَيٍّ من ذلك المكان » . ويقال : انخزل فى كلامه . و- المرأَةَ فى مِشيتها : خَزِلَتْ . و - فلانٌ عن الأمر : 
+R1_MUTAWAA	خسء	ٱنْخَسَءَ	خَسَأَ	4	muhkam·lisan·qamus·taj	HFN-E-7db8ac9e49	
+R1_MUTAWAA	خسف	ٱنْخَسَفَ	خَسَفَ	4	ayn·lisan·qamus·asas	HFN-E-d084089154	
+R1_MUTAWAA	خضد	ٱنْخَضَدَ	خَضَدَ	5	ayn·lisan·qamus·taj·asas	HFN-E-9b022f9873	wasit:انكَسَر . و - انثَنَى . و - الثمر : تشدّخ
+R1_MUTAWAA	خفع	ٱنْخَفَعَ	خَفَعَ	4	ayn·maqayis·muhkam·qamus	HFN-E-9dbc2394d1	
+R1_MUTAWAA	خنس	ٱنْخَنَسَ	خَنَسَ	5	muhkam·lisan·qamus·taj·misbah	HFN-E-92325a03a2	wasit:اختنَس . و - رَجَع
+R1_MUTAWAA	خنق	ٱنْخَنَقَ	خَنَقَ	3	sihah·muhkam·asas	HFN-E-0d42a84b62	
+R1_MUTAWAA	دبغ	ٱنْدَبَغَ	دَبَغَ	2	sihah·lisan	HFN-E-b9e4128d37	wasit:مطاوع دَبَمه ‖ misbah:الْجِلدُ فِى الْمُطَاوَعَةِ والْفَاعِلُ
+R1_MUTAWAA	دحق	ٱنْدَحَقَ	دَحَقَ	2	sihah·lisan	HFN-E-95faae2c89	wasit:انْدَلَقَ . و - بَطْنُهُ : اتَّسَع
+R1_MUTAWAA	دخل	ٱنْدَخَلَ	دَخَلَ	3	sihah·lisan·qamus	HFN-E-e34b10a09b	
+R1_MUTAWAA	درء	ٱنْدَرَءَ	دَرَأَ	4	muhkam·lisan·qamus·taj	HFN-E-fd0f92127d	
+R1_MUTAWAA	درج	ٱنْدَرَجَ	دَرَجَ	2	qamus·taj	HFN-E-12868df6c7	wasit:مطاوع درَجَه . و - عليهِ : انطوى . ويتمال : اندَرح تحته كذا ، أَو فيه كذا : دخل فيه وكان مما انطوى عليه
+R1_MUTAWAA	درس	ٱنْدَرَسَ	دَرَسَ	2	qamus·taj	HFN-E-f8ff86a37d	wasit:مطاوع درس
+R1_MUTAWAA	درع	ٱنْدَرَعَ	دَرَعَ	3	muhkam·lisan·qamus	HFN-E-6ee9a5386b	wasit:البطْنُ : امتلاً . و - العظْمُ من اللحم : انخلع . و - القمر من السحاب : خرج . و - فلانٌ فى الدَّيْرِ : تقدَّم . ويقال : اندرع يفعل كذا : اندفع
+R1_MUTAWAA	دفع	ٱنْدَفَعَ	دَفَعَ	4	sihah·lisan·asas·misbah	HFN-E-85f3088b0a	wasit:مطاوع دفعه. و - فى الأَمرِ : مَضى. ويقال: اندفع فى الحديث: أَفاض.. و - الفرسُ: أَسرَعَ فى سَمَيْرِه. و- السَّيْلُ : دفع بعضُه بعضاً
+R1_MUTAWAA	دفق	ٱنْدَفَقَ	دَفَقَ	3	ayn·maqayis·qamus	HFN-E-0bf8dc7560	wasit:الماءُ ونحوه : مطاوع دفَقَه
+R1_MUTAWAA	دفن	ٱنْدَفَنَ	دَفَنَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-6f602dd8e4	wasit:مطاوع دفنه
+R1_MUTAWAA	دقم	ٱنْدَقَمَ	دَقَمَ	3	ayn·muhkam·lisan	HFN-E-fed60cd2dd	
+R1_MUTAWAA	دكم	ٱنْدَكَمَ	دَكَمَ	2	lisan·qamus	HFN-E-ef04d5b6e7	
+R1_MUTAWAA	دلص	ٱنْدَلَصَ	دَلَصَ	3	maqayis·muhkam·lisan	HFN-E-9e037649ae	wasit:الشئُرَ من يده : انْمَلَصَ وسقط . و - الشئُ عن الشيء : انفصل
+R1_MUTAWAA	دلظ	ٱنْدَلَظَ	دَلَظَ	2	muhkam·lisan	HFN-E-9970dbac01	wasit:الماءُ : اندفع
+R1_MUTAWAA	دلق	ٱنْدَلَقَ	دَلَقَ	6	ayn·maqayis·muhkam·lisan·asas·misbah	HFN-E-66ffdfffbe	wasit:الشءُ : اندفع: من مكانه . يقال : طعنه فاندلقَت أحشاءُ بطنه . و_ السيلُ : اندفع وهَجَمَ . ويقال : اندلقت الخيل . و - البابُ : كلما فُتِح عاد كما كان . ( تَدَلَّق ‖ misbah:السَّيْفُ مِنْ غِمْدِهِ خَرَجَ مِن غَيْرِ أَنْ يُسَلَّ و
+R1_MUTAWAA	دمج	ٱنْدَمَجَ	دَمَجَ	5	lisan·qamus·taj·asas·misbah	HFN-E-229d5f181b	wasit:الشءُ فى الشءِ : دَمَجَ
+R1_MUTAWAA	دمق	ٱنْدَمَقَ	دَمَقَ	5	maqayis·sihah·muhkam·lisan·qamus	HFN-E-1996a226ae	wasit:رأَسُ الفخذ : زالَ عن مكانه . و - فيه ، ومنه : خرج
+R1_MUTAWAA	دمل	ٱنْدَمَلَ	دَمَلَ	5	maqayis·sihah·muhkam·lisan·qamus	HFN-E-3834f18f3f	wasit:الجرح : أخذ فى البرء . ويقال: اندمل المريض: قارب الشفاء من مرضه أَو من جرحه
+R1_MUTAWAA	ذءج	ٱنْذَءَجَ	ذَئِجَ	2	qamus·taj	HFN-E-cf0e1b3f04	
+R1_MUTAWAA	ذعر	ٱنْذَعَرَ	ذَعَرَ	3	ayn·muhkam·lisan	HFN-E-cc567dae77	wasit:خاف وفزع
+R1_MUTAWAA	زبق	ٱنْزَبَقَ	زَبَقَ	4	maqayis·muhkam·lisan·qamus	HFN-E-34ca5e96a8	
+R1_MUTAWAA	زجر	ٱنْزَجَرَ	زَجَرَ	6	ayn·maqayis·sihah·qamus·taj·misbah	HFN-E-a36b613bee	wasit:يقال انزجر له : انتقاد
+R1_MUTAWAA	زرب	ٱنْزَرَبَ	زَرَبَ	2	muhkam·taj	HFN-E-cf957481aa	wasit:) : دخَلَ فى الزّرِيبَةِ . يقال : انزربت الغنم . وانزربَ الصائدُ : دخل فى حُفْرَته
+R1_MUTAWAA	زعج	ٱنْزَعَجَ	زَعَجَ	4	maqayis·muhkam·qamus·taj	HFN-E-a5274b7787	wasit:زُعِجَ
+R1_MUTAWAA	زعق	ٱنْزَعَقَ	زَعَقَ	3	maqayis·sihah·qamus	HFN-E-524ae4d2f1	wasit:فَزِعَ . و - الدَواب : أَسرعت
+R1_MUTAWAA	زقب	ٱنْزَقَبَ	زَقَبَ	4	muhkam·lisan·qamus·taj	HFN-E-74b296484e	wasit:الجُرَذُ : زَقَب
+R1_MUTAWAA	سبء	ٱنْسَبَءَ	سَبَأَ	2	muhkam·taj	HFN-E-ee8e2620ab	
+R1_MUTAWAA	سبت	ٱنْسَبَتَ	سَبَتَ	4	muhkam·lisan·qamus·taj	HFN-E-581c2b2b47	
+R1_MUTAWAA	سبك	ٱنْسَبَكَ	سَبَكَ	2	muhkam·lisan	HFN-E-f35bbcea1c	wasit:سُبِكَ
+R1_MUTAWAA	ستر	ٱنْسَتَرَ	سَتَرَ	3	muhkam·lisan·taj	HFN-E-431cf3b6e4	wasit:استتر
+R1_MUTAWAA	سجر	ٱنْسَجَرَ	سَجَرَ	3	sihah·lisan·taj	HFN-E-0d32adc31b	wasit:امتلأ . و - الشعرُ وغيره : سترْسل .و - فى السيرِ : تتابَعَ
+R1_MUTAWAA	سجل	ٱنْسَجَلَ	سَجَلَ	4	maqayis·sihah·lisan·qamus	HFN-E-4ff8fb25d8	wasit:يقال : انسَجَلَ الماءُ والدمعُ : انصَب
+R1_MUTAWAA	سجم	ٱنْسَجَمَ	سَجَمَ	2	sihah·lisan	HFN-E-00857dd20b	wasit:انصَّبَ
+R1_MUTAWAA	سحب	ٱنْسَحَبَ	سَحَبَ	5	muhkam·lisan·qamus·taj·misbah	HFN-E-ccb5bc6193	wasit:انجرَّ على وجه الأرض . و - فلان من المجلس : خرج منه لسببٍ ما. (محدثة). ويقال : انسحب الجيش من الميدان
+R1_MUTAWAA	سحج	ٱنْسَحَجَ	سَحَجَ	4	maqayis·lisan·qamus·taj	HFN-E-f4304098ef	wasit:انْفَشَرَ
+R1_MUTAWAA	سحط	ٱنْسَحَطَ	سَحَطَ	3	muhkam·lisan·qamus	HFN-E-de454f9e7d	wasit:الشءُ من يده: أَفلت فسقط. و - فلانٌ عن النخلة : تدلى عنها حتى ينزل وهو لا يمسكها بيده
+R1_MUTAWAA	سحق	ٱنْسَحَقَ	سَحَقَ	5	sihah·muhkam·lisan·qamus·asas	HFN-E-de5aabccc2	wasit:الدواءُ : أندقَّ . و - الثوبُ : بلِيَ . و - فلانْ : بَعُدَ . و - الدمْعُ : انحدر و - الشيء : اتسع
+R1_MUTAWAA	سحل	ٱنْسَحَلَ	سَحَلَ	2	muhkam·qamus	HFN-E-c7ed603f5d	wasit:انقشر . و - أسرع ومضى. يقال : انسحلت الناقة : وانسحلَ الخطيب : مضى فى خطبته مُسرعاً
+R1_MUTAWAA	سدح	ٱنْسَدَحَ	سَدَحَ	4	sihah·muhkam·lisan·taj	HFN-E-8c522a47a7	
+R1_MUTAWAA	سدر	ٱنْسَدَرَ	سَدَرَ	5	ayn·sihah·muhkam·qamus·taj	HFN-E-c400a668b2	wasit:أَسرعَ فى عَدْوِه
+R1_MUTAWAA	سرب	ٱنْسَرَبَ	سَرَبَ	7	ayn·sihah·muhkam·lisan·qamus·taj·misbah	HFN-E-830a6850df	misbah:الْوَحْشُ فِى
+R1_MUTAWAA	سرح	ٱنْسَرَحَ	سَرَحَ	3	sihah·lisan·taj	HFN-E-b315d9c767	wasit:فلانٌ : تجرّدَ من ثيابه . و - أَسْرعَ
+R1_MUTAWAA	سرط	ٱنْسَرَطَ	سَرَطَ	2	muhkam·lisan	HFN-E-3c538ede92	wasit:الطعامُ فى حَلْقِهِ : سارَ فيه سيْرًا سَهْلًا
+R1_MUTAWAA	سرق	ٱنْسَرَقَ	سَرَقَ	2	muhkam·lisan	HFN-E-e57e9c6d1b	wasit:فتَرَ وضعُف. يقال : انْسَرَقَ صوتُه ، وانَّسَرَقَتْ مفاصلُه ، وانسرقت قُوّتُه و - عن القوم : تأخَر واختَفَى ليذهب
+R1_MUTAWAA	سطح	ٱنْسَطَحَ	سَطَحَ	6	maqayis·sihah·muhkam·lisan·taj·misbah	HFN-E-d38a75dc76	wasit:انْبَسَطَ . و - امتَدَّ على قفاه ولم يتحرَّك ‖ misbah:الرَّجُلُ مِنْ بَابِ نَفَعَ بَسَطَّتُهُ و
+R1_MUTAWAA	سفر	ٱنْسَفَرَ	سَفَرَ	5	ayn·muhkam·lisan·qamus·taj	HFN-E-df41ca9ba9	wasit:الشءُ : انحسَرَ وانكشف . ويقال: انسفَر مقدَّم رأُسهِ من الشعرِ : صار أَصْلَع
+R1_MUTAWAA	سفك	ٱنْسَفَكَ	سَفَكَ	2	muhkam·lisan	HFN-E-7f29732b36	wasit:انْصَبَّ وأْريق
+R1_MUTAWAA	سكب	ٱنْسَكَبَ	سَكَبَ	3	sihah·qamus·taj	HFN-E-4a393fd980	wasit:انْصَبَّ
+R1_MUTAWAA	سلب	ٱنْسَلَبَ	سَلَبَ	3	sihah·lisan·taj	HFN-E-a2c26906fe	
+R1_MUTAWAA	سلت	ٱنْسَلَتَ	سَلَتَ	3	muhkam·lisan·taj	HFN-E-3c740bd5ef	wasit:انْسَلَّ
+R1_MUTAWAA	سلخ	ٱنْسَلَخَ	سَلَخَ	7	ayn·sihah·lisan·qamus·taj·asas·misbah	HFN-E-04a69af6b1	wasit:انْكَشَفَ
+R1_MUTAWAA	سلع	ٱنْسَلَعَ	سَلَعَ	4	sihah·muhkam·lisan·qamus	HFN-E-bebe66051a	wasit:جِلْدُهُ : تَشَقَّقْ
+R1_MUTAWAA	سلق	ٱنْسَلَقَ	سَلَقَ	2	muhkam·lisan	HFN-E-cafc36f55d	wasit:مطاوعُ سَلَقَهُ . و- اللسانَ : أَصابَهُ تَقَشَّر .و الجُفُونُ: اعتتْه فَتَسَلَّخَتْ وتقشَّرَت
+R1_MUTAWAA	شتر	ٱنْشَتَرَ	شَتَرَ	3	sihah·qamus·taj	HFN-E-4ee2015739	
+R1_MUTAWAA	شجر	ٱنْشَجَرَ	شَجَرَ	2	lisan·taj	HFN-E-049464c8a6	
+R1_MUTAWAA	شخب	ٱنْشَخَبَ	شَخَبَ	4	ayn·lisan·qamus·taj	HFN-E-fd7b504dbc	
+R1_MUTAWAA	شدخ	ٱنْشَدَخَ	شَدَخَ	4	lisan·qamus·taj·misbah	HFN-E-59a6d700ce	wasit:انْشَجّ
+R1_MUTAWAA	شرج	ٱنْشَرَجَ	شَرَجَ	6	ayn·sihah·muhkam·lisan·qamus·taj	HFN-E-81bd4bb4e5	wasit:انشقَّ قَسْمين
+R1_MUTAWAA	شرح	ٱنْشَرَحَ	شَرَحَ	2	sihah·lisan	HFN-E-5f447055a8	wasit:مطاوع شرحه . ويقال : أنشرَحَ صدره لكذا : سُرَّ به وأَقبل عليه
+R1_MUTAWAA	شرم	ٱنْشَرَمَ	شَرَمَ	3	sihah·muhkam·lisan	HFN-E-5f18eeae5f	wasit:انشقَّ
+R1_MUTAWAA	شعب	ٱنْشَعَبَ	شَعَبَ	5	muhkam·lisan·qamus·taj·asas	HFN-E-e8410fb129	wasit:انتشر وتفسرق . يقال : انشعبَتْ أَغصانُ الشجرة . و - صار ذا شُعَبٍ . يقال ، انْشعَبَ النهرُ . وانشعب الطريقُ . و - عنه :: تباعَدَ . ويقال : انشعب القولُ بصاحبه . ‖ misbah:الطَّرِيقُ اقْتَرقَ وَكُلُّ مَسْلَكٍ وطَرِيقٍ
+R1_MUTAWAA	شقق	ٱنْشَقَّ	شَقَّ	5	sihah·muhkam·lisan·qamus·misbah	HFN-E-a5d666efcb	wasit:انْصَدَعَ . و - الفَجْرُ : طَلَعَ ظَهَرَ . و - البَرْقُ : لَمَعَ . و - الرأْىُ : تبَدَّدَ اختلافًا ويقال: انشقَّت عَصَا الجماعَةِ : تفرَّقوا ‖ misbah:الشَّىء إِذَا انْفَرَجَ فِيهِ فُرْجَةٌ و
+R1_MUTAWAA	شمر	ٱنْشَمَرَ	شَمَرَ	4	sihah·muhkam·qamus·taj	HFN-E-092e0268a8	wasit:مطاوع شَمَرَهُ
+R1_MUTAWAA	شمل	ٱنْشَمَلَ	شَمَلَ	3	muhkam·lisan·qamus	HFN-E-d924136674	
+R1_MUTAWAA	صدع	ٱنْصَدَعَ	صَدَعَ	5	maqayis·muhkam·lisan·asas·misbah	HFN-E-79d0185c4d	wasit:انشقَّ . و - الصَّبحُ : أَسنَرَ
+R1_MUTAWAA	صرف	ٱنْصَرَفَ	صَرَفَ	3	sihah·muhkam·lisan	HFN-E-b297cd3123	wasit:عنه : تحوّل عنه وتركه . وفى التنزيل العزيز : (ثُمَّ انْصَرَفُوا صَرَفَ اللهُ قُلُوبَهُم)
+R1_MUTAWAA	صرم	ٱنْصَرَمَ	صَرَمَ	5	ayn·muhkam·qamus·asas·misbah	HFN-E-1903679a31	wasit:انقَطَعَ . ويقال : انصرم الليلُ : ذَهَبَ . وانصرم الشتاءُ : انقضى ‖ misbah:اللَّيْلُ و
+R1_MUTAWAA	صفق	ٱنْصَفَقَ	صَفَقَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-c213620e1d	wasit:مطاوِعُ صَفَقَهُ . و - القومُ : أَقِبلوا وأَطبقُوا
+R1_MUTAWAA	صلت	ٱنْصَلَتَ	صَلَتَ	4	sihah·lisan·qamus·taj	HFN-E-0cac144b1e	wasit:بَرَزَ وظَهَرَ . و - فى سَيْرِهِ ، أَو أَمِرِه : جَدِّ وسَبَقَ
+R1_MUTAWAA	صهر	ٱنْصَهَرَ	صَهَرَ	3	sihah·muhkam·taj	HFN-E-dd97de7489	wasit:ذابَ
+R1_MUTAWAA	ضبح	ٱنْضَبَحَ	ضَبَحَ	3	sihah·muhkam·taj	HFN-E-72b6eb8ab5	
+R1_MUTAWAA	ضرج	ٱنْضَرَجَ	ضَرَجَ	4	sihah·qamus·taj·asas	HFN-E-8566518d96	wasit:انْشَقّ . ويقال : انضرج النَّوْرُ : تَفَتَّحَ. وانضرَج الشجرُ : تفتحت عيونُ ورَقِه وبَدَتْ أَطْرافُهُ . و - الطريقُ : اتَّسَع . ويقال : انضرج ما بينهُمْ : تباعَ
+R1_MUTAWAA	ضرح	ٱنْضَرَحَ	ضَرَحَ	3	sihah·lisan·taj	HFN-E-104a8fecb0	wasit:مطاوعُ ضَرَحَهُ
+R1_MUTAWAA	ضفر	ٱنْضَفَرَ	ضَفَرَ	3	sihah·lisan·taj	HFN-E-61ee63ad81	
+R1_MUTAWAA	طبخ	ٱنْطَبَخَ	طَبَخَ	4	sihah·muhkam·lisan·qamus	HFN-E-52626d8e30	wasit:طُبِخَ
+R1_MUTAWAA	طلس	ٱنْطَلَسَ	طَلَسَ	2	qamus·taj	HFN-E-9963413767	wasit:أمَّحَى أَو خفِيّ
+R1_MUTAWAA	طلق	ٱنْطَلَقَ	طَلَقَ	5	maqayis·muhkam·lisan·qamus·asas	HFN-E-3b215f5e9d	wasit:انْحَلَّ . و - ذهب ومرَّ . ويقال : انْطلقَ يفعل كذا : أَخذ : و - الوجه أَو اللِّسانُ : صار طَلْقاً
+R1_MUTAWAA	طمس	ٱنْطَمَسَ	طَمَسَ	4	sihah·lisan·qamus·taj	HFN-E-15a7325ec8	
+R1_MUTAWAA	طمل	ٱنْطَمَلَ	طَمَلَ	2	lisan·qamus	HFN-E-80781524b9	wasit:فلان : شارَكَ الدُّصوص
+R1_MUTAWAA	ظلم	ٱنْظَلَمَ	ظَلَمَ	3	muhkam·lisan·qamus	HFN-E-7c33fe0fcd	wasit:اظَّلَمَ
+R1_MUTAWAA	عتل	ٱنْعَتَلَ	عَتَلَ	2	muhkam·qamus	HFN-E-a852834740	wasit:مطاوع عَتَلَهُ. ويقال : لا أَنْعَنِلُ مَعَكَ : لا أَبرح مكانى
+R1_MUTAWAA	عدل	ٱنْعَدَلَ	عَدَلَ	4	sihah·muhkam·lisan·qamus	HFN-E-9182cc7fe0	
+R1_MUTAWAA	عزل	ٱنْعَزَلَ	عَزَلَ	4	muhkam·lisan·qamus·misbah	HFN-E-78194c9830	wasit:عنه : تنحَّى وبَعُدَ ‖ misbah:عَنِ النَّاسِ إِذَا تَنَحَّى عَنْهُمْ جَانِباً وفُلَانٌ عَنِ الحَقِّ
+R1_MUTAWAA	عصب	ٱنْعَصَبَ	عَصَبَ	3	sihah·lisan·qamus	HFN-E-a389a28435	wasit:اشتَدَّ
+R1_MUTAWAA	عصر	ٱنْعَصَرَ	عَصَرَ	2	sihah·qamus	HFN-E-19d22cbeb4	wasit:عْصِرَ
+R1_MUTAWAA	عضب	ٱنْعَضَبَ	عَضَبَ	3	muhkam·lisan·taj	HFN-E-b7d17cf81f	wasit:القرنُ : انكسَرَ .: نصيرَ له . و - من لا أَخَ له . (ج) عُضْب
+R1_MUTAWAA	عطف	ٱنْعَطَفَ	عَطَفَ	5	maqayis·muhkam·lisan·qamus·misbah	HFN-E-8a81c19e86	wasit:مال وانحنى
+R1_MUTAWAA	عطن	ٱنْعَطَنَ	عَطَنَ	3	sihah·muhkam·lisan	HFN-E-ad9ae336b1	wasit:الجلْدُ : عَطِنَ
+R1_MUTAWAA	عفر	ٱنْعَفَرَ	عَفَرَ	6	sihah·muhkam·lisan·qamus·taj·misbah	HFN-E-f618be62c7	wasit:تمرَّغَ فى العَفَرِ. و-الشءُ : تَتَرَّبَ
+R1_MUTAWAA	عفس	ٱنْعَفَسَ	عَفَسَ	4	muhkam·lisan·qamus·taj	HFN-E-07317679cd	
+R1_MUTAWAA	عفق	ٱنْعَفَقَ	عَفَقَ	3	sihah·lisan·qamus	HFN-E-d1195dcc21	wasit:فى: حاجته : مضى فيها وأَسرع
+R1_MUTAWAA	عقد	ٱنْعَقَدَ	عَقَدَ	3	ayn·muhkam·asas	HFN-E-da3e226b72	wasit:مطاوع عَقَدَهُ . يقال : انْعَقَدَ الحَبْلُ ، أَو البناءُ ، أَو اليمينُ
+R1_MUTAWAA	عقر	ٱنْعَقَرَ	عَقَرَ	4	ayn·sihah·muhkam·lisan	HFN-E-9c99905be3	wasit:ظهرُ الدَّابةِ : جُرِحَ . و- البعيرُ والفَرَسُ : ضُرِبَتْ قوائمهُ بالسَّيْفِ
+R1_MUTAWAA	عقف	ٱنْعَقَفَ	عَقَفَ	5	sihah·muhkam·lisan·qamus·misbah	HFN-E-94c0cf1329	wasit:الشءُ : انحدى والتوى
+R1_MUTAWAA	عكس	ٱنْعَكَسَ	عَكَسَ	3	lisan·qamus·taj	HFN-E-565e076e60	wasit:الشءُ : ارتدّ آخرُه على أَوّله . و - انْقَلَبَ
+R1_MUTAWAA	عمد	ٱنْعَمَدَ	عَمَدَ	2	sihah·lisan	HFN-E-0299e6e2be	wasit:مطاوع عمدَه . و - قام على عمادٍ يعتمد عليه
+R1_MUTAWAA	غرف	ٱنْغَرَفَ	غَرَفَ	2	lisan·qamus	HFN-E-d6768cb4ba	
+R1_MUTAWAA	غضف	ٱنْغَضَفَ	غَضَفَ	4	ayn·sihah·muhkam·lisan	HFN-E-086865dd9f	wasit:العُود: انكسَر وانثَنَى . و - أُذنُهُ : ندلَّت من غير خلقة . و - القومُ فى الغبار : دخَلوا فيه . و - البئرُ :: انهارت . و- الضَّبابُ : تراكم بعضُه على بعض
+R1_MUTAWAA	غمس	ٱنْغَمَسَ	غَمَسَ	4	sihah·taj·asas·misbah	HFN-E-eab6b2ad5a	wasit:في الماء : اغتمس فيه
+R1_MUTAWAA	فتح	ٱنْفَتَحَ	فَتَحَ	4	muhkam·lisan·taj·misbah	HFN-E-73dd5639cb	wasit:البابُ: مطاوِعُ فَتَحَهُ . و- الشءُ عنِ الشَّىْء : انْكَشَفَ عَنْهُ
+R1_MUTAWAA	فتق	ٱنْفَتَقَ	فَتَقَ	4	maqayis·lisan·qamus·misbah	HFN-E-c69505f0a2	wasit:انشَق
+R1_MUTAWAA	فتل	ٱنْفَتَلَ	فَتَلَ	3	muhkam·lisan·qamus	HFN-E-76de77a611	wasit:التَوَى . و - انْصَرَف. ويقال: : مطاوعُ فَتْل فَتَلَ تَتْرَابه وعن حاجَّنٍ . والنفتلَ وجهَهُ عنه
+R1_MUTAWAA	فجر	ٱنْفَجَرَ	فَجَرَ	5	ayn·maqayis·lisan·qamus·taj	HFN-E-796d7f84fc	wasit:مطاوع فَجَرَ . و - الماءُ ونحوُه : لْبَعَثَ سائلًا . وفى التنزيل العزيز : (فَقُلْنَا اضْرِبْ بِمَصَاكَ الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً 
+R1_MUTAWAA	فحج	ٱنْفَحَجَ	فَحَجَ	2	muhkam·taj	HFN-E-2dd5bc30be	
+R1_MUTAWAA	فخت	ٱنْفَخَتَ	فَخَتَ	2	qamus·taj	HFN-E-610e3c896e	
+R1_MUTAWAA	فرث	ٱنْفَرَثَ	فَرَثَ	3	muhkam·qamus·taj	HFN-E-f76d646e46	
+R1_MUTAWAA	فرج	ٱنْفَرَجَ	فَرَجَ	3	ayn·qamus·taj	HFN-E-8479937634	wasit:الشَّءُ : اتَّسَع . ويقال : انفرج •١ بين الشَّيشين . و - الغَمُّ والكَرْبُ : انكَشَفَ و - فلانٌ من ضِيقِه : تخلَّص
+R1_MUTAWAA	فرش	ٱنْفَرَشَ	فَرَشَ	2	muhkam·lisan	HFN-E-d702a3b988	wasit:الشءُ : انْبَسَطَ
+R1_MUTAWAA	فرق	ٱنْفَرَقَ	فَرَقَ	2	ayn·lisan	HFN-E-c876d50e5b	wasit:الشءُ : افترقَ . و - انشق ويقال : انفَرَق الصّبح : انفَلَق
+R1_MUTAWAA	فسح	ٱنْفَسَحَ	فَسَحَ	5	ayn·muhkam·lisan·qamus·taj	HFN-E-18f3a2e70d	wasit:المكانُ : اتَّسَعَ . و - صَدْرُهُ : انْشَرَحَ . و - طَرْفَهُ : امتدّ نظره بلا عائق
+R1_MUTAWAA	فسخ	ٱنْفَسَخَ	فَسَخَ	4	ayn·lisan·qamus·taj	HFN-E-466c7d0aa0	
+R1_MUTAWAA	فسق	ٱنْفَسَقَ	فَسَقَ	2	muhkam·qamus	HFN-E-b27dfb58b4	
+R1_MUTAWAA	فصد	ٱنْفَصَدَ	فَصَدَ	4	muhkam·lisan·qamus·taj	HFN-E-7ca37fcefc	wasit:الدمُ ونحوه : سالَ
+R1_MUTAWAA	فصل	ٱنْفَصَلَ	فَصَلَ	3	sihah·muhkam·lisan	HFN-E-42e7c7eab7	wasit:الشئُ : انقطع . و - القومُ عن مكان كذا : فارقوه
+R1_MUTAWAA	فصم	ٱنْفَصَمَ	فَصَمَ	4	sihah·muhkam·lisan·misbah	HFN-E-8aea686e34	wasit:الشءُ : انكِسر من غير فَصْل. و- العُقدةُ : انحلَّت . و-العُروة. : انقطعت , وفى التنزيل العزيز: (فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى | (ج) فضائح. لَاَ ان ‖ misbah:وَفِي التَّنْزِيلِ
+R1_MUTAWAA	فضض	ٱنْفَضَّ	فَضَّ	3	maqayis·lisan·misbah	HFN-E-1200d6cef5	wasit:الشءُ : انكسر . و - الجمعُ : تَفَرَّقَ . وفى التنزيل العزيز : ( وَلَوْ كُنْتَ فَظَّا غَلِيظَ القَلْبِ لا نْفَضُّوا مِنْ حَوْلِكَ )
+R1_MUTAWAA	فطر	ٱنْفَطَرَ	فَطَرَ	3	sihah·muhkam·lisan	HFN-E-e2a2b4f4e0	wasit:الشَّءُ : انشقَّ. وفى التنزيل العزيز
+R1_MUTAWAA	فغر	ٱنْفَغَرَ	فَغَرَ	5	maqayis·lisan·qamus·taj·asas	HFN-E-46d4f6b97b	wasit:الفَمُ : انْفَتَحَ
+R1_MUTAWAA	فلع	ٱنْفَلَعَ	فَلَعَ	4	ayn·maqayis·muhkam·lisan	HFN-E-d81ff60f04	wasit:الشءُ : انشق . يقال : انفلعت البيضة عن الفرخ
+R1_MUTAWAA	فلق	ٱنْفَلَقَ	فَلَقَ	4	ayn·maqayis·lisan·qamus	HFN-E-84e3398ed8	
+R1_MUTAWAA	فهق	ٱنْفَهَقَ	فَهَقَ	3	muhkam·lisan·qamus	HFN-E-88a5724945	
+R1_MUTAWAA	قبض	ٱنْقَبَضَ	قَبَضَ	4	ayn·muhkam·lisan·misbah	HFN-E-1704965392	wasit:الشءُ : تجمَّعَ وانْطَوَى . و - المالُ . : ضار مقبوضاً . و - الرّجُلُ على نفسه : ضاق بالحياة فاعتزل . و- عن الشىء : اشمازَّ . و - عن القوم : هجرهم . و - فى حاجت
+R1_MUTAWAA	قحم	ٱنْقَحَمَ	قَحَمَ	2	lisan·qamus	HFN-E-2081a6fe51	wasit:فى الأَمْرِ : قَحَمَ
+R1_MUTAWAA	قدر	ٱنْقَدَرَ	قَدَرَ	2	sihah·qamus	HFN-E-33201f97fb	wasit:جاءً على المقدار . يقال قدرتُ الثوب فانقدر
+R1_MUTAWAA	قدع	ٱنْقَدَعَ	قَدَعَ	2	sihah·lisan	HFN-E-28d17bdd64	wasit:كف وامتنع . و- عن الشىء : استحيا منه
+R1_MUTAWAA	قرض	ٱنْقَرَضَ	قَرَضَ	2	sihah·lisan	HFN-E-3b50ed1049	wasit:الشءُ : انقطع . و - القومُ : ذهبوا ولم يبقَ منهم أَحدٌ
+R1_MUTAWAA	قسم	ٱنْقَسَمَ	قَسَمَ	2	sihah·lisan	HFN-E-4cceafaf07	wasit:الشءُ : تجزَّا أَجزَاءٌ
+R1_MUTAWAA	قشر	ٱنْقَشَرَ	قَشَرَ	5	ayn·sihah·lisan·qamus·taj	HFN-E-b6d374c9ea	wasit:الشءُ : زَال عنه قشرُه
+R1_MUTAWAA	قشع	ٱنْقَشَعَ	قَشَعَ	6	maqayis·sihah·muhkam·lisan·asas·misbah	HFN-E-53ba2665d6	wasit:عنه الشءُ : غَشِيه ثم انجلى عنه . يقال : انقشع الظلامُ عن الصبح، وانقشع الهَمُّ عن القلب ، وانقشع الدَّحابُ عن الجو. و - القومُ : ذهَبوا وتفرّقوا . و - عن الماء
+R1_MUTAWAA	قصد	ٱنْقَصَدَ	قَصَدَ	5	ayn·muhkam·lisan·qamus·taj	HFN-E-61325dee28	wasit:العودُ : انكسر
+R1_MUTAWAA	قصف	ٱنْقَصَفَ	قَصَفَ	7	ayn·sihah·muhkam·lisan·qamus·asas·misbah	HFN-E-8a15afa4ec	wasit:الشءُ: انكسر وبان. و- القوم عن الشىء : تركوه ومرُّوا عَجْزًا . و - القومُ : جتمعوا وازدحموا. ويقال: انقصفوا على الشيء : تتابعوا ‖ misbah:عَنِ الشَّءِ تَركَهُ و
+R1_MUTAWAA	قصم	ٱنْقَصَمَ	قَصَمَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-531bff8b7a	wasit:انكسر
+R1_MUTAWAA	قضب	ٱنْقَضَبَ	قَضَبَ	5	maqayis·muhkam·qamus·taj·misbah	HFN-E-53e7879686	wasit:انقطع . ويقال : انقضب الكوكَبُ مِن مكانه: انقطع وانقَضَّ. فهو مُنْقَضِبٌ
+R1_MUTAWAA	قضض	ٱنْقَضَّ	قَضَّ	3	maqayis·muhkam·lisan	HFN-E-841a2ab49d	wasit:الشءُ : تقطَّعَ وانكسر . ويقال: انقضَّت أَوصالُه : تفرَّقت وتقطَّعت. و_ الجدارُ : سقط . و- الطائرُ : هوى فى طيرانه بسرعة يريد الوقوع على شىء . و- الخيل على الأع
+R1_MUTAWAA	قضع	ٱنْقَضَعَ	قَضَعَ	3	muhkam·lisan·qamus	HFN-E-49eb7a8336	
+R1_MUTAWAA	قطع	ٱنْقَطَعَ	قَطَعَ	6	ayn·sihah·lisan·qamus·asas·misbah	HFN-E-707bc19048	wasit:الشءُ : ذهب وقتُه : يقال: انقطع الحرّ والبُرْدُ .. ويقال : انقطع الكلامُ:. و - النهرُ : جَفَّ . و _ الكلامُ : وقَفَ فلم بَمضٍ . و - إِلى فلانٍ : انفرد بصحبته خا ‖ wasit:بفلان [ مجهولا ] : إذا. كان ابن سبيل فانقطع به السفر دون طِيَّته .ن فهو منقَطَع به
+R1_MUTAWAA	قعر	ٱنْقَعَرَ	قَعَرَ	6	ayn·maqayis·muhkam·qamus·taj·asas	HFN-E-9abdde40de	
+R1_MUTAWAA	قعش	ٱنْقَعَشَ	قَعَشَ	2	lisan·qamus	HFN-E-480f46ef2c	
+R1_MUTAWAA	قعص	ٱنْقَعَصَ	قَعَصَ	2	lisan·qamus	HFN-E-1d31a41c7d	
+R1_MUTAWAA	قفش	ٱنْقَفَشَ	قَفَشَ	2	lisan·qamus	HFN-E-2163e35c02	
+R1_MUTAWAA	قفع	ٱنْقَفَعَ	قَفَعَ	2	muhkam·qamus	HFN-E-bc28848d37	wasit:النباتُ : يبس وتصلَّبَ . و - عن الشيء : امتنع
+R1_MUTAWAA	قلب	ٱنْقَلَبَ	قَلَبَ	3	ayn·lisan·asas	HFN-E-fe1845568a	wasit:مطاوع قلبه . و - رجع وانصرف ، وفى التنزيل العزيز : (فَانْقَلَبُوا بِنِعْمَةٍ مِنَ اللهِ وَفَضْل )
+R1_MUTAWAA	قلع	ٱنْقَلَعَ	قَلَعَ	6	ayn·sihah·muhkam·lisan·qamus·misbah	HFN-E-f6dd8562a0	wasit:مطاوع قلَعَ . و - البعيرُ : كان صحيحاً فوقع ميِّتاً
+R1_MUTAWAA	قمح	ٱنْقَمَحَ	قَمِحَ	4	ayn·maqayis·sihah·taj	HFN-E-5fdd747d96	
+R1_MUTAWAA	قمس	ٱنْقَمَسَ	قَمَسَ	5	sihah·muhkam·lisan·qamus·taj	HFN-E-8cbc50dd0c	wasit:الكوكبُ : غَرَب . و - فى الماء : وثب فيه
+R1_MUTAWAA	قمع	ٱنْقَمَعَ	قَمَعَ	5	ayn·sihah·muhkam·lisan·qamus	HFN-E-160a3dc8eb	wasit:تغيّبَ ودخل وراء سِتر . و- فى البيْتِ : قَمَع . و - جدس وحده
+R1_MUTAWAA	قهل	ٱنْقَهَلَ	قَهِلَ	3	muhkam·lisan·qamus	HFN-E-85c37a8142	
+R1_MUTAWAA	كبت	ٱنْكَبَتَ	كَبَتَ	3	muhkam·lisan·taj	HFN-E-bd4265bb74	wasit:مطاوعُ كبت
+R1_MUTAWAA	كدر	ٱنْكَدَرَ	كَدَرَ	4	sihah·muhkam·lisan·qamus	HFN-E-9a54edea42	wasit:فى سيره : أسرع وانقضّ. و - عليه القومُ : انصبّوا . و - النجومُ : تناثرت. وفى التنزيل العزيز
+R1_MUTAWAA	كرث	ٱنْكَرَثَ	كَرَثَ	2	qamus·taj	HFN-E-433c929e77	
+R1_MUTAWAA	كسر	ٱنْكَسَرَ	كَسَرَ	5	sihah·lisan·qamus·taj·misbah	HFN-E-6f9c3c6e5e	wasit:الشءُ : مطاوع كَسَرَه . و - الشءُ : فَتَرَ . يقال : انكسر الحرَّ وبَرُد الماء . و - العسكرُ : انهزم وتبدّد . فهو مكسور ، ولا يقال : منكسر . و - الشِّعرُ : لم يَ
+R1_MUTAWAA	كسف	ٱنْكَسَفَ	كَسَفَ	4	sihah·lisan·qamus·misbah	HFN-E-e31842b447	
+R1_MUTAWAA	كشح	ٱنْكَشَحَ	كَشَحَ	4	sihah·lisan·qamus·taj	HFN-E-f5c1262dd1	
+R1_MUTAWAA	كشط	ٱنْكَشَطَ	كَشَطَ	4	maqayis·sihah·lisan·qamus	HFN-E-cf86634571	wasit:مطاوع كَشَطَ . ويقال : انكشطَ رَوْعهُ : ذهب خوفُه
+R1_MUTAWAA	كشف	ٱنْكَشَفَ	كَشَفَ	4	muhkam·qamus·asas·misbah	HFN-E-9f5e457b3d	
+R1_MUTAWAA	كفت	ٱنْكَفَتَ	كَفَتَ	3	lisan·qamus·taj	HFN-E-b64f676c08	wasit:الرّجُل : اجتمع خَلْقُه و - الفرسُ : ضَمَرَ . و _ الرّجُلُ : انصرف و - القومُ إلى منازلهم : انقلبوا
+R1_MUTAWAA	كمش	ٱنْكَمَشَ	كَمَشَ	3	sihah·lisan·qamus	HFN-E-b3a774eabc	wasit:فى أَمره : أَسْرَع . ويقال : انكمش الفرسُ فى سَيْره. و- الجلدُ أَو النَّسيج تقبَّضٍ واجتمع
+R1_MUTAWAA	محق	ٱنْمَحَقَ	مَحَقَ	3	ayn·asas·misbah	HFN-E-fd6360ef02	misbah:الْهِلاَل لِثَلَاثِ لَيَالِ فِي آخِر الشَّهْرِ لاَ يَكَادْ يُرَى لِخَفَائِهِ وَالاِسْمُ
+R1_MUTAWAA	مدح	ٱنْمَدَحَ	مَدَحَ	2	taj·misbah	HFN-E-e5fe6993cb	
+R1_MUTAWAA	مرط	ٱنْمَرَطَ	مَرَطَ	2	muhkam·lisan	HFN-E-f8e762ed11	
+R1_MUTAWAA	ملس	ٱنْمَلَسَ	مَلَسَ	2	lisan·taj	HFN-E-8c498790dd	
+R1_MUTAWAA	ملق	ٱنْمَلَقَ	مَلَقَ	4	maqayis·sihah·lisan·qamus	HFN-E-f1c2644e14	wasit:الشءُ ، و
+R1_MUTAWAA	هتك	ٱنْهَتَكَ	هَتَكَ	5	ayn·muhkam·lisan·qamus·misbah	HFN-E-2798d8e721	misbah:و
+R1_MUTAWAA	هجس	ٱنْهَجَسَ	هَجَسَ	2	lisan·qamus	HFN-E-a4bca9573a	
+R1_MUTAWAA	هجم	ٱنْهَجَمَ	هَجَمَ	3	ayn·muhkam·qamus	HFN-E-1a325a15c9	
+R1_MUTAWAA	هدم	ٱنْهَدَمَ	هَدَمَ	2	muhkam·misbah	HFN-E-8c0a01d0c9	
+R1_MUTAWAA	هرج	ٱنْهَرَجَ	هَرَجَ	2	lisan·taj	HFN-E-e59a910956	wasit:فلانٌ من الخمر : اضمحلَّت قُواه من تناوُلها
+R1_MUTAWAA	هزم	ٱنْهَزَمَ	هَزَمَ	3	sihah·muhkam·qamus	HFN-E-7bf6a65216	
+R1_MUTAWAA	هشم	ٱنْهَشَمَ	هَشَمَ	2	muhkam·lisan	HFN-E-67752f662b	wasit:الشءُ : مطاوعُ هَشَمه .و- الإِبلُ : خارتْ وضعُفت
+R1_MUTAWAA	هصر	ٱنْهَصَرَ	هَصَرَ	4	muhkam·lisan·qamus·taj	HFN-E-5346006354	
+R1_MUTAWAA	هلب	ٱنْهَلَبَ	هَلَبَ	3	muhkam·qamus·taj	HFN-E-4bda70debf	
+R1_MUTAWAA	هلت	ٱنْهَلَتَ	هَلَتَ	3	lisan·qamus·taj	HFN-E-6caddb583d	wasit:يعدو : انسلَتَ بعدو
+R1_MUTAWAA	همر	ٱنْهَمَرَ	هَمَرَ	5	ayn·maqayis·muhkam·lisan·qamus	HFN-E-5721c54564	wasit:الماءُ : انسكبَ بقرَّةٍ . فهو منهمر . وفى التنزيل العزيز : (فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءِ مُنْهَيِرٍ ) . ويقال : انهمر بالكلام . و - البنَاءُ : انهدم
+R1_MUTAWAA	همك	ٱنْهَمَكَ	هَمَكَ	7	ayn·maqayis·muhkam·lisan·qamus·asas·misbah	HFN-E-8f3f8ec856	wasit:فلانٌ فى الأمر : جدَّ وثابر فيه برغبة وحرص
+R1_MUTAWAA	هور	ٱنْهَارَ	هَارَ	6	ayn·sihah·muhkam·lisan·qamus·asas	HFN-E-1f199bfef0	wasit:البناءُ ونحوه : انْهَدم . وفى التنزيل العزيز ‖ misbah:و

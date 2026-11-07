@@ -32,8 +32,19 @@ import unicodedata
 from functools import lru_cache
 
 _AMLN = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+def _hfn_rel():
+    """AMLN_HFN_RELEASE أو أحدث release_vN فيه MANIFEST (كما في hfn_release.py؛ مكرَّر هنا لأنّ الوحدة تُحمَّل منفردة)."""
+    if os.environ.get("AMLN_HFN_RELEASE"):
+        return os.environ["AMLN_HFN_RELEASE"]
+    b = os.path.join(os.path.expanduser(os.environ.get("ARABIC_NET_HOME", "~/arabic-net")), "HusseinFrameNet", "release")
+    if not os.path.isdir(b):
+        return "release_v45"
+    r = [d for d in os.listdir(b) if d.startswith("release_v") and d[9:].isdigit() and os.path.exists(os.path.join(b, d, "MANIFEST.json"))]
+    return max(r, key=lambda d: int(d[9:])) if r else "release_v45"
+
+
 HFN_DIR = os.path.join(os.path.expanduser(os.environ.get("ARABIC_NET_HOME", "~/arabic-net")), "HusseinFrameNet",
-                       "release", os.environ.get("AMLN_HFN_RELEASE", "release_v36"))  # إصدار جداول ahdath/
+                       "release", _hfn_rel())  # إصدار جداول ahdath/
 WN_LOOKUP = os.path.join(_AMLN, "data", "wordnet", "wordnet_lookup_unified.json")
 
 _HARAKAT = re.compile("[ً-ْٰ]")

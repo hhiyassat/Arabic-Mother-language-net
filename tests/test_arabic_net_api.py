@@ -103,10 +103,10 @@ def test_r1w_mutawi_takes_hfn_vowelling():
     if not A._hfn_verbs() or not rows:
         pytest.skip("HFN release or R1W pool not available")
     q = [x for x in rows if x["verb"] == "قَلَبَ"]
-    assert q and q[0]["mutawi"] == "انْقَلَبَ" and q[0]["mutawi_text"] == "انقلب"
+    assert q and q[0]["mutawi"] == "ٱنْقَلَبَ" and q[0]["mutawi_text"] == "انقلب"          # HFN v44+: همزة الوصل ٱ
     import unicodedata
     nfc = lambda s: unicodedata.normalize("NFC", s)
-    assert sum(nfc(x["mutawi"]) != nfc(x["mutawi_text"]) for x in rows) == 27
+    assert sum(nfc(x["mutawi"]).replace("ٱ", "ا") != nfc(x["mutawi_text"]) for x in rows) == 27
 
 
 def test_maqayis_fallback_finds_doubled_and_naqis_keys(monkeypatch):
