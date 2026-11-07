@@ -17,6 +17,10 @@ BANK = os.path.join(NET, "HusseinFrameNet", "02_roots", "HFN_ROOTS_v7.csv")
 SYN = os.path.join(ROOT, "data", "wordnet", "wordnet_synsets.json")
 LOG = os.path.join(ROOT, "data", "wordnet", "ROOTKEY_CHANGES_20261107.tsv")
 DEC = os.path.join(ROOT, "audit", "wordnet_rootkey", "WN_ROOT_REVIEW_DECISIONS.tsv")
+DEC2 = os.path.join(ROOT, "audit", "wordnet_rootkey", "census", "E_DECISIONS.tsv")
+LOG2 = os.path.join(ROOT, "data", "wordnet", "ROOTKEY2_CHANGES_20261107.tsv")
+VERIFIED = {"READ2", "READ2_LOAN_FILED", "LEX_ATTEST", "CENSUS2", "CENSUS2_LOAN_FILED", "CONFIRMED_HFN", "CONFIRMED_LEX",
+            "READ2_DISAGREE", "CENSUS2_DISAGREE"}
 
 pytestmark = pytest.mark.skipif(not os.path.exists(BANK), reason="HusseinFrameNet HFN_ROOTS_v7 غير موجود")
 
@@ -25,7 +29,7 @@ pytestmark = pytest.mark.skipif(not os.path.exists(BANK), reason="HusseinFrameNe
 def data():
     bk = {b["K"] for b in csv.DictReader(open(BANK, encoding="utf-8"))}
     syn = json.load(open(SYN, encoding="utf-8"))["synsets"]
-    agreed_new = {d["K"] for d in csv.DictReader(open(DEC, encoding="utf-8"), delimiter="\t")
+    agreed_new = {d["K"] for p in (DEC, DEC2) for d in csv.DictReader(open(p, encoding="utf-8"), delimiter="\t")
                   if d["decision"] != "DISAGREE" and d["K"] and d["K"] not in bk}
     return bk, syn, agreed_new
 
@@ -50,12 +54,30 @@ def test_nothing_lost(data):
     _, syn, _ = data
     changed = {s["id"]: s for s in syn if "roots_prev_rootkey" in s}
     for s in changed.values():
-        assert len(s["root_key_basis"]) == len(s["roots_prev_rootkey"]), s["id"]
+        if "root_key_basis" in s:   # v1 basis is aligned with the original roots
+            assert len(s["root_key_basis"]) == len(s["roots_prev_rootkey"]), s["id"]
     log = list(csv.DictReader(open(LOG, encoding="utf-8"), delimiter="\t"))
     for r in log:
         s = changed[r["synset"]]
-        assert r["roots_before"] == "|".join(s["roots_prev_rootkey"]) and r["roots_after"] == "|".join(s["roots"])
+        assert r["roots_before"] == "|".join(s["roots_prev_rootkey"])
+    for r in csv.DictReader(open(LOG2, encoding="utf-8"), delimiter="\t"):
+        s = changed[r["synset"]]
+        assert r["roots_before"] == "|".join(s["roots_prev_rootkey2"]) and r["roots_after"] == "|".join(s["roots"])
     # الجذر لا يُسقط إلا بحكم القارئين أنّ الكلمة معرّبة أو علم أو أداة
     for s in changed.values():
         if not s["roots"]:
-            assert all(b.startswith("READ2_NO_ROOT_") for b in s["root_key_basis"]), s["id"]
+            bs = s.get("root_key_basis", []) + s.get("root_key_basis2", [])
+            assert any("NO_ROOT_" in b for b in bs), s["id"]
+
+
+def test_every_root_verified(data):
+    """ROOTKEY v2: no root rests on its key alone — each has a reading, a measured route, or waits for the owner."""
+    _, syn, _ = data
+    bad = []
+    for s in syn:
+        if not s.get("roots"):
+            continue
+        bs = [b for b in s.get("root_key_basis2") or [] if "NO_ROOT_" not in b]
+        assert bs, s["id"]
+        bad += [(s["id"], b) for b in bs if b not in VERIFIED]
+    assert not bad, bad[:20]
