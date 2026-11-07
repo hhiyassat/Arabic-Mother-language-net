@@ -48,6 +48,7 @@ AMLN = os.path.dirname(HERE)
 sys.path.insert(0, AMLN)
 
 from arabic_net_api import verb as api_verb  # noqa: E402
+from arabic_net_api._common import wasl  # noqa: E402
 from arabic_net_api import hfn as P_HFN, roots as P_ROOTS, wazn as P_WAZN  # noqa: E402
 from arabic_net_api._common import K, REPOS, nfc, on_path  # noqa: E402
 
@@ -322,7 +323,7 @@ class Audit:
             inst = instantiate(f, rad) if len(rad) in (3, 4) else None
             if inst is None:
                 out.append(("E_TEMPLATE", "NA", f"{tag}: وزنٌ موسوم بالإعلال أو غير قابل للتعويض"))
-            elif nfc(inst).translate(HAMZA) == nfc(v).translate(HAMZA):
+            elif wasl(inst).translate(HAMZA) == wasl(v).translate(HAMZA):   # ٱ = ا (HFN-D068)
                 out.append(("E_TEMPLATE", "PASS", tag))
             else:
                 why = explain(rad, f)
@@ -361,7 +362,9 @@ class Audit:
                 try:
                     g = self.D._apply_wazn(roman, *rad, self.D.RootType.SAHIH)["verb"]
                     ok = nfc(g) == nfc(v)
-                    if not ok and WASL.sub("ا", nfc(g)) == nfc(v):
+                    if not ok and WASL.sub("ٱ", nfc(g)) == nfc(v):     # HFN v44: ٱ (حكم المالك 2026-11-07، رسم المصحف)
+                        out.append(("E_MAZID_GEN", "PASS", f"{tag}: wazn-net «{g}» — همزة الوصل: ٱ في HFN (حكم المالك) واِ في wazn-net (اصطلاح المحرك)"))
+                    elif not ok and WASL.sub("ا", nfc(g)) == nfc(v):
                         out.append(("E_MAZID_GEN", "CONV", f"{tag}: wazn-net «{g}» — همزة الوصل مكسورة هناك بلا حركة هنا"))
                     else:
                         why = explain(rad, f)
@@ -393,7 +396,7 @@ class Audit:
                 out.append(("A_AHDATH", "FAIL", f"{tag}: event_id ليس في HFN {self.release}"))
                 continue
             probs = []
-            if nfc(e["verb"]) != nfc(x["verb"]):
+            if wasl(e["verb"]) != wasl(x["verb"]):
                 probs.append(f'الفعل في HFN «{e["verb"]}»')
             want = ROUTE_FORM.get(x["route"])
             if want and not form_is(e["form"], want):
