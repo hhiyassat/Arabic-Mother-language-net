@@ -1,10 +1,10 @@
 {
 "_meta": {
 "file": "wordnet_tahayyuz.json",
-"built": "2026-11-06",
+"built": "2026-11-07",
 "builder": "tahayyuz/build_tahayyuz.py",
 "derived_from": "wordnet_synsets.json",
-"derived_from_sha256": "2eda1a43720bdaf9ff74082ad41569d6109e6d069c9b73b67b42f354206b120f",
+"derived_from_sha256": "07641b2ae2f4d8f4e16e2f038e8e58138e69064e504dd6825d655eec85c9ac95",
 "gold": "tahayyuz/GOLD_TAHAYYUZ_v1.tsv",
 "gold_sha256": "33abe039aeb8246f4d1b6308f3028f72cc3f9d8583d554b17d5a9ce1b8614568",
 "gold_judged_by": "agent (Claude), blind to lexname — OWNER REVIEW PENDING",

@@ -9,3 +9,4 @@ __pycache__/
 .vercel
 .fuse_hidden*
 data/wordnet/_pre_*/
+audit/wordnet_rootkey/lexidx.pkl

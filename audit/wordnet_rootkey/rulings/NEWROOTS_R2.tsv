@@ -1,0 +1,51 @@
+K_in	decision	K_out	records	note
+ءذر	NEW	ءذر	M06#ROOT_SOURCE_DISPLAY_SHA256:6ea97f3de3be47c6	آذريون فارسيّ؛ القاموس يضعه في (أذر) بعد آذار؛ لا ءذر في البنك. التاج (أذر) بلا آذريون
+ءشن	NEW	ءشن	M04#ROOT_SOURCE_DISPLAY_SHA256:c90bfef01b3c153b;M05#ROOT_SOURCE_DISPLAY_SHA256:c90bfef01b3c153b	الأشنة في المحكم واللسان (أشن)؛ الأزهري: ما أراه عربيّاً، لكنه مُبوَّب. في القاموس مادّة أشن مدموجة في سجلّ (أشأ) فلم تُدرج
+ببغ	NEW	ببغ	M06#ROOT_SOURCE_DISPLAY_SHA256:c0c1fc500b202e9d	القاموس (ببغ): الببغاء طائر (OCR اليبغاء)؛ المصباح يذكرها داخل سجلّ (ببر) فلم تُدرج
+ببنج	NEW	ببنج	M06#ROOT_SOURCE_DISPLAY_SHA256:88b2062a9d0d8bfd;M07#ROOT_SOURCE_DISPLAY_SHA256:499274e60643e471	القاموس يفرد (ببنج) البابونج، والتاج كذلك؛ ليس من (بنج) الذي في البنك
+بدق	NEW	بذق	M06#ROOT_SOURCE_DISPLAY_SHA256:7711f33813055878	DOUBT: بيدق معرّب، والمعاجم تكتبه بيذق في (بذق): القاموس سجلّه معروض [بدق] ونصّه بذق/البيذق، واللسان مادّة بذق مدموجة في سجلّ (بذعر). لا بدق ولا بذق في البنك؛ المفتاح بذق
+بذنج	NEW	بذنج	M04#ROOT_SOURCE_DISPLAY_SHA256:560e8a9089cb8ea7;M05#ROOT_SOURCE_DISPLAY_SHA256:560e8a9089cb8ea7	المحكم واللسان (بذنج): اسم فارسي؛ التاج: لم يذكره المصنّف في موضعه. ليس بذج
+بطي	NEW	بطي	M03#ROOT_SOURCE_DISPLAY_SHA256:fbce64580179b246;M04#ROOT_SOURCE_DISPLAY_SHA256:d879d02ba6f17ab6;M05#ROOT_SOURCE_DISPLAY_SHA256:fbce64580179b246;M06#ROOT_SOURCE_DISPLAY_SHA256:119a0885599878c4	الباطية: الصحاح (بطا) «أظنه معرّباً»، المحكم والقاموس في الياء، واللسان (بطا) مع أبطيت؛ ليست بطء
+بنفسج	NEW	بنفسج	M06#ROOT_SOURCE_DISPLAY_SHA256:6fd4fb9e6236d233;M07#ROOT_SOURCE_DISPLAY_SHA256:1095d3bc41e1fa9a	القاموس (معروض بنخسج OCR) والتاج (بنفسج)؛ R5 لا ينطبق (النون ثانية)
+جذمر	NEW	جذمر	M04#ROOT_SOURCE_DISPLAY_SHA256:1cb74baab83e54c9;M05#ROOT_SOURCE_DISPLAY_SHA256:1cb74baab83e54c9;M06#ROOT_SOURCE_DISPLAY_SHA256:21d535d9fc9cb054	DOUBT: المحكم واللسان والقاموس تفرد جذمر؛ لكن الجوهري يذكر الجذمور في (جذر) «بزيادة الميم» وجذر في البنك
+حرذن	NEW	حرذن	M05#ROOT_SOURCE_DISPLAY_SHA256:77e9ba187bd0be61;M06#ROOT_SOURCE_DISPLAY_SHA256:77e9ba187bd0be61	اللسان والقاموس (حرذن)؛ ابن فارس يذكر الحرذون تحت حرذ ويقول ليس أصلاً
+حلزن	NEW	حلزن	M05#ROOT_SOURCE_DISPLAY_SHA256:dad508ee7f80adb6	DOUBT: اللسان يفرد حلزن، والجوهري في النون (مدموج في سجلّ لزن)؛ لكن القاموس والتاج والوسيط والأزهري في (حلز) وهو في البنك؛ التاج يحكي الخلاف في أصالة النون. بديل: MAP حلز
+خربط	REJECT	UNSURE		لا مادّة خربط في أيّ معجم من التسعة؛ عامّيّ
+دستر	NEW	دستر	M06#ROOT_SOURCE_DISPLAY_SHA256:87bd32fc4f556567	القاموس (دستر): الدستور معرّب ج دساتير؛ التاج يفرد [د س ت ر] لكنه مدموج في سجلّ (دسر) فلم يُدرج
+دعسق	NEW	دعسق	M05#ROOT_SOURCE_DISPLAY_SHA256:427d49fe767fe5ad;M06#ROOT_SOURCE_DISPLAY_SHA256:427d49fe767fe5ad	القاموس (دعسق): الدعسوقة دويبّة؛ اللسان (دعسق) ليلة دعسقة
+ريي	NEW	ريي	M04#ROOT_SOURCE_DISPLAY_SHA256:4a20432e76d169c7;M05#ROOT_SOURCE_DISPLAY_SHA256:0aedbd9869439433;M06#ROOT_SOURCE_DISPLAY_SHA256:14db4ba99559cbea;M11#ROOT_SOURCE_DISPLAY_SHA256:e860d78104a5ae25	DOUBT: الراية: المحكم (رىى) ريّيتها، القاموس في الياء، اللسان (ريا) «أصلها الهمز»، الوسيط (ريو). البنك فيه رءي فقط؛ R4: ريّيت وراي ترجّح الياء
+زرنخ	NEW	زرنخ	M05#ROOT_SOURCE_DISPLAY_SHA256:d18683d486baf9cf;M06#ROOT_SOURCE_DISPLAY_SHA256:d18683d486baf9cf	اللسان (زرنخ أعجمي) والقاموس
+زمرد	NEW	زمرد	M06#ROOT_SOURCE_DISPLAY_SHA256:ef53735847ecf375;M07#ROOT_SOURCE_DISPLAY_SHA256:ef53735847ecf375	القاموس والتاج (زمرد) = الزمرّذ معرّب؛ لا زمرذ في البنك
+زنجبل	NEW	زنجبل	M04#ROOT_SOURCE_DISPLAY_SHA256:ce867bda8ef099be;M05#ROOT_SOURCE_DISPLAY_SHA256:fa05a67a4b5ffa92;M06#ROOT_SOURCE_DISPLAY_SHA256:ce867bda8ef099be	المحكم والقاموس واللسان (معروض زيجبيل OCR)؛ R5 لا ينطبق
+زنجفر	NEW	زنجفر	M06#ROOT_SOURCE_DISPLAY_SHA256:6bc764fd2001b145;M07#ROOT_SOURCE_DISPLAY_SHA256:6bc764fd2001b145	القاموس والتاج
+سمسم	NEW	سمسم	M06#ROOT_SOURCE_DISPLAY_SHA256:dcddb50653aea06e;M09#ROOT_SOURCE_DISPLAY_SHA256:dcddb50653aea06e	R1 فعلل مكرّر رباعيّ؛ لا مادّة مستقلّة: السمسم (الحبّ) مذكور في (سمم) في القاموس والمصباح (المدرجان سجلّا سمم)، وسمم في البنك؛ المفتاح يبقى رباعيّاً
+سمندل	NEW	سمدل	M04#ROOT_SOURCE_DISPLAY_SHA256:6cd3693022791608;M05#ROOT_SOURCE_DISPLAY_SHA256:1a367fb21a6b4861;M06#ROOT_SOURCE_DISPLAY_SHA256:1a367fb21a6b4861	R5 النون الثالثة الساكنة زائدة → سمدل (المحكم يبوّبه سمدل)؛ اللسان والقاموس يعرضانه سمندل؛ سمدل ليس في البنك
+شتل	NEW	شتل	M11#ROOT_SOURCE_DISPLAY_SHA256:6dcdda04d2c38ca5	DOUBT: الوسيط وحده (شتل) ويعلّمه محدث؛ لا شيء في المعاجم القديمة
+شرسف	NEW	شرسف	M05#ROOT_SOURCE_DISPLAY_SHA256:c2da29a2059893e4	اللسان (شرسف)؛ القاموس يذكره داخل سجلّ (شرر) فلم يُدرج
+شرغف	NEW	شرغف	M06#ROOT_SOURCE_DISPLAY_SHA256:479d301f48ddb365	القاموس (شرغف): الشرغوف الضفدع الصغيرة
+شطرنج	NEW	شطرنج	M04#ROOT_SOURCE_DISPLAY_SHA256:34b9aad54610335f;M06#ROOT_SOURCE_DISPLAY_SHA256:34b9aad54610335f;M07#ROOT_SOURCE_DISPLAY_SHA256:2314c05cb10e359f	المحكم والقاموس (شطرنج) والتاج (شطرج، «من باب جردحل»)؛ R5 لا ينطبق (النون رابعة). لا شطرج في البنك
+شفط	REJECT	UNSURE		لا مادّة شفط في المعاجم التسعة (فقط شفطل)؛ عامّيّ
+شقلب	REJECT	UNSURE		لا مادّة شقلب في المعاجم التسعة؛ عامّيّ
+شنقب	NEW	شنقب	M06#ROOT_SOURCE_DISPLAY_SHA256:7929cdf1a343dabd;M07#ROOT_SOURCE_DISPLAY_SHA256:7929cdf1a343dabd	DOUBT: القاموس والتاج (شنقب)؛ التاج: صاحب اللسان أورده في (شقب)، وشقب في البنك
+صنر	NEW	صنر	M02#ROOT_SOURCE_DISPLAY:2210;M06#ROOT_SOURCE_DISPLAY_SHA256:4d7031954fd7f824;M07#ROOT_SOURCE_DISPLAY_SHA256:4d7031954fd7f824	الصنّارة: ابن فارس والقاموس والتاج (صنر)؛ الكلمة مكتوبة سنارة بالسين، وسنر في البنك بمعنى آخر
+ضمحل	NEW	ضمحل	M05#ROOT_SOURCE_DISPLAY_SHA256:3640427d741a9e15;M06#ROOT_SOURCE_DISPLAY_SHA256:3640427d741a9e15	اللسان والقاموس («هذا موضعه لا ض ح ل»)
+طبشر	NEW	طبشر	M06#ROOT_SOURCE_DISPLAY_SHA256:a3867064fe0f590d;M07#ROOT_SOURCE_DISPLAY_SHA256:a3867064fe0f590d	القاموس والتاج
+طرطش	REJECT	UNSURE		مادّة طرطش في القاموس لأسماء بلدان (طرطوشة) فقط = PROPER لا هذا المعنى؛ طرطش بمعنى رشّ عامّيّ
+طزج	NEW	طزج	M05#ROOT_SOURCE_DISPLAY_SHA256:e2227c1042cab8c2;M06#ROOT_SOURCE_DISPLAY_SHA256:da3a5cfd7a091dbd;M07#ROOT_SOURCE_DISPLAY_SHA256:e2227c1042cab8c2	اللسان والتاج والقاموس (معروض طرج OCR): الطازج معرّب تازه
+عنصل	MAP	عصل	M05#ROOT_SOURCE_DISPLAY_SHA256:290af9c9080328e9;M06#ROOT_SOURCE_DISPLAY_SHA256:290af9c9080328e9	DOUBT: المحكم يضع العنصل في (عصل)، واللسان يذكره في عصل ويفرده أيضاً، والقاموس يفرده ويقول «ذكر في س ق ل وع ص ل»؛ فُنْعُل بنون زائدة. بديل: NEW عنصل
+غندر	NEW	غندر	M04#ROOT_SOURCE_DISPLAY_SHA256:850348378d86c360;M05#ROOT_SOURCE_DISPLAY_SHA256:42d4ac48b7c4fe31;M06#ROOT_SOURCE_DISPLAY_SHA256:850348378d86c360	المحكم واللسان (معروض عندره) والقاموس؛ الصحاح يذكر «غندر اسم رجل» في (غدر)
+فتنج	NEW	فتنج	M06#ROOT_SOURCE_DISPLAY_SHA256:472c55af45f45589;M07#ROOT_SOURCE_DISPLAY_SHA256:472c55af45f45589	القاموس والتاج: الفوتنج معرّب بوتنك
+فستق	NEW	فستق	M05#ROOT_SOURCE_DISPLAY_SHA256:bbcf07b03970ddf8;M06#ROOT_SOURCE_DISPLAY_SHA256:bbcf07b03970ddf8	اللسان والقاموس
+فوفل	NEW	فوفل	M04#ROOT_SOURCE_DISPLAY_SHA256:591736af11ed6410;M05#ROOT_SOURCE_DISPLAY_SHA256:591736af11ed6410	المحكم واللسان
+قءقء	NEW	قءقء	M07#ROOT_SOURCE_DISPLAY_SHA256:8d87780666cc916a	R1 رباعيّ؛ التاج (قأقأ)
+قرقع	NEW	قرقع		R1 رباعيّ؛ لا مادّة مستقلّة في المعاجم المتاحة، ترد «قرقع قرقعة» في المحكم (ضرب) فقط؛ لم يُدرج سجلّ
+قرنفل	MAP	قرفل	M05#ROOT_SOURCE_DISPLAY_SHA256:d934f446f4f31099;M06#ROOT_SOURCE_DISPLAY_SHA256:d934f446f4f31099;M11#ROOT_SOURCE_DISPLAY_SHA256:4914bb1b410324c9	R5 → قرفل وهو في البنك؛ اللسان والقاموس يعرضانه قرنفل، والوسيط قرفل
+قلفط	REJECT	UNSURE		DOUBT: القاموس (قلفط) فيه القلفاط لقب فقط؛ مقلفط بمعنى المجلفط، وجلفط في البنك، لكن لا معجم يربطهما (لا اشتقاق شعبي)
+قلقس	NEW	قلقس	M06#ROOT_SOURCE_DISPLAY_SHA256:529b4822e0a36be1;M07#ROOT_SOURCE_DISPLAY_SHA256:529b4822e0a36be1	القاموس والتاج
+قوقع	REJECT	UNSURE		لا قوقع ولا قوقعة في المعاجم التسعة؛ ربطه بقوع اشتقاق شعبي
+كشمش	NEW	كشمش	M05#ROOT_SOURCE_DISPLAY_SHA256:d638fc180edb29b2;M06#ROOT_SOURCE_DISPLAY_SHA256:d638fc180edb29b2	اللسان والقاموس يفردانه؛ المحكم يذكره في (كشش)
+لذن	NEW	لذن	M05#ROOT_SOURCE_DISPLAY_SHA256:96fa98eadd10df9f	اللسان (لذن): اللاذن
+مردقش	NEW	مردقش	M03#ROOT_SOURCE_DISPLAY_SHA256:d7ab0d36b78a49b8;M05#ROOT_SOURCE_DISPLAY_SHA256:d01008c7864a451c;M06#ROOT_SOURCE_DISPLAY_SHA256:d01008c7864a451c	الصحاح (معروض مردش OCR) واللسان والقاموس
+نغز	NEW	نغز	M05#ROOT_SOURCE_DISPLAY_SHA256:0cefe1dbd5d9e29e;M07#ROOT_SOURCE_DISPLAY_SHA256:dd3724f00f8173e5;M11#ROOT_SOURCE_DISPLAY_SHA256:dd3724f00f8173e5	التاج والوسيط واللسان (معروض نغر OCR)؛ القاموس مدموج في سجلّ نخز
+نمذج	NEW	نمذج	M06#ROOT_SOURCE_DISPLAY_SHA256:55677b598294a6f1;M07#ROOT_SOURCE_DISPLAY_SHA256:55677b598294a6f1	القاموس والتاج: النموذج معرّب
+هلن	MAP	هلي	M06#ROOT_SOURCE_DISPLAY_SHA256:75f8b8fde310cf54	DOUBT: المحكم واللسان يذكران الهليون «نبت عربي» في (هلى/هلا)، وهلي في البنك؛ القاموس وحده يفرد (هلن). بديل: NEW هلن

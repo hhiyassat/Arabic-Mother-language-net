@@ -1,0 +1,77 @@
+K	K_reviewed_as	source	basis	records
+ءذر	ءذر	WN_ROOTKEY_census_new_root	READ2_AGREED: معرّب، القاموس (أذر) يذكر الآذريون؛ سجلّ التاج في المادة عن آذار فقط	M06#ROOT_SOURCE_DISPLAY_SHA256:6ea97f3de3be47c6
+ءشن	ءشن	WN_ROOTKEY_census_new_root	READ2_AGREED: الأشنة في المحكم واللسان مادة أشن	M04#ROOT_SOURCE_DISPLAY_SHA256:c90bfef01b3c153b;M05#ROOT_SOURCE_DISPLAY_SHA256:c90bfef01b3c153b
+ببغ	ببغ	WN_ROOTKEY_census_new_root	READ2_AGREED: الببغاء في القاموس مادة ببغ	M06#ROOT_SOURCE_DISPLAY_SHA256:c0c1fc500b202e9d
+ببنج	ببنج	WN_ROOTKEY_census_new_root	READ2_AGREED: معرّب؛ القاموس ببنج والتاج بابونج	M06#ROOT_SOURCE_DISPLAY_SHA256:88b2062a9d0d8bfd;M07#ROOT_SOURCE_DISPLAY_SHA256:499274e60643e471
+بتبت		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+بذق	بدق	WN_ROOTKEY_census_new_root	READ2_AGREED: الأصل البَيْذَق بالذال؛ رأس القاموس بذق (قرأه OCR بدق)؛ في اللسان مدمجة في سجلّ بذعر؛ باذق المحكم معنى آخر	M06#ROOT_SOURCE_DISPLAY_SHA256:7711f33813055878
+بذنج	بذنج	WN_ROOTKEY_census_new_root	READ2_AGREED: الباذنجان فارسي، في المحكم واللسان بذنج	M04#ROOT_SOURCE_DISPLAY_SHA256:560e8a9089cb8ea7;M05#ROOT_SOURCE_DISPLAY_SHA256:560e8a9089cb8ea7
+بطي	بطي	WN_ROOTKEY_census_new_root	READ2_AGREED: الباطية: الناجود؛ القاموس يائي؛ ابن فارس والتاج يذكرانها في بطأ «مجهول أصله»	M03#ROOT_SOURCE_DISPLAY_SHA256:fbce64580179b246;M04#ROOT_SOURCE_DISPLAY_SHA256:d879d02ba6f17ab6;M05#ROOT_SOURCE_DISPLAY_SHA256:fbce64580179b246;M06#ROOT_SOURCE_DISPLAY_SHA256:119a0885599878c4
+بنفسج	بنفسج	WN_ROOTKEY_census_new_root	READ2_AGREED: معرّب في القاموس والتاج (رأس القاموس قرأه OCR بنخسج)	M06#ROOT_SOURCE_DISPLAY_SHA256:6fd4fb9e6236d233;M07#ROOT_SOURCE_DISPLAY_SHA256:1095d3bc41e1fa9a
+تكتك		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+تمتم		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+جدجد		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+جذمر	جذمر	WN_ROOTKEY_census_new_root	READ2_AGREED: الجذمور أصل الشيء	M04#ROOT_SOURCE_DISPLAY_SHA256:1cb74baab83e54c9;M05#ROOT_SOURCE_DISPLAY_SHA256:1cb74baab83e54c9;M06#ROOT_SOURCE_DISPLAY_SHA256:21d535d9fc9cb054
+حرذن	حرذن	WN_ROOTKEY_census_new_root	READ2_AGREED: دويبة؛ ابن فارس يذكرها في حرذ «ليست فيه عربية صحيحة» (M02 حرذ)	M05#ROOT_SOURCE_DISPLAY_SHA256:77e9ba187bd0be61;M06#ROOT_SOURCE_DISPLAY_SHA256:77e9ba187bd0be61
+حلزن	حلزن	WN_ROOTKEY_census_new_root	OWNER_DELEGATED: للّسان والجوهري رأس (حلزن)؛ القاموس والتاج في (حلز)	M05#ROOT_SOURCE_DISPLAY_SHA256:dad508ee7f80adb6
+خربط	خربط	WN_ROOTKEY_census_new_root	OWNER_INSTRUCTION «اضفها»: لا مادة في المعاجم التسعة؛ عامّيّ (COLLOQUIAL_NO_LEXICON)	
+خصخص		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+خلنج		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+دردش		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+دستر	دستر	WN_ROOTKEY_census_new_root	READ2_AGREED: الدستور معرّب في القاموس؛ في التاج مدمج داخل سجلّ دسر	M06#ROOT_SOURCE_DISPLAY_SHA256:87bd32fc4f556567
+دعسق	دعسق	WN_ROOTKEY_census_new_root	READ2_AGREED: المادة في اللسان والقاموس (دعسق) بمعنى الوطء وليلة دعسقة؛ الدعسوقة غير مذكورة	
+ريي	ريي	WN_ROOTKEY_census_new_root	READ2_AGREED: الراية: العلم، لا تُهمز؛ القاموس ريي واللسان ريا	M05#ROOT_SOURCE_DISPLAY_SHA256:0aedbd9869439433;M06#ROOT_SOURCE_DISPLAY_SHA256:14db4ba99559cbea
+زرنخ	زرنخ	WN_ROOTKEY_census_new_root	READ2_AGREED: الزرنيخ أعجمي في اللسان والقاموس	M05#ROOT_SOURCE_DISPLAY_SHA256:d18683d486baf9cf;M06#ROOT_SOURCE_DISPLAY_SHA256:d18683d486baf9cf
+زمرد	زمرد	WN_ROOTKEY_census_new_root	READ2_AGREED: الزمرد/الزمرذ؛ الصحاح بالذال	M06#ROOT_SOURCE_DISPLAY_SHA256:ef53735847ecf375;M07#ROOT_SOURCE_DISPLAY_SHA256:ef53735847ecf375
+زمزم		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+زنجبل	زنجبل	WN_ROOTKEY_census_new_root	READ2_AGREED: النون ثانية لا ثالثة فلا R5؛ رأس اللسان قرأه OCR زيجبيل	M04#ROOT_SOURCE_DISPLAY_SHA256:ce867bda8ef099be;M05#ROOT_SOURCE_DISPLAY_SHA256:fa05a67a4b5ffa92;M06#ROOT_SOURCE_DISPLAY_SHA256:ce867bda8ef099be
+زنجفر	زنجفر	WN_ROOTKEY_census_new_root	READ2_AGREED: صبغ معروف	M06#ROOT_SOURCE_DISPLAY_SHA256:6bc764fd2001b145;M07#ROOT_SOURCE_DISPLAY_SHA256:6bc764fd2001b145
+سردب		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+سرسر		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+سمدل	سمندل	WN_ROOTKEY_census_new_root	READ2_AGREED: R5 النون الثالثة الساكنة زائدة؛ المحكم في سمدل	M04#ROOT_SOURCE_DISPLAY_SHA256:6cd3693022791608;M05#ROOT_SOURCE_DISPLAY_SHA256:1a367fb21a6b4861;M06#ROOT_SOURCE_DISPLAY_SHA256:1a367fb21a6b4861
+سمسم	سمسم	WN_ROOTKEY_census_new_root	READ2_AGREED: R1 رباعي مضاعف؛ المصباح يذكر السمسم الحب في سمم	M09#ROOT_SOURCE_DISPLAY_SHA256:dcddb50653aea06e
+سنسن		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+شتل	شتل	WN_ROOTKEY_census_new_root	READ2_AGREED: محدثة في الوسيط فقط؛ لا مادة في المعاجم القديمة	M11#ROOT_SOURCE_DISPLAY_SHA256:6dcdda04d2c38ca5
+شرسف	شرسف	WN_ROOTKEY_census_new_root	READ2_AGREED: الشرسوف غضروف الضلع	M05#ROOT_SOURCE_DISPLAY_SHA256:c2da29a2059893e4
+شرغف	شرغف	WN_ROOTKEY_census_new_root	READ2_AGREED: الشرغوف الضفدع الصغيرة	M06#ROOT_SOURCE_DISPLAY_SHA256:479d301f48ddb365
+شطرنج	شطرنج	WN_ROOTKEY_census_new_root	READ2_AGREED: النون رابعة فلا R5؛ التاج في شطرج	M04#ROOT_SOURCE_DISPLAY_SHA256:34b9aad54610335f;M06#ROOT_SOURCE_DISPLAY_SHA256:34b9aad54610335f;M07#ROOT_SOURCE_DISPLAY_SHA256:2314c05cb10e359f
+شفط	شفط	WN_ROOTKEY_census_new_root	OWNER_INSTRUCTION «اضفها»: لا مادة في المعاجم التسعة؛ عامّيّ (COLLOQUIAL_NO_LEXICON)	
+شقلب	شقلب	WN_ROOTKEY_census_new_root	OWNER_INSTRUCTION «اضفها»: لا مادة في المعاجم التسعة؛ عامّيّ (COLLOQUIAL_NO_LEXICON)	
+شمشم		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+شنقب	شنقب	WN_ROOTKEY_census_new_root	READ2_AGREED: ضرب من الطير	M06#ROOT_SOURCE_DISPLAY_SHA256:7929cdf1a343dabd;M07#ROOT_SOURCE_DISPLAY_SHA256:7929cdf1a343dabd
+صطبل		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+صنر	صنر	WN_ROOTKEY_census_new_root	READ2_AGREED: السنّارة = الصنّارة: حديدة المغزل المعقفة؛ سنر (الهرّ) معنى آخر	M02#ROOT_SOURCE_DISPLAY:2210;M06#ROOT_SOURCE_DISPLAY_SHA256:4d7031954fd7f824;M07#ROOT_SOURCE_DISPLAY_SHA256:4d7031954fd7f824
+ضمحل	ضمحل	WN_ROOTKEY_census_new_root	READ2_AGREED: اضمحلّ رباعي في اللسان والقاموس؛ يُذكر أيضاً في ضحل وضمحن	M05#ROOT_SOURCE_DISPLAY_SHA256:3640427d741a9e15;M06#ROOT_SOURCE_DISPLAY_SHA256:3640427d741a9e15
+ضوضو		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+طبشر	طبشر	WN_ROOTKEY_census_new_root	READ2_AGREED: الطباشير في القاموس والتاج	M06#ROOT_SOURCE_DISPLAY_SHA256:a3867064fe0f590d;M07#ROOT_SOURCE_DISPLAY_SHA256:a3867064fe0f590d
+طرخن		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+طرطش	طرطش	WN_ROOTKEY_census_new_root	OWNER_INSTRUCTION «اضفها»: لا مادة في المعاجم التسعة؛ عامّيّ (COLLOQUIAL_NO_LEXICON)	
+طزج	طزج	WN_ROOTKEY_census_new_root	READ2_AGREED: الطازج معرّب تازه؛ رأس القاموس قرأه OCR طرج	M05#ROOT_SOURCE_DISPLAY_SHA256:e2227c1042cab8c2;M06#ROOT_SOURCE_DISPLAY_SHA256:da3a5cfd7a091dbd;M07#ROOT_SOURCE_DISPLAY_SHA256:e2227c1042cab8c2
+طنجر		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+طهج		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+عصعص		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+غمغم		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+غندر	غندر	WN_ROOTKEY_census_new_root	READ2_AGREED: غلام غندر: سمين ناعم؛ رأس اللسان قرأه OCR عندره	M04#ROOT_SOURCE_DISPLAY_SHA256:850348378d86c360;M05#ROOT_SOURCE_DISPLAY_SHA256:42d4ac48b7c4fe31;M06#ROOT_SOURCE_DISPLAY_SHA256:850348378d86c360
+فتنج	فتنج	WN_ROOTKEY_census_new_root	READ2_AGREED: الفوتنج معرّب بوتنك	M06#ROOT_SOURCE_DISPLAY_SHA256:472c55af45f45589;M07#ROOT_SOURCE_DISPLAY_SHA256:472c55af45f45589
+فستق	فستق	WN_ROOTKEY_census_new_root	READ2_AGREED: معرّب بسته	M05#ROOT_SOURCE_DISPLAY_SHA256:bbcf07b03970ddf8;M06#ROOT_SOURCE_DISPLAY_SHA256:bbcf07b03970ddf8
+فضفض		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+فوفل	فوفل	WN_ROOTKEY_census_new_root	READ2_AGREED: ثمر نخلة	M04#ROOT_SOURCE_DISPLAY_SHA256:591736af11ed6410;M05#ROOT_SOURCE_DISPLAY_SHA256:591736af11ed6410
+قءقء	قءقء	WN_ROOTKEY_census_new_root	READ2_AGREED: R1 مضاعف؛ القأقأ حكاية أصوات الغربان في التاج	M07#ROOT_SOURCE_DISPLAY_SHA256:8d87780666cc916a
+قرقش		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+قرقع	قرقع	WN_ROOTKEY_census_new_root	READ2_AGREED: R1 مضاعف؛ لا رأس قرقع في المعاجم المتاحة	
+قعقع		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+قلفط	قلفط	WN_ROOTKEY_census_new_root	OWNER_INSTRUCTION «اضفها»: لا مادة في المعاجم التسعة؛ عامّيّ (COLLOQUIAL_NO_LEXICON)	
+قلقس	قلقس	WN_ROOTKEY_census_new_root	READ2_AGREED: القلقاس	M06#ROOT_SOURCE_DISPLAY_SHA256:529b4822e0a36be1;M07#ROOT_SOURCE_DISPLAY_SHA256:529b4822e0a36be1
+قوقع	قوقع	WN_ROOTKEY_census_new_root	OWNER_INSTRUCTION «اضفها»: لا مادة في المعاجم التسعة؛ عامّيّ (COLLOQUIAL_NO_LEXICON)	
+كشمش	كشمش	WN_ROOTKEY_census_new_root	READ2_AGREED: ضرب من العنب	M05#ROOT_SOURCE_DISPLAY_SHA256:d638fc180edb29b2;M06#ROOT_SOURCE_DISPLAY_SHA256:d638fc180edb29b2
+لذن	لذن	WN_ROOTKEY_census_new_root	READ2_AGREED: اللاذن من العلوك	M05#ROOT_SOURCE_DISPLAY_SHA256:96fa98eadd10df9f
+مردقش	مردقش	WN_ROOTKEY_census_new_root	READ2_AGREED: المرزنجوش؛ رأس الصحاح قرأه OCR مردش	M03#ROOT_SOURCE_DISPLAY_SHA256:d7ab0d36b78a49b8;M05#ROOT_SOURCE_DISPLAY_SHA256:d01008c7864a451c;M06#ROOT_SOURCE_DISPLAY_SHA256:d01008c7864a451c
+مشمش		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+ململ		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+نغز	نغز	WN_ROOTKEY_census_new_root	READ2_AGREED: نغز بين القوم: أغرى	M07#ROOT_SOURCE_DISPLAY_SHA256:dd3724f00f8173e5;M11#ROOT_SOURCE_DISPLAY_SHA256:dd3724f00f8173e5
+نقرش		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+نمذج	نمذج	WN_ROOTKEY_census_new_root	READ2_AGREED: النموذج معرّب	M06#ROOT_SOURCE_DISPLAY_SHA256:55677b598294a6f1;M07#ROOT_SOURCE_DISPLAY_SHA256:55677b598294a6f1
+هلن	هلن	WN_ROOTKEY_census_new_root	OWNER_DELEGATED: للقاموس رأس (هلن)؛ المحكم واللسان في (هلي)	M06#ROOT_SOURCE_DISPLAY_SHA256:75f8b8fde310cf54
+همهم		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
+ورور		WN_ROOTKEY_rule	ADJ2/OWNER_DELEGATED: مفتاح أعطاه الحَكَمان أو حكم كلود	
+وقوق		WN_ROOTKEY_rule	R1 مكرّر رباعيّ (الشافية: «ونحو زلزل… رباعي»)	
