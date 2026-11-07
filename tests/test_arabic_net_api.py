@@ -204,3 +204,17 @@ def test_maqayis_absent_in_book_from_editor_notes():
     a = R.absent_in_book()
     assert a["عون"]["kind"] == "OMITTED_BY_AUTHOR" and a["رتل"]["kind"] == "MANUSCRIPT_LACUNA"
     assert "عون" not in R._maqayis() and "عوض" in R._maqayis()
+
+
+def test_withdrawn_events_not_served():
+    """HFN-D067: أحداث v42 المسحوبة (الحق = أَلْحَقَ، فءخذ = فَأَخَذَ) لا تُخدَم بالجذر ولا بالكلمة، وevent() يحذّر."""
+    from arabic_net_api import hfn
+    h = hfn.api()
+    w = [i for i, e in h.events.items() if e.get("event_review_v36", "").startswith("WITHDRAWN")]
+    if not w:
+        import pytest
+        pytest.skip("release without withdrawn events")
+    assert not h.lookup_root("الحق")["payload"]["events"]
+    assert not h.lookup_root("فءخذ")["payload"]["events"]
+    assert all(i not in {b["event_id"] for b in h.lookup_word(h.events[i]["verb"])["payload"]["events"]} for i in w)
+    assert any(r.startswith("EVENT_WITHDRAWN") for r in h.event(w[0])["residuals"])
