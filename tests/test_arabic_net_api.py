@@ -218,3 +218,14 @@ def test_withdrawn_events_not_served():
     assert not h.lookup_root("فءخذ")["payload"]["events"]
     assert all(i not in {b["event_id"] for b in h.lookup_word(h.events[i]["verb"])["payload"]["events"]} for i in w)
     assert any(r.startswith("EVENT_WITHDRAWN") for r in h.event(w[0])["residuals"])
+
+
+def test_wasl_mushaf_matches_engine_spelling():
+    """HFN-D068: همزة الوصل ٱ في HFN (رسم المصحف بحكم المالك) تطابق اِ في wazn-net وا في الإصدارات السابقة."""
+    from arabic_net_api._common import K, match_kind, wasl
+    assert K("ٱسْتَعْلَمَ") == K("اسْتَعْلَمَ") == "استعلم"
+    assert match_kind("ٱسْتَعْلَمَ", "اِسْتَعْلَمَ") == "EXACT"
+    assert match_kind("ٱنْطِلَاق", "انْطِلَاق") == "EXACT"
+    assert match_kind("ٱتَّبَعَ", "اِتَّبَعَ") == "EXACT"          # الافتعال المدغم: الحرف مشدّد لا ساكن
+    assert wasl("أَكْرَمَ") == "أَكْرَمَ"              # همزة القطع لا تُمسّ
+    assert match_kind("ٱسْتَعْلَمَ", "أَعْلَمَ") == "LETTERS"

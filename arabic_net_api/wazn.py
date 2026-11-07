@@ -4,7 +4,7 @@ from __future__ import annotations
 import os
 from functools import lru_cache
 
-from ._common import MEASURED, REPOS, feature, match_kind, on_path
+from ._common import MEASURED, REPOS, feature, match_kind, on_path, wasl
 
 PROVIDER = "wazn"
 
@@ -28,6 +28,7 @@ def _call(fn, v):
 def features(verb: str) -> list[dict]:
     M, T = _engines()
     out = []
+    verb = wasl(verb)   # HFN v44 يكتب همزة الوصل ٱ؛ جداول wazn-net بالألف (HFN-D068)
     src = os.path.basename(M.TABLE)
     for x in _call(M.mutawaa_of, verb):
         out.append(feature("mutawaa", x.mutawaa, provider=PROVIDER, status=MEASURED, source=src,

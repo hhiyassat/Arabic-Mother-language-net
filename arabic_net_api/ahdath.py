@@ -1,7 +1,7 @@
 """مزوّد AMLN: أثر الحدث (R1، R1W، T_JAL) وجهة الفاعل (J_SAJIYYA، J_DAA) — المقبول بالقياس وحده."""
 from __future__ import annotations
 
-from ._common import MEASURED, feature
+from ._common import MEASURED, feature, wasl
 
 PROVIDER = "ahdath"
 
@@ -9,6 +9,7 @@ PROVIDER = "ahdath"
 def features(verb: str, synset: str | None = None) -> list[dict]:
     from word_tree import ahdath as WA
     out = []
+    verb = wasl(verb)   # HFN v44 يكتب همزة الوصل ٱ؛ بيانات المسالك بالألف (HFN-D068)
     for x in WA.for_verb(verb, synset=synset, keep_rejected=True):  # الحكم بالتشكيل وأدلّته من vowel_evidence
         r = WA.ROUTES[x["route"]]
         out.append(feature("ahdath_effect", dict(fail=x["fail"], maful=x["maful"], mutawi=x["mutawi"],

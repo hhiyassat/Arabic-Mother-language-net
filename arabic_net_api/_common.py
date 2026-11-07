@@ -30,9 +30,17 @@ def nfc(s: str) -> str:
     return unicodedata.normalize("NFC", (s or "").strip())
 
 
+_WASL = re.compile("(?:^|(?<=\\s))(?:ٱ|ا[\u064f\u0650]?)(?=[\u0621-\u064a](?:\u0652|[\u064b-\u0650]?\u0651))")
+
+
+def wasl(s: str) -> str:
+    """همزة الوصل بصورةٍ واحدة للمقارنة: ٱ (HFN v44، رسم المصحف بحكم المالك) = اِ/اُ (wazn-net، اصطلاح المحرك C3) = ا (HFN قبل v44)."""
+    return _WASL.sub("ا", nfc(s))
+
+
 def K(s: str) -> str:
-    """مفتاح الجذر (حروف بلا حركات، والهمزات ← ء، ى ← ي) — للجذر وحده، لا للكلمة."""
-    s = _HARAKAT.sub("", nfc(s))
+    """مفتاح الجذر (حروف بلا حركات، والهمزات ← ء، ٱ ← ا، ى ← ي) — للجذر وحده، لا للكلمة."""
+    s = _HARAKAT.sub("", nfc(s)).replace("ٱ", "ا")
     for a in "أإآؤئ":
         s = s.replace(a, "ء")
     return s.replace("ى", "ي").replace(" ", "")
@@ -40,7 +48,7 @@ def K(s: str) -> str:
 
 def match_kind(found: str, query: str) -> str:
     """EXACT: الحروف والحركات معاً بعد NFC. SUKUN_ONLY: لا فرق إلا السكون. LETTERS: الحروف وحدها."""
-    f, q = nfc(found), nfc(query)
+    f, q = wasl(found), wasl(query)          # همزة الوصل اصطلاح رسم لا فرق لفظ
     if f == q:
         return "EXACT"
     if f.replace(_SUKUN, "") == q.replace(_SUKUN, ""):
