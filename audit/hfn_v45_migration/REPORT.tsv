@@ -1,0 +1,17 @@
+file	added	changed:candidate	changed:verb	gold_events_missing_or_withdrawn	gold_rows	same	wasl_only	examples
+qabiliyyat/candidates_R1_MUTAWAA.tsv							231	[]
+qabiliyyat/candidates_R2_FACULA.tsv		1				423		"[[""changed"", [""R2_FACULA"", ""HFN-E-fbc7e9997a""], [""candidate""]]]"
+qabiliyyat/candidates_R3_FACUL.tsv						1		[]
+ahdath/rules_R1.tsv							231	[]
+ahdath/pool_R2.tsv	34					1078	27	"[[""added"", [""R2"", ""HFN-E-1f189baf96""]], [""added"", [""R2"", ""HFN-E-fbfe149f20""]], [""added"", [""R2"", ""HFN-E-f64ef91a54""]], [""added"", [""R2"", ""HFN-E-bc7108c413""]], [""added"", [""R2"", ""HFN-E-294bfc48db""]], [""added"", [""R2"", ""HFN-E-21bfb7277b""]], [""added"", [""R2"", ""HFN-E-6b25f0c3be""]], [""added"", [""R2"", ""HFN-E-813123d03e""]]]"
+ahdath/pool_R2_v3.tsv			1			610		"[[""changed"", [""R2w"", ""HFN-E-6210fb5066""], [""verb""]]]"
+tahayyuz/wordnet_tahayyuz.json						70909		[]
+ahdath/gold_R2_v1.tsv				0	60			[]
+ahdath/gold_R2_v2.tsv				0	60			[]
+ahdath/gold_R2_v3.tsv				0	60			[]
+ahdath/sample_R2_v1.tsv				0	60			[]
+ahdath/sample_R2_v2.tsv				0	60			[]
+ahdath/sample_R2_v3.tsv				0	60			[]
+qabiliyyat/sample_R1_MUTAWAA.tsv				0	60			[]
+qabiliyyat/sample_R2_FACULA.tsv				0	60			[]
+qabiliyyat/sample_R3_FACUL.tsv				60	60			"["""", """", """", """", """", """", """", """"]"

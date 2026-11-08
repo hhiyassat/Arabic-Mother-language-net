@@ -25,7 +25,9 @@ import unicodedata
 from collections import Counter, defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-HFN = os.path.expanduser("~/arabic-net/HusseinFrameNet/release/release_v36")
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.dirname(_o.path.abspath(__file__))))
+from hfn_release import hfn_release_dir  # noqa: E402  (AMLN_HFN_RELEASE أو أحدث إصدار)
+HFN = hfn_release_dir()
 R1_FILE = os.path.join(HERE, "..", "qabiliyyat", "candidates_R1_MUTAWAA.tsv")
 SEED = 20261105
 N_SAMPLE = 60
@@ -84,6 +86,7 @@ MANI_EXCLUDE = {nfc(v) for v in ("عَلَمَ", "كَلَمَ", "سَلَمَ",
 
 
 def mani(verb: str) -> str:
+    verb = verb.replace("ٱ", "ا")
     if nfc(verb) in MANI_EXCLUDE:
         return ""
     b = bare(verb)
@@ -191,12 +194,13 @@ def participles(ev: dict, lus: dict):
     f_att = att.get("اسم فاعل", [""])[0]
     m_att = att.get("اسم مفعول", [""])[0]
     form = ev["form"].split(" ")[0]
+    verb = ev["verb"].replace("ٱ", "ا")  # همزة الوصل ٱ (HFN v44) = ا في القياس، وإلا خرج «مُٱتَّبِع» أو لا شيء
     if form in THULATHI:
-        q = derive_thulathi(ev["root_K"], trans, ev["verb"])
+        q = derive_thulathi(ev["root_K"], trans, verb)
     elif form == "فَعُلَ":
         q = None  # فَعُلَ: صفة مشبّهة للثبوت، لا اسم فاعل للحدوث (التعريفات:470)
     else:
-        q = derive_mazid(ev["verb"], ev["root_K"], trans, form)
+        q = derive_mazid(verb, ev["root_K"], trans, form)
     out = {"fail": f_att, "fail_src": "SAMAI" if f_att else "",
            "maful": m_att, "maful_src": "SAMAI" if m_att else "",
            "qiyas_kind": q[2] if q else ""}
@@ -383,9 +387,62 @@ def build_r2_wasit():
     print("R2w pool", len(rows), "mani", sum(1 for r in rows if r["mani"]), "sample", len(sample))
 
 
+
+# ── R2 v4 (2026-11-08): التعدّي من الوسيط v5 = v1 مصحَّحاً بإحصاء قارئَين لـ470 فعلاً (wazn-net build_transitivity_wasit_v5) ──
+# الحوض نفسه بشروط v3، ويُكتب pool_R2_v4.tsv؛ لا عيّنة عشوائية جديدة: ما دخل الحوض ولم يكن في v3 يُكتب
+# pool_R2_v4_added.tsv ليُقرأ كلّه (إحصاء)، وعيّنة v3 وحكمها (gold_R2_v3) باقيان على حالهما.
+def build_r2_wasit_v4():
+    ev, lus = load()
+    tw = {r["event_id"]: r for r in csv.DictReader(open(os.path.join(HERE, "ext", "transitivity_wasit_v2.tsv"),
+                                                        encoding="utf-8"), delimiter="\t")}
+    roots_inf = {e["root_K"] for e in ev if is_mutawaa_form(e["form"]) and nlex(e) >= 2}
+    rows = []
+    for e in ev:
+        t = tw.get(e["event_id"])
+        if not t or t["transitivity_wasit"] != "متعدي" or nlex(e) < 2 or e["root_K"] in roots_inf:
+            continue
+        p = participles(dict(e, transitivity="متعدي"), lus)
+        m = mani(e["verb"])
+        rows.append(dict(route="R2w", event_id=e["event_id"], root=e["root_K"], verb=e["verb"],
+                         form=e["form"].split(" ")[0], transitivity="متعدي(الوسيط v5)", n_lex=nlex(e),
+                         mutawaa="", mutawaa_event="", athar="", mani=m,
+                         effect="LA_ATHAR" if m else "DEFER", rank="CANDIDATE", **p))
+    rows.sort(key=lambda r: (r["root"], r["verb"]))
+    write(os.path.join(HERE, "pool_R2_v4.tsv"), rows)
+    old = {r["event_id"] for r in csv.DictReader(open(os.path.join(HERE, "pool_R2_v3.tsv"), encoding="utf-8"), delimiter="\t")}
+    added = [r for r in rows if r["event_id"] not in old]
+    write(os.path.join(HERE, "pool_R2_v4_added.tsv"), added)
+    print("R2w v4 pool", len(rows), "added", len(added), "removed", len(old - {r["event_id"] for r in rows}))
+
+
+
+# ── R2 v5 (2026-11-08): مانع التعريف (gloss_mani.py) + عيّنة جديدة لم تُرَ ─────────────────────────────────────
+# الحوض v4 نفسه؛ ويُعلَّم «لا أثر» ما عرّفه الوسيط بفعلٍ من المانع. العيّنة 60 من غير الممنوع، لا تتداخل مع عيّنات
+# R2 v1/v2/v3 ولا مع ما قُرئ في v4 (gold_R2_v4_added). حكم الأين (2026-11-08): تغيّر الأين أثرٌ في المحلّ، فيُعدّ مؤثّراً
+# — المناوي، التوقيف (الشاملة 10640 ص68): «الأين: حالة تعرض للشيء بسبب حصوله في المكان»؛ الغزالي، معيار العلم
+# (26575 ص242–243): «كل تغير عندهم يسمى حركة» و«السكون… في حالة واحدة من الكم والكيف والأين والوضع».
+def build_r2_wasit_v5():
+    import gloss_mani as G
+    rows = list(csv.DictReader(open(os.path.join(HERE, "pool_R2_v4.tsv"), encoding="utf-8"), delimiter="\t"))
+    for r in rows:
+        if not r["mani"]:
+            g = G.gloss_mani(r["root"], r["verb"])
+            if g:
+                r["mani"], r["effect"] = g, "LA_ATHAR"
+    write(os.path.join(HERE, "pool_R2_v5.tsv"), rows)
+    seen = set()
+    for n in ("sample_R2_v1.tsv", "sample_R2_v2.tsv", "sample_R2_v3.tsv", "gold_R2_v4_added.tsv"):
+        seen |= {r["event_id"] for r in csv.DictReader(open(os.path.join(HERE, n), encoding="utf-8"), delimiter="\t")}
+    cand = [r for r in rows if not r["mani"] and r["event_id"] not in seen]
+    sample = random.Random(f"{SEED}:AHDATH_R2_v5").sample(cand, min(N_SAMPLE, len(cand)))
+    write(os.path.join(HERE, "sample_R2_v5.tsv"), sample)
+    print("R2w v5 pool", len(rows), "mani", sum(1 for r in rows if r["mani"]),
+          "gloss", sum(1 for r in rows if r["mani"].startswith("GLOSS:")), "unseen", len(cand), "sample", len(sample))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "build"
     if cmd == "score" and len(sys.argv) > 2:
         score(sys.argv[2])
     else:
-        {"build": build, "score": score, "r2w": build_r2_wasit}[cmd]()
+        {"build": build, "score": score, "r2w": build_r2_wasit, "r2w4": build_r2_wasit_v4, "r2w5": build_r2_wasit_v5}[cmd]()

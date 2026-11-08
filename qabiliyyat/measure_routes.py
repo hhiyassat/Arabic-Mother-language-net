@@ -11,7 +11,7 @@ measure_routes.py — قياس ثلاثة مسالك صرفيّة تُرشِّح
   R3_FACUL    : رأسُ مادّةٍ على «فَعُول» في الوسيط/المصباح
                 ← قابلية (طَهور = طاهر مطهِّر ؛ ناقة حَلوب/رَكوب)  (اللسان: طهر)
 
-المصادر: HusseinFrameNet release_v36/events.csv (n_lex_v33) ، ~/roots/{wasit,misbah}_out/*.jsonl
+المصادر: HusseinFrameNet events.csv من أحدث إصدار (hfn_release.py؛ قيست أوّلاً على release_v36، والفرق في audit/hfn_v45_migration) (n_lex_v33) ، ~/roots/{wasit,misbah}_out/*.jsonl
 المخرَج: candidates_<route>.tsv (كلّ المرشّحين) و sample_<route>.tsv (عيّنة عشوائية ببذرة ثابتة للحكم اليدوي).
 
     python3 measure_routes.py extract          # يبني المرشّحين والعيّنات
@@ -30,7 +30,9 @@ import unicodedata
 from collections import Counter, defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-HFN_EVENTS = os.path.expanduser("~/arabic-net/HusseinFrameNet/release/release_v36/events.csv")
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.dirname(_o.path.abspath(__file__))))
+from hfn_release import hfn_release_dir  # noqa: E402  (AMLN_HFN_RELEASE أو أحدث إصدار)
+HFN_EVENTS = os.path.join(hfn_release_dir(), "events.csv")
 LEX = {k: os.path.expanduser(f"~/roots/{k}_out/{k}-root-meanings-v2.jsonl") for k in ("wasit", "misbah")}
 SEED = 20261105
 N_SAMPLE = 60
@@ -45,7 +47,8 @@ def nfc(s):
 
 
 def strip(s):
-    return "".join(c for c in nfc(s) if c not in H)
+    # ٱ (همزة الوصل برسم المصحف، HFN v44) = ا في المطابقة، وإلا ضاع شرح الوسيط لكل مطاوع على v45
+    return "".join(c for c in nfc(s) if c not in H).replace("ٱ", "ا")
 
 
 def fold_root(s):

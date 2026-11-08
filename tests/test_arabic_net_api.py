@@ -103,10 +103,10 @@ def test_r1w_mutawi_takes_hfn_vowelling():
     if not A._hfn_verbs() or not rows:
         pytest.skip("HFN release or R1W pool not available")
     q = [x for x in rows if x["verb"] == "قَلَبَ"]
-    assert q and q[0]["mutawi"] == "انْقَلَبَ" and q[0]["mutawi_text"] == "انقلب"
+    assert q and q[0]["mutawi"] == "ٱنْقَلَبَ" and q[0]["mutawi_text"] == "انقلب"          # HFN v44+: همزة الوصل ٱ
     import unicodedata
     nfc = lambda s: unicodedata.normalize("NFC", s)
-    assert sum(nfc(x["mutawi"]) != nfc(x["mutawi_text"]) for x in rows) == 27
+    assert sum(nfc(x["mutawi"]).replace("ٱ", "ا") != nfc(x["mutawi_text"]) for x in rows) == 27
 
 
 def test_maqayis_fallback_finds_doubled_and_naqis_keys(monkeypatch):
@@ -150,7 +150,7 @@ def test_wazn_skips_unresolved_mutawaa_base():
     from arabic_net_api import wazn as W
     fs = [f for f in W.features("تَطَهَّرَ") if f["feature"] == "mutawaa_base"]
     assert all(f["value"] for f in fs)
-    assert all(f["source"] == "mutawaa_v4.tsv" for f in W.features("انْكَسَرَ"))
+    assert all(f["source"] == "mutawaa_v6.tsv" for f in W.features("انْكَسَرَ"))
 
 
 def test_maqayis_combined_naqis_hamza_entries():

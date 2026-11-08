@@ -16,10 +16,12 @@ import csv, json, os, re, sys, unicodedata, collections as C
 
 H = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(H, "data", "transitivity_wasit.tsv")
-EV = os.path.expanduser("~/arabic-net/HusseinFrameNet/release/release_v36/events.csv")
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.dirname(_o.path.dirname(_o.path.abspath(__file__)))))
+from hfn_release import hfn_release_dir  # noqa: E402  (AMLN_HFN_RELEASE أو أحدث إصدار)
+EV = os.path.join(hfn_release_dir(), "events.csv")
 WASIT = os.path.expanduser("~/roots/wasit_out/wasit-root-meanings-v2.jsonl")
 HAR = re.compile("[ً-ْٰـ]")
-SEATS = str.maketrans({"أ": "ء", "إ": "ء", "ؤ": "ء", "ئ": "ء", "آ": "ء", "ى": "ي"})
+SEATS = str.maketrans({"أ": "ء", "إ": "ء", "ؤ": "ء", "ئ": "ء", "آ": "ء", "ى": "ي", "ٱ": "ا"})  # ٱ: HFN v44+ writes همزة الوصل (انْجَعَبَ = ٱنْجَعَبَ)
 
 OBJ = {"فلانا", "فلانً", "الشيء", "الشىء", "الشيءَ", "فلانة", "القوم", "غيره", "اياه", "إياه", "الامر"}
 HARF_TOK = {"عن": "عن", "على": "على", "علي": "على", "في": "في", "فى": "في", "الى": "إلى", "إلى": "إلى", "إلي": "إلى",
