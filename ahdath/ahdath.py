@@ -415,9 +415,34 @@ def build_r2_wasit_v4():
     print("R2w v4 pool", len(rows), "added", len(added), "removed", len(old - {r["event_id"] for r in rows}))
 
 
+
+# ── R2 v5 (2026-11-08): مانع التعريف (gloss_mani.py) + عيّنة جديدة لم تُرَ ─────────────────────────────────────
+# الحوض v4 نفسه؛ ويُعلَّم «لا أثر» ما عرّفه الوسيط بفعلٍ من المانع. العيّنة 60 من غير الممنوع، لا تتداخل مع عيّنات
+# R2 v1/v2/v3 ولا مع ما قُرئ في v4 (gold_R2_v4_added). حكم الأين (2026-11-08): تغيّر الأين أثرٌ في المحلّ، فيُعدّ مؤثّراً
+# — المناوي، التوقيف (الشاملة 10640 ص68): «الأين: حالة تعرض للشيء بسبب حصوله في المكان»؛ الغزالي، معيار العلم
+# (26575 ص242–243): «كل تغير عندهم يسمى حركة» و«السكون… في حالة واحدة من الكم والكيف والأين والوضع».
+def build_r2_wasit_v5():
+    import gloss_mani as G
+    rows = list(csv.DictReader(open(os.path.join(HERE, "pool_R2_v4.tsv"), encoding="utf-8"), delimiter="\t"))
+    for r in rows:
+        if not r["mani"]:
+            g = G.gloss_mani(r["root"], r["verb"])
+            if g:
+                r["mani"], r["effect"] = g, "LA_ATHAR"
+    write(os.path.join(HERE, "pool_R2_v5.tsv"), rows)
+    seen = set()
+    for n in ("sample_R2_v1.tsv", "sample_R2_v2.tsv", "sample_R2_v3.tsv", "gold_R2_v4_added.tsv"):
+        seen |= {r["event_id"] for r in csv.DictReader(open(os.path.join(HERE, n), encoding="utf-8"), delimiter="\t")}
+    cand = [r for r in rows if not r["mani"] and r["event_id"] not in seen]
+    sample = random.Random(f"{SEED}:AHDATH_R2_v5").sample(cand, min(N_SAMPLE, len(cand)))
+    write(os.path.join(HERE, "sample_R2_v5.tsv"), sample)
+    print("R2w v5 pool", len(rows), "mani", sum(1 for r in rows if r["mani"]),
+          "gloss", sum(1 for r in rows if r["mani"].startswith("GLOSS:")), "unseen", len(cand), "sample", len(sample))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "build"
     if cmd == "score" and len(sys.argv) > 2:
         score(sys.argv[2])
     else:
-        {"build": build, "score": score, "r2w": build_r2_wasit, "r2w4": build_r2_wasit_v4}[cmd]()
+        {"build": build, "score": score, "r2w": build_r2_wasit, "r2w4": build_r2_wasit_v4, "r2w5": build_r2_wasit_v5}[cmd]()
