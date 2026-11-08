@@ -89,11 +89,17 @@ def mani(verb: str) -> str:
     verb = verb.replace("ٱ", "ا")
     if nfc(verb) in MANI_EXCLUDE:
         return ""
-    b = bare(verb)
+    b = _alif(bare(verb))
     for g, (vs, _) in MANI_GROUPS.items():
-        if b in vs:
+        if b in {_alif(v) for v in vs}:
             return g
     return ""
+
+
+def _alif(s: str) -> str:
+    """الألف آخرَ الفعل الناقص تُكتب ألفاً أو ياءً بحسب أصلها (رَثَا الواويّ في HFN = رثى في القائمة)؛ فتُوحَّد للمطابقة
+    (2026-11-08، بأمر المالك: «اصلح رثا تكتبها قائمة المانع رثى»)."""
+    return s[:-1] + "ى" if len(s) >= 3 and s[-1] in "اى" else s
 
 
 def mani_src(group: str) -> str:
