@@ -70,3 +70,12 @@ def test_transitivity_v2_is_v1_plus_census():
         assert r["transitivity_v1"] == v1[k]["transitivity_wasit"]
         if r["transitivity_wasit"] != v1[k]["transitivity_wasit"]:
             assert r["basis_v5"] == "CENSUS2_v5"
+
+
+def test_blocker_final_alif():
+    """رَثَا (HFN) = رثى (قائمة المانع): الألف آخر الناقص تُوحَّد للمطابقة."""
+    import sys, os
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "ahdath"))
+    import ahdath as A
+    assert A.mani("رَثَا") == A.mani("رَثَى") == "LISAN"
+    assert A.mani("كَسَرَ") == ""
