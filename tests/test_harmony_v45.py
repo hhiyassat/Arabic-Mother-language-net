@@ -49,3 +49,24 @@ def test_wasl_does_not_lose_wasit_glosses():
     rows = list(csv.DictReader(open(os.path.join(ROOT, "qabiliyyat", "candidates_R1_MUTAWAA.tsv"), encoding="utf-8"), delimiter="\t"))
     assert sum(1 for r in rows if r["candidate"].startswith("ٱ")) > 100
     assert sum(1 for r in rows if not r["gloss"]) <= 63          # 63 بلا شرح على v36 نفسها (لا مادة في الوسيط)، لا أكثر
+
+
+def test_wasit_bare_maps_wasl():
+    """ٱ (HFN v44+) must match ا in Wasit matching, or انفعل/افتعل verbs lose their event (R1W pool)."""
+    import sys, os
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "ahdath"))
+    from ext import wasit_frames as WF
+    assert WF.bare("ٱنْجَعَبَ") == WF.bare("انْجَعَبَ")
+
+
+def test_transitivity_v2_is_v1_plus_census():
+    """ext/transitivity_wasit_v2.tsv keeps every v1 row; it changes a tag only where two blind readers agreed (CENSUS2_v5)."""
+    import csv, os
+    d = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "ahdath", "ext")
+    v1 = {r["event_id"]: r for r in csv.DictReader(open(os.path.join(d, "transitivity_wasit.tsv"), encoding="utf-8"), delimiter="\t")}
+    v2 = {r["event_id"]: r for r in csv.DictReader(open(os.path.join(d, "transitivity_wasit_v2.tsv"), encoding="utf-8"), delimiter="\t")}
+    assert set(v1) == set(v2)
+    for k, r in v2.items():
+        assert r["transitivity_v1"] == v1[k]["transitivity_wasit"]
+        if r["transitivity_wasit"] != v1[k]["transitivity_wasit"]:
+            assert r["basis_v5"] == "CENSUS2_v5"

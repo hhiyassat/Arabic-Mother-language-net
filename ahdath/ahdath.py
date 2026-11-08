@@ -387,9 +387,37 @@ def build_r2_wasit():
     print("R2w pool", len(rows), "mani", sum(1 for r in rows if r["mani"]), "sample", len(sample))
 
 
+
+# ── R2 v4 (2026-11-08): التعدّي من الوسيط v5 = v1 مصحَّحاً بإحصاء قارئَين لـ470 فعلاً (wazn-net build_transitivity_wasit_v5) ──
+# الحوض نفسه بشروط v3، ويُكتب pool_R2_v4.tsv؛ لا عيّنة عشوائية جديدة: ما دخل الحوض ولم يكن في v3 يُكتب
+# pool_R2_v4_added.tsv ليُقرأ كلّه (إحصاء)، وعيّنة v3 وحكمها (gold_R2_v3) باقيان على حالهما.
+def build_r2_wasit_v4():
+    ev, lus = load()
+    tw = {r["event_id"]: r for r in csv.DictReader(open(os.path.join(HERE, "ext", "transitivity_wasit_v2.tsv"),
+                                                        encoding="utf-8"), delimiter="\t")}
+    roots_inf = {e["root_K"] for e in ev if is_mutawaa_form(e["form"]) and nlex(e) >= 2}
+    rows = []
+    for e in ev:
+        t = tw.get(e["event_id"])
+        if not t or t["transitivity_wasit"] != "متعدي" or nlex(e) < 2 or e["root_K"] in roots_inf:
+            continue
+        p = participles(dict(e, transitivity="متعدي"), lus)
+        m = mani(e["verb"])
+        rows.append(dict(route="R2w", event_id=e["event_id"], root=e["root_K"], verb=e["verb"],
+                         form=e["form"].split(" ")[0], transitivity="متعدي(الوسيط v5)", n_lex=nlex(e),
+                         mutawaa="", mutawaa_event="", athar="", mani=m,
+                         effect="LA_ATHAR" if m else "DEFER", rank="CANDIDATE", **p))
+    rows.sort(key=lambda r: (r["root"], r["verb"]))
+    write(os.path.join(HERE, "pool_R2_v4.tsv"), rows)
+    old = {r["event_id"] for r in csv.DictReader(open(os.path.join(HERE, "pool_R2_v3.tsv"), encoding="utf-8"), delimiter="\t")}
+    added = [r for r in rows if r["event_id"] not in old]
+    write(os.path.join(HERE, "pool_R2_v4_added.tsv"), added)
+    print("R2w v4 pool", len(rows), "added", len(added), "removed", len(old - {r["event_id"] for r in rows}))
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "build"
     if cmd == "score" and len(sys.argv) > 2:
         score(sys.argv[2])
     else:
-        {"build": build, "score": score, "r2w": build_r2_wasit}[cmd]()
+        {"build": build, "score": score, "r2w": build_r2_wasit, "r2w4": build_r2_wasit_v4}[cmd]()

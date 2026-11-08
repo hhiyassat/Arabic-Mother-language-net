@@ -21,7 +21,7 @@ from hfn_release import hfn_release_dir  # noqa: E402  (AMLN_HFN_RELEASE أو أ
 EV = os.path.join(hfn_release_dir(), "events.csv")
 WASIT = os.path.expanduser("~/roots/wasit_out/wasit-root-meanings-v2.jsonl")
 HAR = re.compile("[ً-ْٰـ]")
-SEATS = str.maketrans({"أ": "ء", "إ": "ء", "ؤ": "ء", "ئ": "ء", "آ": "ء", "ى": "ي"})
+SEATS = str.maketrans({"أ": "ء", "إ": "ء", "ؤ": "ء", "ئ": "ء", "آ": "ء", "ى": "ي", "ٱ": "ا"})  # ٱ: HFN v44+ writes همزة الوصل (انْجَعَبَ = ٱنْجَعَبَ)
 
 OBJ = {"فلانا", "فلانً", "الشيء", "الشىء", "الشيءَ", "فلانة", "القوم", "غيره", "اياه", "إياه", "الامر"}
 HARF_TOK = {"عن": "عن", "على": "على", "علي": "على", "في": "في", "فى": "في", "الى": "إلى", "إلى": "إلى", "إلي": "إلى",

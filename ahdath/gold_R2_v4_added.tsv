@@ -1,0 +1,120 @@
+n	event_id	verb	transitivity	label	basis	note	judge
+Q001	HFN-E-b45268a0c2	أَجَلَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	أجل الشيء حبسه ومنعه، لا تغيّر في صفته	READER1+READER2
+Q002	HFN-E-d764fd21f0	أَصَدَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	أصد الباب أغلقه فصار مغلقا	READER1+READER2
+Q003	HFN-E-3d69fc3a3d	بَخَصَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	بخص عينه فقأها	READER1+READER2
+Q004	HFN-E-7768847b4b	بَزَّ	متعدي(الوسيط v5)	DISAGREE	READ2_BLIND	MUATHTHIR/LA_ATHAR	READER1+READER2
+Q005	HFN-E-66171f20e0	بَكَسَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	بكس خصمه قهره غلبة لا أثر في ذاته	READER1+READER2
+Q006	HFN-E-3116087dfd	بَكَلَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	بكل الشيء خلطه	READER1+READER2
+Q007	HFN-E-3c8b5ca5cf	تَسَعَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	تسع القوم صيّرهم تسعة، وأخذ تسعه، وفتل الحبل	READER1+READER2
+Q008	HFN-E-9e2465b169	ثَغَرَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	ثغر الجدار أحدث فيه ثلمة، كسر أسنانه	READER1+READER2
+Q009	HFN-E-a491df07eb	ثَلَثَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	ثلث الحبل فتله من ثلاث قوى	READER1+READER2
+Q010	HFN-E-fca757659a	ثَمَأَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	ثمأ الخبز فتّه، ورأسه شدخه	READER1+READER2
+Q011	HFN-E-1feeefb8d4	ثَمَّ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	ثمّ الشيء وقاه بالثمام وأصلحه	READER1+READER2
+Q012	HFN-E-39c3d96724	ثَنَى	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	ثنى الشيء عطفه وردّ بعضه على بعض	READER1+READER2
+Q013	HFN-E-30980f746f	جَرَشَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	جرشه قشره، ولم ينعم دقّه	READER1+READER2
+Q014	HFN-E-140972859c	جَرَعَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	جرع الماء بلعه، انتقال إلى الجوف	READER1+READER2
+Q015	HFN-E-ace4a49670	جَفَنَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	جفن الطعام وضعه في الجفنة	READER1+READER2
+Q016	HFN-E-95c0dd8f04	جَمَعَ	متعدي(الوسيط v5)	DISAGREE	READ2_BLIND	AYN/MUATHTHIR	READER1+READER2
+Q017	HFN-E-3f75b35337	حَجَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	حجم فم الحيوان جعل عليه حجاما	READER1+READER2
+Q018	HFN-E-0b1dbcabf6	حَرَجَ	متعدي(الوسيط v5)	DISAGREE	READ2_BLIND	AYN/LA_ATHAR	READER1+READER2
+Q019	HFN-E-f7b3a736a8	حَرَقَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	حرق الحديد برده بالمبرد	READER1+READER2
+Q020	HFN-E-913adf0bb2	حَفَضَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	حفض العود حناه	READER1+READER2
+Q021	HFN-E-324e9c0d7a	حَمَرَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	حمر الشيء قشره، والشعر حلقه، والشاة سلخها	READER1+READER2
+Q022	HFN-E-7f7e61dd8c	خَزَا	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	خزا فلانا ساسه وقهره	READER1+READER2
+Q023	HFN-E-7b52ad8364	خَلَبَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	خلب النبات قطعه، والجلد خدشه وشقه	READER1+READER2
+Q024	HFN-E-a67f001dc2	خَمَشَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	خمش وجهه جرح بشرته	READER1+READER2
+Q025	HFN-E-456022f729	خَانَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	خان الأمانة لم يؤدها، وفلانا غدر به	READER1+READER2
+Q026	HFN-E-21586a8d4e	دَبَلَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	دبل الشيء جمعه دبلا وأصلحه	READER1+READER2
+Q027	HFN-E-db96c9635a	دَسَرَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	دسر الدسار في الشيء أدخله فيه بقوة	READER1+READER2
+Q028	HFN-E-e1551971c4	دَمَغَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	دمغ فلانا شجّه حتى بلغت دماغه	READER1+READER2
+Q029	HFN-E-b018a638ef	دَاسَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	داس الشيء وطئه شديدا، والحب درسه	READER1+READER2
+Q030	HFN-E-924dead4e3	ذَهَنَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	ذهن قرنه غلبه جودة ذهن	READER1+READER2
+Q031	HFN-E-9d987a7006	ذَاقَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	ذاق الطعام اختبر طعمه	READER1+READER2
+Q032	HFN-E-caaebc2818	رَأَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	رأم الإناء لأمه وأصلحه، والحبل فتله	READER1+READER2
+Q033	HFN-E-899211ae64	رَتَقَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	رتق الشيء سدّه ولحمه	READER1+READER2
+Q034	HFN-E-dfed505284	رَغَفَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	رغف العجين جعله رغيفا	READER1+READER2
+Q035	HFN-E-70bc204ecf	رَمَضَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	رمض النصل حدّده	READER1+READER2
+Q036	HFN-E-2d1378f522	زَفَتَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	زفت الإناء ملأه	READER1+READER2
+Q037	HFN-E-3b06f2627c	سَبَدَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	سبد شعره حلقه	READER1+READER2
+Q038	HFN-E-2027bf2987	سَبَى	متعدي(الوسيط v5)	DISAGREE	READ2_BLIND	AYN/MUATHTHIR	READER1+READER2
+Q039	HFN-E-7eb60a6ee3	سَحَنَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	سحن الشيء دقّه	READER1+READER2
+Q040	HFN-E-e14c400110	سَقَدَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	سقد فرسه ضمّره	READER1+READER2
+Q041	HFN-E-a5b2c5bb14	شَبَرَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	شبر الثوب قاسه بشبره	READER1+READER2
+Q042	HFN-E-bde06549dd	شَرَسَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	شرس الجلد دلكه	READER1+READER2
+Q043	HFN-E-0878b19d3c	صَرَحَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	صرح الأمر بيّنه وأظهره	READER1+READER2
+Q044	HFN-E-2846d9ce01	صَرَى	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	صرى الرجل منعه ما يريد، حبس اللبن	READER1+READER2
+Q045	HFN-E-8178c65c8d	صَادَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	صاد الطير أمسكه بالمصيدة فصار مصيدا	READER1+READER2
+Q046	HFN-E-2fb3d37460	ضَمَخَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	ضمخ جسده بالطيب لطخه به	READER1+READER2
+Q047	HFN-E-fa781ef410	ضَمَدَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	ضمد الجرح شدّه بالضماد	READER1+READER2
+Q048	HFN-E-aee5c2e2d7	طَحَنَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	طحن الحب صيّره دقيقا	READER1+READER2
+Q049	HFN-E-494bc5bd4f	عَجَفَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	عجف نفسه عن الطعام حبسها عنه	READER1+READER2
+Q050	HFN-E-964aaa18ae	عَرَكَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	عرك الجلد دلكه، والشيء حكّه حتى محاه	READER1+READER2
+Q051	HFN-E-9de233b7c1	عَفَصَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	عفص الشيء ثناه وعطفه	READER1+READER2
+Q052	HFN-E-13dde060a0	عَكَظَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	عكظ الشيء عركه، عكظ الأديم بالدباغ	READER1+READER2
+Q053	HFN-E-e9b46e2b6b	عَلَطَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	علط البعير كواه فأعلمه بعلامة	READER1+READER2
+Q054	HFN-E-ee0fa1dd01	عَلَكَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	علك العلك مضغه	READER1+READER2
+Q055	HFN-E-50598f29fa	غَلَفَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	غلف الشيء جعله في غلاف، كغمد السيف	READER1+READER2
+Q056	HFN-E-15a6cf7a51	فَدَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	فدم فاه وضع عليه الفدام فغطّاه	READER1+READER2
+Q057	HFN-E-a5de336213	فَرَسَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	فرس الأسد فريسته صادها وقتلها	READER1+READER2
+Q058	HFN-E-3619ca749b	فَرَى	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	فرى الشيء شقّه، والقربة	READER1+READER2
+Q059	HFN-E-c6e7bb240b	فَشَلَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	فشل لحيته نفشها	READER1+READER2
+Q060	HFN-E-7449d67df4	فَقَرَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	فقر الأرض حفرها، والشيء كسره	READER1+READER2
+Q061	HFN-E-0f24d8f04f	فَلَغَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	فلغ رأسه شدخه	READER1+READER2
+Q062	HFN-E-328a3b4044	قَثَّ	متعدي(الوسيط v5)	AYN	READ2_BLIND	قثّ الشيء جمعه، وأزاله عن مكانه	READER1+READER2
+Q063	HFN-E-7afad8dccd	قَرِبَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	قرب الشيء دنا منه	READER1+READER2
+Q064	HFN-E-f83f453155	قَرَظَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	قرظ فلانا مدحه وأثنى عليه	READER1+READER2
+Q065	HFN-E-68991c7a8c	قَشَبَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	قشب الشيء بالشيء خلطه وأفسده	READER1+READER2
+Q066	HFN-E-6aae2a0b28	قَصَبَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	قصب الشيء قطعه	READER1+READER2
+Q067	HFN-E-3a622da852	قَلَقَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	قلق الشيء حرّكه	READER1+READER2
+Q068	HFN-E-c264f0aa26	قَمَرَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	قمر فلانا غلبه في القمار	READER1+READER2
+Q069	HFN-E-5b300925c2	قَابَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	قاب الأرض حفر فيها حفرة مقوّرة	READER1+READER2
+Q070	HFN-E-d182719127	قَاتَ	متعدي(الوسيط v5)	DISAGREE	READ2_BLIND	LA_ATHAR/MUATHTHIR	READER1+READER2
+Q071	HFN-E-da019e8f30	قَادَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	قاد الدابة مشى أمامها آخذا مقودها	READER1+READER2
+Q072	HFN-E-70a68fdbfa	قَافَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	قاف أثره اتّبعه	READER1+READER2
+Q073	HFN-E-f363a2cd26	كَشَدَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	كشد الشيء قطعه بأسنانه	READER1+READER2
+Q074	HFN-E-d9de71a3c9	كَشَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	كشم أنفه قطعه باستئصال	READER1+READER2
+Q075	HFN-E-1898220f80	كَظَرَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	كظر القوس جعل في طرفيها حزّا	READER1+READER2
+Q076	HFN-E-c5416bafc3	كَظَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	كظم السقاء ملأه وسدّ فاه	READER1+READER2
+Q077	HFN-E-3b0801167e	كَعَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	كعم البعير شدّ فاه	READER1+READER2
+Q078	HFN-E-2d2873ce49	كَلَتَ	متعدي(الوسيط v5)	DISAGREE	READ2_BLIND	AYN/DEFER	READER1+READER2
+Q079	HFN-E-35eb640537	كَلَسَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	كلس البناء طلاه بالكلس	READER1+READER2
+Q080	HFN-E-330c34f1e5	لَأَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	لأم الشيء أصلحه، والجرح سدّه	READER1+READER2
+Q081	HFN-E-bd9c2ff332	لَبِسَ	متعدي(الوسيط v5)	DISAGREE	READ2_BLIND	AYN/LA_ATHAR	READER1+READER2
+Q082	HFN-E-ce4659f7a7	لَتَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	لتم منحر البعير طعنه	READER1+READER2
+Q083	HFN-E-79c840a85b	لَثَمَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	لثم فم المرأة قبّله	READER1+READER2
+Q084	HFN-E-57c46275aa	لَحَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	لحم الشيء لأمه، لحم الصائغ الذهب	READER1+READER2
+Q085	HFN-E-0998b1f461	لَخَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	لخم الشيء قطعه، ووجهه لطمه	READER1+READER2
+Q086	HFN-E-b86c3391b8	لَسَّ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	لسّ الشيء أكله ولحسه	READER1+READER2
+Q087	HFN-E-5c3272bd17	لَغَزَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	لغز اليربوع أجحاره حفرها ملتوية	READER1+READER2
+Q088	HFN-E-94069ba9bf	لَقِفَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	لقف الشيء تناوله بسرعة وابتلعه	READER1+READER2
+Q089	HFN-E-1d74e3a1d0	لَقَّ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	لقّ عينه ضربها بيده	READER1+READER2
+Q090	HFN-E-208b70b42e	مَتَرَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	متر الشيء قطعه، والحبل مدّه	READER1+READER2
+Q091	HFN-E-e59e07f9b2	مَرَزَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	مرز جلده قرصه رفيقا بأطراف الأصابع	READER1+READER2
+Q092	HFN-E-85ecb751d6	مَرَعَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	مرع رأسه بالدهن مسحه ورجّله	READER1+READER2
+Q093	HFN-E-4fe133d397	مَزَرَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	مزر اللبن شربه قليلا قليلا	READER1+READER2
+Q094	HFN-E-c26e4a739b	مَشَطَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	مشط الشعر رجّله	READER1+READER2
+Q095	HFN-E-f672ee5154	مَشَطَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	مشط الشعر رجّله	READER1+READER2
+Q096	HFN-E-bf5b16837e	مَغَطَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	مغط الشيء مدّه يستطيله	READER1+READER2
+Q097	HFN-E-ba51a3d3a0	مَقَرَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	مقر عنقه ضربه حتى يكسر العظم	READER1+READER2
+Q098	HFN-E-025e7d530d	مَكَّ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	مكّ العظم مصّ جميع ما فيه	READER1+READER2
+Q099	HFN-E-ea89e244a7	مَارَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	مار أهله أعدّ لهم الميرة	READER1+READER2
+Q100	HFN-E-d964d76eb8	نَبَرَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	نبر الشيء رفعه	READER1+READER2
+Q101	HFN-E-95902a481f	نَتَشَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	نتش الشيء جذبه واستخرجه	READER1+READER2
+Q102	HFN-E-da5cd13d39	نَجَفَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	نجف الشيء حفر فيه ووسّع جوفه	READER1+READER2
+Q103	HFN-E-3f0f314cbd	نَدَحَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	ندح الشيء وسّعه	READER1+READER2
+Q104	HFN-E-6b959e23f8	نَسَرَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	نسر الطائر اللحم نتفه واقتطعه	READER1+READER2
+Q105	HFN-E-d976219d8c	نَطَلَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	نطل الخمر عصرها	READER1+READER2
+Q106	HFN-E-eb5b251da4	نَقَشَ	متعدي(الوسيط v5)	DISAGREE	READ2_BLIND	AYN/MUATHTHIR	READER1+READER2
+Q107	HFN-E-2bd2122ab6	نَقَطَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	نقط الحرف وضع عليه نقطة	READER1+READER2
+Q108	HFN-E-43c831e568	نَقِمَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	نقم الشيء أنكره وعابه	READER1+READER2
+Q109	HFN-E-eccb01d4b1	نَكَأَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	نكأ القرحة قشرها قبل أن تبرأ	READER1+READER2
+Q110	HFN-E-82560af2b4	نَكَدَ	متعدي(الوسيط v5)	LA_ATHAR	READ2_BLIND	نكد حاجة فلان منعه إياها	READER1+READER2
+Q111	HFN-E-07c2565cfd	نَكَى	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	نكى العدو أوقع به وهزمه	READER1+READER2
+Q112	HFN-E-d8763e0437	نَمَقَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	نمق الكتاب كتبه فأحسن	READER1+READER2
+Q113	HFN-E-962d7c1df8	نَاطَ	متعدي(الوسيط v5)	AYN	READ2_BLIND	ناط الشيء بغيره علّقه	READER1+READER2
+Q114	HFN-E-cdf157f085	نَارَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	نار الثوب جعل له خطوطا	READER1+READER2
+Q115	HFN-E-88c08ae13f	هَرَتَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	هرت الشيء شقّه ليوسّعه	READER1+READER2
+Q116	HFN-E-a435069766	هَصَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	هصم الشيء كسره	READER1+READER2
+Q117	HFN-E-bed9d678b7	هَاضَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	هاض العظم كسره بعدما كاد ينجبر	READER1+READER2
+Q118	HFN-E-0cfc8525e0	وَسَعَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	وسع الله رزقه بسطه وكثّره	READER1+READER2
+Q119	HFN-E-cf61713620	وَشَمَ	متعدي(الوسيط v5)	MUATHTHIR	READ2_BLIND	وشم الجلد غرزه بإبرة وذرّ عليه النيلج	READER1+READER2

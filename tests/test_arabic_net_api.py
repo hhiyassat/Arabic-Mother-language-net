@@ -150,7 +150,7 @@ def test_wazn_skips_unresolved_mutawaa_base():
     from arabic_net_api import wazn as W
     fs = [f for f in W.features("تَطَهَّرَ") if f["feature"] == "mutawaa_base"]
     assert all(f["value"] for f in fs)
-    assert all(f["source"] == "mutawaa_v4.tsv" for f in W.features("انْكَسَرَ"))
+    assert all(f["source"] == "mutawaa_v5.tsv" for f in W.features("انْكَسَرَ"))
 
 
 def test_maqayis_combined_naqis_hamza_entries():
