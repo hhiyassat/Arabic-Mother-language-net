@@ -14,7 +14,9 @@ for f in sorted(glob.glob('chunks/C*_CMP.tsv')):
         ok=r['agree']=='1'; c['agree']+=ok
         y='YES' in (r['A'].split('/')[0],r['B'].split('/')[0]); c['y']+=y; c['y_ok']+=y and ok
         if ok and r['A'].startswith('YES'):
-            _,role,dal,mar=r['A'].split('/')
+            CAN={'محل':'محلّ','تضمن':'تضمّن','ذهني':'ذهنيّ','عادي':'عاديّ','عقلي':'عقليّ','شرعي':'شرعيّ'}
+            _,role,dal,mar=[CAN.get(x,x) for x in r['A'].split('/')]
+            r['naw']=CAN.get(r['naw'],r['naw'])
             links.append(dict(event_id=e,root=r['root'],verb=r['verb'],masdar=r['masdar'],mukhassas_sid=sid,path=r['path'],role=role,dalala=dal,luzum_martaba=mar,luzum_naw=r['naw'],
                 dhat=r['dhatA'] if r['dhatA']==r['dhatB'] else f"{r['dhatA']}|{r['dhatB']}",shahid=sn,qawl='على ذكر ابن سيده في المخصّص (باب '+r['path'].split(' › ')[-1]+')',i3timad='CANDIDATE'))
             ev_link.add(e); roots_link.add(r['root'])

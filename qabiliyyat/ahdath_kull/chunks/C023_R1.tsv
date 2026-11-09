@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-bc8e9e155f#1	OTHER_SENSE	-	-	-	-	-	SURE	جزر البر اسم نبات
+HFN-E-bc8e9e155f#2	YES	محلّ	التزام	عاديّ	مطلق	البحر	SURE	جزر البحر يجزر جزرا وانجزر
+HFN-E-bc8e9e155f#3	OTHER_SENSE	-	-	-	-	-	SURE	يشترون الجزر: إبل الذبح اسم ذات
+HFN-E-bc8e9e155f#4	OTHER_SENSE	-	-	-	-	-	SURE	ذو جزر بمعنى القوة (الجرز)
+HFN-E-bc8e9e155f#5	OTHER_SENSE	-	-	-	-	-	SURE	يمزقن الجزر: الجيف اسم ذات
+HFN-E-828bb5e936#1	YES	محلّ	التزام	عاديّ	مطلق	الوادي	UNSURE	قطعته إلى الجانب الآخر وقد جزعته جزعا
+HFN-E-828bb5e936#2	OTHER_SENSE	-	-	-	-	-	SURE	الشديد الجزع: الهلع لا القطع
+HFN-E-828bb5e936#3	OTHER_SENSE	-	-	-	-	-	SURE	هلع هلعا جزع: بمعنى الفزع
+HFN-E-828bb5e936#4	OTHER_SENSE	-	-	-	-	-	SURE	شبيه بالجزع: بمعنى الحزن
+HFN-E-828bb5e936#5	OTHER_SENSE	-	-	-	-	-	SURE	كجزعت جزعا وأنت جزع: الهلع
+HFN-E-51a0d63ba7#1	OTHER_SENSE	-	-	-	-	-	SURE	جزع الوادي منعرجه وقطعه
+HFN-E-51a0d63ba7#2	NO_DHAT	-	-	-	-	-	SURE	الشكع الشديد الجزع بلا ذات
+HFN-E-51a0d63ba7#3	NO_DHAT	-	-	-	-	-	SURE	هلع هلعا جزع
+HFN-E-51a0d63ba7#4	NO_DHAT	-	-	-	-	-	UNSURE	الهكع شبيه بالجزع؛ الإنسان في جملة أخرى
+HFN-E-51a0d63ba7#5	NO_DHAT	-	-	-	-	-	SURE	كجزعت جزعا وأنت جزع
+HFN-E-7d2357969a#1	OTHER_SENSE	-	-	-	-	-	SURE	الجزل اليابس من الحطب
+HFN-E-7d2357969a#2	OTHER_SENSE	-	-	-	-	-	UNSURE	جزل الغارب دبرة: معنى بعيد عن القطع
+HFN-E-7d2357969a#3	OTHER_SENSE	-	-	-	-	-	SURE	العطاء الجزل: الكثرة
+HFN-E-7d2357969a#4	OTHER_SENSE	-	-	-	-	-	SURE	رجل جزل عاقل
+HFN-E-7d2357969a#5	OTHER_SENSE	-	-	-	-	-	SURE	وقودها جزل: غليظ الحطب
+HFN-E-ca044bf60b#1	OTHER_SENSE	-	-	-	-	-	SURE	الجزل اليابس من الحطب
+HFN-E-ca044bf60b#2	YES	محلّ	تضمّن	-	-	الغارب	SURE	الجزل أن يصيب الغارب دبرة؛ بعير في الباب
+HFN-E-ca044bf60b#3	OTHER_SENSE	-	-	-	-	-	SURE	العطاء الجزل
+HFN-E-ca044bf60b#4	OTHER_SENSE	-	-	-	-	-	SURE	رجل جزل عاقل
+HFN-E-ca044bf60b#5	OTHER_SENSE	-	-	-	-	-	SURE	وقودها جزل
+HFN-E-68f64bef12#1	YES	محلّ	التزام	عاديّ	مطلق	الحطب	UNSURE	يقال لما غلظ من الحطب الجزل
+HFN-E-68f64bef12#2	OTHER_SENSE	-	-	-	-	-	SURE	جزل الغارب دبرة: معنى بعيد
+HFN-E-68f64bef12#3	YES	محلّ	التزام	عاديّ	مطلق	امرأة	SURE	امرأة جزلة ذات رأي بينة الجزالة
+HFN-E-68f64bef12#4	NO_DHAT	-	-	-	-	-	SURE	العطاء الجزل: العطاء معنويّ
+HFN-E-68f64bef12#5	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل جزل عاقل
+HFN-E-35606adedb#1	NO_DHAT	-	-	-	-	-	SURE	جزم على الأمر سكت
+HFN-E-35606adedb#2	OTHER_SENSE	-	-	-	-	-	SURE	الجزم اسم ما يحشى به الحياء
+HFN-E-35606adedb#3	OTHER_SENSE	-	-	-	-	-	SURE	الجزم من أبنية النحل اسم
+HFN-E-35606adedb#4	NO_DHAT	-	-	-	-	-	SURE	جزم عن الشيء عجز
+HFN-E-35606adedb#5	YES	محلّ	التزام	عاديّ	مطلق	سلحه	UNSURE	عكى بسلحه وجزم إذا خرج بعضه
+HFN-E-9a38cebc82#1	NO_DHAT	-	-	-	-	-	SURE	الجزاء المكافأة جزيته عليه
+HFN-E-9a38cebc82#2	YES	محلّ	التزام	عاديّ	مطلق	العارف	UNSURE	أما جزاء العارف المستيقن
+HFN-E-9a38cebc82#3	NO_DHAT	-	-	-	-	-	SURE	الدين الحساب والجزاء
+HFN-E-9a38cebc82#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الجزية خراج الأرض اسم
+HFN-E-9a38cebc82#5	OTHER_SENSE	-	-	-	-	-	SURE	إذا الذي هو جزاء وجواب: مصطلح نحوي
+HFN-E-55d53b358a#1	OTHER_SENSE	-	-	-	-	-	SURE	تظهر في الجسد: البدن
+HFN-E-55d53b358a#2	OTHER_SENSE	-	-	-	-	-	SURE	يعتري الجسد: البدن
+HFN-E-55d53b358a#3	OTHER_SENSE	-	-	-	-	-	UNSURE	ما لزق بالجسد: البدن
+HFN-E-55d53b358a#4	OTHER_SENSE	-	-	-	-	-	SURE	صفحة الجسد
+HFN-E-55d53b358a#5	OTHER_SENSE	-	-	-	-	-	SURE	سوداء الجسد
+HFN-E-57aaaba0d4#1	OTHER_SENSE	-	-	-	-	-	SURE	الجسر القنطرة اسم
+HFN-E-57aaaba0d4#2	OTHER_SENSE	-	-	-	-	-	UNSURE	جسر طويل ضخم: العظم لا الجسارة
+HFN-E-57aaaba0d4#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل جسر ماض شجاع وقد جسر جسارة
+HFN-E-57aaaba0d4#4	YES	فاعل	التزام	عاديّ	مطلق	المتنبيء	UNSURE	وقد جسر عليه المتنبيء جاهلا به
+HFN-E-57aaaba0d4#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الجسرة العظيمة من الإبل
+HFN-E-f4e8975132#1	OTHER_SENSE	-	-	-	-	-	SURE	ذهاب الجسم: البدن
+HFN-E-f4e8975132#2	OTHER_SENSE	-	-	-	-	-	SURE	الخفيف الجسم
+HFN-E-f4e8975132#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل جسيم وجسام والأنثى جسيمة
+HFN-E-f4e8975132#4	OTHER_SENSE	-	-	-	-	-	SURE	مديد الجسم
+HFN-E-f4e8975132#5	OTHER_SENSE	-	-	-	-	-	SURE	الحسنة الجسم
+HFN-E-4bbb9c6376#1	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام جشب ليس معه أدم وقد جشب
+HFN-E-4bbb9c6376#2	NO_DHAT	-	-	-	-	-	UNSURE	والجشب الغليظ؛ الظليم في جملة أخرى
+HFN-E-4bbb9c6376#3	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام جشب بين الجشابة والجشوبة
+HFN-E-4bbb9c6376#4	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام جشيب غليظ خشن
+HFN-E-4bbb9c6376#5	YES	محلّ	التزام	عاديّ	مطلق	القدح	SURE	الجنبل القدح الضخم الجشب النحت
+HFN-E-dcb4a4f855#1	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام جشب ليس معه أدم وقد جشب
+HFN-E-dcb4a4f855#2	NO_DHAT	-	-	-	-	-	UNSURE	والجشب الغليظ؛ الظليم في جملة أخرى
+HFN-E-dcb4a4f855#3	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام جشب بين الجشابة والجشوبة
+HFN-E-dcb4a4f855#4	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام جشيب غليظ خشن
+HFN-E-dcb4a4f855#5	YES	محلّ	التزام	عاديّ	مطلق	القدح	SURE	الجنبل القدح الضخم الجشب النحت
+HFN-E-902ad06337#1	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام جشب ليس معه أدم وقد جشب جشوبة
+HFN-E-902ad06337#2	NO_DHAT	-	-	-	-	-	UNSURE	والجشب الغليظ؛ الظليم في جملة أخرى
+HFN-E-902ad06337#3	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام جشب بين الجشابة والجشوبة
+HFN-E-902ad06337#4	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام جشيب غليظ خشن
+HFN-E-902ad06337#5	YES	محلّ	التزام	عاديّ	مطلق	القدح	SURE	الجنبل القدح الضخم الجشب النحت
+HFN-E-55127b47f7#1	NO_DHAT	-	-	-	-	-	UNSURE	جشر الصبح طلع: الصبح لفظ زمان
+HFN-E-55127b47f7#2	YES	محلّ	التزام	عاديّ	مطلق	مال	UNSURE	مال جشر يرعى في مكانه؛ والقوم جشر
+HFN-E-55127b47f7#3	YES	محلّ	التزام	عاديّ	مطلق	صدره	UNSURE	خشونة في صدره المجشور وبه جشر
+HFN-E-55127b47f7#4	OTHER_SENSE	-	-	-	-	-	SURE	الجشير الجوالق جمعه جشر
+HFN-E-55127b47f7#5	OTHER_SENSE	-	-	-	-	-	SURE	الجشر حجارة تنبت في البحر
+HFN-E-46e1bedaf8#1	OTHER_SENSE	-	-	-	-	-	UNSURE	جشر الصبح طلع: معنى بعيد
+HFN-E-46e1bedaf8#2	OTHER_SENSE	-	-	-	-	-	UNSURE	مال جشر يرعى: معنى بعيد
+HFN-E-46e1bedaf8#3	YES	محلّ	التزام	عاديّ	مطلق	صدره	SURE	خشونة في صدره المجشور وبه جشرة وجشر
+HFN-E-46e1bedaf8#4	OTHER_SENSE	-	-	-	-	-	SURE	الجشير الجوالق جمعه جشر
+HFN-E-46e1bedaf8#5	OTHER_SENSE	-	-	-	-	-	SURE	الجشر حجارة في البحر
+HFN-E-5c6d15462d#1	YES	محلّ	تضمّن	-	-	الطعام	UNSURE	الجشع قبح الرغبة في أكل الطعام
+HFN-E-5c6d15462d#2	NO_DHAT	-	-	-	-	-	SURE	الضماضم الجشع المستأثر
+HFN-E-5c6d15462d#3	NO_DHAT	-	-	-	-	-	SURE	الجشع الذي يتخلق بالباطل
+HFN-E-3156008bd1#1	OTHER_SENSE	-	-	-	-	-	SURE	جشم البعير صدره اسم عضو
+HFN-E-3156008bd1#2	OTHER_SENSE	-	-	-	-	-	SURE	جشم بن بكر علم
+HFN-E-3156008bd1#3	OTHER_SENSE	-	-	-	-	-	SURE	بني جشم بن بكر علم
+HFN-E-3156008bd1#4	OTHER_SENSE	-	-	-	-	-	UNSURE	لا يرد اللفظ في المقتطف؛ أسماء خيل
+HFN-E-3a6215d03a#1	YES	محلّ	التزام	عقليّ	ذهنيّ	الجعبة	UNSURE	الجعبة وعاء السهام وقد جعبها
+HFN-E-f0f6e06456#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	الجعر ما يبس في الدبر ورجل مجعار
+HFN-E-f0f6e06456#2	OTHER_SENSE	-	-	-	-	-	UNSURE	جعار علم الضبع من الجعر
+HFN-E-f0f6e06456#3	OTHER_SENSE	-	-	-	-	-	UNSURE	جعر السبع: اسم الخرء في الباب
+HFN-E-a5260e0e1c#1	YES	محلّ	التزام	عاديّ	مطلق	الغيل	SURE	وقد جعل أوس الغيل من عظام الشجر؛ أوس فاعل
+HFN-E-a5260e0e1c#2	OTHER_SENSE	-	-	-	-	-	SURE	الجعل دويبة اسم حيوان
+HFN-E-a5260e0e1c#3	YES	محلّ	التزام	عاديّ	مطلق	اللبن	SURE	جعل اللبن بمنزلة الخمر
+HFN-E-a5260e0e1c#4	OTHER_SENSE	-	-	-	-	-	SURE	حف الجعل اسم حيوان
+HFN-E-a5260e0e1c#5	YES	محلّ	التزام	عاديّ	مطلق	صلعته	SURE	فجعل صلعته كالخطيطة
+HFN-E-39b5092982#1	OTHER_SENSE	-	-	-	-	-	SURE	جعل أوس الغيل: معنى بعيد
+HFN-E-39b5092982#2	YES	فاعل	التزام	عقليّ	ذهنيّ	الجعلان	UNSURE	ماء جعل ماتت فيه الخنافس الجعلان؛ الماء محلّ
+HFN-E-39b5092982#3	OTHER_SENSE	-	-	-	-	-	SURE	جعل اللبن بمنزلة الخمر: معنى بعيد
+HFN-E-39b5092982#4	OTHER_SENSE	-	-	-	-	-	SURE	حف الجعل اسم حيوان
+HFN-E-39b5092982#5	OTHER_SENSE	-	-	-	-	-	SURE	فجعل صلعته: معنى بعيد
+HFN-E-562defc525#1	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	جعم إلى اللحم جعما قرم؛ رجل جيعم
+HFN-E-562defc525#2	NO_DHAT	-	-	-	-	-	SURE	جعم يجعم جعما طمع
+HFN-E-562defc525#3	YES	محلّ	تضمّن	-	-	الطعام	SURE	جعم جعما لم يشته الطعام
+HFN-E-562defc525#4	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل جعم وامرأة جعمة في كلامهما غلظ
+HFN-E-562defc525#5	YES	محلّ	التزام	عاديّ	مطلق	بعير	SURE	بعير أجعم وقد جعم جعما
+HFN-E-b327988403#1	YES	فاعل	تضمّن	-	-	الوادي	UNSURE	جفأ الوادي إذا رمى بالزبد والقذر
+HFN-E-b327988403#2	OTHER_SENSE	-	-	-	-	-	SURE	جفا الشيء جفاء من الجفوة
+HFN-E-b327988403#3	OTHER_SENSE	-	-	-	-	-	SURE	جفا صوته: من الجفاء
+HFN-E-b327988403#4	OTHER_SENSE	-	-	-	-	-	SURE	إذا جفا: من الجفاف
+HFN-E-b327988403#5	YES	فاعل	تضمّن	-	-	القدر	SURE	جفأت القدر تجفأ جفأ رمت بزبدها
+HFN-E-7144a7054a#1	OTHER_SENSE	-	-	-	-	-	SURE	الجفر البئر اسم
+HFN-E-7144a7054a#2	OTHER_SENSE	-	-	-	-	-	UNSURE	جفر اسم سنّ الصبي وأجفر بطنه
+HFN-E-7144a7054a#3	YES	فاعل	التزام	عاديّ	مطلق	الفحل	UNSURE	أكثر ضرابها حتى يتركها قيل جفر يجفر
+HFN-E-7144a7054a#4	YES	فاعل	التزام	عاديّ	مطلق	الفحل	SURE	وجفر الفحل فأضحى قد هجف
+HFN-E-7144a7054a#5	OTHER_SENSE	-	-	-	-	-	SURE	الواحد جفر اسم ولد المعزى
+HFN-E-d319730e45#1	YES	فاعل	التزام	عاديّ	مطلق	الجفل	UNSURE	سمي جفلا لأنه فرغ ماءه ثم انجفل
+HFN-E-d319730e45#2	YES	محلّ	التزام	عاديّ	مطلق	الشعر	SURE	جافل الشعر أي شعث وقد جفل
+HFN-E-d319730e45#3	YES	فاعل	التزام	عاديّ	مطلق	ظليم	SURE	ظليم إجفيل سريع وقد جفل يجفل
+HFN-E-d319730e45#4	OTHER_SENSE	-	-	-	-	-	SURE	الجفل ضرب من النمل
+HFN-E-ace4a49670#1	OTHER_SENSE	-	-	-	-	-	SURE	الجفن جفن العين
+HFN-E-ace4a49670#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الجفن الكرم وتجفن تمكن
+HFN-E-ace4a49670#3	OTHER_SENSE	-	-	-	-	-	SURE	لكل عين جفنان
+HFN-E-ace4a49670#4	OTHER_SENSE	-	-	-	-	-	SURE	الجفن الغمد
+HFN-E-ace4a49670#5	OTHER_SENSE	-	-	-	-	-	SURE	الجفن شجر طيب الريح
+HFN-E-a171d2af0e#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	الجفاء نقيض الصلة ورجل فيه جفوة
+HFN-E-a171d2af0e#2	OTHER_SENSE	-	-	-	-	-	SURE	الجفاء الزبد من جفأ
+HFN-E-a171d2af0e#3	OTHER_SENSE	-	-	-	-	-	SURE	جفأت القدر وهو الجفاء: الزبد
+HFN-E-a171d2af0e#4	OTHER_SENSE	-	-	-	-	-	SURE	الجفاء الباطل
+HFN-E-a171d2af0e#5	NO_DHAT	-	-	-	-	-	SURE	وجفا صوته؛ الصوت ليس ذاتا
+HFN-E-68356cf071#1	YES	محلّ	تضمّن	-	-	الفرس	UNSURE	الجلب أن يتخلف الفرس فيحرك وراءه
+HFN-E-68356cf071#2	OTHER_SENSE	-	-	-	-	-	SURE	الجلب سحاب رقيق
+HFN-E-68356cf071#3	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	الجلوبة الإبل؛ الجلب السوق؛ عبد جليب
+HFN-E-68356cf071#4	NO_DHAT	-	-	-	-	-	SURE	زمجر زمجرة جلب
+HFN-E-68356cf071#5	YES	فاعل	التزام	عاديّ	مطلق	الجيش	UNSURE	ويقود الجيش ذا الجلب
+HFN-E-62afd888e1#1	YES	محلّ	تضمّن	-	-	الفرس	UNSURE	الجلب أن يتخلف الفرس فيحرك وراءه
+HFN-E-62afd888e1#2	OTHER_SENSE	-	-	-	-	-	SURE	الجلب سحاب رقيق
+HFN-E-62afd888e1#3	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	الجلوبة الإبل؛ جلبت الشيء سقته
+HFN-E-62afd888e1#4	NO_DHAT	-	-	-	-	-	SURE	زمجر زمجرة جلب
+HFN-E-62afd888e1#5	YES	فاعل	التزام	عاديّ	مطلق	الجيش	UNSURE	ويقود الجيش ذا الجلب
+HFN-E-50ed919e4f#1	YES	فاعل	تضمّن	-	-	الماشية	SURE	الجلح للمرعى أن لا تترك الماشية فيه شيئا
+HFN-E-50ed919e4f#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الجلح ذهاب شعر مقدم الرأس: معنى آخر
+HFN-E-f4d59475f4#1	OTHER_SENSE	-	-	-	-	-	UNSURE	جلح المرعى: معنى آخر
+HFN-E-f4d59475f4#2	YES	محلّ	التزام	عاديّ	مطلق	الرأس	UNSURE	الجلح أن يذهب من مقدمه شيء
+HFN-E-952036ec75#1	YES	فاعل	تضمّن	-	-	السيل	SURE	جلخ السيل الوادي جلخا قطع أجرافه
+HFN-E-952036ec75#2	YES	محلّ	تضمّن	-	-	الوادي	SURE	جلخ السيل الوادي قلع أجرافه؛ السيل فاعل
+HFN-E-952036ec75#3	OTHER_SENSE	-	-	-	-	-	SURE	جلخ جمع جلواخ اسم وادٍ
+HFN-E-500ebbad74#1	OTHER_SENSE	-	-	-	-	-	SURE	جلد مدبوغ: الإهاب
+HFN-E-500ebbad74#2	OTHER_SENSE	-	-	-	-	-	SURE	الجلد والجلد واحد: الإهاب
+HFN-E-500ebbad74#3	OTHER_SENSE	-	-	-	-	-	SURE	سلخ الجلد: الإهاب
+HFN-E-500ebbad74#4	OTHER_SENSE	-	-	-	-	-	SURE	في الجلد بين القف والرمل: أرض
+HFN-E-500ebbad74#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الجلد الشدة: غير الضرب بالسوط
+HFN-E-5e15bf8dbc#1	OTHER_SENSE	-	-	-	-	-	SURE	جلد مدبوغ: الإهاب
+HFN-E-5e15bf8dbc#2	OTHER_SENSE	-	-	-	-	-	SURE	الجلد والجلد واحد: الإهاب
+HFN-E-5e15bf8dbc#3	OTHER_SENSE	-	-	-	-	-	SURE	سلخ الجلد: الإهاب
+HFN-E-5e15bf8dbc#4	OTHER_SENSE	-	-	-	-	-	SURE	في الجلد بين القف والرمل: أرض
+HFN-E-5e15bf8dbc#5	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	الجلد الشدة والقوة رجل جلد وجليد
+HFN-E-32df365e0e#1	OTHER_SENSE	-	-	-	-	-	SURE	جلد مدبوغ: الإهاب
+HFN-E-32df365e0e#2	OTHER_SENSE	-	-	-	-	-	SURE	الجلد والجلد واحد: الإهاب
+HFN-E-32df365e0e#3	OTHER_SENSE	-	-	-	-	-	SURE	سلخ الجلد: الإهاب
+HFN-E-32df365e0e#4	OTHER_SENSE	-	-	-	-	-	SURE	في الجلد بين القف والرمل: أرض
+HFN-E-32df365e0e#5	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل جلد وجليد وقد جلد جلادة
+HFN-E-144a0dcf66#1	NO_DHAT	-	-	-	-	-	UNSURE	أصل الجلز الطي واللي؛ جلز السوط معظمه
+HFN-E-144a0dcf66#2	NO_DHAT	-	-	-	-	-	UNSURE	الجلوز من الجلز وهو الطي واللي
+HFN-E-0f297baeea#1	NO_DHAT	-	-	-	-	-	SURE	جلس يجلس جلوسا
+HFN-E-0f297baeea#2	NO_DHAT	-	-	-	-	-	SURE	الذي إذا جلس لم يكد يبرح
+HFN-E-0f297baeea#3	OTHER_SENSE	-	-	-	-	-	SURE	الجليس والجلس الصلب من العسل
+HFN-E-0f297baeea#4	OTHER_SENSE	-	-	-	-	-	SURE	ناقة جلس شديدة
+HFN-E-0f297baeea#5	YES	مكان	التزام	عاديّ	مطلق	البيت	UNSURE	فلان جلس بيته إذا لم يبرح منه
+HFN-E-3bf7a58b31#1	YES	محلّ	تضمّن	-	-	الشفة	SURE	الجلع انقلاب غطاء الشفة إلى الشارب
+HFN-E-3bf7a58b31#2	YES	محلّ	تضمّن	-	-	القلفة	SURE	جلع القلفة أن تصير خلف الحوق؛ الغلام أجلع
+HFN-E-3bf7a58b31#3	NO_DHAT	-	-	-	-	-	UNSURE	الجلعة التي ألقت عنها الحياء جلعت
+HFN-E-487f881bf4#1	OTHER_SENSE	-	-	-	-	-	SURE	الجلف الفحال اسم نخل
+HFN-E-487f881bf4#2	NO_DHAT	-	-	-	-	-	SURE	الجلف القطع جلف يجلف
+HFN-E-487f881bf4#3	YES	محلّ	التزام	عاديّ	مطلق	أشعث	UNSURE	وأشعث مما جلف الدهر محثل
+HFN-E-487f881bf4#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الجلف الأعرابي الجافي: معنى بعيد
+HFN-E-487f881bf4#5	OTHER_SENSE	-	-	-	-	-	SURE	الجلف كل ظرف ووعاء
+HFN-E-a1ec6cf550#1	OTHER_SENSE	-	-	-	-	-	SURE	الجلف الفحال اسم نخل
+HFN-E-a1ec6cf550#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الجلف القطع: معنى بعيد
+HFN-E-a1ec6cf550#3	OTHER_SENSE	-	-	-	-	-	UNSURE	جلف الدهر: القطع معنى بعيد
+HFN-E-a1ec6cf550#4	YES	محلّ	التزام	عاديّ	مطلق	الأعرابي	UNSURE	الجلف الأعرابي الجافي
+HFN-E-a1ec6cf550#5	OTHER_SENSE	-	-	-	-	-	SURE	الجلف كل ظرف ووعاء
+HFN-E-74d1dddac4#1	NO_DHAT	-	-	-	-	-	UNSURE	ثم الجله ثم الجلا بلا ذات صريحة
+HFN-E-74d1dddac4#2	OTHER_SENSE	-	-	-	-	-	SURE	ما جله على ذلك إلا اللؤم
+HFN-E-74d1dddac4#3	OTHER_SENSE	-	-	-	-	-	SURE	أكبره وأجله من الجلال
+HFN-E-b55448b3ac#1	NO_DHAT	-	-	-	-	-	SURE	جلوت الأمر كشفته
+HFN-E-b55448b3ac#2	OTHER_SENSE	-	-	-	-	-	SURE	الوجل ووجال لفظ آخر
+HFN-E-b55448b3ac#3	YES	آلة	التزام	عاديّ	مطلق	الكحل	SURE	الجلا الكحل لأنه يجلو العين؛ العين محلّ
+HFN-E-b55448b3ac#4	OTHER_SENSE	-	-	-	-	-	SURE	جلأ بثوبه رمى به: جذر آخر
+HFN-E-b55448b3ac#5	YES	محلّ	تضمّن	-	-	النحل	SURE	جلوة النحل أي طردها بالدخان
+HFN-E-6f310a451e#1	YES	محلّ	تضمّن	-	-	الخيل	SURE	جمخ الخيل يجمخها جمخا أرسلها
+HFN-E-6f310a451e#2	NO_DHAT	-	-	-	-	-	SURE	يجمخ جمخا وهو جامخ فاخرته
+HFN-E-6f310a451e#3	YES	محلّ	تضمّن	-	-	اللحم	SURE	جمخ اللحم كخمج
+HFN-E-6f310a451e#4	YES	فاعل	التزام	عاديّ	مطلق	الصبيان	SURE	جمخ الصبيان بالكعاب؛ الكعاب آلة
+HFN-E-6f310a451e#5	YES	مصدر	تضمّن	-	-	القداح	UNSURE	الجمخ صوت إجالتك القداح
+HFN-E-d86065cda3#1	YES	محلّ	التزام	عاديّ	مطلق	الماء	SURE	الثلج ما جمد من الماء
+HFN-E-d86065cda3#2	YES	محلّ	التزام	عاديّ	مطلق	السمن	SURE	جمس السمن يبس وجمد
+HFN-E-d86065cda3#3	YES	محلّ	التزام	عاديّ	مطلق	الماء	SURE	قرس الماء جمد
+HFN-E-d86065cda3#4	OTHER_SENSE	-	-	-	-	-	SURE	الجمد مكان مرتفع غليظ
+HFN-E-d86065cda3#5	YES	محلّ	التزام	عاديّ	مطلق	الرمص	SURE	والرمص ما جمد
+HFN-E-ffa65e5076#1	YES	محلّ	التزام	عاديّ	مطلق	الماء	SURE	الثلج ما جمد من الماء
+HFN-E-ffa65e5076#2	OTHER_SENSE	-	-	-	-	-	SURE	الجمد مكان مرتفع والجمع جماد
+HFN-E-ffa65e5076#3	YES	محلّ	التزام	عاديّ	مطلق	السمن	SURE	جمس السمن يبس وجمد
+HFN-E-ffa65e5076#4	YES	محلّ	التزام	عاديّ	مطلق	الماء	SURE	قرس الماء جمد
+HFN-E-ffa65e5076#5	OTHER_SENSE	-	-	-	-	-	SURE	أجروها مجرى جمد: جمع
+HFN-E-6d747af9c5#1	OTHER_SENSE	-	-	-	-	-	SURE	يدفن في الجمر اسم
+HFN-E-6d747af9c5#2	OTHER_SENSE	-	-	-	-	-	SURE	جعلته على الجمر اسم
+HFN-E-6d747af9c5#3	OTHER_SENSE	-	-	-	-	-	SURE	ما بقي له جمر اسم
+HFN-E-6d747af9c5#4	OTHER_SENSE	-	-	-	-	-	SURE	الملة وهي الجمر اسم
+HFN-E-6d747af9c5#5	OTHER_SENSE	-	-	-	-	-	SURE	لوح على الجمر اسم
+HFN-E-d4a76f057a#1	NO_DHAT	-	-	-	-	-	UNSURE	الجمز أشد من العنق بلا ذات
+HFN-E-d4a76f057a#2	OTHER_SENSE	-	-	-	-	-	SURE	الجمز ما يبقى في أصل الطلع
+HFN-E-df36ab60f6#1	YES	محلّ	تضمّن	-	-	السمن	SURE	جمس السمن يجمس جموسا يبس
+HFN-E-df36ab60f6#2	YES	محلّ	التزام	عاديّ	مطلق	الودك	SURE	جمس الودك والسمن ونحوهما
+HFN-E-df36ab60f6#3	YES	محلّ	التزام	عاديّ	مطلق	المذنب	UNSURE	إذا طلع العقرب جمس المذنب
+HFN-E-df36ab60f6#4	NO_DHAT	-	-	-	-	-	SURE	وجمس جمد
+HFN-E-df36ab60f6#5	YES	محلّ	التزام	عاديّ	مطلق	الماء	SURE	أقرس العود جمس فيه الماء
+HFN-E-b21f4dfdcf#1	YES	آلة	التزام	عاديّ	مطلق	النورة	UNSURE	جمشته النورة حلقته؛ ركب جميش
+HFN-E-b21f4dfdcf#2	YES	محلّ	التزام	عاديّ	مطلق	المرأة	UNSURE	الجمش المغازلة يقرصها ويلاعبها
+HFN-E-b21f4dfdcf#3	YES	آلة	تضمّن	-	-	الأصابع	SURE	الجمش ضرب من الحلب بأطراف الأصابع
+HFN-E-95c0dd8f04#1	OTHER_SENSE	-	-	-	-	-	SURE	والجمع حلي: مصطلح الجمع
+HFN-E-95c0dd8f04#2	OTHER_SENSE	-	-	-	-	-	SURE	جمع الجنين أجنة: مصطلح
+HFN-E-95c0dd8f04#3	NO_DHAT	-	-	-	-	-	UNSURE	جمع يجمع جمعا فتجمع واجتمع
+HFN-E-95c0dd8f04#4	OTHER_SENSE	-	-	-	-	-	SURE	يجمع كروانات: مصطلح
+HFN-E-95c0dd8f04#5	OTHER_SENSE	-	-	-	-	-	SURE	والجمع صريم: مصطلح
+HFN-E-220f755fbb#1	OTHER_SENSE	-	-	-	-	-	SURE	جمل جلس اسم حيوان
+HFN-E-220f755fbb#2	OTHER_SENSE	-	-	-	-	-	SURE	الجمل الضخم اسم حيوان
+HFN-E-220f755fbb#3	OTHER_SENSE	-	-	-	-	-	SURE	جمل ذلول اسم حيوان
+HFN-E-220f755fbb#4	NO_DHAT	-	-	-	-	-	SURE	جمل جمالا وجميل بلا ذات
+HFN-E-220f755fbb#5	OTHER_SENSE	-	-	-	-	-	SURE	جمل ناحل اسم حيوان
+HFN-E-a90f4a7398#1	OTHER_SENSE	-	-	-	-	-	UNSURE	جاؤا جماء غفيرا: من الجمّ
+HFN-E-a90f4a7398#2	OTHER_SENSE	-	-	-	-	-	SURE	كبش أجم والأنثى جماء
+HFN-E-a90f4a7398#3	OTHER_SENSE	-	-	-	-	-	SURE	الجماء الغفير
+HFN-E-a90f4a7398#4	OTHER_SENSE	-	-	-	-	-	SURE	الجماء من البقر لا قرن لها
+HFN-E-a90f4a7398#5	OTHER_SENSE	-	-	-	-	-	SURE	والجمى نبات عجمي
+HFN-E-44ddfc96eb#1	YES	محلّ	تضمّن	-	-	العنق	SURE	الجنأ إقبال العنق إلى الصدر؛ رجل أجنأ
+HFN-E-44ddfc96eb#2	OTHER_SENSE	-	-	-	-	-	SURE	جننت الشيء سترته: جذر آخر
+HFN-E-44ddfc96eb#3	OTHER_SENSE	-	-	-	-	-	SURE	جن في الرحم: جذر آخر
+HFN-E-44ddfc96eb#4	OTHER_SENSE	-	-	-	-	-	SURE	جننت الميت: جذر آخر
+HFN-E-b3e7223784#1	YES	محلّ	تضمّن	-	-	العنق	SURE	وجنئ جنأ خلقة؛ الجنأ إقبال العنق
+HFN-E-e8026e2790#1	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	الجنب أن يشتد عطشها حتى تلزق الرئة بالجنب
+HFN-E-e8026e2790#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل جنب بين الجنبة والجنابة غريب
+HFN-E-e8026e2790#3	YES	محلّ	التزام	عاديّ	مطلق	جار	SURE	جار جنب ذو جنابة
+HFN-E-e8026e2790#4	NO_DHAT	-	-	-	-	-	UNSURE	لا جلب ولا جنب والجنب أن (مبتور)
+HFN-E-e8026e2790#5	OTHER_SENSE	-	-	-	-	-	SURE	سمة في الجنب: عضو
+HFN-E-6929ab1bef#1	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	الجنب أن يشتد عطشها حتى تلزق الرئة
+HFN-E-6929ab1bef#2	OTHER_SENSE	-	-	-	-	-	SURE	سمة في الجنب: عضو
+HFN-E-6929ab1bef#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل جنب بين الجنبة والجنابة
+HFN-E-6929ab1bef#4	YES	محلّ	التزام	عاديّ	مطلق	جار	SURE	جار جنب ذو جنابة
+HFN-E-6929ab1bef#5	NO_DHAT	-	-	-	-	-	UNSURE	لا جلب ولا جنب والجنب أن (مبتور)

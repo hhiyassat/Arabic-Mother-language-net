@@ -1,0 +1,255 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-fc965d834b#1	OTHER_SENSE	-	-	-	-	-	SURE	الظلف اسم للحافر لا حدث
+HFN-E-fc965d834b#2	OTHER_SENSE	-	-	-	-	-	SURE	الظلف اسم للحافر
+HFN-E-fc965d834b#3	OTHER_SENSE	-	-	-	-	-	SURE	المخلب والظلف اسم ذات
+HFN-E-fc965d834b#4	OTHER_SENSE	-	-	-	-	-	SURE	الخف والظلف والحافر أسماء
+HFN-E-fc965d834b#5	OTHER_SENSE	-	-	-	-	-	SURE	ذات ظلف اسم
+HFN-E-652edf8898#1	NO_DHAT	-	-	-	-	-	SURE	وضع الشيء في غير موضعه بلا ذات
+HFN-E-652edf8898#2	OTHER_SENSE	-	-	-	-	-	SURE	الظلم ماء الأسنان اسم
+HFN-E-652edf8898#3	OTHER_SENSE	-	-	-	-	-	SURE	أدنى ظلم أي شخص
+HFN-E-652edf8898#4	OTHER_SENSE	-	-	-	-	-	UNSURE	ظلم جمع ظلماء بمعنى الظلمة لا الجور
+HFN-E-652edf8898#5	OTHER_SENSE	-	-	-	-	-	UNSURE	ظلم الليل من الظلمة لا الجور
+HFN-E-84c5542623#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الظلم وضع الشيء في غير موضعه معنى الجور
+HFN-E-84c5542623#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الظلم ماء الأسنان اسم
+HFN-E-84c5542623#3	OTHER_SENSE	-	-	-	-	-	SURE	أدنى ظلم أي شخص
+HFN-E-84c5542623#4	YES	زمان	التزام	عاديّ	مطلق	ليلة	UNSURE	ليلة ظلماء وسائرها مظلم
+HFN-E-84c5542623#5	YES	زمان	تضمّن	-	-	الليل	UNSURE	الظلمة جماع سواد الليل؛ ظلم الليل؛ أظلم القوم
+HFN-E-b5b245663b#1	YES	محلّ	التزام	عاديّ	مطلق	حمار	UNSURE	ما بقي منه إلا ظمء حمار
+HFN-E-b5b245663b#2	YES	محلّ	التزام	عاديّ	مطلق	الإبل	SURE	عطشت الإبل إذا زدت على ظمئها
+HFN-E-68bf5367e4#1	YES	محلّ	تضمّن	-	-	اللثة	SURE	الظمى قلة دم اللثة ولحمها
+HFN-E-68bf5367e4#2	YES	محلّ	تضمّن	-	-	الشفة	SURE	الظمى ذبول الشفة من العطش
+HFN-E-68bf5367e4#3	YES	محلّ	التزام	عاديّ	مطلق	الرماح	UNSURE	من الرماح الأظمى وهو الأسمر
+HFN-E-ec8a4acca5#1	OTHER_SENSE	-	-	-	-	-	SURE	الظهر عضو لا حدث
+HFN-E-ec8a4acca5#2	OTHER_SENSE	-	-	-	-	-	SURE	الظهر عضو
+HFN-E-ec8a4acca5#3	OTHER_SENSE	-	-	-	-	-	SURE	مستوى الظهر عضو
+HFN-E-ec8a4acca5#4	OTHER_SENSE	-	-	-	-	-	SURE	لم يكن له ظهر أي مركوب
+HFN-E-ec8a4acca5#5	OTHER_SENSE	-	-	-	-	-	SURE	الظهر أغبر عضو
+HFN-E-1965cdd727#1	OTHER_SENSE	-	-	-	-	-	SURE	الظهر عضو
+HFN-E-1965cdd727#2	OTHER_SENSE	-	-	-	-	-	SURE	أعراض الظهر اسم العضو
+HFN-E-1965cdd727#3	OTHER_SENSE	-	-	-	-	-	SURE	مستوى الظهر عضو
+HFN-E-1965cdd727#4	OTHER_SENSE	-	-	-	-	-	SURE	لم يكن له ظهر أي مركوب
+HFN-E-1965cdd727#5	OTHER_SENSE	-	-	-	-	-	SURE	ظهر الكدرية عضو
+HFN-E-524dc44ed7#1	OTHER_SENSE	-	-	-	-	-	UNSURE	العبء الثقل اسم للحمل
+HFN-E-524dc44ed7#2	OTHER_SENSE	-	-	-	-	-	SURE	عب يعب من جذر آخر
+HFN-E-524dc44ed7#3	OTHER_SENSE	-	-	-	-	-	SURE	لا يحمل العبء اسم
+HFN-E-524dc44ed7#4	OTHER_SENSE	-	-	-	-	-	SURE	بزم بالعبء اسم للحمل
+HFN-E-524dc44ed7#5	OTHER_SENSE	-	-	-	-	-	SURE	رب العباد كلمة أخرى
+HFN-E-94d75219cb#1	OTHER_SENSE	-	-	-	-	-	SURE	العبد الإنسان اسم ذات
+HFN-E-94d75219cb#2	YES	فاعل	التزام	عاديّ	مطلق	فلان	UNSURE	تعبد فلان لفلان إذا تذلل له
+HFN-E-94d75219cb#3	OTHER_SENSE	-	-	-	-	-	SURE	عبد الله أعلام
+HFN-E-94d75219cb#4	YES	محلّ	التزام	عاديّ	مطلق	الطاغوت	UNSURE	اجتنبوا الطاغوت أن يعبدوها؛ ما عبد من دون الله
+HFN-E-94d75219cb#5	OTHER_SENSE	-	-	-	-	-	SURE	معبد وعبد الله أعلام
+HFN-E-e0d2936c7b#1	OTHER_SENSE	-	-	-	-	-	SURE	العبد اسم ذات
+HFN-E-e0d2936c7b#2	OTHER_SENSE	-	-	-	-	-	UNSURE	العبادة والتذلل بعيد عن عبد بمعنى أنف
+HFN-E-e0d2936c7b#3	OTHER_SENSE	-	-	-	-	-	SURE	أعلام
+HFN-E-e0d2936c7b#4	OTHER_SENSE	-	-	-	-	-	UNSURE	يعبدوها من العبادة بعيد
+HFN-E-e0d2936c7b#5	OTHER_SENSE	-	-	-	-	-	SURE	معبد وعبد الله علمان
+HFN-E-720ad324c7#1	OTHER_SENSE	-	-	-	-	-	UNSURE	العبد اسم ذات
+HFN-E-720ad324c7#2	OTHER_SENSE	-	-	-	-	-	UNSURE	العبد والعبادة لا عبودة
+HFN-E-720ad324c7#3	OTHER_SENSE	-	-	-	-	-	SURE	أعلام
+HFN-E-720ad324c7#4	OTHER_SENSE	-	-	-	-	-	UNSURE	يعبدوها من العبادة
+HFN-E-720ad324c7#5	OTHER_SENSE	-	-	-	-	-	SURE	عبد الحرث علم
+HFN-E-e8384fbb66#1	OTHER_SENSE	-	-	-	-	-	SURE	عبر بمعنى بكى بعيد عن العبور
+HFN-E-e8384fbb66#2	OTHER_SENSE	-	-	-	-	-	SURE	العبر الكثير
+HFN-E-e8384fbb66#3	OTHER_SENSE	-	-	-	-	-	SURE	عبر الرجل حزن بعيد
+HFN-E-e8384fbb66#4	YES	فاعل	التزام	عاديّ	مطلق	ناقة	UNSURE	ناقة عبر أسفار قوية عليه
+HFN-E-e8384fbb66#5	YES	محلّ	التزام	عاديّ	مطلق	النهر	UNSURE	عبرته أعبره عبرا وعبورا والهاء للنهر
+HFN-E-994601937d#1	YES	محلّ	تضمّن	-	-	الدمع	UNSURE	العبرة أن ينهمل الدمع؛ عبر عبرا؛ امرأة عابر
+HFN-E-994601937d#2	OTHER_SENSE	-	-	-	-	-	SURE	العبر الكثير
+HFN-E-994601937d#3	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	عبر الرجل عبرا وعبرة واستعبر حزن
+HFN-E-994601937d#4	OTHER_SENSE	-	-	-	-	-	SURE	ناقة عبر أسفار من العبور
+HFN-E-994601937d#5	OTHER_SENSE	-	-	-	-	-	SURE	عبر النهر من العبور لا البكاء
+HFN-E-1e1cbdafb2#1	NO_DHAT	-	-	-	-	-	SURE	عبس يعبس عبسا فهو عابس بلا ذات
+HFN-E-1e1cbdafb2#2	OTHER_SENSE	-	-	-	-	-	UNSURE	عبس الوسخ يبس معنى آخر
+HFN-E-1e1cbdafb2#3	OTHER_SENSE	-	-	-	-	-	SURE	عبس اسم سورة
+HFN-E-1e1cbdafb2#4	OTHER_SENSE	-	-	-	-	-	SURE	لا ورود للحدث أعلام
+HFN-E-1e1cbdafb2#5	OTHER_SENSE	-	-	-	-	-	SURE	عبس قبيلة
+HFN-E-72432b1129#1	OTHER_SENSE	-	-	-	-	-	UNSURE	عبس يعبس من التقطيب لا يبس الوسخ
+HFN-E-72432b1129#2	YES	محلّ	تضمّن	-	-	الوسخ	SURE	عبس الوسخ عليه عبسا يبس
+HFN-E-72432b1129#3	OTHER_SENSE	-	-	-	-	-	SURE	عبس اسم سورة
+HFN-E-72432b1129#4	OTHER_SENSE	-	-	-	-	-	SURE	أعلام
+HFN-E-72432b1129#5	OTHER_SENSE	-	-	-	-	-	SURE	عبس قبيلة
+HFN-E-acbca6cee5#1	NO_DHAT	-	-	-	-	-	UNSURE	عبط بنفسه في الحرب رمى بها
+HFN-E-acbca6cee5#2	YES	محلّ	تضمّن	-	-	الناقة	SURE	عبط الناقة يعبطها نحرها من غير داء
+HFN-E-acbca6cee5#3	YES	محلّ	التزام	عاديّ	مطلق	الأيدي	UNSURE	تعبط الأيدي كلوما؛ العبط الشق
+HFN-E-acbca6cee5#4	NO_DHAT	-	-	-	-	-	UNSURE	كنوافذ العبط بلا ذات
+HFN-E-acbca6cee5#5	NO_DHAT	-	-	-	-	-	SURE	عبط علي الكذب معنوي
+HFN-E-2517e14afa#1	YES	محلّ	تضمّن	-	-	الطيب	UNSURE	عبق به الطيب لزق؛ رجل عبق
+HFN-E-2517e14afa#2	YES	مكان	التزام	عاديّ	مطلق	قلبي	UNSURE	عبق هذا الكلام بقلبي
+HFN-E-2517e14afa#3	YES	محلّ	التزام	عاديّ	مطلق	الكباء	SURE	عبق الكباء بهن
+HFN-E-2517e14afa#4	YES	محلّ	تضمّن	-	-	الطيب	UNSURE	بقيت رائحة الطيب في شيء قيل عبقت
+HFN-E-475b147b0a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	العبل الضخم من عبل عبالة لا عبل
+HFN-E-475b147b0a#2	OTHER_SENSE	-	-	-	-	-	UNSURE	عبل الشوى من الغلظ
+HFN-E-475b147b0a#3	YES	محلّ	تضمّن	-	-	الشجر	UNSURE	أعبل الشجر طلع ورقه
+HFN-E-475b147b0a#4	OTHER_SENSE	-	-	-	-	-	UNSURE	عبل الجزارة من الغلظ
+HFN-E-475b147b0a#5	OTHER_SENSE	-	-	-	-	-	UNSURE	جبل أعبل من الغلظ
+HFN-E-8c16a96504#1	NO_DHAT	-	-	-	-	-	SURE	العبل الضخم وقد عبل بلا ذات
+HFN-E-8c16a96504#2	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	فرس عبل الشوى غليظ القوائم وقد عبل
+HFN-E-8c16a96504#3	YES	محلّ	تضمّن	-	-	الأرطى	UNSURE	إعبال الأرطى أن يغلظ هدبه
+HFN-E-8c16a96504#4	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	فرس عبل الجزارة غلظ اليدين
+HFN-E-8c16a96504#5	YES	محلّ	التزام	عاديّ	مطلق	جبل	UNSURE	جبل أعبل وكل ما غلظ فقد عبل
+HFN-E-a81974137b#1	NO_DHAT	-	-	-	-	-	SURE	العبل الضخم وقد عبل عبالة بلا ذات
+HFN-E-a81974137b#2	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	فرس عبل الشوى غليظ القوائم
+HFN-E-a81974137b#3	YES	محلّ	تضمّن	-	-	الأرطى	UNSURE	إعبال الأرطى أن يغلظ هدبه
+HFN-E-a81974137b#4	OTHER_SENSE	-	-	-	-	-	SURE	العبال الورد الجبلي اسم نبات
+HFN-E-a81974137b#5	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	فرس عبل الجزارة غلظ اليدين
+HFN-E-f1d072ae2f#1	NO_DHAT	-	-	-	-	-	SURE	العبام الأحمق الفدم وقد عبم عبامة
+HFN-E-f1d072ae2f#2	NO_DHAT	-	-	-	-	-	SURE	العبام الثقيل الوخم بلا ذات
+HFN-E-f1d072ae2f#3	YES	محلّ	التزام	عاديّ	مطلق	الأقوام	UNSURE	الهيدب العبام من الأقوام
+HFN-E-f1d072ae2f#4	OTHER_SENSE	-	-	-	-	-	SURE	العبام من نعوت الماء
+HFN-E-f1d072ae2f#5	YES	محلّ	التزام	عاديّ	مطلق	الأقوام	UNSURE	الهيدب العبام من الأقوام
+HFN-E-b2f4d34086#1	OTHER_SENSE	-	-	-	-	-	SURE	العتب دساتين العود
+HFN-E-b2f4d34086#2	YES	فاعل	التزام	عاديّ	مطلق	العقير	UNSURE	عتب العقير والظالع يثب في مشيته
+HFN-E-b2f4d34086#3	YES	محلّ	تضمّن	-	-	العظم	SURE	عتب العظم عنت
+HFN-E-b2f4d34086#4	YES	فاعل	تضمّن	-	-	البرق	SURE	عتب البرق يعتب عتبانا برق
+HFN-E-b2f4d34086#5	OTHER_SENSE	-	-	-	-	-	SURE	عتب الجبال أشرافها اسم
+HFN-E-c30301f269#1	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	فرس عتيد المعد للجري
+HFN-E-c30301f269#2	NO_DHAT	-	-	-	-	-	SURE	عتد الشيء عتادة حضر
+HFN-E-c30301f269#3	OTHER_SENSE	-	-	-	-	-	SURE	العتاد إناء
+HFN-E-c30301f269#4	NO_DHAT	-	-	-	-	-	UNSURE	يعجو بها عتد وأى بلا ذات مذكورة
+HFN-E-e371fc0ec1#1	OTHER_SENSE	-	-	-	-	-	SURE	العتر نبات
+HFN-E-e371fc0ec1#2	YES	محلّ	التزام	عاديّ	مطلق	الشاة	SURE	عترها يعترها والعتيرة الشاة المعتورة؛ الصنم
+HFN-E-e371fc0ec1#3	NO_DHAT	-	-	-	-	-	UNSURE	عتر يعتر إذا اشتد نعظه ومرجعه غير مذكور
+HFN-E-e371fc0ec1#4	YES	محلّ	تضمّن	-	-	الرمح	SURE	عتر الرمح عترا اشتد
+HFN-E-e371fc0ec1#5	OTHER_SENSE	-	-	-	-	-	SURE	العتر ضرب من القلائد
+HFN-E-75871e781f#1	YES	محلّ	التزام	عاديّ	مطلق	العيدان	UNSURE	النشم من عتق العيدان
+HFN-E-75871e781f#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل عتيق جميل وما أبين العتق فيه
+HFN-E-75871e781f#3	YES	محلّ	التزام	شرعيّ	مطلق	العبد	SURE	دبرت العبد أعتقته؛ عتق من الرق
+HFN-E-75871e781f#4	YES	محلّ	تضمّن	-	-	الخيل	UNSURE	العتيق من الخيل الكريم؛ العتق في الحيوان الكرم
+HFN-E-75871e781f#5	YES	فاعل	تضمّن	-	-	الفرس	SURE	عتق الفرس عتقا سبق الخيل
+HFN-E-b11e7c1d78#1	YES	محلّ	التزام	عاديّ	مطلق	العيدان	UNSURE	النشم من عتق العيدان
+HFN-E-b11e7c1d78#2	OTHER_SENSE	-	-	-	-	-	UNSURE	عتق من الرق بعيد عن القدم والكرم
+HFN-E-b11e7c1d78#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل عتيق جميل
+HFN-E-b11e7c1d78#4	YES	محلّ	تضمّن	-	-	الخيل	UNSURE	العتيق من الخيل الكريم وفي الموات القدم
+HFN-E-b11e7c1d78#5	YES	فاعل	تضمّن	-	-	الفرس	UNSURE	عتق الفرس سبق الخيل
+HFN-E-4f9ea859b6#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل ترع عتل سريع إلى الشر وعتل عتلا
+HFN-E-4f9ea859b6#2	OTHER_SENSE	-	-	-	-	-	SURE	العتل القسي الفارسية
+HFN-E-4f9ea859b6#3	OTHER_SENSE	-	-	-	-	-	UNSURE	عتله يعتله جره معنى آخر
+HFN-E-4f9ea859b6#4	NO_DHAT	-	-	-	-	-	UNSURE	العتل الغليظ الفظ بلا ذات
+HFN-E-4f9ea859b6#5	OTHER_SENSE	-	-	-	-	-	SURE	عتل قسي
+HFN-E-bfe45b4c96#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	عته الرجل فهو معتوه
+HFN-E-bfe45b4c96#2	NO_DHAT	-	-	-	-	-	SURE	عته عتها دهش بلا ذات
+HFN-E-bfe45b4c96#3	OTHER_SENSE	-	-	-	-	-	SURE	عته بالكلام من عتت وبخه
+HFN-E-bfe45b4c96#4	OTHER_SENSE	-	-	-	-	-	SURE	عته بالكلام قهره من عتت
+HFN-E-bfe45b4c96#5	OTHER_SENSE	-	-	-	-	-	SURE	أته عته بالكلام من عتت
+HFN-E-4eff203abc#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الخبل الجن اسم
+HFN-E-4eff203abc#2	OTHER_SENSE	-	-	-	-	-	SURE	الخبل طائر
+HFN-E-4eff203abc#3	NO_DHAT	-	-	-	-	-	SURE	خبله الحزن وخبل خبالا بلا ذات محسوسة
+HFN-E-4eff203abc#4	NO_DHAT	-	-	-	-	-	UNSURE	المخبول العاشق والاسم الخبل
+HFN-E-4eff203abc#5	YES	محلّ	تضمّن	-	-	الأعضاء	UNSURE	الخبل إفساد الأعضاء قطع أيد وأرجل
+HFN-E-41da9436ba#1	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	عثر الرجل يعثر وعثر الفرس
+HFN-E-41da9436ba#2	NO_DHAT	-	-	-	-	-	SURE	عثر بأشرس الدهر أي بالشدة
+HFN-E-41da9436ba#3	OTHER_SENSE	-	-	-	-	-	SURE	العثر الكذب
+HFN-E-41da9436ba#4	OTHER_SENSE	-	-	-	-	-	UNSURE	عثر يعتر بمعنى اضطرب الرمح وهو عتر
+HFN-E-41da9436ba#5	OTHER_SENSE	-	-	-	-	-	SURE	العثري من السقي
+HFN-E-86d9237259#1	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	عثر الرجل يعثر وعثر الفرس
+HFN-E-86d9237259#2	NO_DHAT	-	-	-	-	-	SURE	عثر بأشرس الدهر أي بالشدة
+HFN-E-86d9237259#3	OTHER_SENSE	-	-	-	-	-	SURE	العثر الكذب
+HFN-E-86d9237259#4	OTHER_SENSE	-	-	-	-	-	UNSURE	عثر يعتر بمعنى اضطرب وهو عتر
+HFN-E-86d9237259#5	OTHER_SENSE	-	-	-	-	-	SURE	العثري من السقي
+HFN-E-dc785f826d#1	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	عثر الرجل وعثر الفرس
+HFN-E-dc785f826d#2	NO_DHAT	-	-	-	-	-	UNSURE	عثر بأشرس الدهر
+HFN-E-dc785f826d#3	OTHER_SENSE	-	-	-	-	-	UNSURE	العثر الكذب اسم
+HFN-E-dc785f826d#4	OTHER_SENSE	-	-	-	-	-	UNSURE	عثر يعتر بمعنى اضطرب
+HFN-E-dc785f826d#5	OTHER_SENSE	-	-	-	-	-	SURE	العثري من السقي
+HFN-E-ed6d7fa8d8#1	YES	محلّ	تضمّن	-	-	يده	SURE	عثمت يده برأت على غير استواء؛ عثم العظم
+HFN-E-b12d0e5d80#1	YES	محلّ	تضمّن	-	-	يده	SURE	عثمت يده برأت على غير استواء؛ عثم العظم
+HFN-E-d1cf4472dd#1	YES	مصدر	التزام	عاديّ	مطلق	النار	UNSURE	عثنت النار تعثن عثونا والعثان الدخان
+HFN-E-8067cfd76a#1	NO_DHAT	-	-	-	-	-	SURE	العجب الأمر الغريب معنوي
+HFN-E-8067cfd76a#2	OTHER_SENSE	-	-	-	-	-	SURE	العجب أصل الذنب عضو
+HFN-E-8067cfd76a#3	OTHER_SENSE	-	-	-	-	-	SURE	العجب عضو
+HFN-E-8067cfd76a#4	OTHER_SENSE	-	-	-	-	-	SURE	عجب الذنب عضو
+HFN-E-8067cfd76a#5	NO_DHAT	-	-	-	-	-	UNSURE	أصل الزول العجب بلا ذات
+HFN-E-1cb62985d6#1	OTHER_SENSE	-	-	-	-	-	UNSURE	عجر بطنه عظم بعيد عن العدو
+HFN-E-1cb62985d6#2	OTHER_SENSE	-	-	-	-	-	UNSURE	وظيف عجر غليظ بعيد عن العدو
+HFN-E-1cb62985d6#3	YES	محلّ	تضمّن	-	-	ذنبه	UNSURE	عجر مد ذنبه في عدوه؛ عجر يعجر عدا
+HFN-E-1cb62985d6#4	OTHER_SENSE	-	-	-	-	-	SURE	عجر الرأس اسم للعقد
+HFN-E-1cb62985d6#5	OTHER_SENSE	-	-	-	-	-	SURE	عجر الرأس اسم
+HFN-E-3f09cfebdb#1	YES	محلّ	تضمّن	-	-	بطنه	SURE	عجر بطنه عجرا عظم وضخم
+HFN-E-3f09cfebdb#2	YES	محلّ	تضمّن	-	-	وظيف	UNSURE	وظيف عجر غليظ؛ عجر لحمه صلب
+HFN-E-3f09cfebdb#3	OTHER_SENSE	-	-	-	-	-	UNSURE	عجر يعجر عدا معنى بعيد
+HFN-E-3f09cfebdb#4	OTHER_SENSE	-	-	-	-	-	SURE	عجر الرأس اسم
+HFN-E-3f09cfebdb#5	OTHER_SENSE	-	-	-	-	-	SURE	عجر الرأس اسم
+HFN-E-9c1107bc1b#1	OTHER_SENSE	-	-	-	-	-	SURE	العجز عضو
+HFN-E-9c1107bc1b#2	OTHER_SENSE	-	-	-	-	-	SURE	أدنى العجز عضو
+HFN-E-9c1107bc1b#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	عجزت عن الأمر عجزا؛ رجل عجز عاجز
+HFN-E-9c1107bc1b#4	OTHER_SENSE	-	-	-	-	-	SURE	يستأخر العجز عضو
+HFN-E-9c1107bc1b#5	OTHER_SENSE	-	-	-	-	-	SURE	أعراض العجز عضو
+HFN-E-fb163f333b#1	OTHER_SENSE	-	-	-	-	-	UNSURE	العجوز اسم ذات لا حدث
+HFN-E-fb163f333b#2	OTHER_SENSE	-	-	-	-	-	SURE	العجز عضو
+HFN-E-fb163f333b#3	OTHER_SENSE	-	-	-	-	-	SURE	العجز عضو
+HFN-E-fb163f333b#4	OTHER_SENSE	-	-	-	-	-	SURE	عجوز وعجز جمع اسم
+HFN-E-fb163f333b#5	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	عجزت عن الأمر؛ رجل عجز عاجز
+HFN-E-6116029334#1	OTHER_SENSE	-	-	-	-	-	SURE	العجز عضو
+HFN-E-6116029334#2	OTHER_SENSE	-	-	-	-	-	SURE	العجز عضو
+HFN-E-6116029334#3	OTHER_SENSE	-	-	-	-	-	UNSURE	العجز نقيض الحزم بعيد عن عظم العجيزة
+HFN-E-6116029334#4	OTHER_SENSE	-	-	-	-	-	SURE	العجز والعجيزة عضو
+HFN-E-6116029334#5	OTHER_SENSE	-	-	-	-	-	SURE	العجز عضو
+HFN-E-ec4e554ad1#1	OTHER_SENSE	-	-	-	-	-	SURE	العجز عضو
+HFN-E-ec4e554ad1#2	OTHER_SENSE	-	-	-	-	-	SURE	العجز عضو
+HFN-E-ec4e554ad1#3	OTHER_SENSE	-	-	-	-	-	UNSURE	العجز نقيض الحزم بعيد
+HFN-E-ec4e554ad1#4	OTHER_SENSE	-	-	-	-	-	SURE	العجز والعجيزة عضو
+HFN-E-ec4e554ad1#5	OTHER_SENSE	-	-	-	-	-	SURE	العجز عضو
+HFN-E-59670922c1#1	NO_DHAT	-	-	-	-	-	UNSURE	العجس شدة القبض بلا ذات
+HFN-E-59670922c1#2	OTHER_SENSE	-	-	-	-	-	SURE	عجس السهم اسم
+HFN-E-494bc5bd4f#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	عجف الرجل عجفا هزل
+HFN-E-494bc5bd4f#2	YES	محلّ	التزام	عاديّ	مطلق	لثة	UNSURE	لثة عجفاء والجمع عجاف
+HFN-E-494bc5bd4f#3	YES	محلّ	التزام	عاديّ	مطلق	شاة	SURE	شاة عجفاء وغنم عجاف
+HFN-E-494bc5bd4f#4	NO_DHAT	-	-	-	-	-	UNSURE	إبطاء فيه من عجف بلا ذات
+HFN-E-494bc5bd4f#5	YES	محلّ	تضمّن	-	-	المريض	UNSURE	عجف على المريض مرضه؛ عجفت نفسي على فلان
+HFN-E-52e4a5c5a2#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	عجف الرجل عجفا هزل
+HFN-E-52e4a5c5a2#2	NO_DHAT	-	-	-	-	-	UNSURE	إبطاء من عجف أو إعياء
+HFN-E-52e4a5c5a2#3	OTHER_SENSE	-	-	-	-	-	UNSURE	عجفت نفسي عطفت معنى بعيد
+HFN-E-03ab914c89#1	YES	فاعل	التزام	عاديّ	مطلق	راكب	UNSURE	راكب مذبب وهو العجل المنفرد
+HFN-E-03ab914c89#2	OTHER_SENSE	-	-	-	-	-	SURE	العجل ولد البقرة
+HFN-E-03ab914c89#3	OTHER_SENSE	-	-	-	-	-	SURE	العجل ولد البقرة
+HFN-E-03ab914c89#4	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	رجل خطل اليدين أي عجل عند الإعطاء
+HFN-E-03ab914c89#5	NO_DHAT	-	-	-	-	-	SURE	الخطل الأحمق العجل بلا ذات
+HFN-E-9aa7519eed#1	OTHER_SENSE	-	-	-	-	-	SURE	الأعجم من العجمة لا العض
+HFN-E-9aa7519eed#2	OTHER_SENSE	-	-	-	-	-	SURE	العجم أمة
+HFN-E-9aa7519eed#3	OTHER_SENSE	-	-	-	-	-	SURE	العجم جمع أمة
+HFN-E-9aa7519eed#4	OTHER_SENSE	-	-	-	-	-	SURE	العجم قوم
+HFN-E-9aa7519eed#5	YES	محلّ	التزام	عاديّ	مطلق	التمر	UNSURE	وليس هو من عجمت التمر؛ العجم النوى
+HFN-E-4860ceb25c#1	YES	محلّ	التزام	عاديّ	مطلق	العرب	UNSURE	الأعجم الذي لا يبين الكلام من العرب
+HFN-E-4860ceb25c#2	OTHER_SENSE	-	-	-	-	-	UNSURE	عجمي وعجم نسبة إلى الأمة
+HFN-E-4860ceb25c#3	OTHER_SENSE	-	-	-	-	-	SURE	العجم جمع أمة
+HFN-E-4860ceb25c#4	OTHER_SENSE	-	-	-	-	-	SURE	العجم قوم
+HFN-E-4860ceb25c#5	OTHER_SENSE	-	-	-	-	-	SURE	العجم النوى
+HFN-E-de3c215fb5#1	OTHER_SENSE	-	-	-	-	-	SURE	العجان عضو
+HFN-E-de3c215fb5#2	OTHER_SENSE	-	-	-	-	-	SURE	العجن داء الناقة لا العجن باليد
+HFN-E-de3c215fb5#3	YES	آلة	التزام	عاديّ	مطلق	مرفقيه	UNSURE	إنه ليعجن بمرفقيه
+HFN-E-de3c215fb5#4	OTHER_SENSE	-	-	-	-	-	SURE	العجان عضو
+HFN-E-31bea7f1d0#1	YES	محلّ	تضمّن	-	-	الناقة	SURE	العجن داء يأخذ الناقة في حيائها
+HFN-E-31bea7f1d0#2	OTHER_SENSE	-	-	-	-	-	UNSURE	عجنته ضربت عجانه معنى بعيد
+HFN-E-e6c7d131ad#1	YES	محلّ	التزام	عاديّ	مطلق	الأرض	UNSURE	العدر المطر الكثير وقد عدرت الأرض
+HFN-E-cad2159080#1	OTHER_SENSE	-	-	-	-	-	SURE	عدس زجر للبغل
+HFN-E-cad2159080#2	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	عدس يعدس ذهب؛ رجل عدوس؛ الناقة والضبع
+HFN-E-cad2159080#3	OTHER_SENSE	-	-	-	-	-	SURE	العدس حب
+HFN-E-cad2159080#4	OTHER_SENSE	-	-	-	-	-	UNSURE	العدسة بثرة وقد عدس معنى بعيد
+HFN-E-de42ec1187#1	NO_DHAT	-	-	-	-	-	SURE	العدف الأكل؛ ما عدفنا عنده عدوفا
+HFN-E-de42ec1187#2	OTHER_SENSE	-	-	-	-	-	UNSURE	العدفة القطعة من الثوب
+HFN-E-de42ec1187#3	OTHER_SENSE	-	-	-	-	-	SURE	عدف من الليل قطعة
+HFN-E-de42ec1187#4	OTHER_SENSE	-	-	-	-	-	SURE	العدف القذى
+HFN-E-de42ec1187#5	OTHER_SENSE	-	-	-	-	-	SURE	العدفة جماعة
+HFN-E-86a69a9c3d#1	YES	مكان	تضمّن	-	-	الحوض	SURE	عدق الرجل يده إذا أدارها في نواحي الحوض
+HFN-E-86a69a9c3d#2	YES	محلّ	تضمّن	-	-	لسانه	UNSURE	في لسانه عقدة وعدق أي التواء
+HFN-E-02963a40f8#1	YES	مكان	التزام	عاديّ	مطلق	الطريق	UNSURE	جاض عدل عن الطريق
+HFN-E-02963a40f8#2	NO_DHAT	-	-	-	-	-	UNSURE	الحكمة العدل بلا ذات
+HFN-E-02963a40f8#3	YES	محلّ	التزام	عاديّ	مطلق	فلان	UNSURE	عدلت فلانا بفلان أعدله
+HFN-E-02963a40f8#4	NO_DHAT	-	-	-	-	-	UNSURE	لا يقبل منه صرف ولا عدل
+HFN-E-02963a40f8#5	NO_DHAT	-	-	-	-	-	UNSURE	العدل الفريضة أو الفداء
+HFN-E-efdf486ecd#1	OTHER_SENSE	-	-	-	-	-	UNSURE	عدل عن الطريق ميل بعيد
+HFN-E-efdf486ecd#2	NO_DHAT	-	-	-	-	-	UNSURE	الحكمة العدل بلا ذات
+HFN-E-efdf486ecd#3	OTHER_SENSE	-	-	-	-	-	UNSURE	عدلت فلانا بفلان مماثلة بعيد
+HFN-E-efdf486ecd#4	OTHER_SENSE	-	-	-	-	-	UNSURE	العدل المثل والدية
+HFN-E-efdf486ecd#5	OTHER_SENSE	-	-	-	-	-	UNSURE	العدل الفريضة والفداء
+HFN-E-0462d0b512#1	NO_DHAT	-	-	-	-	-	SURE	عدمت الشيء عدما بلا ذات
+HFN-E-0462d0b512#2	NO_DHAT	-	-	-	-	-	SURE	عدم في الصفات بلا ذات
+HFN-E-0462d0b512#3	NO_DHAT	-	-	-	-	-	SURE	عدم المثال بلا ذات
+HFN-E-0462d0b512#4	NO_DHAT	-	-	-	-	-	SURE	عدم الواحد بلا ذات
+HFN-E-0462d0b512#5	NO_DHAT	-	-	-	-	-	SURE	بناء عدم بلا ذات
+HFN-E-0fb33a6efb#1	NO_DHAT	-	-	-	-	-	SURE	أصل العدم الفقر عدمت الشيء
+HFN-E-0fb33a6efb#2	NO_DHAT	-	-	-	-	-	SURE	عدم في الصفات بلا ذات
+HFN-E-0fb33a6efb#3	NO_DHAT	-	-	-	-	-	SURE	عدم المثال بلا ذات
+HFN-E-0fb33a6efb#4	NO_DHAT	-	-	-	-	-	SURE	عدم الواحد بلا ذات
+HFN-E-0fb33a6efb#5	NO_DHAT	-	-	-	-	-	SURE	بناء عدم بلا ذات

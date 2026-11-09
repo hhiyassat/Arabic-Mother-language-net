@@ -1,0 +1,254 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-d12c86c789#1	OTHER_SENSE	-	-	-	-	-	SURE	البراء أول يوم من الشهر
+HFN-E-d12c86c789#2	OTHER_SENSE	-	-	-	-	-	SURE	كالبراء الأعفر: اسم
+HFN-E-d12c86c789#3	NO_DHAT	-	-	-	-	-	SURE	برئت من هذا الأمر
+HFN-E-d12c86c789#4	NO_DHAT	-	-	-	-	-	SURE	بريء من مرضه بلا ذات
+HFN-E-d12c86c789#5	OTHER_SENSE	-	-	-	-	-	SURE	كالبراء الأعفر: اسم
+HFN-E-fbd760f94c#1	YES	محلّ	التزام	عاديّ	مطلق	الجرح	UNSURE	الجرح الذي لا يبرأ
+HFN-E-fbd760f94c#2	YES	محلّ	التزام	عاديّ	مطلق	الحافر	SURE	الحافر إذا نكبته الحجارة فبرئ
+HFN-E-fbd760f94c#3	NO_DHAT	-	-	-	-	-	SURE	نقه من مرضه برئ
+HFN-E-fbd760f94c#4	NO_DHAT	-	-	-	-	-	SURE	بريء من مرضه بلا ذات
+HFN-E-fbd760f94c#5	NO_DHAT	-	-	-	-	-	UNSURE	رجوا له البرء، مرجعه غير مذكور
+HFN-E-49eb0cd2f2#1	OTHER_SENSE	-	-	-	-	-	SURE	البراء أول يوم من الشهر
+HFN-E-49eb0cd2f2#2	OTHER_SENSE	-	-	-	-	-	SURE	كالبراء الأعفر: اسم
+HFN-E-49eb0cd2f2#3	NO_DHAT	-	-	-	-	-	UNSURE	برئت من هذا الأمر
+HFN-E-49eb0cd2f2#4	OTHER_SENSE	-	-	-	-	-	SURE	كالبراء الأعفر: اسم
+HFN-E-49eb0cd2f2#5	OTHER_SENSE	-	-	-	-	-	SURE	يا بن براء: علم
+HFN-E-b3d1af80d4#1	OTHER_SENSE	-	-	-	-	-	SURE	البرج من منازل الشمس
+HFN-E-b3d1af80d4#2	OTHER_SENSE	-	-	-	-	-	SURE	البروج اسم منازل
+HFN-E-b3d1af80d4#3	OTHER_SENSE	-	-	-	-	-	UNSURE	البرج سعة العين، فعل آخر
+HFN-E-b3d1af80d4#4	OTHER_SENSE	-	-	-	-	-	SURE	برج الجدي اسم
+HFN-E-b3d1af80d4#5	OTHER_SENSE	-	-	-	-	-	SURE	ثوب مبرج فيه صور البروج
+HFN-E-6394c7ff53#1	NO_DHAT	-	-	-	-	-	UNSURE	وفيها البرج وهو سعتها، المرجع غائب
+HFN-E-6394c7ff53#2	OTHER_SENSE	-	-	-	-	-	SURE	برج الجدي اسم
+HFN-E-6394c7ff53#3	OTHER_SENSE	-	-	-	-	-	SURE	البرج من منازل الشمس
+HFN-E-6394c7ff53#4	OTHER_SENSE	-	-	-	-	-	SURE	برج الحمام اسم
+HFN-E-6394c7ff53#5	OTHER_SENSE	-	-	-	-	-	SURE	البرج الواحد اسم
+HFN-E-39c6b003b6#1	NO_DHAT	-	-	-	-	-	SURE	البراح الزوال، أبرحته أنا
+HFN-E-39c6b003b6#2	OTHER_SENSE	-	-	-	-	-	UNSURE	برح به آذاه
+HFN-E-39c6b003b6#3	OTHER_SENSE	-	-	-	-	-	SURE	التباريح الشدائد
+HFN-E-39c6b003b6#4	OTHER_SENSE	-	-	-	-	-	SURE	لقيت منه برحا بارحا
+HFN-E-39c6b003b6#5	OTHER_SENSE	-	-	-	-	-	SURE	براح من أسماء الشمس
+HFN-E-0bd1c45bf7#1	NO_DHAT	-	-	-	-	-	SURE	أمر برح شديد
+HFN-E-0bd1c45bf7#2	NO_DHAT	-	-	-	-	-	SURE	ضرب برح وهوى برح
+HFN-E-0bd1c45bf7#3	NO_DHAT	-	-	-	-	-	UNSURE	لقيت منه برحا بارحا
+HFN-E-0bd1c45bf7#4	NO_DHAT	-	-	-	-	-	UNSURE	برح متعدية بالباء، ذكر نحويّ
+HFN-E-0bd1c45bf7#5	OTHER_SENSE	-	-	-	-	-	UNSURE	بنات برح اسم للرياح
+HFN-E-dc2fb0873a#1	NO_DHAT	-	-	-	-	-	SURE	برد يبرد بردا، بردت الشيء
+HFN-E-dc2fb0873a#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الثلج والبرد: البَرَد اسم
+HFN-E-dc2fb0873a#3	YES	محلّ	التزام	عاديّ	مطلق	النبت	UNSURE	أصابه البرد فلبده
+HFN-E-dc2fb0873a#4	YES	زمان	التزام	عاديّ	مطلق	أيام	UNSURE	أيام لينة البرد
+HFN-E-dc2fb0873a#5	YES	محلّ	تضمّن	-	-	الماء	SURE	بردت الماء خلطته بثلج حتى برد
+HFN-E-ef4faf997a#1	NO_DHAT	-	-	-	-	-	SURE	برد يبرد بردا، بردت الشيء
+HFN-E-ef4faf997a#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الثلج والبرد: البَرَد اسم
+HFN-E-ef4faf997a#3	YES	محلّ	التزام	عاديّ	مطلق	النبت	UNSURE	أصابه البرد فلبده
+HFN-E-ef4faf997a#4	YES	زمان	التزام	عاديّ	مطلق	أيام	UNSURE	أيام لينة البرد
+HFN-E-ef4faf997a#5	YES	محلّ	التزام	عاديّ	مطلق	الماء	SURE	ماء برد وبارد وقد برد
+HFN-E-8da3c2134e#1	YES	مكان	تضمّن	-	-	البراز	UNSURE	برز يبرز بروزا خرج إلى البراز
+HFN-E-8da3c2134e#2	YES	محلّ	التزام	عاديّ	مطلق	بلادهم	UNSURE	ما برز من بلادهم
+HFN-E-8da3c2134e#3	OTHER_SENSE	-	-	-	-	-	SURE	يوقدها في البراز: اسم مكان
+HFN-E-8da3c2134e#4	YES	محلّ	التزام	عاديّ	مطلق	الأرض	SURE	الأرض بارزة ليست بجوف
+HFN-E-8da3c2134e#5	OTHER_SENSE	-	-	-	-	-	SURE	في براز من الأرض: اسم
+HFN-E-051e5287fb#1	YES	مكان	تضمّن	-	-	البراز	UNSURE	برز يبرز بروزا خرج إلى البراز
+HFN-E-051e5287fb#2	YES	محلّ	التزام	عاديّ	مطلق	الكتفين	UNSURE	ما برز من الإنسان للشمس كالكتفين
+HFN-E-051e5287fb#3	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل برز موثوق بفضله وعقله
+HFN-E-051e5287fb#4	YES	محلّ	التزام	عاديّ	مطلق	الصريح	UNSURE	برز الصريح بجانب المتن
+HFN-E-051e5287fb#5	YES	فاعل	تضمّن	-	-	الفرس	SURE	برز الفرس على الخيل سبقها
+HFN-E-e02e510360#1	YES	مكان	تضمّن	-	-	البراز	UNSURE	برز يبرز بروزا خرج إلى البراز
+HFN-E-e02e510360#2	YES	محلّ	التزام	عاديّ	مطلق	بلادهم	UNSURE	ما برز من بلادهم
+HFN-E-e02e510360#3	OTHER_SENSE	-	-	-	-	-	SURE	يوقدها في البراز: اسم مكان
+HFN-E-e02e510360#4	YES	محلّ	التزام	عاديّ	مطلق	الأرض	SURE	الأرض بارزة ليست بجوف
+HFN-E-e02e510360#5	OTHER_SENSE	-	-	-	-	-	SURE	في براز من الأرض: اسم
+HFN-E-0a5d95bf32#1	YES	محلّ	تضمّن	-	-	الفرس	SURE	البرش لمع بياض في لون الفرس
+HFN-E-0a5d95bf32#2	NO_DHAT	-	-	-	-	-	UNSURE	البرش لون مختلط؛ جذيمة الأبرش علم
+HFN-E-6da0a9dd7b#1	YES	محلّ	التزام	عاديّ	مطلق	امرأة	SURE	برص برصا فهو أبرص وامرأة برصاء
+HFN-E-6da0a9dd7b#2	YES	محلّ	التزام	عاديّ	مطلق	الناس	UNSURE	ليس بهم شيء نحو البرص
+HFN-E-6da0a9dd7b#3	OTHER_SENSE	-	-	-	-	-	SURE	البرص فتوق في الغيم
+HFN-E-6da0a9dd7b#4	OTHER_SENSE	-	-	-	-	-	SURE	البرص رمال مثل البلوقة
+HFN-E-47b4eb2558#1	NO_DHAT	-	-	-	-	-	SURE	البارع الذي فاق أصحابه
+HFN-E-47b4eb2558#2	NO_DHAT	-	-	-	-	-	SURE	أفلق في العلم برع فيه
+HFN-E-65dc40579b#1	NO_DHAT	-	-	-	-	-	SURE	البارع الذي فاق أصحابه
+HFN-E-65dc40579b#2	NO_DHAT	-	-	-	-	-	SURE	أفلق في العلم برع فيه
+HFN-E-65dc40579b#3	YES	محلّ	التزام	عاديّ	مطلق	الفتيان	UNSURE	البراعة يوصف به الفتيان والفتيات
+HFN-E-65dc40579b#4	OTHER_SENSE	-	-	-	-	-	SURE	البراعة الذي لا فؤاد له
+HFN-E-5e2e93dd4c#1	YES	فاعل	التزام	عاديّ	مطلق	السماء	UNSURE	برقت السماء؛ البرق يلمع في الغيم
+HFN-E-5e2e93dd4c#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل برقان براق البدن
+HFN-E-5e2e93dd4c#3	OTHER_SENSE	-	-	-	-	-	UNSURE	برق سرى في عارض: اسم
+HFN-E-5e2e93dd4c#4	OTHER_SENSE	-	-	-	-	-	UNSURE	برق البصر تحير: معنى آخر
+HFN-E-5e2e93dd4c#5	OTHER_SENSE	-	-	-	-	-	SURE	البرق أماكن: برقة الصمان
+HFN-E-fce5f56f06#1	OTHER_SENSE	-	-	-	-	-	UNSURE	برقت السماء: معنى اللمعان
+HFN-E-fce5f56f06#2	OTHER_SENSE	-	-	-	-	-	UNSURE	برق الشيء بريقا: معنى اللمعان
+HFN-E-fce5f56f06#3	OTHER_SENSE	-	-	-	-	-	UNSURE	برق سرى في عارض: اسم
+HFN-E-fce5f56f06#4	YES	محلّ	تضمّن	-	-	البصر	SURE	برق البصر برقا تحير فلم يطرف
+HFN-E-fce5f56f06#5	OTHER_SENSE	-	-	-	-	-	SURE	البرق أماكن: برقة الصمان
+HFN-E-6008470783#1	YES	فاعل	التزام	عاديّ	مطلق	الإبل	UNSURE	البرك جماعة الإبل البروك
+HFN-E-6008470783#2	YES	فاعل	التزام	عاديّ	مطلق	البعير	SURE	جلد صدر البعير إذا برك
+HFN-E-6008470783#3	YES	فاعل	التزام	عاديّ	مطلق	ناقة	SURE	ناقة بارك وقد بركت تبرك بروكا
+HFN-E-6008470783#4	YES	فاعل	التزام	عاديّ	مطلق	الجمل	SURE	شبع منه الجمل البروك
+HFN-E-6008470783#5	OTHER_SENSE	-	-	-	-	-	SURE	البرك وسط الصدر: اسم
+HFN-E-0e340439e3#1	NO_DHAT	-	-	-	-	-	UNSURE	الخجل البرم
+HFN-E-0e340439e3#2	OTHER_SENSE	-	-	-	-	-	UNSURE	بعد البرم: طور حب العنب
+HFN-E-0e340439e3#3	OTHER_SENSE	-	-	-	-	-	SURE	البرم نور العضاه: اسم
+HFN-E-0e340439e3#4	NO_DHAT	-	-	-	-	-	UNSURE	هو البرم بحيلته
+HFN-E-0e340439e3#5	NO_DHAT	-	-	-	-	-	UNSURE	ولا كهكاهة برم
+HFN-E-4f60224817#1	OTHER_SENSE	-	-	-	-	-	SURE	وبره: الوبر كلمة أخرى
+HFN-E-4f60224817#2	NO_DHAT	-	-	-	-	-	UNSURE	البره الترارة
+HFN-E-4f60224817#3	OTHER_SENSE	-	-	-	-	-	SURE	وبره: الوبر كلمة أخرى
+HFN-E-4f60224817#4	OTHER_SENSE	-	-	-	-	-	SURE	جعد وبره: كلمة أخرى
+HFN-E-4f60224817#5	OTHER_SENSE	-	-	-	-	-	SURE	ذهب وبره: كلمة أخرى
+HFN-E-eafd505729#1	YES	محلّ	التزام	عاديّ	مطلق	القدح	UNSURE	البري المكمل البري، سهم
+HFN-E-eafd505729#2	OTHER_SENSE	-	-	-	-	-	SURE	البرى التراب
+HFN-E-eafd505729#3	NO_DHAT	-	-	-	-	-	UNSURE	من سخافة البري، القوس غير مذكورة
+HFN-E-eafd505729#4	YES	محلّ	التزام	عاديّ	مطلق	سهم	SURE	بريته بريا وسهم بري مبرى
+HFN-E-eafd505729#5	OTHER_SENSE	-	-	-	-	-	SURE	البهرامج البري: نسبة
+HFN-E-b16ba2e9ca#1	YES	محلّ	تضمّن	-	-	الظهر	SURE	البزخ أن يطمئن وسط الظهر؛ رجل أبزخ
+HFN-E-b16ba2e9ca#2	YES	محلّ	تضمّن	-	-	الظهر	SURE	البزخ تطامن الظهر، في الخيل
+HFN-E-b16ba2e9ca#3	YES	محلّ	تضمّن	-	-	القوس	UNSURE	بزخت القوس حنوتها
+HFN-E-b16ba2e9ca#4	OTHER_SENSE	-	-	-	-	-	SURE	بزخ الرمل وطاؤه، جمعه أبزاخ
+HFN-E-48e9bc2dec#1	YES	محلّ	تضمّن	-	-	الظهر	SURE	البزخ أن يطمئن وسط الظهر؛ رجل أبزخ
+HFN-E-48e9bc2dec#2	YES	محلّ	تضمّن	-	-	الظهر	SURE	البزخ تطامن الظهر، في الخيل
+HFN-E-48e9bc2dec#3	YES	محلّ	تضمّن	-	-	القوس	UNSURE	بزخت القوس حنوتها
+HFN-E-48e9bc2dec#4	OTHER_SENSE	-	-	-	-	-	SURE	بزخ الرمل وطاؤه، جمعه أبزاخ
+HFN-E-4b459d464b#1	YES	محلّ	التزام	عاديّ	مطلق	القدر	UNSURE	قزحتها وبزرتها من التوابل
+HFN-E-4b459d464b#2	OTHER_SENSE	-	-	-	-	-	SURE	كذب عليك البزر: اسم
+HFN-E-4b459d464b#3	OTHER_SENSE	-	-	-	-	-	SURE	من البزر نسمة: اسم
+HFN-E-4b459d464b#4	OTHER_SENSE	-	-	-	-	-	SURE	البزر الذي يبقى في القدور
+HFN-E-4b459d464b#5	OTHER_SENSE	-	-	-	-	-	SURE	الدبة يجعل فيها البزر
+HFN-E-9d81651033#1	YES	محلّ	التزام	عاديّ	مطلق	الأحداث	UNSURE	بزع بزاعة ولا يقال إلا للأحداث
+HFN-E-67fb7341c4#1	OTHER_SENSE	-	-	-	-	-	SURE	بزيغ اسم فرس؛ البزغ التشريط
+HFN-E-67fb7341c4#2	YES	محلّ	تضمّن	-	-	ناب	UNSURE	بقل ناب البعير طلع، بزغ نابه كذلك
+HFN-E-67fb7341c4#3	YES	محلّ	تضمّن	-	-	القمر	SURE	إذا طلع القمر قيل بزغ
+HFN-E-67fb7341c4#4	YES	محلّ	تضمّن	-	-	النجم	SURE	بزغ النجم يبزغ بزوغا طلع
+HFN-E-c59201c443#1	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	الذكر من الإبل إذا بزل
+HFN-E-c59201c443#2	NO_DHAT	-	-	-	-	-	UNSURE	بزل جمع بازل، مثال صرفيّ
+HFN-E-c59201c443#3	NO_DHAT	-	-	-	-	-	UNSURE	مخلف بزل في الشعر
+HFN-E-c59201c443#4	NO_DHAT	-	-	-	-	-	UNSURE	كبازل وبزل، مثال صرفيّ
+HFN-E-c59201c443#5	YES	محلّ	التزام	عاديّ	مطلق	الدن	SURE	إذا بزل الدن
+HFN-E-bcab44c175#1	YES	آلة	تضمّن	-	-	الثنايا	SURE	بزمت به العض بالثنايا
+HFN-E-bcab44c175#2	NO_DHAT	-	-	-	-	-	SURE	البزم وهو الشد
+HFN-E-bcab44c175#3	YES	محلّ	تضمّن	-	-	الوتر	SURE	البزم أن تأخذ الوتر بالسبابة
+HFN-E-bcab44c175#4	YES	محلّ	تضمّن	-	-	الناقة	UNSURE	فطرت الناقة بالسبابة وكذلك البزم
+HFN-E-bcab44c175#5	YES	محلّ	تضمّن	-	-	العبء	UNSURE	بزم بالعبء نهض به
+HFN-E-2eab58ec5e#1	NO_DHAT	-	-	-	-	-	UNSURE	أخذت منه بزو كذا أي عدله
+HFN-E-2eab58ec5e#2	YES	فاعل	تضمّن	-	-	الإنسان	SURE	الإبزاء أن يرفع الإنسان مؤخره
+HFN-E-2eab58ec5e#3	OTHER_SENSE	-	-	-	-	-	SURE	بز الشيء يبزه: جذر بزز
+HFN-E-2eab58ec5e#4	YES	فاعل	التزام	عاديّ	مطلق	باز	UNSURE	بزا يبزو تطاول، في البازي
+HFN-E-ebebbe98ed#1	OTHER_SENSE	-	-	-	-	-	SURE	البسر ثمر النخل: اسم
+HFN-E-ebebbe98ed#2	OTHER_SENSE	-	-	-	-	-	SURE	البسر ثمر النخل: اسم
+HFN-E-ebebbe98ed#3	OTHER_SENSE	-	-	-	-	-	SURE	بسر كريثاء: اسم
+HFN-E-ebebbe98ed#4	OTHER_SENSE	-	-	-	-	-	SURE	ما عظم واستدار من البسر
+HFN-E-ebebbe98ed#5	YES	فاعل	تضمّن	-	-	الفحل	UNSURE	ابتسار الفحل الطروقة إذا طرقها
+HFN-E-f501d6cbd9#1	YES	محلّ	التزام	عاديّ	مطلق	البساط	SURE	البساط ما بسط وقد بسطته
+HFN-E-f501d6cbd9#2	OTHER_SENSE	-	-	-	-	-	UNSURE	فهي بسط: صفة الناقة مع ولدها
+HFN-E-f501d6cbd9#3	YES	محلّ	التزام	عاديّ	مطلق	البيت	SURE	بسطت البيت أبسطه بسطا
+HFN-E-f501d6cbd9#4	YES	محلّ	التزام	عاديّ	مطلق	الكف	SURE	ما بين الكف والكف إذ بسطتهما
+HFN-E-f501d6cbd9#5	YES	فاعل	التزام	عاديّ	مطلق	الطائر	SURE	رفرف بسط جناحيه؛ محلّ جناحيه
+HFN-E-009bb21edb#1	OTHER_SENSE	-	-	-	-	-	UNSURE	فهي بسط: صفة الناقة مع ولدها
+HFN-E-009bb21edb#2	YES	محلّ	التزام	عاديّ	مطلق	البساط	UNSURE	البساط ما بسط وانبسط
+HFN-E-009bb21edb#3	YES	محلّ	التزام	عاديّ	مطلق	البيت	UNSURE	بسطت البيت أبسطه بسطا
+HFN-E-009bb21edb#4	YES	محلّ	التزام	عاديّ	مطلق	الكف	UNSURE	ما بين الكف والكف إذ بسطتهما
+HFN-E-009bb21edb#5	YES	فاعل	التزام	عاديّ	مطلق	الطائر	UNSURE	رفرف بسط جناحيه
+HFN-E-5918bdb9de#1	YES	محلّ	تضمّن	-	-	الشاة	SURE	بسقت الشاة إذا نزلت قبل الولاد
+HFN-E-7c21fdc8f6#1	YES	محلّ	التزام	عاديّ	مطلق	الأسد	UNSURE	قيل للأسد باسل لكراهة وجهه
+HFN-E-7c21fdc8f6#2	YES	محلّ	التزام	عاديّ	مطلق	اللحم	UNSURE	خمج اللحم ومثله بسل
+HFN-E-7c21fdc8f6#3	YES	محلّ	تضمّن	-	-	الشراب	UNSURE	الباسل الشراب الحامض وقد بسل
+HFN-E-7c21fdc8f6#4	NO_DHAT	-	-	-	-	-	UNSURE	فإنني بسل في الشعر
+HFN-E-7c21fdc8f6#5	NO_DHAT	-	-	-	-	-	SURE	البسل الحلال والحرام
+HFN-E-19c8e05bb3#1	YES	محلّ	التزام	عاديّ	مطلق	الأسد	UNSURE	الباسل الشجاع؛ للأسد باسل
+HFN-E-19c8e05bb3#2	OTHER_SENSE	-	-	-	-	-	UNSURE	خمج اللحم ومثله بسل: معنى آخر
+HFN-E-19c8e05bb3#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الباسل الشراب الحامض: معنى آخر
+HFN-E-19c8e05bb3#4	NO_DHAT	-	-	-	-	-	UNSURE	فإنني بسل في الشعر
+HFN-E-19c8e05bb3#5	OTHER_SENSE	-	-	-	-	-	UNSURE	البسل الحلال والحرام
+HFN-E-c88fdd6530#1	NO_DHAT	-	-	-	-	-	SURE	بشرته بالأمر أبشره بشرا
+HFN-E-c88fdd6530#2	OTHER_SENSE	-	-	-	-	-	SURE	البشرة وجمعها بشر: اسم
+HFN-E-c88fdd6530#3	OTHER_SENSE	-	-	-	-	-	SURE	بشر: الباء وشر
+HFN-E-c88fdd6530#4	OTHER_SENSE	-	-	-	-	-	SURE	شر يشر: جذر شرر
+HFN-E-c88fdd6530#5	OTHER_SENSE	-	-	-	-	-	SURE	نعب بشر: الباء وشر
+HFN-E-10fe46f3b5#1	NO_DHAT	-	-	-	-	-	SURE	البشر الطلاقة، فتبشر واستبشر
+HFN-E-10fe46f3b5#2	OTHER_SENSE	-	-	-	-	-	SURE	البشرة وجمعها بشر: اسم
+HFN-E-10fe46f3b5#3	OTHER_SENSE	-	-	-	-	-	SURE	بشر: الباء وشر
+HFN-E-10fe46f3b5#4	OTHER_SENSE	-	-	-	-	-	SURE	شر يشر: جذر شرر
+HFN-E-10fe46f3b5#5	OTHER_SENSE	-	-	-	-	-	SURE	نعب بشر: الباء وشر
+HFN-E-e2b66e7ff3#1	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام عفص بشع يعسر ابتلاعه
+HFN-E-e2b66e7ff3#2	YES	محلّ	تضمّن	-	-	الوادي	SURE	بشع الوادي بشعا امتلأ بالسيل
+HFN-E-e2b66e7ff3#3	YES	محلّ	التزام	عاديّ	مطلق	بسر	SURE	فيها بسر عفص بشع
+HFN-E-e2b66e7ff3#4	YES	محلّ	التزام	عاديّ	مطلق	نبت	SURE	الشريس نبت بشع الطعم
+HFN-E-e2b66e7ff3#5	NO_DHAT	-	-	-	-	-	SURE	كلام بشع خشن
+HFN-E-bb860bb0fe#1	YES	محلّ	تضمّن	-	-	القوائم	UNSURE	البشك خفة في نقل القوائم؛ الإبل
+HFN-E-bb860bb0fe#2	YES	فاعل	تضمّن	-	-	ناقة	UNSURE	ناقة بشكى وهي السريعة
+HFN-E-a1fd3cd2b0#1	YES	محلّ	التزام	عاديّ	مطلق	البهائم	UNSURE	البشم التخمة وأصله في البهائم
+HFN-E-a1fd3cd2b0#2	YES	محلّ	التزام	عاديّ	مطلق	الفصيل	SURE	نجخ الفصيل نجخا بشم
+HFN-E-a1fd3cd2b0#3	YES	محلّ	التزام	عاديّ	مطلق	البعير	SURE	نجخ البعير فهو نجخ بشم
+HFN-E-45598b22ec#1	YES	آلة	التزام	عاديّ	مطلق	العين	UNSURE	ضعف العين حتى لا يكاد يبصر
+HFN-E-45598b22ec#2	NO_DHAT	-	-	-	-	-	UNSURE	رؤية البصر
+HFN-E-45598b22ec#3	YES	آلة	التزام	عاديّ	مطلق	العين	SURE	العين حاسة البصر
+HFN-E-45598b22ec#4	YES	محلّ	التزام	عاديّ	مطلق	العينين	SURE	العمى ذهاب البصر عن العينين
+HFN-E-45598b22ec#5	OTHER_SENSE	-	-	-	-	-	SURE	بصر كل شيء غلظه
+HFN-E-bc2b3071e2#1	YES	آلة	التزام	عاديّ	مطلق	العين	UNSURE	ضعف العين حتى لا يكاد يبصر
+HFN-E-bc2b3071e2#2	NO_DHAT	-	-	-	-	-	UNSURE	رؤية البصر
+HFN-E-bc2b3071e2#3	YES	آلة	التزام	عاديّ	مطلق	العين	SURE	العين حاسة البصر
+HFN-E-bc2b3071e2#4	YES	محلّ	التزام	عاديّ	مطلق	العينين	SURE	العمى ذهاب البصر عن العينين
+HFN-E-bc2b3071e2#5	OTHER_SENSE	-	-	-	-	-	SURE	بصر كل شيء غلظه
+HFN-E-005b85f8b4#1	YES	آلة	التزام	عاديّ	مطلق	العين	UNSURE	ضعف العين حتى لا يكاد يبصر
+HFN-E-005b85f8b4#2	NO_DHAT	-	-	-	-	-	UNSURE	رؤية البصر
+HFN-E-005b85f8b4#3	YES	آلة	التزام	عاديّ	مطلق	العين	SURE	العين حاسة البصر
+HFN-E-005b85f8b4#4	YES	محلّ	التزام	عاديّ	مطلق	العينين	SURE	العمى ذهاب البصر عن العينين
+HFN-E-005b85f8b4#5	OTHER_SENSE	-	-	-	-	-	SURE	بصر كل شيء غلظه
+HFN-E-eb66301db9#1	YES	محلّ	التزام	عاديّ	مطلق	العرق	UNSURE	البصيع العرق، بصع خرج من أصول الشعر
+HFN-E-8679fc2971#1	YES	محلّ	التزام	عاديّ	مطلق	النساء	UNSURE	البضع الجماع بضعها يبضعها
+HFN-E-8679fc2971#2	OTHER_SENSE	-	-	-	-	-	SURE	بضعة وجمعها بضع: قطعة لحم
+HFN-E-8679fc2971#3	OTHER_SENSE	-	-	-	-	-	UNSURE	البضع المهر: اسم
+HFN-E-8679fc2971#4	NO_DHAT	-	-	-	-	-	SURE	أبضعت له الكلام بينته
+HFN-E-8679fc2971#5	YES	محلّ	التزام	عاديّ	مطلق	امرأة	UNSURE	السملق الرديئة في البضع
+HFN-E-b73106eaa6#1	NO_DHAT	-	-	-	-	-	SURE	بطؤ بطاء كأنها غريزة
+HFN-E-b73106eaa6#2	NO_DHAT	-	-	-	-	-	SURE	بطؤ بطأ وهو بطيء
+HFN-E-b73106eaa6#3	NO_DHAT	-	-	-	-	-	UNSURE	طعام العتمة وأصله البطء
+HFN-E-b73106eaa6#4	YES	محلّ	التزام	عاديّ	مطلق	إبل	UNSURE	إبل عواتم وأصله من البطء
+HFN-E-b73106eaa6#5	NO_DHAT	-	-	-	-	-	SURE	لا تعب ولا بطء
+HFN-E-834ca01dba#1	NO_DHAT	-	-	-	-	-	SURE	بطر بطرا مثل الدهش
+HFN-E-834ca01dba#2	NO_DHAT	-	-	-	-	-	SURE	بطر بطرا وهو بطر
+HFN-E-834ca01dba#3	NO_DHAT	-	-	-	-	-	SURE	بطر النعمة إذا لم يشكرها
+HFN-E-834ca01dba#4	NO_DHAT	-	-	-	-	-	SURE	أخذ الأشر البطر
+HFN-E-834ca01dba#5	OTHER_SENSE	-	-	-	-	-	SURE	البطر الشق في جلد
+HFN-E-72d5d1d52a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	بطل بين البطولة: الشجاع
+HFN-E-72d5d1d52a#2	NO_DHAT	-	-	-	-	-	SURE	بطل في حديثه بطالة هزل
+HFN-E-72d5d1d52a#3	YES	فاعل	تضمّن	-	-	رجل	UNSURE	رجل بطال ذو باطل
+HFN-E-72d5d1d52a#4	OTHER_SENSE	-	-	-	-	-	SURE	يشيط على أرماحنا البطل: الشجاع
+HFN-E-72d5d1d52a#5	OTHER_SENSE	-	-	-	-	-	SURE	كما قالوا بطل: مثال صرفيّ للشجاع
+HFN-E-4cb7f13008#1	OTHER_SENSE	-	-	-	-	-	UNSURE	بطل بين البطولة: الشجاع
+HFN-E-4cb7f13008#2	NO_DHAT	-	-	-	-	-	SURE	بطل في حديثه بطالة هزل
+HFN-E-4cb7f13008#3	OTHER_SENSE	-	-	-	-	-	SURE	يشيط على أرماحنا البطل: الشجاع
+HFN-E-4cb7f13008#4	OTHER_SENSE	-	-	-	-	-	SURE	كما قالوا بطل: مثال صرفيّ للشجاع
+HFN-E-4cb7f13008#5	OTHER_SENSE	-	-	-	-	-	SURE	بطل اللقاء: الشجاع
+HFN-E-9dd0513306#1	NO_DHAT	-	-	-	-	-	UNSURE	بطل بين البطولة والبطالة
+HFN-E-9dd0513306#2	OTHER_SENSE	-	-	-	-	-	UNSURE	بطل في حديثه بطالة هزل
+HFN-E-9dd0513306#3	NO_DHAT	-	-	-	-	-	UNSURE	يشيط على أرماحنا البطل
+HFN-E-9dd0513306#4	NO_DHAT	-	-	-	-	-	UNSURE	كما قالوا بطل: مثال صرفيّ
+HFN-E-9dd0513306#5	NO_DHAT	-	-	-	-	-	UNSURE	وكلاهما بطل اللقاء، المرجع غائب
+HFN-E-19d5d9550e#1	OTHER_SENSE	-	-	-	-	-	SURE	جوانب البطن: اسم عضو
+HFN-E-19d5d9550e#2	OTHER_SENSE	-	-	-	-	-	SURE	في البطن الثجل: اسم عضو
+HFN-E-19d5d9550e#3	OTHER_SENSE	-	-	-	-	-	SURE	العظيم البطن: اسم عضو
+HFN-E-19d5d9550e#4	YES	محلّ	تضمّن	-	-	البطن	UNSURE	البطن وجع البطن وقد بطن
+HFN-E-19d5d9550e#5	OTHER_SENSE	-	-	-	-	-	UNSURE	في البطن الهيف والتبطين: اسم عضو
+HFN-E-6149b41243#1	OTHER_SENSE	-	-	-	-	-	SURE	جوانب البطن: اسم عضو
+HFN-E-6149b41243#2	OTHER_SENSE	-	-	-	-	-	SURE	في البطن الثجل: اسم عضو
+HFN-E-6149b41243#3	OTHER_SENSE	-	-	-	-	-	SURE	العظيم البطن: اسم عضو
+HFN-E-6149b41243#4	YES	محلّ	تضمّن	-	-	البطن	SURE	البطن وجع البطن وقد بطن
+HFN-E-6149b41243#5	OTHER_SENSE	-	-	-	-	-	UNSURE	في البطن الهيف والتبطين: اسم عضو
+HFN-E-312714535b#1	OTHER_SENSE	-	-	-	-	-	SURE	جوانب البطن: اسم عضو
+HFN-E-312714535b#2	OTHER_SENSE	-	-	-	-	-	SURE	في البطن الثجل: اسم عضو
+HFN-E-312714535b#3	OTHER_SENSE	-	-	-	-	-	UNSURE	العظيم البطن: اسم عضو
+HFN-E-312714535b#4	YES	محلّ	تضمّن	-	-	البطن	UNSURE	البطن وجع البطن وقد بطن
+HFN-E-312714535b#5	OTHER_SENSE	-	-	-	-	-	UNSURE	في البطن الهيف والتبطين: اسم عضو
+HFN-E-acbbaaa88d#1	OTHER_SENSE	-	-	-	-	-	SURE	البظارة هو البظر: اسم عضو
+HFN-E-acbbaaa88d#2	OTHER_SENSE	-	-	-	-	-	SURE	طويلة البظر: اسم عضو
+HFN-E-787f0294d0#1	YES	فاعل	التزام	عاديّ	مطلق	شيخ	SURE	بعث شيخ ابنين له؛ محلّ ابنين
+HFN-E-787f0294d0#2	YES	فاعل	التزام	عاديّ	مطلق	الأمير	SURE	بعث به الأمير رسوله
+HFN-E-787f0294d0#3	YES	محلّ	تضمّن	-	-	الرجل	SURE	بعثت الرجل من نومه نبهته
+HFN-E-787f0294d0#4	NO_DHAT	-	-	-	-	-	SURE	البعث على طلبه
+HFN-E-787f0294d0#5	YES	محلّ	التزام	عاديّ	مطلق	النبي	SURE	فلما بعث عليه السلام
+HFN-E-6cb1e7b2b3#1	YES	فاعل	التزام	عاديّ	مطلق	شيخ	UNSURE	بعث شيخ ابنين له
+HFN-E-6cb1e7b2b3#2	YES	فاعل	التزام	عاديّ	مطلق	الأمير	UNSURE	بعث به الأمير رسوله
+HFN-E-6cb1e7b2b3#3	YES	محلّ	تضمّن	-	-	الرجل	SURE	بعثت الرجل من نومه نبهته
+HFN-E-6cb1e7b2b3#4	NO_DHAT	-	-	-	-	-	SURE	البعث على طلبه
+HFN-E-6cb1e7b2b3#5	YES	محلّ	التزام	عاديّ	مطلق	النبي	UNSURE	فلما بعث عليه السلام

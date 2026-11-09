@@ -8,7 +8,9 @@ A,B=rd(sys.argv[2]),rd(sys.argv[3])
 def W(x,n,z=1.96):
     if n==0: return 0
     p=x/n; return round((p+z*z/(2*n)-z*sqrt(p*(1-p)/n+z*z/(4*n*n)))/(1+z*z/n),3)
-def nz(x): x=(x or '').strip(); return '-' if x in ('','-','—') else x
+import re
+HAR=re.compile(r'[\u064b-\u0652\u0670\u0640]')
+def nz(x): x=HAR.sub('',(x or '')).strip(); return '-' if x in ('','-','—') else x
 def key(r):
     v=nz(r.get('verdict'))
     return (v,) if v!='YES' else (v,nz(r.get('role')),nz(r.get('dalala')),nz(r.get('luzum_martaba')))
