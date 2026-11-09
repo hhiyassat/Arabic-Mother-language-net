@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-8dcba141fe#1	OTHER_SENSE	-	-	-	-	-	SURE	تعرض جبهته من العَرْض لا التعرّض
+HFN-E-8dcba141fe#2	YES	فاعل	التزام	عادي	مطلق	ضيطار	UNSURE	تعرض ضيطار وفعالة دوننا
+HFN-E-8dcba141fe#3	NO_DHAT	-	-	-	-	-	UNSURE	إنه لحك شر أي متعرض له
+HFN-E-8dcba141fe#4	YES	محلّ	التزام	عادي	مطلق	خشبة	UNSURE	خشبة تعرض على الحائط؛ الحائط مكان
+HFN-E-8dcba141fe#5	YES	فاعل	تضمّن	-	-	الفرس	SURE	عرض الفرس وتعرض مشى عرضا
+HFN-E-0b655cf868#1	YES	محلّ	تضمّن	-	-	الفرس	SURE	أعرف الفرس طال عرفه
+HFN-E-0b655cf868#2	YES	محلّ	تضمّن	-	-	الفرس	SURE	أعرف الفرس طال عرفه
+HFN-E-0b655cf868#3	OTHER_SENSE	-	-	-	-	-	SURE	والأول أعرف تفضيل من المعرفة
+HFN-E-0b655cf868#4	OTHER_SENSE	-	-	-	-	-	SURE	من أعرف العضاه تفضيل
+HFN-E-0b655cf868#5	OTHER_SENSE	-	-	-	-	-	SURE	أعراف السفا جمع اسم
+HFN-E-e593dafa69#1	OTHER_SENSE	-	-	-	-	-	SURE	العرف اسم عضو
+HFN-E-e593dafa69#2	NO_DHAT	-	-	-	-	-	UNSURE	لام التعريف مصطلح نحوي
+HFN-E-e593dafa69#3	OTHER_SENSE	-	-	-	-	-	SURE	للنخلة عرف اسم
+HFN-E-e593dafa69#4	NO_DHAT	-	-	-	-	-	UNSURE	دخول الألف واللام للتعريف
+HFN-E-e593dafa69#5	NO_DHAT	-	-	-	-	-	SURE	عرفته الأمر أعلمته إياه
+HFN-E-13ac2bbd4a#1	NO_DHAT	-	-	-	-	-	SURE	الاعتراف الإقرار بالذنب
+HFN-E-b94a3b4e8d#1	YES	فاعل	تضمّن	-	-	القوم	UNSURE	تعارف القوم الشيء عرفوه
+HFN-E-b94a3b4e8d#2	YES	فاعل	التزام	عادي	مطلق	قوم	UNSURE	قوم يجتمعون على الشراب من غير تعارف
+HFN-E-b94a3b4e8d#3	YES	فاعل	التزام	عادي	مطلق	القوم	UNSURE	القوم يجتمعون للشراب من غير تعارف
+HFN-E-7d71a42ea9#1	YES	فاعل	التزام	عادي	مطلق	أعمامه وأخواله	UNSURE	عرق فيه أعمامه وأخواله وأعرقوا
+HFN-E-7d71a42ea9#2	OTHER_SENSE	-	-	-	-	-	SURE	أعراق جمع عرق الحائط
+HFN-E-7d71a42ea9#3	OTHER_SENSE	-	-	-	-	-	SURE	أعراق الثرى جمع اسم
+HFN-E-7d71a42ea9#4	OTHER_SENSE	-	-	-	-	-	SURE	نزعت إلى أعراق جمع اسم
+HFN-E-7d71a42ea9#5	OTHER_SENSE	-	-	-	-	-	SURE	نزعت إلى أعراق جمع اسم
+HFN-E-e0bff158df#1	OTHER_SENSE	-	-	-	-	-	UNSURE	العرق الضاري السائل اسم العرق
+HFN-E-e0bff158df#2	YES	محلّ	التزام	عادي	مطلق	الجسم	UNSURE	الرشح العرق تندية الجسم بالعرق
+HFN-E-e0bff158df#3	OTHER_SENSE	-	-	-	-	-	SURE	أسفل عرق في الحائط اسم
+HFN-E-e0bff158df#4	OTHER_SENSE	-	-	-	-	-	SURE	الفليق عرق في العضد اسم
+HFN-E-e0bff158df#5	OTHER_SENSE	-	-	-	-	-	SURE	الوتين عرق أبيض اسم
+HFN-E-37713c7760#1	OTHER_SENSE	-	-	-	-	-	SURE	شجر العرى اسم
+HFN-E-37713c7760#2	OTHER_SENSE	-	-	-	-	-	SURE	العرى ما ستره اسم مكان
+HFN-E-37713c7760#3	OTHER_SENSE	-	-	-	-	-	SURE	لها عرى جمع عروة
+HFN-E-37713c7760#4	OTHER_SENSE	-	-	-	-	-	SURE	ذوا عرى جمع عروة
+HFN-E-37713c7760#5	YES	محلّ	التزام	عادي	مطلق	رجل	SURE	عري عريا وعريته ورجل عار
+HFN-E-93cae0338d#1	NO_DHAT	-	-	-	-	-	SURE	أعزب هو حلمه وأعزبه الله عنه
+HFN-E-93cae0338d#2	YES	فاعل	تضمّن	-	-	القوم	SURE	أعزب القوم صادفوا كلأ عازبا
+HFN-E-93cae0338d#3	OTHER_SENSE	-	-	-	-	-	SURE	هراوة الأعزاب اسم فرس
+HFN-E-8c467441db#1	OTHER_SENSE	-	-	-	-	-	UNSURE	امرأة عزبة لا زوج لها
+HFN-E-8c467441db#2	YES	فاعل	التزام	عادي	مطلق	الراعي	SURE	عزب بها الراعي وعزبها؛ الإبل محلّ
+HFN-E-8c467441db#3	YES	فاعل	تضمّن	-	-	الراعي	SURE	تعزيب الراعي إبله بعده بها
+HFN-E-8c467441db#4	OTHER_SENSE	-	-	-	-	-	SURE	العزب الجلجب غير المتزوج
+HFN-E-8c467441db#5	NO_DHAT	-	-	-	-	-	UNSURE	عزب عنه حلمه ذهب
+HFN-E-48723bf0a9#1	YES	فاعل	التزام	عادي	مطلق	الراعي	UNSURE	عزبت تعزب وعزب بها الراعي
+HFN-E-48723bf0a9#2	YES	فاعل	تضمّن	-	-	نعم	UNSURE	نعم عزيب أي عازب عن أهله
+HFN-E-163072daff#1	OTHER_SENSE	-	-	-	-	-	UNSURE	أعزل وأعزال جمع صفة
+HFN-E-163072daff#2	NO_DHAT	-	-	-	-	-	UNSURE	الأعزل الذي لا سلاح معه
+HFN-E-163072daff#3	OTHER_SENSE	-	-	-	-	-	SURE	السماك الأعزل اسم نجم
+HFN-E-163072daff#4	OTHER_SENSE	-	-	-	-	-	SURE	السماك الأعزل اسم نجم
+HFN-E-163072daff#5	OTHER_SENSE	-	-	-	-	-	SURE	سماك ذو سلاح وأعزل نجم
+HFN-E-5c5cc7b069#1	YES	فاعل	التزام	عادي	مطلق	النخل	UNSURE	اعتزل النخل هذا كله
+HFN-E-5c5cc7b069#2	YES	محلّ	التزام	عادي	مطلق	القصالة	UNSURE	القصالة ما اعتزل عن الحب
+HFN-E-5c5cc7b069#3	YES	فاعل	تضمّن	-	-	الرجل	SURE	الرجل يعزل عن المرأة ويعتزل
+HFN-E-5c5cc7b069#4	YES	فاعل	التزام	عادي	مطلق	رجل	UNSURE	رجل ذو جنبة أي اعتزال
+HFN-E-78194c9830#1	NO_DHAT	-	-	-	-	-	UNSURE	عزلت الشيء فانعزل
+HFN-E-aef6b14848#1	YES	محلّ	التزام	عادي	مطلق	شاة	UNSURE	الأكولة فالتي تعزل للأكل
+HFN-E-aef6b14848#2	YES	محلّ	التزام	عادي	مطلق	الغنم	UNSURE	الأكولة من الغنم التي تعزل للأكل
+HFN-E-aef6b14848#3	YES	محلّ	التزام	عادي	مطلق	النخلة	UNSURE	النخلة التي تعزل للأكل
+HFN-E-aef6b14848#4	NO_DHAT	-	-	-	-	-	UNSURE	ونحيته فانعزل وتعزل؛ الشيء
+HFN-E-19a467fcac#1	YES	مكان	تضمّن	-	-	الطريق	UNSURE	اعتزام الطريق إذا ركبته ماضيا
+HFN-E-19a467fcac#2	YES	فاعل	تضمّن	-	-	الفرس	SURE	اعتزم الفرس في الجري مر جامحا
+HFN-E-535a2c1ec6#1	NO_DHAT	-	-	-	-	-	SURE	ما لم تعزم للحاجة
+HFN-E-e1cc19be97#1	NO_DHAT	-	-	-	-	-	SURE	الاعتزاء الشعار في الحرب الانتماء
+HFN-E-e1cc19be97#2	NO_DHAT	-	-	-	-	-	SURE	الاعتزاء أن يدعو بعضهم بعضا
+HFN-E-e1cc19be97#3	NO_DHAT	-	-	-	-	-	UNSURE	اعتزى هو إليهم ضمير بلا مرجع
+HFN-E-eb04ee1283#1	OTHER_SENSE	-	-	-	-	-	UNSURE	أعسر للذي يعمل بيسراه
+HFN-E-eb04ee1283#2	OTHER_SENSE	-	-	-	-	-	SURE	الأعسر الأحمق
+HFN-E-eb04ee1283#3	OTHER_SENSE	-	-	-	-	-	UNSURE	عسرت عليه خالفته
+HFN-E-eb04ee1283#4	NO_DHAT	-	-	-	-	-	UNSURE	المعسر الفقير وقد أعسر صار ذا عسر
+HFN-E-756430389c#1	YES	محلّ	تضمّن	-	-	الغزل	UNSURE	تعسر الغزل وهو التواؤه
+HFN-E-756430389c#2	NO_DHAT	-	-	-	-	-	SURE	عسرته ضيقت عليه
+HFN-E-756430389c#3	YES	محلّ	تضمّن	-	-	المرأة	SURE	أعسرت المرأة عسر ولادها
+HFN-E-756430389c#4	YES	محلّ	تضمّن	-	-	بطنه	UNSURE	عسر عليه ما في بطنه احتبس
+HFN-E-756430389c#5	YES	محلّ	التزام	عادي	مطلق	البقرة	UNSURE	البقرة وهي مغز عسر حملها
+HFN-E-23e5575af0#1	NO_DHAT	-	-	-	-	-	SURE	تعسر وتعاسر واستعسر اشتد
+HFN-E-f7be7d1b82#1	YES	محلّ	تضمّن	-	-	الغزل	UNSURE	تعسر الغزل وهو التواؤه
+HFN-E-f7be7d1b82#2	NO_DHAT	-	-	-	-	-	SURE	سألناه حاجة فتوعر أي تعسر
+HFN-E-f7be7d1b82#3	YES	محلّ	التزام	عادي	مطلق	البعير	UNSURE	تعسر عليه البول؛ البول أيضا
+HFN-E-f7be7d1b82#4	YES	زمان	تضمّن	-	-	الزمان	UNSURE	تعسر علينا الزمان اشتد
+HFN-E-f7be7d1b82#5	NO_DHAT	-	-	-	-	-	SURE	تعسر وتعاسر واستعسر اشتد
+HFN-E-efe0ad0bbe#1	YES	مكان	التزام	عادي	مطلق	القاع	SURE	القاع الحر الطيب إذا أعشب
+HFN-E-efe0ad0bbe#2	YES	مكان	التزام	عادي	مطلق	البلد	SURE	بلد عاشب ولا يقولون إلا أعشب
+HFN-E-efe0ad0bbe#3	YES	محلّ	تضمّن	-	-	عشبا	UNSURE	أعشب القوم أصابوا عشبا؛ القوم فاعل
+HFN-E-efe0ad0bbe#4	OTHER_SENSE	-	-	-	-	-	SURE	أعشاب الأرض جمع اسم
+HFN-E-efe0ad0bbe#5	OTHER_SENSE	-	-	-	-	-	SURE	أصول جميع الأعشاب جمع اسم
+HFN-E-fc19195e4e#1	OTHER_SENSE	-	-	-	-	-	SURE	قدر أعشار متكسرة صفة جمع
+HFN-E-fc19195e4e#2	OTHER_SENSE	-	-	-	-	-	SURE	برمة أعشار صفة جمع
+HFN-E-fc19195e4e#3	OTHER_SENSE	-	-	-	-	-	SURE	شباريق أعشار جمع
+HFN-E-fc19195e4e#4	OTHER_SENSE	-	-	-	-	-	SURE	غمد أعشار متكسر
+HFN-E-383a4c37ee#1	OTHER_SENSE	-	-	-	-	-	SURE	من الثلاث إلى العشر عدد
+HFN-E-383a4c37ee#2	OTHER_SENSE	-	-	-	-	-	SURE	من واحدة إلى عشر عدد
+HFN-E-383a4c37ee#3	OTHER_SENSE	-	-	-	-	-	SURE	من عشر إلى خمس عشرة عدد
+HFN-E-383a4c37ee#4	YES	فاعل	تضمّن	-	-	الحمار	SURE	عشر الحمار نهق عشرا
+HFN-E-383a4c37ee#5	OTHER_SENSE	-	-	-	-	-	SURE	الرمث والعشر اسم شجر
+HFN-E-d22fcf4db0#1	NO_DHAT	-	-	-	-	-	SURE	عشن واعتشن رأى برأيه
+HFN-E-d22fcf4db0#2	NO_DHAT	-	-	-	-	-	SURE	عشن واعتشن قال به
+HFN-E-d22fcf4db0#3	NO_DHAT	-	-	-	-	-	SURE	عشن برأيه واعتشن
+HFN-E-58a6eddd23#1	YES	محلّ	التزام	عادي	مطلق	رجل	UNSURE	رجل أعشى وامرأة عشواء وقد عشي
+HFN-E-58a6eddd23#2	OTHER_SENSE	-	-	-	-	-	SURE	قول الأعشى علم شاعر
+HFN-E-58a6eddd23#3	OTHER_SENSE	-	-	-	-	-	SURE	قال الأعشى علم شاعر
+HFN-E-58a6eddd23#4	OTHER_SENSE	-	-	-	-	-	SURE	قال الأعشى علم شاعر
+HFN-E-58a6eddd23#5	OTHER_SENSE	-	-	-	-	-	SURE	أعشى بني قيس علم
+HFN-E-73ca7b5b54#1	NO_DHAT	-	-	-	-	-	UNSURE	وأعشيته من بعد ما راث عشيه
+HFN-E-73ca7b5b54#2	OTHER_SENSE	-	-	-	-	-	UNSURE	نمسي بالعشي اسم وقت
+HFN-E-d7afdebc5b#1	OTHER_SENSE	-	-	-	-	-	SURE	انتفاخ في العصب اسم عضو
+HFN-E-d7afdebc5b#2	YES	محلّ	التزام	عادي	مطلق	غزله	UNSURE	ثياب يعصب غزله ثم يصبغ
+HFN-E-d7afdebc5b#3	OTHER_SENSE	-	-	-	-	-	SURE	السناسن من العصب اسم
+HFN-E-d7afdebc5b#4	OTHER_SENSE	-	-	-	-	-	SURE	العصب السمر اسم عضو
+HFN-E-d7afdebc5b#5	OTHER_SENSE	-	-	-	-	-	SURE	ما واصل العصب اسم
+HFN-E-621b94c3ce#1	YES	آلة	التزام	عادي	مطلق	العصابة	UNSURE	عصب رأسه بالعصابة وكذلك اعتصب؛ رأسه محلّ
+HFN-E-621b94c3ce#2	YES	آلة	التزام	عادي	مطلق	التاج	SURE	اعتصب بالتاج وعصب به
+HFN-E-2b70a5b4a0#1	YES	محلّ	التزام	عادي	مطلق	فخذاها	UNSURE	لا تدر حتى تعصب فخذاها
+HFN-E-2b70a5b4a0#2	YES	آلة	التزام	عادي	مطلق	الخرقة	UNSURE	الخرقة فتعصب بها يدك؛ يدك محلّ
+HFN-E-2b70a5b4a0#3	NO_DHAT	-	-	-	-	-	UNSURE	تمضر تعصب لمضر؛ مضر علم
+HFN-E-19d22cbeb4#1	YES	محلّ	التزام	عادي	مطلق	الخناق	UNSURE	انعصار الخناق في عنقه
+HFN-E-19d22cbeb4#2	YES	محلّ	التزام	عادي	مطلق	العنب	UNSURE	انعصر وتعصر يعصرون العنب؛ أحجار آلة
+HFN-E-f096f99b31#1	YES	محلّ	التزام	عادي	مطلق	العنب	UNSURE	انعصر وتعصر يعصرون العنب بها
+HFN-E-f096f99b31#2	OTHER_SENSE	-	-	-	-	-	UNSURE	يعصر فينا كالذي تعصر عطاء
+HFN-E-f096f99b31#3	OTHER_SENSE	-	-	-	-	-	UNSURE	يعصر فينا كالذي تعصر إصابة
+HFN-E-5605db4bdf#1	YES	فاعل	التزام	عادي	مطلق	فيلق	UNSURE	فيلق تعصف بالدارع والحاسر
+HFN-E-5605db4bdf#2	NO_DHAT	-	-	-	-	-	SURE	الإعصاف والإعصاب الإسراع
+HFN-E-5605db4bdf#3	YES	محلّ	التزام	عادي	مطلق	الزرع	UNSURE	عصفه وقد أعصف؛ عصف الزرع
+HFN-E-5605db4bdf#4	NO_DHAT	-	-	-	-	-	SURE	العصف الكسب عصفت واعتصفت
+HFN-E-4e9203ca8a#1	YES	محلّ	تضمّن	-	-	الشجر	UNSURE	اعتصى الشجر قطعها فضرب بها
+HFN-E-b7d17cf81f#1	YES	محلّ	التزام	عادي	مطلق	القرن	SURE	عضبت القرن فانعضب
+HFN-E-61ccedc11a#1	YES	محلّ	التزام	عقليّ	ذهنيّ	العضد	UNSURE	عضدته أعضده عضدا؛ مشتق من العضد
+HFN-E-61ccedc11a#2	OTHER_SENSE	-	-	-	-	-	SURE	حوض مرتفع الأعضاد جمع اسم
+HFN-E-61ccedc11a#3	OTHER_SENSE	-	-	-	-	-	SURE	أعضاد الفلجان جمع اسم
+HFN-E-61ccedc11a#4	OTHER_SENSE	-	-	-	-	-	SURE	أعضاد الدبرة جمع اسم
+HFN-E-61ccedc11a#5	OTHER_SENSE	-	-	-	-	-	SURE	رفع الأعضاد جمع اسم
+HFN-E-f91b76745d#1	OTHER_SENSE	-	-	-	-	-	SURE	العضد ما بين المرفق والكتف اسم
+HFN-E-f91b76745d#2	OTHER_SENSE	-	-	-	-	-	SURE	الرأس والعضد والكتف اسم عضو
+HFN-E-f91b76745d#3	OTHER_SENSE	-	-	-	-	-	SURE	سنشد عضدك اسم عضو
+HFN-E-f91b76745d#4	OTHER_SENSE	-	-	-	-	-	SURE	يخلج عضده اسم عضو
+HFN-E-f91b76745d#5	OTHER_SENSE	-	-	-	-	-	SURE	عضد فتلاء اسم عضو
+HFN-E-909b429aa3#1	YES	فاعل	التزام	عادي	مطلق	أهل الكوفة	SURE	أعضل بي أهل الكوفة
+HFN-E-d082b6d725#1	YES	محلّ	تضمّن	-	-	الأطباء	UNSURE	تعضل الأطباء أعياهم
+HFN-E-d4f16b20a0#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	عضهت الرجل وأعضهته قلت فيه
+HFN-E-d4f16b20a0#2	YES	محلّ	تضمّن	-	-	العضاه	UNSURE	أعضه القوم رعت إبلهم العضاه؛ القوم فاعل
+HFN-E-5e765c7cb4#1	OTHER_SENSE	-	-	-	-	-	SURE	العطبة الخرقة اسم
+HFN-E-5e765c7cb4#2	OTHER_SENSE	-	-	-	-	-	UNSURE	ظهر لها عطب فيقال عطب الكرم
+HFN-E-5e765c7cb4#3	NO_DHAT	-	-	-	-	-	UNSURE	فزلت قدمه وعطب؛ فاعله من
+HFN-E-5e765c7cb4#4	OTHER_SENSE	-	-	-	-	-	UNSURE	العطب القطن وقد عطبت شجرته
+HFN-E-5e765c7cb4#5	YES	محلّ	تضمّن	-	-	الإبل	UNSURE	عطب الشيء هلك وخص به الإبل
+HFN-E-05922678a8#1	YES	فاعل	التزام	عادي	مطلق	جنى	SURE	لها جنى مر إذا أكل أعطش
+HFN-E-8a81c19e86#1	NO_DHAT	-	-	-	-	-	UNSURE	تغوج في مشيه انعطف
+HFN-E-8a81c19e86#2	NO_DHAT	-	-	-	-	-	UNSURE	كل ما انعطف وانحنى فقد استقوس
+HFN-E-8a81c19e86#3	YES	محلّ	تضمّن	-	-	العود	SURE	عطفت العود ثنيته وقد انعطف
+HFN-E-fb82adcd36#1	YES	فاعل	التزام	عادي	مطلق	العلوق	UNSURE	ما تتعطف به العلوق رائمة
+HFN-E-fb82adcd36#2	YES	فاعل	التزام	عادي	مطلق	امرأة	SURE	تعطف عليه عطف وامرأة عاطف على ولدها
+HFN-E-fb82adcd36#3	YES	فاعل	التزام	عادي	مطلق	بزل	UNSURE	لم تعطف على ولد فتشمه
+HFN-E-fb82adcd36#4	YES	آلة	التزام	عقليّ	ذهنيّ	العطاف	UNSURE	العطاف الإزار وتعطف به توشح
+HFN-E-fb82adcd36#5	YES	فاعل	التزام	عادي	مطلق	أمه	SURE	ثم تعطف عليه أمه فترأمه
+HFN-E-b5aed47764#1	YES	محلّ	التزام	عادي	مطلق	الابل	SURE	عطن الابل مبركها وقد أعطنتها
+HFN-E-b5aed47764#2	OTHER_SENSE	-	-	-	-	-	SURE	أعطان الإبل جمع اسم مكان
+HFN-E-82e180f814#1	YES	محلّ	تضمّن	-	-	الإهاب	SURE	عطنت الإهاب إذا لففته ودفنته
+HFN-E-82e180f814#2	YES	فاعل	التزام	عادي	مطلق	الابل	UNSURE	بركت فهي عواطن عطنت تعطن
+HFN-E-82e180f814#3	OTHER_SENSE	-	-	-	-	-	SURE	عطن الغنم مربضها اسم مكان
+HFN-E-82e180f814#4	OTHER_SENSE	-	-	-	-	-	SURE	رحب الصدر والعطن اسم
+HFN-E-82e180f814#5	OTHER_SENSE	-	-	-	-	-	SURE	العطن ورحب الذراع اسم
+HFN-E-f041727efe#1	OTHER_SENSE	-	-	-	-	-	UNSURE	أعظم من التلاع تفضيل حجم
+HFN-E-f041727efe#2	OTHER_SENSE	-	-	-	-	-	UNSURE	يا أعظم القسين جردانا تفضيل
+HFN-E-f041727efe#3	OTHER_SENSE	-	-	-	-	-	UNSURE	أصلب منها وأتر وأعظم تفضيل
+HFN-E-f041727efe#4	OTHER_SENSE	-	-	-	-	-	UNSURE	هو أعظم الحيات تفضيل
+HFN-E-f041727efe#5	OTHER_SENSE	-	-	-	-	-	UNSURE	هن أعظم من بعض الحبشي تفضيل
+HFN-E-8a1d43145e#1	OTHER_SENSE	-	-	-	-	-	SURE	تعرق العظم اسم
+HFN-E-8a1d43145e#2	OTHER_SENSE	-	-	-	-	-	SURE	طرائق عظم الرأس اسم
+HFN-E-8a1d43145e#3	OTHER_SENSE	-	-	-	-	-	SURE	وقرت العظم اسم
+HFN-E-8a1d43145e#4	YES	محلّ	التزام	عادي	مطلق	رأسه	UNSURE	رئس رأسا عظم رأسه
+HFN-E-8a1d43145e#5	OTHER_SENSE	-	-	-	-	-	SURE	العظم قصب اللحم اسم
+HFN-E-33c8d18ea7#1	YES	محلّ	التزام	عادي	مطلق	شجيرة	UNSURE	الغضورة شجيرة غبراء تعظم
+HFN-E-33c8d18ea7#2	YES	محلّ	التزام	عادي	مطلق	التربة	UNSURE	التربة لا تطول ولا تعظم
+HFN-E-33c8d18ea7#3	YES	محلّ	التزام	عادي	مطلق	السرة	UNSURE	السرة عظمت أو لم تعظم
+HFN-E-33c8d18ea7#4	YES	محلّ	التزام	عادي	مطلق	البيضتين	UNSURE	تصغر إحدى البيضتين وتعظم الأخرى
+HFN-E-33c8d18ea7#5	YES	آلة	التزام	عادي	مطلق	العظامة	UNSURE	العظامة تعظم به المرأة عجيزتها
+HFN-E-bfeb1d42d2#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الأعفت الأحمق صفة
+HFN-E-bfeb1d42d2#2	NO_DHAT	-	-	-	-	-	UNSURE	عفت أعفت عفتا في الرطب واليابس
+HFN-E-2dc2040936#1	OTHER_SENSE	-	-	-	-	-	UNSURE	كالبراء الأعفر صفة لون
+HFN-E-2dc2040936#2	OTHER_SENSE	-	-	-	-	-	UNSURE	كالبراء الأعفر صفة لون
+HFN-E-2dc2040936#3	OTHER_SENSE	-	-	-	-	-	SURE	العفر والجمع أعفار
+HFN-E-2dc2040936#4	YES	آلة	تضمّن	-	-	العفر	UNSURE	عفرته ضربت به العفر
+HFN-E-d1673f77d7#1	OTHER_SENSE	-	-	-	-	-	SURE	رجل عفر وعفريت صفة
+HFN-E-d1673f77d7#2	YES	آلة	تضمّن	-	-	العفر	SURE	عفرته مشدد ضربت به العفر
+HFN-E-d1673f77d7#3	OTHER_SENSE	-	-	-	-	-	UNSURE	أول سقية يسقاها الزرع العفر
+HFN-E-d1673f77d7#4	OTHER_SENSE	-	-	-	-	-	SURE	لقيته عن عفر بعد شهر
+HFN-E-d1673f77d7#5	OTHER_SENSE	-	-	-	-	-	SURE	العفر الشجاع الجلد
+HFN-E-f618be62c7#1	YES	آلة	تضمّن	-	-	العفر	UNSURE	ضربت به العفر وقد انعفر
+HFN-E-4b51bd5bd8#1	YES	آلة	تضمّن	-	-	العفر	UNSURE	ضربت به العفر وقد انعفر وتعفر
+HFN-E-a119c1b2fd#1	YES	فاعل	تضمّن	-	-	الوحشي	SURE	تعفق الوحشي بالأكمة لاذ بها
+HFN-E-a119c1b2fd#2	OTHER_SENSE	-	-	-	-	-	UNSURE	عفقت الإبل أرسلت في المرعى
+HFN-E-a1c178abc9#1	YES	محلّ	التزام	عادي	مطلق	الثوب	UNSURE	جعل فوقه ثياب فتعفن؛ الحبال أيضا
+HFN-E-a1c178abc9#2	YES	محلّ	التزام	عادي	مطلق	الثمرة	SURE	بقيت لم تؤكل حتى تسود وتعفن
+HFN-E-a1c178abc9#3	NO_DHAT	-	-	-	-	-	SURE	عفن الشيء وتعفن فسد
+HFN-E-a25468bb87#1	OTHER_SENSE	-	-	-	-	-	SURE	والجمع أعقاب وأعقب جمع العقب
+HFN-E-a25468bb87#2	OTHER_SENSE	-	-	-	-	-	SURE	الأعقاب الخزف جمع اسم
+HFN-E-a25468bb87#3	OTHER_SENSE	-	-	-	-	-	SURE	صلينا أعقاب الفريضة اسم
+HFN-E-a25468bb87#4	OTHER_SENSE	-	-	-	-	-	SURE	من أعقاب السمي اسم
+HFN-E-a25468bb87#5	OTHER_SENSE	-	-	-	-	-	SURE	الضرب بالاعقاب جمع اسم
+HFN-E-fda5754f65#1	YES	فاعل	تضمّن	-	-	الفرس	UNSURE	فرس ذو عقب له جري بعد جري
+HFN-E-fda5754f65#2	OTHER_SENSE	-	-	-	-	-	SURE	عقبت الرجل ضربت عقبه
+HFN-E-fda5754f65#3	OTHER_SENSE	-	-	-	-	-	SURE	عقب السهم اسم
+HFN-E-fda5754f65#4	OTHER_SENSE	-	-	-	-	-	SURE	العقب عصب المتنين اسم
+HFN-E-fda5754f65#5	OTHER_SENSE	-	-	-	-	-	SURE	النعل العقب اسم
+HFN-E-5917764e7f#1	YES	فاعل	تضمّن	-	-	الشيب	UNSURE	عقب الشيب بعد السواد جاء بعده
+HFN-E-5917764e7f#2	NO_DHAT	-	-	-	-	-	UNSURE	ندعوها نحن المعاقبة مصطلح صرفي
+HFN-E-5917764e7f#3	NO_DHAT	-	-	-	-	-	UNSURE	المعاقبة التي بين الياء والواو
+HFN-E-5917764e7f#4	YES	فاعل	تضمّن	-	-	السائمة	SURE	خلطت السائمة في رعيها فتلك المعاقبة
+HFN-E-5917764e7f#5	NO_DHAT	-	-	-	-	-	UNSURE	أن يكون معاقبة كالصياغ والصواغ
+HFN-E-7c7ae2777a#1	NO_DHAT	-	-	-	-	-	UNSURE	مما اعتقب عليه المثالان
+HFN-E-7c7ae2777a#2	NO_DHAT	-	-	-	-	-	UNSURE	اعتقب المثالان عليه
+HFN-E-7c7ae2777a#3	NO_DHAT	-	-	-	-	-	UNSURE	فان اعتقب من شربها أذى
+HFN-E-7c7ae2777a#4	YES	فاعل	التزام	عادي	مطلق	البائع	UNSURE	المعتقب ضامن يعني البائع
+HFN-E-7c7ae2777a#5	YES	فاعل	التزام	عادي	مطلق	فلان	UNSURE	أتى فلان خيرا واعتقب بخير
+HFN-E-50ec73f5c4#1	NO_DHAT	-	-	-	-	-	SURE	بذل الوسع في التعقب
+HFN-E-50ec73f5c4#2	YES	زمان	التزام	عادي	مطلق	سنة	UNSURE	سنة حاطوم تعقب جدبا
+HFN-E-50ec73f5c4#3	YES	فاعل	تضمّن	-	-	الراعية	UNSURE	عقبت الراعية تحولت من مرعى إلى مرعى
+HFN-E-50ec73f5c4#4	YES	فاعل	التزام	عادي	مطلق	فلان	UNSURE	أتى فلان خيرا واعتقب وتعقب
+HFN-E-50ec73f5c4#5	YES	زمان	التزام	عادي	مطلق	الأيام	UNSURE	فإن تعقب الأيام والدهر
+HFN-E-2efce5fcc9#1	NO_DHAT	-	-	-	-	-	SURE	الرأي الذي هو الإعتقاد والمذهب
+HFN-E-2efce5fcc9#2	NO_DHAT	-	-	-	-	-	SURE	على اعتقاد فعل
+HFN-E-2efce5fcc9#3	NO_DHAT	-	-	-	-	-	SURE	دعا إلى اعتقاد هذا
+HFN-E-2efce5fcc9#4	NO_DHAT	-	-	-	-	-	UNSURE	اعتقد تأنيث الريشة لفظا
+HFN-E-2efce5fcc9#5	YES	فاعل	تضمّن	-	-	فلان	UNSURE	اعتقد فلان أرضا اشتراها؛ أرضا محلّ
+HFN-E-0454260fb5#1	YES	محلّ	التزام	عادي	مطلق	الحبل	UNSURE	الحبل العظيم يكون فيه حقفة وتعقد
+HFN-E-0454260fb5#2	YES	محلّ	التزام	عادي	مطلق	الثرى	SURE	أصل التنصب تعقد الثرى وتجعده
+HFN-E-0454260fb5#3	YES	محلّ	التزام	عادي	مطلق	مأبضاه	SURE	تعقد منها مأبضاه وحالبه
+HFN-E-0454260fb5#4	YES	محلّ	التزام	عادي	مطلق	معاقم	SURE	تعقد معاقم المشركين
+HFN-E-0454260fb5#5	YES	محلّ	التزام	عادي	مطلق	الوذم	UNSURE	الوذم الحزة من الكرش تعقد وتلوى
+HFN-E-94ee9ae2c2#1	YES	فاعل	تضمّن	-	-	الرحل	UNSURE	عقر الرحل ظهر البعير أدبره فاعتقر
+HFN-E-9c99905be3#1	YES	فاعل	تضمّن	-	-	الرحل	UNSURE	عقر الرحل ظهر البعير فانعقر
+HFN-E-a23041cb4c#1	YES	فاعل	التزام	عادي	مطلق	الخمر	UNSURE	للخمر عقار لأنها تعقر شاربها
+HFN-E-a23041cb4c#2	YES	محلّ	التزام	عادي	مطلق	المرأة	UNSURE	للمرأة عقرى عقرها الله؛ تعقر قومها
+HFN-E-94c0cf1329#1	YES	محلّ	التزام	عادي	مطلق	خشبة	UNSURE	العقافة خشبة في رأسها حجنة من العقف
+HFN-E-c84151b38d#1	YES	محلّ	تضمّن	-	-	أصابعهم	UNSURE	العقاف داء فتعقف أصابعهم
+HFN-E-c84151b38d#2	YES	محلّ	التزام	عادي	مطلق	الرجلين	UNSURE	قصر في الرجلين واليدين والتعقف
+HFN-E-c84151b38d#3	YES	محلّ	التزام	عادي	مطلق	خشبة	UNSURE	العقافة خشبة في رأسها حجنة فانعقف وتعقف
+HFN-E-c84151b38d#4	YES	محلّ	التزام	عادي	مطلق	أغصانه	SURE	شجر وتعقف أغصانه
+HFN-E-f78fe60d1c#1	OTHER_SENSE	-	-	-	-	-	SURE	ضعف العقل اسم
+HFN-E-f78fe60d1c#2	OTHER_SENSE	-	-	-	-	-	UNSURE	العقل ضد الحمق
+HFN-E-f78fe60d1c#3	OTHER_SENSE	-	-	-	-	-	SURE	العقل عقلان
+HFN-E-f78fe60d1c#4	OTHER_SENSE	-	-	-	-	-	UNSURE	بعير أعقل التواء في رجله
+HFN-E-f78fe60d1c#5	OTHER_SENSE	-	-	-	-	-	SURE	الضعف في الرأي والعقل
+HFN-E-8b4f381df8#1	YES	محلّ	تضمّن	-	-	لسانه	SURE	اعتقل لسانه امتسك
+HFN-E-8b4f381df8#2	YES	محلّ	تضمّن	-	-	لسانه	UNSURE	اعتقل لسانه فما يبين كلمة
+HFN-E-8b4f381df8#3	YES	محلّ	تضمّن	-	-	رمحه	SURE	اعتقل رمحه وضعه بين ركابه وساقه
+HFN-E-8b4f381df8#4	YES	محلّ	تضمّن	-	-	الشاة	SURE	اعتقل الشاة وضع رجلها بين فخذه
+HFN-E-8b4f381df8#5	YES	فاعل	التزام	عادي	مطلق	المصارع	UNSURE	اعتقال المصارع رجله برجل آخر
+HFN-E-56e3b427dd#1	OTHER_SENSE	-	-	-	-	-	UNSURE	ناقة لا تعقل إذا راحت قيد
+HFN-E-56e3b427dd#2	OTHER_SENSE	-	-	-	-	-	UNSURE	ناقة ترسل ولا تعقل قيد
+HFN-E-56e3b427dd#3	NO_DHAT	-	-	-	-	-	UNSURE	الأسماء المؤنثة التي لا تعقل
+HFN-E-56e3b427dd#4	OTHER_SENSE	-	-	-	-	-	UNSURE	ناقة طالق لا تعقل قيد

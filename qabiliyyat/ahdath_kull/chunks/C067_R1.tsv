@@ -1,0 +1,253 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-aa671c45c0#1	NO_DHAT	-	-	-	-	-	UNSURE	مزع يمزع مزعا كذلك؛ فاعله غير مذكور
+HFN-E-6af2ad6fcf#1	YES	محلّ	تضمّن	-	-	الثياب	SURE	المزق شق الثياب ونحوها
+HFN-E-6af2ad6fcf#2	YES	فاعل	التزام	عاديّ	مطلق	ناقة	UNSURE	ناقة مزاق: سريعة
+HFN-E-6af2ad6fcf#3	YES	فاعل	التزام	عاديّ	مطلق	السنانير	SURE	تخادشت ومزق بعضها بعضا
+HFN-E-6af2ad6fcf#4	YES	فاعل	التزام	عاديّ	مطلق	الطير	UNSURE	سائر الطير ذرق وكذلك مزق
+HFN-E-6af2ad6fcf#5	YES	فاعل	التزام	عاديّ	مطلق	الرجل	SURE	مزق الرجل عرض أخيه
+HFN-E-da39a66e93#1	NO_DHAT	-	-	-	-	-	SURE	الماسئ الماجن وقد مسأ
+HFN-E-da39a66e93#2	NO_DHAT	-	-	-	-	-	SURE	مسأ مسأ مرن على الشيء
+HFN-E-da39a66e93#3	OTHER_SENSE	-	-	-	-	-	SURE	مسء الطريق وسطه اسم
+HFN-E-da39a66e93#4	OTHER_SENSE	-	-	-	-	-	SURE	لا تجد لشمسه مسا من مسّ
+HFN-E-da39a66e93#5	OTHER_SENSE	-	-	-	-	-	UNSURE	والمسا مشربا لفظ آخر
+HFN-E-20f169f61e#1	NO_DHAT	-	-	-	-	-	UNSURE	المسح في عنوان الباب فقط
+HFN-E-20f169f61e#2	YES	محلّ	التزام	عاديّ	مطلق	الضرع	SURE	المرية مسح الضرع لتدر
+HFN-E-20f169f61e#3	OTHER_SENSE	-	-	-	-	-	SURE	المسح الذي يكون على عجز البعير اسم
+HFN-E-20f169f61e#4	YES	محلّ	تضمّن	-	-	الربلتين	UNSURE	الربلتين تصيب الأخرى ومسح مسحا
+HFN-E-20f169f61e#5	YES	مكان	التزام	عاديّ	مطلق	الأرض	UNSURE	مسح في الأرض ذهب؛ المسيح فاعل
+HFN-E-d44da16963#1	NO_DHAT	-	-	-	-	-	UNSURE	المسح في عنوان الباب فقط
+HFN-E-d44da16963#2	OTHER_SENSE	-	-	-	-	-	UNSURE	مسح الضرع بمعنى آخر بعيد
+HFN-E-d44da16963#3	OTHER_SENSE	-	-	-	-	-	SURE	المسح الذي على عجز البعير اسم
+HFN-E-d44da16963#4	YES	محلّ	تضمّن	-	-	الربلتين	SURE	إحدى الربلتين تصيب الأخرى ومسح مسحا
+HFN-E-d44da16963#5	OTHER_SENSE	-	-	-	-	-	UNSURE	مسح في الأرض ذهب معنى بعيد
+HFN-E-8cc097ca94#1	YES	محلّ	تضمّن	-	-	العضد	UNSURE	أمسخت العضد قل لحمها
+HFN-E-8cc097ca94#2	NO_DHAT	-	-	-	-	-	UNSURE	المسخ تحويل صورة إلى صورة مسخه الله
+HFN-E-a67cfccf92#1	OTHER_SENSE	-	-	-	-	-	UNSURE	أمسخت العضد قل لحمها معنى بعيد
+HFN-E-a67cfccf92#2	NO_DHAT	-	-	-	-	-	UNSURE	المسيخ القبيح بلا ذات
+HFN-E-8b55ba281c#1	OTHER_SENSE	-	-	-	-	-	SURE	المسد حبل من ليف اسم
+HFN-E-8b55ba281c#2	OTHER_SENSE	-	-	-	-	-	UNSURE	بها مسد اسم غير واضح
+HFN-E-8b55ba281c#3	YES	زمان	تضمّن	-	-	الليل	UNSURE	المسد إدآب السير بالليل
+HFN-E-8b55ba281c#4	YES	محلّ	تضمّن	-	-	بطن	UNSURE	بطن ممسود لين لطيف وقد مسد
+HFN-E-8b55ba281c#5	NO_DHAT	-	-	-	-	-	UNSURE	الممسودة المطوية؛ حسنة المسد بلا مرجع
+HFN-E-3c1bcb8a01#1	OTHER_SENSE	-	-	-	-	-	SURE	المسك ضرب من الطيب اسم
+HFN-E-3c1bcb8a01#2	OTHER_SENSE	-	-	-	-	-	SURE	المسك اسم طيب
+HFN-E-3c1bcb8a01#3	OTHER_SENSE	-	-	-	-	-	SURE	جلد مسك سقب اسم
+HFN-E-3c1bcb8a01#4	OTHER_SENSE	-	-	-	-	-	SURE	يعجن بالمسك اسم
+HFN-E-3c1bcb8a01#5	OTHER_SENSE	-	-	-	-	-	SURE	مسك دارين اسم
+HFN-E-79af62f7da#1	OTHER_SENSE	-	-	-	-	-	SURE	فهو مسن من أسنّ لفظ آخر
+HFN-E-79af62f7da#2	OTHER_SENSE	-	-	-	-	-	SURE	المسن من الإبل من أسنّ
+HFN-E-79af62f7da#3	OTHER_SENSE	-	-	-	-	-	SURE	حجارة المسن اسم أداة
+HFN-E-79af62f7da#4	OTHER_SENSE	-	-	-	-	-	SURE	الضب المسن العظيم من أسنّ
+HFN-E-79af62f7da#5	OTHER_SENSE	-	-	-	-	-	SURE	جمل علندى شديد مسن
+HFN-E-af5dc822b6#1	OTHER_SENSE	-	-	-	-	-	SURE	أتيته مسي خامسة: المساء
+HFN-E-af5dc822b6#2	YES	محلّ	تضمّن	-	-	الولد	UNSURE	المسي استخراج الولد؛ الناقة محلّ أيضا
+HFN-E-af5dc822b6#3	YES	محلّ	تضمّن	-	-	الضرع	SURE	مسيت الضرع مسيا مسحته ليدر
+HFN-E-af5dc822b6#4	OTHER_SENSE	-	-	-	-	-	UNSURE	مسي البلى شاهد غامض
+HFN-E-af5dc822b6#5	OTHER_SENSE	-	-	-	-	-	SURE	مسى به الليل من المساء
+HFN-E-1f3069fcd9#1	OTHER_SENSE	-	-	-	-	-	UNSURE	المشر بكسر الميم: الأحمر صفة
+HFN-E-1f3069fcd9#2	YES	محلّ	تضمّن	-	-	اللحم	SURE	مشرت اللحم قسمته
+HFN-E-1f3069fcd9#3	OTHER_SENSE	-	-	-	-	-	SURE	المشر اليابس من الأقط اسم
+HFN-E-1f3069fcd9#4	OTHER_SENSE	-	-	-	-	-	SURE	مشر\ف كلمة مشرف
+HFN-E-8452ceb690#1	OTHER_SENSE	-	-	-	-	-	UNSURE	المشر بكسر الميم: الأحمر
+HFN-E-8452ceb690#2	OTHER_SENSE	-	-	-	-	-	UNSURE	مشرت اللحم قسمته معنى بعيد
+HFN-E-8452ceb690#3	OTHER_SENSE	-	-	-	-	-	SURE	المشر اليابس اسم
+HFN-E-8452ceb690#4	OTHER_SENSE	-	-	-	-	-	SURE	مشر\ف كلمة مشرف
+HFN-E-ffff445547#1	NO_DHAT	-	-	-	-	-	SURE	الأخرق لا يحسن العمل وقد خرق
+HFN-E-ffff445547#2	OTHER_SENSE	-	-	-	-	-	SURE	المعاوز الخرق التي يلف فيها
+HFN-E-ffff445547#3	OTHER_SENSE	-	-	-	-	-	UNSURE	مخراق في معنى خرق: السخي
+HFN-E-ffff445547#4	OTHER_SENSE	-	-	-	-	-	SURE	الخرق ضرب من العصافير
+HFN-E-ffff445547#5	OTHER_SENSE	-	-	-	-	-	SURE	الصماخ الخرق الباطن اسم
+HFN-E-c26e4a739b#1	OTHER_SENSE	-	-	-	-	-	SURE	المشط عنوان الباب اسم أداة
+HFN-E-c26e4a739b#2	YES	محلّ	التزام	عاديّ	مطلق	رأسه	SURE	امتشط الرجل ومشط رأسه؛ الرجل فاعل
+HFN-E-c26e4a739b#3	YES	آلة	التزام	عقليّ	ذهنيّ	المشط	UNSURE	المشط شبحة فيها أسنان وقد مشطت الأرض
+HFN-E-c26e4a739b#4	YES	محلّ	التزام	عاديّ	مطلق	الشعر	UNSURE	جفوف الشعر وبعد عهده بالمشط
+HFN-E-c26e4a739b#5	OTHER_SENSE	-	-	-	-	-	SURE	المشط صورة سمة اسم
+HFN-E-e2e9f2d9ad#1	OTHER_SENSE	-	-	-	-	-	SURE	المشط عنوان اسم أداة
+HFN-E-e2e9f2d9ad#2	OTHER_SENSE	-	-	-	-	-	UNSURE	مشط رأسه تسريح معنى بعيد
+HFN-E-e2e9f2d9ad#3	OTHER_SENSE	-	-	-	-	-	UNSURE	مشطت الأرض معنى بعيد
+HFN-E-e2e9f2d9ad#4	OTHER_SENSE	-	-	-	-	-	UNSURE	بعد عهده بالمشط معنى بعيد
+HFN-E-e2e9f2d9ad#5	OTHER_SENSE	-	-	-	-	-	SURE	المشط صورة سمة اسم
+HFN-E-1822bfb3d7#1	YES	فاعل	تضمّن	-	-	رجل	UNSURE	رجل مشوع كسوب؛ مشع كسب وجمع
+HFN-E-4a94c80f37#1	NO_DHAT	-	-	-	-	-	SURE	المشغ ضرب من الأكل
+HFN-E-c31b311c6b#1	NO_DHAT	-	-	-	-	-	UNSURE	المشق الطعن الخفيف وقد مشق
+HFN-E-c31b311c6b#2	YES	فاعل	تضمّن	-	-	السائمة	UNSURE	إذا رعت السائمة رعيا خفيفا فذلك المشق
+HFN-E-c31b311c6b#3	YES	محلّ	التزام	عاديّ	مطلق	الوتر	SURE	ومنه مشق الوتر
+HFN-E-c31b311c6b#4	YES	محلّ	تضمّن	-	-	الربلتين	UNSURE	إحدى الربلتين تصيب الأخرى قيل مشق
+HFN-E-c31b311c6b#5	YES	محلّ	التزام	عاديّ	مطلق	إهاب	UNSURE	كأن عجانها مشق إهاب
+HFN-E-1a7cf326eb#1	OTHER_SENSE	-	-	-	-	-	UNSURE	المشق الطعن معنى بعيد
+HFN-E-1a7cf326eb#2	OTHER_SENSE	-	-	-	-	-	UNSURE	مشق الرعي معنى بعيد
+HFN-E-1a7cf326eb#3	OTHER_SENSE	-	-	-	-	-	UNSURE	المشق جذب الشيء معنى بعيد
+HFN-E-1a7cf326eb#4	YES	محلّ	تضمّن	-	-	الربلتين	SURE	إحدى الربلتين تصيب الأخرى قيل مشق مشقا
+HFN-E-1a7cf326eb#5	OTHER_SENSE	-	-	-	-	-	UNSURE	مشق إهاب معنى بعيد
+HFN-E-ddff04f1c4#1	YES	آلة	تضمّن	-	-	السوط	SURE	المشن ضرب من الضرب بالسوط
+HFN-E-6d75d71449#1	NO_DHAT	-	-	-	-	-	UNSURE	مشى مشيا وتمشى بلا ذات
+HFN-E-6d75d71449#2	YES	محلّ	تضمّن	-	-	الماشية	SURE	مشت الماشية كثرت أولادها
+HFN-E-6d75d71449#3	YES	فاعل	التزام	عاديّ	مطلق	جمل	UNSURE	أصابه ظلع فمشى منحرفا؛ جمل أكتف
+HFN-E-6d75d71449#4	NO_DHAT	-	-	-	-	-	UNSURE	الرجلة أي المشى راجلا
+HFN-E-6d75d71449#5	YES	محلّ	تضمّن	-	-	بطنه	SURE	مشى بطنه مشيا استطلق
+HFN-E-4e4a9c2bf8#1	NO_DHAT	-	-	-	-	-	UNSURE	وقد مصت ومصد بلا ذات
+HFN-E-4e4a9c2bf8#2	YES	محلّ	التزام	عاديّ	مطلق	الفرس	UNSURE	وكذلك في الفرس المصت كذلك
+HFN-E-62bcec3690#1	YES	محلّ	التزام	عقليّ	ذهنيّ	أمصوخة	UNSURE	أنبوبة منها أمصوخة واجتذابه المصخ
+HFN-E-df787c1829#1	YES	محلّ	التزام	عاديّ	مطلق	أمه	UNSURE	المصد الرضاع مصدها؛ المولود أمه
+HFN-E-df787c1829#2	NO_DHAT	-	-	-	-	-	UNSURE	وقد مصت ومصد يمصد
+HFN-E-df787c1829#3	OTHER_SENSE	-	-	-	-	-	SURE	المصد الهضبة العالية اسم
+HFN-E-3006efd9f6#1	OTHER_SENSE	-	-	-	-	-	SURE	المصر الذي يباع فيه اسم
+HFN-E-3006efd9f6#2	OTHER_SENSE	-	-	-	-	-	SURE	أهل مصر علم
+HFN-E-3006efd9f6#3	OTHER_SENSE	-	-	-	-	-	SURE	من نحو مصر علم
+HFN-E-3006efd9f6#4	OTHER_SENSE	-	-	-	-	-	SURE	فتحت مصر علم
+HFN-E-3006efd9f6#5	YES	محلّ	تضمّن	-	-	الإبل	SURE	المصور من الإبل التي يتمصر لبنها
+HFN-E-7bbc27f9ca#1	YES	محلّ	تضمّن	-	-	لبن	UNSURE	مصع لبن الناقة إذا ذهب
+HFN-E-7bbc27f9ca#2	YES	آلة	تضمّن	-	-	السيف	UNSURE	رجل مصع جيد الضرب بالسيف؛ قرنه محلّ
+HFN-E-7bbc27f9ca#3	OTHER_SENSE	-	-	-	-	-	SURE	المصع ثمر العوسج اسم
+HFN-E-7bbc27f9ca#4	YES	محلّ	تضمّن	-	-	سلحه	UNSURE	مصع بسلحه يمصع رمى
+HFN-E-7bbc27f9ca#5	YES	فاعل	التزام	عاديّ	مطلق	الطائر	UNSURE	مصع الطائر بذنبه؛ ذنبه آلة
+HFN-E-0bdccc5b43#1	OTHER_SENSE	-	-	-	-	-	SURE	المصل ماء الأقط اسم
+HFN-E-0bdccc5b43#2	OTHER_SENSE	-	-	-	-	-	SURE	العبيثة المصل اسم
+HFN-E-0bdccc5b43#3	OTHER_SENSE	-	-	-	-	-	UNSURE	المصل المستأصل الأذن صفة أخرى
+HFN-E-d4561cd965#1	YES	زمان	التزام	عاديّ	مطلق	الليل	SURE	مضى من الليل عشوة
+HFN-E-d4561cd965#2	NO_DHAT	-	-	-	-	-	UNSURE	الإجلواذ في السير المضاء والسرعة
+HFN-E-d4561cd965#3	NO_DHAT	-	-	-	-	-	SURE	طوى كشحه مضى لوجهه
+HFN-E-d4561cd965#4	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	رجل مصتيت ماض؛ مضى في الأمر
+HFN-E-d4561cd965#5	OTHER_SENSE	-	-	-	-	-	SURE	أبو المضاء علم
+HFN-E-a7b8da88b1#1	OTHER_SENSE	-	-	-	-	-	UNSURE	للكذاب مطخ مطخ أي باطل
+HFN-E-a7b8da88b1#2	YES	فاعل	التزام	عاديّ	مطلق	أحمق	UNSURE	أحمق يمطح الماء أي يلعقه؛ الماء محلّ
+HFN-E-a7b8da88b1#3	YES	محلّ	التزام	عاديّ	مطلق	الماء	UNSURE	أحمق يمطخ الماء؛ أحمق فاعل
+HFN-E-a7b8da88b1#4	OTHER_SENSE	-	-	-	-	-	SURE	طلخ ومطخ اسم للماء الكدر
+HFN-E-a7b8da88b1#5	NO_DHAT	-	-	-	-	-	SURE	مطخ عرضه مطخا دنسه
+HFN-E-bc1ca2c0f6#1	OTHER_SENSE	-	-	-	-	-	UNSURE	المطر في العنوان اسم ذات
+HFN-E-bc1ca2c0f6#2	OTHER_SENSE	-	-	-	-	-	UNSURE	احتباس المطر اسم
+HFN-E-bc1ca2c0f6#3	OTHER_SENSE	-	-	-	-	-	SURE	الرصدة المطرة تقع أولا اسم
+HFN-E-bc1ca2c0f6#4	OTHER_SENSE	-	-	-	-	-	SURE	أثجم المطر إذا دام اسم
+HFN-E-bc1ca2c0f6#5	OTHER_SENSE	-	-	-	-	-	SURE	الغيث اسم للمطر كله اسم
+HFN-E-d63e22e1a4#1	YES	مكان	التزام	عاديّ	مطلق	الأرض	UNSURE	مطع في الأرض مطعا ذهب
+HFN-E-d63e22e1a4#2	YES	آلة	تضمّن	-	-	الفم	SURE	المطع ضرب من الأكل بأدنى الفم
+HFN-E-84b28c641b#1	YES	محلّ	التزام	عاديّ	مطلق	الحديدة	UNSURE	الحديدة تذاب وتطبع بعد المطل
+HFN-E-84b28c641b#2	YES	فاعل	التزام	عاديّ	مطلق	الرجل	SURE	دالكني الرجل حقي ومطلني
+HFN-E-84b28c641b#3	NO_DHAT	-	-	-	-	-	SURE	تقدم في الحرب والمطل
+HFN-E-5a61e5b81f#1	YES	فاعل	التزام	عاديّ	مطلق	المطية	UNSURE	المطية التي تمد في سيرها وقد مطت
+HFN-E-5a61e5b81f#2	OTHER_SENSE	-	-	-	-	-	SURE	المطو جريدة تشق اسم
+HFN-E-5a61e5b81f#3	OTHER_SENSE	-	-	-	-	-	SURE	المطا الظهر اسم
+HFN-E-5a61e5b81f#4	OTHER_SENSE	-	-	-	-	-	SURE	المطا الوتين اسم
+HFN-E-5a61e5b81f#5	OTHER_SENSE	-	-	-	-	-	UNSURE	مط الرجل حاجبيه من مطط
+HFN-E-9caeb020a5#1	YES	محلّ	تضمّن	-	-	الشجرة	SURE	مظع الشجرة ألانها
+HFN-E-d5143f5aa6#1	YES	محلّ	التزام	عاديّ	مطلق	الأديم	SURE	المعت الدلك معت الأديم
+HFN-E-d5143f5aa6#2	OTHER_SENSE	-	-	-	-	-	SURE	ألمعت من لمع
+HFN-E-d5143f5aa6#3	OTHER_SENSE	-	-	-	-	-	SURE	ألمعت وهي ملمع من لمع
+HFN-E-d5143f5aa6#4	OTHER_SENSE	-	-	-	-	-	SURE	قيل ألمعت من لمع
+HFN-E-d5143f5aa6#5	OTHER_SENSE	-	-	-	-	-	SURE	ألمعت من لمع
+HFN-E-4d5e979537#1	YES	فاعل	التزام	عاديّ	مطلق	فرس	SURE	معج يمعج معجا وفرس ممعج
+HFN-E-b5238f6458#1	OTHER_SENSE	-	-	-	-	-	UNSURE	تمعدد الرجل سمن ولا فعل للمعد
+HFN-E-b5238f6458#2	OTHER_SENSE	-	-	-	-	-	SURE	تمعدد بحث صرفي في معد
+HFN-E-b5238f6458#3	OTHER_SENSE	-	-	-	-	-	SURE	نحو معد وجبن مثال صرفي
+HFN-E-b5238f6458#4	YES	محلّ	تضمّن	-	-	خصييه	SURE	معد بخصييه معدا مدهما
+HFN-E-b5238f6458#5	OTHER_SENSE	-	-	-	-	-	SURE	من معد علم قبيلة
+HFN-E-854ef05f55#1	OTHER_SENSE	-	-	-	-	-	UNSURE	تمعدد الرجل سمن ولا فعل للمعد
+HFN-E-854ef05f55#2	OTHER_SENSE	-	-	-	-	-	SURE	تمعدد بحث صرفي
+HFN-E-854ef05f55#3	OTHER_SENSE	-	-	-	-	-	SURE	نحو معد وجبن مثال صرفي
+HFN-E-854ef05f55#4	OTHER_SENSE	-	-	-	-	-	UNSURE	معد بخصييه مدهما معنى بعيد
+HFN-E-854ef05f55#5	OTHER_SENSE	-	-	-	-	-	SURE	من معد علم قبيلة
+HFN-E-e1447e2ae9#1	YES	محلّ	تضمّن	-	-	شعره	UNSURE	معر معرا فهو معر ذهب شعره
+HFN-E-e1447e2ae9#2	YES	محلّ	تضمّن	-	-	شعر	SURE	المعر ذهاب شعر الرأس
+HFN-E-e1447e2ae9#3	YES	محلّ	تضمّن	-	-	الغرة	UNSURE	المعر في الغرة أن ينتتف موضعها
+HFN-E-e1447e2ae9#4	YES	محلّ	التزام	عاديّ	مطلق	الظفر	UNSURE	نصل الظفر ومعر معرا فهو معر
+HFN-E-e1447e2ae9#5	YES	محلّ	تضمّن	-	-	رأسه	SURE	معر رأسه إذا ذهب شعره؛ خف معر
+HFN-E-651bc8ce3a#1	OTHER_SENSE	-	-	-	-	-	SURE	أولاد المعز اسم جنس
+HFN-E-651bc8ce3a#2	OTHER_SENSE	-	-	-	-	-	SURE	صوت الحالب للمعز اسم
+HFN-E-651bc8ce3a#3	OTHER_SENSE	-	-	-	-	-	SURE	تصنعه المعز بولدها اسم
+HFN-E-651bc8ce3a#4	OTHER_SENSE	-	-	-	-	-	SURE	شيات المعز اسم
+HFN-E-651bc8ce3a#5	OTHER_SENSE	-	-	-	-	-	SURE	الخرباء من المعز اسم
+HFN-E-79a8d5a376#1	OTHER_SENSE	-	-	-	-	-	SURE	أولاد المعز اسم جنس
+HFN-E-79a8d5a376#2	OTHER_SENSE	-	-	-	-	-	SURE	صوت الحالب للمعز اسم
+HFN-E-79a8d5a376#3	OTHER_SENSE	-	-	-	-	-	SURE	تصنعه المعز بولدها اسم
+HFN-E-79a8d5a376#4	OTHER_SENSE	-	-	-	-	-	SURE	شيات المعز اسم
+HFN-E-79a8d5a376#5	OTHER_SENSE	-	-	-	-	-	SURE	الخرباء من المعز اسم
+HFN-E-96a9bb773b#1	YES	فاعل	تضمّن	-	-	رجل	UNSURE	رجل معاس مقدام وقد معس في الحرب
+HFN-E-96a9bb773b#2	NO_DHAT	-	-	-	-	-	SURE	المعس والمغس الطعن معسه
+HFN-E-96a9bb773b#3	OTHER_SENSE	-	-	-	-	-	UNSURE	المعس المطلب من عسّ
+HFN-E-96a9bb773b#4	OTHER_SENSE	-	-	-	-	-	UNSURE	معتس بالليل والمعس المطلب من عسّ
+HFN-E-96a9bb773b#5	YES	محلّ	التزام	عاديّ	مطلق	الجواء	UNSURE	يمعس بالماء الجواء معسا؛ الماء آلة
+HFN-E-e1eb529fc4#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	المعص داء يأخذ في مفصل الرجل
+HFN-E-37abb11c0b#1	OTHER_SENSE	-	-	-	-	-	SURE	المعض الذي تأكل إبله العض
+HFN-E-37abb11c0b#2	OTHER_SENSE	-	-	-	-	-	UNSURE	إن معض اليوم أخاه: مع اليوم
+HFN-E-37abb11c0b#3	NO_DHAT	-	-	-	-	-	SURE	معض من ذلك معضا غضب
+HFN-E-bce0bccdb9#1	YES	محلّ	تضمّن	-	-	شعره	SURE	معط شعره يمعطه معطا نتفه
+HFN-E-bce0bccdb9#2	OTHER_SENSE	-	-	-	-	-	UNSURE	معط سيفه سله معنى بعيد
+HFN-E-bce0bccdb9#3	OTHER_SENSE	-	-	-	-	-	SURE	مؤق مثل معط مثال صرفي
+HFN-E-bce0bccdb9#4	YES	محلّ	التزام	عاديّ	مطلق	شعره	UNSURE	تمرط شعره ومثله الأمعط
+HFN-E-5f049aa810#1	OTHER_SENSE	-	-	-	-	-	SURE	مؤق مثل معق مثال صرفي
+HFN-E-5f049aa810#2	OTHER_SENSE	-	-	-	-	-	SURE	أعقت ومعق من عقق
+HFN-E-5f049aa810#3	OTHER_SENSE	-	-	-	-	-	SURE	أعقت الحامل وهي معق من عقق
+HFN-E-5f049aa810#4	YES	محلّ	التزام	عاديّ	مطلق	بئر	UNSURE	بئر معيقة معقت معاقة والمعق البعد
+HFN-E-5f049aa810#5	OTHER_SENSE	-	-	-	-	-	SURE	المعق الفلاة اسم
+HFN-E-ddffb00edd#1	OTHER_SENSE	-	-	-	-	-	SURE	مؤق مثل معق مثال صرفي
+HFN-E-ddffb00edd#2	OTHER_SENSE	-	-	-	-	-	SURE	أعقت ومعق من عقق
+HFN-E-ddffb00edd#3	OTHER_SENSE	-	-	-	-	-	SURE	وهي معق من عقق
+HFN-E-ddffb00edd#4	YES	محلّ	التزام	عاديّ	مطلق	بئر	SURE	بئر معيقة معقت معاقة
+HFN-E-ddffb00edd#5	OTHER_SENSE	-	-	-	-	-	SURE	المعق الفلاة اسم
+HFN-E-af53117e60#1	YES	محلّ	تضمّن	-	-	غرضوف منخريه	SURE	الأخرم الذي انشق غرضوف منخريه وقد خرم
+HFN-E-af53117e60#2	OTHER_SENSE	-	-	-	-	-	UNSURE	بئر خرم غزيرة الماء معنى بعيد
+HFN-E-af53117e60#3	YES	محلّ	تضمّن	-	-	الإناء	UNSURE	خرم الإناء ملأه
+HFN-E-af53117e60#4	OTHER_SENSE	-	-	-	-	-	SURE	الخرم أنف الجبل اسم
+HFN-E-af53117e60#5	OTHER_SENSE	-	-	-	-	-	UNSURE	أصلها من الخرم وجمعها خروم
+HFN-E-2bd4112267#1	OTHER_SENSE	-	-	-	-	-	SURE	صغوه معك: مع وضمير
+HFN-E-2bd4112267#2	OTHER_SENSE	-	-	-	-	-	SURE	لا أنعتل معك: مع وضمير
+HFN-E-2bd4112267#3	YES	فاعل	تضمّن	-	-	فرس	UNSURE	فرس معك يجري قليلا ثم يحتاج الضرب
+HFN-E-2bd4112267#4	OTHER_SENSE	-	-	-	-	-	SURE	ينفرون معك: مع وضمير
+HFN-E-2bd4112267#5	OTHER_SENSE	-	-	-	-	-	SURE	إن معك قرحانا: مع وضمير
+HFN-E-9218b5cf97#1	YES	محلّ	تضمّن	-	-	الناقة	SURE	المعل مد الرجل الحورا من حياء الناقة
+HFN-E-9218b5cf97#2	YES	محلّ	التزام	عاديّ	مطلق	الغنم	UNSURE	المعل الخصاء وخص ثعلب به الغنم
+HFN-E-9218b5cf97#3	OTHER_SENSE	-	-	-	-	-	UNSURE	للذي يعيده إلى مجراه المعل اسم
+HFN-E-9218b5cf97#4	NO_DHAT	-	-	-	-	-	SURE	معله معلا استعجله
+HFN-E-a081a97bcf#1	YES	فاعل	تضمّن	-	-	الماء	UNSURE	معن الوادي جرى فيه الماء؛ الوادي مكان
+HFN-E-a081a97bcf#2	OTHER_SENSE	-	-	-	-	-	SURE	المعن المعروف اسم
+HFN-E-a081a97bcf#3	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل معن يعرض من عنن
+HFN-E-a081a97bcf#4	OTHER_SENSE	-	-	-	-	-	SURE	المعان المنزل اسم مكان
+HFN-E-a081a97bcf#5	YES	محلّ	تضمّن	-	-	الخصية	SURE	المعن جذب الخصية
+HFN-E-ba10006428#1	YES	فاعل	تضمّن	-	-	الماء	UNSURE	معن الوادي جرى فيه الماء؛ الوادي مكان
+HFN-E-ba10006428#2	OTHER_SENSE	-	-	-	-	-	SURE	المعن المعروف اسم
+HFN-E-ba10006428#3	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل معن يعرض من عنن
+HFN-E-ba10006428#4	OTHER_SENSE	-	-	-	-	-	SURE	المعان المنزل اسم مكان
+HFN-E-ba10006428#5	YES	محلّ	تضمّن	-	-	الخصية	UNSURE	المعن جذب الخصية
+HFN-E-4bf93bbd28#1	YES	فاعل	تضمّن	-	-	السيل	UNSURE	مغث السيل الكلأ أذهب حلاوته؛ الكلأ محلّ
+HFN-E-4bf93bbd28#2	YES	فاعل	تضمّن	-	-	الشجعاء	UNSURE	المغث التباس الشجعاء في الحرب
+HFN-E-4bf93bbd28#3	YES	فاعل	تضمّن	-	-	رجل	UNSURE	رجل مغث ممارس للأمور
+HFN-E-4bf93bbd28#4	YES	محلّ	التزام	عاديّ	مطلق	فلان	UNSURE	توصم فلان ومغث الحمى وقد مغثته
+HFN-E-4bf93bbd28#5	YES	فاعل	تضمّن	-	-	الشجعان	SURE	المغث التباس الشجعان في المعركة
+HFN-E-ec4c944894#1	OTHER_SENSE	-	-	-	-	-	SURE	المغد الباذنجان اسم نبات
+HFN-E-ec4c944894#2	YES	محلّ	التزام	عاديّ	مطلق	بعير	UNSURE	بعير مغد الجسم تار
+HFN-E-ec4c944894#3	OTHER_SENSE	-	-	-	-	-	SURE	بعير مغد من الغدة
+HFN-E-ec4c944894#4	NO_DHAT	-	-	-	-	-	UNSURE	عيش رغد مغد اتباع
+HFN-E-ec4c944894#5	YES	محلّ	تضمّن	-	-	شاب	UNSURE	شاب مغد ناعم؛ مغده عيش غذاه
+HFN-E-0a1e6d2096#1	OTHER_SENSE	-	-	-	-	-	SURE	المغد الباذنجان اسم نبات
+HFN-E-0a1e6d2096#2	YES	محلّ	التزام	عاديّ	مطلق	بعير	UNSURE	بعير مغد الجسم تار
+HFN-E-0a1e6d2096#3	OTHER_SENSE	-	-	-	-	-	SURE	بعير مغد من الغدة
+HFN-E-0a1e6d2096#4	NO_DHAT	-	-	-	-	-	UNSURE	عيش رغد مغد اتباع
+HFN-E-0a1e6d2096#5	YES	محلّ	تضمّن	-	-	شاب	UNSURE	شاب مغد ناعم
+HFN-E-bc503fed7d#1	OTHER_SENSE	-	-	-	-	-	SURE	مغرفة مغرف كلمة أخرى
+HFN-E-052dce675e#1	YES	محلّ	التزام	عاديّ	مطلق	بطني	SURE	مغسني بطني ورجل ممغوس
+HFN-E-052dce675e#2	NO_DHAT	-	-	-	-	-	SURE	المعس والمغس الطعن ومغسه
+HFN-E-dca2abd77f#1	OTHER_SENSE	-	-	-	-	-	SURE	المغص البيض من الإبل
+HFN-E-dca2abd77f#2	YES	محلّ	التزام	عاديّ	مطلق	بطني	SURE	وجدت في بطني مغصا وقد مغص
+HFN-E-dca2abd77f#3	OTHER_SENSE	-	-	-	-	-	SURE	المغص من الغنم البيض
+HFN-E-bf5b16837e#1	YES	محلّ	تضمّن	-	-	قوسه	UNSURE	مغط الرامي في قوسه نزع فيها؛ الرامي فاعل
+HFN-E-bf5b16837e#2	YES	محلّ	تضمّن	-	-	القوس	UNSURE	مغط في القوس نزع فيها بسهم
+HFN-E-bf5b16837e#3	YES	فاعل	تضمّن	-	-	البعير	SURE	تمغط البعير في سيره مد يديه
+HFN-E-bf5b16837e#4	YES	محلّ	تضمّن	-	-	المصران	UNSURE	المغط مد الشيء اللين كالمصران
+HFN-E-34f9a7f240#1	YES	محلّ	التزام	عاديّ	مطلق	النعجة	UNSURE	لم تمغل بأولاد؛ الإمغال أن تحمل عليها
+HFN-E-34f9a7f240#2	YES	فاعل	التزام	عاديّ	مطلق	المرأة	UNSURE	ترضعه المرأة وهي حامل وقد مغلت به
+HFN-E-34f9a7f240#3	OTHER_SENSE	-	-	-	-	-	SURE	مغل الإصبع من الإغلال
+HFN-E-34f9a7f240#4	YES	محلّ	التزام	عاديّ	مطلق	البعير	UNSURE	وجع البعير بطنه قد مغل
+HFN-E-6ba3130f93#1	YES	محلّ	تضمّن	-	-	الإنسان	SURE	المقت شنؤك الإنسان لقبيح أتاه
+HFN-E-ba51a3d3a0#1	OTHER_SENSE	-	-	-	-	-	SURE	المقر نبات الصبر اسم
+HFN-E-ba51a3d3a0#2	OTHER_SENSE	-	-	-	-	-	SURE	رطب صقر مقر إتباع
+HFN-E-ba51a3d3a0#3	YES	آلة	تضمّن	-	-	العصا	SURE	مقر عنقه ضربه بالعصا؛ عنقه محلّ
+HFN-E-ba51a3d3a0#4	OTHER_SENSE	-	-	-	-	-	SURE	المقر السم اسم
+HFN-E-ba51a3d3a0#5	OTHER_SENSE	-	-	-	-	-	SURE	اليوم الثني مقر كلمة أخرى
+HFN-E-3b4b71fe81#1	OTHER_SENSE	-	-	-	-	-	SURE	المقر نبات الصبر اسم
+HFN-E-3b4b71fe81#2	OTHER_SENSE	-	-	-	-	-	SURE	رطب صقر مقر إتباع
+HFN-E-3b4b71fe81#3	OTHER_SENSE	-	-	-	-	-	UNSURE	مقر عنقه ضربه معنى بعيد
+HFN-E-3b4b71fe81#4	OTHER_SENSE	-	-	-	-	-	SURE	المقر السم اسم
+HFN-E-3b4b71fe81#5	OTHER_SENSE	-	-	-	-	-	SURE	اليوم الثني مقر كلمة أخرى
+HFN-E-68a2ed326c#1	NO_DHAT	-	-	-	-	-	UNSURE	الماقط كالرازم وقد مقط
+HFN-E-68a2ed326c#2	YES	محلّ	تضمّن	-	-	الحبل	SURE	مقطت الحبل شددت فتله
+HFN-E-68a2ed326c#3	YES	محلّ	تضمّن	-	-	عنقه	SURE	مقط عنقه مقطا كسرها

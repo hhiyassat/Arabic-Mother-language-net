@@ -1,0 +1,253 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-f62599be2e#1	NO_DHAT	-	-	-	-	-	UNSURE	جمالا زانه خفر، لا ذات مذكورة
+HFN-E-f62599be2e#2	YES	محلّ	التزام	عاديّ	مطلق	النساء	UNSURE	الخفرة الحيية وقد خفرت خفرا
+HFN-E-f51b16e224#1	YES	محلّ	تضمّن	-	-	العينين	SURE	الخفش ضعف البصر وصغر العينين
+HFN-E-1b6f95848e#1	NO_DHAT	-	-	-	-	-	UNSURE	الخفض في العيش، العيش معنويّ
+HFN-E-1b6f95848e#2	OTHER_SENSE	-	-	-	-	-	SURE	خفض من الأرض اسم مكان منخفض
+HFN-E-1b6f95848e#3	OTHER_SENSE	-	-	-	-	-	SURE	في موضع خفض مصطلح نحويّ
+HFN-E-1b6f95848e#4	NO_DHAT	-	-	-	-	-	UNSURE	وخفض صوته، الصوت ليس ذاتا
+HFN-E-1b6f95848e#5	OTHER_SENSE	-	-	-	-	-	SURE	في موضع خفض مصطلح نحويّ
+HFN-E-92b5af355d#1	YES	محلّ	تضمّن	-	-	الكوكب	UNSURE	أفل الكوكب...وخفق يخفق خفوقا غاب؛ وخفق الطائر
+HFN-E-92b5af355d#2	YES	محلّ	تضمّن	-	-	رأسه	UNSURE	خفق برأسه من النعاس أماله
+HFN-E-92b5af355d#3	YES	محلّ	تضمّن	-	-	السراب	SURE	خفق السراب خفقا اضطرب
+HFN-E-92b5af355d#4	YES	محلّ	تضمّن	-	-	الراية	SURE	خفقت الراية ونحوها اضطربت؛ وخفق القلب
+HFN-E-92b5af355d#5	YES	مكان	تضمّن	-	-	البلاد	UNSURE	خفق في البلاد خفوقا ذهب
+HFN-E-61ffac3f12#1	NO_DHAT	-	-	-	-	-	UNSURE	خفي الشيء خفاء، الشيء ليس ذاتا
+HFN-E-61ffac3f12#2	NO_DHAT	-	-	-	-	-	UNSURE	لخفاء النون، حرف لا ذات
+HFN-E-61ffac3f12#3	OTHER_SENSE	-	-	-	-	-	SURE	الخفاء كالوعاء اسم للعين
+HFN-E-61ffac3f12#4	YES	فاعل	تضمّن	-	-	البرق	SURE	خفى البرق خفيا برق برقا ضعيفا
+HFN-E-61ffac3f12#5	NO_DHAT	-	-	-	-	-	UNSURE	في الخفاء صفة الأصوات لا ذات
+HFN-E-1ca5447232#1	NO_DHAT	-	-	-	-	-	UNSURE	الصوت الخفي، الصوت ليس ذاتا
+HFN-E-1ca5447232#2	NO_DHAT	-	-	-	-	-	SURE	خفي الشيء خفاء
+HFN-E-1ca5447232#3	NO_DHAT	-	-	-	-	-	SURE	وهو الخفي منه أي من الضحك
+HFN-E-1ca5447232#4	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل مذل وهو الخفي الشخص
+HFN-E-1ca5447232#5	OTHER_SENSE	-	-	-	-	-	UNSURE	خفى البرق يخفو بمعنى برق ضعيفا
+HFN-E-7b52ad8364#1	YES	فاعل	التزام	عاديّ	مطلق	برقة	UNSURE	برقة من خلب غير ماطر
+HFN-E-7b52ad8364#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الخلب الذي يحبه النساء من خلب القلب حجابه
+HFN-E-7b52ad8364#3	YES	آلة	تضمّن	-	-	مخلبه	SURE	خلب الصيد يخلبه خلبا أخذه بمخلبه؛ الصيد محلّ
+HFN-E-7b52ad8364#4	OTHER_SENSE	-	-	-	-	-	SURE	من خلب مادة حبل
+HFN-E-7b52ad8364#5	OTHER_SENSE	-	-	-	-	-	SURE	الخلب الطين الصلب اسم ذات
+HFN-E-79804db6e8#1	OTHER_SENSE	-	-	-	-	-	UNSURE	برقة من خلب
+HFN-E-79804db6e8#2	OTHER_SENSE	-	-	-	-	-	SURE	خلب القلب حجابه اسم
+HFN-E-79804db6e8#3	OTHER_SENSE	-	-	-	-	-	UNSURE	خلب الصيد يخلبه أخذه بمخلبه فعل آخر
+HFN-E-79804db6e8#4	OTHER_SENSE	-	-	-	-	-	SURE	من خلب مادة حبل
+HFN-E-79804db6e8#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الخلب الطين الصلب؛ ماء مخلب ذو خلب
+HFN-E-981fadbba4#1	NO_DHAT	-	-	-	-	-	UNSURE	الخلج إخراجها ضرب من النكاح
+HFN-E-981fadbba4#2	YES	محلّ	تضمّن	-	-	البعير	UNSURE	خلج البعير خلجا؛ جذبه يخلج عضده
+HFN-E-981fadbba4#3	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	الخلج أن يشتكي الرجل لحمه وعظامه
+HFN-E-981fadbba4#4	YES	محلّ	تضمّن	-	-	البيت	UNSURE	الخلج فساد في ناحية البيت
+HFN-E-981fadbba4#5	YES	محلّ	تضمّن	-	-	رمحه	SURE	خلج الرجل رمحه مده من جانب؛ الرجل فاعل
+HFN-E-bf12523a26#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الخلج إخراجها ضرب من النكاح
+HFN-E-bf12523a26#2	YES	محلّ	تضمّن	-	-	البعير	SURE	خلج البعير خلجا يتقبض العصب في العضد
+HFN-E-bf12523a26#3	YES	محلّ	تضمّن	-	-	الرجل	SURE	الخلج أن يشتكي الرجل لحمه وعظامه
+HFN-E-bf12523a26#4	YES	محلّ	تضمّن	-	-	البيت	UNSURE	الخلج فساد في ناحية البيت
+HFN-E-bf12523a26#5	OTHER_SENSE	-	-	-	-	-	UNSURE	خلج الرجل رمحه مده، معنى الجذب
+HFN-E-c9b55ad712#1	YES	مكان	تضمّن	-	-	المكان	SURE	خلد بالمكان يخلد خلودا... بقي
+HFN-E-c9b55ad712#2	YES	مكان	التزام	عاديّ	مطلق	دار	UNSURE	لهم فيها دار الخلد
+HFN-E-c9b55ad712#3	OTHER_SENSE	-	-	-	-	-	SURE	الخلد الفأرة العمياء
+HFN-E-c9b55ad712#4	YES	محلّ	التزام	عاديّ	مطلق	النفس	UNSURE	لو كان للنفس اللجوج خلود
+HFN-E-c9b55ad712#5	YES	مكان	التزام	عاديّ	مطلق	جنات	UNSURE	جنات عدن أي إقامة وخلود
+HFN-E-4cd75478c6#1	NO_DHAT	-	-	-	-	-	UNSURE	الخلس الشيء مخالسة؛ تخالسا نفسيهما
+HFN-E-4cd75478c6#2	OTHER_SENSE	-	-	-	-	-	UNSURE	والخلس المثمرات ضرب من الحمام
+HFN-E-fbf418e0da#1	NO_DHAT	-	-	-	-	-	UNSURE	نعج اللون نعجا خلص بياضه
+HFN-E-fbf418e0da#2	YES	محلّ	التزام	عاديّ	مطلق	اللبن	SURE	وخلص ذلك اللبن من الثفل
+HFN-E-fbf418e0da#3	NO_DHAT	-	-	-	-	-	SURE	جواز الشيء والخلوص منه
+HFN-E-fbf418e0da#4	YES	محلّ	التزام	عاديّ	مطلق	ضوئها	UNSURE	وخلوص ضوئها أي الشمس
+HFN-E-fbf418e0da#5	NO_DHAT	-	-	-	-	-	UNSURE	صرح الشيء خلص
+HFN-E-e1234bbd28#1	NO_DHAT	-	-	-	-	-	UNSURE	نعج اللون نعجا خلص بياضه
+HFN-E-e1234bbd28#2	NO_DHAT	-	-	-	-	-	UNSURE	صرح الشيء خلص
+HFN-E-e1234bbd28#3	YES	محلّ	التزام	عاديّ	مطلق	العسل	SURE	زايل العسل جثه وشمعه فخلص
+HFN-E-e1234bbd28#4	YES	محلّ	التزام	عاديّ	مطلق	اللبن	SURE	وخلص ذلك اللبن من الثفل
+HFN-E-e1234bbd28#5	YES	محلّ	التزام	عاديّ	مطلق	بناء	UNSURE	بناء قشيب وقد قشب قشابة حسن وخلص
+HFN-E-a70178e1d5#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الخليط والجمع خلط اسم للقوم
+HFN-E-a70178e1d5#2	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	ورجل خلط وخلط كذلك
+HFN-E-a70178e1d5#3	YES	محلّ	التزام	عاديّ	مطلق	طعام	SURE	طعام مخشوب مخلوط
+HFN-E-a70178e1d5#4	OTHER_SENSE	-	-	-	-	-	SURE	الخلط الذي يراش بلا نصل اسم سهم
+HFN-E-a70178e1d5#5	YES	محلّ	التزام	عاديّ	مطلق	السرقين	SURE	السرقين الذي يخلط بالتراب؛ التراب أيضا
+HFN-E-1cb54b81cb#1	YES	محلّ	تضمّن	-	-	الزرع	UNSURE	خلع الزرع أسفى
+HFN-E-1cb54b81cb#2	YES	محلّ	التزام	عاديّ	مطلق	العذار	SURE	كما خلع الفرس العذار أي اللجام؛ الفرس فاعل
+HFN-E-1cb54b81cb#3	YES	محلّ	التزام	عاديّ	مطلق	الربق	SURE	خلع عنه الربق
+HFN-E-1cb54b81cb#4	NO_DHAT	-	-	-	-	-	UNSURE	فيضمد به الخلع، داء لا ذات
+HFN-E-1cb54b81cb#5	YES	محلّ	التزام	عاديّ	مطلق	الملوك	UNSURE	خلع الملوك وسار تحت لوائه
+HFN-E-a93ea72e14#1	YES	فاعل	التزام	عاديّ	مطلق	فلان	UNSURE	في فلان خلف من أبيه؛ فخلف من بعدهم خلف
+HFN-E-a93ea72e14#2	OTHER_SENSE	-	-	-	-	-	SURE	والخلف منها أي الضرع اسم عضو
+HFN-E-a93ea72e14#3	NO_DHAT	-	-	-	-	-	UNSURE	عنوان الخداع والخلف والكيد
+HFN-E-a93ea72e14#4	OTHER_SENSE	-	-	-	-	-	SURE	والخلف الضرع وجمعه أخلاف
+HFN-E-a93ea72e14#5	OTHER_SENSE	-	-	-	-	-	SURE	الخلف حد الفأس اسم
+HFN-E-9b6bc4e55e#1	OTHER_SENSE	-	-	-	-	-	UNSURE	خلف صدق وخلف سوء اسم للعقب
+HFN-E-9b6bc4e55e#2	OTHER_SENSE	-	-	-	-	-	SURE	والخلف منها أي الضرع
+HFN-E-9b6bc4e55e#3	NO_DHAT	-	-	-	-	-	UNSURE	عنوان الخداع والخلف والكيد
+HFN-E-9b6bc4e55e#4	OTHER_SENSE	-	-	-	-	-	SURE	والخلف الضرع وجمعه أخلاف
+HFN-E-9b6bc4e55e#5	OTHER_SENSE	-	-	-	-	-	SURE	الخلف حد الفأس
+HFN-E-76815390ca#1	OTHER_SENSE	-	-	-	-	-	UNSURE	خلف من أبيه بمعنى البدل
+HFN-E-76815390ca#2	OTHER_SENSE	-	-	-	-	-	SURE	والخلف منها أي الضرع
+HFN-E-76815390ca#3	NO_DHAT	-	-	-	-	-	UNSURE	عنوان الخداع والخلف والكيد
+HFN-E-76815390ca#4	OTHER_SENSE	-	-	-	-	-	SURE	والخلف الضرع وجمعه أخلاف
+HFN-E-76815390ca#5	OTHER_SENSE	-	-	-	-	-	SURE	الخلف حد الفأس
+HFN-E-d12f1098e5#1	OTHER_SENSE	-	-	-	-	-	UNSURE	السيئ الخلق بمعنى الطبع
+HFN-E-d12f1098e5#2	YES	محلّ	التزام	عاديّ	مطلق	النساء	UNSURE	الخود من النساء الحسنة الخلق
+HFN-E-d12f1098e5#3	OTHER_SENSE	-	-	-	-	-	SURE	خلق الثوب خلوقة بمعنى بلي
+HFN-E-d12f1098e5#4	NO_DHAT	-	-	-	-	-	UNSURE	الشدة والقوة في الخلق
+HFN-E-d12f1098e5#5	YES	محلّ	التزام	عاديّ	مطلق	ناقة	UNSURE	المجلوزة الشديدة الخلق؛ ناقة جلس
+HFN-E-6a4615d016#1	OTHER_SENSE	-	-	-	-	-	UNSURE	السيئ الخلق بمعنى الطبع
+HFN-E-6a4615d016#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الحسنة الخلق بمعنى الصورة
+HFN-E-6a4615d016#3	YES	محلّ	التزام	عاديّ	مطلق	الثوب	SURE	خلق الثوب خلوقة وخلوقا وأخلق
+HFN-E-6a4615d016#4	OTHER_SENSE	-	-	-	-	-	UNSURE	القوة في الخلق بمعنى البنية
+HFN-E-6a4615d016#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الشديدة الخلق بمعنى البنية
+HFN-E-fcfa951766#1	OTHER_SENSE	-	-	-	-	-	UNSURE	السيئ الخلق اسم الطبع
+HFN-E-fcfa951766#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الحسنة الخلق بمعنى الصورة
+HFN-E-fcfa951766#3	YES	محلّ	التزام	عاديّ	مطلق	الثوب	SURE	خلق الثوب خلوقة وخلوقا
+HFN-E-fcfa951766#4	OTHER_SENSE	-	-	-	-	-	UNSURE	القوة في الخلق بمعنى البنية
+HFN-E-fcfa951766#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الشديدة الخلق بمعنى البنية
+HFN-E-8d393ec795#1	YES	محلّ	تضمّن	-	-	المكان	SURE	خلا المكان خلوا وخلاء إذا لم يكن فيه أحد
+HFN-E-8d393ec795#2	OTHER_SENSE	-	-	-	-	-	SURE	لموضع الغائط الخلاء اسم مكان
+HFN-E-8d393ec795#3	OTHER_SENSE	-	-	-	-	-	SURE	الخلاء الحران في الناقة وقد خلأت
+HFN-E-8d393ec795#4	OTHER_SENSE	-	-	-	-	-	SURE	خل جسمه يخل خلا ضمر
+HFN-E-8d393ec795#5	OTHER_SENSE	-	-	-	-	-	SURE	حلو الخلا يعني حلو الكلام
+HFN-E-543c64f71f#1	NO_DHAT	-	-	-	-	-	SURE	الخمج النتن وقد خمج
+HFN-E-543c64f71f#2	YES	محلّ	تضمّن	-	-	اللحم	SURE	خمج اللحم خمجا وهو الذي يغم
+HFN-E-543c64f71f#3	NO_DHAT	-	-	-	-	-	UNSURE	الخمج الفتور وقد أصبح خمجا
+HFN-E-cbb52c21c4#1	YES	محلّ	تضمّن	-	-	المريض	UNSURE	خمد المريض أغمي عليه؛ خمدت الحمى
+HFN-E-cbb52c21c4#2	YES	محلّ	التزام	عاديّ	مطلق	النبيذ	SURE	فاذا خمد فلم يغل أي النبيذ
+HFN-E-91e6d3fa8c#1	OTHER_SENSE	-	-	-	-	-	SURE	الخمر ما أسكر من عصير العنب
+HFN-E-91e6d3fa8c#2	OTHER_SENSE	-	-	-	-	-	SURE	ما مزجت به الخمر
+HFN-E-91e6d3fa8c#3	OTHER_SENSE	-	-	-	-	-	SURE	جلاب الخمر اسم ذات
+HFN-E-91e6d3fa8c#4	OTHER_SENSE	-	-	-	-	-	SURE	حد الخمر صلابتها
+HFN-E-91e6d3fa8c#5	OTHER_SENSE	-	-	-	-	-	SURE	مكاييل الخمر
+HFN-E-7c5e99ffec#1	OTHER_SENSE	-	-	-	-	-	SURE	الخمر ما أسكر من عصير العنب
+HFN-E-7c5e99ffec#2	OTHER_SENSE	-	-	-	-	-	SURE	ما مزجت به الخمر
+HFN-E-7c5e99ffec#3	OTHER_SENSE	-	-	-	-	-	SURE	جلاب الخمر اسم ذات
+HFN-E-7c5e99ffec#4	OTHER_SENSE	-	-	-	-	-	SURE	حد الخمر صلابتها
+HFN-E-7c5e99ffec#5	OTHER_SENSE	-	-	-	-	-	SURE	مكاييل الخمر
+HFN-E-9c7a2f3d92#1	OTHER_SENSE	-	-	-	-	-	SURE	من عشر إلى خمس عشرة عدد
+HFN-E-9c7a2f3d92#2	OTHER_SENSE	-	-	-	-	-	SURE	خمس بنان عدد
+HFN-E-9c7a2f3d92#3	OTHER_SENSE	-	-	-	-	-	UNSURE	ورملان الخمس بعد الخمس اسم مدة
+HFN-E-9c7a2f3d92#4	YES	فاعل	التزام	عاديّ	مطلق	الإبل	SURE	وقد خمست الإبل؛ ترد الماء اليوم الخامس
+HFN-E-9c7a2f3d92#5	OTHER_SENSE	-	-	-	-	-	SURE	ما بين عشر إلى خمس وعشرين
+HFN-E-a67f001dc2#1	YES	محلّ	تضمّن	-	-	الوجه	SURE	الخمش الخدش في الوجه وقد يستعمل في الجسد
+HFN-E-a67f001dc2#2	OTHER_SENSE	-	-	-	-	-	UNSURE	والخمش والحبش الجمع
+HFN-E-a67f001dc2#3	OTHER_SENSE	-	-	-	-	-	SURE	الخمش ولد الوبر
+HFN-E-a1cd8d364e#1	YES	محلّ	التزام	عاديّ	مطلق	البطن	SURE	في البطن الهيف والخمص
+HFN-E-a1cd8d364e#2	YES	محلّ	التزام	عاديّ	مطلق	بطنه	UNSURE	وقد خمص بطنه يخمص خمصا
+HFN-E-a1cd8d364e#3	YES	محلّ	تضمّن	-	-	بطنه	SURE	خمص بطنه وخمص وخمصه ضموره وانطواؤه
+HFN-E-a1cd8d364e#4	YES	محلّ	التزام	عاديّ	مطلق	البطن	SURE	الخوش خمص البطن وصغره
+HFN-E-a1cd8d364e#5	NO_DHAT	-	-	-	-	-	UNSURE	التخوية الخمص
+HFN-E-a43832a391#1	YES	محلّ	التزام	عاديّ	مطلق	البطن	SURE	في البطن الهيف والخمص
+HFN-E-a43832a391#2	YES	محلّ	التزام	عاديّ	مطلق	بطنه	UNSURE	وقد خمص بطنه يخمص خمصا
+HFN-E-a43832a391#3	YES	محلّ	تضمّن	-	-	بطنه	SURE	خمص بطنه وخمص وخمصه ضموره وانطواؤه
+HFN-E-a43832a391#4	YES	محلّ	التزام	عاديّ	مطلق	البطن	SURE	الخوش خمص البطن وصغره
+HFN-E-a43832a391#5	NO_DHAT	-	-	-	-	-	UNSURE	التخوية الخمص
+HFN-E-2e53e6cca4#1	YES	محلّ	تضمّن	-	-	اللبن	SURE	خمط اللبن يخمط خمطا طابت ريحه
+HFN-E-2e53e6cca4#2	OTHER_SENSE	-	-	-	-	-	SURE	الخمط كل شجرة ذات شوك
+HFN-E-2e53e6cca4#3	NO_DHAT	-	-	-	-	-	UNSURE	وقد خمط خمطا وهو خمط
+HFN-E-2e53e6cca4#4	YES	محلّ	التزام	عاديّ	مطلق	الجدي	UNSURE	سمطت الجدي... سمط سمطا والخمط كذلك
+HFN-E-2e53e6cca4#5	YES	محلّ	تضمّن	-	-	السقاء	SURE	خمط السقاء تغيرت رائحته
+HFN-E-db0f6e73f3#1	YES	محلّ	تضمّن	-	-	اللبن	SURE	خمط اللبن يخمط خمطا طابت ريحه
+HFN-E-db0f6e73f3#2	OTHER_SENSE	-	-	-	-	-	SURE	الخمط كل شجرة ذات شوك
+HFN-E-db0f6e73f3#3	NO_DHAT	-	-	-	-	-	UNSURE	وقد خمط خمطا وهو خمط
+HFN-E-db0f6e73f3#4	YES	محلّ	التزام	عاديّ	مطلق	الجدي	UNSURE	سمطت الجدي... والخمط كذلك
+HFN-E-db0f6e73f3#5	YES	محلّ	تضمّن	-	-	السقاء	SURE	خمط السقاء تغيرت رائحته
+HFN-E-332ee038b2#1	OTHER_SENSE	-	-	-	-	-	SURE	كساء له خمل اسم
+HFN-E-332ee038b2#2	YES	محلّ	تضمّن	-	-	الإنسان	UNSURE	الخمال داء يأخذ في مفاصل الإنسان وقد خمل
+HFN-E-332ee038b2#3	OTHER_SENSE	-	-	-	-	-	SURE	الخمل ريش النعام
+HFN-E-332ee038b2#4	NO_DHAT	-	-	-	-	-	UNSURE	الخامل الخفي... وخمل يخمل خمولا
+HFN-E-332ee038b2#5	OTHER_SENSE	-	-	-	-	-	SURE	له خمل قصير كخمل المناديل
+HFN-E-78f7bdb748#1	NO_DHAT	-	-	-	-	-	UNSURE	وقد خنب خنبا، لا ذات مذكورة
+HFN-E-78f7bdb748#2	OTHER_SENSE	-	-	-	-	-	SURE	الأخناب باطن الركبة واحدها خنب
+HFN-E-6169d42808#1	YES	محلّ	التزام	عاديّ	مطلق	القربة	UNSURE	أطراق القربة إذا انخنثت؛ خنث الرجل تكسر
+HFN-E-6169d42808#2	OTHER_SENSE	-	-	-	-	-	SURE	الخنث باطن الشدق
+HFN-E-60a2fbec11#1	YES	محلّ	التزام	عاديّ	مطلق	القربة	UNSURE	أطراق القربة إذا انخنثت؛ خنث الرجل تكسر
+HFN-E-60a2fbec11#2	OTHER_SENSE	-	-	-	-	-	SURE	الخنث باطن الشدق
+HFN-E-e8d974be39#1	NO_DHAT	-	-	-	-	-	UNSURE	عنوان الخبز اليابس والخنز
+HFN-E-e8d974be39#2	OTHER_SENSE	-	-	-	-	-	UNSURE	ذي خنز وأنات بمعنى الزهو
+HFN-E-e8d974be39#3	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	نتن اللحم وأنتن... وخنز
+HFN-E-f4114e294b#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الذلف كالخنس، صفة أنف
+HFN-E-f4114e294b#2	YES	مصدر	تضمّن	-	-	أصحابه	UNSURE	خنس من أصحابه يخنس خناسا انقبض وتأخر
+HFN-E-f4114e294b#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الخنس تأخر الأنف في الوجه
+HFN-E-f4114e294b#4	YES	محلّ	التزام	عاديّ	مطلق	الكواكب	SURE	الكواكب الخنس لأنها تخنس أحيانا حتى تخفى
+HFN-E-f4114e294b#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الخنس انبساط الأخمص
+HFN-E-bf55c0a516#1	YES	محلّ	التزام	عاديّ	مطلق	الأنف	UNSURE	الذلف قصر الأنف... كالخنس
+HFN-E-bf55c0a516#2	OTHER_SENSE	-	-	-	-	-	UNSURE	خنس من أصحابه تأخر
+HFN-E-bf55c0a516#3	YES	محلّ	التزام	عاديّ	مطلق	البقر	SURE	البقر كلها خنس؛ الخنس تأخر الأنف
+HFN-E-bf55c0a516#4	OTHER_SENSE	-	-	-	-	-	UNSURE	تخنس أحيانا حتى تخفى
+HFN-E-bf55c0a516#5	YES	محلّ	التزام	عاديّ	مطلق	قدم	UNSURE	الخنس انبساط الأخمص قدم خنساء؛ الأخمص
+HFN-E-9ae9ed1d0d#1	YES	فاعل	التزام	عاديّ	مطلق	الخيل	UNSURE	أهوى بحافره إلى وحشية فذلك الخناف
+HFN-E-9ae9ed1d0d#2	OTHER_SENSE	-	-	-	-	-	SURE	الخنيف ثوب كتان والجمع خنف
+HFN-E-9ae9ed1d0d#3	YES	فاعل	تضمّن	-	-	البعير	SURE	خنف البعير خنفا لوى أنفه من الزمام
+HFN-E-9ae9ed1d0d#4	YES	فاعل	التزام	عاديّ	مطلق	الخيل	SURE	والخيل خنف
+HFN-E-9ae9ed1d0d#5	NO_DHAT	-	-	-	-	-	UNSURE	جري الخنف المراخي
+HFN-E-1ebc6ff946#1	YES	فاعل	التزام	عاديّ	مطلق	الخيل	UNSURE	أهوى بحافره إلى وحشية فذلك الخناف
+HFN-E-1ebc6ff946#2	OTHER_SENSE	-	-	-	-	-	SURE	الخنيف ثوب كتان والجمع خنف
+HFN-E-1ebc6ff946#3	YES	فاعل	تضمّن	-	-	البعير	SURE	خنف البعير خنفا لوى أنفه من الزمام
+HFN-E-1ebc6ff946#4	YES	فاعل	التزام	عاديّ	مطلق	الخيل	SURE	والخيل خنف
+HFN-E-1ebc6ff946#5	NO_DHAT	-	-	-	-	-	UNSURE	جري الخنف المراخي
+HFN-E-36bad36049#1	NO_DHAT	-	-	-	-	-	UNSURE	خنقته أخنقه خنقا؛ ما يخنق على جرته
+HFN-E-36bad36049#2	YES	محلّ	التزام	عاديّ	مطلق	الغلصمة	UNSURE	المطعمة الغلصمة... ولا يكون إلا عند الخنق
+HFN-E-36bad36049#3	NO_DHAT	-	-	-	-	-	SURE	شبه الموت بالخنق
+HFN-E-19c20b74d5#1	NO_DHAT	-	-	-	-	-	SURE	خني خنا وهي كلمة خنية وكلام خن
+HFN-E-6c40bf0471#1	OTHER_SENSE	-	-	-	-	-	SURE	خوت الدار خواء خلت، جذر آخر
+HFN-E-6c40bf0471#2	OTHER_SENSE	-	-	-	-	-	SURE	خويت للمرأة عملت لها خوية
+HFN-E-6c40bf0471#3	OTHER_SENSE	-	-	-	-	-	SURE	خويت الإبل خمصت بطونها
+HFN-E-6c40bf0471#4	OTHER_SENSE	-	-	-	-	-	SURE	خوى البعير تجافى في بروكه
+HFN-E-6c40bf0471#5	YES	آلة	تضمّن	-	-	جناحيها	UNSURE	الخائتة التي تختات وهو صوت جناحيها وانقضاضها
+HFN-E-5090832856#1	YES	محلّ	تضمّن	-	-	البطن	SURE	حبج بطنه وخوث خوثا عظم وانتفخ؛ خوث البطن
+HFN-E-d8e8a8dfdb#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	خار الرجل خؤورا وخور خورا ضعف
+HFN-E-d8e8a8dfdb#2	YES	محلّ	التزام	عاديّ	مطلق	ناقة	UNSURE	ناقة خوارة؛ الخور في لبنها رقة
+HFN-E-d8e8a8dfdb#3	OTHER_SENSE	-	-	-	-	-	SURE	الخور الخليج من البحر
+HFN-E-d8e8a8dfdb#4	OTHER_SENSE	-	-	-	-	-	SURE	نخلة فخور، جذر آخر
+HFN-E-d8e8a8dfdb#5	NO_DHAT	-	-	-	-	-	UNSURE	كما تقول خار يخور والخور معروف
+HFN-E-76817b9fb1#1	YES	محلّ	التزام	عاديّ	مطلق	ناقة	UNSURE	ناقة خوارة؛ الخور في لبنها رقة
+HFN-E-76817b9fb1#2	YES	محلّ	تضمّن	-	-	الرجل	SURE	خار الرجل وخور خورا ضعف
+HFN-E-76817b9fb1#3	OTHER_SENSE	-	-	-	-	-	SURE	الخور الخليج من البحر
+HFN-E-76817b9fb1#4	OTHER_SENSE	-	-	-	-	-	SURE	نخلة فخور، جذر آخر
+HFN-E-76817b9fb1#5	YES	محلّ	التزام	عاديّ	مطلق	الضرس	SURE	الضرس خور يصيب الضرس من أكل حامض
+HFN-E-55183fc2ed#1	YES	محلّ	تضمّن	-	-	الطعام	SURE	خاس البيع والطعام كسد
+HFN-E-55183fc2ed#2	YES	محلّ	تضمّن	-	-	الطعام	SURE	خاس الطعام خيسا فسد وعفن؛ خاست الجيفة
+HFN-E-55183fc2ed#3	NO_DHAT	-	-	-	-	-	SURE	الخيس الفساد وقد خاس
+HFN-E-55183fc2ed#4	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	خيست الرجل ذللته وكذلك الدابة وقد خاس
+HFN-E-ebf18032a5#1	YES	مصدر	تضمّن	-	-	الوعاء	SURE	خاش ما في الوعاء أخرج ما فيه جرفا
+HFN-E-ebf18032a5#2	OTHER_SENSE	-	-	-	-	-	UNSURE	المتخاوش المتخدد اللحم بمعنى الهزال
+HFN-E-c2b2aa0683#1	OTHER_SENSE	-	-	-	-	-	SURE	لها خوص كخوص النخل اسم ورق
+HFN-E-c2b2aa0683#2	OTHER_SENSE	-	-	-	-	-	SURE	الخوص الذي يلي أعلاها
+HFN-E-c2b2aa0683#3	OTHER_SENSE	-	-	-	-	-	SURE	قيد من ليف أو خوص
+HFN-E-c2b2aa0683#4	OTHER_SENSE	-	-	-	-	-	SURE	وعاء يتخذ من الخوص
+HFN-E-c2b2aa0683#5	YES	محلّ	تضمّن	-	-	العين	SURE	الخوص ضيق العين وصغرها وقد خوص
+HFN-E-1131585e8b#1	NO_DHAT	-	-	-	-	-	SURE	الخوض من الكلام ما فيه الكذب
+HFN-E-1131585e8b#2	YES	مكان	التزام	عاديّ	مطلق	الماء	SURE	خاض الماء خوضا وخياضا واختاضه
+HFN-E-1131585e8b#3	YES	آلة	التزام	عاديّ	مطلق	المجدح	SURE	التجديح وهو الخوض بالمجدح وهي خشبة
+HFN-E-1131585e8b#4	YES	مكان	التزام	عاديّ	مطلق	الماء	SURE	الخوض والعبور في الماء
+HFN-E-1ee5e0f500#1	NO_DHAT	-	-	-	-	-	SURE	الإفزاع والخوف، الفزع الفرق من الشيء
+HFN-E-1ee5e0f500#2	YES	محلّ	التزام	عاديّ	مطلق	موسى	UNSURE	فأوجس في نفسه خيفة موسى
+HFN-E-1ee5e0f500#3	NO_DHAT	-	-	-	-	-	UNSURE	وأكعه الخوف وكعكعه حبسه
+HFN-E-1ee5e0f500#4	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	كارز الرجل وعاجر إذا عدا من خوف
+HFN-E-1ee5e0f500#5	NO_DHAT	-	-	-	-	-	UNSURE	المرعد من حمى أو غضب أو خوف
+HFN-E-c35d33ee65#1	OTHER_SENSE	-	-	-	-	-	SURE	الخوق حلقة القرط
+HFN-E-c35d33ee65#2	YES	محلّ	التزام	عاديّ	مطلق	فرجها	UNSURE	الخوقاء الواسعة؛ ليس بين فرجها ودبرها حجاب
+HFN-E-c35d33ee65#3	YES	محلّ	تضمّن	-	-	بعير	UNSURE	ناقة خوقاء وبعير أخوق بين الخوق مثل الجرب
+HFN-E-84388a5f76#1	OTHER_SENSE	-	-	-	-	-	SURE	الخوق حلقة القرط
+HFN-E-84388a5f76#2	YES	محلّ	تضمّن	-	-	بعير	UNSURE	ناقة خوقاء وبعير أخوق بين الخوق مثل الجرب
+HFN-E-8801d4e8bb#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الخول العبيد والإماء اسم جمع
+HFN-E-8801d4e8bb#2	OTHER_SENSE	-	-	-	-	-	UNSURE	خول اللجم أصل فأسه وقد خولت الفرس
+HFN-E-8801d4e8bb#3	YES	محلّ	التزام	عاديّ	مطلق	المال	UNSURE	خال المال أحسن الخيال؛ خال على أهله خولا
+HFN-E-8801d4e8bb#4	YES	محلّ	التزام	عاديّ	مطلق	المال	UNSURE	إن يستخولوا المال يخولوا
+HFN-E-8801d4e8bb#5	YES	محلّ	التزام	عاديّ	مطلق	المال	UNSURE	إن يستخولوا المال يخولوا
+HFN-E-9b8abb31c9#1	YES	محلّ	تضمّن	-	-	المرأة	SURE	خويت المرأة خوى إذا ولدت فخلا جوفها
+HFN-E-9b8abb31c9#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الخواء كل هواء بين شيئين اسم
+HFN-E-9b8abb31c9#3	YES	محلّ	تضمّن	-	-	الدار	SURE	خوت الدار خواء خلت؛ أرض خواء
+HFN-E-9b8abb31c9#4	YES	محلّ	التزام	عاديّ	مطلق	المرأة	SURE	خويت هي خوى إذا لم تأكل عند الولادة
+HFN-E-9b8abb31c9#5	YES	فاعل	تضمّن	-	-	الظليم	SURE	خوى الظليم إذا ما جافى بين رجليه
+HFN-E-9dbcf57dde#1	NO_DHAT	-	-	-	-	-	SURE	الخواء الجوع وقد خوي وهو خو
+HFN-E-9dbcf57dde#2	OTHER_SENSE	-	-	-	-	-	SURE	الخوي الوطئ السهل من الجبال
+HFN-E-9dbcf57dde#3	YES	محلّ	تضمّن	-	-	المرأة	SURE	خويت المرأة خوى إذا ولدت فخلا جوفها
+HFN-E-9dbcf57dde#4	OTHER_SENSE	-	-	-	-	-	SURE	الخوي بطن يكون في السهل والحزن
+HFN-E-9dbcf57dde#5	YES	محلّ	التزام	عاديّ	مطلق	المرأة	SURE	خويت هي خوى إذا لم تأكل عند الولادة
+HFN-E-cac0679780#1	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	واخترته... لك خيار هذه الإبل
+HFN-E-cac0679780#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الخير الكرم رجل ذو خير
+HFN-E-cac0679780#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الذي لا خير فيه
+HFN-E-cac0679780#4	OTHER_SENSE	-	-	-	-	-	SURE	خار الرجل ضعف، من الخور
+HFN-E-cac0679780#5	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل بخيت ذو خير
+HFN-E-de1fa75550#1	OTHER_SENSE	-	-	-	-	-	SURE	الخيس المجتمع من كل شجر
+HFN-E-de1fa75550#2	NO_DHAT	-	-	-	-	-	SURE	الخيس الفساد وقد خاس
+HFN-E-de1fa75550#3	YES	محلّ	تضمّن	-	-	الطعام	SURE	خاس البيع والطعام كسد
+HFN-E-de1fa75550#4	YES	محلّ	تضمّن	-	-	الطعام	SURE	خاس الطعام خيسا فسد وعفن
+HFN-E-de1fa75550#5	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	خيست الرجل ذللته وقد خاس هو

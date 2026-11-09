@@ -1,0 +1,253 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-012aa8fb93#1	YES	محلّ	تضمّن	-	-	خيله	UNSURE	أشهب الرجل إذا كان نسل خيله شهبا
+HFN-E-012aa8fb93#2	YES	محلّ	تضمّن	-	-	رأسه	SURE	اشهب رأسه واشتهب غلب بياضه سواده
+HFN-E-012aa8fb93#3	YES	محلّ	التزام	عاديّ	مطلق	الحدائد	UNSURE	لم يذهب سواده كله فهو أشهب
+HFN-E-012aa8fb93#4	YES	زمان	تضمّن	-	-	يوم	UNSURE	يوم أشهب ذو ريح باردة
+HFN-E-012aa8fb93#5	YES	محلّ	تضمّن	-	-	ماء	UNSURE	ماء أزرق وأخضر واشهب أي صاف
+HFN-E-0d788d8511#1	YES	محلّ	تضمّن	-	-	رأسه	SURE	اشهب رأسه واشتهب غلب بياضه سواده
+HFN-E-e21ac7a9a9#1	YES	محلّ	التزام	عاديّ	مطلق	خيله	UNSURE	وقد شهب شهبة واشهب؛ نسل خيله شهبا
+HFN-E-e21ac7a9a9#2	YES	محلّ	تضمّن	-	-	رأسه	SURE	اشهب رأسه واشتهب غلب بياضه سواده
+HFN-E-e21ac7a9a9#3	YES	محلّ	التزام	عاديّ	مطلق	الحدائد	UNSURE	لم يذهب سواده كله فهو أشهب
+HFN-E-e21ac7a9a9#4	YES	زمان	تضمّن	-	-	يوم	UNSURE	يوم أشهب ذو ريح باردة
+HFN-E-e21ac7a9a9#5	YES	محلّ	تضمّن	-	-	ماء	UNSURE	ماء أزرق وأخضر واشهب أي صاف
+HFN-E-8f9fe14b8e#1	OTHER_SENSE	-	-	-	-	-	SURE	تشهد الحرب: حضور لا تشهّد
+HFN-E-8f9fe14b8e#2	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	استشهد الرجل... وتشهد طلب الشهادة
+HFN-E-8f9fe14b8e#3	OTHER_SENSE	-	-	-	-	-	SURE	تشهد لزيادة همزة: دلالة
+HFN-E-8f9fe14b8e#4	OTHER_SENSE	-	-	-	-	-	SURE	تشهد إذا غبت: حضور
+HFN-E-8f9fe14b8e#5	NO_DHAT	-	-	-	-	-	SURE	التشهد قراءة التحيات
+HFN-E-5b0cc07aa4#1	OTHER_SENSE	-	-	-	-	-	SURE	ثلاثة أشهر جمع شهر
+HFN-E-5b0cc07aa4#2	OTHER_SENSE	-	-	-	-	-	SURE	لسبعة أشهر جمع
+HFN-E-5b0cc07aa4#3	OTHER_SENSE	-	-	-	-	-	SURE	سبعة أشهر جمع
+HFN-E-5b0cc07aa4#4	YES	محلّ	تضمّن	-	-	المرأة	SURE	أشهرت المرأة دخلت في شهر ولادتها
+HFN-E-5b0cc07aa4#5	OTHER_SENSE	-	-	-	-	-	SURE	ولد السبعة أشهر جمع
+HFN-E-74ec33b453#1	YES	محلّ	تضمّن	-	-	الحدقة	UNSURE	قلة سواد الحدقة؛ شهل الرجل وأشهل
+HFN-E-8b32e1bc39#1	OTHER_SENSE	-	-	-	-	-	UNSURE	سمي العسل شوبا: اسم ذات
+HFN-E-8b32e1bc39#2	OTHER_SENSE	-	-	-	-	-	SURE	الشوب القطعة من العجين
+HFN-E-8b32e1bc39#3	YES	محلّ	التزام	عاديّ	مطلق	القمر	UNSURE	ضوء القمر... ففيه منها شوب
+HFN-E-8b32e1bc39#4	NO_DHAT	-	-	-	-	-	SURE	محض القحط بلا شوب
+HFN-E-8b32e1bc39#5	NO_DHAT	-	-	-	-	-	UNSURE	والفعل الشوب وهي مشيبة ومشوبة
+HFN-E-3d94c1227c#1	NO_DHAT	-	-	-	-	-	UNSURE	الإشارة إخراج ما في نفسك للمخاطب
+HFN-E-3d94c1227c#2	YES	آلة	التزام	عاديّ	مطلق	العين	UNSURE	الغمز الإشارة بالعين والحاجب
+HFN-E-3d94c1227c#3	OTHER_SENSE	-	-	-	-	-	SURE	أشرت أسنانه آشار: جذر أشر
+HFN-E-3d94c1227c#4	YES	آلة	التزام	عاديّ	مطلق	إصبعه	SURE	أشار نحوه بإصبعه
+HFN-E-3d94c1227c#5	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	تخلع الرجل... وأشار بيديه؛ يديه آلة
+HFN-E-65a074e847#1	YES	محلّ	تضمّن	-	-	الناقة	UNSURE	استشار الفحل الناقة إذا كرفها؛ الفحل فاعل
+HFN-E-1cf425748a#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	شور به إذا فعل به ما يستحيا
+HFN-E-1cf425748a#2	OTHER_SENSE	-	-	-	-	-	UNSURE	شار العسل: اجتناء العسل
+HFN-E-1cf425748a#3	OTHER_SENSE	-	-	-	-	-	SURE	أسماء أفراس لا حدث
+HFN-E-1cf425748a#4	OTHER_SENSE	-	-	-	-	-	SURE	ذكر الشور في باب العسل
+HFN-E-f7517ae566#1	YES	محلّ	التزام	عاديّ	مطلق	رجلا	SURE	تشور إذا خزي؛ رجلا بدت عورته
+HFN-E-90c1322462#1	NO_DHAT	-	-	-	-	-	UNSURE	الشوط الجري مرة إلى غاية
+HFN-E-90c1322462#2	OTHER_SENSE	-	-	-	-	-	SURE	شوط براح اسم ابن آوى
+HFN-E-905d18512c#1	OTHER_SENSE	-	-	-	-	-	SURE	الشوع شجر البان
+HFN-E-905d18512c#2	YES	محلّ	تضمّن	-	-	شعر الرأس	SURE	الشوع انتشار شعر الرأس وتفرقه
+HFN-E-905d18512c#3	YES	محلّ	تضمّن	-	-	الشعر	SURE	الشوع انتشار الشعر وتفرقه
+HFN-E-905d18512c#4	OTHER_SENSE	-	-	-	-	-	SURE	بالواديين وشوع: شجر
+HFN-E-905d18512c#5	OTHER_SENSE	-	-	-	-	-	SURE	شوع البقل أزاهيره: اسم ذات
+HFN-E-e4e996a99b#1	NO_DHAT	-	-	-	-	-	SURE	أشرف وكذلك أشاف
+HFN-E-417f3be9e4#1	NO_DHAT	-	-	-	-	-	SURE	اشتاف تطاول ونظر
+HFN-E-2de9aa261f#1	OTHER_SENSE	-	-	-	-	-	SURE	له شوك ضخام: اسم ذات
+HFN-E-2de9aa261f#2	OTHER_SENSE	-	-	-	-	-	SURE	ليس له حب ولا شوك
+HFN-E-2de9aa261f#3	YES	محلّ	التزام	عاديّ	مطلق	الشجر	UNSURE	الشجر الشاكي؛ والشوك اسم ذات
+HFN-E-2de9aa261f#4	OTHER_SENSE	-	-	-	-	-	SURE	الشجر ذي الشوك: اسم ذات
+HFN-E-2de9aa261f#5	OTHER_SENSE	-	-	-	-	-	SURE	كثيرة الشوك شوكات: اسم ذات
+HFN-E-820593a178#1	OTHER_SENSE	-	-	-	-	-	SURE	تقتحم الشول: جمع نوق
+HFN-E-820593a178#2	OTHER_SENSE	-	-	-	-	-	SURE	الشول الماء القليل
+HFN-E-820593a178#3	OTHER_SENSE	-	-	-	-	-	SURE	جلاد الشول: نوق
+HFN-E-820593a178#4	YES	محلّ	التزام	عاديّ	مطلق	ذنبها	UNSURE	شالت بذنبها بعد اللقاح فهي شائل
+HFN-E-820593a178#5	OTHER_SENSE	-	-	-	-	-	SURE	لا تكسع الشول: نوق
+HFN-E-e26c69c888#1	YES	محلّ	تضمّن	-	-	الوجه	SURE	رجل أشوه قبيح الوجه؛ شوهه الله
+HFN-E-e26c69c888#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الشوهاء في الخيل مدح: رحب الشدقين
+HFN-E-f119a1d8ed#1	NO_DHAT	-	-	-	-	-	SURE	لا تشوه علي أي لا تقل
+HFN-E-d87c48794c#1	NO_DHAT	-	-	-	-	-	UNSURE	الشيب ونعوته؛ الشيبة الواحدة
+HFN-E-d87c48794c#2	OTHER_SENSE	-	-	-	-	-	UNSURE	المرد والشيب: جمع
+HFN-E-d87c48794c#3	YES	محلّ	التزام	عاديّ	مطلق	لمتي	UNSURE	لمتي... قبل المشيب؛ أقحوان الشيب
+HFN-E-d87c48794c#4	NO_DHAT	-	-	-	-	-	UNSURE	فشبه به الشيب
+HFN-E-d87c48794c#5	OTHER_SENSE	-	-	-	-	-	SURE	شجر يسمى الشيب
+HFN-E-8f1f1202c5#1	OTHER_SENSE	-	-	-	-	-	SURE	الوشاح والإشاح: اسم ذات
+HFN-E-8f1f1202c5#2	NO_DHAT	-	-	-	-	-	SURE	أشاح على حاجته
+HFN-E-8f1f1202c5#3	OTHER_SENSE	-	-	-	-	-	SURE	وشاح وإشاح: اسم ذات
+HFN-E-8f1f1202c5#4	YES	محلّ	تضمّن	-	-	وجهه	SURE	أشاح بوجهه عن الشيء نحاه
+HFN-E-8f1f1202c5#5	OTHER_SENSE	-	-	-	-	-	UNSURE	سميت إشاحة من التوشح
+HFN-E-8a3e696837#1	OTHER_SENSE	-	-	-	-	-	SURE	لشيخ يعنيني: اسم ذات
+HFN-E-8a3e696837#2	OTHER_SENSE	-	-	-	-	-	SURE	بعث شيخ ابنين له
+HFN-E-8a3e696837#3	OTHER_SENSE	-	-	-	-	-	SURE	مشية الشيخ
+HFN-E-8a3e696837#4	OTHER_SENSE	-	-	-	-	-	SURE	قيل للشيخ عشمة
+HFN-E-8a3e696837#5	OTHER_SENSE	-	-	-	-	-	SURE	يا أيها الشيخ
+HFN-E-65dde9d111#1	NO_DHAT	-	-	-	-	-	SURE	وإشادة الشرع بقدرها
+HFN-E-65dde9d111#2	NO_DHAT	-	-	-	-	-	SURE	أرادوا المبالغة والإشادة
+HFN-E-65dde9d111#3	NO_DHAT	-	-	-	-	-	SURE	الإشادة نحو التنديد
+HFN-E-62084bdb1f#1	NO_DHAT	-	-	-	-	-	UNSURE	وأشاطه وأشاط به أذهبه
+HFN-E-62084bdb1f#2	YES	محلّ	التزام	عاديّ	مطلق	السلطان	UNSURE	الإشاطة فعند السلطان خاصة
+HFN-E-62084bdb1f#3	YES	محلّ	التزام	عاديّ	مطلق	القدر	UNSURE	شاطت تشيط وأشطتها؛ أشاط بدمه
+HFN-E-e4128c76bb#1	NO_DHAT	-	-	-	-	-	SURE	استشاط عليه تلهب وثار به الغضب
+HFN-E-af31f11cdf#1	OTHER_SENSE	-	-	-	-	-	SURE	الشيط فرس: علم
+HFN-E-af31f11cdf#2	YES	محلّ	تضمّن	-	-	اللحم	SURE	التشنيط أن يصلح اللحم ثم يشوى هو التشييط
+HFN-E-aa633040e4#1	OTHER_SENSE	-	-	-	-	-	SURE	الشيع شبل الأسد
+HFN-E-aa633040e4#2	YES	آلة	تضمّن	-	-	اليراع	UNSURE	الشياع صوت يراع؛ شيع في اليراع
+HFN-E-3548882a05#1	OTHER_SENSE	-	-	-	-	-	SURE	الأصباء جمع الصبا ريح
+HFN-E-674a2b0bc8#1	YES	محلّ	تضمّن	-	-	القوم	SURE	اصبح القوم دخلوا في الصباح
+HFN-E-674a2b0bc8#2	OTHER_SENSE	-	-	-	-	-	SURE	أصبح بين الصبح: لون الشعر
+HFN-E-674a2b0bc8#3	YES	محلّ	التزام	عاديّ	مطلق	المها	UNSURE	فأصبح لونها؛ المها الكواكب
+HFN-E-674a2b0bc8#4	YES	محلّ	التزام	عاديّ	مطلق	رأسه	UNSURE	وأصبح رأسه
+HFN-E-674a2b0bc8#5	NO_DHAT	-	-	-	-	-	UNSURE	وقد أصبح خمجا
+HFN-E-b0c6317e5d#1	NO_DHAT	-	-	-	-	-	UNSURE	الصبح أول النهار وقد اصبح
+HFN-E-b0c6317e5d#2	OTHER_SENSE	-	-	-	-	-	UNSURE	قيل للزهر صبح: اسم
+HFN-E-b0c6317e5d#3	OTHER_SENSE	-	-	-	-	-	SURE	تنفس الصبح: اسم وقت
+HFN-E-b0c6317e5d#4	OTHER_SENSE	-	-	-	-	-	SURE	الصبح بياض شعر الجسد: لون
+HFN-E-b0c6317e5d#5	OTHER_SENSE	-	-	-	-	-	SURE	الغطاط فالصبح: اسم وقت
+HFN-E-88de4f43c9#1	OTHER_SENSE	-	-	-	-	-	UNSURE	وتصبح عن غب السرى: ناسخة
+HFN-E-88de4f43c9#2	OTHER_SENSE	-	-	-	-	-	UNSURE	تصبح أو تغير: غارة صباحا
+HFN-E-88de4f43c9#3	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	تصبح في مبركها ولا ترتعي؛ مبركها مكان
+HFN-E-88de4f43c9#4	OTHER_SENSE	-	-	-	-	-	UNSURE	لم تصبح رؤوما: ناسخة
+HFN-E-88de4f43c9#5	OTHER_SENSE	-	-	-	-	-	UNSURE	تصبح منازلهم قفرا: ناسخة
+HFN-E-cd533a8574#1	OTHER_SENSE	-	-	-	-	-	SURE	أصحاب النبي: جمع صاحب
+HFN-E-cd533a8574#2	OTHER_SENSE	-	-	-	-	-	SURE	فأصحاب الميمنة: جمع
+HFN-E-cd533a8574#3	OTHER_SENSE	-	-	-	-	-	SURE	أصحاب النبي: جمع
+HFN-E-cd533a8574#4	OTHER_SENSE	-	-	-	-	-	SURE	أصحاب الأصمعي: جمع
+HFN-E-cd533a8574#5	OTHER_SENSE	-	-	-	-	-	SURE	أصحاب حمير: جمع
+HFN-E-6230411d31#1	OTHER_SENSE	-	-	-	-	-	SURE	أصح الرجل: جذر صحح
+HFN-E-6230411d31#2	NO_DHAT	-	-	-	-	-	SURE	فارقه السكر صحا صحوا وأصحى
+HFN-E-69e324c10a#1	YES	زمان	التزام	عاديّ	مطلق	يومنا	SURE	وقد أصخد يومنا
+HFN-E-854e73561f#1	OTHER_SENSE	-	-	-	-	-	SURE	الصدر عضو
+HFN-E-854e73561f#2	OTHER_SENSE	-	-	-	-	-	SURE	التصدير الحزام: اسم ذات
+HFN-E-854e73561f#3	OTHER_SENSE	-	-	-	-	-	SURE	يستقدم الصدر: عضو
+HFN-E-854e73561f#4	OTHER_SENSE	-	-	-	-	-	SURE	أوجاع الحلق والصدر
+HFN-E-854e73561f#5	OTHER_SENSE	-	-	-	-	-	SURE	تصديره وهو الحزام
+HFN-E-33db0ec554#1	YES	فاعل	تضمّن	-	-	الفرس	SURE	صدر الفرس وتصدر تقدم الخيل بصدره
+HFN-E-33db0ec554#2	OTHER_SENSE	-	-	-	-	-	SURE	تصدر الإبل: رجوع عن الماء
+HFN-E-79d0185c4d#1	NO_DHAT	-	-	-	-	-	SURE	انفصم الشيء انصدع
+HFN-E-79d0185c4d#2	NO_DHAT	-	-	-	-	-	UNSURE	من التشقق والانصداع
+HFN-E-3598c84ec0#1	OTHER_SENSE	-	-	-	-	-	UNSURE	صادق الحملة صدق اللقاء: شدة
+HFN-E-3598c84ec0#2	NO_DHAT	-	-	-	-	-	SURE	انتفاء الصدق في الخبر
+HFN-E-3598c84ec0#3	OTHER_SENSE	-	-	-	-	-	SURE	قناة صدق صلبة
+HFN-E-3598c84ec0#4	NO_DHAT	-	-	-	-	-	SURE	صدق في قوله؛ المصدوقة
+HFN-E-3598c84ec0#5	NO_DHAT	-	-	-	-	-	SURE	برت يمينه أي صدقت
+HFN-E-0c6d2b9428#1	OTHER_SENSE	-	-	-	-	-	SURE	الصريح الخالص من كل شيء
+HFN-E-0c6d2b9428#2	OTHER_SENSE	-	-	-	-	-	SURE	الصرح كل بناء عال
+HFN-E-0c6d2b9428#3	OTHER_SENSE	-	-	-	-	-	SURE	الصرح الخالص
+HFN-E-0c6d2b9428#4	NO_DHAT	-	-	-	-	-	SURE	فصرح بها أن علماء جمع عالم
+HFN-E-0c6d2b9428#5	OTHER_SENSE	-	-	-	-	-	UNSURE	المثالة الصرح
+HFN-E-de7deb1bce#1	YES	محلّ	تضمّن	-	-	اللبن	SURE	صرح اللبن وتصرح إذا سكنت رغوته
+HFN-E-7007a05b10#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الصرد البرد: معنى بعيد
+HFN-E-7007a05b10#2	OTHER_SENSE	-	-	-	-	-	SURE	الصرد طائر
+HFN-E-7007a05b10#3	OTHER_SENSE	-	-	-	-	-	SURE	الصرد طائر
+HFN-E-7007a05b10#4	OTHER_SENSE	-	-	-	-	-	SURE	أعظم من الصرد طائر
+HFN-E-7007a05b10#5	OTHER_SENSE	-	-	-	-	-	SURE	الصرد الخطأ
+HFN-E-b297cd3123#1	OTHER_SENSE	-	-	-	-	-	SURE	انصرف في النكرة: صرف نحوي
+HFN-E-b297cd3123#2	NO_DHAT	-	-	-	-	-	SURE	صرفته أصرفه صرفا فانصرف
+HFN-E-b297cd3123#3	YES	فاعل	التزام	عاديّ	مطلق	زوجها	SURE	زوجها أو ابنها... إذا ما انصرف
+HFN-E-b297cd3123#4	YES	فاعل	التزام	عاديّ	مطلق	ابنين	SURE	فانصرف إليه أحدهما
+HFN-E-b297cd3123#5	NO_DHAT	-	-	-	-	-	SURE	اعتتب عن الشيء انصرف
+HFN-E-713691745d#1	YES	فاعل	التزام	عاديّ	مطلق	الرجل	SURE	أحصرت الرجل منعته من التصرف
+HFN-E-713691745d#2	OTHER_SENSE	-	-	-	-	-	SURE	منع التصرف: نحوي
+HFN-E-713691745d#3	OTHER_SENSE	-	-	-	-	-	SURE	وما تصرف منه: اشتقاق
+HFN-E-713691745d#4	YES	فاعل	التزام	عاديّ	مطلق	الهدف	UNSURE	الهدف... قلة تصرفه
+HFN-E-713691745d#5	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	رجل حول؛ ذو حيلة وتصرف
+HFN-E-f543345236#1	OTHER_SENSE	-	-	-	-	-	SURE	الأصرام جمع صرم
+HFN-E-f543345236#2	OTHER_SENSE	-	-	-	-	-	SURE	الصرم أبيات وجمعه أصرام
+HFN-E-f543345236#3	YES	محلّ	تضمّن	-	-	النخل	SURE	أصرم النخل استحق أن يفعل به
+HFN-E-f543345236#4	NO_DHAT	-	-	-	-	-	SURE	أصرم وأحوج إذا أقل
+HFN-E-1903679a31#1	NO_DHAT	-	-	-	-	-	SURE	صرمه فانصرم
+HFN-E-b106c1d0b8#1	YES	محلّ	التزام	عاديّ	مطلق	النوامي	UNSURE	عيون النوامي بعد ما تصرم
+HFN-E-b106c1d0b8#2	YES	محلّ	التزام	عاديّ	مطلق	صرفانة	SURE	صرفانة ربعية تصرم بالصيف
+HFN-E-2a90b65885#1	YES	محلّ	تضمّن	-	-	ماء	SURE	ماء صرى إذا طال مكثه وتغير
+HFN-E-2a90b65885#2	OTHER_SENSE	-	-	-	-	-	SURE	صري أي عزيمة
+HFN-E-2a90b65885#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الصرى ما اجتمع من الدمع
+HFN-E-2a90b65885#4	YES	محلّ	تضمّن	-	-	الناقة	SURE	صريت الناقة تحفل لبنها في ضرعها
+HFN-E-2a90b65885#5	OTHER_SENSE	-	-	-	-	-	UNSURE	وأجن الصرى: ماء
+HFN-E-9fb8b18f96#1	YES	محلّ	تضمّن	-	-	الإبل	SURE	الصعر داء يصيب الإبل فتلتوي أعناقها
+HFN-E-9fb8b18f96#2	YES	محلّ	تضمّن	-	-	النعام	SURE	الأصعر من النعام المائل العنق
+HFN-E-189036c0ee#1	YES	محلّ	تضمّن	-	-	الخد	SURE	التصعير إمالة الخد عن النظر
+HFN-E-189036c0ee#2	YES	فاعل	التزام	عاديّ	مطلق	الجبار	SURE	إذا الجبار صعر خده؛ خده محلّ
+HFN-E-189036c0ee#3	YES	محلّ	تضمّن	-	-	الإبل	SURE	الصعر داء يصيب الإبل
+HFN-E-6601ea414b#1	YES	محلّ	التزام	عاديّ	مطلق	ظهرها	UNSURE	وظهرها أصفر
+HFN-E-6601ea414b#2	YES	محلّ	التزام	عاديّ	مطلق	ثمرة	UNSURE	كالشعر أصفر؛ ثمرة صفراء
+HFN-E-6601ea414b#3	YES	محلّ	التزام	عاديّ	مطلق	نور	UNSURE	له نور مجتمع أصفر
+HFN-E-6601ea414b#4	YES	محلّ	التزام	عاديّ	مطلق	أولادها	UNSURE	الأصفر الأسود؛ صفر أولادها
+HFN-E-6601ea414b#5	YES	محلّ	التزام	عاديّ	مطلق	الثوب	UNSURE	المدمى الثوب الأحمر وقال هو الأصفر
+HFN-E-c5d853ab02#1	OTHER_SENSE	-	-	-	-	-	SURE	الصفر النحاس
+HFN-E-c5d853ab02#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الصفر الخالي
+HFN-E-c5d853ab02#3	OTHER_SENSE	-	-	-	-	-	SURE	الصفر حية في البطن
+HFN-E-c5d853ab02#4	YES	فاعل	التزام	عاديّ	مطلق	الغلام	SURE	الصفارة هنة يصفر فيها الغلام
+HFN-E-c5d853ab02#5	OTHER_SENSE	-	-	-	-	-	SURE	قدور الصفر والنحاس
+HFN-E-96e6d14963#1	YES	محلّ	التزام	عاديّ	مطلق	أظفاره	SURE	تصفر أظفاره إذا نزفه الدم
+HFN-E-96e6d14963#2	YES	محلّ	التزام	عاديّ	مطلق	الأنامل	SURE	تصفر منها الأنامل
+HFN-E-96e6d14963#3	OTHER_SENSE	-	-	-	-	-	UNSURE	تمكو أي تصفر: صفير
+HFN-E-96e6d14963#4	YES	محلّ	التزام	عاديّ	مطلق	شجرة	SURE	شجرة تخضر ثم تصفر وتذوي
+HFN-E-96e6d14963#5	OTHER_SENSE	-	-	-	-	-	UNSURE	تصفر في أعظمه المخيخة: صوت
+HFN-E-b99891739b#1	YES	فاعل	تضمّن	-	-	الناس	SURE	أصفق الناس له فاجتمعوا
+HFN-E-b99891739b#2	YES	فاعل	التزام	عاديّ	مطلق	القوم	SURE	صفق القوم وأصفقوا؛ أصفق الناس
+HFN-E-27a6ea13c0#1	OTHER_SENSE	-	-	-	-	-	SURE	الصفق الأديم: اسم ذات
+HFN-E-27a6ea13c0#2	OTHER_SENSE	-	-	-	-	-	SURE	الصفوق الصعود
+HFN-E-27a6ea13c0#3	NO_DHAT	-	-	-	-	-	SURE	التصدية التصفيق
+HFN-E-27a6ea13c0#4	OTHER_SENSE	-	-	-	-	-	UNSURE	ثوب صفيق كثيف: معنى بعيد
+HFN-E-27a6ea13c0#5	YES	آلة	تضمّن	-	-	العصا	UNSURE	صفقت رأسه بالعصا؛ رأسه محلّ
+HFN-E-d01e63aa45#1	YES	فاعل	التزام	عاديّ	مطلق	الريح	UNSURE	ما تصفق منه الريح؛ الماء محلّ
+HFN-E-d01e63aa45#2	YES	محلّ	تضمّن	-	-	جنبيها	UNSURE	تقلبت على جنبيها قيل صفقت
+HFN-E-d01e63aa45#3	YES	آلة	التزام	عاديّ	مطلق	جناحيها	SURE	فتصفق بجناحيها على هامة الحمار
+HFN-E-ef44e2a74b#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل ظهير... وقيل هو الصلب الشديد
+HFN-E-ef44e2a74b#2	NO_DHAT	-	-	-	-	-	UNSURE	الصلتان الشديد الصلب
+HFN-E-ef44e2a74b#3	YES	محلّ	التزام	عاديّ	مطلق	الإبل	SURE	الصوجان من الإبل الشديد الصلب
+HFN-E-ef44e2a74b#4	YES	محلّ	تضمّن	-	-	مكان	UNSURE	مكان صلب غليظ شديد
+HFN-E-ef44e2a74b#5	YES	محلّ	التزام	عاديّ	مطلق	الحجارة	SURE	الصوان الحجارة الصلبة
+HFN-E-1458d8e4d8#1	YES	محلّ	التزام	عاديّ	مطلق	ساقها	SURE	غلظت ساقها... وتصلب حتى تكاد
+HFN-E-38db1c684d#1	OTHER_SENSE	-	-	-	-	-	SURE	أصلت الناقة وقع ولدها في صلاها
+HFN-E-38db1c684d#2	OTHER_SENSE	-	-	-	-	-	SURE	الصلت السكين: اسم ذات
+HFN-E-0cac144b1e#1	NO_DHAT	-	-	-	-	-	SURE	وانصلت إذا أسرع
+HFN-E-0cac144b1e#2	OTHER_SENSE	-	-	-	-	-	SURE	أنصلت الرمح: جذر نصل
+HFN-E-0cac144b1e#3	OTHER_SENSE	-	-	-	-	-	SURE	أنصلت السهم: جذر نصل
+HFN-E-64c748634c#1	YES	محلّ	تضمّن	-	-	حجر	UNSURE	حجر صلد وصلود صلب شديد
+HFN-E-7e6d64fc83#1	YES	محلّ	تضمّن	-	-	الزند	SURE	الزند بطيئا فهو صلود وقد صلد
+HFN-E-7e6d64fc83#2	YES	محلّ	تضمّن	-	-	رجل	SURE	رجل صلد بخيل وقد صلد
+HFN-E-7e6d64fc83#3	YES	محلّ	تضمّن	-	-	حجر	SURE	حجر صلد وصلود صلب شديد
+HFN-E-7e6d64fc83#4	YES	محلّ	التزام	عاديّ	مطلق	صفا	UNSURE	ولا بصفا صلد
+HFN-E-7e6d64fc83#5	YES	محلّ	تضمّن	-	-	جبلها	UNSURE	الصلود غلب جبلها الحافر وقد صلد
+HFN-E-5a3afdc41c#1	OTHER_SENSE	-	-	-	-	-	SURE	وحش إصمت: علم مكان
+HFN-E-5a3afdc41c#2	YES	فاعل	التزام	عاديّ	مطلق	الرجل	SURE	أصمت الرجل وصمت يصمت
+HFN-E-e472af4a1d#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	أصمت الرجل وصمت؛ وقد أصمته وصمته
+HFN-E-e472af4a1d#2	NO_DHAT	-	-	-	-	-	SURE	الصوم الصمت
+HFN-E-e472af4a1d#3	OTHER_SENSE	-	-	-	-	-	SURE	وصمت الشهر: من الصوم
+HFN-E-e472af4a1d#4	OTHER_SENSE	-	-	-	-	-	SURE	فصمت أفصم: جذر فصم
+HFN-E-eb8455d920#1	YES	آلة	تضمّن	-	-	العصا	SURE	تصمد رأسه بالعصا عمد لمعظمه
+HFN-E-eb8455d920#2	YES	آلة	تضمّن	-	-	العصا	SURE	تصمد له بالعصا قصد له بها
+HFN-E-6c84d37da9#1	YES	محلّ	تضمّن	-	-	الماء	UNSURE	صمر الماء إذا جرى من حدور فسكن
+HFN-E-6c84d37da9#2	NO_DHAT	-	-	-	-	-	UNSURE	الصامر البخيل وقد صمر
+HFN-E-6c84d37da9#3	OTHER_SENSE	-	-	-	-	-	SURE	أصمارها واحدها صمر: شفاه
+HFN-E-c6a4a26820#1	NO_DHAT	-	-	-	-	-	SURE	انصمى اندرأ بكلام أو صخب
+HFN-E-c6a4a26820#2	NO_DHAT	-	-	-	-	-	SURE	انصمى انقض
+HFN-E-2a2e8ea342#1	OTHER_SENSE	-	-	-	-	-	SURE	الصنج آلة: اسم ذات
+HFN-E-2a2e8ea342#2	OTHER_SENSE	-	-	-	-	-	SURE	يجاوبه صنج: اسم ذات
+HFN-E-2a2e8ea342#3	OTHER_SENSE	-	-	-	-	-	SURE	الدف والصنج: اسم ذات
+HFN-E-6af496b5cd#1	YES	محلّ	تضمّن	-	-	أولاد	SURE	أصهب الرجل ولد له أولاد صهب
+HFN-E-6af496b5cd#2	NO_DHAT	-	-	-	-	-	UNSURE	أصهب الصهابي كالأصهب
+HFN-E-6af496b5cd#3	YES	محلّ	التزام	عاديّ	مطلق	الجراد	SURE	الجراد... يخرج أصهب إلى البياض
+HFN-E-6af496b5cd#4	YES	محلّ	التزام	عاديّ	مطلق	ذباب	SURE	القمعة ذباب أصهب
+HFN-E-a2e61946dd#1	YES	فاعل	التزام	عاديّ	مطلق	فلان	UNSURE	فلان مصهر بنا؛ إصهار الملوك
+HFN-E-a2e61946dd#2	OTHER_SENSE	-	-	-	-	-	SURE	الأصهار جمع
+HFN-E-dd97de7489#1	YES	محلّ	تضمّن	-	-	دماغه	UNSURE	تصهره اشتد حرها حتى آلم دماغه وانصهر
+HFN-E-ce51e93bb8#1	YES	محلّ	التزام	عاديّ	مطلق	المال	UNSURE	هاث من المال أي أصاب
+HFN-E-ce51e93bb8#2	YES	محلّ	التزام	عاديّ	مطلق	الهدف	SURE	المرتدع إذا أصاب الهدف؛ المرتدع فاعل
+HFN-E-ce51e93bb8#3	NO_DHAT	-	-	-	-	-	SURE	عنوان: الكلام والإصابة
+HFN-E-ce51e93bb8#4	YES	محلّ	التزام	عاديّ	مطلق	النبات	SURE	أصاب النبات برد فكدأه
+HFN-E-ce51e93bb8#5	YES	آلة	التزام	عاديّ	مطلق	السهم	UNSURE	الإصابة بالسهم والرمح والحجر
+HFN-E-ccfce11035#1	OTHER_SENSE	-	-	-	-	-	SURE	تذرق الصوب: اسم ذات
+HFN-E-ccfce11035#2	YES	محلّ	تضمّن	-	-	المطر	UNSURE	صاب المطر يصوب صوبا انصب
+HFN-E-ccfce11035#3	NO_DHAT	-	-	-	-	-	SURE	كلام صوب وصواب
+HFN-E-ccfce11035#4	NO_DHAT	-	-	-	-	-	SURE	استصوبته رأيته صوابا
+HFN-E-ccfce11035#5	YES	زمان	التزام	عاديّ	مطلق	الربيع	UNSURE	صوب الربيع وديمة
+HFN-E-44f428c2c2#1	NO_DHAT	-	-	-	-	-	SURE	شدة الصوت؛ الصوت مذكر
+HFN-E-44f428c2c2#2	YES	فاعل	التزام	عاديّ	مطلق	الصقر	SURE	غق الصقر صوت؛ صوت الحمام
+HFN-E-44f428c2c2#3	YES	مصدر	التزام	عاديّ	مطلق	الصدر	SURE	الصوت من الصدر والحلق والأنف
+HFN-E-44f428c2c2#4	YES	فاعل	التزام	عاديّ	مطلق	القوم	UNSURE	ضوضاة القوم؛ غلب عليه الصوت
+HFN-E-44f428c2c2#5	NO_DHAT	-	-	-	-	-	UNSURE	لكل ذي صوت؛ علا صوته
+HFN-E-2f3b28df67#1	OTHER_SENSE	-	-	-	-	-	SURE	الصوح حائط الوادي
+HFN-E-0700414367#1	YES	محلّ	التزام	عاديّ	مطلق	البقل	SURE	تصوح البقل؛ صوحته الريح
+HFN-E-0700414367#2	YES	محلّ	تضمّن	-	-	الشعر	SURE	التصوح تشقق الشعر وتناثره
+HFN-E-0700414367#3	YES	محلّ	التزام	عاديّ	مطلق	روضة	UNSURE	روضة تهيج الرباض قبلها وتصوح
+HFN-E-0700414367#4	YES	محلّ	التزام	عاديّ	مطلق	الوسمي	UNSURE	وتصوح الوسمي من شطآنه
+HFN-E-8821b08853#1	OTHER_SENSE	-	-	-	-	-	SURE	الجمع صور: اسم
+HFN-E-8821b08853#2	YES	محلّ	التزام	عاديّ	مطلق	عراجين	UNSURE	العرجنة تصوير عراجين النخل
+HFN-E-8821b08853#3	OTHER_SENSE	-	-	-	-	-	SURE	النفخ في الصور: بوق
+HFN-E-8821b08853#4	OTHER_SENSE	-	-	-	-	-	SURE	فيه صور البروج: جمع صورة
+HFN-E-8821b08853#5	OTHER_SENSE	-	-	-	-	-	SURE	فيه صور المراجل: جمع صورة

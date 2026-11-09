@@ -1,0 +1,253 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-d3a706e959#1	OTHER_SENSE	-	-	-	-	-	SURE	«في صفة طير» اسم ذات
+HFN-E-d3a706e959#2	OTHER_SENSE	-	-	-	-	-	SURE	«جماعة الطير» اسم جنس
+HFN-E-d3a706e959#3	OTHER_SENSE	-	-	-	-	-	SURE	«الكرز من الطير» اسم
+HFN-E-d3a706e959#4	YES	فاعل	تضمّن	-	-	ذي الجناح	UNSURE	«الطيران حركة ذي الجناح في الهواء» المجرد طار
+HFN-E-d3a706e959#5	OTHER_SENSE	-	-	-	-	-	SURE	«الجوارح من الطير» اسم
+HFN-E-9ecadf0ea5#1	OTHER_SENSE	-	-	-	-	-	SURE	«تصوت حين تطير» من الطيران لا التطير
+HFN-E-9ecadf0ea5#2	OTHER_SENSE	-	-	-	-	-	SURE	«ثم تطير وتخلى الوكرا» طيران
+HFN-E-9ecadf0ea5#3	NO_DHAT	-	-	-	-	-	SURE	«هي الطيرة... الطورة» بلا ذات
+HFN-E-9ecadf0ea5#4	YES	محلّ	التزام	عاديّ	مطلق	الغراب	UNSURE	«قالوا في الغراب أعور... على التطير»
+HFN-E-9ecadf0ea5#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«تطير عدائد الأشراك» بمعنى آخر
+HFN-E-f3709977cc#1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	«أظرف الرجل - ولد له ولد ظريف»
+HFN-E-8534285275#1	NO_DHAT	-	-	-	-	-	SURE	«ظرفت تظرف» مثال صرفي
+HFN-E-8534285275#2	NO_DHAT	-	-	-	-	-	SURE	«الحذلقة - التظرف في الظرف»
+HFN-E-84fb91787f#1	OTHER_SENSE	-	-	-	-	-	SURE	«قانئ الأظفار» جمع ظفر
+HFN-E-84fb91787f#2	YES	آلة	التزام	عقليّ	ذهنيّ	الظفر	UNSURE	«إذا أهوى اظفر... افتعل من الظفر»
+HFN-E-84fb91787f#3	OTHER_SENSE	-	-	-	-	-	SURE	«ورقها كالأظفار» جمع
+HFN-E-84fb91787f#4	OTHER_SENSE	-	-	-	-	-	SURE	«الشقاق في الأظفار» جمع
+HFN-E-84fb91787f#5	OTHER_SENSE	-	-	-	-	-	SURE	«في أظفار الأحداث» جمع
+HFN-E-d583403233#1	OTHER_SENSE	-	-	-	-	-	SURE	«الظفر والظفر» اسم العضو
+HFN-E-d583403233#2	NO_DHAT	-	-	-	-	-	SURE	«الظفر: الفوز بالمطلوب. ظفرت به»
+HFN-E-d583403233#3	YES	محلّ	التزام	عاديّ	مطلق	إمام	SURE	«إلى إمام... ظفره الله»
+HFN-E-d583403233#4	OTHER_SENSE	-	-	-	-	-	SURE	«أصل الظفر» اسم العضو
+HFN-E-d583403233#5	OTHER_SENSE	-	-	-	-	-	SURE	«على شكل ظفر الإنسان» اسم
+HFN-E-8b6fc1b10f#1	OTHER_SENSE	-	-	-	-	-	SURE	«والجمع أظلاف» اسم
+HFN-E-8b6fc1b10f#2	OTHER_SENSE	-	-	-	-	-	SURE	«أظلاف البقر» اسم
+HFN-E-8b6fc1b10f#3	OTHER_SENSE	-	-	-	-	-	SURE	«خاضب الأظلاف» اسم
+HFN-E-8b6fc1b10f#4	OTHER_SENSE	-	-	-	-	-	SURE	«ما تعلق بالاظلاف» اسم
+HFN-E-8b6fc1b10f#5	OTHER_SENSE	-	-	-	-	-	SURE	«خاضب الأظلاف» اسم
+HFN-E-606e3a2c58#1	YES	زمان	تضمّن	-	-	الليل	UNSURE	«الظلمة جماع سواد الليل... ظلم الليل كأظلم» وأظلم القوم
+HFN-E-606e3a2c58#2	YES	محلّ	التزام	عاديّ	مطلق	البصر	UNSURE	«ما يلحق البصر من الإظلام»
+HFN-E-606e3a2c58#3	YES	محلّ	التزام	عاديّ	مطلق	الغمام	SURE	«مجتمع الغمام إذا أظلم وتراكم»
+HFN-E-606e3a2c58#4	YES	زمان	التزام	عاديّ	مطلق	الليل	UNSURE	«اعلنكس الليل... إذا أظلم وتراكب»
+HFN-E-606e3a2c58#5	OTHER_SENSE	-	-	-	-	-	SURE	«ظلمته فانظلم واظلم» من الظلم
+HFN-E-7c33fe0fcd#1	NO_DHAT	-	-	-	-	-	SURE	«ظلمته فانظلم» بلا ذات
+HFN-E-cf0796385c#1	YES	فاعل	تضمّن	-	-	الرجل	SURE	«تظلم الرجل من الظلم - أي شكاه»
+HFN-E-3f6091e4f3#1	OTHER_SENSE	-	-	-	-	-	SURE	«الظمء ما بين الشربتين» مهموز آخر
+HFN-E-3f6091e4f3#2	YES	محلّ	تضمّن	-	-	الشفة	SURE	«الظمى ذبول الشفة... رجل أظمى»
+HFN-E-3f6091e4f3#3	YES	محلّ	تضمّن	-	-	اللثة	SURE	«الظمى قلة دم اللثة ولحمها»
+HFN-E-3f6091e4f3#4	YES	محلّ	تضمّن	-	-	الشفتين	UNSURE	«الأظمى... الأسود الشفتين»
+HFN-E-3f6091e4f3#5	YES	محلّ	تضمّن	-	-	الرماح	UNSURE	«من الرماح الأظمى وهو الأسمر»
+HFN-E-d8337cf295#1	OTHER_SENSE	-	-	-	-	-	SURE	«الظهر من لدن مؤخر الكاهل» عضو
+HFN-E-d8337cf295#2	OTHER_SENSE	-	-	-	-	-	SURE	«أعراض الظهر» عضو
+HFN-E-d8337cf295#3	OTHER_SENSE	-	-	-	-	-	SURE	«مستوى الظهر» عضو
+HFN-E-d8337cf295#4	OTHER_SENSE	-	-	-	-	-	SURE	«لم يكن له ظهر» مركوب
+HFN-E-d8337cf295#5	OTHER_SENSE	-	-	-	-	-	SURE	«لون ظهر الكدرية» عضو
+HFN-E-220a0087bc#1	OTHER_SENSE	-	-	-	-	-	SURE	«هذا الظاهر» بمعنى البيّن
+HFN-E-220a0087bc#2	OTHER_SENSE	-	-	-	-	-	SURE	«الجاري الظاهر» بمعنى البيّن
+HFN-E-220a0087bc#3	OTHER_SENSE	-	-	-	-	-	SURE	«ظاهر الوجنة» بمعنى آخر
+HFN-E-220a0087bc#4	OTHER_SENSE	-	-	-	-	-	SURE	«في الظاهر» بمعنى آخر
+HFN-E-220a0087bc#5	OTHER_SENSE	-	-	-	-	-	SURE	«ظاهر الشفة العليا» بمعنى آخر
+HFN-E-2c58714911#1	OTHER_SENSE	-	-	-	-	-	SURE	«تظهر بشرته» من الظهور
+HFN-E-2c58714911#2	OTHER_SENSE	-	-	-	-	-	SURE	«وتظهر في رؤوسها» من الظهور
+HFN-E-2c58714911#3	OTHER_SENSE	-	-	-	-	-	SURE	«لم تظهر لهن كعوب» من الظهور
+HFN-E-2c58714911#4	OTHER_SENSE	-	-	-	-	-	SURE	«تظهر فيه أورام» من الظهور
+HFN-E-2c58714911#5	YES	محلّ	تضمّن	-	-	امرأته	SURE	«ظاهر الرجل امرأته... وقد تظهر منها» الرجل فاعل
+HFN-E-807b12ac83#1	YES	فاعل	تضمّن	-	-	القوم	UNSURE	«أعبد القوم بالجرل ضربوه» الجرل آلة
+HFN-E-807b12ac83#2	YES	محلّ	تضمّن	-	-	عبدا	UNSURE	«عبدته وأعبدته - صيرته عبدا»
+HFN-E-807b12ac83#3	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	«أعبد به كأبدع... أبدع الرجل» والبعير
+HFN-E-807b12ac83#4	OTHER_SENSE	-	-	-	-	-	SURE	«أعبد بني سهم» جمع عبد
+HFN-E-8ca11a1a50#1	OTHER_SENSE	-	-	-	-	-	SURE	«العبد - الإنسان» اسم
+HFN-E-8ca11a1a50#2	YES	محلّ	التزام	عاديّ	مطلق	مور	SURE	«مور معبد المور: الطريق»
+HFN-E-8ca11a1a50#3	OTHER_SENSE	-	-	-	-	-	SURE	«عبد الله» علم
+HFN-E-8ca11a1a50#4	YES	محلّ	التزام	عاديّ	مطلق	الطاغوت	UNSURE	«اجتنبوا الطاغوت أن يعبدوها» عبد المجرد
+HFN-E-8ca11a1a50#5	OTHER_SENSE	-	-	-	-	-	SURE	«بمعبد... عبد الله» علم
+HFN-E-4cd50bb056#1	NO_DHAT	-	-	-	-	-	UNSURE	«كتعبد والتعبد» تشبيه بلا ذات
+HFN-E-4cd50bb056#2	YES	محلّ	التزام	عاديّ	مطلق	شجرة	SURE	«شجرة كانت تعبد في الجاهلية»
+HFN-E-b4a0d59333#1	OTHER_SENSE	-	-	-	-	-	SURE	«عبر عبرا واستعبر» من الدمع
+HFN-E-b4a0d59333#2	OTHER_SENSE	-	-	-	-	-	SURE	«العبر - الكثير»
+HFN-E-b4a0d59333#3	OTHER_SENSE	-	-	-	-	-	SURE	«عبر الرجل عبرا... حزن»
+HFN-E-b4a0d59333#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«ناقة عبر أسفار» بمعنى العبور
+HFN-E-b4a0d59333#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«عبرته أعبره عبرا وعبورا» عبور النهر
+HFN-E-1bef21e415#1	NO_DHAT	-	-	-	-	-	SURE	«على اعتبار الاسم والصفة»
+HFN-E-a2e2e632fb#1	NO_DHAT	-	-	-	-	-	SURE	«عبس يعبس عبسا وعبوسا» بلا ذات
+HFN-E-a2e2e632fb#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«عبس الوسخ عليه... يبس» معنى بعيد
+HFN-E-a2e2e632fb#3	OTHER_SENSE	-	-	-	-	-	SURE	«عبس 21» اسم سورة
+HFN-E-a2e2e632fb#4	OTHER_SENSE	-	-	-	-	-	SURE	أسماء أعلام لا فعل
+HFN-E-a2e2e632fb#5	OTHER_SENSE	-	-	-	-	-	SURE	«صبرت عبس لقيس» علم قبيلة
+HFN-E-c1c4616336#1	NO_DHAT	-	-	-	-	-	SURE	«عبط علي الكذب... واعتبط»
+HFN-E-c1c4616336#2	NO_DHAT	-	-	-	-	-	SURE	«اعتبط عرضه - تنقصه»
+HFN-E-96c43daf47#1	YES	محلّ	تضمّن	-	-	الشجر	SURE	«أعبل الشجر - طلع ورقه»
+HFN-E-96c43daf47#2	YES	محلّ	تضمّن	-	-	الشجر	SURE	«إذا أثمر الشجر قيل أعبل»
+HFN-E-96c43daf47#3	YES	محلّ	تضمّن	-	-	الورق	SURE	«الاعبال - وقوع الورق... أعبلت الأشجار»
+HFN-E-96c43daf47#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«جبل أعبل - صلب أبيض»
+HFN-E-96c43daf47#5	OTHER_SENSE	-	-	-	-	-	SURE	«الأعبل... حجارة بيض» اسم
+HFN-E-0a6bd268f5#1	OTHER_SENSE	-	-	-	-	-	SURE	«ذي عتب» اسم دساتين
+HFN-E-0a6bd268f5#2	YES	فاعل	التزام	عاديّ	مطلق	العقير	UNSURE	«عتب العقير والظالع... يثب في مشيته»
+HFN-E-0a6bd268f5#3	YES	محلّ	تضمّن	-	-	العظم	UNSURE	«عتب العظم - عنت وهو التعتاب»
+HFN-E-0a6bd268f5#4	YES	محلّ	تضمّن	-	-	البرق	UNSURE	«عتب البرق يعتب عتبانا برق وميضا»
+HFN-E-0a6bd268f5#5	OTHER_SENSE	-	-	-	-	-	SURE	«عتب الجبال - أشرافها» اسم
+HFN-E-b8120fa02e#1	YES	مصدر	التزام	عاديّ	مطلق	فؤادي	UNSURE	«فاعتتب الشوق من فؤادي»
+HFN-E-b8120fa02e#2	NO_DHAT	-	-	-	-	-	SURE	«واعتتب - قبل العتب»
+HFN-E-0d045d219f#1	YES	محلّ	التزام	عاديّ	مطلق	قراه	UNSURE	«قرى عاتم أي بطيء وقد عتم قراه»
+HFN-E-0d045d219f#2	YES	محلّ	التزام	عاديّ	مطلق	قراه	UNSURE	«عتم قراه وأعتمه»
+HFN-E-0d045d219f#3	OTHER_SENSE	-	-	-	-	-	SURE	«العتم - زيتون جبلي» اسم نبات
+HFN-E-0d045d219f#4	YES	محلّ	تضمّن	-	-	قرى	UNSURE	«وقرى عاتم ومعتم - بطيء»
+HFN-E-0d045d219f#5	OTHER_SENSE	-	-	-	-	-	SURE	«العرعر والعتم» اسم نبات
+HFN-E-b2d392dc26#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	«عثر الرجل يعثر... وعثر الفرس»
+HFN-E-b2d392dc26#2	NO_DHAT	-	-	-	-	-	UNSURE	«عثر بأشرس الدهر أي بالشدة»
+HFN-E-b2d392dc26#3	OTHER_SENSE	-	-	-	-	-	SURE	«العثر - الكذب»
+HFN-E-b2d392dc26#4	OTHER_SENSE	-	-	-	-	-	SURE	«عتر يعتر» كلمة أخرى
+HFN-E-b2d392dc26#5	OTHER_SENSE	-	-	-	-	-	SURE	«العثري كالعذي» اسم
+HFN-E-308ff10fea#1	YES	محلّ	تضمّن	-	-	سيف	UNSURE	«سيف في متنه عجر... وهو التعجر»
+HFN-E-308ff10fea#2	YES	محلّ	التزام	عاديّ	مطلق	الحبل	SURE	«حبل حرد... إذا تعجر الأطول منه»
+HFN-E-d088cf360d#1	OTHER_SENSE	-	-	-	-	-	SURE	«(العجز)» اسم عضو
+HFN-E-d088cf360d#2	OTHER_SENSE	-	-	-	-	-	SURE	«أدنى العجز» اسم عضو
+HFN-E-d088cf360d#3	YES	محلّ	تضمّن	-	-	رجل	UNSURE	«رجل عجز وعجز - عاجز»
+HFN-E-d088cf360d#4	OTHER_SENSE	-	-	-	-	-	SURE	«يستأخر العجز» اسم عضو
+HFN-E-d088cf360d#5	OTHER_SENSE	-	-	-	-	-	SURE	«من أعراض العجز» اسم عضو
+HFN-E-18c5d14baf#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	«رجل جهوم عاجز ضعيف»
+HFN-E-18c5d14baf#2	OTHER_SENSE	-	-	-	-	-	SURE	«عجزت المرأة وهي عاجز» من العجوز
+HFN-E-18c5d14baf#3	YES	محلّ	التزام	عاديّ	مطلق	الرجال	UNSURE	«تلك الرجال الخذل... والعاجز المخسل»
+HFN-E-18c5d14baf#4	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	«رجل مرامق - سيئ الخلق عاجز»
+HFN-E-18c5d14baf#5	NO_DHAT	-	-	-	-	-	SURE	«عجز يعجز فهو عاجز» مثال
+HFN-E-1849ab7b1a#1	NO_DHAT	-	-	-	-	-	SURE	«تعجس - أبطأ»
+HFN-E-c2b19a3f9d#1	YES	فاعل	التزام	عاديّ	مطلق	راكب	UNSURE	«راكب مذبب وهو - العجل المنفرد»
+HFN-E-c2b19a3f9d#2	OTHER_SENSE	-	-	-	-	-	SURE	«العجل» ولد البقرة
+HFN-E-c2b19a3f9d#3	OTHER_SENSE	-	-	-	-	-	SURE	«حب العجل» اسم ذات
+HFN-E-c2b19a3f9d#4	YES	محلّ	التزام	عاديّ	مطلق	الشواء	UNSURE	«السرعة والتعجيل ومنه لهوجت الشواء»
+HFN-E-c2b19a3f9d#5	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	«رجل خطل اليدين... أي عجل عند إعطاء»
+HFN-E-7b99a2d7da#1	NO_DHAT	-	-	-	-	-	SURE	«ازدهاف - اي استعجال»
+HFN-E-7b99a2d7da#2	YES	فاعل	التزام	عاديّ	مطلق	الهبع	UNSURE	«يستعجل ويستعين بعنقه في مشيه... الهبع»
+HFN-E-7b99a2d7da#3	NO_DHAT	-	-	-	-	-	SURE	«استوفضته - طردته... الاستعجال»
+HFN-E-7b99a2d7da#4	YES	محلّ	التزام	عاديّ	مطلق	الدف	UNSURE	«الدفدفة استعجال ضربها»
+HFN-E-7b99a2d7da#5	NO_DHAT	-	-	-	-	-	SURE	«ازدهاق: أي استعجال»
+HFN-E-93571c9970#1	NO_DHAT	-	-	-	-	-	UNSURE	«الأعجم الذي لا يبين الكلام»
+HFN-E-93571c9970#2	NO_DHAT	-	-	-	-	-	UNSURE	«فصح الأعجم تكلم بالعربية»
+HFN-E-93571c9970#3	YES	محلّ	التزام	عاديّ	مطلق	كتاب	UNSURE	«بطين من الجولان كتاب أعجم»
+HFN-E-93571c9970#4	NO_DHAT	-	-	-	-	-	UNSURE	«عند ذكر الأعجم» إحالة
+HFN-E-93571c9970#5	YES	محلّ	تضمّن	-	-	الفحول	SURE	«الأخرس من الفحول والأعجم سواء»
+HFN-E-cb00bcd7d4#1	NO_DHAT	-	-	-	-	-	UNSURE	«عجماء... وقد استعجم عليه» بلا ذات
+HFN-E-045617e286#1	YES	محلّ	التزام	عاديّ	مطلق	المكان	UNSURE	«اعتدر المكان» مع المطر
+HFN-E-ddb5ad8897#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«عدل عن الطريق» بمعنى الميل
+HFN-E-ddb5ad8897#2	NO_DHAT	-	-	-	-	-	UNSURE	«الحكمة - العدل» بلا ذات
+HFN-E-ddb5ad8897#3	YES	محلّ	التزام	عاديّ	مطلق	فلانا	UNSURE	«عدلت فلانا بفلان أعدله»
+HFN-E-ddb5ad8897#4	OTHER_SENSE	-	-	-	-	-	SURE	«العدل المثل» اسم الدية
+HFN-E-ddb5ad8897#5	OTHER_SENSE	-	-	-	-	-	SURE	«العدل - الفريضة» اسم
+HFN-E-3ddbb3558b#1	YES	فاعل	التزام	عاديّ	مطلق	الطرف	UNSURE	«لأنحي الطرف... لم يعادل»
+HFN-E-3ddbb3558b#2	YES	محلّ	التزام	عاديّ	مطلق	الغرارتان	SURE	«العديلتان - الغرارتان لمعادلة إحداهما الأخرى»
+HFN-E-3ddbb3558b#3	NO_DHAT	-	-	-	-	-	SURE	«عادل به الأتي» مقابلة لفظية
+HFN-E-3ddbb3558b#4	NO_DHAT	-	-	-	-	-	SURE	«وعادل به فعولا» مقابلة لفظية
+HFN-E-3ddbb3558b#5	NO_DHAT	-	-	-	-	-	SURE	«وعادل به صلدمة» مقابلة لفظية
+HFN-E-94c008454e#1	NO_DHAT	-	-	-	-	-	SURE	«قام الشيء واستقام - اعتدل»
+HFN-E-94c008454e#2	YES	محلّ	التزام	عاديّ	مطلق	الرعرع	UNSURE	«الرعرع: الحسن الاعتدال»
+HFN-E-94c008454e#3	NO_DHAT	-	-	-	-	-	SURE	«أوزان الإعتدال» اصطلاح
+HFN-E-94c008454e#4	YES	زمان	التزام	عاديّ	مطلق	الأيام والليالي	UNSURE	«نعوت الأيام والليالي في الاعتدال»
+HFN-E-94c008454e#5	NO_DHAT	-	-	-	-	-	SURE	«الاعتدال - السواء في الخلق»
+HFN-E-9182cc7fe0#1	NO_DHAT	-	-	-	-	-	SURE	«الانعدال والميل عن الشيء»
+HFN-E-9182cc7fe0#2	YES	محلّ	تضمّن	-	-	الفحل	SURE	«إذا أخرج الفحل من الشول... انعدل»
+HFN-E-9182cc7fe0#3	YES	محلّ	تضمّن	-	-	الطريق	SURE	«عدل الطريق... قالوا انعدل في مكان»
+HFN-E-39a9676512#1	YES	محلّ	التزام	عاديّ	مطلق	ضرعها	UNSURE	«في الإعدام قذيت عينه... وديت ضرعها»
+HFN-E-39a9676512#2	YES	محلّ	التزام	عاديّ	مطلق	قوائمها	UNSURE	«لم يقلب قوائمها... الإقلاب هنا الإعدام»
+HFN-E-39a9676512#3	NO_DHAT	-	-	-	-	-	SURE	«الصلقعة والصلقع - الإعدام»
+HFN-E-39a9676512#4	YES	محلّ	التزام	عاديّ	مطلق	الماء	UNSURE	«كأنه أعدم رونقه... الماء الكدر»
+HFN-E-530f7441b0#1	OTHER_SENSE	-	-	-	-	-	SURE	«عدن أبين» علم
+HFN-E-530f7441b0#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«أصل العدن الإقامة» معنى آخر
+HFN-E-530f7441b0#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«عدن يعدن عدنا... إقامة» معنى آخر
+HFN-E-530f7441b0#4	OTHER_SENSE	-	-	-	-	-	SURE	«وراء عدن» علم
+HFN-E-530f7441b0#5	YES	محلّ	تضمّن	-	-	الأرض	SURE	«عدنت الأرض... وعدنتها - اصلحتها»
+HFN-E-e63ef1b8de#1	OTHER_SENSE	-	-	-	-	-	SURE	«العدو ضد الصديق» اسم
+HFN-E-e63ef1b8de#2	OTHER_SENSE	-	-	-	-	-	SURE	«أعداء بطن الوادي» اسم
+HFN-E-e63ef1b8de#3	OTHER_SENSE	-	-	-	-	-	SURE	«صددت عن الأعداء» جمع عدو
+HFN-E-e63ef1b8de#4	OTHER_SENSE	-	-	-	-	-	SURE	«أعداء قومي» جمع عدو
+HFN-E-e63ef1b8de#5	OTHER_SENSE	-	-	-	-	-	SURE	«والجمع أعداء» اسم
+HFN-E-44107d0a46#1	NO_DHAT	-	-	-	-	-	SURE	«فمن اعتدى عليكم» بلا ذات
+HFN-E-44107d0a46#2	YES	فاعل	التزام	عاديّ	مطلق	اللص	SURE	«عدا اللص والمغير والسبع وذئب عدوان»
+HFN-E-027a049bb4#1	OTHER_SENSE	-	-	-	-	-	SURE	«عدى... اسم للجمع»
+HFN-E-027a049bb4#2	NO_DHAT	-	-	-	-	-	SURE	«التعدية بالهمز» اصطلاح
+HFN-E-027a049bb4#3	NO_DHAT	-	-	-	-	-	SURE	«التضعيف للتعدية» اصطلاح
+HFN-E-027a049bb4#4	NO_DHAT	-	-	-	-	-	UNSURE	«عدى طوره» بلا ذات
+HFN-E-027a049bb4#5	OTHER_SENSE	-	-	-	-	-	SURE	«العدى حجر رقيق» اسم
+HFN-E-c31c9c3418#1	YES	محلّ	التزام	عاديّ	مطلق	الماء	SURE	«مستعذب الماء... استعذب الماء» والرجل
+HFN-E-f4d34d5d29#1	NO_DHAT	-	-	-	-	-	SURE	«العذر: ما أدليت به من حجة»
+HFN-E-f4d34d5d29#2	YES	محلّ	تضمّن	-	-	الطعام	UNSURE	«سمي الطعام للختان إعذارا... أعذرت»
+HFN-E-f4d34d5d29#3	YES	محلّ	تضمّن	-	-	الغلام	SURE	«عذرت الغلام والجارية... وأعذرتهما ختنتهما»
+HFN-E-f4d34d5d29#4	YES	محلّ	التزام	عاديّ	مطلق	الهاذرة	UNSURE	«قد أعذر الهاذرة المؤوسا» المعنى غامض
+HFN-E-f4d34d5d29#5	NO_DHAT	-	-	-	-	-	UNSURE	«العذرة والعاذر - الحدث وقد أعذر»
+HFN-E-5d8436801c#1	NO_DHAT	-	-	-	-	-	SURE	«عذرته أعذره عذرا ومعذرة»
+HFN-E-5d8436801c#2	NO_DHAT	-	-	-	-	-	SURE	«عذرتني في طلابكم العذر»
+HFN-E-5d8436801c#3	OTHER_SENSE	-	-	-	-	-	SURE	«العذر سمة» اسم
+HFN-E-5d8436801c#4	YES	محلّ	تضمّن	-	-	الغلام	SURE	«عذر الغلام نبت الشعر في العذار»
+HFN-E-5d8436801c#5	OTHER_SENSE	-	-	-	-	-	SURE	«العذر الخصائل» اسم
+HFN-E-7ab8e4cf51#1	NO_DHAT	-	-	-	-	-	SURE	«العذر: ما أدليت به من حجة»
+HFN-E-7ab8e4cf51#2	YES	فاعل	التزام	عاديّ	مطلق	ذي الرمة	SURE	«ذي الرمة حين اعتذر من وصف»
+HFN-E-7ab8e4cf51#3	YES	فاعل	التزام	عاديّ	مطلق	قتيبة	SURE	«قتيبة حين اعتذر إلى رؤبة»
+HFN-E-7ab8e4cf51#4	NO_DHAT	-	-	-	-	-	SURE	«الإعتذار من فعلان» اصطلاح
+HFN-E-97b6324735#1	OTHER_SENSE	-	-	-	-	-	SURE	«أعذاق» جمع عذق
+HFN-E-97b6324735#2	OTHER_SENSE	-	-	-	-	-	SURE	«كم الأعذاق» جمع
+HFN-E-7328042161#1	NO_DHAT	-	-	-	-	-	SURE	«عذلته فاعتذل - لام نفسه»
+HFN-E-7328042161#2	NO_DHAT	-	-	-	-	-	SURE	«الاعتذال - قبول العذل»
+HFN-E-8a3a3614b7#1	NO_DHAT	-	-	-	-	-	SURE	«حركات الإعراب» اصطلاح
+HFN-E-8a3a3614b7#2	NO_DHAT	-	-	-	-	-	SURE	«الإعراب الإفصاح وقد أعربت»
+HFN-E-8a3a3614b7#3	OTHER_SENSE	-	-	-	-	-	SURE	«بيوت الأعراب» اسم
+HFN-E-8a3a3614b7#4	YES	محلّ	تضمّن	-	-	الفرس	SURE	«أعرب الفرس خلصت عربيته»
+HFN-E-8a3a3614b7#5	YES	فاعل	التزام	شرعيّ	مطلق	المحرم	UNSURE	«كره الإعراب للمحرم»
+HFN-E-c8ba384e57#1	OTHER_SENSE	-	-	-	-	-	SURE	«من العرب» اسم
+HFN-E-c8ba384e57#2	OTHER_SENSE	-	-	-	-	-	SURE	«العرب والعجم» اسم
+HFN-E-c8ba384e57#3	OTHER_SENSE	-	-	-	-	-	SURE	«اجتمعت العرب» اسم
+HFN-E-c8ba384e57#4	OTHER_SENSE	-	-	-	-	-	SURE	«انتهت العرب» اسم
+HFN-E-c8ba384e57#5	OTHER_SENSE	-	-	-	-	-	SURE	«والعرب لا تقول» اسم
+HFN-E-0ed869c186#1	YES	محلّ	التزام	عاديّ	مطلق	النساء	UNSURE	«نعوت النساء في التعرب والضحك»
+HFN-E-0ed869c186#2	YES	فاعل	التزام	عاديّ	مطلق	العرب	UNSURE	«والعرب تعرب الشين سينا»
+HFN-E-ff6fd96684#1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	«العرجة موضع العرج من الرجل... أصابه في رجله»
+HFN-E-ff6fd96684#2	OTHER_SENSE	-	-	-	-	-	SURE	«ذئب يقال له الأعرج» علم
+HFN-E-ff6fd96684#3	OTHER_SENSE	-	-	-	-	-	SURE	«الأعراج» جماعة الإبل
+HFN-E-ff6fd96684#4	OTHER_SENSE	-	-	-	-	-	SURE	«أعراج السوام» جماعات
+HFN-E-ff6fd96684#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«العرجاء الضبع» اسم
+HFN-E-9eea830eda#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«عرج عرجا مشى مشية العرجان» معنى آخر
+HFN-E-9eea830eda#2	OTHER_SENSE	-	-	-	-	-	SURE	«العرج» جماعة الإبل
+HFN-E-9eea830eda#3	YES	محلّ	تضمّن	-	-	المطية	SURE	«التعريج - حبس المطية على الشيء»
+HFN-E-9eea830eda#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«أسوأ العرج» معنى آخر
+HFN-E-9eea830eda#5	OTHER_SENSE	-	-	-	-	-	SURE	«العرج كالحقب» معنى آخر
+HFN-E-fec687ef3f#1	YES	محلّ	تضمّن	-	-	الوادي	UNSURE	«منعرج الوادي حيث يميل... انعرج القوم»
+HFN-E-f831a32ba4#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«عرج يعرج - ارتقى» معنى آخر
+HFN-E-f831a32ba4#2	YES	فاعل	التزام	عاديّ	مطلق	السيل	UNSURE	«تعمج السيل تعرج في مسيله»
+HFN-E-f831a32ba4#3	YES	فاعل	التزام	عاديّ	مطلق	السيل	UNSURE	«تعضمج السيل تعرج في مسيله»
+HFN-E-5994bfcf72#1	OTHER_SENSE	-	-	-	-	-	SURE	«العرد» اسم الذكر
+HFN-E-5994bfcf72#2	YES	محلّ	تضمّن	-	-	ناب البعير	UNSURE	«قيل لناب البعير إذا اشتد... قد عرد»
+HFN-E-5994bfcf72#3	YES	محلّ	تضمّن	-	-	رمح	UNSURE	«رمح عرد شديد صلب»
+HFN-E-5994bfcf72#4	YES	محلّ	تضمّن	-	-	الحجر	UNSURE	«عرد الحجر يعرده عردا - رماه»
+HFN-E-5994bfcf72#5	NO_DHAT	-	-	-	-	-	UNSURE	«العرد والعرند، الشديد»
+HFN-E-e5d5451abb#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«العرز - التقبض» معنى آخر
+HFN-E-e5d5451abb#2	NO_DHAT	-	-	-	-	-	SURE	«التعريز - التعريض في الخصومة»
+HFN-E-849841bac2#1	OTHER_SENSE	-	-	-	-	-	SURE	«العرس - طعام الأملاك» اسم
+HFN-E-849841bac2#2	NO_DHAT	-	-	-	-	-	UNSURE	«عرس بها وعرست به - تلازما»
+HFN-E-849841bac2#3	YES	محلّ	التزام	عاديّ	مطلق	امرأة	UNSURE	«امرأة عروس... للرجل يقال أعرس بها»
+HFN-E-849841bac2#4	OTHER_SENSE	-	-	-	-	-	SURE	«طفيل الأعراس والعرائس» اسم
+HFN-E-849841bac2#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«العرس - طعام الابتناء» اسم
+HFN-E-6af76691a9#1	OTHER_SENSE	-	-	-	-	-	SURE	«العرس - طعام الأملاك» اسم
+HFN-E-6af76691a9#2	OTHER_SENSE	-	-	-	-	-	SURE	«ابن عرس» اسم حيوان
+HFN-E-6af76691a9#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«العرس - طعام الابتناء» اسم
+HFN-E-6af76691a9#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«عرس الصبي بأمه - ألفها» معنى آخر
+HFN-E-6af76691a9#5	YES	محلّ	تضمّن	-	-	البيت	SURE	«البيت المعرس - الذي عمل له عرس»
+HFN-E-fdc4ebc4e5#1	YES	محلّ	التزام	عقليّ	ذهنيّ	العريش	UNSURE	«العريش - الظلة... عرشوا - عملوا»
+HFN-E-fdc4ebc4e5#2	YES	محلّ	التزام	عاديّ	مطلق	البئر	SURE	«عرشت البئر أعرشها» الخشب آلة
+HFN-E-fdc4ebc4e5#3	YES	محلّ	التزام	عاديّ	مطلق	الكرم	SURE	«قضبان الكرم تلوى للتعريش»
+HFN-E-fdc4ebc4e5#4	OTHER_SENSE	-	-	-	-	-	SURE	«العرش - بيوت مكة» اسم
+HFN-E-fdc4ebc4e5#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«عرش بالمكان - ثبت» معنى آخر
+HFN-E-6f93c178af#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«ورق أعرض من الكف» من العرض
+HFN-E-6f93c178af#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«أعرض ضلع» من العرض
+HFN-E-6f93c178af#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«أقصر وأعرض» من العرض
+HFN-E-6f93c178af#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«أعرض منها» من العرض
+HFN-E-6f93c178af#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«ورقة أعرض» من العرض
+HFN-E-0ce416ad77#1	OTHER_SENSE	-	-	-	-	-	SURE	«عرض الخلية» اسم
+HFN-E-0ce416ad77#2	OTHER_SENSE	-	-	-	-	-	SURE	«العرض - الجبل» اسم
+HFN-E-0ce416ad77#3	OTHER_SENSE	-	-	-	-	-	SURE	«عرض البحر - وسطه» اسم
+HFN-E-0ce416ad77#4	OTHER_SENSE	-	-	-	-	-	SURE	«أعراض الناس» اسم
+HFN-E-0ce416ad77#5	OTHER_SENSE	-	-	-	-	-	SURE	«عرض الأرنبة» اسم
+HFN-E-40c3f8f14a#1	NO_DHAT	-	-	-	-	-	SURE	«من عن يعن من الاعتراض»
+HFN-E-40c3f8f14a#2	YES	محلّ	التزام	عاديّ	مطلق	ولدها	SURE	«إذا اعترض ولدها فعسرت ولادتها»
+HFN-E-40c3f8f14a#3	YES	محلّ	التزام	عاديّ	مطلق	عظم	SURE	«ما اعترض في الحلق من عظم» الحلق مكان
+HFN-E-40c3f8f14a#4	NO_DHAT	-	-	-	-	-	SURE	«عتك... يعتك عتكا اعترض»
+HFN-E-40c3f8f14a#5	YES	فاعل	التزام	عاديّ	مطلق	فرس	SURE	«فرس... إذا اعترض في مشيه»
