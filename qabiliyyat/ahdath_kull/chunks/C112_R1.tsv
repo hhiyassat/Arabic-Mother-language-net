@@ -1,0 +1,252 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-6668256aee#1	NO_DHAT	-	-	-	-	-	SURE	هلك يهلك هلكا بلا ذات
+HFN-E-6668256aee#2	OTHER_SENSE	-	-	-	-	-	SURE	الهلك ما بين كل أرضين اسم
+HFN-E-6668256aee#3	YES	آلة	التزام	عاديّ	مطلق	السيف	UNSURE	السيف سببا للهلاك؛ ساف ماله أي هلك
+HFN-E-6668256aee#4	NO_DHAT	-	-	-	-	-	UNSURE	شعب وأشعب وانشعب هلك تفسير بلا ذات
+HFN-E-6668256aee#5	NO_DHAT	-	-	-	-	-	UNSURE	من فاظا أي هلك؛ مرجع غير مذكور
+HFN-E-5e84579251#1	YES	فاعل	تضمّن	-	-	الإنسان	SURE	الاهتلاك رمي الإنسان بنفسه؛ والقطاة تهتلك
+HFN-E-94981ef844#1	NO_DHAT	-	-	-	-	-	SURE	شيء قد استهلك؛ الشيء ليس ذاتا
+HFN-E-2adeacceb6#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	اهتمجت نفس الرجل واهتمج هو ضعف
+HFN-E-2adeacceb6#2	YES	محلّ	تضمّن	-	-	الرجل	SURE	إهتمجت نفس الرجل - ضعفت من جهد
+HFN-E-5721c54564#1	YES	محلّ	تضمّن	-	-	الماء	SURE	همرت الماء صببت وهمر هو وانهمر
+HFN-E-97f94274c2#1	YES	محلّ	التزام	عاديّ	مطلق	العبد	SURE	العبد الذي أهمل حتى صار كالسبع
+HFN-E-97f94274c2#2	NO_DHAT	-	-	-	-	-	UNSURE	الإهمال في العنوان فقط؛ أضاع الشيء
+HFN-E-da0797fbe8#1	YES	محلّ	تضمّن	-	-	منكب	UNSURE	منكب أهنع وأخضع متطامن
+HFN-E-da0797fbe8#2	YES	محلّ	تضمّن	-	-	ظليم	SURE	ظليم أهنع ونعامة هنعاء إذا التوت أعناقها
+HFN-E-4d20bd2df9#1	OTHER_SENSE	-	-	-	-	-	SURE	إهاب مغلوق: الجلد
+HFN-E-4d20bd2df9#2	OTHER_SENSE	-	-	-	-	-	SURE	سلخت الإهاب: الجلد
+HFN-E-4d20bd2df9#3	YES	محلّ	تضمّن	-	-	الإبل	SURE	الإهابة الصوت بالإبل ودعاؤها
+HFN-E-4d20bd2df9#4	OTHER_SENSE	-	-	-	-	-	SURE	الإهاب الجلد قبل أن يدبغ
+HFN-E-4d20bd2df9#5	OTHER_SENSE	-	-	-	-	-	SURE	إهاب بن عمير علم
+HFN-E-9c3c93611a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	هيج الأرض: يبس النبت لا التهييج
+HFN-E-9c3c93611a#2	OTHER_SENSE	-	-	-	-	-	UNSURE	هاج النبت يبس؛ معنى بعيد
+HFN-E-9c3c93611a#3	OTHER_SENSE	-	-	-	-	-	UNSURE	أخذ العشب في الهيج: يبس
+HFN-E-9c3c93611a#4	NO_DHAT	-	-	-	-	-	SURE	الشغب تهييج الشر؛ لا ذات
+HFN-E-9c3c93611a#5	YES	فاعل	التزام	عاديّ	مطلق	إبراهيم	UNSURE	عن هيج إبراهيم يوم المرحل
+HFN-E-d2fcd2c117#1	YES	محلّ	التزام	عاديّ	مطلق	الغنم	UNSURE	الغنم التي تهيج فيهما
+HFN-E-d2fcd2c117#2	OTHER_SENSE	-	-	-	-	-	UNSURE	روضة تهيج الرباض: يبس
+HFN-E-d2fcd2c117#3	YES	محلّ	التزام	عاديّ	مطلق	وجهه	SURE	من سمن وجهه وتهيج
+HFN-E-d2fcd2c117#4	YES	فاعل	التزام	عاديّ	مطلق	الأعاصير	SURE	الأعاصير التي تهيج بالغبار
+HFN-E-d2fcd2c117#5	OTHER_SENSE	-	-	-	-	-	UNSURE	هاجت الأرض تهيج: يبس النبات
+HFN-E-4f5f7b47c9#1	YES	محلّ	تضمّن	-	-	إبلهم	SURE	أهاف القوم عطشت إبلهم؛ القوم أيضا
+HFN-E-a461468332#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	البحشلة غلظ في سواد رجل بحشل
+HFN-E-2459f42fa2#1	NO_DHAT	-	-	-	-	-	UNSURE	بختر وتبختر هو يمشي؛ لا مرجع
+HFN-E-2459f42fa2#2	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل بختير وقد بختر وتبختر
+HFN-E-059a4bb924#1	OTHER_SENSE	-	-	-	-	-	SURE	البربط اسم العود
+HFN-E-d907d7a899#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	برذن الرجل إذا ثقل
+HFN-E-a71f77b96f#1	NO_DHAT	-	-	-	-	-	UNSURE	البرشمة إدامة النظر مع سكون
+HFN-E-a71f77b96f#2	NO_DHAT	-	-	-	-	-	UNSURE	برشم وجم؛ صغر عينيه بلا مرجع
+HFN-E-cd45dcd995#1	YES	محلّ	التزام	عاديّ	مطلق	شفة	UNSURE	مبرطم برطمة الغضبان بشفة؛ الغضبان فاعل
+HFN-E-7a13bb2432#1	YES	آلة	التزام	عقليّ	ذهنيّ	برقع	UNSURE	وقد تبرقعت؛ المرأة اللابسة
+HFN-E-7a13bb2432#2	OTHER_SENSE	-	-	-	-	-	SURE	برقع اسم من أسماء السماء
+HFN-E-7a13bb2432#3	OTHER_SENSE	-	-	-	-	-	SURE	من البرقع: اسم ذات
+HFN-E-7a13bb2432#4	OTHER_SENSE	-	-	-	-	-	SURE	ما بدا من البرقع والنقاب
+HFN-E-8d2beeb76f#1	YES	فاعل	التزام	عاديّ	مطلق	الحمامة	SURE	تبركعت الحمامة للحمامة الذكر
+HFN-E-8d2beeb76f#2	OTHER_SENSE	-	-	-	-	-	UNSURE	البركع القصير من الإبل
+HFN-E-1d4205eca1#1	YES	محلّ	تضمّن	-	-	العين	UNSURE	البرهمة فتح العين وإدامة النظر
+HFN-E-44f2855fc4#1	YES	محلّ	تضمّن	-	-	التراب	SURE	بعثر التراب - قلبه
+HFN-E-f5824394ba#1	OTHER_SENSE	-	-	-	-	-	SURE	حدأة وراءك بندقة: اسم
+HFN-E-f5824394ba#2	OTHER_SENSE	-	-	-	-	-	SURE	البندق اللوز واحدته بندقة
+HFN-E-f5824394ba#3	OTHER_SENSE	-	-	-	-	-	SURE	طين كالبندقة: اسم ذات
+HFN-E-f5824394ba#4	OTHER_SENSE	-	-	-	-	-	SURE	بندق وفندق: لفظ اسم
+HFN-E-f5824394ba#5	OTHER_SENSE	-	-	-	-	-	SURE	حمل أصغر من البندق
+HFN-E-01de937c4d#1	OTHER_SENSE	-	-	-	-	-	SURE	البهدلة طائر أخضر
+HFN-E-01de937c4d#2	OTHER_SENSE	-	-	-	-	-	SURE	البهدل اسم طائر
+HFN-E-01de937c4d#3	OTHER_SENSE	-	-	-	-	-	SURE	حية بن بهدلة علم
+HFN-E-bf94c3420d#1	YES	محلّ	تضمّن	-	-	العشب	UNSURE	ما لم يحم من العشب فهو بهرج أي مباح
+HFN-E-bf94c3420d#2	YES	محلّ	تضمّن	-	-	درهم	UNSURE	درهم بهرج - رديء؛ كل مردود بهرج
+HFN-E-0757c5312c#1	YES	آلة	التزام	عقليّ	ذهنيّ	البهرم	UNSURE	بهرم لحيته حناها؛ لحيته محلّ
+HFN-E-0757c5312c#2	OTHER_SENSE	-	-	-	-	-	SURE	زهرة تسمى البهرمة
+HFN-E-c0c141f73b#1	NO_DHAT	-	-	-	-	-	UNSURE	البهلق الكثيرة الكلام بلا ذات مذكورة
+HFN-E-c0c141f73b#2	OTHER_SENSE	-	-	-	-	-	UNSURE	البهلق المرأة الشديدة الحمرة
+HFN-E-c0c141f73b#3	NO_DHAT	-	-	-	-	-	UNSURE	البهلق الضجور الصخب
+HFN-E-c0c141f73b#4	OTHER_SENSE	-	-	-	-	-	SURE	البهلق الداهية
+HFN-E-bb4cbbce9e#1	NO_DHAT	-	-	-	-	-	UNSURE	ترجمة هذا الاسم؛ الاسم ليس ذاتا
+HFN-E-e715be8142#1	YES	محلّ	التزام	عاديّ	مطلق	العشب	UNSURE	أث وأتث واتمهل واكتهل؛ أزج العشب
+HFN-E-073111d007#1	OTHER_SENSE	-	-	-	-	-	SURE	الثرملة الفرق في الشفة؛ أنثى الثعالب
+HFN-E-073111d007#2	YES	فاعل	تضمّن	-	-	الآكل	SURE	الثرملة سوء الأكل ينتثر الطعام على لحية الآكل
+HFN-E-073111d007#3	OTHER_SENSE	-	-	-	-	-	SURE	الأنثى من الثعالب ثرملة
+HFN-E-073111d007#4	OTHER_SENSE	-	-	-	-	-	SURE	ولد الثرملة
+HFN-E-073111d007#5	OTHER_SENSE	-	-	-	-	-	SURE	ثرملة بقية من تمر
+HFN-E-cfc13874d7#1	OTHER_SENSE	-	-	-	-	-	SURE	ثعلب علم اللغوي
+HFN-E-cfc13874d7#2	OTHER_SENSE	-	-	-	-	-	SURE	ثعلب علم اللغوي
+HFN-E-cfc13874d7#3	OTHER_SENSE	-	-	-	-	-	SURE	ثعلب علم اللغوي
+HFN-E-cfc13874d7#4	OTHER_SENSE	-	-	-	-	-	SURE	وذهب ثعلب: علم
+HFN-E-cfc13874d7#5	OTHER_SENSE	-	-	-	-	-	SURE	ثعلب علم اللغوي
+HFN-E-83d1615588#1	NO_DHAT	-	-	-	-	-	SURE	الجحجحة والجخجخة الصياح
+HFN-E-83d1615588#2	OTHER_SENSE	-	-	-	-	-	SURE	الجحجح السيد
+HFN-E-8911643fa5#1	OTHER_SENSE	-	-	-	-	-	SURE	جحدب لفظ اسم الجراد
+HFN-E-57c94fb350#1	YES	محلّ	تضمّن	-	-	الغلام	SURE	جحمظت الغلام إذا شددت يديه على ركبتيه
+HFN-E-57c94fb350#2	NO_DHAT	-	-	-	-	-	SURE	جحمظ عدا عدوا شديدا
+HFN-E-8977d33ff1#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الجخدب الضخم الغليظ من الرجال اسم
+HFN-E-8977d33ff1#2	OTHER_SENSE	-	-	-	-	-	SURE	الجخدب دابة نحو العظاية
+HFN-E-8977d33ff1#3	OTHER_SENSE	-	-	-	-	-	SURE	الجخدب الذكر من الجراد
+HFN-E-8977d33ff1#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الجخدب القصير الضخم الجنبين
+HFN-E-8977d33ff1#5	OTHER_SENSE	-	-	-	-	-	UNSURE	جمل جخدب عظيم الجسم
+HFN-E-090f7f8963#1	YES	محلّ	التزام	عاديّ	مطلق	الوحشي	UNSURE	تجرثم الوحشي في وجاره واجرنثم تجمع
+HFN-E-090f7f8963#2	YES	محلّ	تضمّن	-	-	الرجل	SURE	اجرنثم الرجل سقط من علو
+HFN-E-817b8e88df#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	اجرعن الرجل صرع عن دابته
+HFN-E-9c311150ba#1	YES	فاعل	تضمّن	-	-	الحمار	SURE	الجعمرة أن يجمع الحمار جراميزه
+HFN-E-d1f600fc4c#1	OTHER_SENSE	-	-	-	-	-	SURE	الجلسد صنم
+HFN-E-d1f600fc4c#2	OTHER_SENSE	-	-	-	-	-	SURE	والجلسد صنم
+HFN-E-fc1c5e5252#1	OTHER_SENSE	-	-	-	-	-	SURE	أسافة وجمعر: أرض
+HFN-E-fc1c5e5252#2	OTHER_SENSE	-	-	-	-	-	SURE	الجمعرة الغليظة المرتفعة من الأرض
+HFN-E-3967fae05f#1	YES	فاعل	تضمّن	-	-	الأبطال	SURE	الجهجهة صياح الأبطال في الحرب
+HFN-E-2107c9e9e8#1	OTHER_SENSE	-	-	-	-	-	SURE	الجهرمية ثياب
+HFN-E-14758d5fb8#1	OTHER_SENSE	-	-	-	-	-	SURE	الحثرب نبت
+HFN-E-14758d5fb8#2	OTHER_SENSE	-	-	-	-	-	SURE	الحثرب الوضر في أسفل القدر
+HFN-E-14758d5fb8#3	YES	محلّ	تضمّن	-	-	الماء	SURE	حثرب الماء وحثربت القليب إذا كدر ماؤها
+HFN-E-14758d5fb8#4	OTHER_SENSE	-	-	-	-	-	SURE	الحثربة أرنبة الأنف
+HFN-E-0fc33c0566#1	OTHER_SENSE	-	-	-	-	-	SURE	الحرشف جماعة الجراد
+HFN-E-0fc33c0566#2	OTHER_SENSE	-	-	-	-	-	SURE	الحرشف نبت
+HFN-E-0fc33c0566#3	OTHER_SENSE	-	-	-	-	-	SURE	حرشف السلاح ما زين به
+HFN-E-0fc33c0566#4	OTHER_SENSE	-	-	-	-	-	SURE	الحرشف الرجالة
+HFN-E-0fc33c0566#5	OTHER_SENSE	-	-	-	-	-	SURE	الحرشف صغار النعام
+HFN-E-8d09f58358#1	YES	محلّ	تضمّن	-	-	حراقفه	UNSURE	حرقف الرجل وضع يده على حراقفه؛ الرجل فاعل
+HFN-E-c2ff9db86b#1	YES	محلّ	التزام	عاديّ	مطلق	فلان	SURE	فلان محزرق عليه
+HFN-E-eea0444c6d#1	NO_DHAT	-	-	-	-	-	UNSURE	حشرج تردد صوته؛ الفاعل غير مذكور
+HFN-E-eea0444c6d#2	NO_DHAT	-	-	-	-	-	SURE	جاد بنفسه وحشرج بلا ذات
+HFN-E-eea0444c6d#3	YES	فاعل	تضمّن	-	-	الحمار	SURE	حشرج الحمار نهق
+HFN-E-eea0444c6d#4	OTHER_SENSE	-	-	-	-	-	UNSURE	بماء الحشرج: اسم
+HFN-E-eea0444c6d#5	NO_DHAT	-	-	-	-	-	UNSURE	الكرير والحشرجة عند الموت
+HFN-E-079c3bc706#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل حصرم بخيل؛ حصرم قوسه شد وترها
+HFN-E-079c3bc706#2	OTHER_SENSE	-	-	-	-	-	SURE	الحصرمة حبة العنب
+HFN-E-079c3bc706#3	OTHER_SENSE	-	-	-	-	-	SURE	الحصرم ما لم يجن من الثمر
+HFN-E-079c3bc706#4	OTHER_SENSE	-	-	-	-	-	SURE	الحصرم حديدة يخرج بها الدلاء
+HFN-E-d7c10a1b87#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الحلبس الشجاع اسم صفة
+HFN-E-d7c10a1b87#2	OTHER_SENSE	-	-	-	-	-	SURE	حلبس من أسماء الأسد
+HFN-E-45d7dba346#1	YES	محلّ	تضمّن	-	-	عينيه	UNSURE	حملق الرجل فتح عينيه؛ الرجل فاعل
+HFN-E-45d7dba346#2	YES	فاعل	تضمّن	-	-	الرجل	SURE	حملق الرجل أدار حماليق عينيه
+HFN-E-45d7dba346#3	YES	فاعل	التزام	عاديّ	مطلق	الزعافق	UNSURE	إذا ما حملق الزعافق
+HFN-E-c1c20bf257#1	OTHER_SENSE	-	-	-	-	-	SURE	قموص الحنجرة: اسم عضو
+HFN-E-6ee4410507#1	OTHER_SENSE	-	-	-	-	-	SURE	الحنظل واحدته حنظلة نبات
+HFN-E-6ee4410507#2	OTHER_SENSE	-	-	-	-	-	SURE	حب الحنظل
+HFN-E-6ee4410507#3	OTHER_SENSE	-	-	-	-	-	SURE	نقيع ماء الحنظل
+HFN-E-6ee4410507#4	OTHER_SENSE	-	-	-	-	-	SURE	الحنظلة تدعى خطبانة
+HFN-E-6ee4410507#5	OTHER_SENSE	-	-	-	-	-	SURE	حنظلة فوق صفا
+HFN-E-9bba76b077#1	YES	آلة	تضمّن	-	-	القوائم	UNSURE	خذرف إذا زج بقوائمه؛ الخذرفة استدارة القوائم
+HFN-E-7f300ae346#1	NO_DHAT	-	-	-	-	-	UNSURE	الخذعل الحمقاء بلا ذات مذكورة
+HFN-E-6221d59c45#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	اخرنبق الرجل وهو انقماع المريب
+HFN-E-df8fb3d889#1	OTHER_SENSE	-	-	-	-	-	UNSURE	أرض خرشمة صلبة؛ معنى بعيد
+HFN-E-df8fb3d889#2	OTHER_SENSE	-	-	-	-	-	SURE	الخرشم الحجر الرخو
+HFN-E-df8fb3d889#3	YES	محلّ	تضمّن	-	-	وجهه	UNSURE	خرشم وطلسم كره وجهه
+HFN-E-3353bc04db#1	YES	محلّ	تضمّن	-	-	النبت	UNSURE	إذا كان النبت ناعما تاما فهو نبت خرفج
+HFN-E-3353bc04db#2	NO_DHAT	-	-	-	-	-	UNSURE	خرفج الشيء أخذه كثيرا
+HFN-E-3353bc04db#3	YES	محلّ	تضمّن	-	-	سراويل	UNSURE	سراويل مخرفجة واسعة
+HFN-E-3353bc04db#4	NO_DHAT	-	-	-	-	-	UNSURE	الخرفج والخرافج السمين بلا ذات
+HFN-E-3353bc04db#5	YES	محلّ	التزام	عاديّ	مطلق	النبات	UNSURE	خرفجته؛ ومنه خرفيج النبات وهو ناعمه
+HFN-E-1104ef44b7#1	YES	محلّ	تضمّن	-	-	الكتاب	UNSURE	الخرمشة إفساد السطور والكتاب
+HFN-E-0b15884368#1	OTHER_SENSE	-	-	-	-	-	SURE	الخضرم الماء الكثير اسم
+HFN-E-0b15884368#2	OTHER_SENSE	-	-	-	-	-	SURE	الخضرم السيد السري
+HFN-E-0b15884368#3	OTHER_SENSE	-	-	-	-	-	UNSURE	كل شيء كثير خضرم
+HFN-E-0b15884368#4	OTHER_SENSE	-	-	-	-	-	SURE	حسل ثم خضرم: طور الضب
+HFN-E-285ac0b2b3#1	NO_DHAT	-	-	-	-	-	UNSURE	خطرف في مشيه وتخطرف بلا ذات
+HFN-E-b2451bea08#1	YES	آلة	تضمّن	-	-	قدميه	UNSURE	الخندفة يقلب قدميه؛ خص به النساء
+HFN-E-b2451bea08#2	OTHER_SENSE	-	-	-	-	-	SURE	اشتقاق خندف علم
+HFN-E-b2451bea08#3	OTHER_SENSE	-	-	-	-	-	SURE	إذا ما خندف المسمي: علم
+HFN-E-b2451bea08#4	OTHER_SENSE	-	-	-	-	-	SURE	أبلغا قيسا وخندف: علم
+HFN-E-10a2f2f78a#1	OTHER_SENSE	-	-	-	-	-	SURE	خرجت من الخندق: اسم مكان
+HFN-E-10a2f2f78a#2	OTHER_SENSE	-	-	-	-	-	SURE	الخندق فارسي معرب: اسم
+HFN-E-9b0bff1f64#1	NO_DHAT	-	-	-	-	-	SURE	نخي وكذلك خنزج بلا ذات
+HFN-E-9b0bff1f64#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الخنزج الضخم: اسم صفة بمعنى آخر
+HFN-E-f84e09cb89#1	NO_DHAT	-	-	-	-	-	SURE	دحرجته دحرجة مثال صرفي
+HFN-E-41a0dfe2f2#1	YES	زمان	تضمّن	-	-	ليل	UNSURE	ليل طيسل ودحمس - مظلم
+HFN-E-41a0dfe2f2#2	NO_DHAT	-	-	-	-	-	UNSURE	دحسم ودحمس وهو الأسود
+HFN-E-ed821a9c2e#1	OTHER_SENSE	-	-	-	-	-	SURE	الدخارص واحدتها دخرصة: بنائق القميص
+HFN-E-ed821a9c2e#2	OTHER_SENSE	-	-	-	-	-	SURE	الدخارص الجماعة
+HFN-E-ed821a9c2e#3	OTHER_SENSE	-	-	-	-	-	SURE	الدخرصة خليج البحر
+HFN-E-ed821a9c2e#4	OTHER_SENSE	-	-	-	-	-	SURE	الدخرصة عنيق يخرج من الأرض
+HFN-E-9f4fc924e4#1	NO_DHAT	-	-	-	-	-	UNSURE	دربخ وخردب وهو التذلل
+HFN-E-9f4fc924e4#2	NO_DHAT	-	-	-	-	-	SURE	الدربخة الإصغاء إلى الشيء والتذلل
+HFN-E-fd6a78e5b4#1	YES	فاعل	تضمّن	-	-	الإنسان	SURE	الدربلة ضرب من مشي الإنسان فيه ثقل
+HFN-E-34474065d1#1	NO_DHAT	-	-	-	-	-	UNSURE	الدردبة عدو كعدو الخائف
+HFN-E-1ede21b87d#1	NO_DHAT	-	-	-	-	-	SURE	ومثله ادرغش بلا ذات
+HFN-E-e5c1f66175#1	NO_DHAT	-	-	-	-	-	SURE	درفق في مشيه بلا ذات
+HFN-E-36e830b8c8#1	NO_DHAT	-	-	-	-	-	SURE	الادرنفاق السير السريع
+HFN-E-36e830b8c8#2	NO_DHAT	-	-	-	-	-	SURE	درفق في مشيه وادرنفق
+HFN-E-cd12aff701#1	NO_DHAT	-	-	-	-	-	UNSURE	ادرهم بصره أظلم؛ البصر معنى
+HFN-E-63bdd65c64#1	NO_DHAT	-	-	-	-	-	UNSURE	الدغدغة التحريك في البضع وغيره
+HFN-E-87c1069ea9#1	YES	محلّ	تضمّن	-	-	الماء	SURE	دغرق الماء صبه صبا كثيرا
+HFN-E-87c1069ea9#2	NO_DHAT	-	-	-	-	-	UNSURE	دغرقت الشيء سترته
+HFN-E-87c1069ea9#3	YES	محلّ	تضمّن	-	-	الماء	SURE	الدغرقة كدرة الماء
+HFN-E-d4306a1bfc#1	NO_DHAT	-	-	-	-	-	UNSURE	ادلغفت وهي لا تراني؛ مرجع غير مذكور
+HFN-E-f904a7d9a8#1	YES	محلّ	تضمّن	-	-	اللحم	SURE	الدهدقة قطع اللحم وكسر العظام
+HFN-E-f904a7d9a8#2	YES	محلّ	تضمّن	-	-	القدر	SURE	دهدقت القدر غلت؛ دوران اللحم
+HFN-E-ffd4f05dcc#1	NO_DHAT	-	-	-	-	-	UNSURE	دهدهته دهداها؛ المرجع الشيء
+HFN-E-ffd4f05dcc#2	YES	فاعل	التزام	عاديّ	مطلق	الجعل	SURE	دهده الجعل السلوح ودهداها
+HFN-E-d8073a1b1c#1	YES	محلّ	تضمّن	-	-	الطعام	SURE	دهمقت الطعام ودهقنته ألنته
+HFN-E-97a41dba07#1	OTHER_SENSE	-	-	-	-	-	SURE	فرزدقة قطعة عجين اسم
+HFN-E-97a41dba07#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الرزدق السطر من النخل اسم
+HFN-E-1e2908788b#1	OTHER_SENSE	-	-	-	-	-	SURE	ثكلتك الرعبل يعني أمه
+HFN-E-1e2908788b#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الرعبل الحمقاء المتساقطة
+HFN-E-1e2908788b#3	YES	محلّ	تضمّن	-	-	امرأة	UNSURE	امرأة رعبلة في خلقان
+HFN-E-55ddf7b77a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الرهدن الأحمق
+HFN-E-55ddf7b77a#2	OTHER_SENSE	-	-	-	-	-	SURE	الرهادن عصافير؛ الرهدنة الخرقة
+HFN-E-b76515c838#1	YES	محلّ	تضمّن	-	-	البشرة	SURE	الرهرهة حسن بصيص لون البشرة؛ ترهره جسمه
+HFN-E-8ba52c13a1#1	YES	محلّ	تضمّن	-	-	البيت	UNSURE	زخرفت البيت زينته؛ من الزخرف الذهب
+HFN-E-018156d3b0#1	OTHER_SENSE	-	-	-	-	-	SURE	الزعنفة القصير اسم
+HFN-E-018156d3b0#2	OTHER_SENSE	-	-	-	-	-	SURE	الزعانف أجنحة السمك
+HFN-E-018156d3b0#3	OTHER_SENSE	-	-	-	-	-	SURE	الزعنفة القطعة من الثوب
+HFN-E-018156d3b0#4	OTHER_SENSE	-	-	-	-	-	SURE	الزعانف أطراف الأديم
+HFN-E-b5240825c3#1	OTHER_SENSE	-	-	-	-	-	SURE	الزغبر ضرب من السباع
+HFN-E-b5240825c3#2	OTHER_SENSE	-	-	-	-	-	SURE	الزغبر المرو نبات
+HFN-E-61df71f961#1	YES	محلّ	تضمّن	-	-	رأس الصبي	SURE	ازلغب رأس الصبي ازغاب وكذلك الفرخ
+HFN-E-c74681c3bd#1	OTHER_SENSE	-	-	-	-	-	SURE	ابن فارس زهدم علم
+HFN-E-1dd09ba9e3#1	YES	محلّ	تضمّن	-	-	الصبي	SURE	الزهزقة ترقيص الأم للصبي؛ الأم فاعل
+HFN-E-1dd09ba9e3#2	NO_DHAT	-	-	-	-	-	UNSURE	الزهزقة كلام لا يفهم
+HFN-E-1dd09ba9e3#3	YES	فاعل	تضمّن	-	-	المرأة	SURE	زهزقت المرأة تابعت الضحك
+HFN-E-f837118e72#1	OTHER_SENSE	-	-	-	-	-	SURE	ضب سبحل: صفة الضخم
+HFN-E-f837118e72#2	OTHER_SENSE	-	-	-	-	-	SURE	السبحلة العظيمة من الإبل
+HFN-E-f837118e72#3	OTHER_SENSE	-	-	-	-	-	SURE	السبحلة من صفات الخصى
+HFN-E-f837118e72#4	OTHER_SENSE	-	-	-	-	-	SURE	السبحل الطويل الضخم
+HFN-E-f837118e72#5	OTHER_SENSE	-	-	-	-	-	SURE	جمل سبحل وجمال سبحلات
+HFN-E-1ad350d970#1	YES	محلّ	تضمّن	-	-	بوله	SURE	سبسب بوله وبسبسه أرسله
+HFN-E-1ad350d970#2	OTHER_SENSE	-	-	-	-	-	SURE	سبسب وسهوب: أرض
+HFN-E-1ad46c240b#1	NO_DHAT	-	-	-	-	-	UNSURE	السرمد والسرمدة دوام الزمان
+HFN-E-796f6d33ed#1	YES	مكان	التزام	عاديّ	مطلق	التراب	UNSURE	دخدخه في التراب وكذلك سغسغه؛ سغسغت الضرس
+HFN-E-4ce9a17a77#1	OTHER_SENSE	-	-	-	-	-	SURE	السفسقة شطبة السيف
+HFN-E-d517107c42#1	OTHER_SENSE	-	-	-	-	-	SURE	السلجم الطويل
+HFN-E-d517107c42#2	OTHER_SENSE	-	-	-	-	-	SURE	من النصال السلجم
+HFN-E-d517107c42#3	OTHER_SENSE	-	-	-	-	-	SURE	السلجم الطويل من الخيل
+HFN-E-d517107c42#4	OTHER_SENSE	-	-	-	-	-	SURE	جمل سلجم مسن شديد
+HFN-E-d517107c42#5	OTHER_SENSE	-	-	-	-	-	SURE	نصيل سلجم: حجر
+HFN-E-6cacd07d3d#1	OTHER_SENSE	-	-	-	-	-	SURE	سلسلة اسم أداة
+HFN-E-6cacd07d3d#2	YES	فاعل	التزام	عاديّ	مطلق	البرق	UNSURE	البرق إذا تسلسل في السحاب
+HFN-E-6cacd07d3d#3	OTHER_SENSE	-	-	-	-	-	SURE	السلاسل رمل يتعقد
+HFN-E-6cacd07d3d#4	YES	محلّ	تضمّن	-	-	شراب	UNSURE	شراب سلسل سهل الدخول في الحلق
+HFN-E-6cacd07d3d#5	OTHER_SENSE	-	-	-	-	-	SURE	السلسلة الرقيطاء دويبة
+HFN-E-418d062fc7#1	YES	محلّ	تضمّن	-	-	امرأة	UNSURE	امرأة سلفع جريئة
+HFN-E-418d062fc7#2	NO_DHAT	-	-	-	-	-	UNSURE	السلفع الجريئة البذية
+HFN-E-a62992c7a2#1	YES	محلّ	تضمّن	-	-	اللبن	UNSURE	للبن سمهج سملج حلو دسم
+HFN-E-a62992c7a2#2	OTHER_SENSE	-	-	-	-	-	SURE	السملج عشب من المرعى
+HFN-E-65cf0f1e79#1	OTHER_SENSE	-	-	-	-	-	UNSURE	السنطليل الطويل وهي السنطلة
+HFN-E-65cf0f1e79#2	YES	محلّ	تضمّن	-	-	رأسه	UNSURE	اضطرب رأسه وانحدر عنقه فتلك السنطلة
+HFN-E-b6598f5393#1	YES	فاعل	تضمّن	-	-	البازي	SURE	شبرق البازي اللحم نهسه
+HFN-E-b6598f5393#2	OTHER_SENSE	-	-	-	-	-	SURE	الشبرق شجرة شاكة
+HFN-E-b6598f5393#3	OTHER_SENSE	-	-	-	-	-	SURE	الشبرق واحدته شبرقة عشبة
+HFN-E-b6598f5393#4	OTHER_SENSE	-	-	-	-	-	SURE	الشبرق نبات رملي
+HFN-E-b6598f5393#5	OTHER_SENSE	-	-	-	-	-	SURE	الضريع هو الشبرق
+HFN-E-a223e8242e#1	OTHER_SENSE	-	-	-	-	-	SURE	الشرعب الطويل
+HFN-E-a223e8242e#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الشرعبة الجسيمة الخفيفة اللحم
+HFN-E-a223e8242e#3	YES	محلّ	تضمّن	-	-	اللحم	SURE	الشرعبة شق اللحم والأديم طولا
+HFN-E-3e445c1610#1	NO_DHAT	-	-	-	-	-	SURE	الشغزبة الأخذ بالعنف
+HFN-E-3e445c1610#2	NO_DHAT	-	-	-	-	-	SURE	الشغزبة الأخذ بالعنف
+HFN-E-195b259df2#1	YES	محلّ	التزام	عاديّ	مطلق	طعامه	UNSURE	في طعامه شمخريرة وقد اشمخر
+HFN-E-36ef45d51c#1	OTHER_SENSE	-	-	-	-	-	SURE	الشمراخ رأس في أعلى الجبل
+HFN-E-36ef45d51c#2	OTHER_SENSE	-	-	-	-	-	SURE	الشمراخ الذي عليه البسر
+HFN-E-36ef45d51c#3	YES	محلّ	تضمّن	-	-	النخلة	SURE	شمرخ النخلة خرط بسرها
+HFN-E-36ef45d51c#4	YES	محلّ	تضمّن	-	-	النخلة	SURE	شمرخ النخلة خرط بسرها
+HFN-E-36ef45d51c#5	OTHER_SENSE	-	-	-	-	-	UNSURE	غرة شمراخ وفرس مشمرخ
+HFN-E-8086e3f692#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الشهبرة المسنة: اسم
+HFN-E-8086e3f692#2	YES	محلّ	التزام	عاديّ	مطلق	النعجة	UNSURE	للنعجة الكبيرة شهبرة وقد شهبرت
+HFN-E-a59c26bd42#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الشهربة المسنة: اسم
+HFN-E-fa3e4e8815#1	YES	محلّ	تضمّن	-	-	اللبن	SURE	صمقر اللبن اشتدت حموضته
+HFN-E-85cbcf37d8#1	YES	محلّ	تضمّن	-	-	اللبن	SURE	صمقر اللبن وإصمقر اشتدت حموضته
+HFN-E-d5c9ee7507#1	OTHER_SENSE	-	-	-	-	-	UNSURE	صندل وصنادل الشديد من الإبل
+HFN-E-d5c9ee7507#2	OTHER_SENSE	-	-	-	-	-	SURE	الصندل طيب
+HFN-E-a58f981303#1	OTHER_SENSE	-	-	-	-	-	SURE	الأنثى ضفدعة
+HFN-E-a58f981303#2	OTHER_SENSE	-	-	-	-	-	SURE	الهاجة الضفدعة
+HFN-E-a58f981303#3	OTHER_SENSE	-	-	-	-	-	SURE	وكذلك الضفدع اسم حيوان
+HFN-E-a58f981303#4	OTHER_SENSE	-	-	-	-	-	SURE	رأسها رأس الضفدع
+HFN-E-ee43f4e365#1	NO_DHAT	-	-	-	-	-	SURE	الطرشحة الاسترخاء وقد طرشح
+HFN-E-ee43f4e365#2	NO_DHAT	-	-	-	-	-	SURE	ضربه حتى طرشحه بلا مرجع

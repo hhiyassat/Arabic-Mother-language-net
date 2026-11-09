@@ -7,9 +7,12 @@ def W(x,n,z=1.96):
 SID={}
 for r in csv.DictReader(open('ALL_CAND.tsv'),delimiter='\t'): SID[f"{r['event_id']}#{r['rank']}"]=(r['event_id'],r['sid'],r['snippet'][:200])
 links=[];khilaf=[];c=Counter();ev_seen=set();roots_seen=set();ev_link=set();roots_link=set()
+EXCLUDE={'C102','C120'}  # قراءتان مستقلّتان دون 0.78 → لا يُكتب منه رابط
 for f in sorted(glob.glob('chunks/C*_CMP.tsv')):
     c['chunks']+=1
+    ex=f.split('/')[-1][:4] in EXCLUDE
     for r in csv.DictReader(open(f),delimiter='\t'):
+        if ex: r=dict(r); r['agree']='0'
         e,sid,sn=SID[r['cand']]; c['rows']+=1; ev_seen.add(e); roots_seen.add(r['root'])
         ok=r['agree']=='1'; c['agree']+=ok
         y='YES' in (r['A'].split('/')[0],r['B'].split('/')[0]); c['y']+=y; c['y_ok']+=y and ok
@@ -21,7 +24,7 @@ for f in sorted(glob.glob('chunks/C*_CMP.tsv')):
                 dhat=r['dhatA'] if r['dhatA']==r['dhatB'] else f"{r['dhatA']}|{r['dhatB']}",shahid=sn,qawl='على ذكر ابن سيده في المخصّص (باب '+r['path'].split(' › ')[-1]+')',i3timad='CANDIDATE'))
             ev_link.add(e); roots_link.add(r['root'])
         elif not ok:
-            khilaf.append(dict(cand=r['cand'],event_id=e,root=r['root'],verb=r['verb'],path=r['path'],A=r['A'],B=r['B'],noteA=r['noteA'],noteB=r['noteB']))
+            khilaf.append(dict(chunk_fail=f.split('/')[-1][:4] if ex else '',cand=r['cand'],event_id=e,root=r['root'],verb=r['verb'],path=r['path'],A=r['A'],B=r['B'],noteA=r['noteA'],noteB=r['noteB']))
 for name,rows in (('LINKS.tsv',links),('KHILAF.tsv',khilaf)):
     if rows:
         w=csv.DictWriter(open(name,'w',encoding='utf-8',newline=''),list(rows[0]),delimiter='\t');w.writeheader();w.writerows(rows)
