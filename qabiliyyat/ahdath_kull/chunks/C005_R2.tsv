@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-96a9510720#1	NO_DHAT	-	-	-	-	-	UNSURE	القلق - الأحمق الطائش؛ لا ذات
+HFN-E-96a9510720#2	NO_DHAT	-	-	-	-	-	SURE	القحز - الوثبان والقلق
+HFN-E-96a9510720#3	YES	محلّ	التزام	عاديّ	مطلق	المحارة	UNSURE	قلق المحارة في الشعر
+HFN-E-96a9510720#4	YES	محلّ	التزام	عاديّ	مطلق	المريض	UNSURE	العلز القلق؛ يصيب المريض فلا يستقر
+HFN-E-96a9510720#5	YES	محلّ	التزام	عاديّ	مطلق	الحزام	UNSURE	ليكون عونا لسيره إذا قلق
+HFN-E-fc0ccf3bc5#1	OTHER_SENSE	-	-	-	-	-	SURE	القلم أداة الكتابة
+HFN-E-fc0ccf3bc5#2	OTHER_SENSE	-	-	-	-	-	SURE	يجري عليه القلم: أداة
+HFN-E-fc0ccf3bc5#3	OTHER_SENSE	-	-	-	-	-	SURE	كالقلم: أداة
+HFN-E-fc0ccf3bc5#4	OTHER_SENSE	-	-	-	-	-	SURE	قلم تصحيف فلم
+HFN-E-fc0ccf3bc5#5	YES	محلّ	تضمّن	-	-	الكرم	UNSURE	إذا بلغ الكرم أن يقطع فاضل قضبانه قيل قلم
+HFN-E-f4b4239bd3#1	OTHER_SENSE	-	-	-	-	-	SURE	القمح البر؛ أقمح السنبل
+HFN-E-f4b4239bd3#2	YES	آلة	التزام	عاديّ	مطلق	اليد	UNSURE	الصفغ - القمح باليد؛ التراب مأكول
+HFN-E-f4b4239bd3#3	YES	فاعل	التزام	عاديّ	مطلق	الإبل	UNSURE	كالإبل القماح وقد قمح يقمح قموحا
+HFN-E-f4b4239bd3#4	OTHER_SENSE	-	-	-	-	-	SURE	يبذر القمح: حبّ
+HFN-E-34f8dd8fd4#1	OTHER_SENSE	-	-	-	-	-	SURE	القمد الممتلئ من الشباب: صفة
+HFN-E-34f8dd8fd4#2	OTHER_SENSE	-	-	-	-	-	SURE	القمد الصلب الشديد النعظ
+HFN-E-34f8dd8fd4#3	OTHER_SENSE	-	-	-	-	-	SURE	القمد الطويل
+HFN-E-34f8dd8fd4#4	NO_DHAT	-	-	-	-	-	SURE	قمد يقمد - أبى الشيء
+HFN-E-ffbe465d95#1	NO_DHAT	-	-	-	-	-	UNSURE	القمد والقمدان الممتلئ؛ لا ذات
+HFN-E-ffbe465d95#2	YES	محلّ	التزام	عاديّ	مطلق	الذكر	UNSURE	ومن صفاته القمد وهو الصلب
+HFN-E-ffbe465d95#3	YES	محلّ	تضمّن	-	-	العنق	UNSURE	الأقمد الضخم العنق الطويلها
+HFN-E-ffbe465d95#4	OTHER_SENSE	-	-	-	-	-	SURE	قمد يقمد - أبى: فعل آخر
+HFN-E-c264f0aa26#1	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-c264f0aa26#2	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-c264f0aa26#3	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-c264f0aa26#4	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-c264f0aa26#5	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-2d7070d735#1	OTHER_SENSE	-	-	-	-	-	SURE	الخرب ثقب الورك: اسم
+HFN-E-2d7070d735#2	OTHER_SENSE	-	-	-	-	-	SURE	الخربة عروة المزادة
+HFN-E-2d7070d735#3	NO_DHAT	-	-	-	-	-	UNSURE	الخرب الفساد في الدين
+HFN-E-2d7070d735#4	NO_DHAT	-	-	-	-	-	UNSURE	الخراب ضد العمران وقد خرب؛ لا ذات
+HFN-E-2d7070d735#5	OTHER_SENSE	-	-	-	-	-	SURE	الخرب منقطع الجمهور من الرمل
+HFN-E-d03d18a1df#1	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-d03d18a1df#2	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-d03d18a1df#3	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-d03d18a1df#4	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-d03d18a1df#5	OTHER_SENSE	-	-	-	-	-	SURE	القمر الكوكب
+HFN-E-1f513f06a6#1	YES	محلّ	التزام	عاديّ	مطلق	التراب	UNSURE	التراب يجمعونه بأيديهم قمزا قمزا
+HFN-E-f63d725264#1	YES	مكان	تضمّن	-	-	الماء	SURE	القمس الغوص في الماء
+HFN-E-f63d725264#2	OTHER_SENSE	-	-	-	-	-	SURE	القمس ذباب صغار
+HFN-E-197376c325#1	YES	فاعل	التزام	عاديّ	مطلق	الطائر	SURE	قمط الطائر الأنثى؛ الأنثى محلّ
+HFN-E-197376c325#2	NO_DHAT	-	-	-	-	-	UNSURE	القمط - الأخذ
+HFN-E-197376c325#3	NO_DHAT	-	-	-	-	-	SURE	القمط: الأخذ
+HFN-E-8de1ca5d5f#1	YES	محلّ	تضمّن	-	-	البسرة	UNSURE	قمعت البسرة - قلعت قمعها
+HFN-E-8de1ca5d5f#2	OTHER_SENSE	-	-	-	-	-	UNSURE	قمعت العين: داء، معنى بعيد
+HFN-E-8de1ca5d5f#3	OTHER_SENSE	-	-	-	-	-	SURE	القمع آلة الصبّ
+HFN-E-8de1ca5d5f#4	OTHER_SENSE	-	-	-	-	-	UNSURE	القمع غلظ في ركبة الفرس: معنى بعيد
+HFN-E-8de1ca5d5f#5	OTHER_SENSE	-	-	-	-	-	SURE	القمعة ذباب
+HFN-E-77acde585f#1	OTHER_SENSE	-	-	-	-	-	UNSURE	قمعت البسرة: قلع القمع، معنى بعيد
+HFN-E-77acde585f#2	YES	محلّ	تضمّن	-	-	العين	SURE	في العين القمع وهو كمد لون لحم الموق
+HFN-E-77acde585f#3	OTHER_SENSE	-	-	-	-	-	SURE	القمع آلة الصبّ
+HFN-E-77acde585f#4	YES	محلّ	تضمّن	-	-	الفرس	SURE	القمع غلظ في إحدى ركبتي الفرس
+HFN-E-77acde585f#5	OTHER_SENSE	-	-	-	-	-	SURE	القمعة ذباب
+HFN-E-6ed0dd8df4#1	NO_DHAT	-	-	-	-	-	SURE	إنه لحر وقمن أن يفعل
+HFN-E-6ed0dd8df4#2	YES	محلّ	التزام	عاديّ	مطلق	الدار	UNSURE	داره قمن من داري أي قريبة
+HFN-E-771c71d5dc#1	YES	مكان	تضمّن	-	-	الماء	UNSURE	قمه الشيء إذا غمس من تحت الماء
+HFN-E-771c71d5dc#2	NO_DHAT	-	-	-	-	-	SURE	القمه كالقهم وقد قمه
+HFN-E-771c71d5dc#3	NO_DHAT	-	-	-	-	-	UNSURE	قمه يقمه قموها كقمح؛ لا فاعل مذكور
+HFN-E-771c71d5dc#4	OTHER_SENSE	-	-	-	-	-	SURE	لقمه: جذر آخر
+HFN-E-771c71d5dc#5	OTHER_SENSE	-	-	-	-	-	SURE	وقمه الأمر: جذر آخر
+HFN-E-2a5158ba56#1	OTHER_SENSE	-	-	-	-	-	UNSURE	قمه الشيء غمس: معنى بعيد
+HFN-E-2a5158ba56#2	NO_DHAT	-	-	-	-	-	SURE	القمه كالقهم القليل الأكل
+HFN-E-2a5158ba56#3	NO_DHAT	-	-	-	-	-	UNSURE	قمه يقمه قموها كقمح
+HFN-E-2a5158ba56#4	OTHER_SENSE	-	-	-	-	-	SURE	لقمه: جذر آخر
+HFN-E-2a5158ba56#5	OTHER_SENSE	-	-	-	-	-	SURE	وقمه الأمر: جذر آخر
+HFN-E-ccf11985bf#1	OTHER_SENSE	-	-	-	-	-	SURE	القنب ضرب من الكتان
+HFN-E-ccf11985bf#2	OTHER_SENSE	-	-	-	-	-	SURE	قنب الدابة: غلاف
+HFN-E-ccf11985bf#3	OTHER_SENSE	-	-	-	-	-	SURE	القنب غلاف قضيبه
+HFN-E-ccf11985bf#4	OTHER_SENSE	-	-	-	-	-	SURE	قنب المرأة بظرها
+HFN-E-ccf11985bf#5	OTHER_SENSE	-	-	-	-	-	SURE	قنب عيرها: اسم
+HFN-E-b64a3911da#1	NO_DHAT	-	-	-	-	-	SURE	القنوت القراءة والدعاء والطاعة
+HFN-E-b64a3911da#2	OTHER_SENSE	-	-	-	-	-	SURE	قنوت الغنم: من قنو
+HFN-E-b64a3911da#3	OTHER_SENSE	-	-	-	-	-	SURE	قنوت المال: من قنو
+HFN-E-b64a3911da#4	OTHER_SENSE	-	-	-	-	-	SURE	قنوت المال: من قنو
+HFN-E-8e1269dacc#1	OTHER_SENSE	-	-	-	-	-	UNSURE	ترمي القنص: الصيد اسم ذات
+HFN-E-8e1269dacc#2	YES	فاعل	التزام	عاديّ	مطلق	الصياد	UNSURE	القانص الصياد قنصه يقنصه قنصا
+HFN-E-8e1269dacc#3	OTHER_SENSE	-	-	-	-	-	UNSURE	ليختل القنص: الصيد اسم ذات
+HFN-E-bf718f2ecd#1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	قنط الرجل وقنط يقنط - يئس
+HFN-E-bf718f2ecd#2	NO_DHAT	-	-	-	-	-	SURE	وقنط يقنط: مثال صرفي
+HFN-E-fca91c9873#1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	قنط الرجل وقنط يقنط - يئس
+HFN-E-fca91c9873#2	NO_DHAT	-	-	-	-	-	SURE	وقنط يقنط: مثال صرفي
+HFN-E-16fd3474d8#1	OTHER_SENSE	-	-	-	-	-	SURE	الخرب ثقب الورك: اسم
+HFN-E-16fd3474d8#2	OTHER_SENSE	-	-	-	-	-	SURE	الخربة عروة المزادة
+HFN-E-16fd3474d8#3	NO_DHAT	-	-	-	-	-	UNSURE	الخرب الفساد في الدين
+HFN-E-16fd3474d8#4	NO_DHAT	-	-	-	-	-	UNSURE	الخراب ضد العمران وقد خرب؛ لا ذات
+HFN-E-16fd3474d8#5	OTHER_SENSE	-	-	-	-	-	SURE	الخرب منقطع الجمهور من الرمل
+HFN-E-02edcf4ae9#1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	قنط الرجل وقنط يقنط - يئس
+HFN-E-02edcf4ae9#2	NO_DHAT	-	-	-	-	-	SURE	وقنط يقنط: مثال صرفي
+HFN-E-93cf8d6f56#1	OTHER_SENSE	-	-	-	-	-	SURE	القنع أرض سهلة
+HFN-E-93cf8d6f56#2	OTHER_SENSE	-	-	-	-	-	SURE	القنع خفض من الأرض
+HFN-E-93cf8d6f56#3	NO_DHAT	-	-	-	-	-	SURE	قنعت قناعة وقنع: مثال صرفي
+HFN-E-93cf8d6f56#4	OTHER_SENSE	-	-	-	-	-	SURE	القنع الطبق
+HFN-E-93cf8d6f56#5	OTHER_SENSE	-	-	-	-	-	UNSURE	قنعت بضرعها: ارتفع، معنى بعيد
+HFN-E-ac32787171#1	YES	محلّ	تضمّن	-	-	الأذن	SURE	القنف عظم الأذن وإقبالها على الوجه
+HFN-E-ac32787171#2	YES	محلّ	تضمّن	-	-	الشاة	UNSURE	القنف في أذن الشاة انثناؤها؛ الأذن
+HFN-E-ac32787171#3	OTHER_SENSE	-	-	-	-	-	SURE	القنف ما يبس من الغدير
+HFN-E-ac32787171#4	OTHER_SENSE	-	-	-	-	-	SURE	القنيف جماعات الناس
+HFN-E-425aa9c619#1	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	القنمة خبث الريح؛ لحم قنم
+HFN-E-425aa9c619#2	YES	محلّ	تضمّن	-	-	الشعر	UNSURE	أن يصيب الشعر الندى ثم الغبار؛ الخيل والإبل
+HFN-E-425aa9c619#3	YES	محلّ	التزام	عاديّ	مطلق	الطعام	UNSURE	في طعامه ... وقنمة وقد قنم
+HFN-E-0471180448#1	NO_DHAT	-	-	-	-	-	UNSURE	أبيض قهد النقي اللون؛ لا ذات
+HFN-E-0471180448#2	OTHER_SENSE	-	-	-	-	-	SURE	القهد من أسماء النرجس
+HFN-E-653b0d41d5#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	أقهر الرجل صار أصحابه مقهورين
+HFN-E-653b0d41d5#2	NO_DHAT	-	-	-	-	-	SURE	من قهر اغتصب
+HFN-E-653b0d41d5#3	OTHER_SENSE	-	-	-	-	-	SURE	القهر القز
+HFN-E-653b0d41d5#4	NO_DHAT	-	-	-	-	-	SURE	الفنخ في الغلبة والقهر
+HFN-E-653b0d41d5#5	NO_DHAT	-	-	-	-	-	SURE	يعطى على العصب أي على القهر
+HFN-E-6d3cd8aec1#1	OTHER_SENSE	-	-	-	-	-	SURE	القهز ثياب صوف
+HFN-E-6d3cd8aec1#2	OTHER_SENSE	-	-	-	-	-	SURE	القهز ثياب بيض
+HFN-E-bbdac426c1#1	YES	محلّ	تضمّن	-	-	الجسم	UNSURE	قهل - لم يتعهد جسمه بالماء
+HFN-E-bbdac426c1#2	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	قهل الرجل في كفر النعمة
+HFN-E-b53e92cccf#1	NO_DHAT	-	-	-	-	-	UNSURE	خرت الشيء - ثقبته؛ الشيء ليس ذاتا
+HFN-E-b53e92cccf#2	OTHER_SENSE	-	-	-	-	-	SURE	الخرتة الحلقة
+HFN-E-b53e92cccf#3	OTHER_SENSE	-	-	-	-	-	SURE	الخرت ثقب الفأس: اسم
+HFN-E-b53e92cccf#4	OTHER_SENSE	-	-	-	-	-	SURE	الخرت الثقب في النعل: اسم
+HFN-E-b53e92cccf#5	OTHER_SENSE	-	-	-	-	-	SURE	خرت: من الخرور
+HFN-E-19a9491e79#1	OTHER_SENSE	-	-	-	-	-	UNSURE	كبت النار علاها الرماد: من كبا
+HFN-E-19a9491e79#2	YES	محلّ	تضمّن	-	-	الرجل	SURE	الكبت والوقم - كسر الرجل وإخزاؤه
+HFN-E-24740161ed#1	YES	محلّ	التزام	عاديّ	مطلق	الفرس	SURE	ناص الفرس عند الكبح والتحريك
+HFN-E-1f86b13241#1	YES	محلّ	التزام	عقليّ	ذهنيّ	الكبد	UNSURE	وجع الكبد الكباد
+HFN-E-1f86b13241#2	OTHER_SENSE	-	-	-	-	-	SURE	كبد السماء وسطها
+HFN-E-1f86b13241#3	OTHER_SENSE	-	-	-	-	-	SURE	الكبد عضو
+HFN-E-1f86b13241#4	OTHER_SENSE	-	-	-	-	-	SURE	الكبد عضو
+HFN-E-1f86b13241#5	OTHER_SENSE	-	-	-	-	-	SURE	كبد المصرم: عضو
+HFN-E-d4cea8723d#1	YES	محلّ	التزام	عاديّ	مطلق	الأولاد	UNSURE	أسنان الأولاد إلى منتهى الكبر
+HFN-E-d4cea8723d#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الكبر: التكبر والفخر، معنى بعيد
+HFN-E-d4cea8723d#3	YES	محلّ	التزام	عاديّ	مطلق	النساء	UNSURE	أسنان النساء إلى منتهى الكبر
+HFN-E-d4cea8723d#4	NO_DHAT	-	-	-	-	-	UNSURE	ثط فعل ككبر: مثال وزن
+HFN-E-d4cea8723d#5	YES	محلّ	تضمّن	-	-	الخلال	UNSURE	كبر الخلال - عظم؛ كبر الغلام
+HFN-E-e6c157dbf8#1	YES	محلّ	التزام	عاديّ	مطلق	الأولاد	SURE	أسنان الأولاد إلى منتهى الكبر
+HFN-E-e6c157dbf8#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الكبر: التكبر والفخر، معنى بعيد
+HFN-E-e6c157dbf8#3	YES	محلّ	التزام	عاديّ	مطلق	النساء	SURE	أسنان النساء إلى منتهى الكبر
+HFN-E-e6c157dbf8#4	NO_DHAT	-	-	-	-	-	UNSURE	ثط فعل ككبر: مثال وزن
+HFN-E-e6c157dbf8#5	YES	محلّ	تضمّن	-	-	الخلال	SURE	كبر الخلال - عظم؛ كبر الغلام
+HFN-E-11762bd62a#1	YES	محلّ	التزام	عاديّ	مطلق	الأولاد	SURE	أسنان الأولاد إلى منتهى الكبر
+HFN-E-11762bd62a#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الكبر: التكبر والفخر، معنى بعيد
+HFN-E-11762bd62a#3	YES	محلّ	التزام	عاديّ	مطلق	النساء	SURE	أسنان النساء إلى منتهى الكبر
+HFN-E-11762bd62a#4	NO_DHAT	-	-	-	-	-	UNSURE	ثط فعل ككبر: مثال وزن
+HFN-E-11762bd62a#5	YES	محلّ	تضمّن	-	-	الخلال	SURE	كبر الخلال - عظم؛ كبر الغلام
+HFN-E-af623b736f#1	YES	محلّ	تضمّن	-	-	الحفرة	SURE	كبس الحفرة - طواها بالتراب
+HFN-E-af623b736f#2	YES	آلة	التزام	عاديّ	مطلق	التراب	UNSURE	الكبس التراب الذي تكبس الحفرة به
+HFN-E-af623b736f#3	OTHER_SENSE	-	-	-	-	-	SURE	الجبال الكبس الصلاب
+HFN-E-af623b736f#4	OTHER_SENSE	-	-	-	-	-	SURE	رأس أكبس ضخم: معنى بعيد
+HFN-E-af623b736f#5	YES	فاعل	تضمّن	-	-	القنفذ	UNSURE	كبس القنفذ - إدخاله رأسه؛ ثوبه
+HFN-E-19a6ff70b5#1	OTHER_SENSE	-	-	-	-	-	SURE	كبس الحفرة طمّها: معنى بعيد
+HFN-E-19a6ff70b5#2	OTHER_SENSE	-	-	-	-	-	SURE	الكبس التراب: معنى بعيد
+HFN-E-19a6ff70b5#3	OTHER_SENSE	-	-	-	-	-	SURE	الجبال الكبس الصلاب
+HFN-E-19a6ff70b5#4	YES	محلّ	تضمّن	-	-	الرأس	SURE	رأس أكبس؛ إذا كانا ضخمي الرأس
+HFN-E-19a6ff70b5#5	OTHER_SENSE	-	-	-	-	-	UNSURE	كبس القنفذ أدخل رأسه: معنى بعيد
+HFN-E-e87dae9237#1	OTHER_SENSE	-	-	-	-	-	SURE	كبش: ذكر الضأن
+HFN-E-e87dae9237#2	OTHER_SENSE	-	-	-	-	-	SURE	كبش: ذكر الضأن
+HFN-E-e87dae9237#3	OTHER_SENSE	-	-	-	-	-	SURE	كبش: ذكر الضأن
+HFN-E-e87dae9237#4	OTHER_SENSE	-	-	-	-	-	SURE	كبش: ذكر الضأن
+HFN-E-e87dae9237#5	OTHER_SENSE	-	-	-	-	-	SURE	كبش: ذكر الضأن
+HFN-E-0876461c3f#1	YES	محلّ	تضمّن	-	-	الدراهم	SURE	الكبع - نقد الدراهم
+HFN-E-0876461c3f#2	OTHER_SENSE	-	-	-	-	-	SURE	الكبع دابة بحرية
+HFN-E-0876461c3f#3	YES	محلّ	تضمّن	-	-	الدراهم	SURE	الكبع - وزن الدراهم
+HFN-E-0876461c3f#4	NO_DHAT	-	-	-	-	-	SURE	الكبع - المنع وقد كبعته
+HFN-E-5559783a7b#1	OTHER_SENSE	-	-	-	-	-	SURE	الكبل القيد: أداة
+HFN-E-5559783a7b#2	OTHER_SENSE	-	-	-	-	-	SURE	فرو كبل كثير الصوف
+HFN-E-5559783a7b#3	OTHER_SENSE	-	-	-	-	-	SURE	الكبل ما ثني من جلد الدلو
+HFN-E-7466c3a1a1#1	NO_DHAT	-	-	-	-	-	SURE	الكبن عدو لين في استرسال
+HFN-E-7466c3a1a1#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل مكبئن وكبن - متقبض
+HFN-E-7466c3a1a1#3	OTHER_SENSE	-	-	-	-	-	UNSURE	فرس فيه كبن ليس بالعظيم
+HFN-E-7466c3a1a1#4	YES	فاعل	تضمّن	-	-	الظبي	SURE	كبن الظبي لطأ بالأرض
+HFN-E-7466c3a1a1#5	OTHER_SENSE	-	-	-	-	-	SURE	الكبن ما ثني من الجلد
+HFN-E-aba15cc717#1	NO_DHAT	-	-	-	-	-	UNSURE	الكتح - دون الكدح
+HFN-E-847d84aa0b#1	OTHER_SENSE	-	-	-	-	-	SURE	الكتف عضو
+HFN-E-847d84aa0b#2	OTHER_SENSE	-	-	-	-	-	SURE	الكتف عضو
+HFN-E-847d84aa0b#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الكتف ظلع: داء، معنى بعيد
+HFN-E-847d84aa0b#4	OTHER_SENSE	-	-	-	-	-	SURE	الكتفين عضو
+HFN-E-847d84aa0b#5	OTHER_SENSE	-	-	-	-	-	SURE	الكتف عضو
+HFN-E-d1e1146387#1	OTHER_SENSE	-	-	-	-	-	SURE	الكتف عضو
+HFN-E-d1e1146387#2	OTHER_SENSE	-	-	-	-	-	SURE	الكتف عضو
+HFN-E-d1e1146387#3	YES	محلّ	التزام	عاديّ	مطلق	جمل	UNSURE	الكتف ظلع من وجع في الكتف؛ جمل أكتف
+HFN-E-d1e1146387#4	OTHER_SENSE	-	-	-	-	-	SURE	الكتفين عضو
+HFN-E-d1e1146387#5	OTHER_SENSE	-	-	-	-	-	SURE	الكتف عضو
+HFN-E-1dcad06182#1	YES	محلّ	تضمّن	-	-	رجل	SURE	رجل ذو كتل غليظ الجسم
+HFN-E-1dcad06182#2	OTHER_SENSE	-	-	-	-	-	SURE	الكتلة ما جمعته من الطين
+HFN-E-014e61e9ce#1	YES	محلّ	التزام	عاديّ	مطلق	النبت	SURE	إذا خرج أول النبت؛ خرج بذرها
+HFN-E-014e61e9ce#2	YES	فاعل	التزام	عاديّ	مطلق	الرجل	SURE	هجر الرجل - خرج من البدو
+HFN-E-014e61e9ce#3	OTHER_SENSE	-	-	-	-	-	SURE	الخرج جوالق
+HFN-E-014e61e9ce#4	OTHER_SENSE	-	-	-	-	-	SURE	الخرج وعاء
+HFN-E-014e61e9ce#5	YES	محلّ	التزام	عاديّ	مطلق	الجنبين	SURE	اتساع البطن وخروج الجنبين؛ الصبي
+HFN-E-9fca407db8#1	YES	محلّ	تضمّن	-	-	الوسخ	SURE	كتن الوسخ على الشيء - لصق؛ الفحل
+HFN-E-9fca407db8#2	OTHER_SENSE	-	-	-	-	-	UNSURE	أما كتن وراءك: تصحيف كان
+HFN-E-9fca407db8#3	YES	محلّ	تضمّن	-	-	الدخان	UNSURE	الكتن - لطخ الدخان بالبيت
+HFN-E-9fca407db8#4	OTHER_SENSE	-	-	-	-	-	SURE	الكتن القدح
+HFN-E-d8d33bedfa#1	NO_DHAT	-	-	-	-	-	UNSURE	كثرة المال؛ المال ليس ذاتا محددة
+HFN-E-d8d33bedfa#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل هذرة كثير الكلام
+HFN-E-d8d33bedfa#3	YES	محلّ	التزام	عاديّ	مطلق	الأرض	SURE	أوسبت الأرض وكثر عشبها
+HFN-E-d8d33bedfa#4	NO_DHAT	-	-	-	-	-	SURE	كثرت الشيء جعلته كثيرا
+HFN-E-d8d33bedfa#5	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	العظم والضخم وكثرة اللحم
+HFN-E-24e22608ec#1	YES	محلّ	التزام	عاديّ	مطلق	النبات	UNSURE	إذا جمع إلى الطول كثافة فهو عشب
+HFN-E-24e22608ec#2	YES	محلّ	التزام	عاديّ	مطلق	ثوب	SURE	ثوب كثيف وقد كثف كثافة
+HFN-E-24e22608ec#3	YES	محلّ	تضمّن	-	-	جيش	UNSURE	جيش كثيف غليظ وقد كثف
+HFN-E-24e22608ec#4	YES	محلّ	التزام	عاديّ	مطلق	السحاب	SURE	السحاب الذي إلى قلة الكثافة
+HFN-E-24e22608ec#5	YES	محلّ	التزام	عاديّ	مطلق	الحاجب	UNSURE	رق شعر حاجبيه وكثف من قدم
+HFN-E-8637ae3525#1	OTHER_SENSE	-	-	-	-	-	SURE	الكحص حب نبات
+HFN-E-58967d65b0#1	YES	آلة	التزام	عقليّ	ذهنيّ	الكحل	UNSURE	الكحل والميل؛ كحل عينه: العين محلّ
+HFN-E-58967d65b0#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الكحل سواد خلقة: معنى آخر
+HFN-E-58967d65b0#3	YES	زمان	تضمّن	-	-	السنون	UNSURE	كحلتهم السنون - اشتدت عليهم
+HFN-E-58967d65b0#4	YES	محلّ	التزام	عاديّ	مطلق	العين	UNSURE	إذا قلبت للكحل بدت حمرتها
+HFN-E-58967d65b0#5	YES	محلّ	التزام	عاديّ	مطلق	العينين	UNSURE	وكحل العينين بالعواور
+HFN-E-01f3f23b23#1	OTHER_SENSE	-	-	-	-	-	SURE	كحل عينه: وضع الكحل، معنى آخر
+HFN-E-01f3f23b23#2	YES	محلّ	تضمّن	-	-	العين	SURE	الكحل سواد يعلو منابت أشفار العين
+HFN-E-01f3f23b23#3	OTHER_SENSE	-	-	-	-	-	SURE	كحلتهم السنون: معنى بعيد
+HFN-E-01f3f23b23#4	OTHER_SENSE	-	-	-	-	-	UNSURE	قلبت للكحل: وضع الكحل
+HFN-E-01f3f23b23#5	OTHER_SENSE	-	-	-	-	-	UNSURE	كحل العينين بالعواور: وضع الكحل
+HFN-E-09fb8bb781#1	OTHER_SENSE	-	-	-	-	-	SURE	خرج بذرها: من خرج، معنى بعيد
+HFN-E-09fb8bb781#2	OTHER_SENSE	-	-	-	-	-	SURE	الخرج جوالق
+HFN-E-09fb8bb781#3	OTHER_SENSE	-	-	-	-	-	SURE	الخرج وعاء
+HFN-E-09fb8bb781#4	OTHER_SENSE	-	-	-	-	-	SURE	خرج من البدو: معنى بعيد
+HFN-E-09fb8bb781#5	OTHER_SENSE	-	-	-	-	-	SURE	خرج منه: معنى بعيد
+HFN-E-d59ddaaa07#1	YES	محلّ	التزام	عاديّ	مطلق	جلده	SURE	تكدح جلده؛ الكدح كالكدة
+HFN-E-d59ddaaa07#2	NO_DHAT	-	-	-	-	-	SURE	كدح يكدح - اكتسب
+HFN-E-d59ddaaa07#3	YES	محلّ	التزام	عاديّ	مطلق	حمار	UNSURE	الكدح: الكدم وحمار مكدح
+HFN-E-e57c64c757#1	YES	محلّ	تضمّن	-	-	الماء	SURE	الكدورة في الماء؛ ماء كدر وقد كدر
+HFN-E-e57c64c757#2	YES	محلّ	التزام	عاديّ	مطلق	شراب	SURE	شراب طاحل - كدر اللون
+HFN-E-e57c64c757#3	OTHER_SENSE	-	-	-	-	-	SURE	الكدر حزم الحصيد
+HFN-E-e57c64c757#4	OTHER_SENSE	-	-	-	-	-	SURE	الكدر الشاب الشديد
+HFN-E-e57c64c757#5	OTHER_SENSE	-	-	-	-	-	SURE	الكدر الصلب الشديد من الحمر
+HFN-E-9692d58773#1	YES	محلّ	تضمّن	-	-	الماء	SURE	الكدورة في الماء؛ ماء كدر وقد كدر
+HFN-E-9692d58773#2	YES	محلّ	التزام	عاديّ	مطلق	شراب	SURE	شراب طاحل - كدر اللون
+HFN-E-9692d58773#3	OTHER_SENSE	-	-	-	-	-	SURE	الكدر حزم الحصيد
+HFN-E-9692d58773#4	OTHER_SENSE	-	-	-	-	-	SURE	الكدر الشاب الشديد
+HFN-E-9692d58773#5	OTHER_SENSE	-	-	-	-	-	SURE	الكدر الصلب الشديد من الحمر
+HFN-E-b4b00d2738#1	YES	محلّ	تضمّن	-	-	الماء	SURE	الكدورة في الماء؛ ماء كدر وقد كدر
+HFN-E-b4b00d2738#2	YES	محلّ	التزام	عاديّ	مطلق	شراب	SURE	شراب طاحل - كدر اللون
+HFN-E-b4b00d2738#3	OTHER_SENSE	-	-	-	-	-	SURE	الكدر حزم الحصيد
+HFN-E-b4b00d2738#4	OTHER_SENSE	-	-	-	-	-	SURE	الكدر الشاب الشديد
+HFN-E-b4b00d2738#5	OTHER_SENSE	-	-	-	-	-	SURE	الكدر الصلب الشديد من الحمر
+HFN-E-ec0a641cbf#1	OTHER_SENSE	-	-	-	-	-	SURE	الكدس الحقل المصروم: اسم
+HFN-E-ec0a641cbf#2	NO_DHAT	-	-	-	-	-	UNSURE	الكدس الإسراع كدست؛ المرجع غير مذكور
+HFN-E-ec0a641cbf#3	NO_DHAT	-	-	-	-	-	SURE	كدس يكدس: التطير
+HFN-E-d2db011676#1	YES	محلّ	التزام	عاديّ	مطلق	أديم	UNSURE	من أديم صافي البشرة غير كدش
+HFN-E-d2db011676#2	YES	فاعل	تضمّن	-	-	القوم	UNSURE	أصل الكدش الحث أن يغنم القوم
+HFN-E-d2db011676#3	NO_DHAT	-	-	-	-	-	SURE	الكدش الدفع كدشه يكدشه
+HFN-E-d2db011676#4	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	الكدش من السوق وقد كدشت
+HFN-E-d2db011676#5	NO_DHAT	-	-	-	-	-	SURE	الكدش - الطرد الشديد
+HFN-E-6f2d513a4c#1	YES	آلة	تضمّن	-	-	الفم	UNSURE	الكدم بالفم؛ أصله في تعرق العظم
+HFN-E-6f2d513a4c#2	OTHER_SENSE	-	-	-	-	-	SURE	الكدم ضرب من الجنادب
+HFN-E-6f2d513a4c#3	YES	محلّ	التزام	عاديّ	مطلق	الحمار	SURE	انبتار في عنق الحمار من الكدم
+HFN-E-6f2d513a4c#4	OTHER_SENSE	-	-	-	-	-	UNSURE	كدم السمر: اسم دابة
+HFN-E-6f2d513a4c#5	OTHER_SENSE	-	-	-	-	-	SURE	الكدم من أحناش الأرض
+HFN-E-d344e57446#1	OTHER_SENSE	-	-	-	-	-	SURE	الكدون الثياب
+HFN-E-d344e57446#2	YES	محلّ	تضمّن	-	-	الصليان	UNSURE	كدن الصليان؛ أكلت الماشية عفوة المرعى
+HFN-E-d344e57446#3	YES	محلّ	تضمّن	-	-	شفتي	SURE	كدنت شفتي إذا اسودت
+HFN-E-d344e57446#4	OTHER_SENSE	-	-	-	-	-	SURE	الكدن جلد كراع وعاء
+HFN-E-d344e57446#5	YES	محلّ	تضمّن	-	-	بعير	UNSURE	بعير ذو كدنة إذا كان ضخم السنام

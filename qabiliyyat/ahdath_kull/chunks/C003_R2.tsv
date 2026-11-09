@@ -1,0 +1,255 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-27c1b4f03d#1	OTHER_SENSE	-	-	-	-	-	SURE	«قبل الوقت» ظرف
+HFN-E-27c1b4f03d#2	OTHER_SENSE	-	-	-	-	-	SURE	«قبل أن يتشعب» ظرف
+HFN-E-27c1b4f03d#3	OTHER_SENSE	-	-	-	-	-	SURE	«قبل أن تتفلق» ظرف
+HFN-E-27c1b4f03d#4	YES	محلّ	تضمّن	-	-	العين	UNSURE	«في العين القبل... أن تكون كأنها تنظر»
+HFN-E-27c1b4f03d#5	OTHER_SENSE	-	-	-	-	-	SURE	«قبل أن يدرك» ظرف
+HFN-E-480ad2cfa0#1	OTHER_SENSE	-	-	-	-	-	SURE	«قبل الوقت» ظرف
+HFN-E-480ad2cfa0#2	OTHER_SENSE	-	-	-	-	-	SURE	«قبل أن يتشعب» ظرف
+HFN-E-480ad2cfa0#3	OTHER_SENSE	-	-	-	-	-	SURE	«قبل أن تتفلق» ظرف
+HFN-E-480ad2cfa0#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«القبل» عيب العين لا معنى القبالة
+HFN-E-480ad2cfa0#5	OTHER_SENSE	-	-	-	-	-	SURE	«قبل أن يدرك» ظرف
+HFN-E-294f690326#1	OTHER_SENSE	-	-	-	-	-	SURE	«القتد خشب الرحل» اسم ذات
+HFN-E-7a360a8ab1#1	NO_DHAT	-	-	-	-	-	SURE	«في قتر من عيشه» العيش معنوي
+HFN-E-7a360a8ab1#2	YES	فاعل	التزام	عاديّ	مطلق	اللحم	UNSURE	«قتر اللحم... إذا ارتفع قتاره»
+HFN-E-7a360a8ab1#3	YES	محلّ	تضمّن	-	-	أهله	UNSURE	«القاتر الذي يقدر على أهله النفقة»
+HFN-E-7a360a8ab1#4	OTHER_SENSE	-	-	-	-	-	SURE	«القتر نحو القطبة» نصل
+HFN-E-7a360a8ab1#5	OTHER_SENSE	-	-	-	-	-	SURE	«في قتر تجاب» كوى
+HFN-E-06fa8cbad8#1	NO_DHAT	-	-	-	-	-	SURE	«قتر وأقتر» الرمقة من العيش
+HFN-E-06fa8cbad8#2	YES	فاعل	التزام	عاديّ	مطلق	اللحم	UNSURE	«قتر اللحم وقتر يقتر»
+HFN-E-06fa8cbad8#3	YES	محلّ	تضمّن	-	-	أهله	UNSURE	«القاتر الذي يقدر على أهله»
+HFN-E-06fa8cbad8#4	OTHER_SENSE	-	-	-	-	-	SURE	«القتر نحو القطبة» نصل
+HFN-E-06fa8cbad8#5	OTHER_SENSE	-	-	-	-	-	SURE	«في قتر تجاب» كوى
+HFN-E-1cc7c88647#1	NO_DHAT	-	-	-	-	-	SURE	«قتله يقتله قتلا» ضمير بلا مرجع
+HFN-E-1cc7c88647#2	NO_DHAT	-	-	-	-	-	SURE	«لا تنكروا القتل» شاهد بلا ذات
+HFN-E-1cc7c88647#3	NO_DHAT	-	-	-	-	-	UNSURE	«قتل» جمع قاتل في بيت
+HFN-E-1cc7c88647#4	OTHER_SENSE	-	-	-	-	-	SURE	«قتل الرجل نظيره» اسم
+HFN-E-1cc7c88647#5	YES	محلّ	التزام	عاديّ	مطلق	صاحبه	UNSURE	«كل من قتل صاحبه وهو غار»
+HFN-E-e06e20a70d#1	YES	محلّ	التزام	عاديّ	مطلق	الغبار	UNSURE	«قتم يقتم... ضرب إلى سواد» والقتام الغبار
+HFN-E-e06e20a70d#2	NO_DHAT	-	-	-	-	-	UNSURE	«القتمة سواد... قتم قتما» بلا ذات
+HFN-E-e06e20a70d#3	YES	محلّ	تضمّن	-	-	وجهه	SURE	«قتم وجهه قتوما - تغير»
+HFN-E-449815eaaf#1	YES	فاعل	التزام	عاديّ	مطلق	الذيخ	UNSURE	«يقال للذيخ قثم... وقد قثم»
+HFN-E-c7c8a9ca90#1	YES	محلّ	التزام	عاديّ	مطلق	سلحه	UNSURE	«زق بسلحه - خذف به»
+HFN-E-c7c8a9ca90#2	YES	آلة	التزام	عاديّ	مطلق	الخذافة	UNSURE	«خذف بها... ضرط» الخذافة الاست
+HFN-E-c7c8a9ca90#3	YES	فاعل	التزام	عاديّ	مطلق	الطائر	SURE	«هك الطائر خذف بذرقه»
+HFN-E-c7c8a9ca90#4	YES	محلّ	تضمّن	-	-	الحصاة	SURE	«الخذف أن يأخذ الحصاة بين سبابتيه»
+HFN-E-2a86753c27#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	«رجل قحب... كثير السعال»
+HFN-E-2a86753c27#2	NO_DHAT	-	-	-	-	-	SURE	«قحب يقحب» بلا ذات في المقتطف
+HFN-E-ec5af68a29#1	YES	محلّ	تضمّن	-	-	جمل	UNSURE	«أسن وفيه بقية قيل جمل قحر»
+HFN-E-ec5af68a29#2	YES	محلّ	التزام	عاديّ	مطلق	الشيخ	UNSURE	«القحر كالقحم» والقحم الشيخ
+HFN-E-282962e2e4#1	NO_DHAT	-	-	-	-	-	SURE	«القحز الوثبان والقلق»
+HFN-E-282962e2e4#2	NO_DHAT	-	-	-	-	-	UNSURE	«القاحز... قحز» السهم غير مذكور
+HFN-E-282962e2e4#3	NO_DHAT	-	-	-	-	-	SURE	«قحز يقحز... مات» بلا ذات
+HFN-E-282962e2e4#4	YES	محلّ	تضمّن	-	-	الرجل	SURE	«قحز الرجل... هلك»
+HFN-E-282962e2e4#5	YES	محلّ	تضمّن	-	-	الرجل	SURE	«قحز الرجل عن ظهر البعير: سقط»
+HFN-E-e19d1f7b88#1	YES	محلّ	تضمّن	-	-	المطر	SURE	«القحط احتباس المطر»
+HFN-E-e19d1f7b88#2	YES	محلّ	التزام	عاديّ	مطلق	الأرض	UNSURE	«أقحطت الأرض وقحطت» وقحط المطر أيضا
+HFN-E-e19d1f7b88#3	NO_DHAT	-	-	-	-	-	SURE	«اللأواء القحط»
+HFN-E-e19d1f7b88#4	NO_DHAT	-	-	-	-	-	UNSURE	«نسب إلى القحط» بلا ذات للحدث
+HFN-E-e19d1f7b88#5	OTHER_SENSE	-	-	-	-	-	SURE	«القحط ضرب من النبت»
+HFN-E-fa1bd4e37a#1	YES	محلّ	تضمّن	-	-	المطر	SURE	«القحط احتباس المطر»
+HFN-E-fa1bd4e37a#2	YES	محلّ	التزام	عاديّ	مطلق	الأرض	UNSURE	«أقحطت الأرض وقحطت» وقحط المطر
+HFN-E-fa1bd4e37a#3	NO_DHAT	-	-	-	-	-	SURE	«اللأواء القحط»
+HFN-E-fa1bd4e37a#4	NO_DHAT	-	-	-	-	-	UNSURE	«نسب إلى القحط» بلا ذات للحدث
+HFN-E-fa1bd4e37a#5	OTHER_SENSE	-	-	-	-	-	SURE	«القحط ضرب من النبت»
+HFN-E-b3a0b13017#1	OTHER_SENSE	-	-	-	-	-	SURE	«قحف الرأس» اسم عظم
+HFN-E-b3a0b13017#2	OTHER_SENSE	-	-	-	-	-	SURE	«القحف إناء من خشب»
+HFN-E-b3a0b13017#3	YES	محلّ	تضمّن	-	-	الثريد	SURE	«القحف جرفك ما في الإناء من الثريد»
+HFN-E-b3a0b13017#4	OTHER_SENSE	-	-	-	-	-	SURE	«فراش القحف» اسم
+HFN-E-b3a0b13017#5	OTHER_SENSE	-	-	-	-	-	SURE	«القحف الكسرة من القدح»
+HFN-E-280e6e4428#1	NO_DHAT	-	-	-	-	-	UNSURE	«قيل قحل يقحل» مرجع يبسه غير مذكور
+HFN-E-280e6e4428#2	YES	محلّ	تضمّن	-	-	الشجر	SURE	«قحل الشجر يقحل... إذا يبس»
+HFN-E-280e6e4428#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	«رجل قاحل وقحل» مسن
+HFN-E-280e6e4428#4	NO_DHAT	-	-	-	-	-	UNSURE	«اليابس القحل» صفة بلا ذات
+HFN-E-bdd16f8fa4#1	NO_DHAT	-	-	-	-	-	UNSURE	«قيل قحل يقحل» مرجع غير مذكور
+HFN-E-bdd16f8fa4#2	YES	محلّ	تضمّن	-	-	الشجر	SURE	«قحل الشجر... وقحل قحلا إذا يبس»
+HFN-E-bdd16f8fa4#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	«رجل قاحل وقحل»
+HFN-E-bdd16f8fa4#4	NO_DHAT	-	-	-	-	-	UNSURE	«اليابس القحل» صفة بلا ذات
+HFN-E-c0ccbaed7c#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«القحم الشيخ» معنى بعيد عن الاقتحام
+HFN-E-c0ccbaed7c#2	YES	مكان	التزام	عاديّ	مطلق	الشمس	UNSURE	«الشهر قحم في دنوه إلى الشمس»
+HFN-E-c0ccbaed7c#3	YES	مكان	التزام	عاديّ	مطلق	نجد	UNSURE	«قحم سيرنا من ظهر نجد»
+HFN-E-c0ccbaed7c#4	YES	فاعل	تضمّن	-	-	الرجل	SURE	«اقتحم الرجل وانقحم رمى بنفسه»
+HFN-E-c0ccbaed7c#5	NO_DHAT	-	-	-	-	-	UNSURE	«قحم الكلام» الكلام معنوي
+HFN-E-f3baf35fa7#1	OTHER_SENSE	-	-	-	-	-	SURE	«القدح الصغير» إناء
+HFN-E-f3baf35fa7#2	OTHER_SENSE	-	-	-	-	-	SURE	«القدح» سهم الميسر
+HFN-E-f3baf35fa7#3	OTHER_SENSE	-	-	-	-	-	SURE	«قدح» عود السهم
+HFN-E-f3baf35fa7#4	OTHER_SENSE	-	-	-	-	-	SURE	«قدح ملآن» إناء
+HFN-E-f3baf35fa7#5	YES	آلة	التزام	عاديّ	مطلق	الحديدة	SURE	«الحديدة التي يقدح بها» والحجر
+HFN-E-043dd79df9#1	OTHER_SENSE	-	-	-	-	-	SURE	«القدر» إناء
+HFN-E-043dd79df9#2	YES	مكان	تضمّن	-	-	القدر	UNSURE	«مرق مقدر مطبوخ في القدر» والمرق محل
+HFN-E-043dd79df9#3	OTHER_SENSE	-	-	-	-	-	SURE	«رغوة القدر» إناء
+HFN-E-043dd79df9#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«قدر قعدة الرجل» مقدار
+HFN-E-043dd79df9#5	OTHER_SENSE	-	-	-	-	-	SURE	«يوضع عليه القدر» إناء
+HFN-E-fb5098b688#1	OTHER_SENSE	-	-	-	-	-	SURE	«القدر» إناء
+HFN-E-fb5098b688#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«قدرتها طبختها» من قدر لا قدر
+HFN-E-fb5098b688#3	OTHER_SENSE	-	-	-	-	-	SURE	«رغوة القدر» إناء
+HFN-E-fb5098b688#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«قدر قعدة الرجل» مقدار
+HFN-E-fb5098b688#5	OTHER_SENSE	-	-	-	-	-	SURE	«يوضع عليه القدر» إناء
+HFN-E-9eab5ea3a0#1	YES	فاعل	التزام	عاديّ	مطلق	البازي	SURE	«حذق البازي وحده يخذق خذقا»
+HFN-E-87150310a1#1	YES	محلّ	تضمّن	-	-	الفرس	SURE	«قدعت الفرس باللجام... كففته»
+HFN-E-9bee76bf13#1	YES	محلّ	التزام	عاديّ	مطلق	الفرس	UNSURE	«وقد انقدع» الفرس
+HFN-E-09a3d48204#1	YES	محلّ	تضمّن	-	-	الماء	SURE	«القدف غرف الماء وصبه»
+HFN-E-09a3d48204#2	OTHER_SENSE	-	-	-	-	-	SURE	«القدف جريد النخل»
+HFN-E-a4134d8006#1	OTHER_SENSE	-	-	-	-	-	SURE	«القدم» عضو
+HFN-E-a4134d8006#2	OTHER_SENSE	-	-	-	-	-	SURE	«القدم هي الرجل» عضو
+HFN-E-a4134d8006#3	YES	محلّ	تضمّن	-	-	القوم	UNSURE	«قدمت القوم أقدمهم: تقدمتهم»
+HFN-E-a4134d8006#4	OTHER_SENSE	-	-	-	-	-	SURE	«يقع القدم» عضو
+HFN-E-a4134d8006#5	OTHER_SENSE	-	-	-	-	-	SURE	«قدوم القين» فأس
+HFN-E-c05173ea2f#1	OTHER_SENSE	-	-	-	-	-	SURE	«القدم» عضو
+HFN-E-c05173ea2f#2	OTHER_SENSE	-	-	-	-	-	SURE	«القدم هي الرجل» عضو
+HFN-E-c05173ea2f#3	OTHER_SENSE	-	-	-	-	-	SURE	«يقع القدم» عضو
+HFN-E-c05173ea2f#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«قدمت القوم» تقدم لا قدم
+HFN-E-c05173ea2f#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«رجل مقدم وقدم شجاع» معنى بعيد
+HFN-E-0805f7fb82#1	NO_DHAT	-	-	-	-	-	SURE	«قذر الشيء» الشيء ليس ذاتا
+HFN-E-0805f7fb82#2	NO_DHAT	-	-	-	-	-	UNSURE	«عفنجل ثقيل قذر» بلا ذات
+HFN-E-0805f7fb82#3	YES	محلّ	التزام	عاديّ	مطلق	خرقة	UNSURE	«كل شيء قذر ربذة كخرقة»
+HFN-E-0805f7fb82#4	YES	محلّ	التزام	عاديّ	مطلق	الجلد	SURE	«القشف قذر الجلد»
+HFN-E-0805f7fb82#5	NO_DHAT	-	-	-	-	-	UNSURE	«ومن القذر وحرة»
+HFN-E-92512a6b84#1	NO_DHAT	-	-	-	-	-	SURE	«قذر الشيء» الشيء ليس ذاتا
+HFN-E-92512a6b84#2	NO_DHAT	-	-	-	-	-	UNSURE	«عفنجل ثقيل قذر» بلا ذات
+HFN-E-92512a6b84#3	YES	محلّ	التزام	عاديّ	مطلق	خرقة	UNSURE	«كل شيء قذر ربذة كخرقة»
+HFN-E-92512a6b84#4	YES	محلّ	التزام	عاديّ	مطلق	الجلد	SURE	«القشف قذر الجلد»
+HFN-E-92512a6b84#5	NO_DHAT	-	-	-	-	-	UNSURE	«ومن القذر وحرة»
+HFN-E-ef5ef8545b#1	NO_DHAT	-	-	-	-	-	SURE	«قذر الشيء... قذارة» الشيء ليس ذاتا
+HFN-E-ef5ef8545b#2	NO_DHAT	-	-	-	-	-	UNSURE	«عفنجل ثقيل قذر» بلا ذات
+HFN-E-ef5ef8545b#3	YES	محلّ	التزام	عاديّ	مطلق	خرقة	UNSURE	«كل شيء قذر ربذة كخرقة»
+HFN-E-ef5ef8545b#4	YES	محلّ	التزام	عاديّ	مطلق	الجلد	SURE	«القشف قذر الجلد»
+HFN-E-ef5ef8545b#5	NO_DHAT	-	-	-	-	-	UNSURE	«ومن القذر وحرة»
+HFN-E-83a68d44e0#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«نوى قذف بعيد» معنى البعد
+HFN-E-83a68d44e0#2	YES	فاعل	تضمّن	-	-	فلاة	UNSURE	«فلاة قذف بعيدة تقاذف بمن يسلكها»
+HFN-E-83a68d44e0#3	NO_DHAT	-	-	-	-	-	UNSURE	«قذف به» مرجع الضمير غير مذكور
+HFN-E-83a68d44e0#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«ديمومة قذف» بمعنى بعيدة
+HFN-E-83a68d44e0#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«مفازة قذف» بمعنى بعيدة
+HFN-E-859e67fc49#1	YES	محلّ	التزام	عاديّ	مطلق	الخصم	UNSURE	«أقمنا قذل الخصم» القذل الميل
+HFN-E-859e67fc49#2	YES	محلّ	تضمّن	-	-	قذاله	SURE	«قذلته ضربت قذاله»
+HFN-E-859e67fc49#3	OTHER_SENSE	-	-	-	-	-	SURE	«القذالان» عضو
+HFN-E-4e72bf8bf3#1	YES	فاعل	تضمّن	-	-	رجل	UNSURE	«رجل قذم: كثير الأخذ»
+HFN-E-4e72bf8bf3#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«القذم الشديد» معنى بعيد
+HFN-E-7afad8dccd#1	YES	زمان	التزام	عاديّ	مطلق	ليلة	UNSURE	«ليلة القرب وهو السوق الشديد»
+HFN-E-7afad8dccd#2	NO_DHAT	-	-	-	-	-	SURE	«(القرب)» عنوان فقط
+HFN-E-7afad8dccd#3	OTHER_SENSE	-	-	-	-	-	SURE	«القرب من لدن الشاكلة» عضو
+HFN-E-7afad8dccd#4	OTHER_SENSE	-	-	-	-	-	SURE	«ملء القرب» أسقية
+HFN-E-7afad8dccd#5	NO_DHAT	-	-	-	-	-	SURE	«قرب به» بلا ذات
+HFN-E-ee57aa9d3a#1	OTHER_SENSE	-	-	-	-	-	SURE	«قرت قروا» من قرو
+HFN-E-ee57aa9d3a#2	YES	مكان	تضمّن	-	-	الجرح	UNSURE	«الدم مات في الجرح قيل قرت فيه الدم»
+HFN-E-ee57aa9d3a#3	OTHER_SENSE	-	-	-	-	-	SURE	«قرت المرأة» من قرأ
+HFN-E-ee57aa9d3a#4	OTHER_SENSE	-	-	-	-	-	SURE	«وقرت أذنه» من وقر
+HFN-E-ee57aa9d3a#5	OTHER_SENSE	-	-	-	-	-	SURE	«فقرت أنفه» من فقر
+HFN-E-b83511bfb8#1	YES	محلّ	تضمّن	-	-	البدن	UNSURE	«القرح عض السلاح مما يخرج بالبدن»
+HFN-E-b83511bfb8#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«العر قرح» اسم بثر
+HFN-E-b83511bfb8#3	YES	محلّ	تضمّن	-	-	السن	SURE	«قروحه وقوع السن التي تلي الرباعية»
+HFN-E-b83511bfb8#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«شبه قرح ممتلئ ماء» اسم
+HFN-E-b83511bfb8#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«شبه قرح ممتليء ماء» اسم
+HFN-E-f06cecaad5#1	OTHER_SENSE	-	-	-	-	-	SURE	«القرد نفاية صوف الضأن» اسم
+HFN-E-f06cecaad5#2	YES	محلّ	التزام	عاديّ	مطلق	الوبر	UNSURE	«القرد ما تمعط من الوبر وقد قرد»
+HFN-E-f06cecaad5#3	OTHER_SENSE	-	-	-	-	-	SURE	«القردة» حيوان
+HFN-E-f06cecaad5#4	YES	محلّ	التزام	عاديّ	مطلق	السحابة	UNSURE	«القرد المتلبد... وذاك تقرده»
+HFN-E-f06cecaad5#5	NO_DHAT	-	-	-	-	-	SURE	«قرد قردا سكت عن عي»
+HFN-E-a32bc29ff9#1	YES	محلّ	تضمّن	-	-	الماء	SURE	«قرس الماء جمد»
+HFN-E-a32bc29ff9#2	YES	مكان	التزام	عاديّ	مطلق	البلاد	UNSURE	«اغبر آفاق البلاد من القرس»
+HFN-E-a32bc29ff9#3	YES	محلّ	التزام	عاديّ	مطلق	ماء	UNSURE	«بماء قرس»
+HFN-E-6fe515facd#1	YES	فاعل	التزام	عاديّ	مطلق	القوم	UNSURE	«القرش الجمع وقد تقرش القوم»
+HFN-E-6fe515facd#2	YES	آلة	تضمّن	-	-	الرماح	UNSURE	«تقارشت الرماح صك بعضها بعضا»
+HFN-E-ffb8506956#1	NO_DHAT	-	-	-	-	-	SURE	«ما أعطيته بغير قرض»
+HFN-E-ffb8506956#2	YES	محلّ	التزام	عاديّ	مطلق	رباطه	UNSURE	«جاء وقد قرض رباطه»
+HFN-E-ffb8506956#3	YES	محلّ	التزام	عاديّ	مطلق	جرته	SURE	«لم يقدر على قرض جرته»
+HFN-E-ffb8506956#4	NO_DHAT	-	-	-	-	-	UNSURE	«والقرض بغير ألف»
+HFN-E-ffb8506956#5	YES	فاعل	تضمّن	-	-	الناس	UNSURE	«القرض ما يتجازى به الناس بينهم»
+HFN-E-54d3dfb26d#1	YES	آلة	التزام	عقليّ	ذهنيّ	القرط	UNSURE	«جارية مقرطة مقروطة» والجارية محل
+HFN-E-54d3dfb26d#2	OTHER_SENSE	-	-	-	-	-	SURE	«معلق القرط» حلية
+HFN-E-54d3dfb26d#3	OTHER_SENSE	-	-	-	-	-	SURE	«يعلق فيها القرط» حلية
+HFN-E-54d3dfb26d#4	YES	آلة	تضمّن	-	-	العنان	UNSURE	«قرط فلان فرسه العنان» والفرس محل
+HFN-E-54d3dfb26d#5	OTHER_SENSE	-	-	-	-	-	UNSURE	لا ورود للفعل في المقتطف
+HFN-E-b7d641e387#1	OTHER_SENSE	-	-	-	-	-	SURE	«القرع حمل اليقطين»
+HFN-E-b7d641e387#2	YES	محلّ	تضمّن	-	-	الفناء	UNSURE	«قرع الفناء خلوه من الإبل»
+HFN-E-b7d641e387#3	YES	محلّ	التزام	عاديّ	مطلق	الظنابيب	SURE	«قرع الظنابيب»
+HFN-E-b7d641e387#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«القرع بثر» اسم داء
+HFN-E-b7d641e387#5	YES	محلّ	تضمّن	-	-	مراحه	UNSURE	«قرع مراحه أي هلكت ماشيته»
+HFN-E-c7ac6a9d90#1	OTHER_SENSE	-	-	-	-	-	SURE	«القرق» الأصل
+HFN-E-c7ac6a9d90#2	OTHER_SENSE	-	-	-	-	-	SURE	«القرق» المكان المستوي
+HFN-E-c7ac6a9d90#3	OTHER_SENSE	-	-	-	-	-	SURE	«قرق الرمل» اسم
+HFN-E-096e617a08#1	OTHER_SENSE	-	-	-	-	-	SURE	«القرم السيد»
+HFN-E-096e617a08#2	YES	محلّ	تضمّن	-	-	اللحم	SURE	«قرمت إلى اللحم قرما... تشهيته»
+HFN-E-096e617a08#3	OTHER_SENSE	-	-	-	-	-	SURE	«القرم ضرب من الشجر»
+HFN-E-096e617a08#4	YES	فاعل	تضمّن	-	-	الصبي	UNSURE	«قرم الصبي... تناول الأكل أدنى تناول»
+HFN-E-096e617a08#5	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	«أكول للحم وقرم إليه»
+HFN-E-d801e74fa9#1	OTHER_SENSE	-	-	-	-	-	SURE	«القرم السيد»
+HFN-E-d801e74fa9#2	YES	محلّ	تضمّن	-	-	اللحم	SURE	«قرمت إلى اللحم قرما... تشهيته»
+HFN-E-d801e74fa9#3	OTHER_SENSE	-	-	-	-	-	SURE	«القرم ضرب من الشجر»
+HFN-E-d801e74fa9#4	YES	فاعل	تضمّن	-	-	الصبي	UNSURE	«قرم الصبي يقرم قرما»
+HFN-E-d801e74fa9#5	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	«أكول للحم وقرم إليه»
+HFN-E-83ef6e76a5#1	YES	آلة	التزام	عاديّ	مطلق	الحبل	SURE	«القرن الحبل يقرن فيه البعيران»
+HFN-E-83ef6e76a5#2	OTHER_SENSE	-	-	-	-	-	SURE	«القرن» قرن الشاة
+HFN-E-83ef6e76a5#3	YES	محلّ	تضمّن	-	-	الحاجب	SURE	«القرن أن يطول الحاجبان حتى يلتقي»
+HFN-E-83ef6e76a5#4	OTHER_SENSE	-	-	-	-	-	SURE	«القرن» قرن الشاة
+HFN-E-83ef6e76a5#5	OTHER_SENSE	-	-	-	-	-	SURE	«قرن الشمس» اسم
+HFN-E-f20cd8c20e#1	OTHER_SENSE	-	-	-	-	-	SURE	«قوس قزح» اسم
+HFN-E-f20cd8c20e#2	YES	محلّ	التزام	عاديّ	مطلق	القدر	UNSURE	«قزحت القدر» توبيلها
+HFN-E-f20cd8c20e#3	YES	فاعل	تضمّن	-	-	الكلب	SURE	«القزح بول الكلب... قزح الكلب ببوله»
+HFN-E-f20cd8c20e#4	OTHER_SENSE	-	-	-	-	-	SURE	«قوس قزح» اسم
+HFN-E-d340477507#1	YES	محلّ	تضمّن	-	-	الرأس	SURE	«القزع أن يتقوب من الرأس مواضع»
+HFN-E-d340477507#2	OTHER_SENSE	-	-	-	-	-	SURE	«القزع قطع» سحاب
+HFN-E-d340477507#3	YES	محلّ	التزام	عاديّ	مطلق	الغنم	UNSURE	«ما انتتف من أصواف الغنم وقد قزع»
+HFN-E-d340477507#4	YES	آلة	تضمّن	-	-	ريش	UNSURE	«المقزع الذي ريش بريش صغار»
+HFN-E-d340477507#5	OTHER_SENSE	-	-	-	-	-	SURE	«القزع صغار الإبل»
+HFN-E-aee04d4921#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	«مشية المقطوع الرجل وقزل يقزل مثله»
+HFN-E-aee04d4921#2	NO_DHAT	-	-	-	-	-	SURE	«قزل قزلا تبختر»
+HFN-E-16aa892254#1	NO_DHAT	-	-	-	-	-	UNSURE	«القزم اللئيم الصغير الجثة»
+HFN-E-16aa892254#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	«رجل قزم من قوم قزم»
+HFN-E-16aa892254#3	YES	محلّ	التزام	عاديّ	مطلق	اليعامير	UNSURE	«على قزم اليعامير»
+HFN-E-16aa892254#4	YES	محلّ	التزام	عاديّ	مطلق	اليعامير	UNSURE	«على قزم اليعامير»
+HFN-E-2162b2dd00#1	YES	فاعل	تضمّن	-	-	الحالف	UNSURE	«القسم يمين يقسم بها الحالف»
+HFN-E-2162b2dd00#2	NO_DHAT	-	-	-	-	-	SURE	«من جملة القسم» نحو
+HFN-E-2162b2dd00#3	NO_DHAT	-	-	-	-	-	SURE	«معنى القسم» نحو
+HFN-E-2162b2dd00#4	OTHER_SENSE	-	-	-	-	-	SURE	«القسم الحظ والنصيب»
+HFN-E-2162b2dd00#5	NO_DHAT	-	-	-	-	-	SURE	«نوادر القسم» عنوان
+HFN-E-68991c7a8c#1	YES	آلة	تضمّن	-	-	السم	SURE	«قشب له سقاه السم» ونسر قشيب
+HFN-E-68991c7a8c#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«القشيب الجديد» معنى بعيد
+HFN-E-68991c7a8c#3	OTHER_SENSE	-	-	-	-	-	SURE	«القشب نبات»
+HFN-E-68991c7a8c#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«قشب يبس من الكبر» معنى بعيد
+HFN-E-68991c7a8c#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«رجل سب قشب لا خير»
+HFN-E-f59cdee9e8#1	YES	محلّ	التزام	عاديّ	مطلق	الشجرة	SURE	«نجبت الشجرة قشرتها»
+HFN-E-f59cdee9e8#2	OTHER_SENSE	-	-	-	-	-	SURE	«تحت قشرها» اسم
+HFN-E-f59cdee9e8#3	OTHER_SENSE	-	-	-	-	-	SURE	«حسف عنه القشر» اسم
+HFN-E-f59cdee9e8#4	OTHER_SENSE	-	-	-	-	-	SURE	«قشر البيضة» اسم
+HFN-E-f59cdee9e8#5	YES	فاعل	التزام	عاديّ	مطلق	السفينة	UNSURE	«تسفن الماء كأنها تقشره» والماء محل
+HFN-E-844b7bf61f#1	YES	محلّ	التزام	عاديّ	مطلق	الشجرة	SURE	«نجبت الشجرة قشرتها»
+HFN-E-844b7bf61f#2	OTHER_SENSE	-	-	-	-	-	SURE	«تحت قشرها» اسم
+HFN-E-844b7bf61f#3	OTHER_SENSE	-	-	-	-	-	SURE	«قشر البيضة» اسم
+HFN-E-844b7bf61f#4	YES	فاعل	التزام	عاديّ	مطلق	السفينة	UNSURE	«كأنها تقشره» والماء محل
+HFN-E-844b7bf61f#5	OTHER_SENSE	-	-	-	-	-	SURE	«حسف عنه القشر» اسم
+HFN-E-6ea1673495#1	YES	محلّ	تضمّن	-	-	العشب	SURE	«قشع العشب وقشعه يبسه»
+HFN-E-6ea1673495#2	OTHER_SENSE	-	-	-	-	-	SURE	«القشع قطعة نطع»
+HFN-E-6ea1673495#3	OTHER_SENSE	-	-	-	-	-	SURE	«القشع البيت من الأدم»
+HFN-E-6ea1673495#4	OTHER_SENSE	-	-	-	-	-	SURE	«القشع كناسة الحمام»
+HFN-E-6ea1673495#5	YES	محلّ	التزام	عاديّ	مطلق	سمك	UNSURE	«سمك يجفف ويسمى قاشعا»
+HFN-E-d93a6440bc#1	YES	محلّ	تضمّن	-	-	الجلد	SURE	«القشف قذر الجلد»
+HFN-E-d93a6440bc#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	«رجل قشف لا يتعهد الغسل»
+HFN-E-d93a6440bc#3	NO_DHAT	-	-	-	-	-	UNSURE	«القشف كالأعشم وقد قشف»
+HFN-E-d93a6440bc#4	YES	مصدر	تضمّن	-	-	الشمس	UNSURE	«قشف قشفا تغير من تلويح الشمس»
+HFN-E-d93a6440bc#5	NO_DHAT	-	-	-	-	-	SURE	«أصابهم قشف» ضمير بلا مرجع
+HFN-E-123dbf9da1#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«قشم يبس من الكبر» معنى بعيد
+HFN-E-123dbf9da1#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«القشم اللحم والشحم» اسم
+HFN-E-123dbf9da1#3	NO_DHAT	-	-	-	-	-	SURE	«القشم شدة الأكل وخلطه»
+HFN-E-123dbf9da1#4	OTHER_SENSE	-	-	-	-	-	SURE	«القشم مسيل الماء»
+HFN-E-123dbf9da1#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«القشم... الردئ» اسم
+HFN-E-6aae2a0b28#1	OTHER_SENSE	-	-	-	-	-	SURE	«جماعة القصب» نبات
+HFN-E-6aae2a0b28#2	OTHER_SENSE	-	-	-	-	-	SURE	«اللينة القصب» عظام
+HFN-E-6aae2a0b28#3	YES	محلّ	التزام	عاديّ	مطلق	الزرع	UNSURE	«فإذا صارت له سوق فقد أقصب وقصب»
+HFN-E-6aae2a0b28#4	OTHER_SENSE	-	-	-	-	-	SURE	«قصب اللحم» عظم
+HFN-E-6aae2a0b28#5	OTHER_SENSE	-	-	-	-	-	SURE	«وقوع المخ في القصب» عظام
+HFN-E-3a75d059bc#1	YES	آلة	التزام	عاديّ	مطلق	العصا	UNSURE	«تصمد له بالعصا قصد له بها»
+HFN-E-3a75d059bc#2	NO_DHAT	-	-	-	-	-	SURE	«الحج القصد في اللغة»
+HFN-E-3a75d059bc#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«وقد قصد» الشجر بمعنى بعيد
+HFN-E-3a75d059bc#4	NO_DHAT	-	-	-	-	-	SURE	«ترك القصد»
+HFN-E-3a75d059bc#5	NO_DHAT	-	-	-	-	-	SURE	«السجع في القصد»
+HFN-E-2998f9541d#1	OTHER_SENSE	-	-	-	-	-	SURE	«وقصر مشيد» بناء
+HFN-E-2998f9541d#2	YES	فاعل	تضمّن	-	-	المرأة	UNSURE	«أقصرت المرأة ولدت قصارا»
+HFN-E-2998f9541d#3	NO_DHAT	-	-	-	-	-	UNSURE	«قصر المطلى» قصر لفظ
+HFN-E-2998f9541d#4	YES	محلّ	التزام	عاديّ	مطلق	الأنف	SURE	«الذلف وهو قصر الأنف»
+HFN-E-2998f9541d#5	YES	محلّ	التزام	عاديّ	مطلق	العنق	SURE	«القدر قصر في العنق»
+HFN-E-e62ad29cf4#1	OTHER_SENSE	-	-	-	-	-	SURE	«وقصر مشيد» بناء
+HFN-E-e62ad29cf4#2	YES	فاعل	تضمّن	-	-	المرأة	UNSURE	«أقصرت المرأة ولدت قصارا»
+HFN-E-e62ad29cf4#3	NO_DHAT	-	-	-	-	-	UNSURE	«قصر المطلى» قصر لفظ
+HFN-E-e62ad29cf4#4	YES	محلّ	التزام	عاديّ	مطلق	الأنف	UNSURE	«الذلف وهو قصر الأنف»
+HFN-E-e62ad29cf4#5	YES	محلّ	التزام	عاديّ	مطلق	العنق	UNSURE	«القدر قصر في العنق»

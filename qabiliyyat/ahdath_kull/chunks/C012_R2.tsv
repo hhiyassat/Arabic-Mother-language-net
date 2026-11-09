@@ -1,0 +1,254 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-a968d219b8#1	OTHER_SENSE	-	-	-	-	-	SURE	الهرس - الخلق: بلى الثوب
+HFN-E-a968d219b8#2	YES	فاعل	التزام	عاديّ	مطلق	إبل	UNSURE	إبل مهاريس؛ الهرس شدة الأكل
+HFN-E-a968d219b8#3	YES	فاعل	تضمّن	-	-	أسد	UNSURE	أسد هراس يهرس كل شيء
+HFN-E-a968d219b8#4	YES	فاعل	تضمّن	-	-	إبل	UNSURE	إبل مهاريس إذا اشتد أكلها
+HFN-E-a968d219b8#5	YES	محلّ	التزام	عاديّ	مطلق	الحب	SURE	الحب المهروس؛ المهراس آلة
+HFN-E-c4eb9ccda8#1	OTHER_SENSE	-	-	-	-	-	SURE	الهرس - الخلق
+HFN-E-c4eb9ccda8#2	YES	فاعل	التزام	عاديّ	مطلق	إبل	UNSURE	إبل مهاريس؛ شدة الأكل
+HFN-E-c4eb9ccda8#3	YES	محلّ	التزام	عاديّ	مطلق	أسد	UNSURE	الهرس والأهرس الشديد المراس منها
+HFN-E-c4eb9ccda8#4	YES	فاعل	التزام	عاديّ	مطلق	إبل	UNSURE	إبل مهاريس إذا اشتد أكلها
+HFN-E-c4eb9ccda8#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الهرس هنا الدق، معنى بعيد
+HFN-E-6daa912719#1	OTHER_SENSE	-	-	-	-	-	UNSURE	ناقة هرط مسنة: معنى آخر
+HFN-E-6daa912719#2	OTHER_SENSE	-	-	-	-	-	SURE	الهرطة النعجة الكبيرة: اسم ذات
+HFN-E-6daa912719#3	OTHER_SENSE	-	-	-	-	-	SURE	الهرطة النعجة؛ الهرط اللحم المهزول
+HFN-E-a89a4a1d04#1	YES	محلّ	تضمّن	-	-	ناقة	UNSURE	ناقة هرط مسنة ماجة
+HFN-E-a89a4a1d04#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الهرطة النعجة الكبيرة: اسم ذات
+HFN-E-a89a4a1d04#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الهرطة والهرط اسما ذات
+HFN-E-dbb7f61788#1	NO_DHAT	-	-	-	-	-	SURE	هرف يهرف: الإطناب في المدح
+HFN-E-fba0890e68#1	YES	محلّ	التزام	عاديّ	مطلق	شيخ	UNSURE	فانيان هرمان؛ هرم هرما
+HFN-E-fba0890e68#2	OTHER_SENSE	-	-	-	-	-	SURE	الهرم نبت من الحمض
+HFN-E-fba0890e68#3	YES	محلّ	التزام	عاديّ	مطلق	العجوز	UNSURE	هرم العجوز وفضول جلدها
+HFN-E-fba0890e68#4	YES	محلّ	التزام	عاديّ	مطلق	الوعل	UNSURE	الوعل الهرم
+HFN-E-fba0890e68#5	YES	محلّ	التزام	عاديّ	مطلق	الشيخ	UNSURE	يعرو الشيخ إذا هرم
+HFN-E-56ba2e6aea#1	YES	محلّ	التزام	عاديّ	مطلق	شيخ	SURE	شيخ... فانيان هرمان؛ هرم هرما
+HFN-E-56ba2e6aea#2	OTHER_SENSE	-	-	-	-	-	SURE	الهرم نبت من الحمض
+HFN-E-56ba2e6aea#3	YES	محلّ	التزام	عاديّ	مطلق	العجوز	UNSURE	هرم العجوز وفضول جلدها
+HFN-E-56ba2e6aea#4	YES	محلّ	التزام	عاديّ	مطلق	الوعل	SURE	الوعل الهرم
+HFN-E-56ba2e6aea#5	YES	محلّ	التزام	عاديّ	مطلق	الشيخ	SURE	يعرو الشيخ إذا هرم
+HFN-E-6e7b5e71a1#1	NO_DHAT	-	-	-	-	-	UNSURE	كل كلام خفيف متدارك هزج
+HFN-E-6e7b5e71a1#2	YES	فاعل	تضمّن	-	-	فرس	UNSURE	فرس هزج سريع نقل القوائم
+HFN-E-6e7b5e71a1#3	YES	فاعل	تضمّن	-	-	رعد	UNSURE	رعد هزج الصوت أي متداركه
+HFN-E-6e7b5e71a1#4	NO_DHAT	-	-	-	-	-	UNSURE	من هزج العشي، لا ذات صريحة
+HFN-E-6e7b5e71a1#5	NO_DHAT	-	-	-	-	-	SURE	الهزج صوت مطرب
+HFN-E-039dfd282e#1	OTHER_SENSE	-	-	-	-	-	SURE	رجل هزر: الأحمق
+HFN-E-039dfd282e#2	YES	آلة	التزام	عاديّ	مطلق	العصا	SURE	هزرته بها؛ الجنب والظهر محلّ في الحدّ
+HFN-E-77173c963b#1	OTHER_SENSE	-	-	-	-	-	SURE	خشب: اسم ذات
+HFN-E-77173c963b#2	OTHER_SENSE	-	-	-	-	-	SURE	الخشب اسم ذات
+HFN-E-77173c963b#3	OTHER_SENSE	-	-	-	-	-	SURE	الخشبة؛ بيت مخشب ذو خشب
+HFN-E-77173c963b#4	OTHER_SENSE	-	-	-	-	-	SURE	ذلك الخشب العريش
+HFN-E-77173c963b#5	OTHER_SENSE	-	-	-	-	-	SURE	له خشب قليل يحتطب
+HFN-E-8381803a52#1	YES	فاعل	التزام	عاديّ	مطلق	المرأة	SURE	المهزاق الكثير الضحك، أعرفه في المرأة
+HFN-E-8381803a52#2	YES	فاعل	تضمّن	-	-	الرعد	SURE	الهزق شدة صوت الرعد
+HFN-E-8381803a52#3	OTHER_SENSE	-	-	-	-	-	UNSURE	رقاص الهزق: معنى غير واضح
+HFN-E-8381803a52#4	YES	فاعل	التزام	عاديّ	مطلق	المرأة	UNSURE	الهزقة مثلها بينة الهزق
+HFN-E-8381803a52#5	YES	فاعل	تضمّن	-	-	حمار	UNSURE	حمار هزق كثير الاستنان
+HFN-E-3b7ae4c88c#1	YES	محلّ	تضمّن	-	-	الجسم	UNSURE	هزله يهزله هزلا؛ ذهاب الجسم
+HFN-E-3b7ae4c88c#2	NO_DHAT	-	-	-	-	-	SURE	الهزل نقيض (الجد)
+HFN-E-3b7ae4c88c#3	YES	محلّ	التزام	عاديّ	مطلق	أموالهم	UNSURE	أموالهم الهزل: سوء الحال
+HFN-E-3b7ae4c88c#4	YES	محلّ	التزام	عاديّ	مطلق	الإنسان	SURE	إذا هزل الإنسان بدت منه
+HFN-E-3b7ae4c88c#5	YES	محلّ	التزام	عاديّ	مطلق	البعير	UNSURE	نضل البعير نضلا هزل
+HFN-E-c1b77ef05c#1	YES	محلّ	تضمّن	-	-	الجسم	UNSURE	هزل هزالا وهو ذهاب الجسم
+HFN-E-c1b77ef05c#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الهزل نقيض الجد، معنى بعيد
+HFN-E-c1b77ef05c#3	YES	محلّ	التزام	عاديّ	مطلق	أموالهم	UNSURE	أموالهم الهزل: سوء الحال
+HFN-E-c1b77ef05c#4	YES	محلّ	التزام	عاديّ	مطلق	الإنسان	SURE	إذا هزل الإنسان بدت منه
+HFN-E-c1b77ef05c#5	YES	محلّ	التزام	عاديّ	مطلق	البعير	UNSURE	نضل البعير نضلا هزل
+HFN-E-8da4c3d51a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الهزم ما تهشم: اسم للحطام
+HFN-E-8da4c3d51a#2	YES	محلّ	تضمّن	-	-	القثاء	UNSURE	الهزم كسرك الشيء الأجوف كالقثاء
+HFN-E-8da4c3d51a#3	NO_DHAT	-	-	-	-	-	SURE	هزمته فانهزم؛ الفرار عن القتال
+HFN-E-8da4c3d51a#4	YES	محلّ	التزام	عاديّ	مطلق	دن	UNSURE	في وصف دن: لا ناقس ولا هزم
+HFN-E-fc91652932#1	NO_DHAT	-	-	-	-	-	SURE	الهشر خفة الشيء ودقته
+HFN-E-8a3f552dea#1	YES	محلّ	تضمّن	-	-	العظم	SURE	الهشم كسر العظم والرأس
+HFN-E-8a3f552dea#2	YES	محلّ	التزام	عاديّ	مطلق	الرأس	SURE	لا يكون إلا في يابس أو الرأس أو بيض
+HFN-E-24967a9167#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	هصره يهصره؛ رجل هصر؛ القرن محلّ
+HFN-E-24967a9167#2	YES	فاعل	التزام	عاديّ	مطلق	ليث	SURE	ليث هصور من هصرت الشيء
+HFN-E-574b5cba98#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	رجل هصر وهصور
+HFN-E-574b5cba98#2	YES	فاعل	التزام	عاديّ	مطلق	ليث	UNSURE	ليث هصور
+HFN-E-86743a9b72#1	OTHER_SENSE	-	-	-	-	-	SURE	ضب هضب: الضخم
+HFN-E-86743a9b72#2	YES	فاعل	تضمّن	-	-	المطر	UNSURE	الهضبة الدفعة من المطر؛ هضبت الأرض
+HFN-E-86743a9b72#3	OTHER_SENSE	-	-	-	-	-	SURE	جنوب الهضب: جبال
+HFN-E-86743a9b72#4	OTHER_SENSE	-	-	-	-	-	SURE	هضبة وهضب: تمثيل صرفي
+HFN-E-86743a9b72#5	OTHER_SENSE	-	-	-	-	-	SURE	هضبة وهضب: قطع اللحم
+HFN-E-c03d5e04e9#1	YES	محلّ	تضمّن	-	-	الجزور	UNSURE	اهتضام الجزور عقرها
+HFN-E-c03d5e04e9#2	YES	محلّ	التزام	عاديّ	مطلق	الطعام	UNSURE	هضم الطعام
+HFN-E-c03d5e04e9#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الهضم استقامة الضلوع: معنى آخر
+HFN-E-c03d5e04e9#4	OTHER_SENSE	-	-	-	-	-	SURE	الهضم ما اطمأن من الأرض
+HFN-E-c03d5e04e9#5	OTHER_SENSE	-	-	-	-	-	SURE	الهضوم مطمئنات من الأرض
+HFN-E-75066f981c#1	OTHER_SENSE	-	-	-	-	-	UNSURE	هضم له من ماله: معنى آخر
+HFN-E-75066f981c#2	OTHER_SENSE	-	-	-	-	-	UNSURE	هضم الطعام: معنى آخر
+HFN-E-75066f981c#3	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	فرس أهضم؛ الضلوع والبطن في الحدّ
+HFN-E-75066f981c#4	OTHER_SENSE	-	-	-	-	-	SURE	الهضم ما اطمأن من الأرض
+HFN-E-75066f981c#5	OTHER_SENSE	-	-	-	-	-	SURE	الهضوم مطمئنات من الأرض
+HFN-E-41c68dede5#1	YES	فاعل	تضمّن	-	-	المطر	SURE	الهطلان تتابع المطر؛ هطلت السماء
+HFN-E-41c68dede5#2	NO_DHAT	-	-	-	-	-	UNSURE	الهطل الإعياء والهطل المعيي
+HFN-E-41c68dede5#3	NO_DHAT	-	-	-	-	-	SURE	هطل يهطل هطلانا مضى لوجهه
+HFN-E-41c68dede5#4	YES	فاعل	التزام	عاديّ	مطلق	نجاء الحمل	UNSURE	ويروى هطل نجاء الحمل
+HFN-E-41c68dede5#5	YES	مصدر	التزام	عاديّ	مطلق	البيت	UNSURE	وكف البيت وكفا - هطل
+HFN-E-6a35031ecf#1	OTHER_SENSE	-	-	-	-	-	UNSURE	هفت هافية: من هفف
+HFN-E-6a35031ecf#2	OTHER_SENSE	-	-	-	-	-	SURE	هفت الصوفة هفوا: من هفا
+HFN-E-6a35031ecf#3	OTHER_SENSE	-	-	-	-	-	SURE	هفت الريح تهف: من هفف
+HFN-E-6a35031ecf#4	NO_DHAT	-	-	-	-	-	UNSURE	هفت يهفت هفتا دق؛ تهافت الثلج
+HFN-E-d73ad778d6#1	NO_DHAT	-	-	-	-	-	UNSURE	غره يغره؛ الغرور الشيطان والدنيا
+HFN-E-d73ad778d6#2	OTHER_SENSE	-	-	-	-	-	SURE	غرور الذراع: خطوط الجلد
+HFN-E-d73ad778d6#3	OTHER_SENSE	-	-	-	-	-	SURE	غرور القربة: غضونها
+HFN-E-d73ad778d6#4	OTHER_SENSE	-	-	-	-	-	SURE	غرور الفخذين: العكن
+HFN-E-d73ad778d6#5	OTHER_SENSE	-	-	-	-	-	SURE	الغرور مكاسر الجلد
+HFN-E-abfb4cbed9#1	YES	محلّ	التزام	عاديّ	مطلق	الفتاة	SURE	الفتاة صغيرة غر؛ غررت تغر غرارة
+HFN-E-abfb4cbed9#2	OTHER_SENSE	-	-	-	-	-	SURE	غرارة: وعاء
+HFN-E-abfb4cbed9#3	OTHER_SENSE	-	-	-	-	-	SURE	الغرارة وعاء
+HFN-E-abfb4cbed9#4	OTHER_SENSE	-	-	-	-	-	SURE	وزأت الغرارة: وعاء
+HFN-E-abfb4cbed9#5	YES	محلّ	التزام	عاديّ	مطلق	الرجال والنساء	UNSURE	الجافي من الرجال والنساء مع غرارة
+HFN-E-110fcd075b#1	OTHER_SENSE	-	-	-	-	-	UNSURE	بناء غري: حسن
+HFN-E-110fcd075b#2	OTHER_SENSE	-	-	-	-	-	SURE	الغري صبغ أحمر
+HFN-E-110fcd075b#3	OTHER_SENSE	-	-	-	-	-	SURE	الغري الحسن
+HFN-E-110fcd075b#4	YES	محلّ	التزام	عاديّ	مطلق	السهم	UNSURE	غري به غراء؛ قوس مغرية
+HFN-E-110fcd075b#5	OTHER_SENSE	-	-	-	-	-	UNSURE	غرو القيظ: غير واضح
+HFN-E-bda612fd73#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	انخفع الرجل - غشي عليه
+HFN-E-bda612fd73#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الغشي وقت مع الغداة
+HFN-E-bda612fd73#3	YES	محلّ	التزام	عاديّ	مطلق	عينه	SURE	مثل الغشي يجده في عينه
+HFN-E-bda612fd73#4	YES	محلّ	التزام	عاديّ	مطلق	امرأة	UNSURE	التي إذا جومعت غشي عليها
+HFN-E-bda612fd73#5	YES	محلّ	التزام	عاديّ	مطلق	الأركاح	SURE	ما غشي الأركاحا؛ الثلج فاعل
+HFN-E-b896c46efb#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	انخفع الرجل - غشي عليه
+HFN-E-b896c46efb#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الغشي وقت مع الغداة
+HFN-E-b896c46efb#3	YES	محلّ	التزام	عاديّ	مطلق	عينه	SURE	مثل الغشي يجده في عينه
+HFN-E-b896c46efb#4	YES	محلّ	التزام	عاديّ	مطلق	امرأة	UNSURE	التي إذا جومعت غشي عليها
+HFN-E-b896c46efb#5	YES	محلّ	التزام	عاديّ	مطلق	الأركاح	SURE	ما غشي الأركاحا؛ الثلج فاعل
+HFN-E-843ca2009b#1	YES	محلّ	التزام	عاديّ	مطلق	النبت	SURE	الطري الغض؛ غض بين الغضوضة
+HFN-E-843ca2009b#2	YES	محلّ	تضمّن	-	-	الطرف	SURE	الغض والغضاضة الفتور في الطرف
+HFN-E-843ca2009b#3	NO_DHAT	-	-	-	-	-	UNSURE	فعل الغضة؛ الغضاضة لا فعل لها
+HFN-E-843ca2009b#4	YES	محلّ	التزام	عاديّ	مطلق	الحثن	SURE	الغض من صفات الحثن
+HFN-E-843ca2009b#5	YES	محلّ	التزام	عاديّ	مطلق	درهما	UNSURE	لا أغضك منه درهما: أنقصك
+HFN-E-358b0fae2e#1	YES	محلّ	التزام	عاديّ	مطلق	الطلعة	UNSURE	انشقت الطلعة فخرجت بيضاء قيل غضة
+HFN-E-358b0fae2e#2	YES	محلّ	تضمّن	-	-	الطرف	SURE	غضضت طرفي؛ الفتور في الطرف
+HFN-E-358b0fae2e#3	YES	محلّ	التزام	عاديّ	مطلق	الحثن	SURE	الغض من صفات الحثن
+HFN-E-7e242ea542#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الغضى شجرة؛ أرض غضية
+HFN-E-7e242ea542#2	OTHER_SENSE	-	-	-	-	-	SURE	الغضى نبات
+HFN-E-7e242ea542#3	OTHER_SENSE	-	-	-	-	-	SURE	ذات الغضى: نبات
+HFN-E-7e242ea542#4	OTHER_SENSE	-	-	-	-	-	SURE	جمر الغضى: نبات
+HFN-E-7e242ea542#5	OTHER_SENSE	-	-	-	-	-	SURE	الغضى من نبات الرمل
+HFN-E-358b181523#1	YES	مكان	تضمّن	-	-	الماء	UNSURE	غفا غفوا طفا على الماء
+HFN-E-358b181523#2	OTHER_SENSE	-	-	-	-	-	SURE	غفا النبت رديئه
+HFN-E-358b181523#3	OTHER_SENSE	-	-	-	-	-	SURE	الغفا فساد في البسر
+HFN-E-a8680386cc#1	OTHER_SENSE	-	-	-	-	-	SURE	الغفى دقاق التبن
+HFN-E-a8680386cc#2	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	أغفى الرجل وغفى غفية نعس
+HFN-E-5ade77d60d#1	YES	محلّ	التزام	عاديّ	مطلق	إبله	UNSURE	الغليل العطش؛ أغل إبله
+HFN-E-5ade77d60d#2	OTHER_SENSE	-	-	-	-	-	SURE	الغليل العض: علف
+HFN-E-5ade77d60d#3	OTHER_SENSE	-	-	-	-	-	SURE	الغليل الوادي
+HFN-E-3ea5d299e5#1	YES	آلة	تضمّن	-	-	السهم	UNSURE	الغلوة بالسهم أن يرمي به
+HFN-E-3ea5d299e5#2	YES	محلّ	التزام	عاديّ	مطلق	النبت	SURE	اغلولى النبت؛ غلا فروع الأيهقان
+HFN-E-3ea5d299e5#3	NO_DHAT	-	-	-	-	-	SURE	غلا السعر يغلو غلاء
+HFN-E-3ea5d299e5#4	YES	محلّ	تضمّن	-	-	النبت	SURE	غلواء النبت حين يغلو أي يطول
+HFN-E-3ea5d299e5#5	OTHER_SENSE	-	-	-	-	-	SURE	وغل: كلمة أخرى
+HFN-E-ce120cdb64#1	YES	زمان	تضمّن	-	-	ليلة	UNSURE	ليلة غمى إذا كان على السماء غمي
+HFN-E-ce120cdb64#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	غمي عليه غشي؛ رجل غمي
+HFN-E-ce120cdb64#3	OTHER_SENSE	-	-	-	-	-	UNSURE	خروج من الغمى: معنى بعيد
+HFN-E-ce120cdb64#4	YES	محلّ	تضمّن	-	-	البيت	SURE	غما البيت غطاه بطين أو خشب
+HFN-E-ce120cdb64#5	YES	محلّ	التزام	عاديّ	مطلق	الخيل	UNSURE	قوابع في غمى عجاج
+HFN-E-935ceadb32#1	NO_DHAT	-	-	-	-	-	SURE	الغنى ضد الفقر
+HFN-E-935ceadb32#2	YES	مكان	تضمّن	-	-	الدار	SURE	غني القوم بالدار أقاموا بها
+HFN-E-935ceadb32#3	NO_DHAT	-	-	-	-	-	UNSURE	غني وأغنياء: تمثيل صرفي
+HFN-E-935ceadb32#4	NO_DHAT	-	-	-	-	-	SURE	كم من غني رأيت الفقر أدركه
+HFN-E-935ceadb32#5	YES	مصدر	التزام	عاديّ	مطلق	الإبل	UNSURE	مائة من الإبل فقالت غنى
+HFN-E-723e21dc36#1	OTHER_SENSE	-	-	-	-	-	UNSURE	بيت مصحّف غير مقروء
+HFN-E-723e21dc36#2	OTHER_SENSE	-	-	-	-	-	SURE	رماة الغوث: علم
+HFN-E-723e21dc36#3	NO_DHAT	-	-	-	-	-	SURE	غوث واستغاث؛ أغثته
+HFN-E-442592eec1#1	YES	محلّ	تضمّن	-	-	فرس	UNSURE	فرس غوج اللبان سهل المعطف
+HFN-E-442592eec1#2	YES	محلّ	تضمّن	-	-	فرس	UNSURE	فرس غوج عريض الصدر
+HFN-E-442592eec1#3	YES	محلّ	تضمّن	-	-	فرس	UNSURE	فرس غوج البان سهل المعطف
+HFN-E-442592eec1#4	YES	محلّ	تضمّن	-	-	بعير	UNSURE	بعير غوج واسع الصدر
+HFN-E-6513274622#1	YES	مكان	تضمّن	-	-	الغور	UNSURE	غرنا أخذنا في الغور
+HFN-E-6513274622#2	YES	محلّ	التزام	عاديّ	مطلق	غار	UNSURE	غار مستقنع غير ذي غور
+HFN-E-6513274622#3	YES	محلّ	تضمّن	-	-	الماء	SURE	غار الماء يغور ذهب في الأرض
+HFN-E-6513274622#4	OTHER_SENSE	-	-	-	-	-	SURE	بلاد الغور: علم مكان
+HFN-E-6513274622#5	OTHER_SENSE	-	-	-	-	-	SURE	غار الفم: اسم ذات
+HFN-E-628f4c90c0#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	غاص في الماء؛ رجل غائص
+HFN-E-628f4c90c0#2	YES	مكان	التزام	عاديّ	مطلق	الماء	UNSURE	القمس الغوص في الماء
+HFN-E-628f4c90c0#3	YES	فاعل	التزام	عاديّ	مطلق	غواص	UNSURE	غواص على اللؤلؤ فإذا غاص
+HFN-E-628f4c90c0#4	OTHER_SENSE	-	-	-	-	-	SURE	غاص بأهله: من غصص
+HFN-E-628f4c90c0#5	YES	محلّ	التزام	عاديّ	مطلق	خلخال	SURE	خلخال غامض قد غاص في الساق
+HFN-E-6db4d63a91#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الغوط الثريد؛ غوط لقم
+HFN-E-6db4d63a91#2	YES	مكان	التزام	عاديّ	مطلق	المتوضأ	UNSURE	سمي المتوضأ غائطا؛ غاط وتغوط
+HFN-E-6db4d63a91#3	YES	مكان	تضمّن	-	-	الأرض	UNSURE	كل ما انحدر في الأرض فقد غاط
+HFN-E-90a21386c8#1	OTHER_SENSE	-	-	-	-	-	SURE	الغول من الطلح: اسم ذات
+HFN-E-90a21386c8#2	YES	محلّ	تضمّن	-	-	الإنسان	SURE	الغول ما اغتال الإنسان فأهلكه
+HFN-E-90a21386c8#3	YES	مكان	التزام	عاديّ	مطلق	متيه	UNSURE	تمطت غول كل متيه
+HFN-E-90a21386c8#4	NO_DHAT	-	-	-	-	-	UNSURE	التخون والغول من السكر
+HFN-E-90a21386c8#5	YES	محلّ	التزام	عاديّ	مطلق	الرأس	UNSURE	الغول الصداع؛ وجع الرأس
+HFN-E-f7a483cf67#1	NO_DHAT	-	-	-	-	-	SURE	الغواية الضلال
+HFN-E-f7a483cf67#2	OTHER_SENSE	-	-	-	-	-	UNSURE	غوي الفصيل: معنى بعيد
+HFN-E-f7a483cf67#3	NO_DHAT	-	-	-	-	-	SURE	السريع إلى الشر والغواية
+HFN-E-f7a483cf67#4	NO_DHAT	-	-	-	-	-	SURE	الغواية اللجاج
+HFN-E-f7a483cf67#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الغوى السعر: غير واضح
+HFN-E-bec61c82a9#1	OTHER_SENSE	-	-	-	-	-	SURE	حريق غاب: الأجمة
+HFN-E-bec61c82a9#2	YES	محلّ	التزام	عاديّ	مطلق	جذموره	SURE	غاب في قعرتها جذموره
+HFN-E-bec61c82a9#3	NO_DHAT	-	-	-	-	-	SURE	ما غاب عنك خبر الرجل
+HFN-E-bec61c82a9#4	YES	محلّ	التزام	عاديّ	مطلق	الكوكب	SURE	الكوكب يأفل - غاب
+HFN-E-bec61c82a9#5	YES	محلّ	التزام	عاديّ	مطلق	غائصا	UNSURE	ورفيقه بالغيب ما يدري
+HFN-E-fa9cb016c5#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الغيث اسم للمطر لا حدث
+HFN-E-fa9cb016c5#2	OTHER_SENSE	-	-	-	-	-	UNSURE	غيث قطار: اسم للمطر
+HFN-E-fa9cb016c5#3	YES	فاعل	تضمّن	-	-	المطر	UNSURE	الغيث اسم للمطر؛ أرض مغيوثة
+HFN-E-fa9cb016c5#4	OTHER_SENSE	-	-	-	-	-	UNSURE	أمارات الغيث: عنوان، اسم
+HFN-E-fa9cb016c5#5	OTHER_SENSE	-	-	-	-	-	UNSURE	كحل الغيث: اسم
+HFN-E-33bb1e880e#1	YES	محلّ	تضمّن	-	-	العنق	UNSURE	الأغيد المائل العنق؛ غيد غيدا
+HFN-E-33bb1e880e#2	YES	محلّ	التزام	عاديّ	مطلق	أراك	UNSURE	غاد صريمها من الغيد التثني
+HFN-E-64ee031a0e#1	NO_DHAT	-	-	-	-	-	UNSURE	الغيرة في العنوان فقط
+HFN-E-64ee031a0e#2	YES	محلّ	التزام	عاديّ	مطلق	أهله	UNSURE	القليل الغيرة على أهله
+HFN-E-64ee031a0e#3	YES	فاعل	التزام	عاديّ	مطلق	الغيث	UNSURE	غارها الغيث يغورها والاسم الغيرة
+HFN-E-64ee031a0e#4	OTHER_SENSE	-	-	-	-	-	SURE	غار الفم
+HFN-E-64ee031a0e#5	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل طزع لا غيرة عنده
+HFN-E-fedb937afd#1	YES	محلّ	تضمّن	-	-	الماء	SURE	غاض الماء يغيض غيضا نقص
+HFN-E-fedb937afd#2	OTHER_SENSE	-	-	-	-	-	UNSURE	ليل غاض: من غضا
+HFN-E-fedb937afd#3	OTHER_SENSE	-	-	-	-	-	UNSURE	ليل غاض: من غضا
+HFN-E-fedb937afd#4	OTHER_SENSE	-	-	-	-	-	SURE	بعير غاض يلزم الغضى
+HFN-E-fedb937afd#5	OTHER_SENSE	-	-	-	-	-	SURE	بعير غاض يأكل الغضى
+HFN-E-f549991677#1	NO_DHAT	-	-	-	-	-	SURE	الغيظ أشد من الغضب
+HFN-E-f549991677#2	NO_DHAT	-	-	-	-	-	SURE	السكوت على هم وغيظ
+HFN-E-f549991677#3	YES	مكان	التزام	عاديّ	مطلق	صدره	UNSURE	يجده الإنسان في صدره من حرارة غيظ
+HFN-E-f549991677#4	YES	محلّ	التزام	عاديّ	مطلق	صدره	UNSURE	أوغر صدره أحماه من الغيظ
+HFN-E-f549991677#5	YES	محلّ	التزام	عاديّ	مطلق	الإنسان	SURE	حرق الإنسان نابيه من غيظ
+HFN-E-b9f15bc635#1	OTHER_SENSE	-	-	-	-	-	SURE	الغيل جماعة القصب
+HFN-E-b9f15bc635#2	OTHER_SENSE	-	-	-	-	-	SURE	الغيل الماء الظاهر الجاري
+HFN-E-b9f15bc635#3	OTHER_SENSE	-	-	-	-	-	SURE	الغال والغلان: اسم ذات
+HFN-E-b9f15bc635#4	YES	فاعل	تضمّن	-	-	امرأة	UNSURE	امرأة مغيل إذا سقت ولدها الغيل
+HFN-E-b9f15bc635#5	OTHER_SENSE	-	-	-	-	-	UNSURE	اغتال الغلام تحلم؛ ساعد غيل
+HFN-E-5f3eff9ae8#1	YES	محلّ	التزام	عاديّ	مطلق	السماء	SURE	غامت السماء وأغامت
+HFN-E-5f3eff9ae8#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الغيم اسم للسحاب
+HFN-E-5f3eff9ae8#3	OTHER_SENSE	-	-	-	-	-	UNSURE	ذهاب الغيم: اسم
+HFN-E-5f3eff9ae8#4	OTHER_SENSE	-	-	-	-	-	SURE	الطخر غيم رقيق
+HFN-E-5f3eff9ae8#5	NO_DHAT	-	-	-	-	-	UNSURE	الغيم العطش؛ أفاق غيمها
+HFN-E-7d073ef770#1	OTHER_SENSE	-	-	-	-	-	SURE	الغين حرف
+HFN-E-7d073ef770#2	NO_DHAT	-	-	-	-	-	UNSURE	الغين العطش؛ غام وغان
+HFN-E-7d073ef770#3	OTHER_SENSE	-	-	-	-	-	SURE	بالعين والغين: حرف
+HFN-E-7d073ef770#4	OTHER_SENSE	-	-	-	-	-	SURE	بالغين معجمة: حرف
+HFN-E-7d073ef770#5	OTHER_SENSE	-	-	-	-	-	SURE	بالغين معجمة: حرف
+HFN-E-2c16cfd7a1#1	YES	محلّ	تضمّن	-	-	التراب	UNSURE	خجا - نسف بها التراب
+HFN-E-629ef272cc#1	OTHER_SENSE	-	-	-	-	-	SURE	فاد يفود: الموت، جذر آخر
+HFN-E-629ef272cc#2	OTHER_SENSE	-	-	-	-	-	SURE	فاد يفيد: التبختر، جذر آخر
+HFN-E-629ef272cc#3	OTHER_SENSE	-	-	-	-	-	SURE	حتى فاد: مات
+HFN-E-d7a68d6547#1	OTHER_SENSE	-	-	-	-	-	SURE	الفأر اسم حيوان
+HFN-E-d7a68d6547#2	OTHER_SENSE	-	-	-	-	-	SURE	فار فورانا: جذر فور
+HFN-E-d7a68d6547#3	OTHER_SENSE	-	-	-	-	-	UNSURE	غرثان فار بكواله: غير واضح
+HFN-E-d7a68d6547#4	OTHER_SENSE	-	-	-	-	-	SURE	فار العرق: جذر فور
+HFN-E-d7a68d6547#5	OTHER_SENSE	-	-	-	-	-	SURE	ما فار من رغوة القدر
+HFN-E-9db42e6dde#1	OTHER_SENSE	-	-	-	-	-	SURE	الفأس أداة: اسم ذات
+HFN-E-9db42e6dde#2	OTHER_SENSE	-	-	-	-	-	SURE	الفأس أداة: اسم ذات
+HFN-E-9db42e6dde#3	OTHER_SENSE	-	-	-	-	-	SURE	رأس الفأس: اسم ذات
+HFN-E-9db42e6dde#4	OTHER_SENSE	-	-	-	-	-	SURE	رأس فأس: اسم ذات
+HFN-E-9db42e6dde#5	OTHER_SENSE	-	-	-	-	-	SURE	بالفأس: اسم ذات
+HFN-E-aefab71483#1	OTHER_SENSE	-	-	-	-	-	SURE	الفأو بطن من الأرض
+HFN-E-aefab71483#2	YES	محلّ	التزام	عاديّ	مطلق	أعناقها	UNSURE	انفأى عن أعناقها؛ الفأو ما بين الجبلين
+HFN-E-0441f406ac#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الفتى كالشاب: اسم ذات
+HFN-E-0441f406ac#2	YES	محلّ	التزام	عاديّ	مطلق	البقر	UNSURE	الأرخ فتي البقر
+HFN-E-0441f406ac#3	OTHER_SENSE	-	-	-	-	-	UNSURE	شهر فتى: معنى غير واضح
+HFN-E-0441f406ac#4	YES	زمان	التزام	عاديّ	مطلق	عام الماء	UNSURE	من يكن فتى قبل عام الماء
+HFN-E-0441f406ac#5	YES	محلّ	التزام	عاديّ	مطلق	الناس	UNSURE	الفتي من الناس
+HFN-E-9d38cc0fea#1	OTHER_SENSE	-	-	-	-	-	SURE	الفجا تباعد الفخذين: من فجو
+HFN-E-9d38cc0fea#2	OTHER_SENSE	-	-	-	-	-	SURE	الفجا الفحج: من فجو
+HFN-E-9d38cc0fea#3	OTHER_SENSE	-	-	-	-	-	SURE	فج فججا: جذر فجج
+HFN-E-9d38cc0fea#4	OTHER_SENSE	-	-	-	-	-	SURE	فججتها؛ الفجواء: جذر آخر
+HFN-E-9d38cc0fea#5	OTHER_SENSE	-	-	-	-	-	SURE	فجيت الناقة: من فجو
+HFN-E-418530c979#1	NO_DHAT	-	-	-	-	-	SURE	فجأته إذا لقيته وهو لا يشعر
+HFN-E-418530c979#2	OTHER_SENSE	-	-	-	-	-	SURE	الفجا تباعد الفخذين: من فجو
+HFN-E-418530c979#3	OTHER_SENSE	-	-	-	-	-	SURE	الفجا الفحج: من فجو
+HFN-E-418530c979#4	OTHER_SENSE	-	-	-	-	-	SURE	فج فججا: جذر فجج
+HFN-E-418530c979#5	OTHER_SENSE	-	-	-	-	-	SURE	فججتها: جذر آخر

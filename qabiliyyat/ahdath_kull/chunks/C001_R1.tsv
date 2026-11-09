@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-49eb0e1936#1	NO_DHAT	-	-	-	-	-	UNSURE	«والصفة خدب» كلام نحويّ
+HFN-E-49eb0e1936#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	«رجل خدب ... إذا كان أحمق»
+HFN-E-49eb0e1936#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«والخدب: الشيخ» اسم
+HFN-E-49eb0e1936#4	NO_DHAT	-	-	-	-	-	SURE	«والخدب والخدبة، الطول»
+HFN-E-49eb0e1936#5	NO_DHAT	-	-	-	-	-	UNSURE	«خدب ولع ... كذب»
+HFN-E-8cd91fea44#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«الكراض ماء الفحل ... الخداج» اسم
+HFN-E-8cd91fea44#2	YES	محلّ	التزام	عاديّ	مطلق	شاة	UNSURE	«شاة خدوج ... وقد خدجت»؛ الولد في الحدّ
+HFN-E-8cd91fea44#3	OTHER_SENSE	-	-	-	-	-	SURE	«خدج وخدج زجر للغنم»
+HFN-E-8cd91fea44#4	YES	محلّ	التزام	عاديّ	مطلق	المرأة	SURE	«خدجت المرأة والناقة»
+HFN-E-27bed1e8da#1	YES	محلّ	تضمّن	-	-	الأعضاء	SURE	«الخدر - فتور يغشى الأعضاء»
+HFN-E-27bed1e8da#2	YES	محلّ	تضمّن	-	-	المطر	UNSURE	«الخدر البرد مع المطر»؛ «خدر البرد»
+HFN-E-27bed1e8da#3	YES	فاعل	التزام	عاديّ	مطلق	المطر	UNSURE	«الخدر المطر لأنه يخدرهم في بيوتهم»
+HFN-E-27bed1e8da#4	YES	فاعل	التزام	عاديّ	مطلق	الأسد	SURE	«خدر الأسد ... لزم خدره»
+HFN-E-27bed1e8da#5	YES	زمان	التزام	عاديّ	مطلق	الليل	UNSURE	«وقد خدر الليل خدرا»
+HFN-E-58aa10aaaf#1	YES	محلّ	تضمّن	-	-	الأصابع	SURE	«في الأصابع الفتخ، وهو استرخاء المفاصل»؛ «فتخت يده»
+HFN-E-58aa10aaaf#2	YES	محلّ	تضمّن	-	-	مأبض الذراع	SURE	«الفتخ في مأبض الذراع، وهو لين المفاصل»
+HFN-E-58aa10aaaf#3	OTHER_SENSE	-	-	-	-	-	SURE	«الفتخ - خواتيم النساء»
+HFN-E-58aa10aaaf#4	YES	محلّ	تضمّن	-	-	عقاب	UNSURE	«عقاب فتخاء للين جناحيها»؛ رجل أفتخ
+HFN-E-58aa10aaaf#5	YES	محلّ	تضمّن	-	-	القدم	SURE	«الفتخ عرض القدم وطولها»
+HFN-E-59acd893b0#1	OTHER_SENSE	-	-	-	-	-	SURE	«الفتر، ما بين طرف الإبهام» مقدار
+HFN-E-59acd893b0#2	YES	محلّ	التزام	عاديّ	مطلق	الحر	UNSURE	«أغمزني الحر أي فتر»
+HFN-E-59acd893b0#3	YES	محلّ	التزام	عاديّ	مطلق	الشيخ	SURE	«الشيخ إذا فتر عن النكاح»
+HFN-E-59acd893b0#4	OTHER_SENSE	-	-	-	-	-	SURE	«الورب - العضو ... الفتر» اسم
+HFN-E-59acd893b0#5	YES	محلّ	تضمّن	-	-	جسم	SURE	«فتر جسمه فتورا - لانت مفاصله»
+HFN-E-7995c43d86#1	YES	فاعل	التزام	عاديّ	مطلق	امرأة	UNSURE	«الفتق - التي تفتق في الأمور»
+HFN-E-7995c43d86#2	YES	زمان	تضمّن	-	-	عام	UNSURE	«عام الفتق - إذا كان مشهورا بالخصب»
+HFN-E-7995c43d86#3	YES	محلّ	التزام	عاديّ	مطلق	الكافور	SURE	«فتق الكافور بالمسك»؛ المسك آلة
+HFN-E-7995c43d86#4	YES	محلّ	التزام	عاديّ	مطلق	أبنيتهم	UNSURE	«مواضع الفتوق في أبنيتهم»؛ الخلال آلة
+HFN-E-7995c43d86#5	YES	محلّ	التزام	عاديّ	مطلق	السموات	UNSURE	«ففتقناهما ... كانت السموات»
+HFN-E-0bdb5c63b4#1	YES	فاعل	التزام	عاديّ	مطلق	امرأة	UNSURE	«الفتق - التي تفتق في الأمور»
+HFN-E-0bdb5c63b4#2	YES	زمان	تضمّن	-	-	عام	UNSURE	«عام الفتق - إذا كان مشهورا بالخصب»
+HFN-E-0bdb5c63b4#3	YES	محلّ	التزام	عاديّ	مطلق	الكافور	SURE	«فتق الكافور بالمسك»؛ المسك آلة
+HFN-E-0bdb5c63b4#4	YES	محلّ	التزام	عاديّ	مطلق	السموات	UNSURE	«ففتقناهما ... كانت السموات»
+HFN-E-0bdb5c63b4#5	YES	محلّ	تضمّن	-	-	العصا	UNSURE	«الفتق - انشقاق العصا»
+HFN-E-51e578400a#1	OTHER_SENSE	-	-	-	-	-	SURE	«الفجر أول ضوء» اسم وقت
+HFN-E-51e578400a#2	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	«فجر يفجر فجورا ورجل فاجر»
+HFN-E-51e578400a#3	YES	فاعل	التزام	عاديّ	مطلق	الفاجرة	UNSURE	«أتاها ليلا للفجور»
+HFN-E-51e578400a#4	OTHER_SENSE	-	-	-	-	-	SURE	«أوديك إلى الفجر»
+HFN-E-51e578400a#5	OTHER_SENSE	-	-	-	-	-	SURE	«يبقى إلى قبيل الفجر»
+HFN-E-217907ffcc#1	NO_DHAT	-	-	-	-	-	SURE	«فجس يفجس فجسا وتفجس - تكبر»
+HFN-E-fbf268b04f#1	OTHER_SENSE	-	-	-	-	-	SURE	«الفجل» نبات
+HFN-E-fbf268b04f#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	«رجل أفجل - متباعد ما بين الرجلين»
+HFN-E-7db5434ff7#1	YES	محلّ	تضمّن	-	-	جلد	SURE	«خدش جلده خدشا - مزقه»
+HFN-E-7db5434ff7#2	YES	فاعل	التزام	عاديّ	مطلق	جرو	UNSURE	«جرو ... قد تحرك وخدش»
+HFN-E-e1aec99257#1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	«الفحج في الرجل كالفلج في اليد»
+HFN-E-e1aec99257#2	YES	محلّ	تضمّن	-	-	الفخذين	SURE	«في الفخذين الفحج وهو تباعد ما بينهما»
+HFN-E-e1aec99257#3	YES	محلّ	التزام	عاديّ	مطلق	الفخذ	UNSURE	«فحجاء وقد تقدم في الفخذ»
+HFN-E-e1aec99257#4	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	«الرجل يمشي هذه المشية من فحج»
+HFN-E-97a8de1a3d#1	OTHER_SENSE	-	-	-	-	-	SURE	«الفحم - الجمر الطافئ» اسم
+HFN-E-97a8de1a3d#2	YES	محلّ	تضمّن	-	-	الصبي	SURE	«فحم الصبي: إذا بكى حتى ينقطع صوته»
+HFN-E-97a8de1a3d#3	YES	محلّ	التزام	عاديّ	مطلق	شعر	UNSURE	«وقد فحم فحوما ... شعر فحيم»
+HFN-E-97a8de1a3d#4	YES	محلّ	تضمّن	-	-	الصبي	UNSURE	«فحم الصبي إذا بكى حتى يتقطع صوته»
+HFN-E-97a8de1a3d#5	NO_DHAT	-	-	-	-	-	UNSURE	«إذا كان صوته بحوحة قيل فحم» مرجع غير مذكور
+HFN-E-198f4226ae#1	OTHER_SENSE	-	-	-	-	-	SURE	«الفحم - الجمر الطافئ» اسم
+HFN-E-198f4226ae#2	YES	محلّ	تضمّن	-	-	الصبي	SURE	«فحم الصبي: إذا بكى حتى ينقطع صوته»
+HFN-E-198f4226ae#3	YES	محلّ	التزام	عاديّ	مطلق	شعر	UNSURE	«وقد فحم فحوما ... شعر فحيم»
+HFN-E-198f4226ae#4	YES	محلّ	تضمّن	-	-	الصبي	UNSURE	«فحم الصبي إذا بكى حتى يتقطع صوته»
+HFN-E-198f4226ae#5	NO_DHAT	-	-	-	-	-	UNSURE	«إذا كان صوته بحوحة قيل فحم» مرجع غير مذكور
+HFN-E-219dbaeafa#1	YES	محلّ	تضمّن	-	-	فخذ	SURE	«المصدر الفخج وهو ما يكون في إحدى الفخذين»
+HFN-E-a3b8f45f5c#1	NO_DHAT	-	-	-	-	-	SURE	«الفخر - التمدح بالخصال»
+HFN-E-a3b8f45f5c#2	NO_DHAT	-	-	-	-	-	SURE	«وعند الفخر زحارا أنانا»
+HFN-E-a3b8f45f5c#3	OTHER_SENSE	-	-	-	-	-	SURE	«فخر وريشه» من خرّ
+HFN-E-a3b8f45f5c#4	YES	محلّ	تضمّن	-	-	عشب	SURE	«عشب فاخر - إذا طال»
+HFN-E-a3b8f45f5c#5	NO_DHAT	-	-	-	-	-	UNSURE	«ويل أبيك والفخر» شاهد نحويّ
+HFN-E-f044a6d014#1	NO_DHAT	-	-	-	-	-	SURE	«الفخر - التمدح بالخصال»
+HFN-E-f044a6d014#2	NO_DHAT	-	-	-	-	-	SURE	«وعند الفخر زحارا أنانا»
+HFN-E-f044a6d014#3	OTHER_SENSE	-	-	-	-	-	SURE	«فخر وريشه» من خرّ
+HFN-E-f044a6d014#4	YES	محلّ	تضمّن	-	-	عشب	SURE	«عشب فاخر - إذا طال»
+HFN-E-f044a6d014#5	NO_DHAT	-	-	-	-	-	UNSURE	«ويل أبيك والفخر» شاهد نحويّ
+HFN-E-2b0177663f#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«الفدر والفدم - الأحمق» صفة اسميّة
+HFN-E-2b0177663f#2	YES	محلّ	التزام	عاديّ	مطلق	الإناث	UNSURE	«فدر يفدر فدورا» الفحل غير مذكور
+HFN-E-2b0177663f#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«حلبت منه فدر» قطع سحاب
+HFN-E-48ea878b6a#1	OTHER_SENSE	-	-	-	-	-	SURE	«وفرت الثوب» من وفر
+HFN-E-48ea878b6a#2	OTHER_SENSE	-	-	-	-	-	SURE	«وفرت» من فرّ
+HFN-E-48ea878b6a#3	OTHER_SENSE	-	-	-	-	-	SURE	«فرت من قسورة» من فرّ
+HFN-E-f444eb667a#1	OTHER_SENSE	-	-	-	-	-	SURE	«وفرت الثوب» من وفر
+HFN-E-f444eb667a#2	OTHER_SENSE	-	-	-	-	-	SURE	«وفرت» من فرّ
+HFN-E-f444eb667a#3	OTHER_SENSE	-	-	-	-	-	SURE	«فرت من قسورة» من فرّ
+HFN-E-46b1a75d70#1	OTHER_SENSE	-	-	-	-	-	SURE	«وفرت الثوب» من وفر
+HFN-E-46b1a75d70#2	OTHER_SENSE	-	-	-	-	-	SURE	«وفرت» من فرّ
+HFN-E-46b1a75d70#3	OTHER_SENSE	-	-	-	-	-	SURE	«فرت من قسورة» من فرّ
+HFN-E-2d4862c08a#1	OTHER_SENSE	-	-	-	-	-	SURE	«علقى ... أو فرث» اسم
+HFN-E-2d4862c08a#2	YES	محلّ	التزام	عاديّ	مطلق	الكرش	UNSURE	«سرقين الكرش وقد فرثتها عنه»
+HFN-E-2d4862c08a#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«فيها الفرث» اسم
+HFN-E-2d4862c08a#4	OTHER_SENSE	-	-	-	-	-	SURE	«وفرث الشاة» اسم
+HFN-E-2d4862c08a#5	OTHER_SENSE	-	-	-	-	-	SURE	«رجيع الفرث» اسم
+HFN-E-9924d0ddd7#1	OTHER_SENSE	-	-	-	-	-	SURE	«علقى ... أو فرث» اسم
+HFN-E-9924d0ddd7#2	YES	محلّ	التزام	عاديّ	مطلق	الكرش	UNSURE	«سرقين الكرش وقد فرثتها عنه»
+HFN-E-9924d0ddd7#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«فيها الفرث» اسم
+HFN-E-9924d0ddd7#4	OTHER_SENSE	-	-	-	-	-	SURE	«وفرث الشاة» اسم
+HFN-E-9924d0ddd7#5	OTHER_SENSE	-	-	-	-	-	SURE	«رجيع الفرث» اسم
+HFN-E-851974b5a7#1	OTHER_SENSE	-	-	-	-	-	SURE	«علقى ... أو فرث» اسم
+HFN-E-851974b5a7#2	YES	محلّ	التزام	عاديّ	مطلق	الكرش	UNSURE	«سرقين الكرش وقد فرثتها عنه»
+HFN-E-851974b5a7#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«فيها الفرث» اسم
+HFN-E-851974b5a7#4	OTHER_SENSE	-	-	-	-	-	SURE	«وفرث الشاة» اسم
+HFN-E-851974b5a7#5	OTHER_SENSE	-	-	-	-	-	SURE	«رجيع الفرث» اسم
+HFN-E-3c2b3adad7#1	OTHER_SENSE	-	-	-	-	-	SURE	«فرج المرأة» عضو
+HFN-E-3c2b3adad7#2	OTHER_SENSE	-	-	-	-	-	SURE	«الصغيرة الفرج» عضو
+HFN-E-3c2b3adad7#3	OTHER_SENSE	-	-	-	-	-	SURE	«فوق الفرج» عضو
+HFN-E-3c2b3adad7#4	OTHER_SENSE	-	-	-	-	-	SURE	«صفات الفرج» عضو
+HFN-E-3c2b3adad7#5	NO_DHAT	-	-	-	-	-	UNSURE	«الفرجة - الراحة من حزن»؛ الفرج الخلل
+HFN-E-63117b2aad#1	OTHER_SENSE	-	-	-	-	-	SURE	«فرج المرأة» عضو
+HFN-E-63117b2aad#2	OTHER_SENSE	-	-	-	-	-	SURE	«الصغيرة الفرج» عضو
+HFN-E-63117b2aad#3	OTHER_SENSE	-	-	-	-	-	SURE	«فوق الفرج» عضو
+HFN-E-63117b2aad#4	OTHER_SENSE	-	-	-	-	-	SURE	«صفات الفرج» عضو
+HFN-E-63117b2aad#5	NO_DHAT	-	-	-	-	-	UNSURE	«الفرجة - الراحة من حزن»؛ الفرج الخلل
+HFN-E-90a71b9bbe#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	«الفرح: نقيض الحزن ... رجل فرح»
+HFN-E-90a71b9bbe#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«من غير وجع ولا فرح» لعلّه قرح
+HFN-E-90a71b9bbe#3	NO_DHAT	-	-	-	-	-	UNSURE	«الصوت عند الجزع أو الفرح»
+HFN-E-90a71b9bbe#4	YES	محلّ	التزام	عاديّ	مطلق	النساء	UNSURE	«النساء يجتمعن للحزن والفرح»
+HFN-E-90a71b9bbe#5	YES	زمان	التزام	عاديّ	مطلق	يوم	UNSURE	«يوم أرونان: إذا بلغ الغاية في فرح»
+HFN-E-d2e589cad9#1	OTHER_SENSE	-	-	-	-	-	SURE	«الفرخ منها» اسم
+HFN-E-d2e589cad9#2	OTHER_SENSE	-	-	-	-	-	SURE	«فرخ الطائر وهو الفرخ» اسم
+HFN-E-d2e589cad9#3	OTHER_SENSE	-	-	-	-	-	SURE	«قاض الفرخ» اسم
+HFN-E-d2e589cad9#4	OTHER_SENSE	-	-	-	-	-	SURE	«الدماغ يسمى الفرخ» اسم
+HFN-E-d2e589cad9#5	OTHER_SENSE	-	-	-	-	-	SURE	«حمم الفرخ» اسم
+HFN-E-fbf223f3ae#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	«رجل فرد وفرد» في باب الزوال
+HFN-E-fbf223f3ae#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«لعبا بالزوج والفرد» اسم
+HFN-E-fbf223f3ae#3	OTHER_SENSE	-	-	-	-	-	SURE	«فرد الألف» من ردّ
+HFN-E-fbf223f3ae#4	OTHER_SENSE	-	-	-	-	-	SURE	«فرد الرواية» من ردّ
+HFN-E-fbf223f3ae#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«كالفرد اللياح» اسم للثور
+HFN-E-156a900d59#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	«رجل فرد وفرد» في باب الزوال
+HFN-E-156a900d59#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«لعبا بالزوج والفرد» اسم
+HFN-E-156a900d59#3	OTHER_SENSE	-	-	-	-	-	SURE	«فرد الألف» من ردّ
+HFN-E-156a900d59#4	OTHER_SENSE	-	-	-	-	-	SURE	«فرد الرواية» من ردّ
+HFN-E-156a900d59#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«كالفرد اللياح» اسم للثور
+HFN-E-3a01d31712#1	NO_DHAT	-	-	-	-	-	UNSURE	«فرز له من ماله شيئا - أعطاه»
+HFN-E-3a01d31712#2	OTHER_SENSE	-	-	-	-	-	SURE	«وكان للفرز بنون» علم
+HFN-E-a5de336213#1	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-a5de336213#2	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-a5de336213#3	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-a5de336213#4	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-a5de336213#5	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-e350ae7315#1	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-e350ae7315#2	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-e350ae7315#3	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-e350ae7315#4	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-e350ae7315#5	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-cce088babb#1	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-cce088babb#2	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-cce088babb#3	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-cce088babb#4	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-cce088babb#5	OTHER_SENSE	-	-	-	-	-	SURE	«فرس» اسم الحيوان
+HFN-E-2b4b87775d#1	YES	محلّ	التزام	عاديّ	مطلق	الحقلة	UNSURE	«فإذا انبسط فقد فرش» في الزرع
+HFN-E-2b4b87775d#2	OTHER_SENSE	-	-	-	-	-	SURE	«البسط والنمارق والفرش» اسم
+HFN-E-2b4b87775d#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«الفرش - الجارية التي يفترشها الرجل»
+HFN-E-2b4b87775d#4	OTHER_SENSE	-	-	-	-	-	SURE	«الفرش من الشجر والحطب - الدق الصغار»
+HFN-E-2b4b87775d#5	YES	محلّ	تضمّن	-	-	العرفط	UNSURE	«الفرش من العرفط ... وهو أن ينبت في أرض مستوية»
+HFN-E-6d9be860ca#1	YES	محلّ	التزام	عاديّ	مطلق	الحقلة	UNSURE	«فإذا انبسط فقد فرش» في الزرع
+HFN-E-6d9be860ca#2	OTHER_SENSE	-	-	-	-	-	SURE	«البسط والنمارق والفرش» اسم
+HFN-E-6d9be860ca#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«الفرش - الجارية التي يفترشها الرجل»
+HFN-E-6d9be860ca#4	OTHER_SENSE	-	-	-	-	-	SURE	«الفرش من الشجر والحطب - الدق الصغار»
+HFN-E-6d9be860ca#5	YES	محلّ	تضمّن	-	-	العرفط	UNSURE	«الفرش من العرفط ... وهو أن ينبت في أرض مستوية»
+HFN-E-2130aeef50#1	YES	محلّ	تضمّن	-	-	الفريصة	SURE	«فرصته أفرصه فرصا، أصبت فريصته»
+HFN-E-2130aeef50#2	YES	آلة	التزام	عاديّ	مطلق	المفراص	UNSURE	«المفراص - حديدة ... والفرص - القطع»
+HFN-E-2130aeef50#3	NO_DHAT	-	-	-	-	-	SURE	«الفرصة: النهزة ... فرصتها: أصبتها»
+HFN-E-04e74d6c2a#1	YES	محلّ	تضمّن	-	-	الفريصة	SURE	«فرصته أفرصه فرصا، أصبت فريصته»
+HFN-E-04e74d6c2a#2	YES	آلة	التزام	عاديّ	مطلق	المفراص	UNSURE	«المفراص - حديدة ... والفرص - القطع»
+HFN-E-04e74d6c2a#3	NO_DHAT	-	-	-	-	-	SURE	«الفرصة: النهزة ... فرصتها: أصبتها»
+HFN-E-5c4b2159cf#1	YES	محلّ	تضمّن	-	-	العود	SURE	«الفرض - الثقب والحز في العود ... عود مفروض»
+HFN-E-5c4b2159cf#2	NO_DHAT	-	-	-	-	-	UNSURE	«بعده الفرض أخذوا» في المواريث
+HFN-E-5c4b2159cf#3	YES	محلّ	التزام	عاديّ	مطلق	المسواك	UNSURE	«الحز في المسواك والعظم ... للفرض فيه»
+HFN-E-5c4b2159cf#4	YES	محلّ	التزام	عاديّ	مطلق	عويد	UNSURE	«بعويد فيه فرض»
+HFN-E-5c4b2159cf#5	YES	محلّ	التزام	عاديّ	مطلق	السية	UNSURE	«في السية الكظر وهو الفرض الذي فيه الوتر»
+HFN-E-78c81932e3#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«الفرط - الحين بعد الحين»
+HFN-E-78c81932e3#2	OTHER_SENSE	-	-	-	-	-	SURE	«فرط الولد صغارهم» اسم
+HFN-E-78c81932e3#3	OTHER_SENSE	-	-	-	-	-	SURE	«أفراط الصباح ... الواحد فرط» اسم
+HFN-E-78c81932e3#4	OTHER_SENSE	-	-	-	-	-	SURE	«الفرط - الجبل الصغير» اسم
+HFN-E-78c81932e3#5	NO_DHAT	-	-	-	-	-	SURE	«فرط عليه يفرط - عجل عليه وآذاه»
+HFN-E-df6dbb7880#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«الفرع الشعر الكثير» اسم
+HFN-E-df6dbb7880#2	OTHER_SENSE	-	-	-	-	-	SURE	«فرع النبع» غصن
+HFN-E-df6dbb7880#3	OTHER_SENSE	-	-	-	-	-	SURE	«الفرع أول ما ينتج من الإبل» اسم
+HFN-E-df6dbb7880#4	YES	محلّ	تضمّن	-	-	جبل	SURE	«جبل فارع - إذا كان أطول مما يليه»
+HFN-E-df6dbb7880#5	OTHER_SENSE	-	-	-	-	-	SURE	«تحت الفرع» عضو
+HFN-E-cb14f56fd7#1	YES	محلّ	تضمّن	-	-	رجل	SURE	«رجل أفرع تام الشعر ... بينة الفرع»
+HFN-E-cb14f56fd7#2	OTHER_SENSE	-	-	-	-	-	SURE	«فرع النبع» غصن
+HFN-E-cb14f56fd7#3	OTHER_SENSE	-	-	-	-	-	SURE	«الفرع أول ما ينتج من الإبل» اسم
+HFN-E-cb14f56fd7#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«جبل فارع» من العلوّ معنى بعيد
+HFN-E-cb14f56fd7#5	OTHER_SENSE	-	-	-	-	-	SURE	«تحت الفرع» عضو
+HFN-E-70d1f0832d#1	OTHER_SENSE	-	-	-	-	-	SURE	«الفرغ المقدم» نوء
+HFN-E-70d1f0832d#2	NO_DHAT	-	-	-	-	-	SURE	«خلا لك الشيء وأخلى - فرغ»
+HFN-E-70d1f0832d#3	OTHER_SENSE	-	-	-	-	-	SURE	«الفرغ مخرج الماء» اسم
+HFN-E-70d1f0832d#4	YES	محلّ	تضمّن	-	-	القوس	UNSURE	«الفراغ القوس البعيدة موقع السهم»
+HFN-E-70d1f0832d#5	OTHER_SENSE	-	-	-	-	-	SURE	«الفرغ الأول» منزلة
+HFN-E-85faaf249b#1	OTHER_SENSE	-	-	-	-	-	SURE	«الفرغ المقدم» نوء
+HFN-E-85faaf249b#2	YES	محلّ	تضمّن	-	-	القوس	UNSURE	«الفراغ القوس البعيدة موقع السهم»
+HFN-E-85faaf249b#3	NO_DHAT	-	-	-	-	-	SURE	«خلا لك الشيء وأخلى - فرغ»
+HFN-E-85faaf249b#4	OTHER_SENSE	-	-	-	-	-	SURE	«الفرغ مخرج الماء» اسم
+HFN-E-85faaf249b#5	YES	محلّ	تضمّن	-	-	الضرع	UNSURE	«الفراغ الصفي الواسعة جلد الضرع»
+HFN-E-295e66d076#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«الفزع - الفرق من الشيء» خوف
+HFN-E-295e66d076#2	OTHER_SENSE	-	-	-	-	-	SURE	«الفرق من الناس» جماعات
+HFN-E-295e66d076#3	YES	محلّ	التزام	عاديّ	مطلق	الشفة	UNSURE	«الفرق الذي في وسط الشفة العليا»
+HFN-E-295e66d076#4	YES	محلّ	التزام	عاديّ	مطلق	الرأس	SURE	«مجرى فرق الرأس»
+HFN-E-295e66d076#5	YES	محلّ	تضمّن	-	-	الأسنان	UNSURE	«في الأسنان الفرق، وهو تباعد ما بين رأسي الثنيتين»
+HFN-E-f45096b7aa#1	NO_DHAT	-	-	-	-	-	SURE	«الفزع - الفرق من الشيء»
+HFN-E-f45096b7aa#2	OTHER_SENSE	-	-	-	-	-	SURE	«الفرق من الناس» جماعات
+HFN-E-f45096b7aa#3	YES	محلّ	التزام	عاديّ	مطلق	الشفة	UNSURE	«الفرق الذي في وسط الشفة العليا»
+HFN-E-f45096b7aa#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«مجرى فرق الرأس» معنى بعيد
+HFN-E-f45096b7aa#5	YES	محلّ	تضمّن	-	-	الأسنان	SURE	«في الأسنان الفرق، وهو تباعد ما بين رأسي الثنيتين»
+HFN-E-073464bde9#1	YES	محلّ	تضمّن	-	-	لوز	SURE	«لوز منفرك وفرك - يتفرك في اليد»
+HFN-E-073464bde9#2	YES	محلّ	تضمّن	-	-	الأذن	SURE	«الفرك، استرخاء في أصل الأذن»
+HFN-E-073464bde9#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«بين فرك وعشق» بغض
+HFN-E-073464bde9#4	NO_DHAT	-	-	-	-	-	UNSURE	«مصدران لفرك» كلام صرفيّ
+HFN-E-073464bde9#5	YES	مصدر	التزام	عاديّ	مطلق	الثوب	UNSURE	«حتت الشيء عن الثوب ... فركته»
+HFN-E-5d710db53f#1	NO_DHAT	-	-	-	-	-	SURE	«فره فراهة - عتق فهو فاره»
+HFN-E-5d710db53f#2	NO_DHAT	-	-	-	-	-	SURE	«فره فرها وهو فره وفاره - أشر»
+HFN-E-5d710db53f#3	NO_DHAT	-	-	-	-	-	UNSURE	«بيوتا فرهين» الفاعل غير مذكور
+HFN-E-5d710db53f#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«والقهل كالفره» لعلّه القره
+HFN-E-5d710db53f#5	YES	محلّ	التزام	عاديّ	مطلق	ناقة	SURE	«ناقة فارهة وقد أفرهت»
+HFN-E-14d31aea12#1	NO_DHAT	-	-	-	-	-	SURE	«فره فراهة - عتق فهو فاره»
+HFN-E-14d31aea12#2	NO_DHAT	-	-	-	-	-	SURE	«فره فرها وهو فره وفاره - أشر»
+HFN-E-14d31aea12#3	NO_DHAT	-	-	-	-	-	UNSURE	«بيوتا فرهين» الفاعل غير مذكور
+HFN-E-14d31aea12#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«والقهل كالفره» لعلّه القره
+HFN-E-14d31aea12#5	YES	محلّ	التزام	عاديّ	مطلق	ناقة	SURE	«ناقة فارهة وقد أفرهت»
+HFN-E-7b117adec0#1	YES	محلّ	تضمّن	-	-	امرأة	SURE	«امرأة خدلة - غليظة مستوية»
+HFN-E-7b117adec0#2	YES	محلّ	التزام	عاديّ	مطلق	سراويل	UNSURE	«سراويل خرفج منطقها خدل مسوقها»
+HFN-E-3b07af6db8#1	YES	محلّ	تضمّن	-	-	الصلب	SURE	«إذا دخل الصلب في الجوف قيل فزر»
+HFN-E-3b07af6db8#2	YES	محلّ	تضمّن	-	-	الثوب	SURE	«تفزر الثوب - تشقق»
+HFN-E-3b07af6db8#3	OTHER_SENSE	-	-	-	-	-	SURE	«الفزر من الضأن» جماعة
+HFN-E-3b07af6db8#4	OTHER_SENSE	-	-	-	-	-	SURE	«الفزر ابن الببر» اسم
+HFN-E-9fd3a94e98#1	YES	محلّ	تضمّن	-	-	الصلب	SURE	«إذا دخل الصلب في الجوف قيل فزر»
+HFN-E-9fd3a94e98#2	YES	محلّ	تضمّن	-	-	الثوب	SURE	«تفزر الثوب - تشقق»
+HFN-E-9fd3a94e98#3	OTHER_SENSE	-	-	-	-	-	SURE	«الفزر من الضأن» جماعة
+HFN-E-9fd3a94e98#4	OTHER_SENSE	-	-	-	-	-	SURE	«الفزر ابن الببر» اسم
+HFN-E-15cd4ab4f4#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	«فزع منه ... ورجل فزع»
+HFN-E-15cd4ab4f4#2	NO_DHAT	-	-	-	-	-	SURE	«ذهاب العقل من الفزع»
+HFN-E-15cd4ab4f4#3	NO_DHAT	-	-	-	-	-	SURE	«الهلل وهو - الفزع»
+HFN-E-15cd4ab4f4#4	YES	محلّ	التزام	عاديّ	مطلق	صارخ	UNSURE	«أتانا صارخ فزع»
+HFN-E-15cd4ab4f4#5	YES	محلّ	التزام	عاديّ	مطلق	الصارخ	UNSURE	«صوت الصارخ الفزع»
+HFN-E-4839cd634b#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	«فزع منه ... ورجل فزع»
+HFN-E-4839cd634b#2	NO_DHAT	-	-	-	-	-	SURE	«ذهاب العقل من الفزع»
+HFN-E-4839cd634b#3	NO_DHAT	-	-	-	-	-	SURE	«الهلل وهو - الفزع»
+HFN-E-4839cd634b#4	YES	محلّ	التزام	عاديّ	مطلق	صارخ	UNSURE	«أتانا صارخ فزع»
+HFN-E-4839cd634b#5	YES	محلّ	التزام	عاديّ	مطلق	الصارخ	UNSURE	«صوت الصارخ الفزع»
+HFN-E-1e3225cfde#1	YES	محلّ	التزام	عاديّ	مطلق	المكان	UNSURE	«فسح المكان فساحة»؛ مفازة فسح
+HFN-E-87c400725d#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	«رجل فسخ لا يظفر بحاجته ضعفا»
+HFN-E-87c400725d#2	YES	محلّ	التزام	عاديّ	مطلق	فلان	UNSURE	«في رأي فلان فسخ وفكة»
+HFN-E-87c400725d#3	NO_DHAT	-	-	-	-	-	UNSURE	«فسخ رأيه فسخا - فسد»
+HFN-E-87c400725d#4	YES	محلّ	التزام	شرعيّ	مطلق	المتعاقدين	UNSURE	«فسخ بين المتعاقدين»
+HFN-E-87c400725d#5	YES	محلّ	التزام	عاديّ	مطلق	الثوب	SURE	«الفزر - الفسخ فيه» أي الثوب
+HFN-E-dce7c29b33#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	«رجل فسخ لا يظفر بحاجته ضعفا»
+HFN-E-dce7c29b33#2	YES	محلّ	التزام	عاديّ	مطلق	فلان	UNSURE	«في رأي فلان فسخ وفكة»
+HFN-E-dce7c29b33#3	NO_DHAT	-	-	-	-	-	UNSURE	«فسخ رأيه فسخا - فسد»
+HFN-E-dce7c29b33#4	YES	محلّ	التزام	شرعيّ	مطلق	المتعاقدين	UNSURE	«فسخ بين المتعاقدين»
+HFN-E-dce7c29b33#5	YES	محلّ	التزام	عاديّ	مطلق	الثوب	SURE	«الفزر - الفسخ فيه» أي الثوب
+HFN-E-6a745bf3c3#1	YES	محلّ	التزام	عاديّ	مطلق	إهاب	SURE	«إهاب مغمول ... ففسد ... فالجلد»
+HFN-E-6a745bf3c3#2	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	«رجل مفسد ومفساد»
+HFN-E-6a745bf3c3#3	NO_DHAT	-	-	-	-	-	SURE	«فسد يفسد ... أفسدت بينهم»
+HFN-E-6a745bf3c3#4	YES	محلّ	التزام	عاديّ	مطلق	جوف الرجل	SURE	«ورب جوف الرجل - فسد من داء»
+HFN-E-6a745bf3c3#5	YES	محلّ	التزام	عاديّ	مطلق	الطعام	SURE	«خاس الطعام خيسا - فسد وعفن»

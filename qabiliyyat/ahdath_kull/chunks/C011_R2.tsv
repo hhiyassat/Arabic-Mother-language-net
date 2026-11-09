@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-b2662e7036#1	NO_DHAT	-	-	-	-	-	UNSURE	بما ينكله، لا ذات
+HFN-E-b2662e7036#2	NO_DHAT	-	-	-	-	-	SURE	نكل ينكل نكولا، بلا ذات
+HFN-E-b2662e7036#3	NO_DHAT	-	-	-	-	-	SURE	نكل ينكل - ضعف وجبن
+HFN-E-b2662e7036#4	OTHER_SENSE	-	-	-	-	-	SURE	النكل عناج الدلو: اسم أداة
+HFN-E-b2662e7036#5	OTHER_SENSE	-	-	-	-	-	UNSURE	النكل الرجل المجرب: معنى بعيد
+HFN-E-b4a58b0e80#1	NO_DHAT	-	-	-	-	-	UNSURE	بما ينكله، لا ذات
+HFN-E-b4a58b0e80#2	NO_DHAT	-	-	-	-	-	SURE	نكل ينكل نكولا، بلا ذات
+HFN-E-b4a58b0e80#3	NO_DHAT	-	-	-	-	-	SURE	نكل ينكل - ضعف وجبن
+HFN-E-b4a58b0e80#4	OTHER_SENSE	-	-	-	-	-	SURE	النكل عناج الدلو: اسم أداة
+HFN-E-b4a58b0e80#5	OTHER_SENSE	-	-	-	-	-	UNSURE	النكل الرجل المجرب: معنى بعيد
+HFN-E-4cefea3f3b#1	YES	فاعل	التزام	عاديّ	مطلق	الشارب	SURE	استنكهت الشارب فنكه في وجهي؛ أنفه في الحد
+HFN-E-542437507b#1	OTHER_SENSE	-	-	-	-	-	SURE	النمر اسم سبع
+HFN-E-542437507b#2	OTHER_SENSE	-	-	-	-	-	SURE	النمر من السحاب: اسم
+HFN-E-542437507b#3	OTHER_SENSE	-	-	-	-	-	SURE	نمر جمع نمر
+HFN-E-542437507b#4	OTHER_SENSE	-	-	-	-	-	SURE	صوت النمر: اسم سبع
+HFN-E-542437507b#5	NO_DHAT	-	-	-	-	-	UNSURE	نمر نمرا وتنمر: غضب، بلا ذات
+HFN-E-ec0abf0bf1#1	YES	محلّ	التزام	عاديّ	مطلق	لحم	UNSURE	لحم زخم... وفيه نمس
+HFN-E-ec0abf0bf1#2	YES	محلّ	تضمّن	-	-	الشعر	SURE	نمس الشعر - أصابه دهن فتوسخ
+HFN-E-ec0abf0bf1#3	OTHER_SENSE	-	-	-	-	-	SURE	النمس اسم حيوان
+HFN-E-ec0abf0bf1#4	YES	محلّ	تضمّن	-	-	الدهن	UNSURE	تمه الدهن ونسم ونمس - تغير
+HFN-E-ec0abf0bf1#5	OTHER_SENSE	-	-	-	-	-	UNSURE	نمس ينمس: سارّ، معنى بعيد
+HFN-E-37ec06bafb#1	OTHER_SENSE	-	-	-	-	-	UNSURE	النمش بقع: معنى نمِش لا نمَش
+HFN-E-37ec06bafb#2	NO_DHAT	-	-	-	-	-	SURE	نمشت - نممت، بلا ذات
+HFN-E-37ec06bafb#3	OTHER_SENSE	-	-	-	-	-	UNSURE	أديم غير نمش: معنى نمِش
+HFN-E-37ec06bafb#4	OTHER_SENSE	-	-	-	-	-	UNSURE	النمش البياض في الظفر: اسم
+HFN-E-37ec06bafb#5	OTHER_SENSE	-	-	-	-	-	UNSURE	النمش النقوش: اسم ذات
+HFN-E-88d0effa0e#1	YES	محلّ	تضمّن	-	-	الجلد	UNSURE	النمش بقع تقع على الجلد
+HFN-E-88d0effa0e#2	OTHER_SENSE	-	-	-	-	-	UNSURE	النمش النميمة: معنى بعيد
+HFN-E-88d0effa0e#3	YES	محلّ	التزام	عاديّ	مطلق	أديم	UNSURE	أديم... ولا نمش
+HFN-E-88d0effa0e#4	YES	محلّ	تضمّن	-	-	الظفر	UNSURE	البياض الذي يظهر في أصل الظفر
+HFN-E-88d0effa0e#5	OTHER_SENSE	-	-	-	-	-	UNSURE	النمش النقوش من الوشي: اسم
+HFN-E-1715c3f3a3#1	YES	محلّ	تضمّن	-	-	الشعر	SURE	النمص رقة الشعر
+HFN-E-1715c3f3a3#2	YES	محلّ	التزام	عاديّ	مطلق	البقل	UNSURE	أنمص البقل؛ نمص الشعر نتفه
+HFN-E-1715c3f3a3#3	OTHER_SENSE	-	-	-	-	-	SURE	النمص اسم نبات
+HFN-E-1715c3f3a3#4	OTHER_SENSE	-	-	-	-	-	SURE	النمص ضرب من الأسل
+HFN-E-c8b0a0cae6#1	OTHER_SENSE	-	-	-	-	-	SURE	النمل اسم حشرة
+HFN-E-c8b0a0cae6#2	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	رجل نمل - وهو النمام
+HFN-E-c8b0a0cae6#3	OTHER_SENSE	-	-	-	-	-	UNSURE	نمل لا يستقر: معنى بعيد عن نمَل
+HFN-E-c8b0a0cae6#4	OTHER_SENSE	-	-	-	-	-	SURE	النمل اسم حشرة
+HFN-E-c8b0a0cae6#5	OTHER_SENSE	-	-	-	-	-	SURE	النمل اسم حشرة
+HFN-E-1805b6b610#1	OTHER_SENSE	-	-	-	-	-	SURE	النمل اسم حشرة
+HFN-E-1805b6b610#2	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	رجل نمل - وهو النمام
+HFN-E-1805b6b610#3	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل نمل لا يستقر وقد نمل
+HFN-E-1805b6b610#4	OTHER_SENSE	-	-	-	-	-	SURE	النمل اسم حشرة
+HFN-E-1805b6b610#5	OTHER_SENSE	-	-	-	-	-	SURE	النمل اسم حشرة
+HFN-E-796722ef11#1	OTHER_SENSE	-	-	-	-	-	UNSURE	النهب: الغنيمة المنحورة، اسم
+HFN-E-796722ef11#2	NO_DHAT	-	-	-	-	-	SURE	نهبت الشيء أنهبه نهبا، بلا ذات
+HFN-E-baee1c0e1a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	النهب: الغنيمة المنحورة، اسم
+HFN-E-baee1c0e1a#2	NO_DHAT	-	-	-	-	-	UNSURE	نهبت الشيء أنهبه، بلا ذات
+HFN-E-931d0e7ee5#1	OTHER_SENSE	-	-	-	-	-	SURE	النهج والمنهج: الطريق، اسم
+HFN-E-931d0e7ee5#2	YES	محلّ	التزام	عاديّ	مطلق	الدابة	UNSURE	أنهجت الدابة... وقد نهج نهجا
+HFN-E-931d0e7ee5#3	NO_DHAT	-	-	-	-	-	SURE	نهج الأمر: وضح، الأمر معنوي
+HFN-E-b83fe68faa#1	OTHER_SENSE	-	-	-	-	-	SURE	النهج: الطريق، اسم
+HFN-E-b83fe68faa#2	YES	محلّ	التزام	عاديّ	مطلق	الدابة	UNSURE	أنهجت الدابة... وقد نهج نهجا
+HFN-E-b83fe68faa#3	NO_DHAT	-	-	-	-	-	UNSURE	نهج الأمر: وضح، الأمر معنوي
+HFN-E-2ebd2006f3#1	YES	محلّ	التزام	عاديّ	مطلق	الثدي	SURE	نهد الثدي ينهد نهودا
+HFN-E-2ebd2006f3#2	YES	محلّ	التزام	عاديّ	مطلق	منكب	SURE	منكب نهد، مشرف
+HFN-E-2ebd2006f3#3	YES	محلّ	التزام	عاديّ	مطلق	وأي	UNSURE	بكل وأي نهد
+HFN-E-2ebd2006f3#4	YES	محلّ	التزام	عاديّ	مطلق	فرس	SURE	فرس نهد جسيم
+HFN-E-2ebd2006f3#5	NO_DHAT	-	-	-	-	-	UNSURE	قارب الامتلاء... وقد نهد، الذات غير مذكورة
+HFN-E-3df48f7afa#1	YES	محلّ	التزام	عاديّ	مطلق	ثديها	SURE	كعب ثديها... حين يبدو للنهود
+HFN-E-3df48f7afa#2	YES	محلّ	التزام	عاديّ	مطلق	منكب	SURE	منكب نهد، مشرف
+HFN-E-3df48f7afa#3	YES	محلّ	التزام	عاديّ	مطلق	وأي	UNSURE	بكل وأي نهد
+HFN-E-3df48f7afa#4	YES	محلّ	التزام	عاديّ	مطلق	فرس	SURE	فرس نهد جسيم
+HFN-E-3df48f7afa#5	NO_DHAT	-	-	-	-	-	UNSURE	قارب الامتلاء... وقد نهد، الذات غير مذكورة
+HFN-E-04dcffaaa6#1	YES	محلّ	التزام	عاديّ	مطلق	الثدي	SURE	نهد الثدي ينهد نهودا
+HFN-E-04dcffaaa6#2	YES	محلّ	التزام	عاديّ	مطلق	منكب	SURE	منكب نهد، مشرف
+HFN-E-04dcffaaa6#3	YES	محلّ	التزام	عاديّ	مطلق	وأي	UNSURE	بكل وأي نهد
+HFN-E-04dcffaaa6#4	YES	محلّ	التزام	عاديّ	مطلق	فرس	SURE	فرس نهد جسيم
+HFN-E-04dcffaaa6#5	NO_DHAT	-	-	-	-	-	UNSURE	قارب الامتلاء... وقد نهد، الذات غير مذكورة
+HFN-E-f68e61d705#1	OTHER_SENSE	-	-	-	-	-	SURE	النهر: مجرى الماء، اسم
+HFN-E-f68e61d705#2	OTHER_SENSE	-	-	-	-	-	SURE	النهار ونهر: اسم زمان
+HFN-E-f68e61d705#3	OTHER_SENSE	-	-	-	-	-	SURE	من نهر إلى نهر: اسم
+HFN-E-f68e61d705#4	OTHER_SENSE	-	-	-	-	-	SURE	من نهر معقل: اسم
+HFN-E-f68e61d705#5	OTHER_SENSE	-	-	-	-	-	SURE	هذا النهر: اسم
+HFN-E-f22dcb6533#1	OTHER_SENSE	-	-	-	-	-	SURE	النهر: مجرى الماء، اسم
+HFN-E-f22dcb6533#2	OTHER_SENSE	-	-	-	-	-	SURE	النهار ونهر: اسم زمان
+HFN-E-f22dcb6533#3	OTHER_SENSE	-	-	-	-	-	SURE	من نهر إلى نهر: اسم
+HFN-E-f22dcb6533#4	OTHER_SENSE	-	-	-	-	-	SURE	من نهر معقل: اسم
+HFN-E-f22dcb6533#5	OTHER_SENSE	-	-	-	-	-	SURE	هذا النهر: اسم
+HFN-E-8c798f8a9e#1	YES	آلة	تضمّن	-	-	اليد	SURE	النهز: التناول باليد
+HFN-E-8c798f8a9e#2	YES	محلّ	التزام	عاديّ	مطلق	إبل	UNSURE	إبل نهاز مائة أي قربها
+HFN-E-8c798f8a9e#3	YES	محلّ	تضمّن	-	-	الدلو	SURE	نهز الدلو في البئر حركها
+HFN-E-8c798f8a9e#4	YES	فاعل	التزام	عاديّ	مطلق	أرماحهم	UNSURE	أرماحهم ينهزنهم؛ المطعونون محلّ
+HFN-E-588f81cf01#1	OTHER_SENSE	-	-	-	-	-	SURE	النهس: الصرد، اسم طائر
+HFN-E-04310d60c5#1	OTHER_SENSE	-	-	-	-	-	SURE	النهس: الصرد، اسم طائر
+HFN-E-6cc536960e#1	YES	آلة	تضمّن	-	-	فمك	UNSURE	تناولك الشيء بفمك؛ نهش الحية والسبع
+HFN-E-6cc536960e#2	OTHER_SENSE	-	-	-	-	-	UNSURE	المنهوش القليل اللحم: معنى بعيد
+HFN-E-6cc536960e#3	OTHER_SENSE	-	-	-	-	-	UNSURE	منهوش الفخذين: قلة اللحم، معنى بعيد
+HFN-E-77a3d34d9e#1	YES	فاعل	التزام	عاديّ	مطلق	الطائر	SURE	مصع الطائر... ونهض ونشر جناحيه
+HFN-E-77a3d34d9e#2	YES	محلّ	التزام	عاديّ	مطلق	النبات	SURE	النبات قد نهض لعاعا
+HFN-E-77a3d34d9e#3	YES	فاعل	تضمّن	-	-	القوم	UNSURE	تناهض القوم - نهض بعضهم إلى بعض
+HFN-E-77a3d34d9e#4	YES	فاعل	التزام	عاديّ	مطلق	فلان	SURE	نعر فيها فلان - أي نهض
+HFN-E-77a3d34d9e#5	YES	فاعل	التزام	عاديّ	مطلق	القوم	SURE	تناهد القوم نهض بعضهم إلى بعض
+HFN-E-fb08e0e58d#1	YES	فاعل	التزام	عاديّ	مطلق	الحمر	SURE	(أصوات الحمر) نهق ينهق
+HFN-E-fb08e0e58d#2	YES	فاعل	التزام	عاديّ	مطلق	العفا	SURE	كتشهاق العفا هم بالنهق
+HFN-E-fb08e0e58d#3	YES	فاعل	التزام	عاديّ	مطلق	الحمار	SURE	في نهق الحمار
+HFN-E-fb08e0e58d#4	OTHER_SENSE	-	-	-	-	-	SURE	النهق: بقلة
+HFN-E-fb08e0e58d#5	OTHER_SENSE	-	-	-	-	-	SURE	النهق واحدته نهقة: نبات
+HFN-E-59e754a68b#1	YES	فاعل	التزام	عاديّ	مطلق	الحمر	SURE	(أصوات الحمر) نهق ينهق
+HFN-E-59e754a68b#2	YES	فاعل	التزام	عاديّ	مطلق	الفرس	UNSURE	مخارج النهاق من حلقه؛ الحلق مكان
+HFN-E-59e754a68b#3	YES	فاعل	التزام	عاديّ	مطلق	الحمار	SURE	الحمار النهاق
+HFN-E-59e754a68b#4	YES	فاعل	التزام	عاديّ	مطلق	العفا	SURE	كتشهاق العفا هم بالنهق
+HFN-E-59e754a68b#5	YES	فاعل	التزام	عاديّ	مطلق	الحمار	SURE	في نهق الحمار
+HFN-E-7253b932c9#1	YES	فاعل	التزام	عاديّ	مطلق	الحمر	SURE	(أصوات الحمر) نهق ينهق
+HFN-E-7253b932c9#2	YES	فاعل	التزام	عاديّ	مطلق	العفا	SURE	كتشهاق العفا هم بالنهق
+HFN-E-7253b932c9#3	YES	فاعل	التزام	عاديّ	مطلق	الحمار	SURE	في نهق الحمار
+HFN-E-7253b932c9#4	OTHER_SENSE	-	-	-	-	-	SURE	النهق: بقلة
+HFN-E-7253b932c9#5	OTHER_SENSE	-	-	-	-	-	SURE	النهق واحدته نهقة: نبات
+HFN-E-cb03933af1#1	YES	فاعل	التزام	عاديّ	مطلق	الشجاع	UNSURE	الناهك لقرنه؛ القرن محلّ
+HFN-E-cb03933af1#2	NO_DHAT	-	-	-	-	-	SURE	النهك: التنقص، بلا ذات
+HFN-E-6e2caa0bc5#1	OTHER_SENSE	-	-	-	-	-	UNSURE	النهيك الشجاع وقد نهك نهاكة: معنى بعيد
+HFN-E-6e2caa0bc5#2	NO_DHAT	-	-	-	-	-	SURE	النهك: التنقص، بلا ذات
+HFN-E-b73c717fa0#1	OTHER_SENSE	-	-	-	-	-	UNSURE	نهم نهما: الشره، لا زجر الإبل
+HFN-E-b73c717fa0#2	OTHER_SENSE	-	-	-	-	-	UNSURE	نهم نهما: الشره، لا زجر الإبل
+HFN-E-b73c717fa0#3	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل نهم: الشره، معنى بعيد
+HFN-E-b73c717fa0#4	YES	محلّ	تضمّن	-	-	الإبل	SURE	نهم الإبل ينهمها نهما زجرها
+HFN-E-b73c717fa0#5	OTHER_SENSE	-	-	-	-	-	SURE	نهم: اسم صنم
+HFN-E-856b78ebf1#1	YES	محلّ	التزام	عاديّ	مطلق	بطنه	SURE	الرغيب الذي يمتلئ بطنه
+HFN-E-856b78ebf1#2	YES	محلّ	التزام	عاديّ	مطلق	بطنه	SURE	النهم الذي لا يهمه إلا بطنه
+HFN-E-856b78ebf1#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل مجردب نهم
+HFN-E-856b78ebf1#4	OTHER_SENSE	-	-	-	-	-	UNSURE	نهم الإبل زجرها: معنى بعيد
+HFN-E-856b78ebf1#5	OTHER_SENSE	-	-	-	-	-	SURE	نهم: اسم صنم
+HFN-E-9c6734dc2a#1	OTHER_SENSE	-	-	-	-	-	SURE	هبت من هبّ الريح
+HFN-E-9c6734dc2a#2	YES	آلة	تضمّن	-	-	العصا	UNSURE	أصل الهبت الضرب بالعصا
+HFN-E-9c6734dc2a#3	NO_DHAT	-	-	-	-	-	SURE	الهبت الضرب المتتابع، بلا ذات
+HFN-E-9c6734dc2a#4	OTHER_SENSE	-	-	-	-	-	SURE	وهبتك من وهب
+HFN-E-9c6734dc2a#5	OTHER_SENSE	-	-	-	-	-	SURE	وهبت لك من وهب
+HFN-E-28e075777a#1	YES	محلّ	تضمّن	-	-	الضرع	SURE	التهبج ورم الضرع
+HFN-E-822c51735b#1	YES	محلّ	تضمّن	-	-	الضرع	SURE	التهبج ورم الضرع
+HFN-E-7a2bebd844#1	YES	فاعل	التزام	عاديّ	مطلق	الطائر	SURE	استعملت المهابذة في الطائر
+HFN-E-dd7e27e102#1	OTHER_SENSE	-	-	-	-	-	SURE	الهبر مشاقة الكتان: اسم
+HFN-E-dd7e27e102#2	YES	محلّ	تضمّن	-	-	اللحم	SURE	ضرب هبر - يهبر اللحم
+HFN-E-dd7e27e102#3	OTHER_SENSE	-	-	-	-	-	UNSURE	بعير أهبر كثير اللحم: معنى بعيد
+HFN-E-dd7e27e102#4	OTHER_SENSE	-	-	-	-	-	SURE	الهبير ما اطمأن من الأرض: اسم
+HFN-E-dd7e27e102#5	OTHER_SENSE	-	-	-	-	-	SURE	الهبر من الرمال: اسم
+HFN-E-4ca37b7d49#1	NO_DHAT	-	-	-	-	-	SURE	الهبش الحلب الرويد، بلا ذات
+HFN-E-4ca37b7d49#2	NO_DHAT	-	-	-	-	-	SURE	هبشت الشيء جمعته، بلا ذات
+HFN-E-249a05a934#1	NO_DHAT	-	-	-	-	-	SURE	هبص هبصا فهو هبص، بلا ذات
+HFN-E-249a05a934#2	NO_DHAT	-	-	-	-	-	SURE	الهبص - مشية، بلا ذات
+HFN-E-249a05a934#3	YES	فاعل	تضمّن	-	-	الكلب	SURE	هبص الكلب حرص على الصيد
+HFN-E-1b4079184e#1	YES	مكان	تضمّن	-	-	أرض	SURE	هبط أرض كذا - نزلها
+HFN-E-1b4079184e#2	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	هبط الرجل من بلد إلى بلد
+HFN-E-1b4079184e#3	YES	محلّ	تضمّن	-	-	لحمه	UNSURE	هبط المرض لحمه أي نقصه
+HFN-E-1b4079184e#4	OTHER_SENSE	-	-	-	-	-	SURE	الهبط: موضع، اسم
+HFN-E-1b4079184e#5	YES	محلّ	التزام	عاديّ	مطلق	الأرض	UNSURE	ما اتسع من الأرض وهبط
+HFN-E-8e6d9740af#1	OTHER_SENSE	-	-	-	-	-	SURE	الهبع: الفصيل، اسم
+HFN-E-8e6d9740af#2	OTHER_SENSE	-	-	-	-	-	SURE	الهبع: اسم فصيل
+HFN-E-8e6d9740af#3	OTHER_SENSE	-	-	-	-	-	SURE	لحق أهله الهبع: اسم
+HFN-E-270788cd90#1	OTHER_SENSE	-	-	-	-	-	SURE	الهبع: الفصيل، اسم
+HFN-E-270788cd90#2	OTHER_SENSE	-	-	-	-	-	SURE	الهبع: اسم فصيل
+HFN-E-270788cd90#3	OTHER_SENSE	-	-	-	-	-	SURE	لحق أهله الهبع: اسم
+HFN-E-d8f65a1cc7#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الهبل الثقيل: صفة بمعنى بعيد
+HFN-E-d8f65a1cc7#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الهبل الضخم المسن: معنى بعيد
+HFN-E-d8f65a1cc7#3	NO_DHAT	-	-	-	-	-	UNSURE	ونادى بالهبل، بلا ذات
+HFN-E-d8f65a1cc7#4	OTHER_SENSE	-	-	-	-	-	UNSURE	من هبل قد عسا: الشيخ، اسم
+HFN-E-d8f65a1cc7#5	YES	محلّ	التزام	عاديّ	مطلق	أمه	SURE	الهبل الثكل هبلته أمه
+HFN-E-d36e70c6b5#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	الهتر السقط من الكلام... رجل مهتر
+HFN-E-d36e70c6b5#2	OTHER_SENSE	-	-	-	-	-	SURE	هتر أهتار: الداهية، اسم
+HFN-E-d36e70c6b5#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الهتر العجب: معنى بعيد
+HFN-E-dacb4eb4e0#1	NO_DHAT	-	-	-	-	-	SURE	صاح وهتف يهتف، بلا ذات
+HFN-E-dacb4eb4e0#2	YES	فاعل	التزام	عاديّ	مطلق	حمامة	SURE	هتف يهتف كذلك وحمامة هتوف
+HFN-E-c9dbe1856d#1	YES	محلّ	تضمّن	-	-	الثوب	SURE	هتكت الستر والثوب أهتكه هتكا
+HFN-E-c9dbe1856d#2	OTHER_SENSE	-	-	-	-	-	SURE	آلهتك من أله
+HFN-E-b8d17f8ba7#1	YES	محلّ	تضمّن	-	-	الثنايا	SURE	الهتم انكسار الثنايا من أصولها
+HFN-E-b8d17f8ba7#2	NO_DHAT	-	-	-	-	-	SURE	الهتم دقك الشيء حتى يسحق
+HFN-E-f67e66f84c#1	YES	محلّ	تضمّن	-	-	الثنايا	SURE	الهتم انكسار الثنايا من أصولها
+HFN-E-f67e66f84c#2	NO_DHAT	-	-	-	-	-	UNSURE	الهتم دقك الشيء، بلا ذات
+HFN-E-812b16a945#1	YES	محلّ	تضمّن	-	-	القمر	UNSURE	خسف القمر... وهو كالكسوف
+HFN-E-812b16a945#2	YES	محلّ	تضمّن	-	-	الإنسان	UNSURE	الخسف تحميل الإنسان ما يكره
+HFN-E-812b16a945#3	YES	محلّ	التزام	عاديّ	مطلق	ضيف	UNSURE	بضيف... على الخسف المبين
+HFN-E-812b16a945#4	YES	محلّ	تضمّن	-	-	الدابة	SURE	الخسف حبس الدابة على غير علف
+HFN-E-812b16a945#5	YES	محلّ	التزام	عاديّ	مطلق	الأرض	SURE	خسفت الأرض تخسف خسفا
+HFN-E-cf74adf62e#1	NO_DHAT	-	-	-	-	-	SURE	هجر في نومه... هذى، بلا ذات
+HFN-E-cf74adf62e#2	OTHER_SENSE	-	-	-	-	-	SURE	جمل هجر حسن كريم: معنى بعيد
+HFN-E-cf74adf62e#3	OTHER_SENSE	-	-	-	-	-	SURE	كبش هجر حسن كريم: معنى بعيد
+HFN-E-cf74adf62e#4	OTHER_SENSE	-	-	-	-	-	SURE	هجر: اسم بلد
+HFN-E-cf74adf62e#5	YES	فاعل	تضمّن	-	-	الرجل	UNSURE	هجر الرجل خرج بالهاجرة
+HFN-E-43cb5ba00e#1	NO_DHAT	-	-	-	-	-	UNSURE	الهجس النبأة تسمعها، بلا ذات
+HFN-E-43cb5ba00e#2	OTHER_SENSE	-	-	-	-	-	SURE	هجس: زجر للكلب
+HFN-E-43cb5ba00e#3	NO_DHAT	-	-	-	-	-	UNSURE	هجس الأمر في نفسي، بلا ذات محسوسة
+HFN-E-2b5c3ca435#1	OTHER_SENSE	-	-	-	-	-	SURE	الهجل: المطمئن من الأرض، اسم
+HFN-E-b35dbd6551#1	OTHER_SENSE	-	-	-	-	-	SURE	الهجم القدح العظيم: اسم أداة
+HFN-E-b35dbd6551#2	YES	محلّ	التزام	عاديّ	مطلق	القوم	SURE	هجمت على القوم
+HFN-E-b35dbd6551#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الوقاف الهجم عن القتال: معنى بعيد
+HFN-E-b35dbd6551#4	YES	محلّ	التزام	عاديّ	مطلق	الجدار	UNSURE	انقاض الجدار... هجمته أهجمه هجما
+HFN-E-b35dbd6551#5	NO_DHAT	-	-	-	-	-	UNSURE	هجمتها أهجمها طردتها، لا ذات مذكورة
+HFN-E-00103c3c7c#1	OTHER_SENSE	-	-	-	-	-	SURE	الهدب: شعر الجفون، اسم
+HFN-E-00103c3c7c#2	OTHER_SENSE	-	-	-	-	-	SURE	الهدب: ما يقوم مقام الورق، اسم
+HFN-E-00103c3c7c#3	OTHER_SENSE	-	-	-	-	-	SURE	ورقها مثل الهدب: اسم
+HFN-E-00103c3c7c#4	OTHER_SENSE	-	-	-	-	-	SURE	الهدب العي الثقيل: معنى بعيد
+HFN-E-00103c3c7c#5	OTHER_SENSE	-	-	-	-	-	SURE	هدب الثوب خمله: اسم
+HFN-E-da7f584d8c#1	OTHER_SENSE	-	-	-	-	-	SURE	الهدب: شعر الجفون، اسم
+HFN-E-da7f584d8c#2	OTHER_SENSE	-	-	-	-	-	SURE	الهدب: ما يقوم مقام الورق، اسم
+HFN-E-da7f584d8c#3	OTHER_SENSE	-	-	-	-	-	SURE	ورقها مثل الهدب: اسم
+HFN-E-da7f584d8c#4	OTHER_SENSE	-	-	-	-	-	SURE	الهدب العي الثقيل: معنى بعيد
+HFN-E-da7f584d8c#5	YES	محلّ	التزام	عاديّ	مطلق	للبد	UNSURE	للبد إذا طال زئبره أهدب
+HFN-E-38ab759d28#1	NO_DHAT	-	-	-	-	-	SURE	الهدج المشي الرويد، بلا ذات
+HFN-E-38ab759d28#2	YES	فاعل	التزام	عاديّ	مطلق	الظليم	SURE	الهدجدج الظليم... وقد هدج
+HFN-E-16ec6dc620#1	NO_DHAT	-	-	-	-	-	SURE	هدر يهدر هدرا وهديرا، بلا ذات
+HFN-E-16ec6dc620#2	YES	محلّ	التزام	عاديّ	مطلق	الدم	UNSURE	(هدر الدم) عنوان الباب
+HFN-E-16ec6dc620#3	OTHER_SENSE	-	-	-	-	-	SURE	الهدر الثقيل: صفة بمعنى بعيد
+HFN-E-16ec6dc620#4	YES	محلّ	تضمّن	-	-	العشب	SURE	هدر العشب هديرا تمامه وكثرته
+HFN-E-16ec6dc620#5	YES	محلّ	التزام	عاديّ	مطلق	سحره	UNSURE	ضربه فهدر سحره أي أسقطه
+HFN-E-ef623345fa#1	YES	فاعل	التزام	عاديّ	مطلق	الإبل	SURE	بلغ الذكر من الإبل الهدير
+HFN-E-ef623345fa#2	YES	محلّ	التزام	عاديّ	مطلق	الدم	UNSURE	(هدر الدم) عنوان الباب
+HFN-E-ef623345fa#3	OTHER_SENSE	-	-	-	-	-	SURE	الهدر الثقيل: صفة بمعنى بعيد
+HFN-E-ef623345fa#4	YES	محلّ	تضمّن	-	-	العشب	SURE	هدر العشب هديرا تمامه وكثرته
+HFN-E-ef623345fa#5	YES	فاعل	التزام	عاديّ	مطلق	البعير	SURE	قب البعير... أنه الهدير
+HFN-E-8b4ece2819#1	YES	محلّ	تضمّن	-	-	الشفة	SURE	وفي الشفة الهدل وهو ضخم واسترخاء
+HFN-E-691bf4e4d0#1	YES	محلّ	التزام	عاديّ	مطلق	البناء	SURE	هدمت البناء أهدمه هدما
+HFN-E-691bf4e4d0#2	OTHER_SENSE	-	-	-	-	-	SURE	الهدم: الثوب الخلق، اسم
+HFN-E-691bf4e4d0#3	YES	محلّ	التزام	عاديّ	مطلق	البئر	UNSURE	ما تهدم من نواحي البئر
+HFN-E-691bf4e4d0#4	YES	محلّ	التزام	عاديّ	مطلق	شيخ	UNSURE	شيخ هدم وعجوز متهدمة
+HFN-E-691bf4e4d0#5	OTHER_SENSE	-	-	-	-	-	UNSURE	هدم الرجل: داء البحر، معنى بعيد
+HFN-E-44743127a2#1	OTHER_SENSE	-	-	-	-	-	UNSURE	هدمت البناء: معنى بعيد عن هدِم
+HFN-E-44743127a2#2	OTHER_SENSE	-	-	-	-	-	SURE	الهدم: الثوب الخلق، اسم
+HFN-E-44743127a2#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الهدم ما تهدم من البئر: اسم
+HFN-E-44743127a2#4	YES	محلّ	التزام	عاديّ	مطلق	شيخ	SURE	شيخ هدم وعجوز متهدمة فانيان
+HFN-E-44743127a2#5	YES	محلّ	تضمّن	-	-	الإنسان	UNSURE	الهدام داء يصيب الإنسان في البحر
+HFN-E-3996153601#1	NO_DHAT	-	-	-	-	-	UNSURE	الاسم الهدن والهدنة، بلا ذات
+HFN-E-9b4e82b4c4#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل هذرة وهذر كثير الكلام
+HFN-E-8fd8c53f25#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل هذرة وهذر كثير الكلام
+HFN-E-fa6c6c3af8#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل هذرة وهذر كثير الكلام
+HFN-E-a7f60eda4c#1	NO_DHAT	-	-	-	-	-	SURE	الهذم سرعة الأكل، بلا ذات
+HFN-E-a7f60eda4c#2	YES	آلة	التزام	عاديّ	مطلق	سيف	SURE	سيف هذام؛ الهذم القطع
+HFN-E-816446edab#1	YES	فاعل	التزام	عاديّ	مطلق	العبد	SURE	هرب العبد وغيره هروبا
+HFN-E-816446edab#2	OTHER_SENSE	-	-	-	-	-	SURE	الهرب الثرب: اسم عضو
+HFN-E-816446edab#3	YES	فاعل	التزام	عاديّ	مطلق	الديكان	SURE	اقتتل الديكان فهرب أحدهما
+HFN-E-6bd4290e67#1	YES	محلّ	تضمّن	-	-	الشدق	SURE	الهرت سعة الشدق
+HFN-E-6bd4290e67#2	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	فرس هريت؛ الشدق في الحد
+HFN-E-6bd4290e67#3	YES	محلّ	تضمّن	-	-	الشدق	UNSURE	الهريت المفضاة، أصله سعة الشدق
+HFN-E-6bd4290e67#4	OTHER_SENSE	-	-	-	-	-	SURE	هرت اللحم أنضجه: معنى بعيد
+HFN-E-6bd4290e67#5	OTHER_SENSE	-	-	-	-	-	SURE	هرت البناء هدمته: معنى بعيد
+HFN-E-8d8f98b94e#1	NO_DHAT	-	-	-	-	-	UNSURE	الهرج الذي يشتد عليه الحر، بلا ذات
+HFN-E-8d8f98b94e#2	YES	محلّ	تضمّن	-	-	البعير	SURE	الهرج أن يسدر البعير من شدة الحر
+HFN-E-8d8f98b94e#3	YES	محلّ	تضمّن	-	-	الرجل	SURE	هرج الرجل أخذه البهر
+HFN-E-8d8f98b94e#4	NO_DHAT	-	-	-	-	-	SURE	الهرج القتل، بلا ذات
+HFN-E-8d8f98b94e#5	YES	فاعل	تضمّن	-	-	الفرس	SURE	هرج الفرس يهرج هرجا كثير العدو
+HFN-E-82937837b0#1	NO_DHAT	-	-	-	-	-	UNSURE	الهرج الذي يشتد عليه الحر، بلا ذات
+HFN-E-82937837b0#2	YES	محلّ	تضمّن	-	-	البعير	SURE	الهرج أن يسدر البعير من شدة الحر
+HFN-E-82937837b0#3	YES	محلّ	تضمّن	-	-	الرجل	SURE	هرج الرجل أخذه البهر
+HFN-E-82937837b0#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الهرج القتل: معنى بعيد
+HFN-E-82937837b0#5	OTHER_SENSE	-	-	-	-	-	UNSURE	هرج الفرس كثير العدو: معنى بعيد
+HFN-E-ae82541d78#1	OTHER_SENSE	-	-	-	-	-	SURE	الهرد: عروق صفر، نبات
+HFN-E-ae82541d78#2	YES	محلّ	تضمّن	-	-	الثوب	SURE	هرد الثوب يهرده هردا مزقه
+HFN-E-ae82541d78#3	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	لهوجت اللحم... هردته وهرد هو
+HFN-E-7a70cfe6e8#1	OTHER_SENSE	-	-	-	-	-	SURE	الهرد: عروق صفر، نبات
+HFN-E-7a70cfe6e8#2	OTHER_SENSE	-	-	-	-	-	UNSURE	هرد الثوب مزقه: معنى بعيد عن هرِد
+HFN-E-7a70cfe6e8#3	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	لهوجت اللحم... هردته وهرد هو
