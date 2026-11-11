@@ -1,0 +1,253 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-e163ec2dd0#W1	NO_DHAT	-	-	-	-	-	UNSURE	الصوت العالي: الصوت ليس ذاتا محسوسة
+HFN-E-e163ec2dd0#W2	YES	مكان	التزام	عاديّ	مطلق	الجبل	UNSURE	علوت في الجبل؛ عليت في المكارم بلا ذات
+HFN-E-e163ec2dd0#W3	YES	مكان	التزام	عاديّ	مطلق	الجبل	UNSURE	علوت في الجبل وعلى الجبل؛ الوسادة أيضا
+HFN-E-92ca258bcb#W1	NO_DHAT	-	-	-	-	-	UNSURE	ما يسقف به ويعمد: «ما» لا ذات
+HFN-E-92ca258bcb#W2	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	الرجل العميد المريض لا يجلس حتى يعمد
+HFN-E-92ca258bcb#W3	YES	محلّ	تضمّن	-	-	السنام	UNSURE	عمد السنام عمدا فهو عمد إذا كان ضخما
+HFN-E-9b7ae442dc#W1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	عمر الرجل عمرا وعمارة بقي زمانا
+HFN-E-9b7ae442dc#W2	OTHER_SENSE	-	-	-	-	-	SURE	أم عامر اسم للضبع
+HFN-E-9b7ae442dc#W3	YES	محلّ	التزام	عاديّ	مطلق	الأرض	SURE	عمرت الأرض وعمرت وهي تعمر عمورا
+HFN-E-ed6dc9f770#W1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	عمر الرجل عمرا بقي زمانا
+HFN-E-ed6dc9f770#W2	OTHER_SENSE	-	-	-	-	-	SURE	أم عامر اسم للضبع
+HFN-E-ed6dc9f770#W3	YES	محلّ	التزام	عاديّ	مطلق	الأرض	UNSURE	عمرت الأرض وعمرت؛ قرب المعنى
+HFN-E-bc3c135362#W1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	العمر الحياة؛ عمر الرجل بقي زمانا
+HFN-E-bc3c135362#W2	OTHER_SENSE	-	-	-	-	-	SURE	أم عامر اسم للضبع
+HFN-E-bc3c135362#W3	YES	محلّ	التزام	عاديّ	مطلق	الأرض	UNSURE	عمرت الأرض العمارة؛ معنى قريب
+HFN-E-b7ed8d62a1#W1	YES	زمان	التزام	عاديّ	مطلق	يوم	UNSURE	يوم عماس شديد وقد عمس عمسا
+HFN-E-c8c283f5fc#W1	YES	زمان	التزام	عاديّ	مطلق	يوم	UNSURE	يوم عماس شديد وقد عمس عمسا
+HFN-E-d61463a67c#W1	OTHER_SENSE	-	-	-	-	-	SURE	عنده ظرف
+HFN-E-d61463a67c#W2	OTHER_SENSE	-	-	-	-	-	SURE	مما عنده ظرف
+HFN-E-d61463a67c#W3	OTHER_SENSE	-	-	-	-	-	SURE	عنده ظرف
+HFN-E-f6b85a8a0e#W1	YES	محلّ	تضمّن	-	-	العرق	UNSURE	عند العرق وأعند سال فأكثر
+HFN-E-f6b85a8a0e#W2	YES	فاعل	التزام	عاديّ	مطلق	الإبل	UNSURE	العنود التي ترعى ناحية؛ العواند يفررن
+HFN-E-f6b85a8a0e#W3	YES	فاعل	تضمّن	-	-	ناقة	UNSURE	ناقة عنود إذا تنكبت الطريق؛ طريق عاند
+HFN-E-9aec95e24e#W1	OTHER_SENSE	-	-	-	-	-	SURE	عنده ظرف
+HFN-E-9aec95e24e#W2	OTHER_SENSE	-	-	-	-	-	SURE	مما عنده ظرف
+HFN-E-9aec95e24e#W3	OTHER_SENSE	-	-	-	-	-	SURE	عنده ظرف
+HFN-E-5b55eeef8f#W1	OTHER_SENSE	-	-	-	-	-	SURE	عنده ظرف
+HFN-E-5b55eeef8f#W2	OTHER_SENSE	-	-	-	-	-	SURE	مما عنده ظرف
+HFN-E-5b55eeef8f#W3	OTHER_SENSE	-	-	-	-	-	SURE	عنده ظرف
+HFN-E-e99723c9d0#W1	OTHER_SENSE	-	-	-	-	-	SURE	العنزة اسم أداة كالرمح
+HFN-E-e99723c9d0#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	تعنز تصحيف تعتر
+HFN-E-e99723c9d0#W3	OTHER_SENSE	-	-	-	-	-	SURE	العنزة اسم سبع
+HFN-E-886cf8927e#W1	YES	محلّ	التزام	عاديّ	مطلق	امرأة	UNSURE	العنقاء المعنقة والرجل معنق
+HFN-E-886cf8927e#W2	OTHER_SENSE	-	-	-	-	-	SURE	عنقه اسم عضو
+HFN-E-886cf8927e#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	أعنقت الكلب جعلت في عنقه قلادة
+HFN-E-c25b30b1d4#W1	NO_DHAT	-	-	-	-	-	UNSURE	العاهرة الفاجرة عهرت؛ لا اسم ذات صريح
+HFN-E-3ec110019a#W1	YES	محلّ	التزام	عاديّ	مطلق	السعفات	SURE	العواهن وقد عهنت تعهن يبست
+HFN-E-3ec110019a#W2	YES	محلّ	التزام	عاديّ	مطلق	القضيب	SURE	عهنت القضيب أعهنه عهنا
+HFN-E-3ec110019a#W3	NO_DHAT	-	-	-	-	-	UNSURE	عهن دام وثبت؛ معروفها عاهن
+HFN-E-016fc7ff28#W1	OTHER_SENSE	-	-	-	-	-	SURE	ولان عوده: العود اسم خشب
+HFN-E-016fc7ff28#W2	YES	فاعل	التزام	عاديّ	مطلق	فلان	UNSURE	رجع فلان أدراجه وكذلك عوده على بدئه
+HFN-E-016fc7ff28#W3	YES	محلّ	التزام	عاديّ	مطلق	المريض	UNSURE	النكس العود في المرض؛ المريض يبرأ فينكس
+HFN-E-42f85ba661#W1	NO_DHAT	-	-	-	-	-	SURE	العوص ضد الإمكان؛ أمر أعوص
+HFN-E-9a3f6e8f39#W1	NO_DHAT	-	-	-	-	-	UNSURE	العوض البدل عاضه منه؛ لا ذات
+HFN-E-9a3f6e8f39#W2	NO_DHAT	-	-	-	-	-	SURE	عاضه خيرا وأعاضه؛ لا ذات
+HFN-E-d77afc44b0#W1	NO_DHAT	-	-	-	-	-	SURE	الختر شبيه بالغدر ختر يختر
+HFN-E-78d7d54e3a#W1	YES	فاعل	التزام	عاديّ	مطلق	البقر	SURE	فعافت الماء؛ الماء محلّ
+HFN-E-78d7d54e3a#W2	YES	فاعل	تضمّن	-	-	البعير	SURE	عاف البعير الماء سافه ولم يشرب
+HFN-E-78d7d54e3a#W3	YES	محلّ	التزام	عاديّ	مطلق	الماء	UNSURE	عافت الماء في الشتاء؛ الفاعل ضمير
+HFN-E-6337fabbea#W1	OTHER_SENSE	-	-	-	-	-	SURE	معقت معاقة من معق
+HFN-E-6337fabbea#W2	OTHER_SENSE	-	-	-	-	-	SURE	معق معقا ومعاقة من معق
+HFN-E-6337fabbea#W3	YES	محلّ	تضمّن	-	-	المرأة	UNSURE	ما عاقت المرأة عند زوجها أي لم تلصق
+HFN-E-e9801adfad#W1	YES	فاعل	تضمّن	-	-	النجوم	UNSURE	يقال لمضي النجوم عامت عوما
+HFN-E-e9801adfad#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	عاومت النخلة من العام السنة
+HFN-E-e9801adfad#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	عاموا إلى اللبن من العيمة
+HFN-E-4aaa804f2d#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	عارت تعار عورا ذهب بصرها
+HFN-E-4aaa804f2d#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	المعار السمين من الخيل
+HFN-E-4aaa804f2d#W3	OTHER_SENSE	-	-	-	-	-	SURE	التعار التقلب على الفراش من عرر
+HFN-E-ddd01f3d79#W1	OTHER_SENSE	-	-	-	-	-	SURE	العيقة فناء من الأرض اسم
+HFN-E-ddd01f3d79#W2	OTHER_SENSE	-	-	-	-	-	SURE	معقت معاقة من معق
+HFN-E-ddd01f3d79#W3	OTHER_SENSE	-	-	-	-	-	SURE	معيق من معق
+HFN-E-8e2e0944bc#W1	OTHER_SENSE	-	-	-	-	-	SURE	عينه اسم عضو
+HFN-E-8e2e0944bc#W2	OTHER_SENSE	-	-	-	-	-	SURE	دمعت عينه: العين اسم عضو
+HFN-E-8e2e0944bc#W3	OTHER_SENSE	-	-	-	-	-	SURE	غارت عينه: العين اسم عضو
+HFN-E-deb01aaf14#W1	OTHER_SENSE	-	-	-	-	-	SURE	عينه اسم عضو
+HFN-E-deb01aaf14#W2	OTHER_SENSE	-	-	-	-	-	SURE	دمعت عينه: العين اسم عضو
+HFN-E-deb01aaf14#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	الماء المعين الجاري؛ معن الوادي
+HFN-E-12b0600c34#W1	YES	محلّ	التزام	عاديّ	مطلق	ذئب	SURE	ذئب أغبس وذئبة غبساء
+HFN-E-12b0600c34#W2	NO_DHAT	-	-	-	-	-	UNSURE	الغثرة شبيه بالغبسة؛ الغبسة لم تسند لذات
+HFN-E-720ef2755d#W1	NO_DHAT	-	-	-	-	-	SURE	الغبطة فضل الحال؛ مغبوط اغتبط
+HFN-E-720ef2755d#W2	YES	محلّ	تضمّن	-	-	الشاة	SURE	غبطت الشاة إذا جستها لتعرف سمنها
+HFN-E-720ef2755d#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	أغبط المطر دام؛ معنى بعيد
+HFN-E-e64d9ce7ee#W1	NO_DHAT	-	-	-	-	-	SURE	الغبطة المسرة؛ مغبوط اغتبط
+HFN-E-e64d9ce7ee#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	غبطت الشاة جستها؛ بعيد عن غبط
+HFN-E-e64d9ce7ee#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	أغبط المطر دام؛ معنى بعيد
+HFN-E-5381b9cc54#W1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل مغبون وغبين في العقل
+HFN-E-5381b9cc54#W2	OTHER_SENSE	-	-	-	-	-	SURE	المغبن الإبط اسم عضو
+HFN-E-5381b9cc54#W3	OTHER_SENSE	-	-	-	-	-	SURE	المغابن الآباط اسم
+HFN-E-9f720c321b#W1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	غدره وغدر به ورجل غادر
+HFN-E-9f720c321b#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	ليلة مغدرة بينة الغدر شديدة الظلمة
+HFN-E-9f720c321b#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	غدرت غنمها حين تشبع؛ معنى بعيد
+HFN-E-c4f604a4ea#W1	NO_DHAT	-	-	-	-	-	UNSURE	الغدن النعمة الاسترخاء واللين؛ لا ذات
+HFN-E-c4f604a4ea#W2	YES	محلّ	التزام	عاديّ	مطلق	القوم	UNSURE	القوم في غدنة من عيشهم
+HFN-E-04832cf083#W1	YES	محلّ	التزام	عاديّ	مطلق	عظم	UNSURE	مبتر كالكل عظم يلحمه
+HFN-E-04832cf083#W2	NO_DHAT	-	-	-	-	-	UNSURE	الأباتر الذي يبتر رحمه؛ لا اسم ذات
+HFN-E-04832cf083#W3	YES	فاعل	تضمّن	-	-	رجل	UNSURE	رجل الباتر الذي يبتر رحمه يقطعها
+HFN-E-deec805cc1#W1	YES	محلّ	التزام	عاديّ	مطلق	الجبل	UNSURE	القطعة من الجبل تنبتل عن معظمه
+HFN-E-a717090af5#W1	NO_DHAT	-	-	-	-	-	SURE	المتبتل المنقطع إلى الله
+HFN-E-7d74ac4a52#W1	YES	فاعل	التزام	عاديّ	مطلق	فلان	SURE	فلان يتبجح لفلان
+HFN-E-7d74ac4a52#W2	NO_DHAT	-	-	-	-	-	SURE	المأفون المتبجح بما ليس عنده
+HFN-E-fe76502213#W1	YES	محلّ	التزام	عاديّ	مطلق	الشراب	UNSURE	يتبجر الشراب أي يلح في شربه
+HFN-E-cde769dc58#W1	YES	محلّ	التزام	عاديّ	مطلق	ثريد	UNSURE	أتانا بثريد يتبجس
+HFN-E-cde769dc58#W2	YES	محلّ	التزام	عاديّ	مطلق	النفيتة	UNSURE	النفيتة حتى ينفت وتتبجس من نفتها
+HFN-E-b4b6fda8e8#W1	NO_DHAT	-	-	-	-	-	SURE	بحثت عنه واستبحثت عنه؛ لا ذات
+HFN-E-85f3095e35#W1	NO_DHAT	-	-	-	-	-	SURE	بحثت الشيء وتبحثته؛ تبحثت الأخبار
+HFN-E-c0c19e37a5#W1	YES	محلّ	تضمّن	-	-	الركية	UNSURE	بدعت الركية أي استنبطتها
+HFN-E-5cfbe5856f#W1	NO_DHAT	-	-	-	-	-	SURE	إبدال النون من الواو؛ حروف
+HFN-E-5cfbe5856f#W2	NO_DHAT	-	-	-	-	-	SURE	أبدلت إبدالا؛ الهمزة حرف
+HFN-E-5cfbe5856f#W3	NO_DHAT	-	-	-	-	-	SURE	فأبدلت من الألف همزة؛ حروف
+HFN-E-f9a1b15648#W1	NO_DHAT	-	-	-	-	-	SURE	إبدال النون من الواو؛ حروف
+HFN-E-f9a1b15648#W2	NO_DHAT	-	-	-	-	-	SURE	أبدلت من الهمزة ياء؛ حروف
+HFN-E-f9a1b15648#W3	NO_DHAT	-	-	-	-	-	SURE	أبدل نسعا من مؤوبة؛ إعراب
+HFN-E-d20e261a90#W1	YES	محلّ	تضمّن	-	-	ثوب	UNSURE	ثوب مبرج فيه صور البروج
+HFN-E-f0aefc7f97#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	لا يبرح منه: برح بمعنى زال
+HFN-E-f0aefc7f97#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	السانح والبارح: معنى بعيد
+HFN-E-f0aefc7f97#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	لا تريد أن تبرح: بمعنى زال
+HFN-E-d89bec074e#W1	YES	محلّ	التزام	عاديّ	مطلق	السجال	UNSURE	والسجال تبترد
+HFN-E-d89bec074e#W2	YES	آلة	تضمّن	-	-	الماء	SURE	ابتردت بالماء صببت على رأسي ماء باردا
+HFN-E-094dc2b514#W1	YES	آلة	التزام	عاديّ	مطلق	الماء	UNSURE	استنقع الرجل في الماء يتبرد؛ الرجل فاعل
+HFN-E-094dc2b514#W2	YES	آلة	التزام	عاديّ	مطلق	الماء	UNSURE	القرور الماء الذي يتقرر به أي يتبرد
+HFN-E-45b357db24#W1	YES	فاعل	تضمّن	-	-	الرجل	UNSURE	تبرض الرجل حاجته أخذها قليلا قليلا
+HFN-E-45b357db24#W2	YES	مكان	تضمّن	-	-	الأرض	UNSURE	إذا ظهر نبات الأرض قيل تبرضت
+HFN-E-45b357db24#W3	YES	محلّ	التزام	عاديّ	مطلق	البئر	UNSURE	البئر البروض يتبرضها؛ فلان يتبرض أيضا
+HFN-E-f8b8ec390f#W1	NO_DHAT	-	-	-	-	-	SURE	ضجرت وتضجرت تبرمت؛ لا ذات
+HFN-E-b842ccb3e4#W1	OTHER_SENSE	-	-	-	-	-	SURE	تبره الله من تبر
+HFN-E-b842ccb3e4#W2	OTHER_SENSE	-	-	-	-	-	SURE	يبره من برر
+HFN-E-b842ccb3e4#W3	OTHER_SENSE	-	-	-	-	-	SURE	أبر بيمينه من برر
+HFN-E-a80b0cd5fd#W1	YES	فاعل	التزام	عاديّ	مطلق	امرأة	UNSURE	يصف امرأة؛ فتبازخت لها
+HFN-E-8904a0af1d#W1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل باسل كريه المنظر؛ تبسل في عينيه
+HFN-E-15e7d07d2b#W1	YES	فاعل	التزام	عاديّ	مطلق	الناقة	UNSURE	أسرت الناقة لقحا لم تشل بذنبها ولم تبشر
+HFN-E-15e7d07d2b#W2	NO_DHAT	-	-	-	-	-	SURE	بشرته بالأمر أبشره؛ لا ذات
+HFN-E-15e7d07d2b#W3	OTHER_SENSE	-	-	-	-	-	SURE	بشرت الأديم قشرت بشرته
+HFN-E-8c44f1e355#W1	YES	فاعل	التزام	عاديّ	مطلق	الضباع	SURE	تستبشر بالقتلى إذا أكلتهم؛ القتلى محلّ
+HFN-E-f3cfc872ef#W1	OTHER_SENSE	-	-	-	-	-	SURE	التبشرة اسم طائر
+HFN-E-f3cfc872ef#W2	OTHER_SENSE	-	-	-	-	-	SURE	التبشرة اسم طائر
+HFN-E-0bf9c1ab9a#W1	YES	محلّ	التزام	عاديّ	مطلق	العرق	UNSURE	بصع وتبصع خرج من أصول الشعر؛ الشعر مصدر
+HFN-E-2b63d4a0fe#W1	YES	آلة	التزام	عاديّ	مطلق	ماء	UNSURE	ماء باضع الذي يبتضع به
+HFN-E-6ab745f2ca#W1	YES	فاعل	التزام	عاديّ	مطلق	عودا	UNSURE	عودا أحم القرا يتبضع القذفا
+HFN-E-ef6595688d#W1	YES	محلّ	التزام	عاديّ	مطلق	جراحته	UNSURE	جراحته تبطل فلا يكترث لها
+HFN-E-ef6595688d#W2	NO_DHAT	-	-	-	-	-	UNSURE	يبطل التسع والعشر: أسماء ليال
+HFN-E-ef6595688d#W3	YES	محلّ	التزام	عاديّ	مطلق	المزاهر	SURE	يبطل له اللعب والزمارات والمزاهر والكنارات
+HFN-E-e35c3d6994#W1	YES	محلّ	التزام	عاديّ	مطلق	العين	UNSURE	العين الذي تبعثه يتجسس لك
+HFN-E-36ea083b62#W1	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	غرب الرجل بعد
+HFN-E-36ea083b62#W2	YES	محلّ	التزام	عاديّ	مطلق	أصل	UNSURE	أصل يبعد في الأرض
+HFN-E-36ea083b62#W3	YES	محلّ	التزام	عاديّ	مطلق	الشهدة	UNSURE	الشهدة تبعد فلا يسهل إخراجها
+HFN-E-2335500d14#W1	YES	فاعل	التزام	عاديّ	مطلق	الإبل	SURE	تبرك ناحية إلا أنها تستبعد
+HFN-E-2335500d14#W2	NO_DHAT	-	-	-	-	-	SURE	استبعدت الشيء رأيته بعيدا
+HFN-E-f019d025f9#W1	OTHER_SENSE	-	-	-	-	-	SURE	بعض اسم؛ بعضته البعوض خرشته
+HFN-E-f7dcbf6ffe#W1	NO_DHAT	-	-	-	-	-	SURE	سمت فأبعطت؛ السعر لا ذات
+HFN-E-0220e3fdd0#W1	YES	محلّ	التزام	عاديّ	مطلق	الماء	UNSURE	البعاق الذي يتبعق بالماء تبعقا
+HFN-E-2525d1425b#W1	YES	محلّ	تضمّن	-	-	ناقة	UNSURE	ناقة بقير إذا شق بطنها عن ولدها
+HFN-E-2525d1425b#W2	OTHER_SENSE	-	-	-	-	-	SURE	البقر اسم حيوان
+HFN-E-2525d1425b#W3	OTHER_SENSE	-	-	-	-	-	SURE	بقر مبقرة اسم حيوان
+HFN-E-cb5ad742d7#W1	YES	محلّ	تضمّن	-	-	البقل	UNSURE	ابتقلت الماشية وتبقلت رعت البقل؛ الماشية فاعل
+HFN-E-cb5ad742d7#W2	YES	فاعل	تضمّن	-	-	الغنم	SURE	ابتقلت الغنم رعت البقل
+HFN-E-bd5a1b910b#W1	YES	فاعل	التزام	عاديّ	مطلق	القطين	UNSURE	خف القطين فراحوا عنك وابتكروا
+HFN-E-bd5a1b910b#W2	YES	زمان	التزام	عقليّ	ذهنيّ	بكرة	UNSURE	ابتكرت وباكرته أتيته بكرة؛ الرجل فاعل
+HFN-E-1580a05755#W1	YES	فاعل	تضمّن	-	-	الإنسان	SURE	الإنسان يتبكل أي يختال
+HFN-E-1580a05755#W2	NO_DHAT	-	-	-	-	-	SURE	تبكلت عليه تدللت
+HFN-E-1580a05755#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	بكل الدقيق بالسويق خلطه؛ معنى بعيد
+HFN-E-801c7745e4#W1	NO_DHAT	-	-	-	-	-	UNSURE	المبلت المهر المضمون
+HFN-E-801c7745e4#W2	NO_DHAT	-	-	-	-	-	SURE	بلت وأبلت سكن
+HFN-E-7185e5e71a#W1	NO_DHAT	-	-	-	-	-	SURE	خطوب تنبلت ما عندي
+HFN-E-68cc9cda83#W1	NO_DHAT	-	-	-	-	-	UNSURE	المتبلد مثله؛ علهت تبلد بلا ذات
+HFN-E-68cc9cda83#W2	YES	محلّ	التزام	عاديّ	مطلق	الحامل	UNSURE	تبلد الحامل تحت الحمل
+HFN-E-68cc9cda83#W3	NO_DHAT	-	-	-	-	-	UNSURE	بلدت أبلد بلودا؛ لا ذات
+HFN-E-14ba12dc37#W1	YES	محلّ	التزام	عاديّ	مطلق	الحائط	SURE	بلطت الحائط أبلطه؛ دار مبلطة
+HFN-E-14ba12dc37#W2	NO_DHAT	-	-	-	-	-	UNSURE	بالط في أمره اجتهد
+HFN-E-14ba12dc37#W3	YES	مكان	التزام	عاديّ	مطلق	الأرض	UNSURE	بلطوا لزموا الأرض يقاتلون عليها
+HFN-E-ef7398c3c9#W1	YES	محلّ	التزام	عاديّ	مطلق	الطعام	SURE	بلعت الطعام بلعا وابتلعته وأبلعته إياه
+HFN-E-02c39f3c56#W1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	بلهت وتبلهت؛ رجل أبله غافل
+HFN-E-82f46d5249#W1	YES	محلّ	تضمّن	-	-	القبجة	SURE	بنجت القبجة أخرجتها من جحرها
+HFN-E-9f62f8992c#W1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل بهج مبتهج؛ بهجت فرحت وابتهجت
+HFN-E-b68ed0721b#W1	YES	محلّ	تضمّن	-	-	بوابا	UNSURE	تبوبت بوابا اتخذته
+HFN-E-53c63b0ef8#W1	NO_DHAT	-	-	-	-	-	SURE	مر يتبوع إذا كان يذهب؛ لا ذات
+HFN-E-45914664e8#W1	YES	محلّ	التزام	عاديّ	مطلق	آذان ضأنها	UNSURE	تبيت آذان ضأنها تنطف حتى الصباح
+HFN-E-45914664e8#W2	YES	فاعل	التزام	عاديّ	مطلق	الحية	UNSURE	يبيت الحية النضناض منه مكان الحب
+HFN-E-45914664e8#W3	NO_DHAT	-	-	-	-	-	UNSURE	يبيت يحفهن بقفقفيه؛ مرجع الضمير غير مذكور
+HFN-E-33731a399e#W1	YES	محلّ	التزام	عاديّ	مطلق	فرسا	UNSURE	فمن يبع فرسا؛ ابتعته اشتريته
+HFN-E-d09694d206#W1	NO_DHAT	-	-	-	-	-	SURE	أن لا يبين الكلام
+HFN-E-d09694d206#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	تبين القطعة: بان بمعنى انفصل
+HFN-E-d09694d206#W3	NO_DHAT	-	-	-	-	-	UNSURE	صهيلا يبين للمغرب؛ الصهيل ليس ذاتا
+HFN-E-d58d39bcd5#W1	NO_DHAT	-	-	-	-	-	SURE	تبينت أنه صفة
+HFN-E-d58d39bcd5#W2	YES	آلة	التزام	عاديّ	مطلق	النار	UNSURE	نار بعيدة فإذا تبينت بها القص
+HFN-E-d58d39bcd5#W3	YES	محلّ	التزام	عاديّ	مطلق	رسومك	UNSURE	المتبين لآثارك ورسومك
+HFN-E-0d0bfeff95#W1	YES	محلّ	التزام	عاديّ	مطلق	القدر	UNSURE	تأبلت القدر
+HFN-E-17c395b393#W1	YES	محلّ	تضمّن	-	-	الدابة	SURE	تبنت الدابة علفتها التبن
+HFN-E-3106dee13b#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	تربت يداه دعاء بالفقر؛ ضد أترب
+HFN-E-3106dee13b#W2	YES	آلة	تضمّن	-	-	التراب	SURE	أتربت الشيء وضعت عليه التراب
+HFN-E-3106dee13b#W3	YES	محلّ	تضمّن	-	-	الكتاب	SURE	أتربت الكتاب هلت عليه التراب؛ التراب آلة
+HFN-E-b6e5ebc0aa#W1	YES	آلة	التزام	عقليّ	ذهنيّ	الترس	SURE	ترس وقد تترست به
+HFN-E-ac5d376d39#W1	YES	محلّ	التزام	عاديّ	مطلق	الرحبة	UNSURE	إذا اتسعت الرحبة؛ متسع بين مرتفعين
+HFN-E-ac5d376d39#W2	NO_DHAT	-	-	-	-	-	UNSURE	مالي عن ذلك متسع أي مصرف
+HFN-E-ac5d376d39#W3	YES	محلّ	التزام	عاديّ	مطلق	الفرس	UNSURE	يستحب في الفرس يتسع منخره
+HFN-E-5b1854216b#W1	NO_DHAT	-	-	-	-	-	UNSURE	التتلع التقدم رفع الرأس؛ لا ذات
+HFN-E-bbe42d8117#W1	YES	محلّ	تضمّن	-	-	التمر	SURE	تمرت القوم أطعمتهم التمر
+HFN-E-bbe42d8117#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	لابن وتامر نسبة لا حدث
+HFN-E-bbe42d8117#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	لابن وتامر نسبة لا حدث
+HFN-E-826480098c#W1	YES	مكان	التزام	عقليّ	ذهنيّ	تهامة	UNSURE	أتهمنا من تهامة؛ فإن تتهموا
+HFN-E-6af93b585e#W1	OTHER_SENSE	-	-	-	-	-	SURE	فتتوجه من وجه
+HFN-E-8389047253#W1	YES	محلّ	تضمّن	-	-	العصا	UNSURE	تثبج بالعصا جعلها على ظهره
+HFN-E-8389047253#W2	NO_DHAT	-	-	-	-	-	SURE	ثبجت الكلام لم تأت به على وجهه
+HFN-E-8389047253#W3	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل مثبج طويل مضطرب
+HFN-E-86aac945cf#W1	OTHER_SENSE	-	-	-	-	-	SURE	يثرب اسم بلد
+HFN-E-86aac945cf#W2	OTHER_SENSE	-	-	-	-	-	SURE	صنع يثرب اسم بلد
+HFN-E-5e62a37a03#W1	OTHER_SENSE	-	-	-	-	-	SURE	يثرب اسم بلد
+HFN-E-5e62a37a03#W2	OTHER_SENSE	-	-	-	-	-	SURE	صنع يثرب اسم بلد
+HFN-E-5e62a37a03#W3	NO_DHAT	-	-	-	-	-	SURE	ثربت عليه لمته وعيرته
+HFN-E-a61b3bf68f#W1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	المثلبة العيب الذي يذكر به الرجل
+HFN-E-a61b3bf68f#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	ثالبة الشوى: معنى بعيد
+HFN-E-a61b3bf68f#W3	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	ثلبت الرجل طردته
+HFN-E-9da279fa75#W1	OTHER_SENSE	-	-	-	-	-	SURE	الثالث الثلاثاء اسم يوم
+HFN-E-9da279fa75#W2	OTHER_SENSE	-	-	-	-	-	SURE	المثلث اسم وتر
+HFN-E-9da279fa75#W3	OTHER_SENSE	-	-	-	-	-	SURE	السفر الثالث عدد
+HFN-E-b468f4bb5e#W1	YES	مصدر	التزام	عاديّ	مطلق	الشجرة	UNSURE	الثامر من الشجر ذو الثمر
+HFN-E-b468f4bb5e#W2	YES	مصدر	التزام	عاديّ	مطلق	شجرة	SURE	شجرته وتثمر عناقيد
+HFN-E-b468f4bb5e#W3	YES	مصدر	التزام	عاديّ	مطلق	العشرق	SURE	العشرق وتثمر ثمرا كثيرا
+HFN-E-04bbf9bd86#W1	NO_DHAT	-	-	-	-	-	SURE	أثابه الله وثوبه؛ لا ذات
+HFN-E-04bbf9bd86#W2	YES	محلّ	تضمّن	-	-	فلانا	UNSURE	ثوبت فلانا من كذا مثل عوضته
+HFN-E-04bbf9bd86#W3	NO_DHAT	-	-	-	-	-	SURE	المثوبة مثال صرفي
+HFN-E-aad39dc1db#W1	YES	محلّ	التزام	عاديّ	مطلق	العجاج	SURE	العجاج ما ثورته الريح منه؛ الريح فاعل
+HFN-E-aad39dc1db#W2	YES	محلّ	التزام	عاديّ	مطلق	الطحلب	SURE	ثورت الطحلب وأثرته
+HFN-E-aad39dc1db#W3	YES	فاعل	التزام	عاديّ	مطلق	بعير	UNSURE	بعير لا يقدر على أن يثور
+HFN-E-626461ba9a#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	جبر العظم؛ بعيد عن أجبر
+HFN-E-626461ba9a#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	يضمد به الكسر فيجبر؛ بعيد
+HFN-E-626461ba9a#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	تجبر فلان مالا؛ تجبر الشجر؛ بعيد
+HFN-E-b084b35a0c#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	يجبى فيه الماء أي يجمع؛ بعيد
+HFN-E-d7dc3bf052#W1	YES	محلّ	تضمّن	-	-	النبت	SURE	جدر النبت والشجر وأجدر طلعت رءوسه
+HFN-E-d7dc3bf052#W2	YES	مكان	التزام	عاديّ	مطلق	الأرض	UNSURE	بذرت الأرض وأجدرت
+HFN-E-d7dc3bf052#W3	OTHER_SENSE	-	-	-	-	-	SURE	الصبي الذي لم يجدر: الجدري
+HFN-E-e280c79800#W1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل مدفع لا يجدى إن استجدى
+HFN-E-d0744842c8#W1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل مدفع لا يجدى إن استجدى
+HFN-E-cc2806f68b#W1	YES	محلّ	تضمّن	-	-	رجل	SURE	رجل مجذم نزل به الجذام
+HFN-E-b42c66e3e0#W1	OTHER_SENSE	-	-	-	-	-	SURE	جارحة اسم عضو
+HFN-E-b42c66e3e0#W2	OTHER_SENSE	-	-	-	-	-	SURE	الجارحة اسم عضو
+HFN-E-b42c66e3e0#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	جارح أهله كاسبهم؛ معنى بعيد
+HFN-E-4de8887174#W1	YES	محلّ	تضمّن	-	-	الناقة	SURE	أجرزت الناقة وهي مجرز هزلت
+HFN-E-4de8887174#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	جرز اشتد أكله؛ بعيد عن أجرز
+HFN-E-4de8887174#W3	YES	محلّ	تضمّن	-	-	الأرض	SURE	أجرزت الأرض صارت جرزا
+HFN-E-b9e70b8298#W1	YES	محلّ	تضمّن	-	-	جزورا	SURE	أجزرت القوم أعطيتهم جزورا
+HFN-E-b9e70b8298#W2	OTHER_SENSE	-	-	-	-	-	SURE	جزر البحر يجزر: معنى بعيد
+HFN-E-b9e70b8298#W3	YES	محلّ	تضمّن	-	-	جزرة	SURE	أجزرت القوم أعطيته جزرة يذبحونها الشاة
+HFN-E-162295ae35#W1	NO_DHAT	-	-	-	-	-	SURE	أجزلت له وعطاء جزل
+HFN-E-a21ffa84ba#W1	YES	فاعل	تضمّن	-	-	القوم	SURE	أجفل القوم وانجفلوا انقلعوا كلهم
+HFN-E-dda1a007d5#W1	OTHER_SENSE	-	-	-	-	-	SURE	الينجلب اسم خرزة
+HFN-E-6983fee879#W1	YES	محلّ	التزام	عاديّ	مطلق	سقب	UNSURE	جلد مسك سقب مجلد
+HFN-E-6983fee879#W2	YES	آلة	التزام	عقليّ	ذهنيّ	الجليد	UNSURE	السماء تجلدنا؛ أرض مجلودة من الجليد
+HFN-E-6983fee879#W3	YES	فاعل	التزام	عاديّ	مطلق	الحية	UNSURE	جلدت الحية؛ يجلد بذنبه فيقتل
+HFN-E-eac896a799#W1	YES	محلّ	تضمّن	-	-	الإناء	UNSURE	أخذت الإناء فاجتلدته إذا حملته فحسوت
+HFN-E-b8dd114fad#W1	YES	محلّ	التزام	عاديّ	مطلق	ناقة	UNSURE	مجلوز الخلق؛ المجلوزة الشديدة الخلق
+HFN-E-b8dd114fad#W2	YES	محلّ	تضمّن	-	-	السكين	SURE	جلزت السكين والسوط حزمت مقبضه
+HFN-E-b8dd114fad#W3	YES	محلّ	تضمّن	-	-	السكين	UNSURE	جلزت السكين والسوط حزمت مقبضه؛ الجلائز للقوس
+HFN-E-fc67793eb2#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	مجمر اسم أداة
+HFN-E-fc67793eb2#W2	YES	محلّ	تضمّن	-	-	ثوب	SURE	ثوب مجمر مكبي
+HFN-E-fc67793eb2#W3	YES	محلّ	تضمّن	-	-	الجند	UNSURE	التجمير ترك الجند في نحر العدو
+HFN-E-bf929d120f#W1	YES	آلة	التزام	عقليّ	ذهنيّ	المجمرة	UNSURE	المجمرة يوضع فيها الجمر وقد اجتمرت بها
+HFN-E-9df1a7b017#W1	NO_DHAT	-	-	-	-	-	UNSURE	جمع يجمع جمعا فتجمع واجتمع؛ لا ذات
+HFN-E-9df1a7b017#W2	YES	فاعل	التزام	عاديّ	مطلق	القوم	UNSURE	تألب القوم تجمعوا؛ استجمعوا
+HFN-E-9df1a7b017#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	يجمع كروانات: جمع صرفي
+HFN-E-a3bb635c4f#W1	NO_DHAT	-	-	-	-	-	UNSURE	جمع يجمع جمعا فتجمع واجتمع؛ لا ذات
+HFN-E-a3bb635c4f#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	المصادر قد تجمع: جمع صرفي
+HFN-E-a3bb635c4f#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	يجمع كروانات: جمع صرفي
