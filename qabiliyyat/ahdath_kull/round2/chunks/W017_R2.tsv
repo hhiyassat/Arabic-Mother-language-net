@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-b4e39835c2#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	رشمة: علامة في الطائر لا الرشم
+HFN-E-ba9d2abec3#W1	YES	محلّ	التزام	عاديّ	مطلق	طائر	UNSURE	طائر فيه رشمة
+HFN-E-c74a18ec89#W1	OTHER_SENSE	-	-	-	-	-	SURE	الرصدة المطرة؛ أرض مرصودة: معنى المطر
+HFN-E-c74a18ec89#W2	NO_DHAT	-	-	-	-	-	SURE	الرصد والارتصاد الانتظار؛ رصدته ترقبته
+HFN-E-c74a18ec89#W3	YES	فاعل	التزام	عاديّ	مطلق	رماة	UNSURE	وتخشى رماة الغوث من كل مرصد
+HFN-E-83e3ed5474#W1	OTHER_SENSE	-	-	-	-	-	SURE	الراضب ضرب من السدر: اسم شجر
+HFN-E-83e3ed5474#W2	YES	فاعل	تضمّن	-	-	المطر	UNSURE	والراضب من المطر السح
+HFN-E-83e3ed5474#W3	YES	فاعل	تضمّن	-	-	المطر	UNSURE	يوم راضب دائم المطر؛ يوم زمان
+HFN-E-7a6b5dbda6#W1	OTHER_SENSE	-	-	-	-	-	SURE	مرط شعره نتفه: جذر مرط
+HFN-E-7a6b5dbda6#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	الرطيء الأحمق: معنى بعيد
+HFN-E-7a6b5dbda6#W3	OTHER_SENSE	-	-	-	-	-	SURE	مرطت به أمه: جذر مرط
+HFN-E-b6b9521ea6#W1	YES	آلة	تضمّن	-	-	كفه	SURE	رطسه يرطسه رطسا ضربه بباطن كفه
+HFN-E-15fc1646cd#W1	OTHER_SENSE	-	-	-	-	-	SURE	مرطل ثوبه بالطين لطخه: لفظ آخر
+HFN-E-15fc1646cd#W2	OTHER_SENSE	-	-	-	-	-	SURE	مرطلة: مطر يبل الثياب
+HFN-E-15fc1646cd#W3	OTHER_SENSE	-	-	-	-	-	SURE	مرطلت العمل: لفظ آخر
+HFN-E-81d90af061#W1	OTHER_SENSE	-	-	-	-	-	SURE	الرعاث القرطة واحدها رعث: اسم حلي
+HFN-E-81d90af061#W2	OTHER_SENSE	-	-	-	-	-	SURE	رعثة مثل رعثة الديك: اسم
+HFN-E-81d90af061#W3	YES	محلّ	تضمّن	-	-	العنز	UNSURE	رعثت العنز رعثا ابيضت أطراف زنمتها
+HFN-E-f0b7a8ce01#W1	OTHER_SENSE	-	-	-	-	-	SURE	الرعاث القرطة: اسم حلي
+HFN-E-f0b7a8ce01#W2	OTHER_SENSE	-	-	-	-	-	SURE	رعثة مثل رعثة الديك: اسم
+HFN-E-f0b7a8ce01#W3	YES	محلّ	تضمّن	-	-	العنز	SURE	رعثت العنز رعثا ابيضت أطراف زنمتها
+HFN-E-5e2c481be4#W1	YES	محلّ	تضمّن	-	-	أرض	UNSURE	أرض رعجة ومرتعجة إذا كانت تمرح بالنبات
+HFN-E-00a9091861#W1	YES	مكان	التزام	عاديّ	مطلق	الخط	UNSURE	الخط مرفأ السفن؛ السفن محلّ
+HFN-E-00a9091861#W2	YES	مكان	التزام	عاديّ	مطلق	الكلاء	UNSURE	الكلاء مرفأ السفن؛ السفن محلّ
+HFN-E-00a9091861#W3	YES	محلّ	تضمّن	-	-	الثوب	SURE	رفوت الثوب ورفأت لأمت خرقه
+HFN-E-f6feaa474a#W1	YES	آلة	التزام	عاديّ	مطلق	رجله	SURE	جحف الشيء برجله إذا رفسه بها
+HFN-E-3e7371181a#W1	NO_DHAT	-	-	-	-	-	UNSURE	الرفغاء الصغيرة المتاع؛ المرفوغة بلا ذات مذكورة
+HFN-E-3e7371181a#W2	YES	محلّ	تضمّن	-	-	ناقة	UNSURE	ناقة رفغة قرحة الرفغ
+HFN-E-3e7371181a#W3	YES	محلّ	تضمّن	-	-	ناقة	UNSURE	ناقة رفغة قريحة الرفغ جربته
+HFN-E-387554bfce#W1	NO_DHAT	-	-	-	-	-	UNSURE	الرفغاء الصغيرة المتاع بلا ذات مذكورة
+HFN-E-387554bfce#W2	YES	محلّ	تضمّن	-	-	ناقة	UNSURE	ناقة رفغة قرحة الرفغ
+HFN-E-387554bfce#W3	YES	محلّ	تضمّن	-	-	ناقة	UNSURE	ناقة رفغة قريحة الرفغ
+HFN-E-d92d3f80ba#W1	NO_DHAT	-	-	-	-	-	SURE	رقبت الشيء أرقبه رقبة ورقبانا
+HFN-E-d92d3f80ba#W2	NO_DHAT	-	-	-	-	-	SURE	رقبت الشيء وراقبته حرسته
+HFN-E-d92d3f80ba#W3	OTHER_SENSE	-	-	-	-	-	SURE	الحيوان في رقابه: جمع رقبة
+HFN-E-ca0066d164#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	رقبت الشيء أرقبه: من رقب لا رقب
+HFN-E-ca0066d164#W2	OTHER_SENSE	-	-	-	-	-	SURE	أبيض البطن والرقبة: اسم عضو
+HFN-E-ca0066d164#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	رقبت الشيء حرسته: معنى آخر
+HFN-E-f6bfab7829#W1	NO_DHAT	-	-	-	-	-	UNSURE	قولهم رقيع أصلها أنه واهي العقل
+HFN-E-f6bfab7829#W2	OTHER_SENSE	-	-	-	-	-	SURE	المرقع يصل الكلام: من رقع الثوب
+HFN-E-f6bfab7829#W3	OTHER_SENSE	-	-	-	-	-	SURE	الخلق المرقع: الثوب المرقوع
+HFN-E-8dc9936248#W1	OTHER_SENSE	-	-	-	-	-	SURE	الأركب العظيم الركبة: اسم عضو
+HFN-E-8dc9936248#W2	YES	محلّ	تضمّن	-	-	الدابة	UNSURE	ركبت الدابة ركبا وركوبا علوتها
+HFN-E-8dc9936248#W3	OTHER_SENSE	-	-	-	-	-	SURE	الغبيط المركب: اسم أداة
+HFN-E-0e8f48fcac#W1	YES	فاعل	التزام	عاديّ	مطلق	الجند	UNSURE	مركز الجند الموضع الذي أمروا بلزومه
+HFN-E-0e8f48fcac#W2	YES	محلّ	التزام	عاديّ	مطلق	رماحنا	SURE	مركز رماحنا
+HFN-E-0e8f48fcac#W3	YES	محلّ	التزام	عاديّ	مطلق	خشبات	SURE	خشبات تركز في الأرض؛ الأرض مكان
+HFN-E-9baeca3e28#W1	NO_DHAT	-	-	-	-	-	SURE	الركس قلب الشيء على رأسه
+HFN-E-9baeca3e28#W2	OTHER_SENSE	-	-	-	-	-	SURE	الركس الرجيع: اسم
+HFN-E-9baeca3e28#W3	YES	فاعل	التزام	عاديّ	مطلق	الثور	UNSURE	الثور الذي تدور حوله البقر وهو يرتكس
+HFN-E-e21c267b6d#W1	YES	فاعل	التزام	عاديّ	مطلق	شقاء	UNSURE	على شقاء تركع في الظراب
+HFN-E-e21c267b6d#W2	NO_DHAT	-	-	-	-	-	SURE	الخاشع الراكع في بعض اللغات
+HFN-E-e21c267b6d#W3	NO_DHAT	-	-	-	-	-	SURE	الخاشع في بعض اللغات الراكع
+HFN-E-61b21bf2a5#W1	NO_DHAT	-	-	-	-	-	UNSURE	وجوز الليل مركوم
+HFN-E-61b21bf2a5#W2	YES	محلّ	التزام	عاديّ	مطلق	الطين	UNSURE	الركمة الطين المجموع ركمته أركمه ركما
+HFN-E-61b21bf2a5#W3	YES	محلّ	التزام	عاديّ	مطلق	الخشرمة	SURE	حجارة وهي مركوم بعضها على بعض
+HFN-E-ab6a68c0c7#W1	NO_DHAT	-	-	-	-	-	SURE	ركن إلى الدنيا ركنا مال إليها
+HFN-E-ab6a68c0c7#W2	NO_DHAT	-	-	-	-	-	SURE	ركنت ركنا أركن
+HFN-E-ab6a68c0c7#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	وضرتها مركنة: معنى بعيد
+HFN-E-c9471c10b9#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	رمث في الضرع أبقى: إبقاء اللبن
+HFN-E-c9471c10b9#W2	YES	محلّ	تضمّن	-	-	الإبل	SURE	رمثت الإبل رمثا أكلت الرمث فاشتكت بطونها
+HFN-E-c9471c10b9#W3	OTHER_SENSE	-	-	-	-	-	SURE	في رمثة: اسم نبات
+HFN-E-ffdd6b6ccb#W1	YES	فاعل	التزام	عاديّ	مطلق	الإبل	UNSURE	والرموك كالأروك رمكت ترمك؛ في غير الإبل
+HFN-E-ffdd6b6ccb#W2	OTHER_SENSE	-	-	-	-	-	SURE	الرامك شيء أسود كالقار
+HFN-E-ffdd6b6ccb#W3	NO_DHAT	-	-	-	-	-	UNSURE	الرامك المجهود الذي يرمك في مكانه
+HFN-E-344a1558df#W1	OTHER_SENSE	-	-	-	-	-	SURE	العقصة من الرمل: اسم الرمل
+HFN-E-344a1558df#W2	YES	آلة	التزام	عاديّ	مطلق	دم	UNSURE	بعد ما رملوا في شأنه بدم
+HFN-E-344a1558df#W3	OTHER_SENSE	-	-	-	-	-	SURE	وردت الرملة: اسم
+HFN-E-5e30c93a00#W1	OTHER_SENSE	-	-	-	-	-	SURE	فرانق وقرانق: ألفاظ أخرى
+HFN-E-ab3cc4f57b#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	الراهب المتعبد في الصومعة: اسم
+HFN-E-ab3cc4f57b#W2	NO_DHAT	-	-	-	-	-	SURE	رهبت الشيء رهبا الخوف
+HFN-E-ab3cc4f57b#W3	YES	محلّ	تضمّن	-	-	الجمل	UNSURE	رهب الجمل إذا ذهب ينهض ثم برك
+HFN-E-6d7af12d85#W1	NO_DHAT	-	-	-	-	-	SURE	رهسه يرهسه رهسا كذلك
+HFN-E-aa4cc437d4#W1	OTHER_SENSE	-	-	-	-	-	SURE	الرهط النقبة من جلود: اسم لباس
+HFN-E-aa4cc437d4#W2	YES	مكان	التزام	عاديّ	مطلق	جحره	UNSURE	المرهط يدع في فم جحره خصاصة
+HFN-E-aa4cc437d4#W3	OTHER_SENSE	-	-	-	-	-	SURE	أسرة الرجل رهطه: اسم جماعة
+HFN-E-35fd52735b#W1	NO_DHAT	-	-	-	-	-	UNSURE	رهفت الشيء وأرهفته رققته
+HFN-E-35fd52735b#W2	YES	محلّ	تضمّن	-	-	أذن	UNSURE	أذن مرهفة كذلك أي محددة الطرف
+HFN-E-35fd52735b#W3	YES	محلّ	التزام	عاديّ	مطلق	مرهف	UNSURE	بالوجعاء طعنة مرهف
+HFN-E-0e52a313ea#W1	YES	محلّ	التزام	عاديّ	مطلق	الكأس	UNSURE	الدائمة الإدارة كالراهنة؛ الكأس
+HFN-E-0e52a313ea#W2	YES	محلّ	التزام	عاديّ	مطلق	جسمي	SURE	إما ترى جسمي خلا قد رهن
+HFN-E-0e52a313ea#W3	YES	محلّ	تضمّن	-	-	الدواب	SURE	الراهن المهزول من جميع الدواب
+HFN-E-b1d0e51eb2#W1	OTHER_SENSE	-	-	-	-	-	SURE	الروثة الأرنبة: اسم عضو
+HFN-E-b1d0e51eb2#W2	OTHER_SENSE	-	-	-	-	-	SURE	روثة أنفها: اسم عضو
+HFN-E-b1d0e51eb2#W3	OTHER_SENSE	-	-	-	-	-	SURE	تراث أبيه: لفظ آخر
+HFN-E-03f4c5d710#W1	OTHER_SENSE	-	-	-	-	-	SURE	ترس وتراس: لفظ آخر
+HFN-E-03f4c5d710#W2	OTHER_SENSE	-	-	-	-	-	SURE	رأسهم رياسة: جذر رأس
+HFN-E-03f4c5d710#W3	OTHER_SENSE	-	-	-	-	-	SURE	المرمريس من المراسة: جذر مرس
+HFN-E-df1bd3d2b5#W1	OTHER_SENSE	-	-	-	-	-	SURE	الروضة قاع من الأرض: اسم مكان
+HFN-E-df1bd3d2b5#W2	OTHER_SENSE	-	-	-	-	-	SURE	الضغينة الروضة: اسم مكان
+HFN-E-df1bd3d2b5#W3	OTHER_SENSE	-	-	-	-	-	SURE	في واد أو روضة: اسم مكان
+HFN-E-a3efcbf9b5#W1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل روع؛ الروع الفزع
+HFN-E-a3efcbf9b5#W2	OTHER_SENSE	-	-	-	-	-	SURE	ذهبت فروعه: جذر فرع
+HFN-E-a3efcbf9b5#W3	YES	محلّ	التزام	عاديّ	مطلق	شبب	SURE	شبب أفزته الكلاب مروع؛ الكلاب فاعل
+HFN-E-80e94de3b9#W1	OTHER_SENSE	-	-	-	-	-	SURE	رئمان وترأم والروم: ألفاظ أخرى
+HFN-E-80e94de3b9#W2	OTHER_SENSE	-	-	-	-	-	SURE	ترأم الناقة: جذر رأم
+HFN-E-80e94de3b9#W3	OTHER_SENSE	-	-	-	-	-	SURE	ترأم بأنفها: جذر رأم
+HFN-E-dda5ac2081#W1	OTHER_SENSE	-	-	-	-	-	SURE	التيرب والترباء: لفظ آخر
+HFN-E-dda5ac2081#W2	OTHER_SENSE	-	-	-	-	-	SURE	سهكت الريح التراب: لفظ آخر
+HFN-E-dda5ac2081#W3	OTHER_SENSE	-	-	-	-	-	SURE	أخرجت ترابها: لفظ آخر
+HFN-E-11d74558fe#W1	OTHER_SENSE	-	-	-	-	-	SURE	رئمان وترأم: جذر رأم
+HFN-E-11d74558fe#W2	OTHER_SENSE	-	-	-	-	-	SURE	ترأم الناقة: جذر رأم
+HFN-E-11d74558fe#W3	OTHER_SENSE	-	-	-	-	-	SURE	ترأم بأنفها: جذر رأم
+HFN-E-afe9ff4496#W1	OTHER_SENSE	-	-	-	-	-	SURE	المزور للزائر: جذر زور
+HFN-E-afe9ff4496#W2	YES	فاعل	تضمّن	-	-	الأسد	SURE	زأر الأسد يزئر زأرا وزئيرا صوت
+HFN-E-afe9ff4496#W3	OTHER_SENSE	-	-	-	-	-	SURE	زرته زورا: جذر زور
+HFN-E-b21cdf0af9#W1	YES	محلّ	تضمّن	-	-	الزبد	UNSURE	زبدته أزبده زبدا أطعمته الزبد؛ اللبن أيضا
+HFN-E-b21cdf0af9#W2	OTHER_SENSE	-	-	-	-	-	SURE	ينزع زبده: اسم
+HFN-E-b21cdf0af9#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	قتاد مزبد إزباده: معنى بعيد
+HFN-E-6a2a9befda#W1	YES	محلّ	التزام	عاديّ	مطلق	الشعر	UNSURE	فإن نتفه صاحبه قيل زبقه يزبقه زبقا
+HFN-E-72d633dafd#W1	NO_DHAT	-	-	-	-	-	SURE	زرده زردا خنقه
+HFN-E-72d633dafd#W2	YES	مكان	التزام	عاديّ	مطلق	البلعوم	UNSURE	زردته زردا والمزرد البلعوم
+HFN-E-b1f5a249e7#W1	NO_DHAT	-	-	-	-	-	UNSURE	زرده زردا خنقه
+HFN-E-b1f5a249e7#W2	YES	مكان	التزام	عاديّ	مطلق	البلعوم	UNSURE	زردته زردا والمزرد البلعوم
+HFN-E-d577829625#W1	NO_DHAT	-	-	-	-	-	SURE	الزعق والمزعوق النشيط الذي يفزع
+HFN-E-d577829625#W2	YES	زمان	تضمّن	-	-	الليل	UNSURE	والزعق الخوف بالليل
+HFN-E-d577829625#W3	YES	فاعل	تضمّن	-	-	الفرس	UNSURE	الزعيق تسمع من بطن الفرس وقد زعق
+HFN-E-db579aa3b6#W1	OTHER_SENSE	-	-	-	-	-	SURE	ضرب من النبت زعموا: من الزعم القول
+HFN-E-db579aa3b6#W2	OTHER_SENSE	-	-	-	-	-	SURE	دويبة زعموا: من الزعم القول
+HFN-E-db579aa3b6#W3	OTHER_SENSE	-	-	-	-	-	SURE	زعموا أنهم يقولون: من الزعم القول
+HFN-E-f9aeb1bc77#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	ضرب من النبت زعموا
+HFN-E-f9aeb1bc77#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	دويبة زعموا
+HFN-E-f9aeb1bc77#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	زعموا أنهم يقولون
+HFN-E-2d1378f522#W1	OTHER_SENSE	-	-	-	-	-	SURE	وزفته وزفا استعجلته: جذر وزف
+HFN-E-2d1378f522#W2	OTHER_SENSE	-	-	-	-	-	SURE	زافت المرأة في مشيتها: جذر زيف
+HFN-E-98915a2fc9#W1	NO_DHAT	-	-	-	-	-	SURE	الزفن شبيه بالرقص زفن يزفن زفنا
+HFN-E-fd1519502a#W1	YES	فاعل	التزام	عاديّ	مطلق	الناقة	UNSURE	زكأت به كذلك؛ الناقة والكلبة ألقت ولدها
+HFN-E-fd1519502a#W2	YES	محلّ	تضمّن	-	-	فلان	UNSURE	زكأت إلى فلان لجأت
+HFN-E-b2c67ae14a#W1	NO_DHAT	-	-	-	-	-	SURE	الزلح تطعم الشيء زلحته أزلحه زلحا
+HFN-E-e297c2ee0f#W1	OTHER_SENSE	-	-	-	-	-	SURE	رجع على زلزه: الطريق
+HFN-E-2f622941b4#W1	OTHER_SENSE	-	-	-	-	-	SURE	الزمجة: اسم طائر
+HFN-E-b10fc6f5e1#W1	YES	آلة	التزام	عاديّ	مطلق	المزمار	SURE	زمر يزمر زمرا؛ المزمار؛ رجل زمار فاعل
+HFN-E-b10fc6f5e1#W2	YES	فاعل	تضمّن	-	-	الأنثى	UNSURE	وصوت الأنثى الزمار زمرت تزمر زمارا
+HFN-E-b10fc6f5e1#W3	OTHER_SENSE	-	-	-	-	-	SURE	الزمرة الجماعة: اسم
+HFN-E-67c4e065af#W1	OTHER_SENSE	-	-	-	-	-	SURE	الزمعة أصغر من الرحاب: اسم مكان
+HFN-E-67c4e065af#W2	NO_DHAT	-	-	-	-	-	SURE	زمع يزمع زمعا جزع
+HFN-E-67c4e065af#W3	OTHER_SENSE	-	-	-	-	-	SURE	زمعتها الشعرات المدلاة: اسم
+HFN-E-d26dd8f576#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	لا ورود للفعل؛ ألفاظ أخرى
+HFN-E-d26dd8f576#W2	NO_DHAT	-	-	-	-	-	UNSURE	الزمكة السريع الغضب العجل
+HFN-E-8595aa005a#W1	NO_DHAT	-	-	-	-	-	UNSURE	الزامل الذي كأنه يظلع وقد زمل يزمل
+HFN-E-8595aa005a#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	المزمل المتغطي بثيابه: معنى التلفف
+HFN-E-8595aa005a#W3	OTHER_SENSE	-	-	-	-	-	SURE	الزاملة: اسم
+HFN-E-b7580fff78#W1	OTHER_SENSE	-	-	-	-	-	SURE	الزند العود الأعلى: اسم أداة
+HFN-E-b7580fff78#W2	YES	محلّ	تضمّن	-	-	الناقة	UNSURE	يقال للناقة إذا خل حياؤها قد زندت
+HFN-E-b7580fff78#W3	YES	محلّ	تضمّن	-	-	الناقة	UNSURE	التزنيد أن تخل أشاعر الناقة؛ المزند البخيل
+HFN-E-f3e5c1e5d6#W1	OTHER_SENSE	-	-	-	-	-	SURE	الزند والزندة: اسم أداة
+HFN-E-f3e5c1e5d6#W2	YES	محلّ	تضمّن	-	-	الناقة	UNSURE	للناقة إذا خل حياؤها قد زندت
+HFN-E-f3e5c1e5d6#W3	YES	محلّ	تضمّن	-	-	الناقة	UNSURE	التزنيد أن تخل أشاعر الناقة
+HFN-E-b57397d209#W1	OTHER_SENSE	-	-	-	-	-	SURE	وله زهرة صفراء: اسم
+HFN-E-b57397d209#W2	OTHER_SENSE	-	-	-	-	-	SURE	البرعوم زهرة الشجرة: اسم
+HFN-E-b57397d209#W3	OTHER_SENSE	-	-	-	-	-	SURE	ولا زهرة ولا ورقا: اسم
+HFN-E-d2940ca3a4#W1	OTHER_SENSE	-	-	-	-	-	SURE	وله زهرة صفراء: اسم
+HFN-E-d2940ca3a4#W2	OTHER_SENSE	-	-	-	-	-	SURE	زهرة الشجرة: اسم
+HFN-E-d2940ca3a4#W3	OTHER_SENSE	-	-	-	-	-	SURE	ولا زهرة ولا ورقا: اسم
+HFN-E-0d921e8f45#W1	OTHER_SENSE	-	-	-	-	-	SURE	وله زهرة صفراء: اسم
+HFN-E-0d921e8f45#W2	OTHER_SENSE	-	-	-	-	-	SURE	زهرة الشجرة: اسم
+HFN-E-0d921e8f45#W3	OTHER_SENSE	-	-	-	-	-	SURE	ولا زهرة ولا ورقا: اسم
+HFN-E-c620b669c7#W1	OTHER_SENSE	-	-	-	-	-	SURE	مزجت الشراب والمزاج: جذر مزج
+HFN-E-c620b669c7#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	فإذا زاجت: بمعنى جازت لا الزواج
+HFN-E-c620b669c7#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	لمزاوجة الكلام: معنى آخر
+HFN-E-2755076b98#W1	OTHER_SENSE	-	-	-	-	-	SURE	المزور للزائر: من الزيارة
+HFN-E-2755076b98#W2	YES	محلّ	تضمّن	-	-	الإبل	SURE	المزور من الإبل الذي اعوج صدره
+HFN-E-2755076b98#W3	OTHER_SENSE	-	-	-	-	-	SURE	الزور الكذب زورت الكلام: معنى بعيد
+HFN-E-5eac9b7b42#W1	OTHER_SENSE	-	-	-	-	-	SURE	لا تزال في مسارحها: ما زال
+HFN-E-5eac9b7b42#W2	YES	فاعل	التزام	عاديّ	مطلق	الشمس	SURE	دحضت الشمس زالت؛ وزالت زوالا وزؤولا
+HFN-E-5eac9b7b42#W3	OTHER_SENSE	-	-	-	-	-	SURE	أما تزال أبدا تصيح: ما زال
+HFN-E-ac3042a0d5#W1	OTHER_SENSE	-	-	-	-	-	SURE	العراق في المزادة: اسم وعاء
+HFN-E-ac3042a0d5#W2	OTHER_SENSE	-	-	-	-	-	SURE	نعوت المزاد: اسم وعاء
+HFN-E-ac3042a0d5#W3	OTHER_SENSE	-	-	-	-	-	SURE	أسماء المزاد: اسم وعاء
+HFN-E-c4035e7351#W1	OTHER_SENSE	-	-	-	-	-	SURE	السائبة البعير: جذر سيب
+HFN-E-c4035e7351#W2	OTHER_SENSE	-	-	-	-	-	SURE	السائبة العبد يعتق: جذر سيب
+HFN-E-c4035e7351#W3	OTHER_SENSE	-	-	-	-	-	SURE	سيبت الشيء وسائبة: جذر سيب
+HFN-E-9f0608adff#W1	OTHER_SENSE	-	-	-	-	-	SURE	المساد نحي السمن: اسم وعاء
+HFN-E-9f0608adff#W2	OTHER_SENSE	-	-	-	-	-	SURE	مساد وهو الزق: اسم وعاء
+HFN-E-daa39060b0#W1	OTHER_SENSE	-	-	-	-	-	SURE	يسود وسيد: جذر سود
+HFN-E-daa39060b0#W2	OTHER_SENSE	-	-	-	-	-	SURE	الوسادة وتوسدها: جذر وسد
+HFN-E-daa39060b0#W3	OTHER_SENSE	-	-	-	-	-	SURE	وسائد الأدم: جذر وسد
+HFN-E-9d426673ca#W1	OTHER_SENSE	-	-	-	-	-	SURE	وسائرها أبيض: سائر بمعنى الباقي
+HFN-E-9d426673ca#W2	OTHER_SENSE	-	-	-	-	-	SURE	خالف سائر لون الجسد: سائر بمعنى الباقي
+HFN-E-9d426673ca#W3	OTHER_SENSE	-	-	-	-	-	SURE	على سائر أعضاء الإنسان: سائر بمعنى الباقي
+HFN-E-6eeb6ef6f0#W1	YES	فاعل	التزام	عاديّ	مطلق	هذيل	UNSURE	سالت هذيل رسول الله فاحشة
+HFN-E-6eeb6ef6f0#W2	OTHER_SENSE	-	-	-	-	-	SURE	السائلة من الغرر: من السيلان
+HFN-E-6eeb6ef6f0#W3	OTHER_SENSE	-	-	-	-	-	SURE	وكفت العين سالت: من السيلان
+HFN-E-91901e6393#W1	YES	محلّ	تضمّن	-	-	جلده	SURE	انسبأ الجلد انسلخ وسبأت جلده بالنار سلخته
+HFN-E-91901e6393#W2	OTHER_SENSE	-	-	-	-	-	SURE	السبات نوم خفي: جذر سبت
+HFN-E-91901e6393#W3	YES	محلّ	التزام	عاديّ	مطلق	زقا	UNSURE	أن سبأت لفتية زقا وخابية
+HFN-E-3f3562adba#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	سبخت الأرض سبخا: من سبخ لا سبخ
+HFN-E-3f3562adba#W2	OTHER_SENSE	-	-	-	-	-	SURE	سبخة الملح: اسم
+HFN-E-3f3562adba#W3	NO_DHAT	-	-	-	-	-	UNSURE	تسبخ الغضب سكن؛ سبخ الله عنك الشدة
+HFN-E-da8980b52a#W1	YES	محلّ	تضمّن	-	-	أرض	UNSURE	السبخة أرض ذات ملح وقد سبخت سبخا
+HFN-E-da8980b52a#W2	OTHER_SENSE	-	-	-	-	-	SURE	سبخة الملح ملح وتراب: اسم
+HFN-E-da8980b52a#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	تسبخ الغضب سكن: معنى بعيد
+HFN-E-536893ab5d#W1	YES	آلة	التزام	عاديّ	مطلق	حجر	SURE	حجر رقيق يستر به الشيء
+HFN-E-536893ab5d#W2	YES	فاعل	التزام	عاديّ	مطلق	العروس	UNSURE	رداء تلبسه العروس على ثوبها تستره به
+HFN-E-536893ab5d#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	الردحة سترة في مؤخره: اسم
+HFN-E-a559ba7a4d#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	دلو سجيلة وسجلة ضخمة: من السجل الدلو
+HFN-E-a9d4054942#W1	YES	محلّ	التزام	عاديّ	مطلق	الأنام	UNSURE	سحره غذاه؛ الأنام المسحر؛ ونسحر بالشراب
+HFN-E-a9d4054942#W2	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	سحره يسحره سحرا ورجل ساحر
+HFN-E-a9d4054942#W3	OTHER_SENSE	-	-	-	-	-	SURE	السحر آخر الليل: اسم وقت
+HFN-E-113a9a3419#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	سحره غذاه: من سحر لا سحر
+HFN-E-113a9a3419#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	سحره يسحره سحرا ورجل ساحر: من سحر
+HFN-E-113a9a3419#W3	OTHER_SENSE	-	-	-	-	-	SURE	السحر آخر الليل: اسم وقت
+HFN-E-ddcc9ddab1#W1	YES	محلّ	تضمّن	-	-	الشحم	SURE	سحفت الشحم عن الجنبين أسحفه سحفا قشرته
+HFN-E-ddcc9ddab1#W2	OTHER_SENSE	-	-	-	-	-	SURE	السحوف التي لها سحفة: من الاسم
+HFN-E-ddcc9ddab1#W3	YES	محلّ	تضمّن	-	-	الشعر	SURE	سحفت الشعر عن الجلد أسحفه سحفا كشطته
+HFN-E-2f64c31baf#W1	YES	محلّ	التزام	عاديّ	مطلق	ساحل	UNSURE	ساحل البحر لأن الماء سحله؛ الماء فاعل
+HFN-E-2f64c31baf#W2	YES	فاعل	تضمّن	-	-	الريح	SURE	سحلت الريح الأرض تسحلها سحلا قشرت أدمتها
+HFN-E-2f64c31baf#W3	YES	فاعل	التزام	عاديّ	مطلق	السماء	UNSURE	بانت السماء تسحل ليلتها؛ سحلت الدراهم
+HFN-E-da778b66d4#W1	NO_DHAT	-	-	-	-	-	SURE	السخط ضد الرضا سخط سخطا
+HFN-E-da778b66d4#W2	YES	محلّ	التزام	عاديّ	مطلق	الناقة	SURE	على رقبة الناقة حتى تبرك ساخطة أو راضية
+HFN-E-28e8dc7842#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	في السنة السادسة: عدد ترتيبي
+HFN-E-28e8dc7842#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	للإرباع والإسداس وفي السادسة: أسنان
+HFN-E-28e8dc7842#W3	OTHER_SENSE	-	-	-	-	-	SURE	مسدس: اصطلاح عروضي
+HFN-E-0b8a57ff83#W1	YES	فاعل	تضمّن	-	-	دليل	UNSURE	دليل مصدع ومسدع ماض لوجهه
+HFN-E-f00cf37a95#W1	OTHER_SENSE	-	-	-	-	-	SURE	السربة بين عشرين إلى ثلاثين: اسم جماعة
+HFN-E-f00cf37a95#W2	YES	فاعل	التزام	عاديّ	مطلق	الراعية	UNSURE	السروب مثل السروح سربت تسرب سروبا للراعية
+HFN-E-f00cf37a95#W3	YES	مصدر	تضمّن	-	-	عينه	UNSURE	سربت عينه سربا سالت؛ المزادة والقربة
+HFN-E-34c4ea5ee1#W1	OTHER_SENSE	-	-	-	-	-	SURE	السربة: اسم جماعة
+HFN-E-34c4ea5ee1#W2	YES	فاعل	التزام	عاديّ	مطلق	الراعية	UNSURE	سربت تسرب سروبا ويقال للراعية سرب
+HFN-E-34c4ea5ee1#W3	YES	مصدر	تضمّن	-	-	عينه	UNSURE	سربت عينه سربا سالت
+HFN-E-e9076a5375#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	السراج وأسرجته: معنى المصباح
+HFN-E-e9076a5375#W2	NO_DHAT	-	-	-	-	-	UNSURE	سرجه الله وسرجه أي وفقه
+HFN-E-e9076a5375#W3	YES	محلّ	التزام	عاديّ	مطلق	مرسنا	UNSURE	ومرسنا مسرجا؛ المسرج المحسن
+HFN-E-6821d0daf3#W1	YES	فاعل	التزام	عاديّ	مطلق	الماشية	UNSURE	سرحت الماشية تسرح سرحا وسروحا
+HFN-E-6821d0daf3#W2	OTHER_SENSE	-	-	-	-	-	SURE	السرح واحدته سرحة: اسم شجر
+HFN-E-6821d0daf3#W3	NO_DHAT	-	-	-	-	-	UNSURE	سرحت الشيء فرجت عنه؛ ولدته سرحا
+HFN-E-58bf15b307#W1	OTHER_SENSE	-	-	-	-	-	SURE	الأشفى والمسرد واحد: اسم أداة
+HFN-E-58bf15b307#W2	YES	آلة	التزام	عاديّ	مطلق	المثقب	UNSURE	سردت الشيء ثقبته والمسرد والسراد المثقب
+HFN-E-58bf15b307#W3	OTHER_SENSE	-	-	-	-	-	SURE	المسرد اللسان: اسم عضو
+HFN-E-8d7a65fa84#W1	NO_DHAT	-	-	-	-	-	SURE	يسرع في المشي؛ مشية فيها سرعة
+HFN-E-8d7a65fa84#W2	NO_DHAT	-	-	-	-	-	UNSURE	سيرها في السرعة: عنوان بلا ذات
+HFN-E-8d7a65fa84#W3	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	سرع سراعة وأسرع الرجل إذا كانت
+HFN-E-86b3c048d8#W1	OTHER_SENSE	-	-	-	-	-	SURE	السرفة دويبة: اسم حيوان
+HFN-E-86b3c048d8#W2	YES	محلّ	تضمّن	-	-	طعام	UNSURE	طعام مسروف من السرفة
+HFN-E-86b3c048d8#W3	NO_DHAT	-	-	-	-	-	UNSURE	وقيل الإغلال السرفة
+HFN-E-e8688ef260#W1	OTHER_SENSE	-	-	-	-	-	SURE	السروة من النصال: اسم
+HFN-E-e8688ef260#W2	OTHER_SENSE	-	-	-	-	-	SURE	سرأت تسرأ الضبة: جذر سرأ
+HFN-E-e8688ef260#W3	OTHER_SENSE	-	-	-	-	-	SURE	الجراد أول ما يكون سروة: اسم
+HFN-E-d1009bfb98#W1	OTHER_SENSE	-	-	-	-	-	SURE	السروة دودة وأرض مسروة: اسم
+HFN-E-d1009bfb98#W2	OTHER_SENSE	-	-	-	-	-	UNSURE	سروت ثوبي عني ألقيته: معنى بعيد
+HFN-E-5d82ddc2d6#W1	OTHER_SENSE	-	-	-	-	-	SURE	عظم الساعد: اسم عضو
+HFN-E-5d82ddc2d6#W2	OTHER_SENSE	-	-	-	-	-	SURE	الغيل الساعد الريان: اسم عضو
+HFN-E-5d82ddc2d6#W3	OTHER_SENSE	-	-	-	-	-	SURE	أغلظ من الساعد: اسم عضو
+HFN-E-0a09fb8e1b#W1	OTHER_SENSE	-	-	-	-	-	SURE	عظم الساعد: اسم عضو
+HFN-E-0a09fb8e1b#W2	OTHER_SENSE	-	-	-	-	-	SURE	الغيل الساعد: اسم عضو
+HFN-E-0a09fb8e1b#W3	OTHER_SENSE	-	-	-	-	-	SURE	أغلظ من الساعد: اسم عضو
+HFN-E-b8d7465d94#W1	YES	محلّ	تضمّن	-	-	امرأة	SURE	امرأة سغلة بادية السغل يضطرب خلقها
+HFN-E-ade0f3b6fc#W1	OTHER_SENSE	-	-	-	-	-	UNSURE	السفر خلاف الحضر: معنى الارتحال
+HFN-E-ade0f3b6fc#W2	YES	فاعل	التزام	عاديّ	مطلق	المرأة	SURE	سفرت المرأة نقابها تسفر سفورا؛ نقابها محلّ
+HFN-E-ade0f3b6fc#W3	OTHER_SENSE	-	-	-	-	-	UNSURE	المسفر أخو الأسفار: معنى الارتحال

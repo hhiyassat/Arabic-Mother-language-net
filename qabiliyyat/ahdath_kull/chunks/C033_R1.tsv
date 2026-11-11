@@ -1,0 +1,252 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-cb8ebec484#1	YES	محلّ	التزام	عاديّ	مطلق	الكلب	SURE	كلب ضرو ضار بالصيد وقد ضريت
+HFN-E-cb8ebec484#2	OTHER_SENSE	-	-	-	-	-	SURE	الضراء ما انخفض من الأرض
+HFN-E-cb8ebec484#3	OTHER_SENSE	-	-	-	-	-	UNSURE	صريت الناقة: تحفيل اللبن، معنى بعيد
+HFN-E-cb8ebec484#4	YES	محلّ	التزام	عاديّ	مطلق	المجازر	UNSURE	إن لها ضراوة كضراوة الخمر
+HFN-E-cb8ebec484#5	OTHER_SENSE	-	-	-	-	-	SURE	الضراء: الكلاب، اسم ذات
+HFN-E-c289c67861#1	NO_DHAT	-	-	-	-	-	SURE	الضعف خلاف القوة، في الرأي والعقل
+HFN-E-c289c67861#2	YES	محلّ	التزام	عاديّ	مطلق	العين	SURE	وضعف العين حتى لا يكاد يبصر
+HFN-E-c289c67861#3	YES	محلّ	التزام	عاديّ	مطلق	الجسم	UNSURE	الضعف في الجسم
+HFN-E-c289c67861#4	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	الضعيف الرأي، رجل فيل الرأي
+HFN-E-c289c67861#5	YES	محلّ	التزام	عاديّ	مطلق	القلب	UNSURE	الجبن وضعف القلب
+HFN-E-3dd6526a32#1	NO_DHAT	-	-	-	-	-	SURE	الضعف خلاف القوة، في الرأي والعقل
+HFN-E-3dd6526a32#2	YES	محلّ	التزام	عاديّ	مطلق	العين	SURE	وضعف العين حتى لا يكاد يبصر
+HFN-E-3dd6526a32#3	YES	محلّ	التزام	عاديّ	مطلق	الجسم	UNSURE	الضعف في الجسم
+HFN-E-3dd6526a32#4	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	الضعيف الرأي، رجل فيل الرأي
+HFN-E-3dd6526a32#5	YES	محلّ	التزام	عاديّ	مطلق	القلب	UNSURE	الجبن وضعف القلب
+HFN-E-dc6496124d#1	YES	فاعل	تضمّن	-	-	الذئب	SURE	الضغيب صوت الذئب وقد ضغب يضغب
+HFN-E-dc6496124d#2	OTHER_SENSE	-	-	-	-	-	SURE	رجل ضغب اشتهى الضغابيس، معنى بعيد
+HFN-E-c463be0c96#1	NO_DHAT	-	-	-	-	-	UNSURE	كلام ضغث لا خير فيه
+HFN-E-c463be0c96#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الأضغاث الأحلام واحدها ضغث، اسم
+HFN-E-c463be0c96#3	OTHER_SENSE	-	-	-	-	-	SURE	ضغث في شعر، اسم
+HFN-E-c463be0c96#4	YES	محلّ	تضمّن	-	-	رأسه	SURE	ضغث رأسه صب عليه الماء ثم نفشه
+HFN-E-c463be0c96#5	OTHER_SENSE	-	-	-	-	-	SURE	الضغث قبضة من قضبان، اسم ذات
+HFN-E-f4319fcc63#1	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	من صدمة أو ضغط حمل؛ الحمل ضاغط
+HFN-E-f4319fcc63#2	NO_DHAT	-	-	-	-	-	SURE	الضغط الإكراه على الشيء
+HFN-E-2ff5bab121#1	YES	فاعل	التزام	عاديّ	مطلق	الضيغم	UNSURE	الضيغم الشديد الضغم والضغم العض
+HFN-E-2ff5bab121#2	YES	فاعل	التزام	عاديّ	مطلق	الأسد	SURE	الضغم العض، ومنه قيل للأسد ضيغم
+HFN-E-6ff9c5da6b#1	NO_DHAT	-	-	-	-	-	SURE	ضغن ضغنا، الأضغان والضغينة حقد
+HFN-E-6ff9c5da6b#2	YES	فاعل	تضمّن	-	-	دابة	UNSURE	دابة ضغنة إذا نزعت إلى أهلها
+HFN-E-6ff9c5da6b#3	NO_DHAT	-	-	-	-	-	UNSURE	وذي ضغن كففت النفس عنه
+HFN-E-6ff9c5da6b#4	YES	محلّ	التزام	عاديّ	مطلق	المرأة	UNSURE	إذا رأتني ذات ضغن حنت
+HFN-E-6ff9c5da6b#5	YES	محلّ	التزام	عاديّ	مطلق	صدره	UNSURE	في صدره أحاح من الضغن
+HFN-E-7b962813f3#1	YES	آلة	تضمّن	-	-	كفك	SURE	ضفدته ضربته بباطن كفك؛ أسته محلّ
+HFN-E-529d015f08#1	OTHER_SENSE	-	-	-	-	-	SURE	الضفرة كالعقدة من الرمل، اسم
+HFN-E-529d015f08#2	YES	محلّ	تضمّن	-	-	الشعر	SURE	الضفر نسجك الشعر؛ ضفرت المرأة شعرها
+HFN-E-529d015f08#3	NO_DHAT	-	-	-	-	-	UNSURE	الضفر العدو وقد ضفر يضفر
+HFN-E-529d015f08#4	YES	آلة	تضمّن	-	-	حجارة	UNSURE	بني بحجارة فهو ضفر؛ ضفر حول بيته
+HFN-E-529d015f08#5	NO_DHAT	-	-	-	-	-	UNSURE	الجدل مثل الضفر
+HFN-E-17b02505ac#1	YES	محلّ	تضمّن	-	-	الفرس	UNSURE	الضفز إدخال اللجام في فم الفرس
+HFN-E-17b02505ac#2	YES	آلة	تضمّن	-	-	رجلك	SURE	الضفز ضربك أست الشاة برجلك؛ الشاة محلّ
+HFN-E-2bf4f4e253#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل ضفيط سمين رخو وقد ضفط
+HFN-E-2bf4f4e253#2	OTHER_SENSE	-	-	-	-	-	SURE	ضفط الطائر الأنثى: سفاد، معنى بعيد
+HFN-E-2bf4f4e253#3	NO_DHAT	-	-	-	-	-	SURE	الضفيط الأحمق بين الضفاطة
+HFN-E-2bf4f4e253#4	OTHER_SENSE	-	-	-	-	-	SURE	الضفاطة العير التي تحمل المتاع
+HFN-E-2bf4f4e253#5	OTHER_SENSE	-	-	-	-	-	SURE	الضفاطة الدف، اسم أداة
+HFN-E-10ba0ddf8a#1	YES	محلّ	تضمّن	-	-	غائطه	UNSURE	ضفن الرجل بغائطه تغوط؛ الرجل فاعل
+HFN-E-10ba0ddf8a#2	YES	فاعل	التزام	عاديّ	مطلق	الضيفن	UNSURE	ضفن معه يضفن ضفنا جاء
+HFN-E-3e444bd031#1	YES	محلّ	تضمّن	-	-	السيف	UNSURE	الضلع العوج في السيف وقد ضلع
+HFN-E-3e444bd031#2	OTHER_SENSE	-	-	-	-	-	SURE	ضلوع الفؤاد، أضلاعه: اسم عضو
+HFN-E-3e444bd031#3	OTHER_SENSE	-	-	-	-	-	SURE	حبي الضلوع: اسم عضو
+HFN-E-3e444bd031#4	OTHER_SENSE	-	-	-	-	-	SURE	وجع الضلع: اسم عضو
+HFN-E-3e444bd031#5	OTHER_SENSE	-	-	-	-	-	SURE	قصر الضلع واستقامة الضلوع
+HFN-E-7897c82eb0#1	YES	محلّ	تضمّن	-	-	السيف	SURE	الضلع العوج في السيف وقد ضلع ضلعا
+HFN-E-7897c82eb0#2	OTHER_SENSE	-	-	-	-	-	SURE	ضلع وضلع مثال وزن فقط
+HFN-E-7897c82eb0#3	YES	محلّ	تضمّن	-	-	سنها	UNSURE	رجل أضلع إذا كانت سنها كالضلع
+HFN-E-7897c82eb0#4	OTHER_SENSE	-	-	-	-	-	SURE	أعرض ضلع في الصدر، اسم عضو
+HFN-E-7897c82eb0#5	YES	فاعل	التزام	عاديّ	مطلق	القوم	UNSURE	ضلع واحد يعني اجتماعهم عليه
+HFN-E-2194e1d51b#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الضلع العوج، بعيد عن الضلاعة
+HFN-E-2194e1d51b#2	OTHER_SENSE	-	-	-	-	-	SURE	ضلع وضلع مثال وزن فقط
+HFN-E-2194e1d51b#3	OTHER_SENSE	-	-	-	-	-	UNSURE	أضلع سنه كالضلع، بعيد عن الضلاعة
+HFN-E-2194e1d51b#4	OTHER_SENSE	-	-	-	-	-	SURE	أعرض ضلع في الصدر، اسم عضو
+HFN-E-2194e1d51b#5	OTHER_SENSE	-	-	-	-	-	UNSURE	ضلع واحد: ميل، بعيد عن الضلاعة
+HFN-E-80b75fad4e#1	OTHER_SENSE	-	-	-	-	-	SURE	الضمج دويبة، اسم حيوان
+HFN-E-80b75fad4e#2	YES	فاعل	تضمّن	-	-	الرجل	SURE	أضمج الرجل وضمج لصق بالأرض
+HFN-E-2fb3d37460#1	YES	آلة	التزام	عاديّ	مطلق	الحجر	UNSURE	ضمخت وجهه بالعصا والحجر؛ العين محلّ
+HFN-E-2fb3d37460#2	YES	آلة	تضمّن	-	-	الطيب	SURE	الضمخ لطخ الجسد بالطيب؛ الجسد محلّ
+HFN-E-fa781ef410#1	OTHER_SENSE	-	-	-	-	-	UNSURE	ضمد ضمدا غضب، معنى بعيد
+HFN-E-fa781ef410#2	YES	فاعل	تضمّن	-	-	المرأة	SURE	الضمد أن يكون للمرأة خليلان
+HFN-E-fa781ef410#3	YES	محلّ	تضمّن	-	-	المرأة	UNSURE	الضمد أن يخال الرجل المرأة؛ الرجل فاعل
+HFN-E-fa781ef410#4	YES	آلة	التزام	عاديّ	مطلق	خرقة	UNSURE	لففت عليه خرقة، وقد تضمد
+HFN-E-fa781ef410#5	YES	محلّ	التزام	عاديّ	مطلق	الجرح	UNSURE	أفرى الجرح وضمده يضمده شقه
+HFN-E-c435daa1b5#1	NO_DHAT	-	-	-	-	-	SURE	ضمد ضمدا غضب، الضمد أن تغضب
+HFN-E-c435daa1b5#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الضمد أن يكون للمرأة خليلان
+HFN-E-c435daa1b5#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الضمد أن يخال الرجل المرأة
+HFN-E-c435daa1b5#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الضماد ما يلزق بالجرح
+HFN-E-c435daa1b5#5	OTHER_SENSE	-	-	-	-	-	UNSURE	ضمده يضمده شق الجرح
+HFN-E-9e053ff5fc#1	YES	محلّ	تضمّن	-	-	البطن	SURE	الضمر الهزال ولحاق البطن
+HFN-E-9e053ff5fc#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الضمار من الدين بلا أجل
+HFN-E-9e053ff5fc#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الضمار من العدات ذو تسويف
+HFN-E-9e053ff5fc#4	YES	محلّ	التزام	عاديّ	مطلق	الناقة	SURE	تغالى لحم الناقة انحسر عند الضمار
+HFN-E-9e053ff5fc#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الضمار من المال ما لا يرجى
+HFN-E-defc74d2ab#1	YES	محلّ	تضمّن	-	-	البطن	SURE	الضمر الهزال ولحاق البطن
+HFN-E-defc74d2ab#2	YES	محلّ	التزام	عاديّ	مطلق	الشيخ	UNSURE	فإذا ضمر وانحنى فهو عشمة
+HFN-E-defc74d2ab#3	YES	محلّ	التزام	عاديّ	مطلق	البطن	SURE	الطوى ضمر البطن من الجوع
+HFN-E-defc74d2ab#4	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	فرس أهضم، الهضم الذي هو الضمر
+HFN-E-defc74d2ab#5	YES	محلّ	التزام	عاديّ	مطلق	الفرس	SURE	أحنق الفرس وأحنج ضمر
+HFN-E-468cc1503a#1	YES	فاعل	تضمّن	-	-	البعير	SURE	ضمز البعير إذا أمسك عن جرته
+HFN-E-468cc1503a#2	OTHER_SENSE	-	-	-	-	-	SURE	الضمز من الأكام، اسم مكان
+HFN-E-468cc1503a#3	OTHER_SENSE	-	-	-	-	-	SURE	الضمزة أكمة صغيرة
+HFN-E-468cc1503a#4	NO_DHAT	-	-	-	-	-	SURE	الضمز السكون
+HFN-E-dd3e41f2b4#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل ضمن بين الضمانة مثل زمن
+HFN-E-dd3e41f2b4#2	YES	محلّ	تضمّن	-	-	فلان	UNSURE	فلان ضمن على أصحابه أي كل
+HFN-E-d52ee01484#1	YES	محلّ	تضمّن	-	-	مكان	UNSURE	مكان ضنك بين الضنك ضيق
+HFN-E-d52ee01484#2	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	ضنك الرجل ضناكة إذا ضعف في جسمه
+HFN-E-d52ee01484#3	OTHER_SENSE	-	-	-	-	-	UNSURE	ضئك الرجل وضنك زكم، معنى بعيد
+HFN-E-d52ee01484#4	NO_DHAT	-	-	-	-	-	SURE	الضنك الضيق من كل شيء
+HFN-E-fd48fc62ce#1	YES	محلّ	تضمّن	-	-	مكان	UNSURE	مكان ضنك بين الضنك ضيق
+HFN-E-fd48fc62ce#2	YES	محلّ	تضمّن	-	-	الناس	UNSURE	الضناك الموثق الخلق في الناس والإبل
+HFN-E-fd48fc62ce#3	YES	محلّ	تضمّن	-	-	العجيزة	UNSURE	الضناك الضخمة الثقيلة العجيزة
+HFN-E-fd48fc62ce#4	OTHER_SENSE	-	-	-	-	-	UNSURE	ضنك الرجل زكم، معنى بعيد
+HFN-E-fd48fc62ce#5	YES	محلّ	تضمّن	-	-	النوق	SURE	الضناك من النوق الغليظ المؤخر
+HFN-E-7138ca81b1#1	YES	فاعل	تضمّن	-	-	امرأة	SURE	امرأة ضانئة كثيرة الولد وضنت ضناء
+HFN-E-19398146a1#1	YES	محلّ	التزام	عاديّ	مطلق	قدح	UNSURE	صليت بالنار فتلك التصلية والضهب؛ النار آلة
+HFN-E-c6fb0327e7#1	YES	محلّ	تضمّن	-	-	اللبن	SURE	ضهل اللبن يضهل ضهولا اجتمع
+HFN-E-c6fb0327e7#2	YES	محلّ	تضمّن	-	-	الناقة	SURE	ضهلت الناقة قل لبنها
+HFN-E-c6fb0327e7#3	OTHER_SENSE	-	-	-	-	-	SURE	الضهل الماء القليل، اسم
+HFN-E-c6fb0327e7#4	YES	محلّ	تضمّن	-	-	السراب	SURE	ضهل السراب وضحل قل ورق
+HFN-E-09fb9f2ee7#1	YES	محلّ	التزام	عاديّ	مطلق	طعام	UNSURE	ما يتناول من طعام تخبش من هنا
+HFN-E-ec9e3ffd3b#1	YES	محلّ	تضمّن	-	-	ثدياها	UNSURE	الضهيأ لا ينبت ثدياها وقد ضهيت
+HFN-E-78d34926f4#1	YES	فاعل	التزام	عاديّ	مطلق	الشمس	UNSURE	أضاء وضاء، جعل الشمس ضياء
+HFN-E-78d34926f4#2	YES	زمان	التزام	عاديّ	مطلق	النهار	UNSURE	هو ضياء ما بين طلوع الفجر
+HFN-E-78d34926f4#3	OTHER_SENSE	-	-	-	-	-	SURE	الساحة فضاء: جذر آخر
+HFN-E-78d34926f4#4	OTHER_SENSE	-	-	-	-	-	SURE	فهن وضاء: جذر آخر
+HFN-E-78d34926f4#5	OTHER_SENSE	-	-	-	-	-	SURE	بأرض فضاء: جذر آخر
+HFN-E-0e1948227d#1	OTHER_SENSE	-	-	-	-	-	SURE	كلب ضار بالصيد من ضري
+HFN-E-0e1948227d#2	OTHER_SENSE	-	-	-	-	-	SURE	سقاء ضار باللبن من ضري
+HFN-E-0e1948227d#3	OTHER_SENSE	-	-	-	-	-	SURE	المكان الضار، اسم مكان
+HFN-E-0e1948227d#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الضاروراء الشدة، لفظ آخر
+HFN-E-34eeb1e7b5#1	YES	محلّ	التزام	عاديّ	مطلق	التمر	UNSURE	ضاز ضوزا أكل، يضوز التمر؛ فمه في الحد
+HFN-E-6e128b5289#1	OTHER_SENSE	-	-	-	-	-	SURE	الضوع طائر أسود، اسم ذات
+HFN-E-6e128b5289#2	YES	فاعل	التزام	عاديّ	مطلق	الطيب	UNSURE	خطر الطيب وضاع يضوع ضوعا
+HFN-E-6e128b5289#3	YES	فاعل	تضمّن	-	-	الكروان	UNSURE	الضواع صوت الضوع وتضوع الكروان صاح
+HFN-E-6e128b5289#4	OTHER_SENSE	-	-	-	-	-	SURE	ضاع من قروء نسائكا: من ضيع
+HFN-E-6e128b5289#5	OTHER_SENSE	-	-	-	-	-	SURE	ضاع ضيعة وضياعا: من ضيع
+HFN-E-2df3ee2cda#1	YES	محلّ	التزام	عاديّ	مطلق	غلام	SURE	الضوى الهزال، غلام ضاوي
+HFN-E-2df3ee2cda#2	OTHER_SENSE	-	-	-	-	-	SURE	ضوى إلي منك خير، معنى بعيد
+HFN-E-2df3ee2cda#3	OTHER_SENSE	-	-	-	-	-	SURE	ضوى إلينا منه خبر، معنى بعيد
+HFN-E-8a8b37858c#1	OTHER_SENSE	-	-	-	-	-	SURE	عظم وضاح لعبة: جذر آخر
+HFN-E-8a8b37858c#2	YES	محلّ	تضمّن	-	-	اللبن	SURE	ضحت اللبن خلطته
+HFN-E-8a8b37858c#3	OTHER_SENSE	-	-	-	-	-	SURE	رجل وضاح: جذر آخر
+HFN-E-942487a70a#1	OTHER_SENSE	-	-	-	-	-	SURE	كلب ضار بالصيد من ضري
+HFN-E-942487a70a#2	OTHER_SENSE	-	-	-	-	-	SURE	سقاء ضار باللبن من ضري
+HFN-E-942487a70a#3	OTHER_SENSE	-	-	-	-	-	SURE	المكان الضار، اسم مكان
+HFN-E-942487a70a#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الضاروراء الشدة، لفظ آخر
+HFN-E-942487a70a#5	OTHER_SENSE	-	-	-	-	-	SURE	للجماعة يغزون ضير، اسم
+HFN-E-e42832614e#1	YES	فاعل	التزام	عاديّ	مطلق	الضيف	UNSURE	صرت ضيفا له، ضفته وتضيفته
+HFN-E-e42832614e#2	OTHER_SENSE	-	-	-	-	-	SURE	تقري به الضيف، اسم ذات
+HFN-E-e42832614e#3	OTHER_SENSE	-	-	-	-	-	SURE	هانت للضيف الكلفة، اسم ذات
+HFN-E-e42832614e#4	NO_DHAT	-	-	-	-	-	SURE	ضاف إليه مال
+HFN-E-e42832614e#5	OTHER_SENSE	-	-	-	-	-	SURE	ضفا فلان كثر: جذر آخر
+HFN-E-7118b601a7#1	OTHER_SENSE	-	-	-	-	-	SURE	الضيم ناحية من الجبل، اسم
+HFN-E-7118b601a7#2	NO_DHAT	-	-	-	-	-	SURE	خطة لا ضيم فيها
+HFN-E-7118b601a7#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل حمي لا يحتمل الضيم
+HFN-E-07c7cf22e9#1	YES	محلّ	تضمّن	-	-	اللحم	SURE	الطبخ إنضاج اللحم وغيره
+HFN-E-07c7cf22e9#2	NO_DHAT	-	-	-	-	-	UNSURE	كل شيء يطبخ حتى يثخن
+HFN-E-07c7cf22e9#3	YES	محلّ	التزام	عاديّ	مطلق	الحب	SURE	الجشيش من الحب قبل أن يطبخ
+HFN-E-07c7cf22e9#4	NO_DHAT	-	-	-	-	-	UNSURE	تقدم تصريفه في الطبخ
+HFN-E-07c7cf22e9#5	YES	محلّ	التزام	عاديّ	مطلق	شحم السنام	SURE	شحم السنام فإذا طبخ فهو سديف
+HFN-E-ccf9f305c0#1	OTHER_SENSE	-	-	-	-	-	SURE	بسر الطبر، اسم نخل
+HFN-E-666df9f66b#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الطبع تدنس العرض، معنى الطبع بالكسر
+HFN-E-666df9f66b#2	YES	محلّ	التزام	عاديّ	مطلق	السيف	UNSURE	طبع السيف، وسيف طبع
+HFN-E-666df9f66b#3	OTHER_SENSE	-	-	-	-	-	SURE	الطبع النهر، اسم
+HFN-E-666df9f66b#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الطبع الوسخ، معنى بعيد
+HFN-E-666df9f66b#5	OTHER_SENSE	-	-	-	-	-	SURE	الطبع والنفس: سجية، اسم
+HFN-E-cc85f9fe71#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	الطبع تدنس العرض، رجل طبع
+HFN-E-cc85f9fe71#2	YES	محلّ	التزام	عاديّ	مطلق	السيف	UNSURE	سيف طبع
+HFN-E-cc85f9fe71#3	OTHER_SENSE	-	-	-	-	-	SURE	الطبع النهر، اسم
+HFN-E-cc85f9fe71#4	NO_DHAT	-	-	-	-	-	UNSURE	الطبع والوضر الوسخ
+HFN-E-cc85f9fe71#5	OTHER_SENSE	-	-	-	-	-	SURE	الطبع والنفس: سجية، اسم
+HFN-E-fd3454c413#1	YES	فاعل	التزام	عاديّ	مطلق	المطر	UNSURE	الطبق العام الذي يطبق الأرض
+HFN-E-fd3454c413#2	OTHER_SENSE	-	-	-	-	-	SURE	الطبق الجماعة من الناس، اسم
+HFN-E-fd3454c413#3	OTHER_SENSE	-	-	-	-	-	SURE	بنات طبق: الحية، اسم
+HFN-E-fd3454c413#4	OTHER_SENSE	-	-	-	-	-	SURE	الطبق فقار الظهر، اسم
+HFN-E-fd3454c413#5	OTHER_SENSE	-	-	-	-	-	SURE	الطبق الذي يؤكل عليه، اسم أداة
+HFN-E-a870a3b202#1	OTHER_SENSE	-	-	-	-	-	SURE	الطبل من الملاهي، اسم أداة
+HFN-E-a870a3b202#2	OTHER_SENSE	-	-	-	-	-	SURE	الطبل ضرب من الثياب، اسم
+HFN-E-a870a3b202#3	OTHER_SENSE	-	-	-	-	-	SURE	الكوبة الطبل، اسم أداة
+HFN-E-ed2dd3dd50#1	OTHER_SENSE	-	-	-	-	-	SURE	الطبن اللعب، اسم
+HFN-E-ed2dd3dd50#2	OTHER_SENSE	-	-	-	-	-	SURE	الطبن لعبة الصبيان، اسم
+HFN-E-ed2dd3dd50#3	NO_DHAT	-	-	-	-	-	SURE	الطبن الفطنة وقد طبنت له
+HFN-E-cc9c0801bd#1	OTHER_SENSE	-	-	-	-	-	SURE	الطبن اللعب، اسم
+HFN-E-cc9c0801bd#2	OTHER_SENSE	-	-	-	-	-	SURE	الطبن لعبة الصبيان، اسم
+HFN-E-cc9c0801bd#3	NO_DHAT	-	-	-	-	-	SURE	الطبن الفطنة وقد طبنت له
+HFN-E-beaed6be7a#1	YES	محلّ	التزام	عاديّ	مطلق	الخبيص	UNSURE	الخبيص من الخبص خلطك الشيء بالشيء
+HFN-E-3d1c97fb47#1	NO_DHAT	-	-	-	-	-	SURE	طحر يطحر ارتفع صوته من الزفير
+HFN-E-3d1c97fb47#2	YES	فاعل	تضمّن	-	-	العين	SURE	طحرت العين قذاها رمت به
+HFN-E-3d1c97fb47#3	YES	محلّ	تضمّن	-	-	السهم	UNSURE	تطحر السهم أي تبعده؛ القوس فاعل
+HFN-E-3d1c97fb47#4	YES	فاعل	التزام	عاديّ	مطلق	الريح	UNSURE	ريح طحور طحرت السحاب فرقته
+HFN-E-1ab465c773#1	NO_DHAT	-	-	-	-	-	SURE	طحر يطحر ارتفع صوته من الزفير
+HFN-E-5c52a4731b#1	NO_DHAT	-	-	-	-	-	SURE	الطحز كناية عن النكاح وقد طحز
+HFN-E-10af03d409#1	NO_DHAT	-	-	-	-	-	SURE	الطحس كناية عن النكاح وقد طحس
+HFN-E-aee5c2e2d7#1	YES	محلّ	التزام	عاديّ	مطلق	الورق	SURE	الخبط وهو ذاك الورق فجفف ودق وطحن
+HFN-E-aee5c2e2d7#2	YES	آلة	التزام	عاديّ	مطلق	الرحى	SURE	طحنت أطحن طحنا، طحنت بالرحى
+HFN-E-aee5c2e2d7#3	OTHER_SENSE	-	-	-	-	-	UNSURE	مثل الطحن والطحن: مثال لفظي
+HFN-E-aee5c2e2d7#4	OTHER_SENSE	-	-	-	-	-	SURE	الطحن دويبة، اسم حيوان
+HFN-E-aee5c2e2d7#5	OTHER_SENSE	-	-	-	-	-	SURE	إطراق الطحن وهي دويبة
+HFN-E-5ed641315c#1	YES	آلة	تضمّن	-	-	أنفه	UNSURE	طخم بأنفه وطمخ تكبر
+HFN-E-e7e076eb56#1	OTHER_SENSE	-	-	-	-	-	SURE	جاؤا طرا: جذر آخر
+HFN-E-e7e076eb56#2	YES	فاعل	التزام	عاديّ	مطلق	الناس	UNSURE	الجماعة الطارئة من الناس، طرأت عليهم
+HFN-E-e7e076eb56#3	YES	فاعل	التزام	عاديّ	مطلق	غريب	UNSURE	كل غريب دارئ وطارئ
+HFN-E-e7e076eb56#4	OTHER_SENSE	-	-	-	-	-	UNSURE	القنطار طراء لعود البخور
+HFN-E-e7e076eb56#5	OTHER_SENSE	-	-	-	-	-	SURE	وطرا: جذر آخر
+HFN-E-42247d5e28#1	OTHER_SENSE	-	-	-	-	-	UNSURE	غريب طارئ: بعيد عن الطراوة
+HFN-E-42247d5e28#2	OTHER_SENSE	-	-	-	-	-	SURE	الطراء كثرة العدد
+HFN-E-42247d5e28#3	OTHER_SENSE	-	-	-	-	-	UNSURE	طرأت عليهم: بعيد عن الطراوة
+HFN-E-42247d5e28#4	OTHER_SENSE	-	-	-	-	-	UNSURE	القنطار طراء لعود البخور
+HFN-E-92e6481755#1	NO_DHAT	-	-	-	-	-	SURE	طرب في غنائه مد صوته ورجعه
+HFN-E-92e6481755#2	YES	محلّ	التزام	عاديّ	مطلق	قوم	UNSURE	طرب طربا فهو طرب من قوم طراب
+HFN-E-92e6481755#3	NO_DHAT	-	-	-	-	-	SURE	لحن في قراءته طرب فيها
+HFN-E-92e6481755#4	YES	آلة	التزام	عاديّ	مطلق	عود	UNSURE	عود أبح وحنان مطرب
+HFN-E-92e6481755#5	NO_DHAT	-	-	-	-	-	SURE	استخفه الجزع والطرب
+HFN-E-4e557203fb#1	OTHER_SENSE	-	-	-	-	-	UNSURE	على طرح الزائد: مصطلح صرفي
+HFN-E-4e557203fb#2	OTHER_SENSE	-	-	-	-	-	UNSURE	طرح الملحق: مصطلح صرفي
+HFN-E-4e557203fb#3	YES	محلّ	تضمّن	-	-	بلد	UNSURE	الطرح البعد، بلد طروح بعيد
+HFN-E-4e557203fb#4	OTHER_SENSE	-	-	-	-	-	UNSURE	طرح اللجام في رأس الفرس: إلقاء
+HFN-E-4e557203fb#5	OTHER_SENSE	-	-	-	-	-	UNSURE	على طرح الزائد: مصطلح صرفي
+HFN-E-0073b7e501#1	YES	فاعل	تضمّن	-	-	الكلاب	SURE	أطردت الكلاب الصيد نحته؛ الصيد محلّ
+HFN-E-0073b7e501#2	NO_DHAT	-	-	-	-	-	UNSURE	سيرها في السرعة وشدة الطرد
+HFN-E-0073b7e501#3	YES	محلّ	التزام	عاديّ	مطلق	الصيد	UNSURE	وبلت الصيد وهو حث الطرد
+HFN-E-0073b7e501#4	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	رجل معتاق الوسيقة إذا طرد طريدة
+HFN-E-0073b7e501#5	YES	محلّ	التزام	عاديّ	مطلق	الثيران	SURE	من الثيران أفرده كثرة الإغراء والطرد
+HFN-E-17ee994e3e#1	OTHER_SENSE	-	-	-	-	-	SURE	الطرز بيت، اسم
+HFN-E-17ee994e3e#2	OTHER_SENSE	-	-	-	-	-	SURE	طرز فلان حسن أي زيه
+HFN-E-17ee994e3e#3	OTHER_SENSE	-	-	-	-	-	SURE	الطرز الجيد من كل شيء
+HFN-E-ec4e2b499f#1	OTHER_SENSE	-	-	-	-	-	SURE	الطرز بيت، اسم
+HFN-E-ec4e2b499f#2	OTHER_SENSE	-	-	-	-	-	SURE	طرز فلان حسن أي زيه
+HFN-E-ec4e2b499f#3	OTHER_SENSE	-	-	-	-	-	SURE	الطرز الجيد من كل شيء
+HFN-E-638f8f0128#1	NO_DHAT	-	-	-	-	-	SURE	الطرش الصمم وقد طرش طرشا
+HFN-E-a66d741e46#1	YES	محلّ	تضمّن	-	-	الحواجب	SURE	في الحواجب الطرط رقتهما وقلة الشعر
+HFN-E-a66d741e46#2	YES	محلّ	تضمّن	-	-	العين	SURE	ذهب هدب العين فهو الطرط
+HFN-E-a66d741e46#3	YES	محلّ	تضمّن	-	-	الحاجب	UNSURE	الطرط الخفيف شعر الحاجب واللحية
+HFN-E-a66d741e46#4	YES	محلّ	تضمّن	-	-	اللحية	UNSURE	أضرط خفيف اللحية، إنما هو أطرط
+HFN-E-ca5670ae9a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	سامي الطرف: اسم البصر
+HFN-E-ca5670ae9a#2	OTHER_SENSE	-	-	-	-	-	SURE	طرف الخنصر: اسم
+HFN-E-ca5670ae9a#3	OTHER_SENSE	-	-	-	-	-	SURE	طرف القوس: اسم
+HFN-E-ca5670ae9a#4	OTHER_SENSE	-	-	-	-	-	SURE	طرف السنة: اسم
+HFN-E-ca5670ae9a#5	OTHER_SENSE	-	-	-	-	-	SURE	طرفها، طرف غضروف الأذن: اسم
+HFN-E-8168ef3509#1	OTHER_SENSE	-	-	-	-	-	SURE	سامي الطرف: اسم البصر
+HFN-E-8168ef3509#2	OTHER_SENSE	-	-	-	-	-	SURE	طرف الخنصر: اسم
+HFN-E-8168ef3509#3	OTHER_SENSE	-	-	-	-	-	SURE	طرف القوس: اسم
+HFN-E-8168ef3509#4	OTHER_SENSE	-	-	-	-	-	SURE	طرف السنة: اسم
+HFN-E-8168ef3509#5	OTHER_SENSE	-	-	-	-	-	SURE	طرفها، طرف غضروف الأذن: اسم
+HFN-E-577997bbe8#1	OTHER_SENSE	-	-	-	-	-	SURE	سامي الطرف: اسم البصر
+HFN-E-577997bbe8#2	OTHER_SENSE	-	-	-	-	-	SURE	طرف الخنصر: اسم
+HFN-E-577997bbe8#3	OTHER_SENSE	-	-	-	-	-	SURE	طرف القوس: اسم
+HFN-E-577997bbe8#4	OTHER_SENSE	-	-	-	-	-	SURE	طرف السنة: اسم
+HFN-E-577997bbe8#5	OTHER_SENSE	-	-	-	-	-	SURE	طرفها، طرف غضروف الأذن: اسم
+HFN-E-721b1b10ad#1	OTHER_SENSE	-	-	-	-	-	SURE	الطرق الجواد، اسم
+HFN-E-721b1b10ad#2	OTHER_SENSE	-	-	-	-	-	SURE	طرق جمع الطريق
+HFN-E-721b1b10ad#3	YES	فاعل	تضمّن	-	-	الفحل	SURE	طرق الفحل يطرق طروقا نزا
+HFN-E-721b1b10ad#4	YES	محلّ	التزام	عاديّ	مطلق	الماء	UNSURE	طرقت الإبل الماء؛ الإبل فاعل
+HFN-E-721b1b10ad#5	OTHER_SENSE	-	-	-	-	-	SURE	المطارب طرق ضيقة، اسم
+HFN-E-f2ebccd190#1	OTHER_SENSE	-	-	-	-	-	SURE	الطرق الجواد، اسم
+HFN-E-f2ebccd190#2	OTHER_SENSE	-	-	-	-	-	SURE	طرق جمع الطريق
+HFN-E-f2ebccd190#3	OTHER_SENSE	-	-	-	-	-	UNSURE	طرق الفحل نزا، معنى بعيد
+HFN-E-f2ebccd190#4	OTHER_SENSE	-	-	-	-	-	UNSURE	طرقت الإبل الماء، معنى بعيد
+HFN-E-f2ebccd190#5	OTHER_SENSE	-	-	-	-	-	SURE	المطارب طرق ضيقة، اسم
+HFN-E-3a95c75073#1	YES	محلّ	تضمّن	-	-	الشجر	SURE	حتت الورق عن الشجر بالعصا فذلك الخبط
+HFN-E-3a95c75073#2	YES	فاعل	تضمّن	-	-	البعير	UNSURE	الركض للبعير برجله والخبط بيده
+HFN-E-3a95c75073#3	YES	فاعل	تضمّن	-	-	الدواب	SURE	الخبط الوطء الشديد، من أيدي الدواب
+HFN-E-3a95c75073#4	OTHER_SENSE	-	-	-	-	-	SURE	أتونا خبطة خبطة: قطعة، اسم
+HFN-E-3a95c75073#5	NO_DHAT	-	-	-	-	-	UNSURE	الخبطة كالزكمة وقد خبط

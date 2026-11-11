@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-da20f258db#1	YES	مصدر	تضمّن	-	-	الوعاء	SURE	خاش ما في الوعاء: أخرج ما فيه
+HFN-E-da20f258db#2	OTHER_SENSE	-	-	-	-	-	SURE	الخيش ثياب رقاق: اسم ذات
+HFN-E-30b205cde4#1	OTHER_SENSE	-	-	-	-	-	SURE	اسم خاص: من خصص
+HFN-E-30b205cde4#2	OTHER_SENSE	-	-	-	-	-	SURE	اسم خاص: من خصص
+HFN-E-30b205cde4#3	OTHER_SENSE	-	-	-	-	-	SURE	الجدر الخاص: من خصص
+HFN-E-30b205cde4#4	OTHER_SENSE	-	-	-	-	-	SURE	شيء خاص: من خصص
+HFN-E-30b205cde4#5	YES	محل	التزام	عادي	مطلق	الأذنين	UNSURE	رجل أخيص، خيص خيصا: عيب الأذنين
+HFN-E-a659b3005d#1	OTHER_SENSE	-	-	-	-	-	SURE	خيط صغير: اسم ذات
+HFN-E-a659b3005d#2	YES	محل	التزام	عادي	مطلق	الثوب	SURE	خطت الثوب خيطا وخياطة؛ الخيط آلة
+HFN-E-a659b3005d#3	OTHER_SENSE	-	-	-	-	-	SURE	تشد يده بخيط: اسم ذات
+HFN-E-a659b3005d#4	OTHER_SENSE	-	-	-	-	-	SURE	الخيط جماعة النعام
+HFN-E-a659b3005d#5	OTHER_SENSE	-	-	-	-	-	SURE	الخيط: اسم ذات
+HFN-E-5574d26c79#1	OTHER_SENSE	-	-	-	-	-	SURE	الخيف ما ارتفع عن موضع السيل: مكان
+HFN-E-5574d26c79#2	YES	محل	تضمّن	-	-	العينين	SURE	الخيف أن تكون إحدى العينين كحلاء
+HFN-E-5574d26c79#3	OTHER_SENSE	-	-	-	-	-	SURE	الخيف الضرع، ناقة خيفاء: معنى بعيد
+HFN-E-5574d26c79#4	NO_DHAT	-	-	-	-	-	UNSURE	فضارع باب خيف: ذكر صرفي
+HFN-E-5574d26c79#5	YES	محل	تضمّن	-	-	العينين	SURE	الخيف أن تكون إحدى العينين كحلاء والأخرى زرقاء
+HFN-E-eaf6854c1c#1	OTHER_SENSE	-	-	-	-	-	SURE	الخيمة والخيم: اسم ذات
+HFN-E-eaf6854c1c#2	YES	محل	تضمّن	-	-	الرجل	SURE	خام الرجل خيما وخيمانا - هاب وجبن
+HFN-E-eaf6854c1c#3	OTHER_SENSE	-	-	-	-	-	SURE	كالخام: كلمة أخرى
+HFN-E-eaf6854c1c#4	OTHER_SENSE	-	-	-	-	-	SURE	فهو خام: النيء
+HFN-E-eaf6854c1c#5	NO_DHAT	-	-	-	-	-	SURE	خام عنه خيمانا - عدل
+HFN-E-423c95dd57#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الدأب الصوت الشديد
+HFN-E-423c95dd57#2	NO_DHAT	-	-	-	-	-	SURE	مازال هذا دأبك، دأب يدأب
+HFN-E-423c95dd57#3	NO_DHAT	-	-	-	-	-	UNSURE	الامليس السير المجد والدأب
+HFN-E-423c95dd57#4	OTHER_SENSE	-	-	-	-	-	UNSURE	كثر في الداب: الدوابّ
+HFN-E-d4640a2eb6#1	NO_DHAT	-	-	-	-	-	UNSURE	الدأظ - إكراه الأكل بعد الشبع
+HFN-E-d4640a2eb6#2	YES	محل	تضمّن	-	-	الاناء	SURE	دأظت الاناء أدأظه دأظا - ملأته
+HFN-E-d4640a2eb6#3	NO_DHAT	-	-	-	-	-	UNSURE	المحض والدأظ حتى مالهن غرض
+HFN-E-84b43f518e#1	OTHER_SENSE	-	-	-	-	-	SURE	بفتح الدال: حرف
+HFN-E-84b43f518e#2	OTHER_SENSE	-	-	-	-	-	SURE	بالدال: حرف
+HFN-E-84b43f518e#3	OTHER_SENSE	-	-	-	-	-	SURE	بالدال: حرف
+HFN-E-84b43f518e#4	OTHER_SENSE	-	-	-	-	-	SURE	الدال دخلت على الطاء: حرف
+HFN-E-84b43f518e#5	OTHER_SENSE	-	-	-	-	-	SURE	بكسر الدال: حرف
+HFN-E-282b1c71b4#1	OTHER_SENSE	-	-	-	-	-	SURE	ما دام صغارا: من دوم
+HFN-E-282b1c71b4#2	OTHER_SENSE	-	-	-	-	-	SURE	دام الشيء يدوم: من دوم
+HFN-E-282b1c71b4#3	OTHER_SENSE	-	-	-	-	-	SURE	دام أياما: من دوم
+HFN-E-282b1c71b4#4	OTHER_SENSE	-	-	-	-	-	SURE	ما دام: من دوم
+HFN-E-282b1c71b4#5	OTHER_SENSE	-	-	-	-	-	SURE	دام برقها: من دوم
+HFN-E-64a42739c3#1	YES	فاعل	تضمّن	-	-	المطر	SURE	دبج المطر الأرض يدبجها - روضها؛ الأرض محل
+HFN-E-64a42739c3#2	YES	فاعل	تضمّن	-	-	الرجل	UNSURE	دبج الرجل - طأطأ رأسه
+HFN-E-d5876889b9#1	OTHER_SENSE	-	-	-	-	-	SURE	أسماء الدبر: اسم عضو
+HFN-E-d5876889b9#2	OTHER_SENSE	-	-	-	-	-	UNSURE	دبر دبرا: دبر البعير، معنى بعيد
+HFN-E-d5876889b9#3	OTHER_SENSE	-	-	-	-	-	SURE	الدبر الزنابير
+HFN-E-d5876889b9#4	OTHER_SENSE	-	-	-	-	-	SURE	الدبر المال الكثير
+HFN-E-d5876889b9#5	OTHER_SENSE	-	-	-	-	-	SURE	الدبر: عضو
+HFN-E-4935a5f83d#1	OTHER_SENSE	-	-	-	-	-	SURE	أسماء الدبر: اسم عضو
+HFN-E-4935a5f83d#2	YES	محل	التزام	عادي	مطلق	بعير	SURE	بعير أدبر ودبر، قد دبر دبرا
+HFN-E-4935a5f83d#3	OTHER_SENSE	-	-	-	-	-	SURE	الدبر الزنابير
+HFN-E-4935a5f83d#4	OTHER_SENSE	-	-	-	-	-	SURE	الدبر المال الكثير
+HFN-E-4935a5f83d#5	OTHER_SENSE	-	-	-	-	-	SURE	الدبر: عضو
+HFN-E-36ee12a55a#1	YES	فاعل	تضمّن	-	-	الجراد	SURE	دبش الجراد الأرض - أكل ما عليها؛ الأرض محل
+HFN-E-5202ea3cef#1	YES	محل	التزام	عادي	مطلق	الجلود	UNSURE	دباغ الجلود؛ دبغته أدبغه دبغا
+HFN-E-468a467a75#1	YES	آلة	التزام	عقلي	ذهني	الدبق	UNSURE	دبقته أدبقه دبقا؛ يلزق به جناح الطائر
+HFN-E-21586a8d4e#1	YES	محل	تضمّن	-	-	اللقم	UNSURE	التدبيل - ضخم اللقم
+HFN-E-21586a8d4e#2	NO_DHAT	-	-	-	-	-	SURE	الدبل - جمعك الشيء
+HFN-E-69e6c97ccc#1	OTHER_SENSE	-	-	-	-	-	UNSURE	التدبيل ضخم اللقم: من دبل لا دبل
+HFN-E-69e6c97ccc#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الدبل جمعك الشيء: فعل آخر
+HFN-E-d307060ce7#1	OTHER_SENSE	-	-	-	-	-	SURE	الدثر المال الكثير
+HFN-E-d307060ce7#2	OTHER_SENSE	-	-	-	-	-	UNSURE	أعثى في المنام دثور: صفة نؤوم
+HFN-E-d307060ce7#3	OTHER_SENSE	-	-	-	-	-	SURE	الدثار وتدثرت به: لباس
+HFN-E-d307060ce7#4	OTHER_SENSE	-	-	-	-	-	SURE	عكر دثر: كثير
+HFN-E-d307060ce7#5	NO_DHAT	-	-	-	-	-	SURE	دثر يدثر دثورا واندثر
+HFN-E-db1a43dfbc#1	OTHER_SENSE	-	-	-	-	-	SURE	الدجر: اللوبياء
+HFN-E-db1a43dfbc#2	NO_DHAT	-	-	-	-	-	SURE	الدجر الحيرة، دجر دجرا فهو دجر
+HFN-E-db1a43dfbc#3	OTHER_SENSE	-	-	-	-	-	SURE	الخشبة تسمى الدجر: أداة
+HFN-E-db1a43dfbc#4	NO_DHAT	-	-	-	-	-	UNSURE	إذا كان مع نشاطه أشر فهو دجر
+HFN-E-cf1d6979b3#1	OTHER_SENSE	-	-	-	-	-	UNSURE	دجم الباطل: غمراته وظلمته
+HFN-E-f541502ef3#1	OTHER_SENSE	-	-	-	-	-	SURE	الدجن: الغيم
+HFN-E-f541502ef3#2	YES	محل	التزام	عادي	مطلق	شاة	UNSURE	شاة دجون، دجنت على البهم دجونا
+HFN-E-f541502ef3#3	OTHER_SENSE	-	-	-	-	-	SURE	تحت دجن مغين: الغيم
+HFN-E-f541502ef3#4	OTHER_SENSE	-	-	-	-	-	SURE	يوم الدجن: الغيم
+HFN-E-f541502ef3#5	OTHER_SENSE	-	-	-	-	-	SURE	دجن الغمام: الغيم
+HFN-E-9b8af09627#1	NO_DHAT	-	-	-	-	-	SURE	الدحب الدفع وقد دحبته
+HFN-E-ee52bff3ff#1	NO_DHAT	-	-	-	-	-	UNSURE	الدحر الدفع؛ أدحر عنا الشيطان
+HFN-E-83f29f4c0b#1	YES	محل	التزام	عادي	مطلق	حبا	UNSURE	امتلأ حبا وغلظ فهو الدحس؛ حشي في وعاء
+HFN-E-83f29f4c0b#2	YES	محل	تضمّن	-	-	الثوب	UNSURE	دحس الثوب في الوعاء - إدخاله فيه؛ المسجد دحاس
+HFN-E-83f29f4c0b#3	YES	محل	تضمّن	-	-	الشاة	SURE	الدحس إدخالك يدك بين جلد الشاة وصفاقها
+HFN-E-83f29f4c0b#4	NO_DHAT	-	-	-	-	-	SURE	الدحس التحسيس للأمر
+HFN-E-79002eb121#1	YES	محل	تضمّن	-	-	رجله	SURE	دحضت رجله تدحض دحضا - زلقت
+HFN-E-79002eb121#2	OTHER_SENSE	-	-	-	-	-	SURE	الدحض سلاح السباع: معنى بعيد
+HFN-E-1e6cfec5eb#1	YES	محل	تضمّن	-	-	رحمها	SURE	الدحوق التي تخرج رحمها بعد نتاجها
+HFN-E-1cb2fe08ac#1	OTHER_SENSE	-	-	-	-	-	UNSURE	دحل كالثجل: من دحل المكسور
+HFN-E-1cb2fe08ac#2	OTHER_SENSE	-	-	-	-	-	SURE	الدحل نقب ضيق: مكان
+HFN-E-1cb2fe08ac#3	NO_DHAT	-	-	-	-	-	UNSURE	الدحن والدحل - الخب الخبيث
+HFN-E-1cb2fe08ac#4	YES	محل	تضمّن	-	-	الناس	UNSURE	الدحل - الخداع للناس
+HFN-E-1cb2fe08ac#5	OTHER_SENSE	-	-	-	-	-	SURE	دحل في البيت: اسم موضع
+HFN-E-47e025e3e4#1	YES	محل	التزام	عادي	مطلق	الخاصرتين	UNSURE	الدحل كالثجل، الثجل خروج الخاصرتين
+HFN-E-47e025e3e4#2	OTHER_SENSE	-	-	-	-	-	SURE	الدحل نقب ضيق: مكان
+HFN-E-47e025e3e4#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الدحل الخب الخبيث: معنى آخر
+HFN-E-47e025e3e4#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الدحل الخداع للناس: من دحل المفتوح
+HFN-E-47e025e3e4#5	OTHER_SENSE	-	-	-	-	-	SURE	دحل في البيت: اسم موضع
+HFN-E-f13b868c94#1	NO_DHAT	-	-	-	-	-	SURE	الدحم وهو الدفع بازعاج
+HFN-E-6aaea11f2b#1	YES	محل	تضمّن	-	-	الرجل	SURE	دخر الرجل دخرا - ذل
+HFN-E-4ab0053e09#1	YES	محل	تضمّن	-	-	الرجل	SURE	دخر الرجل دخرا - ذل
+HFN-E-918d5c1186#1	YES	محل	التزام	عادي	مطلق	الأثافي	UNSURE	الدخس الأثافي من الدخس اندساس الشيء تحت الأرض
+HFN-E-918d5c1186#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الدخس الكثير اللحم: امتلاء لا دخس
+HFN-E-918d5c1186#3	OTHER_SENSE	-	-	-	-	-	UNSURE	امرأة مدخسة سمينة: امتلاء
+HFN-E-918d5c1186#4	OTHER_SENSE	-	-	-	-	-	UNSURE	دخس دخسا: داء في الفرس
+HFN-E-918d5c1186#5	OTHER_SENSE	-	-	-	-	-	SURE	الدخس الفتي من الدببة
+HFN-E-7a805fb375#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الدخس اندساس الشيء: من دخس المفتوح
+HFN-E-7a805fb375#2	YES	محل	تضمّن	-	-	العظم	UNSURE	الدخس الكثير اللحم الممتلئ العظم
+HFN-E-7a805fb375#3	YES	محل	تضمّن	-	-	امرأة	SURE	امرأة مدخسة - سمينة، الدخس امتلاء العظم
+HFN-E-7a805fb375#4	YES	محل	التزام	عادي	مطلق	الفرس	UNSURE	وقد دخس دخسا في عيوب الفرس
+HFN-E-7a805fb375#5	OTHER_SENSE	-	-	-	-	-	SURE	الدخس الفتي من الدببة
+HFN-E-10b2a114e3#1	OTHER_SENSE	-	-	-	-	-	SURE	طائرة من الدخل: اسم طائر
+HFN-E-10b2a114e3#2	NO_DHAT	-	-	-	-	-	SURE	إذا دخل في الشيء واستتر به
+HFN-E-10b2a114e3#3	NO_DHAT	-	-	-	-	-	SURE	الدخول نقيض الخروج دخل يدخل
+HFN-E-10b2a114e3#4	YES	مكان	التزام	عادي	مطلق	القرموص	UNSURE	القرموص حفيرة، قرمص دخل فيه؛ الصائد فاعل
+HFN-E-10b2a114e3#5	YES	محل	التزام	عادي	مطلق	فلانة	UNSURE	فلانة ثيب إذا كان قد دخل بها
+HFN-E-ef9ca5967c#1	OTHER_SENSE	-	-	-	-	-	SURE	طائرة من الدخل: اسم طائر
+HFN-E-ef9ca5967c#2	OTHER_SENSE	-	-	-	-	-	UNSURE	دخل في الشيء: الدخول لا الدخل
+HFN-E-ef9ca5967c#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الدخول نقيض الخروج: فعل آخر
+HFN-E-ef9ca5967c#4	OTHER_SENSE	-	-	-	-	-	UNSURE	دخل فيه: الدخول لا الدخل
+HFN-E-ef9ca5967c#5	OTHER_SENSE	-	-	-	-	-	UNSURE	دخل بها: الدخول لا الدخل
+HFN-E-3bb583c05b#1	NO_DHAT	-	-	-	-	-	SURE	الدخم الدفع بازعاج دخمه يدخمه
+HFN-E-71aa454915#1	YES	فاعل	تضمّن	-	-	النار	UNSURE	دخنت النار تدخن - ارتفع دخانها
+HFN-E-71aa454915#2	OTHER_SENSE	-	-	-	-	-	SURE	يأكل الدخن: حب
+HFN-E-71aa454915#3	OTHER_SENSE	-	-	-	-	-	SURE	الدخن حب صغار
+HFN-E-71aa454915#4	YES	محل	التزام	عادي	مطلق	حمار	UNSURE	الدخناء من الدخن وهو لون فيه غبرة
+HFN-E-71aa454915#5	OTHER_SENSE	-	-	-	-	-	SURE	كالأرز والدخن: حب
+HFN-E-fb4b8f69f8#1	YES	فاعل	تضمّن	-	-	النار	UNSURE	دخنت النار تدخن - ارتفع دخانها
+HFN-E-fb4b8f69f8#2	OTHER_SENSE	-	-	-	-	-	SURE	يأكل الدخن: حب
+HFN-E-fb4b8f69f8#3	OTHER_SENSE	-	-	-	-	-	SURE	الدخن حب صغار
+HFN-E-fb4b8f69f8#4	YES	محل	التزام	عادي	مطلق	حمار	UNSURE	الدخناء من الدخن وهو لون فيه غبرة
+HFN-E-fb4b8f69f8#5	OTHER_SENSE	-	-	-	-	-	SURE	كالأرز والدخن: حب
+HFN-E-a60a5d216a#1	YES	فاعل	التزام	عادي	مطلق	السيل	UNSURE	جاءنا السيل درأ للذي يدرأ من مكان
+HFN-E-a60a5d216a#2	YES	فاعل	التزام	عادي	مطلق	كوكب	SURE	الدراري يدرأن من مطالعها، كوكب دري قد درأ
+HFN-E-a60a5d216a#3	YES	فاعل	التزام	عادي	مطلق	السيل	SURE	درأ السيل يدرأ درءا ودروءا
+HFN-E-a60a5d216a#4	OTHER_SENSE	-	-	-	-	-	SURE	در الفرس درا: من درر
+HFN-E-a60a5d216a#5	OTHER_SENSE	-	-	-	-	-	SURE	درا: من درّ اللبن
+HFN-E-f7796c5d02#1	OTHER_SENSE	-	-	-	-	-	SURE	الدرجة ودرج البناء: اسم
+HFN-E-f7796c5d02#2	NO_DHAT	-	-	-	-	-	SURE	من دب ودرج، درج مات ولم يخلف نسلا
+HFN-E-f7796c5d02#3	YES	محل	تضمّن	-	-	القوم	UNSURE	يقال للقوم إذا انقرضوا درجوا
+HFN-E-f7796c5d02#4	OTHER_SENSE	-	-	-	-	-	SURE	الدرج سفيط صغير
+HFN-E-f7796c5d02#5	OTHER_SENSE	-	-	-	-	-	SURE	الدرج: القبر
+HFN-E-0e3907c79e#1	OTHER_SENSE	-	-	-	-	-	SURE	الدرجة ودرج البناء: اسم
+HFN-E-0e3907c79e#2	OTHER_SENSE	-	-	-	-	-	UNSURE	دب ودرج: من درج المفتوح
+HFN-E-0e3907c79e#3	OTHER_SENSE	-	-	-	-	-	UNSURE	إذا انقرضوا درجوا: من درج المفتوح
+HFN-E-0e3907c79e#4	OTHER_SENSE	-	-	-	-	-	SURE	الدرج سفيط صغير
+HFN-E-0e3907c79e#5	OTHER_SENSE	-	-	-	-	-	SURE	الدرج: القبر
+HFN-E-4ace42e872#1	YES	محل	التزام	عادي	مطلق	الأسنان	UNSURE	الدرد أن تسقط كلها، درد دردا فهو أدرد
+HFN-E-8cef0d1b19#1	OTHER_SENSE	-	-	-	-	-	SURE	بنو درز الحاكة: اسم
+HFN-E-8cef0d1b19#2	OTHER_SENSE	-	-	-	-	-	SURE	الدرز زئبر الثوب: اسم دخيل
+HFN-E-6b9e10b021#1	OTHER_SENSE	-	-	-	-	-	UNSURE	به درس: جرب خفيف
+HFN-E-6b9e10b021#2	YES	محل	التزام	عادي	مطلق	ثوب	UNSURE	الدرس والدريس الخلق من الثياب
+HFN-E-6b9e10b021#3	YES	فاعل	التزام	عادي	مطلق	الريح	SURE	درس الشيء ذهب أثره ودرسته الريح
+HFN-E-6b9e10b021#4	YES	محل	التزام	عادي	مطلق	المنزل	SURE	طمس المنزل وطسم - درس، ربع دارس
+HFN-E-6b9e10b021#5	YES	محل	تضمّن	-	-	الناقة	SURE	درس الناقة يدرسها درسا راضها
+HFN-E-72c9c8198c#1	YES	محل	التزام	عقلي	ذهني	الدرع	UNSURE	ادرعت بالدرع وتدرعت، رجل دراع
+HFN-E-72c9c8198c#2	OTHER_SENSE	-	-	-	-	-	SURE	حلق الدرع: اسم ذات
+HFN-E-72c9c8198c#3	OTHER_SENSE	-	-	-	-	-	SURE	درع المرأة قميصها: اسم ذات
+HFN-E-72c9c8198c#4	OTHER_SENSE	-	-	-	-	-	SURE	من النصال الدرع: اسم ذات
+HFN-E-72c9c8198c#5	OTHER_SENSE	-	-	-	-	-	SURE	صوت الدرع: اسم ذات
+HFN-E-4a13489e0e#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الدرع لبوس الحديد: اسم ذات
+HFN-E-4a13489e0e#2	OTHER_SENSE	-	-	-	-	-	SURE	حلق الدرع: اسم ذات
+HFN-E-4a13489e0e#3	OTHER_SENSE	-	-	-	-	-	SURE	درع المرأة قميصها: اسم ذات
+HFN-E-4a13489e0e#4	OTHER_SENSE	-	-	-	-	-	SURE	من النصال الدرع: اسم ذات
+HFN-E-4a13489e0e#5	OTHER_SENSE	-	-	-	-	-	SURE	صوت الدرع: اسم ذات
+HFN-E-db94d56053#1	YES	محل	التزام	عادي	مطلق	المرفق	UNSURE	وصف المرفق بالدقة والهزال وخلاف الدرم
+HFN-E-db94d56053#2	YES	محل	تضمّن	-	-	أسنانه	SURE	درمت أسنانه درما، تحاتت
+HFN-E-db94d56053#3	YES	محل	التزام	عادي	مطلق	المناكب	SURE	الأهدأ من المناكب الذي درم أعلاه
+HFN-E-db94d56053#4	YES	فاعل	تضمّن	-	-	الأرنب	UNSURE	مر يدرم درم الأرنب - إذا قارب الخطو
+HFN-E-db94d56053#5	YES	محل	تضمّن	-	-	عظمها	SURE	إذا غطاها الشحم قيل درم عظمها درما
+HFN-E-a60156641b#1	YES	محل	التزام	عادي	مطلق	الثوب	SURE	درن الثوب درنا فهو درن
+HFN-E-a60156641b#2	NO_DHAT	-	-	-	-	-	UNSURE	الادرون من الدرن أي الوسخ
+HFN-E-db96c9635a#1	NO_DHAT	-	-	-	-	-	UNSURE	لهام قد دسر، دسر دفع
+HFN-E-db96c9635a#2	YES	محل	التزام	عادي	مطلق	السفينة	SURE	الدسر المسامير من الدسر الدفع، دسرتها به؛ المسامير آلة
+HFN-E-db96c9635a#3	YES	فاعل	التزام	عادي	مطلق	الإبل	UNSURE	دوسرة من الدسر وهو الدفع بشدة
+HFN-E-db96c9635a#4	OTHER_SENSE	-	-	-	-	-	UNSURE	ذات دسر: المسامير اسم ذات
+HFN-E-db96c9635a#5	OTHER_SENSE	-	-	-	-	-	SURE	الدسر الحبال من الليف
+HFN-E-98efd24be1#1	YES	فاعل	التزام	عادي	مطلق	البعير	UNSURE	دفع البعير بجرته، دسع يدسع دسعا؛ جرته محل
+HFN-E-98efd24be1#2	NO_DHAT	-	-	-	-	-	SURE	دسع يدسع دسعا - قاء
+HFN-E-2e423f1392#1	OTHER_SENSE	-	-	-	-	-	SURE	أسماء الدسم: اسم ذات
+HFN-E-2e423f1392#2	OTHER_SENSE	-	-	-	-	-	SURE	الدسم ما أنبتت الأرض: اسم ذات
+HFN-E-2e423f1392#3	OTHER_SENSE	-	-	-	-	-	SURE	غلب الدسم على قلبه: اسم ذات
+HFN-E-2e423f1392#4	OTHER_SENSE	-	-	-	-	-	UNSURE	لحم زخم دسم: من دسم المكسور
+HFN-E-2e423f1392#5	OTHER_SENSE	-	-	-	-	-	SURE	الحساء من الدسم: اسم ذات
+HFN-E-5f505cf073#1	OTHER_SENSE	-	-	-	-	-	SURE	أسماء الدسم: اسم ذات
+HFN-E-5f505cf073#2	OTHER_SENSE	-	-	-	-	-	SURE	الدسم ما أنبتت الأرض: اسم ذات
+HFN-E-5f505cf073#3	OTHER_SENSE	-	-	-	-	-	SURE	غلب الدسم على قلبه: اسم ذات
+HFN-E-5f505cf073#4	YES	محل	التزام	عادي	مطلق	لحم	SURE	لحم زخم - دسم خبيث الرائحة
+HFN-E-5f505cf073#5	OTHER_SENSE	-	-	-	-	-	SURE	الحساء من الدسم: اسم ذات
+HFN-E-838c820be5#1	NO_DHAT	-	-	-	-	-	SURE	الدعب الدفع، دعب يدعب دعبا
+HFN-E-838c820be5#2	YES	فاعل	تضمّن	-	-	الرجل	SURE	أدعب الرجل: جاء بشيء يستملح؛ تداعب القوم
+HFN-E-467f4515c7#1	NO_DHAT	-	-	-	-	-	UNSURE	الدعب الدفع، دعب يدعب دعبا
+HFN-E-467f4515c7#2	YES	فاعل	تضمّن	-	-	الرجل	UNSURE	أدعب الرجل: جاء بشيء يستملح
+HFN-E-8b991cd13c#1	NO_DHAT	-	-	-	-	-	SURE	أول المرض الدعث وقد دعث
+HFN-E-8b991cd13c#2	OTHER_SENSE	-	-	-	-	-	SURE	الدعث بقية الماء في الحوض
+HFN-E-8b991cd13c#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الدعث الحقد في القلب
+HFN-E-659a6d31bd#1	NO_DHAT	-	-	-	-	-	UNSURE	أول المرض الدعث وقد دعث
+HFN-E-659a6d31bd#2	OTHER_SENSE	-	-	-	-	-	SURE	الدعث بقية الماء في الحوض
+HFN-E-659a6d31bd#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الدعث الحقد في القلب
+HFN-E-83ab17da76#1	NO_DHAT	-	-	-	-	-	UNSURE	صفراء في دعج: في بيت بلا ذات
+HFN-E-83ab17da76#2	OTHER_SENSE	-	-	-	-	-	UNSURE	أرعج ودعج: البرق، معنى بعيد
+HFN-E-dcfec15e62#1	YES	محل	تضمّن	-	-	رجل	SURE	رجل داعر - فاجر وقد دعر دعارة
+HFN-E-dcfec15e62#2	YES	محل	التزام	عادي	مطلق	عود	SURE	الدعر الذي وقع فيه القادح، عود دعر
+HFN-E-dcfec15e62#3	YES	محل	تضمّن	-	-	الحطب	SURE	إذا كان الحطب كثير الدخان فهو دعر
+HFN-E-dcfec15e62#4	YES	محل	تضمّن	-	-	الزناد	SURE	الدعر من الزناد - الذي قدح به
+HFN-E-dcfec15e62#5	NO_DHAT	-	-	-	-	-	UNSURE	إنه لدعرة إذا كان فيه قادح
+HFN-E-7f751080ea#1	YES	محل	التزام	عادي	مطلق	المرأة	SURE	دعز المرأة يدعزها دعزا
+HFN-E-2e6f8754c3#1	YES	محل	تضمّن	-	-	طريق	SURE	طريق دعس ومدعوس كثرت به الآثار
+HFN-E-2e6f8754c3#2	NO_DHAT	-	-	-	-	-	UNSURE	الدعس إدخالها: ضرب من النكاح
+HFN-E-2e6f8754c3#3	NO_DHAT	-	-	-	-	-	UNSURE	الدعس - الأثر
+HFN-E-2e6f8754c3#4	YES	فاعل	تضمّن	-	-	رجل	SURE	رجل دعس ومدعس مطعن؛ القناة آلة
+HFN-E-2e6f8754c3#5	OTHER_SENSE	-	-	-	-	-	SURE	الدعس الرمل الدقاق
+HFN-E-a3dc4ba071#1	OTHER_SENSE	-	-	-	-	-	SURE	الدعص أقل من الحقف: رمل
+HFN-E-eceb705050#1	YES	محل	تضمّن	-	-	الخيل	SURE	دعق الخيل يدعقها دعقا أرسلها في الإغارة
+HFN-E-eceb705050#2	YES	محل	تضمّن	-	-	الطريق	SURE	دعق الطريق دعقا - كثر عليه الوطء
+HFN-E-eceb705050#3	NO_DHAT	-	-	-	-	-	SURE	الدعق لغة في الدق
+HFN-E-a02230bfaf#1	NO_DHAT	-	-	-	-	-	UNSURE	الدعك الضعيف، من الدعك وهو طائر
+HFN-E-a02230bfaf#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الدعك الدلك الشديد: من دعك المفتوح
+HFN-E-a02230bfaf#3	YES	محل	التزام	عادي	مطلق	الرجل	UNSURE	يقال للرجل الضعيف دعك
+HFN-E-a02230bfaf#4	OTHER_SENSE	-	-	-	-	-	SURE	دعني: من ودع
+HFN-E-a02230bfaf#5	OTHER_SENSE	-	-	-	-	-	UNSURE	طريق دعك: مدعوك، من دعك المفتوح
+HFN-E-c2cb6dcc55#1	YES	محل	تضمّن	-	-	الحائط	SURE	دعمت الحائط إذا مال فأقمته بخشبة؛ الخشبة آلة
+HFN-E-c2cb6dcc55#2	OTHER_SENSE	-	-	-	-	-	SURE	الدعم واحدتها دعمة: خشب
+HFN-E-c2cb6dcc55#3	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل ذو دعم أي ذو قوة
+HFN-E-c2cb6dcc55#4	YES	محل	التزام	عادي	مطلق	الحائط	SURE	رهص الحائط - دعم
+HFN-E-c2cb6dcc55#5	OTHER_SENSE	-	-	-	-	-	SURE	الزرانيق من خشب فهي دعم
+HFN-E-cfcfa7dc80#1	NO_DHAT	-	-	-	-	-	UNSURE	في خلقه دغر أي تخلف
+HFN-E-cfcfa7dc80#2	YES	محل	تضمّن	-	-	الصبي	SURE	دغرت الصبي، وهو دفع الورم الذي في الحلق
+HFN-E-cfcfa7dc80#3	YES	فاعل	تضمّن	-	-	المختلس	SURE	الدغر توثب المختلس على المتاع؛ المتاع محل
+HFN-E-cfcfa7dc80#4	YES	محل	تضمّن	-	-	حلق	SURE	الدغر رفع المرأة حلق الصبي؛ المرأة فاعل
+HFN-E-cfcfa7dc80#5	YES	محل	تضمّن	-	-	الحلق	UNSURE	الدغر دفع وزم في الحلق بالإصبع؛ الإصبع آلة
+HFN-E-9116913520#1	NO_DHAT	-	-	-	-	-	UNSURE	في خلقه دغر أي تخلف
+HFN-E-9116913520#2	YES	محل	تضمّن	-	-	الصبي	UNSURE	دغرت الصبي، وهو دفع الورم في الحلق
+HFN-E-9116913520#3	YES	فاعل	تضمّن	-	-	المختلس	UNSURE	الدغر توثب المختلس على المتاع
+HFN-E-9116913520#4	YES	محل	تضمّن	-	-	حلق	UNSURE	الدغر رفع المرأة حلق الصبي
+HFN-E-9116913520#5	YES	محل	تضمّن	-	-	الحلق	UNSURE	الدغر دفع وزم في الحلق بالإصبع
+HFN-E-d931fa8b8d#1	NO_DHAT	-	-	-	-	-	SURE	الدغف الأخذ الكثير دغف يدغف
+HFN-E-feb4854fe7#1	OTHER_SENSE	-	-	-	-	-	SURE	فدغم: كلمة أخرى
+HFN-E-feb4854fe7#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الدغم لون الفرس: من دغم المكسور
+HFN-E-feb4854fe7#3	YES	محل	تضمّن	-	-	أنفه	SURE	دغم أنفه يدغمه دغما كسره من باطن
+HFN-E-9cf27abf6c#1	OTHER_SENSE	-	-	-	-	-	SURE	فدغم: كلمة أخرى
+HFN-E-9cf27abf6c#2	YES	محل	التزام	عادي	مطلق	فرس	SURE	الدغم أن يكون وجهه أشد سوادا، فرس أدغم
+HFN-E-9cf27abf6c#3	OTHER_SENSE	-	-	-	-	-	UNSURE	دغم أنفه كسره: من دغم المفتوح
+HFN-E-ddaa3ca298#1	OTHER_SENSE	-	-	-	-	-	SURE	الدفء نتاج الإبل وألبانها
+HFN-E-ddaa3ca298#2	YES	محل	التزام	عادي	مطلق	بلدة	SURE	بلدة دفئة وبيت دفئ ورجل دفآن
+HFN-E-ddaa3ca298#3	YES	محل	التزام	عادي	مطلق	موضع	UNSURE	في موضع كنين من الريح دفئ
+HFN-E-ddaa3ca298#4	YES	محل	التزام	عادي	مطلق	المناخيب	UNSURE	آثر النوم والدفء المناخيب
+HFN-E-ddaa3ca298#5	YES	محل	التزام	عادي	مطلق	أسير	UNSURE	بأسير يرعد فقال أدفؤه من الدفء
+HFN-E-0ce82c233d#1	YES	زمان	التزام	عادي	مطلق	يومنا	SURE	دفؤ يومنا ودفيء؛ الإنسان إذا استدفأ
+HFN-E-708a76985d#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الدفر النتن: من دفر المكسور
+HFN-E-e6cd1d8d63#1	YES	محل	التزام	عادي	مطلق	رجل	SURE	الدفر النتن، رجل دفر وأدفر
+HFN-E-df2b62ea28#1	NO_DHAT	-	-	-	-	-	SURE	عنوان الباب: الدفع
+HFN-E-df2b62ea28#2	YES	فاعل	التزام	عادي	مطلق	السيل	SURE	دفع السيل يدفع دفعا وتدافع
+HFN-E-df2b62ea28#3	NO_DHAT	-	-	-	-	-	SURE	دحمها ودخمها - وهو دفع في إزعاج
+HFN-E-df2b62ea28#4	NO_DHAT	-	-	-	-	-	UNSURE	الكصم الضرب باليد أو الدفع
+HFN-E-df2b62ea28#5	YES	محل	التزام	عادي	مطلق	الصبي	UNSURE	دغرت الصبي وهو دفع الورم في الحلق

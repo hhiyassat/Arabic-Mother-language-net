@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-00fc91bb35#1	YES	محلّ	تضمّن	-	-	الصبي	UNSURE	زرم الصبي: انقطع بوله؛ الزرم القطع
+HFN-E-00fc91bb35#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الزرم الذي لا يستقر، وصف ثور
+HFN-E-00fc91bb35#3	YES	محلّ	تضمّن	-	-	الكلب	UNSURE	زرم الكلب والسنور إذا بقي جعره في دبره
+HFN-E-00fc91bb35#4	NO_DHAT	-	-	-	-	-	UNSURE	الزرم الولاد وقد زرمت به
+HFN-E-00fc91bb35#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الزرم القليل الرهط
+HFN-E-9a1daf75c8#1	YES	محلّ	تضمّن	-	-	الصبي	SURE	زرم الصبي: انقطع بوله
+HFN-E-9a1daf75c8#2	YES	محلّ	التزام	عاديّ	مطلق	ثورا	UNSURE	مخطوف الحشا زرم يصف ثورا
+HFN-E-9a1daf75c8#3	YES	محلّ	تضمّن	-	-	الكلب	SURE	زرم الكلب والسنور إذا بقي جعره؛ السنور أيضا
+HFN-E-9a1daf75c8#4	NO_DHAT	-	-	-	-	-	UNSURE	الزرم الولاد وقد زرمت به
+HFN-E-9a1daf75c8#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الزرم القليل الرهط
+HFN-E-6ff03ee7b1#1	YES	فاعل	تضمّن	-	-	سيل	SURE	سيل زاعب الذي يدفع بعضه بعضا؛ الرجل أيضا
+HFN-E-6ff03ee7b1#2	YES	محلّ	تضمّن	-	-	الاناء	SURE	زعب الاناء: ملأه؛ والقربة
+HFN-E-6ff03ee7b1#3	YES	فاعل	التزام	عاديّ	مطلق	السيول	SURE	وزعب السيول بأدراجها
+HFN-E-6ff03ee7b1#4	YES	محلّ	تضمّن	-	-	الشراب	SURE	زعبت الشراب: شربته كله
+HFN-E-6ff03ee7b1#5	YES	محلّ	التزام	عاديّ	مطلق	المال	UNSURE	أزعب لك من المال زعبة
+HFN-E-90371f1a93#1	YES	محلّ	تضمّن	-	-	الشعر	UNSURE	الزعر: قلة الشعر في الرأس
+HFN-E-90371f1a93#2	YES	محلّ	التزام	عاديّ	مطلق	أذناب	UNSURE	وأذناب زعر الهلب
+HFN-E-90371f1a93#3	OTHER_SENSE	-	-	-	-	-	SURE	والزعر وواحدته زعرورة، شجر
+HFN-E-90371f1a93#4	OTHER_SENSE	-	-	-	-	-	SURE	ثمرة أصغر من الزعر، نبات
+HFN-E-90371f1a93#5	NO_DHAT	-	-	-	-	-	UNSURE	الزبعر قليل المال وأحسبه من الزعر
+HFN-E-2facb6f76c#1	YES	محلّ	تضمّن	-	-	الشعر	SURE	الزعر: قلة الشعر في الرأس
+HFN-E-2facb6f76c#2	YES	محلّ	التزام	عاديّ	مطلق	أذناب	SURE	وأذناب زعر الهلب
+HFN-E-2facb6f76c#3	OTHER_SENSE	-	-	-	-	-	SURE	والزعر وواحدته زعرورة، شجر
+HFN-E-2facb6f76c#4	OTHER_SENSE	-	-	-	-	-	SURE	ثمرة أصغر من الزعر، نبات
+HFN-E-2facb6f76c#5	NO_DHAT	-	-	-	-	-	UNSURE	الزبعر قليل المال وأحسبه من الزعر
+HFN-E-d46607fdeb#1	NO_DHAT	-	-	-	-	-	UNSURE	والذعق لغة في الزعق
+HFN-E-d46607fdeb#2	YES	فاعل	تضمّن	-	-	المؤذن	UNSURE	زعقة المؤذن أي صوته وقد زعق به
+HFN-E-d46607fdeb#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الزعق والمزعوق النشيط الذي يفزع
+HFN-E-d46607fdeb#4	YES	فاعل	تضمّن	-	-	الفرس	SURE	الزعيق الخضيعة التي تسمع من بطن الفرس
+HFN-E-d577829625#1	NO_DHAT	-	-	-	-	-	UNSURE	والذعق لغة في الزعق
+HFN-E-d577829625#2	OTHER_SENSE	-	-	-	-	-	UNSURE	زعق به زعقا: صاح، معنى الصياح
+HFN-E-d577829625#3	NO_DHAT	-	-	-	-	-	SURE	الزعق والمزعوق النشيط الذي يفزع
+HFN-E-d577829625#4	OTHER_SENSE	-	-	-	-	-	UNSURE	زعق يزعق: صوت بطن الفرس
+HFN-E-7a9d394baf#1	YES	محلّ	التزام	عاديّ	مطلق	المريض	SURE	أصاب المريض زعل شديد
+HFN-E-7a9d394baf#2	YES	محلّ	التزام	عاديّ	مطلق	حمار	UNSURE	حمار إزعيل نشيط
+HFN-E-7a9d394baf#3	YES	محلّ	تضمّن	-	-	الفرس	SURE	الزعل استنان الفرس ونشاطه
+HFN-E-7a9d394baf#4	YES	محلّ	التزام	عاديّ	مطلق	المواشي	SURE	الزعل النشاط يعني المواشي
+HFN-E-7a9d394baf#5	YES	محلّ	التزام	عاديّ	مطلق	ظلمانه	SURE	ومكضان زعل ظلمانه
+HFN-E-f70f76e1cb#1	YES	فاعل	التزام	عاديّ	مطلق	أبو علي	UNSURE	وزعم أبو علي أنه قلب
+HFN-E-f70f76e1cb#2	NO_DHAT	-	-	-	-	-	UNSURE	فزعم أنه قد صلع
+HFN-E-f70f76e1cb#3	OTHER_SENSE	-	-	-	-	-	UNSURE	زعم زعما: طمع
+HFN-E-f70f76e1cb#4	OTHER_SENSE	-	-	-	-	-	SURE	شواء زعم كثير الإهالة
+HFN-E-f70f76e1cb#5	YES	فاعل	التزام	عاديّ	مطلق	قوم	UNSURE	وقد زعم قوم أن البوارح الأنواء
+HFN-E-db579aa3b6#1	OTHER_SENSE	-	-	-	-	-	UNSURE	وزعم أبو علي، بمعنى القول
+HFN-E-db579aa3b6#2	OTHER_SENSE	-	-	-	-	-	UNSURE	فزعم أنه قد صلع، بمعنى القول
+HFN-E-db579aa3b6#3	NO_DHAT	-	-	-	-	-	UNSURE	زعم زعما: طمع
+HFN-E-db579aa3b6#4	OTHER_SENSE	-	-	-	-	-	UNSURE	شواء زعم كثير الإهالة
+HFN-E-db579aa3b6#5	OTHER_SENSE	-	-	-	-	-	UNSURE	وقد زعم قوم، بمعنى القول
+HFN-E-f9aeb1bc77#1	OTHER_SENSE	-	-	-	-	-	SURE	وزعم أبو علي، بمعنى القول
+HFN-E-f9aeb1bc77#2	OTHER_SENSE	-	-	-	-	-	SURE	فزعم أنه قد صلع
+HFN-E-f9aeb1bc77#3	OTHER_SENSE	-	-	-	-	-	SURE	زعم زعما: طمع
+HFN-E-f9aeb1bc77#4	OTHER_SENSE	-	-	-	-	-	UNSURE	شواء زعم كثير الإهالة
+HFN-E-f9aeb1bc77#5	OTHER_SENSE	-	-	-	-	-	SURE	وقد زعم قوم، بمعنى القول
+HFN-E-da6ff672ae#1	YES	محلّ	التزام	عاديّ	مطلق	الفراخ	UNSURE	وقد زغب زغبا فهو زغب؛ في الفراخ
+HFN-E-da6ff672ae#2	OTHER_SENSE	-	-	-	-	-	UNSURE	ما دام عليها الزغب، اسم الريش
+HFN-E-da6ff672ae#3	YES	محلّ	التزام	عاديّ	مطلق	طائرة	UNSURE	وطائرة زغباء
+HFN-E-da6ff672ae#4	OTHER_SENSE	-	-	-	-	-	UNSURE	لما عليها من الزغب، اسم
+HFN-E-da6ff672ae#5	OTHER_SENSE	-	-	-	-	-	UNSURE	رقة الشعر حتى تراه كالزغب
+HFN-E-ff97b45862#1	NO_DHAT	-	-	-	-	-	UNSURE	زغد يزغد زغدا، الهدير الزغد
+HFN-E-ff97b45862#2	OTHER_SENSE	-	-	-	-	-	SURE	والزغد - الفدم الغبي
+HFN-E-ff97b45862#3	YES	محلّ	تضمّن	-	-	سقاءه	SURE	زغد سقاءه إذا عصره حتى تخرج الزبد
+HFN-E-ff97b45862#4	YES	محلّ	تضمّن	-	-	الحلق	SURE	الزغد عصر الحلق وقد زغده
+HFN-E-1452b37c6b#1	YES	محلّ	التزام	عاديّ	مطلق	حواصلها	UNSURE	زغر حواصلها أي ليس فيها زغب
+HFN-E-3bd3bcc542#1	YES	فاعل	التزام	عاديّ	مطلق	فلان	UNSURE	زغف فلان في حديثه؛ الزغفة الدرع اسم
+HFN-E-3bd3bcc542#2	YES	فاعل	تضمّن	-	-	فلان	SURE	زغف لنا فلان: حدث فزاد وكذب
+HFN-E-3bd3bcc542#3	OTHER_SENSE	-	-	-	-	-	SURE	أطراف النبات ورديئه - الزغف
+HFN-E-3bd3bcc542#4	OTHER_SENSE	-	-	-	-	-	SURE	ويقال لأعاليه الزغف
+HFN-E-3bd3bcc542#5	OTHER_SENSE	-	-	-	-	-	SURE	الزغف - دقاق الحطب
+HFN-E-2d1378f522#1	OTHER_SENSE	-	-	-	-	-	SURE	زفت الإبل تزف، من زفّ
+HFN-E-2d1378f522#2	OTHER_SENSE	-	-	-	-	-	SURE	شيء شديد السواد ثخين فهو الزفت، اسم
+HFN-E-2d1378f522#3	OTHER_SENSE	-	-	-	-	-	SURE	زفت السهم زفيا، من زفى
+HFN-E-2d1378f522#4	OTHER_SENSE	-	-	-	-	-	SURE	وزفت الشول، من زفّ
+HFN-E-2d1378f522#5	OTHER_SENSE	-	-	-	-	-	SURE	زفت تزف زفيفا، من زفّ
+HFN-E-ffce83e5a0#1	YES	محلّ	التزام	عاديّ	مطلق	بكارة	UNSURE	مر بكارة فازدفرها؛ الزفر الحمل
+HFN-E-ffce83e5a0#2	NO_DHAT	-	-	-	-	-	UNSURE	الزفير إخراج النفس بعد مده
+HFN-E-ffce83e5a0#3	OTHER_SENSE	-	-	-	-	-	SURE	والزفر - السقاء، اسم
+HFN-E-ffce83e5a0#4	OTHER_SENSE	-	-	-	-	-	SURE	الزفر الذي يدعم به الشجر، اسم
+HFN-E-ffce83e5a0#5	OTHER_SENSE	-	-	-	-	-	SURE	والزفر - التي يدعم بها، اسم
+HFN-E-98915a2fc9#1	NO_DHAT	-	-	-	-	-	SURE	الزفن: شبيه بالرقص، زفن يزفن
+HFN-E-98915a2fc9#2	OTHER_SENSE	-	-	-	-	-	SURE	الزفن بلغة عمان - ظلة
+HFN-E-98915a2fc9#3	OTHER_SENSE	-	-	-	-	-	SURE	والزفن - عسيب من عسب النخل
+HFN-E-98915a2fc9#4	NO_DHAT	-	-	-	-	-	SURE	ويبطل له اللعب والزفن
+HFN-E-eaa44a7170#1	YES	محلّ	تضمّن	-	-	اللقم	SURE	يزقم اللقم زقما أي يبلعه
+HFN-E-eaa44a7170#2	YES	محلّ	تضمّن	-	-	اللبن	SURE	بات يتزقم اللبن: يشربه ويفرط فيه
+HFN-E-fd1519502a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	أن زكا، من زكو لا زكأ
+HFN-E-fd1519502a#2	OTHER_SENSE	-	-	-	-	-	SURE	دسى يدسى نقيض زكا
+HFN-E-fd1519502a#3	OTHER_SENSE	-	-	-	-	-	SURE	زكت زكوا وزكاء، من زكو
+HFN-E-fd1519502a#4	OTHER_SENSE	-	-	-	-	-	SURE	زكا الرجل زكوا: تنعم، من زكو
+HFN-E-fd1519502a#5	OTHER_SENSE	-	-	-	-	-	SURE	الزكاة الزيادة، من زكو
+HFN-E-e77fa7933d#1	NO_DHAT	-	-	-	-	-	SURE	الزكب - النكاح
+HFN-E-e77fa7933d#2	YES	محلّ	تضمّن	-	-	الاناء	SURE	زكب الاناء يزكبه: ملأه
+HFN-E-da27d8271d#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	ورجل زكن فهم
+HFN-E-7e3aace032#1	YES	محلّ	تضمّن	-	-	السهم	SURE	زلج السهم يزلج: مضى على وجه الأرض
+HFN-E-7e3aace032#2	YES	محلّ	التزام	عاديّ	مطلق	سهم	SURE	لا خير في سهم زلج
+HFN-E-70046b0e7d#1	YES	محلّ	تضمّن	-	-	السهم	UNSURE	زلج السهم يزلج: مضى على وجه الأرض
+HFN-E-70046b0e7d#2	YES	محلّ	التزام	عاديّ	مطلق	سهم	UNSURE	لا خير في سهم زلج
+HFN-E-b2c67ae14a#1	NO_DHAT	-	-	-	-	-	SURE	الزلح تطعم الشيء زلحته
+HFN-E-d9dd6e14e2#1	YES	محلّ	تضمّن	-	-	يدك	UNSURE	الزلخ رفعك يدك في رمي السهم
+HFN-E-d9dd6e14e2#2	OTHER_SENSE	-	-	-	-	-	UNSURE	مقام زلخ - دحض، معنى الزلق
+HFN-E-d9dd6e14e2#3	OTHER_SENSE	-	-	-	-	-	SURE	الزلخ: الباطل
+HFN-E-db718da66c#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الزلخ رفعك يدك في الرمي
+HFN-E-db718da66c#2	YES	مكان	تضمّن	-	-	مقام	UNSURE	مقام زلخ - دحض
+HFN-E-db718da66c#3	OTHER_SENSE	-	-	-	-	-	SURE	الزلخ: الباطل
+HFN-E-e297c2ee0f#1	OTHER_SENSE	-	-	-	-	-	SURE	والزلز والزلزل الثاث والمتاع، اسم
+HFN-E-fc811ac0ad#1	YES	محلّ	تضمّن	-	-	يده	SURE	تزلعت يده، تشققت والزلع تفطر الجلد
+HFN-E-fc811ac0ad#2	YES	محلّ	تضمّن	-	-	القدم	SURE	الزلع تشقق في ظاهر القدم
+HFN-E-2ed94f92ad#1	YES	محلّ	تضمّن	-	-	يده	SURE	تزلعت يده، تشققت
+HFN-E-2ed94f92ad#2	YES	محلّ	تضمّن	-	-	القدم	SURE	الزلع تشقق في ظاهر القدم
+HFN-E-d5b18064ba#1	YES	مكان	التزام	عاديّ	مطلق	أرض	SURE	وأرض مزلقة وزلق
+HFN-E-d5b18064ba#2	OTHER_SENSE	-	-	-	-	-	UNSURE	إن الزبير زلق وزملق، سرعة الإنزال
+HFN-E-d5b18064ba#3	OTHER_SENSE	-	-	-	-	-	SURE	الزلق صلا الدابة، اسم عضو
+HFN-E-d5b18064ba#4	YES	محلّ	التزام	عاديّ	مطلق	الساقي	SURE	والساقي إن زلق وقع في البئر
+HFN-E-6ba2c2e9af#1	YES	فاعل	التزام	عاديّ	مطلق	المناقر	UNSURE	زلمتها المناقر أي أخذت من حروفها؛ أرحاء
+HFN-E-6ba2c2e9af#2	OTHER_SENSE	-	-	-	-	-	SURE	والزلم الزمع التي خلف الأظلاف
+HFN-E-6ba2c2e9af#3	OTHER_SENSE	-	-	-	-	-	SURE	الأزلام أظلاف البقر واحدها زلم
+HFN-E-6ba2c2e9af#4	OTHER_SENSE	-	-	-	-	-	SURE	بالقدح يقال له زلم
+HFN-E-2f622941b4#1	OTHER_SENSE	-	-	-	-	-	SURE	الزمج ذكر العقبان، اسم طائر
+HFN-E-2f622941b4#2	OTHER_SENSE	-	-	-	-	-	SURE	والزمج، اسم طائر
+HFN-E-b10fc6f5e1#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	زمر يزمر زمرا ورجل زمار
+HFN-E-b10fc6f5e1#2	OTHER_SENSE	-	-	-	-	-	SURE	شعر زمر، قلة الشعر لا التزمير
+HFN-E-b10fc6f5e1#3	OTHER_SENSE	-	-	-	-	-	SURE	وهو الزمر، الشديد
+HFN-E-b10fc6f5e1#4	OTHER_SENSE	-	-	-	-	-	SURE	الزمر القليل القصير من النبات
+HFN-E-b10fc6f5e1#5	OTHER_SENSE	-	-	-	-	-	SURE	زمر فلان زمرا إذا قل ماله
+HFN-E-00d8de62e2#1	OTHER_SENSE	-	-	-	-	-	UNSURE	زمر يزمر زمرا، التزمير بالمزمار
+HFN-E-00d8de62e2#2	YES	محلّ	التزام	عاديّ	مطلق	شعر	SURE	وكذلك الزمر يقال شعر زمر
+HFN-E-00d8de62e2#3	OTHER_SENSE	-	-	-	-	-	UNSURE	وهو الزمر، الشديد
+HFN-E-00d8de62e2#4	YES	محلّ	تضمّن	-	-	النبات	SURE	الزمر القليل القصير من النبات وقد زمر
+HFN-E-00d8de62e2#5	YES	محلّ	تضمّن	-	-	فلان	SURE	زمر فلان زمرا إذا قل ماله
+HFN-E-67c4e065af#1	OTHER_SENSE	-	-	-	-	-	SURE	الزمع الزيادة الناتئة فوق ظلف الشاة، اسم
+HFN-E-67c4e065af#2	YES	فاعل	تضمّن	-	-	الرجل	UNSURE	زمع الرجل زموعا تحرك؛ الزماعة لاضطرابها
+HFN-E-67c4e065af#3	NO_DHAT	-	-	-	-	-	UNSURE	والزعم كالزمع
+HFN-E-67c4e065af#4	OTHER_SENSE	-	-	-	-	-	SURE	وفي أطرافها زمع يظهر، اسم
+HFN-E-67c4e065af#5	NO_DHAT	-	-	-	-	-	UNSURE	الزميع الذي إذا هم بأمر مضى
+HFN-E-7504e52321#1	NO_DHAT	-	-	-	-	-	UNSURE	الزمق لغة في الزبق وقد زمق
+HFN-E-d26dd8f576#1	OTHER_SENSE	-	-	-	-	-	SURE	للزمك، من لزم
+HFN-E-d26dd8f576#2	OTHER_SENSE	-	-	-	-	-	SURE	للزمك أن تقول، من لزم
+HFN-E-d26dd8f576#3	OTHER_SENSE	-	-	-	-	-	SURE	للزمك أن تحرك، من لزم
+HFN-E-d26dd8f576#4	NO_DHAT	-	-	-	-	-	UNSURE	والزمك - تداخل الشيء بعضه في بعض
+HFN-E-d26dd8f576#5	OTHER_SENSE	-	-	-	-	-	SURE	ألزمك الله، من لزم
+HFN-E-8595aa005a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الزمل والزمال الضعيف
+HFN-E-8595aa005a#2	NO_DHAT	-	-	-	-	-	UNSURE	الزامل الذي كأنه يظلع وقد زمل يزمل
+HFN-E-3b58558058#1	OTHER_SENSE	-	-	-	-	-	SURE	زمن وأزمان، اسم الوقت
+HFN-E-3b58558058#2	NO_DHAT	-	-	-	-	-	SURE	الزمانة العاهة وقد زمن فهو زمن
+HFN-E-3b58558058#3	OTHER_SENSE	-	-	-	-	-	SURE	زمن الخصب، اسم الوقت
+HFN-E-3b58558058#4	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل مكسوح إذا زمن من يديه ورجليه
+HFN-E-3b58558058#5	OTHER_SENSE	-	-	-	-	-	SURE	الجاهلية زمن الفترة
+HFN-E-0bfeb5f0fb#1	OTHER_SENSE	-	-	-	-	-	SURE	زنى زنا وزناء، الفجور
+HFN-E-0bfeb5f0fb#2	YES	محلّ	تضمّن	-	-	الظل	UNSURE	زنأ الظل يزنأ إذا قلص
+HFN-E-0bfeb5f0fb#3	YES	محلّ	التزام	عاديّ	مطلق	الظل	UNSURE	وتولج في الظل الزناء رؤوسها؛ الإبل
+HFN-E-0bfeb5f0fb#4	YES	محلّ	تضمّن	-	-	الاناء	SURE	اذا كان الاناء صغيرا فهو زناء
+HFN-E-0bfeb5f0fb#5	OTHER_SENSE	-	-	-	-	-	SURE	المنبوذ ولد الزناء، الفجور
+HFN-E-936f22331c#1	OTHER_SENSE	-	-	-	-	-	SURE	كشفاه الزنج، اسم قوم
+HFN-E-936f22331c#2	OTHER_SENSE	-	-	-	-	-	SURE	كشعر الزنج، اسم قوم
+HFN-E-936f22331c#3	OTHER_SENSE	-	-	-	-	-	SURE	كالزنج والروم، اسم قوم
+HFN-E-936f22331c#4	OTHER_SENSE	-	-	-	-	-	SURE	ببلاد الهند والزنج
+HFN-E-936f22331c#5	OTHER_SENSE	-	-	-	-	-	SURE	كلعب الزنج والحبش
+HFN-E-9b4b426fa4#1	YES	محلّ	التزام	عاديّ	مطلق	الدهن	UNSURE	تمه الدهن تغير وزنخ وفيه زناخة
+HFN-E-9b4b426fa4#2	YES	محلّ	تضمّن	-	-	الطعام	SURE	سنح الطعام وزنخ - تغير
+HFN-E-9b4b426fa4#3	YES	محلّ	تضمّن	-	-	الطعام	SURE	سنخ الطعام وزنخ - تغير
+HFN-E-9b4b426fa4#4	YES	محلّ	التزام	عاديّ	مطلق	الطعام	UNSURE	سنخ الطعام وزنخ كذلك
+HFN-E-b7580fff78#1	OTHER_SENSE	-	-	-	-	-	UNSURE	باب الزند والنار، اسم أداة القدح
+HFN-E-b7580fff78#2	OTHER_SENSE	-	-	-	-	-	SURE	رأس الزند، اسم عظم
+HFN-E-b7580fff78#3	OTHER_SENSE	-	-	-	-	-	SURE	لواري الزند، اسم أداة
+HFN-E-b7580fff78#4	OTHER_SENSE	-	-	-	-	-	SURE	الزند إذا لم يور، اسم أداة
+HFN-E-b7580fff78#5	OTHER_SENSE	-	-	-	-	-	SURE	حرف الزند، اسم عظم
+HFN-E-f3e5c1e5d6#1	OTHER_SENSE	-	-	-	-	-	UNSURE	باب الزند والنار، اسم أداة القدح
+HFN-E-f3e5c1e5d6#2	OTHER_SENSE	-	-	-	-	-	SURE	رأس الزند، اسم عظم
+HFN-E-f3e5c1e5d6#3	OTHER_SENSE	-	-	-	-	-	SURE	لواري الزند، اسم أداة
+HFN-E-f3e5c1e5d6#4	OTHER_SENSE	-	-	-	-	-	SURE	الزند إذا لم يور، اسم أداة
+HFN-E-f3e5c1e5d6#5	OTHER_SENSE	-	-	-	-	-	SURE	حرف الزند، اسم عظم
+HFN-E-3d0cc5e673#1	OTHER_SENSE	-	-	-	-	-	SURE	والزناق - ضرب من الحلي
+HFN-E-3d0cc5e673#2	YES	آلة	التزام	عقليّ	ذهنيّ	زناق	UNSURE	رباط تحت الحنك فهو زناق وقد زنقته؛ بغل مزنوق
+HFN-E-3d0cc5e673#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الزناق حبل تجذب به رأس البعير، اسم
+HFN-E-8c11482891#1	NO_DHAT	-	-	-	-	-	SURE	التأله والزهد، عنوان
+HFN-E-8c11482891#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	ورجل زهد - قليل الخير
+HFN-E-8c11482891#3	NO_DHAT	-	-	-	-	-	SURE	والمرائي والزهد
+HFN-E-8c11482891#4	NO_DHAT	-	-	-	-	-	SURE	الزهد في الدنيا
+HFN-E-3187554cc4#1	NO_DHAT	-	-	-	-	-	SURE	التأله والزهد، عنوان
+HFN-E-3187554cc4#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	ورجل زهد - قليل الخير
+HFN-E-3187554cc4#3	NO_DHAT	-	-	-	-	-	SURE	والمرائي والزهد
+HFN-E-3187554cc4#4	NO_DHAT	-	-	-	-	-	SURE	الزهد في الدنيا
+HFN-E-79d6595a61#1	NO_DHAT	-	-	-	-	-	SURE	التأله والزهد، عنوان
+HFN-E-79d6595a61#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	ورجل زهد - قليل الخير
+HFN-E-79d6595a61#3	NO_DHAT	-	-	-	-	-	SURE	والمرائي والزهد
+HFN-E-79d6595a61#4	NO_DHAT	-	-	-	-	-	SURE	الزهد في الدنيا
+HFN-E-b57397d209#1	OTHER_SENSE	-	-	-	-	-	UNSURE	له زهر من التناوير، اسم النور
+HFN-E-b57397d209#2	OTHER_SENSE	-	-	-	-	-	SURE	وليس لها زهر، اسم النور
+HFN-E-b57397d209#3	YES	محلّ	التزام	عاديّ	مطلق	القمر	UNSURE	الأزهر - القمر وقد زهر زهرا
+HFN-E-b57397d209#4	NO_DHAT	-	-	-	-	-	UNSURE	ويقال زهر - والزهر، لليالي
+HFN-E-b57397d209#5	OTHER_SENSE	-	-	-	-	-	SURE	فإذا ولى لون الزهر، اسم النور
+HFN-E-d2940ca3a4#1	OTHER_SENSE	-	-	-	-	-	UNSURE	له زهر من التناوير، اسم النور
+HFN-E-d2940ca3a4#2	OTHER_SENSE	-	-	-	-	-	SURE	وليس لها زهر، اسم النور
+HFN-E-d2940ca3a4#3	YES	محلّ	التزام	عاديّ	مطلق	القمر	UNSURE	الأزهر - القمر وقد زهر زهرا وزهر
+HFN-E-d2940ca3a4#4	NO_DHAT	-	-	-	-	-	UNSURE	ويقال زهر - والزهر، لليالي
+HFN-E-d2940ca3a4#5	OTHER_SENSE	-	-	-	-	-	SURE	فإذا ولى لون الزهر، اسم النور
+HFN-E-0d921e8f45#1	OTHER_SENSE	-	-	-	-	-	UNSURE	له زهر من التناوير، اسم النور
+HFN-E-0d921e8f45#2	OTHER_SENSE	-	-	-	-	-	SURE	وليس لها زهر، اسم النور
+HFN-E-0d921e8f45#3	YES	محلّ	التزام	عاديّ	مطلق	القمر	UNSURE	الأزهر - القمر وقد زهر زهرا وزهر
+HFN-E-0d921e8f45#4	NO_DHAT	-	-	-	-	-	UNSURE	ويقال زهر - والزهر، لليالي
+HFN-E-0d921e8f45#5	OTHER_SENSE	-	-	-	-	-	SURE	فإذا ولى لون الزهر، اسم النور
+HFN-E-43c4c96011#1	NO_DHAT	-	-	-	-	-	SURE	والزهف: الخفة والنزق، زهف وأزهفته
+HFN-E-43c4c96011#2	NO_DHAT	-	-	-	-	-	SURE	زهف زهفا - خف وعجل
+HFN-E-df513380f7#1	NO_DHAT	-	-	-	-	-	SURE	الزهل - امليساس الشيء وقد زهل
+HFN-E-694d2fa689#1	YES	محلّ	تضمّن	-	-	العظم	UNSURE	وقد زهم العظم وأزهم: أمخ
+HFN-E-694d2fa689#2	OTHER_SENSE	-	-	-	-	-	UNSURE	والزهم - الشحم، اسم
+HFN-E-694d2fa689#3	YES	محلّ	تضمّن	-	-	لحم	SURE	الزهومة - رائحة لحم سمين منتن
+HFN-E-694d2fa689#4	NO_DHAT	-	-	-	-	-	UNSURE	والزهم الكثير الشحم
+HFN-E-694d2fa689#5	YES	محلّ	تضمّن	-	-	لحم	SURE	الزهومة رائحة لحم سمين؛ شحم زهم
+HFN-E-e5adb1009d#1	YES	محلّ	التزام	عاديّ	مطلق	النخل	SURE	وقد أزهى النخل وزها زهوا
+HFN-E-e5adb1009d#2	YES	محلّ	تضمّن	-	-	النبات	SURE	إذا بلغ النبات قيل زها زهوا
+HFN-E-e5adb1009d#3	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل مزدهى إذا أخذته خفة من الزهو
+HFN-E-e5adb1009d#4	YES	محلّ	تضمّن	-	-	السراج	SURE	وزها السراج - أضاءه
+HFN-E-e5adb1009d#5	NO_DHAT	-	-	-	-	-	UNSURE	اليهيري والزهو - الكذب
+HFN-E-c620b669c7#1	OTHER_SENSE	-	-	-	-	-	SURE	والزاج من أخلاط الحبر، اسم
+HFN-E-104aafbe6e#1	OTHER_SENSE	-	-	-	-	-	SURE	ضلعان من أضلاع الزور، اسم الصدر
+HFN-E-104aafbe6e#2	OTHER_SENSE	-	-	-	-	-	SURE	الزور - الكذب، زورت الكلام
+HFN-E-104aafbe6e#3	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	زرته زورا أتيته ورجل زائر
+HFN-E-104aafbe6e#4	OTHER_SENSE	-	-	-	-	-	SURE	الزأرة الأجمة، جذر آخر
+HFN-E-104aafbe6e#5	OTHER_SENSE	-	-	-	-	-	SURE	لا زور له، أي رأي
+HFN-E-2755076b98#1	OTHER_SENSE	-	-	-	-	-	UNSURE	أضلاع الزور، اسم الصدر
+HFN-E-2755076b98#2	OTHER_SENSE	-	-	-	-	-	SURE	الزور - الكذب
+HFN-E-2755076b98#3	OTHER_SENSE	-	-	-	-	-	SURE	زرته زورا أتيته، الزيارة
+HFN-E-2755076b98#4	OTHER_SENSE	-	-	-	-	-	SURE	لا زور له، أي رأي
+HFN-E-2755076b98#5	OTHER_SENSE	-	-	-	-	-	SURE	ماله زور ولا صيور، أي رأي
+HFN-E-292823b3fa#1	YES	محلّ	تضمّن	-	-	الثريد	SURE	الزوع أخذك الشيء بكفك كالثريد
+HFN-E-292823b3fa#2	YES	محلّ	تضمّن	-	-	الناقة	SURE	الزوع جذب الناقة بالزمام؛ الزمام آلة
+HFN-E-5eac9b7b42#1	NO_DHAT	-	-	-	-	-	UNSURE	زال زواله إذا دعي له بالبقاء
+HFN-E-5eac9b7b42#2	OTHER_SENSE	-	-	-	-	-	SURE	الزول الظريف الخفيف
+HFN-E-5eac9b7b42#3	YES	زمان	تضمّن	-	-	النهار	SURE	زال النهار ارتفع
+HFN-E-5eac9b7b42#4	NO_DHAT	-	-	-	-	-	SURE	زال الإبهام
+HFN-E-5eac9b7b42#5	OTHER_SENSE	-	-	-	-	-	SURE	فما زال يحدني، فعل ناقص
+HFN-E-069f9176a8#1	OTHER_SENSE	-	-	-	-	-	SURE	دهن يتخذ من الزيت، اسم
+HFN-E-069f9176a8#2	OTHER_SENSE	-	-	-	-	-	SURE	سغمت النبراس بالزيت، اسم
+HFN-E-069f9176a8#3	OTHER_SENSE	-	-	-	-	-	SURE	يمج الزيت، اسم
+HFN-E-069f9176a8#4	OTHER_SENSE	-	-	-	-	-	SURE	السمن أو الزيت، اسم
+HFN-E-069f9176a8#5	YES	محلّ	تضمّن	-	-	الطعام	SURE	زت الطعام زيتا عملته بالزيت؛ الزيت آلة
+HFN-E-ac3042a0d5#1	OTHER_SENSE	-	-	-	-	-	SURE	قال أبو زيد، علم
+HFN-E-ac3042a0d5#2	OTHER_SENSE	-	-	-	-	-	SURE	أبو زيد، علم
+HFN-E-ac3042a0d5#3	OTHER_SENSE	-	-	-	-	-	SURE	أبو زيد، علم
+HFN-E-ac3042a0d5#4	OTHER_SENSE	-	-	-	-	-	SURE	أبو زيد، علم
+HFN-E-ac3042a0d5#5	OTHER_SENSE	-	-	-	-	-	SURE	أبو زيد، علم
+HFN-E-bd45c47c59#1	YES	فاعل	تضمّن	-	-	الإنسان	UNSURE	زوف الإنسان إذا مشى مسترخي الأعضاء
+HFN-E-bd45c47c59#2	OTHER_SENSE	-	-	-	-	-	UNSURE	درهم زائف، زاف زيوفا: الزيف
+HFN-E-bd45c47c59#3	YES	فاعل	تضمّن	-	-	البعير	UNSURE	زاف البعير يزيف زيفانا أسرع
+HFN-E-04f93fdaa2#1	YES	محلّ	التزام	عاديّ	مطلق	أمها	UNSURE	وأمها إذا ما رأتنا زيل منا زويلها
+HFN-E-7336deda09#1	YES	فاعل	التزام	عاديّ	مطلق	طفل	UNSURE	بأطراف طفل زان غيلا؛ غيلا محلّ
+HFN-E-7336deda09#2	YES	فاعل	التزام	عاديّ	مطلق	نور	UNSURE	زان جنابه نور الدكادك؛ جنابه محلّ
+HFN-E-7336deda09#3	YES	فاعل	التزام	عاديّ	مطلق	نور	UNSURE	زان جنابه نور الدكادك؛ جنابه محلّ
+HFN-E-7336deda09#4	YES	محلّ	التزام	عاديّ	مطلق	امرأة	UNSURE	وقد زانها الحلي والثوب وامرأة زائن
+HFN-E-7336deda09#5	YES	محلّ	التزام	عاديّ	مطلق	البيت	SURE	البيت سمي بذلك لأنه زين بتصاوير

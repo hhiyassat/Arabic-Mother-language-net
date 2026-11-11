@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-d63701362c#1	NO_DHAT	-	-	-	-	-	UNSURE	طرمش الليل أظلم؛ الليل محلّ لا زمان
+HFN-E-5e3b987cd2#1	NO_DHAT	-	-	-	-	-	SURE	الطعسبة عدو في تعسف، بلا ذات
+HFN-E-27efc39049#1	YES	محلّ	تضمّن	-	-	وجه	UNSURE	طلسم - كره وجهه
+HFN-E-45b0b643c8#1	YES	محلّ	التزام	عاديّ	مطلق	أعجم	UNSURE	لأعجم طمطم صفة
+HFN-E-45b0b643c8#2	OTHER_SENSE	-	-	-	-	-	SURE	الطمطم ضرب من الضأن
+HFN-E-6a9a442fd3#1	NO_DHAT	-	-	-	-	-	SURE	الطنطنة كثرة الكلام والتصويت به
+HFN-E-6a9a442fd3#2	YES	فاعل	تضمّن	-	-	الطنبور	SURE	الطنطنة صوت الطنبور؛ وتستعمل في الذباب
+HFN-E-c21d1d5259#1	YES	محلّ	تضمّن	-	-	عين	UNSURE	طنفش عينه صغرها
+HFN-E-32be85fed2#1	NO_DHAT	-	-	-	-	-	UNSURE	العترس الشديد المجتمع الخلق، بلا ذات مسمّاة
+HFN-E-32be85fed2#2	NO_DHAT	-	-	-	-	-	UNSURE	العترسة وهي القوة الشديدة
+HFN-E-32be85fed2#3	NO_DHAT	-	-	-	-	-	SURE	العترسة - الغلبة والقهر
+HFN-E-9787ae6333#1	OTHER_SENSE	-	-	-	-	-	SURE	العتعت الطويل التام
+HFN-E-9787ae6333#2	OTHER_SENSE	-	-	-	-	-	SURE	العتعت الطويل التام
+HFN-E-9787ae6333#3	YES	محلّ	تضمّن	-	-	الجدي	SURE	وعتعت الجدي زجره
+HFN-E-5f7985384f#1	OTHER_SENSE	-	-	-	-	-	SURE	العثعث الكثيب السهل
+HFN-E-5f7985384f#2	YES	مكان	تضمّن	-	-	العثعث	UNSURE	عثعثه ألقاه في العثعث (التراب)
+HFN-E-5f7985384f#3	YES	مكان	تضمّن	-	-	المكان	SURE	عثعث بالمكان أقام
+HFN-E-151517c017#1	YES	فاعل	تضمّن	-	-	الماء	SURE	عج الماء وعجعج عجعجة صوت
+HFN-E-151517c017#2	YES	فاعل	التزام	عاديّ	مطلق	النهر	UNSURE	قيل للنهر عجاج؛ الصائحون غير مسمّين
+HFN-E-151517c017#3	YES	فاعل	تضمّن	-	-	البعير	SURE	عجعج البعير ضرب فرغا
+HFN-E-fb623503cc#1	NO_DHAT	-	-	-	-	-	SURE	العدعدة السرعة في المشي وغيره
+HFN-E-fb623503cc#2	NO_DHAT	-	-	-	-	-	SURE	عدعد في المشي إذا أسرع
+HFN-E-b034da90df#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	العربدة الأذى على الشراب ورجل معربد
+HFN-E-b034da90df#2	OTHER_SENSE	-	-	-	-	-	SURE	العربد من الحيات
+HFN-E-b034da90df#3	NO_DHAT	-	-	-	-	-	SURE	سوء الخلق والعربدة
+HFN-E-b034da90df#4	OTHER_SENSE	-	-	-	-	-	SURE	العربد حية تصفر
+HFN-E-b034da90df#5	OTHER_SENSE	-	-	-	-	-	SURE	العربد الأرض الغليظة الخشنة
+HFN-E-388789bbdf#1	YES	فاعل	التزام	عاديّ	مطلق	ناقة	UNSURE	العرضنة الاعتراض في السير؛ ولا يقال ناقة عرضنة
+HFN-E-388789bbdf#2	OTHER_SENSE	-	-	-	-	-	UNSURE	امرأة عرضنة ضخمة صفة لا حدث
+HFN-E-388789bbdf#3	YES	فاعل	التزام	عاديّ	مطلق	الفرس	SURE	عرض الفرس وهو يمشي العرضنة
+HFN-E-45298690ea#1	OTHER_SENSE	-	-	-	-	-	SURE	العرعر شجر الجبال
+HFN-E-45298690ea#2	OTHER_SENSE	-	-	-	-	-	SURE	القطران من العرعر
+HFN-E-45298690ea#3	OTHER_SENSE	-	-	-	-	-	SURE	منابته الصخر مع العرعر
+HFN-E-45298690ea#4	OTHER_SENSE	-	-	-	-	-	SURE	العرعر واحدته عرعرة شجر
+HFN-E-45298690ea#5	OTHER_SENSE	-	-	-	-	-	SURE	عرعرة معظم الجبل
+HFN-E-b1fdd5536c#1	OTHER_SENSE	-	-	-	-	-	SURE	باب الطحلب والعرمض اسم
+HFN-E-b1fdd5536c#2	OTHER_SENSE	-	-	-	-	-	SURE	كأنها العرمض في أصول الحجارة
+HFN-E-b1fdd5536c#3	OTHER_SENSE	-	-	-	-	-	SURE	صغار الأراك العرمض
+HFN-E-b1fdd5536c#4	OTHER_SENSE	-	-	-	-	-	SURE	الغلفق العرمض يتغشى وجه الماء
+HFN-E-b1fdd5536c#5	OTHER_SENSE	-	-	-	-	-	SURE	ما عليه من العرمض
+HFN-E-8343760cea#1	OTHER_SENSE	-	-	-	-	-	UNSURE	يقال للذئب عسعس اسم
+HFN-E-8343760cea#2	NO_DHAT	-	-	-	-	-	UNSURE	عسعسة الليل حين يدبر؛ الليل ليس زمانا هنا
+HFN-E-58aa38bef4#1	YES	محلّ	تضمّن	-	-	العين	SURE	العسقفة جمود العين عن الدمع
+HFN-E-ee14831098#1	NO_DHAT	-	-	-	-	-	UNSURE	العصلب المضطرب الخلق، بلا ذات
+HFN-E-ee14831098#2	NO_DHAT	-	-	-	-	-	UNSURE	العصلبي الشديد، الموصوف غير مسمّى
+HFN-E-015cd506cf#1	NO_DHAT	-	-	-	-	-	SURE	العطعطة تتابع الأصوات في الحرب
+HFN-E-015cd506cf#2	OTHER_SENSE	-	-	-	-	-	SURE	العطعط الجدي
+HFN-E-1f22cd50db#1	NO_DHAT	-	-	-	-	-	SURE	العظعظة الاضطراب والتراجع من هيبة
+HFN-E-1f22cd50db#2	NO_DHAT	-	-	-	-	-	UNSURE	عظعظ عن مقاتله نكص
+HFN-E-0238130459#1	YES	فاعل	تضمّن	-	-	العقعق	SURE	العقعقة صوت العقعق
+HFN-E-0238130459#2	OTHER_SENSE	-	-	-	-	-	SURE	العقعق طائر كالغراب
+HFN-E-0238130459#3	OTHER_SENSE	-	-	-	-	-	SURE	العقعق في قائمة الطير
+HFN-E-b2ed180a1f#1	YES	فاعل	التزام	عاديّ	مطلق	الذئب	UNSURE	العملس من أسماء الذئب، من العملسة السرعة
+HFN-E-b2ed180a1f#2	NO_DHAT	-	-	-	-	-	UNSURE	العملس القوي على السفر السريع
+HFN-E-b2ed180a1f#3	OTHER_SENSE	-	-	-	-	-	UNSURE	العملس الجميل
+HFN-E-3be5d9ca27#1	OTHER_SENSE	-	-	-	-	-	SURE	العنتر الذباب
+HFN-E-3be5d9ca27#2	OTHER_SENSE	-	-	-	-	-	UNSURE	العنتر الشجاع اسم صفة
+HFN-E-3be5d9ca27#3	OTHER_SENSE	-	-	-	-	-	SURE	وعنترة علم
+HFN-E-3be5d9ca27#4	OTHER_SENSE	-	-	-	-	-	SURE	كقول عنترة علم
+HFN-E-3be5d9ca27#5	OTHER_SENSE	-	-	-	-	-	SURE	وعنترة الفلحاء علم
+HFN-E-947e16bac3#1	OTHER_SENSE	-	-	-	-	-	SURE	الغبغب اللبة عضو
+HFN-E-947e16bac3#2	OTHER_SENSE	-	-	-	-	-	SURE	النعنغ الغبغب اسم
+HFN-E-947e16bac3#3	OTHER_SENSE	-	-	-	-	-	SURE	غباغب الديك اسم
+HFN-E-947e16bac3#4	OTHER_SENSE	-	-	-	-	-	SURE	غبغب الثور اسم
+HFN-E-bd5eed16a0#1	YES	فاعل	تضمّن	-	-	القدر	SURE	الغرغرة والتغطمط صوت القدر
+HFN-E-bd5eed16a0#2	OTHER_SENSE	-	-	-	-	-	SURE	الغرغرة الحوصلة
+HFN-E-b92e699266#1	OTHER_SENSE	-	-	-	-	-	SURE	العرمض والغلفق نبات الماء
+HFN-E-b92e699266#2	OTHER_SENSE	-	-	-	-	-	SURE	القوس اللينة الغلفق
+HFN-E-b92e699266#3	OTHER_SENSE	-	-	-	-	-	SURE	الغلفق الرطبة الهن
+HFN-E-b92e699266#4	OTHER_SENSE	-	-	-	-	-	SURE	الغلفق الخرقاء
+HFN-E-b92e699266#5	OTHER_SENSE	-	-	-	-	-	SURE	يشبه الغلفق فوق الماء
+HFN-E-e9df5de0e7#1	YES	محلّ	التزام	عاديّ	مطلق	الماء	SURE	الغمجرة تتابع الجرع وقد غمجر الماء
+HFN-E-3da2b0bd67#1	YES	مكان	تضمّن	-	-	الحلق	UNSURE	الفحفحة تردد الصوت في الحلق؛ فحفح النائم
+HFN-E-cc33d2a0f3#1	OTHER_SENSE	-	-	-	-	-	SURE	الفرفر النقاز طائر
+HFN-E-cc33d2a0f3#2	OTHER_SENSE	-	-	-	-	-	SURE	الفرفر في قائمة الطير
+HFN-E-cc33d2a0f3#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل فرفار والفرفرة الطيش والخفة
+HFN-E-b2f6a67707#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الفرهد الحادر الغليظ صفة اسم
+HFN-E-b2f6a67707#2	OTHER_SENSE	-	-	-	-	-	SURE	الفرهد ولد الوعل
+HFN-E-b2f6a67707#3	OTHER_SENSE	-	-	-	-	-	SURE	الفرهد ولد الأسد
+HFN-E-f1e40bc8d0#1	OTHER_SENSE	-	-	-	-	-	SURE	للقت الفصفصة نبات
+HFN-E-70b5e68f61#1	YES	فاعل	تضمّن	-	-	الرجل	UNSURE	تفقق الرجل في كلامه وفقفق
+HFN-E-08bbfe4540#1	OTHER_SENSE	-	-	-	-	-	SURE	كالفلفل والزنجبيل
+HFN-E-fd454f2d60#1	OTHER_SENSE	-	-	-	-	-	SURE	القبقب ضرب من صدف البحر
+HFN-E-fd454f2d60#2	YES	فاعل	تضمّن	-	-	الفرس	SURE	القبقبة صوت جوف الفرس
+HFN-E-fd454f2d60#3	YES	فاعل	تضمّن	-	-	الفحل	SURE	القبقبة صوت هدير الفحل من الإبل
+HFN-E-fd454f2d60#4	YES	فاعل	التزام	عاديّ	مطلق	الأسد	UNSURE	الزمجرة صوته وكذلك القبقبة؛ قب الأسد
+HFN-E-fd454f2d60#5	YES	فاعل	التزام	عاديّ	مطلق	السيل	SURE	السيل فسمعت له قبقبة
+HFN-E-393fa60397#1	YES	فاعل	التزام	عاديّ	مطلق	الحمام	SURE	قرقر الحمام قرقرة
+HFN-E-393fa60397#2	YES	فاعل	تضمّن	-	-	الرعد	SURE	القرقرة حين يفصح بالرعد
+HFN-E-393fa60397#3	OTHER_SENSE	-	-	-	-	-	SURE	القرقر القاع أرض
+HFN-E-393fa60397#4	NO_DHAT	-	-	-	-	-	SURE	القرقرة حكاية الضحك المستغرب
+HFN-E-393fa60397#5	YES	فاعل	التزام	عاديّ	مطلق	السيل	SURE	السيل فسمعت له قبقبة وقرقرة
+HFN-E-f0a174ebd4#1	YES	زمان	التزام	عاديّ	مطلق	ليلته	UNSURE	قسقس ليلته حتى أصبح؛ البعير في جملة سابقة
+HFN-E-f0a174ebd4#2	OTHER_SENSE	-	-	-	-	-	UNSURE	القسقس الدليل اسم
+HFN-E-ea43027efb#1	OTHER_SENSE	-	-	-	-	-	SURE	القصقص الصدر
+HFN-E-ea43027efb#2	OTHER_SENSE	-	-	-	-	-	SURE	قصقصة القصير
+HFN-E-ea43027efb#3	OTHER_SENSE	-	-	-	-	-	SURE	القصقصة الغليظ المكتل اسم للأسد
+HFN-E-ea43027efb#4	YES	فاعل	التزام	عاديّ	مطلق	الأسد	UNSURE	القصقصة الكسر وبه سمي الأسد قصاقصا
+HFN-E-2f694e8e4b#1	YES	محلّ	تضمّن	-	-	العظام	UNSURE	القضقضة كسر العظام؛ أسد قضقاض فاعل
+HFN-E-2f694e8e4b#2	YES	فاعل	التزام	عاديّ	مطلق	بعلا	UNSURE	تصف بعلا إن ضم قضقض
+HFN-E-e541c09203#1	OTHER_SENSE	-	-	-	-	-	SURE	القعبل ضرب من الكمأة
+HFN-E-4421130c19#1	NO_DHAT	-	-	-	-	-	UNSURE	القعطل السريع، بلا ذات
+HFN-E-ef8d512941#1	NO_DHAT	-	-	-	-	-	UNSURE	وقد قعمس؛ رجل مجعمس لفظ آخر
+HFN-E-66bcef03b4#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	قفقف الرجل إذا سمعت له صوتا من الرعدة
+HFN-E-f6f046357d#1	YES	فاعل	التزام	عاديّ	مطلق	بحر القلزم	UNSURE	القلزمة ابتلاع الشيء وبه سمي بحر القلزم
+HFN-E-c66270eda7#1	OTHER_SENSE	-	-	-	-	-	SURE	القلقل شجيرة خضراء
+HFN-E-c66270eda7#2	YES	محلّ	التزام	عاديّ	مطلق	لسان	UNSURE	لقلق الرجل قلقل لسانه في فيه
+HFN-E-c66270eda7#3	NO_DHAT	-	-	-	-	-	UNSURE	القلقل الخفيف في السفر
+HFN-E-c66270eda7#4	YES	محلّ	تضمّن	-	-	فرس	UNSURE	فرس قلقل جواد سريع
+HFN-E-c66270eda7#5	OTHER_SENSE	-	-	-	-	-	SURE	القلقل والقلاقل نبات
+HFN-E-af635d4a13#1	OTHER_SENSE	-	-	-	-	-	SURE	أصلمعة بن قلمعة علم
+HFN-E-c62284f90a#1	YES	محلّ	تضمّن	-	-	عصب	SURE	قمقم الله عصبه أي قبضه
+HFN-E-939acfb489#1	OTHER_SENSE	-	-	-	-	-	SURE	القنازع كالذوائب شعر
+HFN-E-939acfb489#2	OTHER_SENSE	-	-	-	-	-	SURE	القنزعة الريش المجتمع
+HFN-E-939acfb489#3	OTHER_SENSE	-	-	-	-	-	SURE	القنزعة ما تتخذه المرأة على رأسها
+HFN-E-939acfb489#4	OTHER_SENSE	-	-	-	-	-	SURE	القنزعة المرأة القصيرة
+HFN-E-939acfb489#5	OTHER_SENSE	-	-	-	-	-	SURE	القنزعة الريش المجتمع على رأس الديك
+HFN-E-740649ce7a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل كبكب مجتمع الخلق
+HFN-E-740649ce7a#2	NO_DHAT	-	-	-	-	-	SURE	الكبكبة الحملة في الحرب
+HFN-E-740649ce7a#3	OTHER_SENSE	-	-	-	-	-	SURE	الكبكبة الجماعة
+HFN-E-740649ce7a#4	YES	مكان	تضمّن	-	-	الهوة	UNSURE	الكبكبة الرمي في الهوة
+HFN-E-4bd0169eed#1	NO_DHAT	-	-	-	-	-	SURE	كتكت في الضحك
+HFN-E-4bd0169eed#2	NO_DHAT	-	-	-	-	-	SURE	الكتكتة تقارب الخطو في سرعة
+HFN-E-4bd0169eed#3	YES	فاعل	تضمّن	-	-	الحبارى	SURE	الكتكتة صوت الحبارى
+HFN-E-562f42f99d#1	NO_DHAT	-	-	-	-	-	SURE	الكمترة كالكرتحة
+HFN-E-2a5827b78f#1	OTHER_SENSE	-	-	-	-	-	SURE	الكرزم الفأس
+HFN-E-2a5827b78f#2	OTHER_SENSE	-	-	-	-	-	SURE	الكرزم القصيرة الأنف
+HFN-E-2a5827b78f#3	YES	زمان	تضمّن	-	-	نصف النهار	UNSURE	الكرزمة أكل نصف النهار
+HFN-E-2a5827b78f#4	YES	زمان	تضمّن	-	-	نصف النهار	UNSURE	الكرزمة أكل نصف النهار
+HFN-E-42d98d676e#1	OTHER_SENSE	-	-	-	-	-	SURE	الكركرة موضع من البعير
+HFN-E-42d98d676e#2	OTHER_SENSE	-	-	-	-	-	SURE	الكراكر الجماعات
+HFN-E-42d98d676e#3	NO_DHAT	-	-	-	-	-	SURE	كركر رفع صوته بالضحك
+HFN-E-42d98d676e#4	YES	مكان	تضمّن	-	-	جوف	UNSURE	الكركرة صوت يردده في جوفه
+HFN-E-42d98d676e#5	OTHER_SENSE	-	-	-	-	-	SURE	الكركرة وسط زور البعير
+HFN-E-5f2e73be02#1	NO_DHAT	-	-	-	-	-	SURE	والكركسة تدحرج
+HFN-E-a142bd0ce5#1	OTHER_SENSE	-	-	-	-	-	SURE	إوز كسكر موضع
+HFN-E-e4168a730a#1	YES	فاعل	التزام	عاديّ	مطلق	الشبارم	UNSURE	إذا ما كعسب الشبارم
+HFN-E-82f2aa0a49#1	OTHER_SENSE	-	-	-	-	-	SURE	الكعسم الحمار الوحشي
+HFN-E-82f2aa0a49#2	NO_DHAT	-	-	-	-	-	SURE	وكعسم أدبر هاربا
+HFN-E-e2a6e07a53#1	NO_DHAT	-	-	-	-	-	SURE	الكعظلة العدو البطيء
+HFN-E-ef5b06e3e9#1	NO_DHAT	-	-	-	-	-	SURE	كعكع في كلامه تحبس
+HFN-E-ef5b06e3e9#2	NO_DHAT	-	-	-	-	-	SURE	الكعكعة المنع
+HFN-E-dbf9491265#1	YES	فاعل	تضمّن	-	-	البعير	SURE	الكهكهة حكاية صوت البعير
+HFN-E-dbf9491265#2	NO_DHAT	-	-	-	-	-	UNSURE	الكهكهة حكاية صوت الزمر
+HFN-E-dbf9491265#3	NO_DHAT	-	-	-	-	-	SURE	الكهكهة صوت الضحك
+HFN-E-dbf9491265#4	YES	فاعل	التزام	عاديّ	مطلق	الأسد	UNSURE	كهكه ردده في أصوات الأسد
+HFN-E-a1f8844b4a#1	YES	فاعل	تضمّن	-	-	التيس	SURE	اللبلبة حكاية صوت التيس عند السفاد
+HFN-E-d05bf41a78#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	لثلث كلامه لم يبينه ورجل لثلاث
+HFN-E-d05bf41a78#2	NO_DHAT	-	-	-	-	-	SURE	اللثلثة الضعف
+HFN-E-f4f32f8a06#1	YES	فاعل	تضمّن	-	-	ناس	SURE	صوت من ناس أو بهائم لجلجة
+HFN-E-f4f32f8a06#2	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	لجلج ومنه سمي الرجل لجلاجا
+HFN-E-f4f32f8a06#3	YES	محلّ	تضمّن	-	-	اللقمة	SURE	لجلج اللقمة في فيه أجالها
+HFN-E-f4f32f8a06#4	YES	محلّ	التزام	عاديّ	مطلق	نوى التمر	UNSURE	كنوى التمر وأصلب ما يكون إذا لجلج
+HFN-E-f4f32f8a06#5	YES	فاعل	التزام	عاديّ	مطلق	الحادي	SURE	ولجلج الحادي لسانين
+HFN-E-5cc801c6c0#1	YES	محلّ	تضمّن	-	-	خبزة	UNSURE	خبزة لحلحة يابسة وقرص لحلح
+HFN-E-2d2e106a0a#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل لذلاذ خفيف سريع وهي اللذلذة
+HFN-E-67effab2ff#1	NO_DHAT	-	-	-	-	-	SURE	ما لم يكن نقع ولا لفلفة
+HFN-E-67effab2ff#2	YES	محلّ	تضمّن	-	-	لسان	SURE	إذا ثقل لسانه في فيه قيل لفلف
+HFN-E-f97477aacb#1	YES	فاعل	تضمّن	-	-	الرجل	SURE	لقلق الرجل قلقل لسانه
+HFN-E-f97477aacb#2	OTHER_SENSE	-	-	-	-	-	SURE	اللقلق من أسماء اللسان
+HFN-E-f97477aacb#3	NO_DHAT	-	-	-	-	-	SURE	ما لم يكن نقع ولا لقلقة
+HFN-E-c63ed46160#1	YES	مكان	تضمّن	-	-	المائدة	UNSURE	لهسم ما على المائدة أكله
+HFN-E-3d57dc8570#1	OTHER_SENSE	-	-	-	-	-	UNSURE	بلد لهله واسع صفة مكان
+HFN-E-3d57dc8570#2	OTHER_SENSE	-	-	-	-	-	UNSURE	اللهله القبيح الوجه
+HFN-E-3d57dc8570#3	OTHER_SENSE	-	-	-	-	-	SURE	اللهلهة المكان المستوي
+HFN-E-3d57dc8570#4	NO_DHAT	-	-	-	-	-	SURE	لهلهته لهلهة رجعت
+HFN-E-c025c833ad#1	OTHER_SENSE	-	-	-	-	-	SURE	مثلت بالرجل من مثل لا مثلت
+HFN-E-c025c833ad#2	OTHER_SENSE	-	-	-	-	-	SURE	ولو مثلت أي مثّلت
+HFN-E-c025c833ad#3	OTHER_SENSE	-	-	-	-	-	SURE	إذا مثلت عدلوني من مال
+HFN-E-c025c833ad#4	OTHER_SENSE	-	-	-	-	-	SURE	ومثلت به من المثل
+HFN-E-89d3808561#1	YES	محلّ	تضمّن	-	-	الكتاب	SURE	المجمجة تخليط الكتاب بالقلم؛ القلم آلة
+HFN-E-c6633957bc#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل محمح ومحامح نزق
+HFN-E-ae952d6c0f#1	OTHER_SENSE	-	-	-	-	-	SURE	المرمر الرخام
+HFN-E-b10f4d224a#1	OTHER_SENSE	-	-	-	-	-	SURE	ولم أسمع مرهمة من أرهم
+HFN-E-c086a8f426#1	YES	محلّ	تضمّن	-	-	الثوب	UNSURE	مصمصت الثوب والإناء كذلك؛ بطرف اللسان
+HFN-E-c086a8f426#2	NO_DHAT	-	-	-	-	-	UNSURE	مصه مصا ومصمصة، مرجع الضمير غير مذكور
+HFN-E-ae2aef4237#1	YES	محلّ	تضمّن	-	-	فمه	SURE	مضمض فمه والمضمضة بالفم كله
+HFN-E-ae2aef4237#2	YES	محلّ	تضمّن	-	-	العين	SURE	مضمضت العين بالنوم
+HFN-E-eb1b18e45c#1	YES	فاعل	تضمّن	-	-	الرجل	SURE	مطمط الرجل في كلامه مده
+HFN-E-84274210de#1	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل معمع ذك وقاد
+HFN-E-84274210de#2	YES	فاعل	تضمّن	-	-	الشجعاء	SURE	المعمعة حكاية أصوات الشجعاء في الحرب
+HFN-E-8f650748ec#1	YES	فاعل	تضمّن	-	-	الحوار	SURE	مقمق الحوار خلف أمه مصه
+HFN-E-8f650748ec#2	YES	مكان	تضمّن	-	-	حلقه	UNSURE	المقامق المتكلم بأقصى حلقه وفيه مقمقة
+HFN-E-db673f49cd#1	YES	فاعل	تضمّن	-	-	التيس	UNSURE	صوت التيس وكذلك النبنبة؛ نب التيس
+HFN-E-7abdaa9312#1	NO_DHAT	-	-	-	-	-	SURE	نجنجته عن الأمر كففته
+HFN-E-7abdaa9312#2	NO_DHAT	-	-	-	-	-	SURE	نجنج في رأيه اضطرب
+HFN-E-2bd2a65755#1	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	النخنخة شدة السوق نخنختها
+HFN-E-99121a4267#1	YES	فاعل	تضمّن	-	-	الدرع	SURE	النشنشة صوت الدرع
+HFN-E-99121a4267#2	YES	محلّ	تضمّن	-	-	اللحم	SURE	نشنشة اللحم غليانه في القدر
+HFN-E-99121a4267#3	NO_DHAT	-	-	-	-	-	SURE	النشنشة كناية عن النكاح
+HFN-E-99121a4267#4	NO_DHAT	-	-	-	-	-	SURE	النشنشة الحركة في الشيء
+HFN-E-99121a4267#5	YES	فاعل	تضمّن	-	-	الطائر	SURE	نشنش الطائر ريشه نتفه؛ الريش محلّ
+HFN-E-edffe69f6c#1	YES	فاعل	التزام	عاديّ	مطلق	البعير	UNSURE	نصنص فحص بصدره في الأرض لبروكه
+HFN-E-edffe69f6c#2	NO_DHAT	-	-	-	-	-	SURE	نصنص في مشيه اهتز منتصبا
+HFN-E-699453c359#1	YES	محلّ	التزام	عاديّ	مطلق	لسانه	UNSURE	لعلع لسانه حركه في فيه كالنضنضة
+HFN-E-b6fde8ed50#1	NO_DHAT	-	-	-	-	-	SURE	النطنطة البعد
+HFN-E-762bbea9ba#1	YES	محلّ	تضمّن	-	-	الشيخ	UNSURE	النعثل الشيخ الأحمق وفيه نعثلة
+HFN-E-762bbea9ba#2	YES	محلّ	تضمّن	-	-	قدميه	UNSURE	النعثلة أن يمشي ويقلب قدميه
+HFN-E-762bbea9ba#3	OTHER_SENSE	-	-	-	-	-	UNSURE	والنعثلة الجمع اسم
+HFN-E-89dedfa6b6#1	YES	فاعل	التزام	عاديّ	مطلق	الظليم	SURE	النقنق الظليم لأنه ينقنق في صوته
+HFN-E-89dedfa6b6#2	YES	فاعل	التزام	عاديّ	مطلق	الراعبييات	UNSURE	الراعبييات ألوان نقنقة تنق
+HFN-E-89dedfa6b6#3	YES	فاعل	تضمّن	-	-	الضفدع	SURE	نق الضفدع ونقنق صوت
+HFN-E-89dedfa6b6#4	YES	فاعل	التزام	عاديّ	مطلق	الدماغ	UNSURE	جعل للدماغ نقنقة حين سماه فرخا
+HFN-E-12ef59baf2#1	NO_DHAT	-	-	-	-	-	SURE	الهبرج المشي السريع الخفيف
+HFN-E-d3ee7e1cc9#1	YES	محلّ	التزام	عاديّ	مطلق	بعير	UNSURE	الهبهب السريع منها والاسم الهبهبة
+HFN-E-d3ee7e1cc9#2	YES	فاعل	التزام	عاديّ	مطلق	السراب	UNSURE	الهبهاب السراب وقد هبهب ترقرق
+HFN-E-d3ee7e1cc9#3	NO_DHAT	-	-	-	-	-	UNSURE	الهبهبة السرعة؛ بعير حت لحتحت
+HFN-E-91f8a571b0#1	NO_DHAT	-	-	-	-	-	SURE	الهتمرة وقد هتمر كثرة الكلام
+HFN-E-171e2a3ef9#1	YES	فاعل	تضمّن	-	-	البكر	UNSURE	هت البكر هتيتا والهتهتة مثل الهتيت
+HFN-E-171e2a3ef9#2	NO_DHAT	-	-	-	-	-	SURE	الهتهتة الوطء الشديد
+HFN-E-8fedb24543#1	OTHER_SENSE	-	-	-	-	-	UNSURE	ماء هجهج لا عذب ولا ملح
+HFN-E-b0dcd4069c#1	YES	فاعل	التزام	عاديّ	مطلق	الهدهد	SURE	الهدهد وصوته الهدهدة
+HFN-E-b0dcd4069c#2	YES	فاعل	تضمّن	-	-	الحمام	SURE	الهدهدة صوت الحمام
+HFN-E-b0dcd4069c#3	OTHER_SENSE	-	-	-	-	-	SURE	ألقطة هدهد طائر
+HFN-E-b0dcd4069c#4	OTHER_SENSE	-	-	-	-	-	SURE	الهدهد في قائمة الطير
+HFN-E-b0dcd4069c#5	YES	فاعل	تضمّن	-	-	فحل	UNSURE	فحل هداهد كثير الهدهدة
+HFN-E-2b6e0915e4#1	OTHER_SENSE	-	-	-	-	-	UNSURE	عجوز هرشفة مسنة؛ الهرشفة خرقة
+HFN-E-2b6e0915e4#2	OTHER_SENSE	-	-	-	-	-	SURE	الهرشفة قطعة كساء
+HFN-E-2b6e0915e4#3	OTHER_SENSE	-	-	-	-	-	SURE	الهرشف الكبير المهزول
+HFN-E-2b6e0915e4#4	NO_DHAT	-	-	-	-	-	UNSURE	الهرشف الشديد الشرب
+HFN-E-2b6e0915e4#5	OTHER_SENSE	-	-	-	-	-	SURE	الهرشفة الكبيرة من الضأن
+HFN-E-180604134c#1	NO_DHAT	-	-	-	-	-	SURE	هرمط عرضه، العرض معنوي
+HFN-E-62a90a88ab#1	YES	محلّ	التزام	عاديّ	مطلق	الغنم	UNSURE	هرهر دعاؤها للماء
+HFN-E-62a90a88ab#2	OTHER_SENSE	-	-	-	-	-	SURE	عجوز هرهر كبيرة
+HFN-E-62a90a88ab#3	YES	محلّ	تضمّن	-	-	الغنم	SURE	هرهر وهو سوق الغنم
+HFN-E-62a90a88ab#4	YES	فاعل	تضمّن	-	-	الهند	SURE	الهرهرة حكاية صوت الهند في الحرب
+HFN-E-62a90a88ab#5	YES	فاعل	تضمّن	-	-	لبن	SURE	لبن هرهور تسمع له هرهرة عند الحلب
+HFN-E-56029fc73c#1	YES	محلّ	تضمّن	-	-	سيف	SURE	سيف هزهز وهزهاز مهتز
+HFN-E-05bf9fef3e#1	NO_DHAT	-	-	-	-	-	SURE	هسهسوا الحديث هسهسة
+HFN-E-05bf9fef3e#2	YES	محلّ	تضمّن	-	-	الإبل	UNSURE	هسهس ليلته إذا مشى خلف الإبل
+HFN-E-3a265e3304#1	YES	فاعل	التزام	عاديّ	مطلق	اللص	SURE	الهطلس اللص يهطلس كل ما وجده
+HFN-E-bc57cb0b97#1	YES	محلّ	تضمّن	-	-	ثوب	SURE	ثوب هلهل رقيق النسج
+HFN-E-bc57cb0b97#2	OTHER_SENSE	-	-	-	-	-	SURE	الهلهل السم
+HFN-E-d44273bfca#1	NO_DHAT	-	-	-	-	-	SURE	هملط الشيء أخذه وجمعه
+HFN-E-8ba974a9f3#1	OTHER_SENSE	-	-	-	-	-	UNSURE	ومثله الهنبض صفة عظم البطن
+HFN-E-a195e14ba1#1	OTHER_SENSE	-	-	-	-	-	SURE	اليرناء الحناء اسم
+HFN-E-a195e14ba1#2	OTHER_SENSE	-	-	-	-	-	SURE	رنأ يرنأ الطرب من رنأ
+HFN-E-0c1d05287c#1	NO_DHAT	-	-	-	-	-	SURE	هي الهيمنة وقد هيمنت كلام خفي
+HFN-E-c7b61e9a38#1	YES	محلّ	تضمّن	-	-	امرأة	UNSURE	امرأة زلزلة متحركة؛ الزلزلة تحريك الشيء
+HFN-E-c7b61e9a38#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الزلزل الظريف الخفيف
+HFN-E-c7b61e9a38#3	NO_DHAT	-	-	-	-	-	UNSURE	الزلزلة من الهاد صوت البحر
+HFN-E-c7b61e9a38#4	OTHER_SENSE	-	-	-	-	-	SURE	الزلزل الثاث والمتاع
+HFN-E-d8a64c522a#1	YES	محلّ	تضمّن	-	-	اللحم	SURE	برشط اللحم قطعه
+HFN-E-d8a64c522a#2	YES	محلّ	تضمّن	-	-	اللحم	SURE	برشط اللحم شرشره
+HFN-E-22e8337774#1	NO_DHAT	-	-	-	-	-	SURE	البعبعة تتابع الكلام في عجلة
+HFN-E-57e31f8973#1	NO_DHAT	-	-	-	-	-	SURE	البكبكة الجيئة والذهاب
+HFN-E-57e31f8973#2	YES	فاعل	تضمّن	-	-	المعز	SURE	البكبكة شيء تصنعه المعز بولدها
+HFN-E-57e31f8973#3	YES	فاعل	التزام	عاديّ	مطلق	القوم	UNSURE	تباك القوم والبكبكة الازدحام وقد تبكبكوا
+HFN-E-57e31f8973#4	NO_DHAT	-	-	-	-	-	SURE	البكبكة الجيئة والذهاب
+HFN-E-f330d18512#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	التختخة اللكنة ورجل تختخاني

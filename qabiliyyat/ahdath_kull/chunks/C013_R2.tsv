@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-bb5612d6da#1	YES	فاعل	تضمّن	-	-	الحيات	UNSURE	من أصوات الحيات ... الفحيح
+HFN-E-bb5612d6da#2	YES	فاعل	تضمّن	-	-	الضب	SURE	يقال لصوت الضب الفحيح فح يفح
+HFN-E-91c26157ac#1	YES	فاعل	التزام	عاديّ	مطلق	الأفعى	SURE	والأفعى لها فخيخ يعرف مكانها
+HFN-E-4c28dcaf60#1	NO_DHAT	-	-	-	-	-	SURE	فدى لك وفدى دعاء بلا ذات
+HFN-E-4c28dcaf60#2	YES	محلّ	التزام	عاديّ	مطلق	أعناقهن	UNSURE	لقد فدى أعناقهن المحض؛ المحض فاعل
+HFN-E-4c28dcaf60#3	YES	محلّ	التزام	عاديّ	مطلق	أمي	UNSURE	فدى لبني لحيان أمي
+HFN-E-4c28dcaf60#4	YES	محلّ	التزام	عاديّ	مطلق	الرهن	UNSURE	فديت الرهن وغيره فدى وفداء
+HFN-E-4c28dcaf60#5	YES	فاعل	التزام	عاديّ	مطلق	المحض	UNSURE	لقد فدى أعمالهن المحض
+HFN-E-3292b22d3c#1	OTHER_SENSE	-	-	-	-	-	SURE	الفرير ولد البقرة اسم ذات
+HFN-E-3292b22d3c#2	OTHER_SENSE	-	-	-	-	-	SURE	الفرير موضع المجسة اسم عضو
+HFN-E-3292b22d3c#3	OTHER_SENSE	-	-	-	-	-	SURE	ضععت الفرير اسم ولد البقرة
+HFN-E-3619ca749b#1	OTHER_SENSE	-	-	-	-	-	UNSURE	فري فرى بمعنى الدهش لا القطع
+HFN-E-3619ca749b#2	YES	فاعل	التزام	عاديّ	مطلق	البرق	SURE	فرى البرق فريا وهو دوامه
+HFN-E-3619ca749b#3	YES	محلّ	تضمّن	-	-	أوداجه	UNSURE	أفريت أوداجه شققتها؛ جلد فري مشقوق
+HFN-E-f90c908108#1	NO_DHAT	-	-	-	-	-	UNSURE	فري فرى وفريت من فزع بلا ذات
+HFN-E-f90c908108#2	OTHER_SENSE	-	-	-	-	-	UNSURE	فرى البرق فريا دوامه فعل آخر
+HFN-E-f90c908108#3	OTHER_SENSE	-	-	-	-	-	UNSURE	أفريت أوداجه شققتها معنى القطع
+HFN-E-e872006599#1	YES	محلّ	التزام	عاديّ	مطلق	اللحم	UNSURE	غب اللحم بات فسأ ولم يفسد
+HFN-E-e872006599#2	OTHER_SENSE	-	-	-	-	-	SURE	فسا فسوا من الفسو لا فسأ
+HFN-E-e872006599#3	YES	آلة	تضمّن	-	-	العصا	SURE	فسأته بالعصا وهو ضربك ظهر الرجل بها
+HFN-E-307e517f7d#1	YES	محلّ	التزام	عاديّ	مطلق	اللحم	UNSURE	غب اللحم بات فسأ ولم يفسد
+HFN-E-307e517f7d#2	OTHER_SENSE	-	-	-	-	-	SURE	فسا فسوا من الفسو
+HFN-E-307e517f7d#3	OTHER_SENSE	-	-	-	-	-	UNSURE	فسأته بالعصا ضرب لا فسئ
+HFN-E-d806eaa02b#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل فسو كثير الفسو
+HFN-E-d806eaa02b#2	YES	مكان	التزام	عاديّ	مطلق	الدقارير	UNSURE	ويخرج الفسو من تحت الدقارير
+HFN-E-d806eaa02b#3	YES	فاعل	التزام	عاديّ	مطلق	الشيوخ	UNSURE	أبغض الشيوخ ... الحسو الفسو
+HFN-E-d806eaa02b#4	NO_DHAT	-	-	-	-	-	UNSURE	بخار الدخان والفسو
+HFN-E-d806eaa02b#5	YES	فاعل	التزام	عاديّ	مطلق	دويبة	SURE	دويبة تقاتل الحية بالفسو؛ الحية محلّ
+HFN-E-6787afe272#1	OTHER_SENSE	-	-	-	-	-	SURE	فششت الناقة من فشش
+HFN-E-6787afe272#2	NO_DHAT	-	-	-	-	-	UNSURE	وفشا فيهم مع اللؤم القلح
+HFN-E-6787afe272#3	OTHER_SENSE	-	-	-	-	-	SURE	فشأت بالرجل خنته
+HFN-E-6787afe272#4	YES	محلّ	تضمّن	-	-	القوم	SURE	فشا المرض في القوم انتشر
+HFN-E-6787afe272#5	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	عرت الإبل واستعرهم الجرب فشا فيهم
+HFN-E-e61ed282da#1	YES	محلّ	التزام	عاديّ	مطلق	ثوبي	UNSURE	ألقيت ثوبي فضا؛ متاعهم بينهم فضا
+HFN-E-e61ed282da#2	OTHER_SENSE	-	-	-	-	-	SURE	وفضا من وفض
+HFN-E-e61ed282da#3	YES	محلّ	التزام	عاديّ	مطلق	التمر	UNSURE	إذا لم يكنز فهو سح وفضا متفرق
+HFN-E-e61ed282da#4	OTHER_SENSE	-	-	-	-	-	SURE	فضضت الشيء كسرته من فضض
+HFN-E-7bb49b715a#1	YES	آلة	تضمّن	-	-	يدك	SURE	فطأته فطأ إذا ضربته بيدك
+HFN-E-7bb49b715a#2	YES	محلّ	تضمّن	-	-	ظهرها	UNSURE	فطأت دابتك حملت عليها حتى يثقل ظهرها؛ دابتك
+HFN-E-7bb49b715a#3	YES	محلّ	التزام	عاديّ	مطلق	المرأة	UNSURE	حطأها وفطأها نكحها
+HFN-E-d44c56d633#1	OTHER_SENSE	-	-	-	-	-	UNSURE	فطأته ضربته فعل آخر
+HFN-E-d44c56d633#2	YES	محلّ	تضمّن	-	-	الظهر	SURE	في الظهر الفطأ أن يدخل وسطه
+HFN-E-d44c56d633#3	OTHER_SENSE	-	-	-	-	-	SURE	فطأها نكحها معنى بعيد
+HFN-E-c2991dc1cb#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الخذا استرخاء الأذن من خذو
+HFN-E-c2991dc1cb#2	OTHER_SENSE	-	-	-	-	-	SURE	فخذا توافق الحروف
+HFN-E-c2991dc1cb#3	OTHER_SENSE	-	-	-	-	-	SURE	خذا حذرا من أخذ
+HFN-E-c7f5368b62#1	OTHER_SENSE	-	-	-	-	-	SURE	الفليلة الشعر المجتمع اسم ذات
+HFN-E-c7f5368b62#2	OTHER_SENSE	-	-	-	-	-	SURE	الفليل الفعر كلمة أخرى
+HFN-E-c91753417b#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الخذا استرخاء الأذن من خذو
+HFN-E-c91753417b#2	OTHER_SENSE	-	-	-	-	-	SURE	فخذا توافق الحروف
+HFN-E-c91753417b#3	OTHER_SENSE	-	-	-	-	-	SURE	خذا حذرا من أخذ
+HFN-E-10db175b3a#1	NO_DHAT	-	-	-	-	-	UNSURE	فه فهها وفهاهة ضعف الرأي بلا ذات
+HFN-E-16bd8edac0#1	NO_DHAT	-	-	-	-	-	SURE	الألب الفوت بلا ذات
+HFN-E-16bd8edac0#2	NO_DHAT	-	-	-	-	-	UNSURE	بناء فات الكتاب أي لم يذكر
+HFN-E-16bd8edac0#3	NO_DHAT	-	-	-	-	-	SURE	هل لشباب فات من مطلب
+HFN-E-16bd8edac0#4	OTHER_SENSE	-	-	-	-	-	SURE	فإت قلت تصحيف فإن
+HFN-E-16bd8edac0#5	NO_DHAT	-	-	-	-	-	SURE	يضرب مثلا للذي فات
+HFN-E-aa7fd26840#1	OTHER_SENSE	-	-	-	-	-	SURE	الفوج الجماعة اسم
+HFN-E-aa7fd26840#2	OTHER_SENSE	-	-	-	-	-	SURE	مر بنا فائج أي فوج اسم
+HFN-E-aa7fd26840#3	OTHER_SENSE	-	-	-	-	-	SURE	إلفاج مال كلمة أخرى
+HFN-E-27efc3d31e#1	NO_DHAT	-	-	-	-	-	SURE	الظفر الفوز بالمطلوب
+HFN-E-27efc3d31e#2	YES	فاعل	تضمّن	-	-	القدح	SURE	فاز القدح فوزا خرج قبل صاحبه
+HFN-E-27efc3d31e#3	OTHER_SENSE	-	-	-	-	-	UNSURE	فوز مات معنى بعيد
+HFN-E-27efc3d31e#4	OTHER_SENSE	-	-	-	-	-	SURE	المفازة الفلاة اسم مكان
+HFN-E-27efc3d31e#5	OTHER_SENSE	-	-	-	-	-	SURE	الفازة بناء من خرق اسم
+HFN-E-94d0ee0aa7#1	OTHER_SENSE	-	-	-	-	-	SURE	ما فوق العينين ظرف
+HFN-E-94d0ee0aa7#2	OTHER_SENSE	-	-	-	-	-	SURE	ثنتان من فوق ظرف
+HFN-E-94d0ee0aa7#3	OTHER_SENSE	-	-	-	-	-	SURE	وقيل فوق الندى ظرف
+HFN-E-94d0ee0aa7#4	OTHER_SENSE	-	-	-	-	-	SURE	من فوق الجبل ظرف
+HFN-E-94d0ee0aa7#5	OTHER_SENSE	-	-	-	-	-	SURE	بعضها فوق بعض ظرف
+HFN-E-3dfe7bddc0#1	OTHER_SENSE	-	-	-	-	-	SURE	ما فوق العينين ظرف
+HFN-E-3dfe7bddc0#2	OTHER_SENSE	-	-	-	-	-	SURE	ثنتان من فوق ظرف
+HFN-E-3dfe7bddc0#3	OTHER_SENSE	-	-	-	-	-	SURE	وقيل فوق الندى ظرف
+HFN-E-3dfe7bddc0#4	OTHER_SENSE	-	-	-	-	-	SURE	بعضها فوق بعض ظرف
+HFN-E-3dfe7bddc0#5	OTHER_SENSE	-	-	-	-	-	SURE	تكلفت فوق طوقها ظرف
+HFN-E-c8e76ce5a7#1	OTHER_SENSE	-	-	-	-	-	SURE	فم أصله فوه اسم عضو
+HFN-E-c8e76ce5a7#2	OTHER_SENSE	-	-	-	-	-	SURE	طلي فوه اسم الفم
+HFN-E-c8e76ce5a7#3	YES	محلّ	تضمّن	-	-	الفم	SURE	فوه فوها؛ الفوه عظم الفم وسعته؛ رجل أفوه
+HFN-E-c8e76ce5a7#4	OTHER_SENSE	-	-	-	-	-	SURE	تغير فوه وأنتن اسم الفم
+HFN-E-c8e76ce5a7#5	OTHER_SENSE	-	-	-	-	-	SURE	عكم فوه اسم الفم
+HFN-E-4a68f3c7c7#1	OTHER_SENSE	-	-	-	-	-	SURE	ما بعد الزوال فهو الفيء اسم
+HFN-E-4a68f3c7c7#2	OTHER_SENSE	-	-	-	-	-	SURE	فاء الفعل حرف
+HFN-E-4a68f3c7c7#3	YES	محلّ	تضمّن	-	-	المسلمين	UNSURE	الفيء ما يعود على المسلمين فاء فيأ
+HFN-E-4a68f3c7c7#4	OTHER_SENSE	-	-	-	-	-	SURE	الفاء للعطف حرف
+HFN-E-4a68f3c7c7#5	OTHER_SENSE	-	-	-	-	-	SURE	تغيير الفاء حرف
+HFN-E-644015ecdb#1	YES	محلّ	تضمّن	-	-	الحر	UNSURE	الفيح سطوع الحر
+HFN-E-644015ecdb#2	YES	مصدر	التزام	عاديّ	مطلق	المسك	UNSURE	فاحت ريح المسك فيحا؛ الفيح الانتشار
+HFN-E-644015ecdb#3	YES	محلّ	التزام	عاديّ	مطلق	الهجول	UNSURE	الأفيج وهو الواسع بين الفيح
+HFN-E-644015ecdb#4	YES	محلّ	التزام	عاديّ	مطلق	مطارب	UNSURE	مطارب زقب أميالها فيح
+HFN-E-367d44407e#1	NO_DHAT	-	-	-	-	-	UNSURE	الفود الموت فاد يفود بلا ذات مسمّاة
+HFN-E-367d44407e#2	OTHER_SENSE	-	-	-	-	-	SURE	استغنى فيد تصحيف
+HFN-E-367d44407e#3	OTHER_SENSE	-	-	-	-	-	SURE	الفيد الشعر على جحفلة الفرس
+HFN-E-367d44407e#4	OTHER_SENSE	-	-	-	-	-	UNSURE	لا لفظ للحدث في المقتطف
+HFN-E-367d44407e#5	OTHER_SENSE	-	-	-	-	-	SURE	الفيد ورق الزعفران
+HFN-E-569eaec4a9#1	OTHER_SENSE	-	-	-	-	-	UNSURE	موت ذريع وقيل فاش من فشا
+HFN-E-569eaec4a9#2	NO_DHAT	-	-	-	-	-	SURE	فاش يفيش افتخر
+HFN-E-d7591d7d47#1	YES	مصدر	التزام	عاديّ	مطلق	الإناء	UNSURE	الفيض والانصباب عن الامتلاء كفيض الإناء
+HFN-E-d7591d7d47#2	NO_DHAT	-	-	-	-	-	UNSURE	فاضت نفسه تفيض
+HFN-E-d7591d7d47#3	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	فرس غمر جواد ... وفيض
+HFN-E-d7591d7d47#4	OTHER_SENSE	-	-	-	-	-	SURE	أبو الفيض علم
+HFN-E-d7591d7d47#5	YES	محلّ	تضمّن	-	-	ماء	UNSURE	ماء فيض كثير
+HFN-E-47fa9ac168#1	OTHER_SENSE	-	-	-	-	-	SURE	قاب القوس قدرها من قوب
+HFN-E-47fa9ac168#2	OTHER_SENSE	-	-	-	-	-	SURE	لا لفظ للحدث؛ اللقب
+HFN-E-f79070ca77#1	YES	فاعل	تضمّن	-	-	القوم	SURE	قبيب القوم إذا اختصموا وقد قبوا يقبون
+HFN-E-f79070ca77#2	YES	فاعل	تضمّن	-	-	الفرس	SURE	القبيب صوت جوف الفرس؛ جوف مصدر
+HFN-E-934d833e02#1	YES	محلّ	التزام	عاديّ	مطلق	الرطبة	SURE	فإذا يبس شيأ فقد قب يقب قبوبا
+HFN-E-877ae3c5ce#1	NO_DHAT	-	-	-	-	-	SURE	كل ضم قبو قبوته ضممته
+HFN-E-877ae3c5ce#2	OTHER_SENSE	-	-	-	-	-	SURE	القبا اسم نبات
+HFN-E-d3734deec7#1	YES	محلّ	التزام	عاديّ	مطلق	الملوك	SURE	لا أحسن قتو الملوك
+HFN-E-d3734deec7#2	OTHER_SENSE	-	-	-	-	-	SURE	قت يقت قتا النميمة من قتت
+HFN-E-d3734deec7#3	OTHER_SENSE	-	-	-	-	-	SURE	ولم يحد وقتا كلمة أخرى
+HFN-E-d3734deec7#4	OTHER_SENSE	-	-	-	-	-	SURE	وقتا بعد وقت كلمة أخرى
+HFN-E-d3734deec7#5	OTHER_SENSE	-	-	-	-	-	SURE	إلا وقتا أو موضعا كلمة أخرى
+HFN-E-2161eac6cc#1	OTHER_SENSE	-	-	-	-	-	SURE	أعرابيا قحا من قحح
+HFN-E-2161eac6cc#2	OTHER_SENSE	-	-	-	-	-	SURE	القحة من وقح
+HFN-E-2161eac6cc#3	OTHER_SENSE	-	-	-	-	-	SURE	ثم يكون قحا اسم طور البطيخ
+HFN-E-2161eac6cc#4	OTHER_SENSE	-	-	-	-	-	SURE	وقحة من وقح
+HFN-E-a143d2eeed#1	YES	محلّ	التزام	عاديّ	مطلق	العين	UNSURE	ما يلحق العين من الورم والاحمرار والقذى
+HFN-E-a143d2eeed#2	OTHER_SENSE	-	-	-	-	-	SURE	كثير القذى اسم ما يقع في الماء
+HFN-E-a143d2eeed#3	OTHER_SENSE	-	-	-	-	-	UNSURE	كأن قذى في العين اسم
+HFN-E-a143d2eeed#4	OTHER_SENSE	-	-	-	-	-	SURE	كل قذى يخالطه اسم
+HFN-E-a143d2eeed#5	YES	محلّ	تضمّن	-	-	عينه	UNSURE	قذيت عينه نزعت عنها القذى
+HFN-E-57bd803ab7#1	NO_DHAT	-	-	-	-	-	SURE	فمن قرأ الريح نشرا قراءة لفظ
+HFN-E-57bd803ab7#2	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	لرجل قرأ عنده كتابا؛ كتابا محلّ
+HFN-E-57bd803ab7#3	NO_DHAT	-	-	-	-	-	SURE	قراءة من قرأ وترى الناس سكرى
+HFN-E-57bd803ab7#4	NO_DHAT	-	-	-	-	-	SURE	قراءة من قرأ إلا خطأ
+HFN-E-57bd803ab7#5	NO_DHAT	-	-	-	-	-	SURE	وقد قرأ سكرت
+HFN-E-ec95da0ba9#1	YES	مكان	التزام	عاديّ	مطلق	مطمئن	UNSURE	كل مطمئن اندفع إليه الماء فاستقر فيه؛ الماء
+HFN-E-ec95da0ba9#2	YES	مكان	التزام	عاديّ	مطلق	القارورة	UNSURE	القارورة من القرار كأن الشراب استقر فيه
+HFN-E-ec95da0ba9#3	OTHER_SENSE	-	-	-	-	-	SURE	القرار وهو أسافل الأودية اسم مكان
+HFN-E-ec95da0ba9#4	OTHER_SENSE	-	-	-	-	-	UNSURE	ربوة ذات قرار أي ذات مستقر
+HFN-E-ec95da0ba9#5	OTHER_SENSE	-	-	-	-	-	SURE	حسر البحر عن القرار اسم مكان
+HFN-E-38809bece2#1	OTHER_SENSE	-	-	-	-	-	SURE	القريان مدافع الماء واحدها قرى
+HFN-E-38809bece2#2	YES	مكان	التزام	عاديّ	مطلق	الحوض	UNSURE	المقراة الحوض العظيم قريت الماء قريا؛ الماء محلّ
+HFN-E-38809bece2#3	OTHER_SENSE	-	-	-	-	-	SURE	قرى قسر جمع قرية
+HFN-E-38809bece2#4	OTHER_SENSE	-	-	-	-	-	SURE	وامتيرت القرى جمع قرية
+HFN-E-38809bece2#5	OTHER_SENSE	-	-	-	-	-	SURE	من قرى البثيعة جمع قرية
+HFN-E-a10522c8db#1	YES	محلّ	تضمّن	-	-	العين	SURE	في العين القضأ وهو فساد فيها
+HFN-E-a10522c8db#2	YES	محلّ	تضمّن	-	-	الحبل	SURE	قضئ الحبل قضأ بلى
+HFN-E-a10522c8db#3	YES	محلّ	تضمّن	-	-	الأديم	SURE	قضيء الأديم قضأ فسد في الدباغة
+HFN-E-a10522c8db#4	NO_DHAT	-	-	-	-	-	SURE	قضئ حسبه إذا دخله عيب
+HFN-E-a10522c8db#5	YES	محلّ	التزام	عاديّ	مطلق	الثوب	UNSURE	انحمق الثوب ... قضيء قضأ تقطع
+HFN-E-2a3b38a457#1	YES	فاعل	التزام	عاديّ	مطلق	القوس	UNSURE	أنبضت القوس ... الصوت يقال له القضيض
+HFN-E-97a155e037#1	NO_DHAT	-	-	-	-	-	SURE	القضاء الحكم قضى عليه
+HFN-E-97a155e037#2	NO_DHAT	-	-	-	-	-	SURE	فمنهم من قضى نحبه
+HFN-E-97a155e037#3	NO_DHAT	-	-	-	-	-	UNSURE	والقضاء التي قد فرغ من عملها
+HFN-E-97a155e037#4	NO_DHAT	-	-	-	-	-	SURE	الأخذ سريط والقضاء ضريط
+HFN-E-97a155e037#5	YES	فاعل	التزام	عاديّ	مطلق	زيد	SURE	فلما قضى زيد منها وطرا
+HFN-E-31c656cd4f#1	OTHER_SENSE	-	-	-	-	-	SURE	القطوط الصكاك اسم
+HFN-E-20f645c12d#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	القطط ... وقد قط يقط قطاطة ورجل قطط
+HFN-E-b66c9b6113#1	YES	محلّ	تضمّن	-	-	الأذن	SURE	الخذا استرخاء الأذن من أصلها
+HFN-E-b66c9b6113#2	OTHER_SENSE	-	-	-	-	-	SURE	فخذا توافق الحروف
+HFN-E-b66c9b6113#3	OTHER_SENSE	-	-	-	-	-	SURE	خذا حذرا من أخذ
+HFN-E-240536415f#1	OTHER_SENSE	-	-	-	-	-	SURE	فهو قعو اسم أداة البكرة
+HFN-E-240536415f#2	OTHER_SENSE	-	-	-	-	-	SURE	بينها وبين القعو اسم أداة
+HFN-E-240536415f#3	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل قعو أرسح معنى بعيد
+HFN-E-240536415f#4	YES	فاعل	تضمّن	-	-	الظليم	SURE	القعو للظليم ... يعني السفاد
+HFN-E-240536415f#5	YES	فاعل	تضمّن	-	-	الطير	SURE	والقعو للطير مثله في الإبل
+HFN-E-bd1025c069#1	OTHER_SENSE	-	-	-	-	-	SURE	فوق القفا اسم عضو
+HFN-E-bd1025c069#2	OTHER_SENSE	-	-	-	-	-	SURE	بين القفا إلى وسط العنق اسم عضو
+HFN-E-bd1025c069#3	OTHER_SENSE	-	-	-	-	-	SURE	كية القفا اسم عضو
+HFN-E-bd1025c069#4	OTHER_SENSE	-	-	-	-	-	SURE	وقفت وقفا من وقف
+HFN-E-bd1025c069#5	OTHER_SENSE	-	-	-	-	-	SURE	إقبالها على القفا اسم عضو
+HFN-E-be2ea16432#1	OTHER_SENSE	-	-	-	-	-	SURE	فقمت فقما من فقم
+HFN-E-be2ea16432#2	OTHER_SENSE	-	-	-	-	-	SURE	قم البيت كنسه من قمم
+HFN-E-be2ea16432#3	OTHER_SENSE	-	-	-	-	-	SURE	وقمت الدابة من وقم
+HFN-E-be2ea16432#4	YES	محلّ	تضمّن	-	-	الماشية	SURE	قمأت الماشية تقمأ قموأ سمنت
+HFN-E-be2ea16432#5	OTHER_SENSE	-	-	-	-	-	SURE	فقم الأمر من فقم
+HFN-E-b9bf506b8f#1	NO_DHAT	-	-	-	-	-	UNSURE	الجعشوش كل ذلك إلى قماءة وصغر
+HFN-E-d700c9903e#1	OTHER_SENSE	-	-	-	-	-	SURE	زرق القنا الرماح
+HFN-E-d700c9903e#2	OTHER_SENSE	-	-	-	-	-	UNSURE	كالقنا والفطس من قنو
+HFN-E-d700c9903e#3	OTHER_SENSE	-	-	-	-	-	SURE	القناة الرمح والجمع قنا
+HFN-E-d700c9903e#4	OTHER_SENSE	-	-	-	-	-	SURE	يقال للجريد القنا
+HFN-E-d700c9903e#5	OTHER_SENSE	-	-	-	-	-	SURE	القناة كل عظم فيه مخ
+HFN-E-5b300925c2#1	OTHER_SENSE	-	-	-	-	-	SURE	قاب القوس قدرها اسم
+HFN-E-5b300925c2#2	OTHER_SENSE	-	-	-	-	-	SURE	لا لفظ للحدث؛ اللقب
+HFN-E-5b300925c2#3	OTHER_SENSE	-	-	-	-	-	SURE	وقوب من وقب
+HFN-E-5b300925c2#4	YES	محلّ	التزام	عاديّ	مطلق	البيض	UNSURE	تقوب البيض عن الفرخ؛ قائبة من قوب
+HFN-E-5b300925c2#5	OTHER_SENSE	-	-	-	-	-	SURE	وقب القمر من وقب
+HFN-E-da019e8f30#1	OTHER_SENSE	-	-	-	-	-	UNSURE	القود قتل النفوس بالنفوس معنى بعيد
+HFN-E-da019e8f30#2	YES	محلّ	التزام	عاديّ	مطلق	الإبل	SURE	سقت الإبل ... وقدتها قودا
+HFN-E-da019e8f30#3	OTHER_SENSE	-	-	-	-	-	SURE	توقد الشيء كوكب وقاد من وقد
+HFN-E-da019e8f30#4	OTHER_SENSE	-	-	-	-	-	SURE	قلب وقاد من وقد
+HFN-E-da019e8f30#5	YES	محلّ	التزام	عاديّ	مطلق	الجياد	SURE	قود الجياد وإصهار الملوك
+HFN-E-5dd2999762#1	OTHER_SENSE	-	-	-	-	-	UNSURE	القود قتل النفوس معنى بعيد
+HFN-E-5dd2999762#2	OTHER_SENSE	-	-	-	-	-	SURE	وقدتها قودا من قاد
+HFN-E-5dd2999762#3	OTHER_SENSE	-	-	-	-	-	SURE	قود الجياد من قاد
+HFN-E-5dd2999762#4	OTHER_SENSE	-	-	-	-	-	UNSURE	أقرح القود منها النسورا من قاد
+HFN-E-5dd2999762#5	YES	محلّ	تضمّن	-	-	الجبال	UNSURE	الأيهم من الجبال الطويل وكذلك الأقود؛ الظباء والإبل
+HFN-E-3812e355cb#1	OTHER_SENSE	-	-	-	-	-	SURE	هو القير والقار اسم
+HFN-E-3812e355cb#2	OTHER_SENSE	-	-	-	-	-	SURE	فقارة كلمة أخرى
+HFN-E-3812e355cb#3	OTHER_SENSE	-	-	-	-	-	SURE	جعلت في خللها القار اسم
+HFN-E-3812e355cb#4	OTHER_SENSE	-	-	-	-	-	SURE	القار القطيع من الإبل اسم
+HFN-E-3812e355cb#5	OTHER_SENSE	-	-	-	-	-	SURE	طليتها بالقار اسم
+HFN-E-7721d76d4a#1	YES	محلّ	تضمّن	-	-	عشبها	SURE	قور عشبها بلغ مداه
+HFN-E-7721d76d4a#2	OTHER_SENSE	-	-	-	-	-	SURE	للحديث من شجر القطن القور اسم
+HFN-E-7721d76d4a#3	YES	محلّ	التزام	عاديّ	مطلق	القميص	UNSURE	جيب القميص ما قور منه
+HFN-E-7721d76d4a#4	OTHER_SENSE	-	-	-	-	-	SURE	القارة وجمعها قور اسم
+HFN-E-7721d76d4a#5	OTHER_SENSE	-	-	-	-	-	SURE	تلفع بالقور جمع قارة
+HFN-E-cb97b533e4#1	OTHER_SENSE	-	-	-	-	-	SURE	في القوس اسم أداة
+HFN-E-cb97b533e4#2	OTHER_SENSE	-	-	-	-	-	SURE	أقصر القياس جمع قوس
+HFN-E-cb97b533e4#3	OTHER_SENSE	-	-	-	-	-	SURE	والقوس فيها وتر اسم أداة
+HFN-E-cb97b533e4#4	OTHER_SENSE	-	-	-	-	-	SURE	أكفأت القوس اسم أداة
+HFN-E-cb97b533e4#5	OTHER_SENSE	-	-	-	-	-	SURE	من القسي الشريج اسم أداة
+HFN-E-021bdc7a7e#1	OTHER_SENSE	-	-	-	-	-	SURE	ومآق مثل قاض مثال وزن
+HFN-E-021bdc7a7e#2	OTHER_SENSE	-	-	-	-	-	UNSURE	قاض الفرخ البيضة قيضا شقها من قيض
+HFN-E-8ca9af323a#1	YES	فاعل	التزام	عاديّ	مطلق	العرب	UNSURE	العرب تقول دنا الحيا
+HFN-E-8ca9af323a#2	YES	فاعل	التزام	عاديّ	مطلق	سيبويه	UNSURE	قال سيبويه في قوله تعالى
+HFN-E-8ca9af323a#3	YES	محلّ	التزام	عاديّ	مطلق	صبي	UNSURE	قال صلى الله عليه وسلم لصبي
+HFN-E-8ca9af323a#4	YES	فاعل	التزام	عاديّ	مطلق	سيبويه	UNSURE	قال سيبويه كل شيء
+HFN-E-8ca9af323a#5	YES	فاعل	التزام	عاديّ	مطلق	سيبويه	UNSURE	قال سيبويه ومما حقر
+HFN-E-d191b35cac#1	NO_DHAT	-	-	-	-	-	SURE	قاء يقيء وأصابه قياء شديد
+HFN-E-d191b35cac#2	OTHER_SENSE	-	-	-	-	-	SURE	ألقاء جمع لقوة
+HFN-E-d191b35cac#3	NO_DHAT	-	-	-	-	-	UNSURE	وقد تقدم في القيء إحالة
+HFN-E-d191b35cac#4	YES	فاعل	التزام	عاديّ	مطلق	النحل	UNSURE	الإتاعة أي القيء ... للعسل مجاج النحل
+HFN-E-d191b35cac#5	NO_DHAT	-	-	-	-	-	UNSURE	وقد تقدم في القيء إحالة
+HFN-E-bb371da20c#1	OTHER_SENSE	-	-	-	-	-	SURE	الوعى القيح اسم المادة
+HFN-E-bb371da20c#2	OTHER_SENSE	-	-	-	-	-	SURE	وقاح من وقح
+HFN-E-bb371da20c#3	OTHER_SENSE	-	-	-	-	-	SURE	وقاح الحافر من وقح
+HFN-E-bb371da20c#4	OTHER_SENSE	-	-	-	-	-	SURE	فقاح جمع فقحة
+HFN-E-bb371da20c#5	OTHER_SENSE	-	-	-	-	-	SURE	حافر وقاح من وقح
+HFN-E-0df9c7bf57#1	OTHER_SENSE	-	-	-	-	-	SURE	مكان قاص من قصو
+HFN-E-0df9c7bf57#2	OTHER_SENSE	-	-	-	-	-	SURE	قيص من القوهي تصحيف قميص
+HFN-E-0df9c7bf57#3	OTHER_SENSE	-	-	-	-	-	UNSURE	وقيص صرعه لفظ غامض
+HFN-E-922e29c8fe#1	YES	زمان	تضمّن	-	-	يومنا	UNSURE	قاظ يومنا اشتد حره؛ قاظ القوم
+HFN-E-922e29c8fe#2	OTHER_SENSE	-	-	-	-	-	UNSURE	أيام القيظ اسم الفصل
+HFN-E-922e29c8fe#3	OTHER_SENSE	-	-	-	-	-	UNSURE	في دبر القيظ اسم الفصل
+HFN-E-922e29c8fe#4	OTHER_SENSE	-	-	-	-	-	UNSURE	ينبت بالقيظ اسم الفصل
+HFN-E-922e29c8fe#5	OTHER_SENSE	-	-	-	-	-	UNSURE	حمارة القيظ اسم الفصل
+HFN-E-7ab570f720#1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	كئب كآبة حزن؛ أكأب الرجل وقع في كآبة
+HFN-E-05e9fd5929#1	YES	محلّ	تضمّن	-	-	النبت	SURE	إذا ساء خروج النبت قيل كدأ وكدئ
+HFN-E-05e9fd5929#2	OTHER_SENSE	-	-	-	-	-	SURE	الألكد كلمة أخرى
+HFN-E-05e9fd5929#3	OTHER_SENSE	-	-	-	-	-	SURE	نبطي كدا كلمة أعجمية
+HFN-E-05e9fd5929#4	YES	محلّ	تضمّن	-	-	الزرع	SURE	كدا الزرع وغيره ساءت نبتته
+HFN-E-05e9fd5929#5	OTHER_SENSE	-	-	-	-	-	SURE	كددت الشيء من كدد
+HFN-E-8ae2416464#1	OTHER_SENSE	-	-	-	-	-	SURE	أطرق كرا ترخيم كروان اسم طائر
+HFN-E-8ae2416464#2	YES	محلّ	تضمّن	-	-	الساقين	SURE	الكرا دقة الساقين كريت كرا
+HFN-E-8ae2416464#3	OTHER_SENSE	-	-	-	-	-	UNSURE	وأقمنا كرا كرا من كرّ
+HFN-E-8ae2416464#4	YES	محلّ	تضمّن	-	-	الساقين	SURE	الكرواء الدقيقة الساقين والاسم الكرا
+HFN-E-8ae2416464#5	OTHER_SENSE	-	-	-	-	-	SURE	كر عليه يكر كرا من كرر
+HFN-E-613a8a11b6#1	YES	مكان	التزام	عاديّ	مطلق	الأعين	UNSURE	أخفية الكرى الأعين
+HFN-E-613a8a11b6#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	الكرى النعاس ورجل كري وقد كرى
+HFN-E-613a8a11b6#3	OTHER_SENSE	-	-	-	-	-	UNSURE	أن الكرى أسكتا لعله الكريّ المكاري
+HFN-E-613a8a11b6#4	OTHER_SENSE	-	-	-	-	-	SURE	وكرى ضرب من العدو من وكر
+HFN-E-613a8a11b6#5	OTHER_SENSE	-	-	-	-	-	SURE	ناقة وكرى من وكر
+HFN-E-0c58a59013#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	الكرى النعاس ورجل كري وقد كرى
+HFN-E-0c58a59013#2	YES	مكان	التزام	عاديّ	مطلق	الأعين	SURE	أخفية الكرى الأعين للعين خفاء الكرى
+HFN-E-0c58a59013#3	OTHER_SENSE	-	-	-	-	-	SURE	كاريته واكتريته معنى المؤاجرة
+HFN-E-0c58a59013#4	OTHER_SENSE	-	-	-	-	-	UNSURE	أن الكرى أسكتا لعله الكريّ
+HFN-E-0c58a59013#5	OTHER_SENSE	-	-	-	-	-	SURE	وكرى من وكر

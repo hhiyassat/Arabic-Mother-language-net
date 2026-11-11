@@ -1,0 +1,253 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-b05eaa225c#1	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	الجنب أن يشتد عطشها؛ الرئة بالجنب
+HFN-E-b05eaa225c#2	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل جنب: غريب، معنى بعيد
+HFN-E-b05eaa225c#3	OTHER_SENSE	-	-	-	-	-	UNSURE	جار جنب: غريب، معنى بعيد
+HFN-E-b05eaa225c#4	OTHER_SENSE	-	-	-	-	-	SURE	لا جلب ولا جنب: في السباق
+HFN-E-b05eaa225c#5	OTHER_SENSE	-	-	-	-	-	SURE	الجنب: عضو
+HFN-E-2544df8420#1	OTHER_SENSE	-	-	-	-	-	UNSURE	وقد جنب فهو جنب: داء جَنِب
+HFN-E-2544df8420#2	OTHER_SENSE	-	-	-	-	-	SURE	الجنب: عضو
+HFN-E-2544df8420#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل جنب بين الجنبة والجنابة
+HFN-E-2544df8420#4	YES	محلّ	التزام	عاديّ	مطلق	جار	UNSURE	جار جنب ذو جنابة
+HFN-E-2544df8420#5	OTHER_SENSE	-	-	-	-	-	SURE	لا جلب ولا جنب: في السباق
+HFN-E-bb59e11735#1	YES	زمان	التزام	عاديّ	مطلق	الليل	UNSURE	جنح الليل... وقد جنح يجنح جنوحا
+HFN-E-bb59e11735#2	NO_DHAT	-	-	-	-	-	SURE	الجنوح وهو الميل
+HFN-E-bb59e11735#3	YES	محلّ	التزام	عاديّ	مطلق	الثريا	SURE	وأيدي الثريا جنح في المغارب
+HFN-E-bb59e11735#4	OTHER_SENSE	-	-	-	-	-	UNSURE	جنح الليل: طائفة منه
+HFN-E-bb59e11735#5	YES	محلّ	التزام	عاديّ	مطلق	النواصي	SURE	جنح النواصي نحو ألوياتها
+HFN-E-95b17c1bff#1	OTHER_SENSE	-	-	-	-	-	SURE	الجنوس جمع جنس
+HFN-E-95b17c1bff#2	OTHER_SENSE	-	-	-	-	-	SURE	جنوس جمع جنس
+HFN-E-95b17c1bff#3	OTHER_SENSE	-	-	-	-	-	SURE	جنس: اسم
+HFN-E-95b17c1bff#4	OTHER_SENSE	-	-	-	-	-	SURE	جنس: اسم
+HFN-E-95b17c1bff#5	OTHER_SENSE	-	-	-	-	-	SURE	جنس: اسم
+HFN-E-a4363123b4#1	YES	فاعل	التزام	عاديّ	مطلق	موص	UNSURE	فمن خاف من موص جنفا
+HFN-E-a4363123b4#2	YES	محلّ	تضمّن	-	-	الرجل	SURE	في الرجل عوج من أحد شقيه قيل به جنف
+HFN-E-43e1e2b564#1	NO_DHAT	-	-	-	-	-	SURE	الجهد - المشقة
+HFN-E-43e1e2b564#2	NO_DHAT	-	-	-	-	-	SURE	العطش يتبعه الذبول والجهد
+HFN-E-43e1e2b564#3	NO_DHAT	-	-	-	-	-	SURE	لا يدع عنده شيأ من الجهد
+HFN-E-43e1e2b564#4	NO_DHAT	-	-	-	-	-	SURE	أن تبلغ في الأمر جهد
+HFN-E-43e1e2b564#5	NO_DHAT	-	-	-	-	-	SURE	لا يدع عنده شيأ من الجهد
+HFN-E-f61385abac#1	NO_DHAT	-	-	-	-	-	UNSURE	الجهد - المشقة
+HFN-E-f61385abac#2	NO_DHAT	-	-	-	-	-	UNSURE	يتبعه الذبول والجهد
+HFN-E-f61385abac#3	NO_DHAT	-	-	-	-	-	UNSURE	من الجهد
+HFN-E-f61385abac#4	NO_DHAT	-	-	-	-	-	UNSURE	تبلغ في الأمر جهد
+HFN-E-f61385abac#5	NO_DHAT	-	-	-	-	-	UNSURE	من الجهد
+HFN-E-827653da42#1	NO_DHAT	-	-	-	-	-	SURE	جهر بكلامه يجهر جهرا
+HFN-E-827653da42#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل جهير ذو منظر بين الجهارة والجهر
+HFN-E-827653da42#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الأجهر بالنهار: من جَهِر
+HFN-E-827653da42#4	NO_DHAT	-	-	-	-	-	SURE	الأجش الجهر بالصوت
+HFN-E-827653da42#5	YES	فاعل	التزام	عاديّ	مطلق	عيني	UNSURE	لمن جهر؛ تجتهره عيني
+HFN-E-ca0919c05c#1	OTHER_SENSE	-	-	-	-	-	SURE	جهر بكلامه: جَهَر لا جَهِر
+HFN-E-ca0919c05c#2	OTHER_SENSE	-	-	-	-	-	SURE	منظر الجهر: جَهُر
+HFN-E-ca0919c05c#3	YES	فاعل	التزام	عاديّ	مطلق	الشمس	UNSURE	أجهرته الشمس أسدرت بصره
+HFN-E-ca0919c05c#4	OTHER_SENSE	-	-	-	-	-	SURE	الجهر بالصوت: جَهَر
+HFN-E-ca0919c05c#5	OTHER_SENSE	-	-	-	-	-	UNSURE	تجتهره عيني: جَهَر
+HFN-E-4b3951c902#1	NO_DHAT	-	-	-	-	-	SURE	الجهير الصوت العالي وهو الجهر
+HFN-E-4b3951c902#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل جهير ذو منظر بين الجهارة
+HFN-E-4b3951c902#3	OTHER_SENSE	-	-	-	-	-	SURE	الأجهر بالنهار: جَهِر
+HFN-E-4b3951c902#4	NO_DHAT	-	-	-	-	-	SURE	الأجش الجهر بالصوت
+HFN-E-4b3951c902#5	OTHER_SENSE	-	-	-	-	-	UNSURE	لمن جهر: رؤية لا جهارة
+HFN-E-8bd2e36777#1	OTHER_SENSE	-	-	-	-	-	SURE	الجهاز: الفرج
+HFN-E-8bd2e36777#2	OTHER_SENSE	-	-	-	-	-	SURE	جهاز المرأة حياؤها
+HFN-E-8bd2e36777#3	OTHER_SENSE	-	-	-	-	-	SURE	الجهاز: الفرج
+HFN-E-8bd2e36777#4	YES	محلّ	التزام	عاديّ	مطلق	العروس	SURE	جهاز العروس... وقد تجهز وجهزته وكذلك الميت
+HFN-E-29398865c0#1	NO_DHAT	-	-	-	-	-	UNSURE	الجهش - الأصوات
+HFN-E-29398865c0#2	NO_DHAT	-	-	-	-	-	UNSURE	جهشت نفسي؛ النفس ليست محسوسة
+HFN-E-0d577875b6#1	NO_DHAT	-	-	-	-	-	SURE	عنوان: الجهل
+HFN-E-0d577875b6#2	NO_DHAT	-	-	-	-	-	SURE	خلاف الجهل به
+HFN-E-0d577875b6#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل خروط... راكبا رأسه بالجهل
+HFN-E-0d577875b6#4	OTHER_SENSE	-	-	-	-	-	SURE	أبو جهل: علم
+HFN-E-0d577875b6#5	NO_DHAT	-	-	-	-	-	UNSURE	وما حل من جهل حبا حلمائنا
+HFN-E-285966088b#1	YES	محلّ	تضمّن	-	-	الوجوه	UNSURE	ومن الوجوه الجهم وهو الغليظ الضخم
+HFN-E-285966088b#2	YES	محلّ	تضمّن	-	-	الوجوه	UNSURE	الجهم من الوجوه - الغليظ المجتمع
+HFN-E-285966088b#3	YES	محلّ	تضمّن	-	-	ركب	UNSURE	ركب جهم كذلك وقد جهم
+HFN-E-285966088b#4	YES	محلّ	التزام	عاديّ	مطلق	حر	UNSURE	حر يملأ الكفين جهم
+HFN-E-285966088b#5	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	جهمت الرجل مثل تجهمته؛ رجل جهم
+HFN-E-b12d58d256#1	YES	محلّ	تضمّن	-	-	الوجوه	SURE	ومن الوجوه الجهم وهو الغليظ الضخم
+HFN-E-b12d58d256#2	YES	محلّ	تضمّن	-	-	الوجوه	SURE	الجهم من الوجوه - الغليظ المجتمع
+HFN-E-b12d58d256#3	YES	محلّ	تضمّن	-	-	ركب	UNSURE	ركب جهم كذلك وقد جهم
+HFN-E-b12d58d256#4	YES	محلّ	التزام	عاديّ	مطلق	حر	UNSURE	حر يملأ الكفين جهم
+HFN-E-b12d58d256#5	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل جهم بين الجهامة والجهومة
+HFN-E-5fdeb60a53#1	YES	محلّ	تضمّن	-	-	الوجوه	SURE	ومن الوجوه الجهم وهو الغليظ الضخم
+HFN-E-5fdeb60a53#2	YES	محلّ	تضمّن	-	-	الوجوه	SURE	الجهم من الوجوه - الغليظ المجتمع
+HFN-E-5fdeb60a53#3	YES	محلّ	تضمّن	-	-	ركب	UNSURE	ركب جهم كذلك وقد جهم
+HFN-E-5fdeb60a53#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الجهام: سحاب لا ماء فيه، اسم ذات
+HFN-E-5fdeb60a53#5	YES	محلّ	التزام	عاديّ	مطلق	حر	UNSURE	حر يملأ الكفين جهم
+HFN-E-b51a6ad75a#1	OTHER_SENSE	-	-	-	-	-	UNSURE	مستنقع الماء من الجوب: اسم
+HFN-E-b51a6ad75a#2	OTHER_SENSE	-	-	-	-	-	SURE	الجأب: الحمار الغليظ
+HFN-E-b51a6ad75a#3	YES	محلّ	التزام	عاديّ	مطلق	جيبه	UNSURE	جبته قورت جيبه؛ الجوب التقوير
+HFN-E-b51a6ad75a#4	OTHER_SENSE	-	-	-	-	-	SURE	الجوب الترس؛ جوبت به
+HFN-E-b51a6ad75a#5	OTHER_SENSE	-	-	-	-	-	SURE	واجب ووجوب: جذر آخر
+HFN-E-3cef9408dd#1	YES	محلّ	تضمّن	-	-	البطن	SURE	الجوث استرخاء أسفل البطن رجل أجوث
+HFN-E-a5cb5b2b57#1	OTHER_SENSE	-	-	-	-	-	SURE	وجاح أي ستر: جذر آخر
+HFN-E-a5cb5b2b57#2	NO_DHAT	-	-	-	-	-	SURE	جاح الشيء استأصله
+HFN-E-df3c51203e#1	YES	فاعل	تضمّن	-	-	السيل	UNSURE	جاخ السيل الوادي اقتلع جرفته؛ الوادي محلّ
+HFN-E-765004729f#1	YES	فاعل	التزام	عاديّ	مطلق	فرس	SURE	فرس جواد وقد جاد في عدوه
+HFN-E-765004729f#2	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل جواد بين الجود
+HFN-E-765004729f#3	OTHER_SENSE	-	-	-	-	-	SURE	يجد والجد: جذر جدد
+HFN-E-765004729f#4	OTHER_SENSE	-	-	-	-	-	UNSURE	جيد جوادا: عطش، معنى بعيد
+HFN-E-765004729f#5	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل نال - جواد
+HFN-E-94be557868#1	YES	فاعل	التزام	عاديّ	مطلق	الوالي	UNSURE	يقال للوالي إذا جار وظلم
+HFN-E-94be557868#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الجوار: الماء الكثير
+HFN-E-94be557868#3	NO_DHAT	-	-	-	-	-	SURE	جرت عنه جورا عدلت؛ كل من مال جار
+HFN-E-94be557868#4	OTHER_SENSE	-	-	-	-	-	SURE	جوار: جمع جارية
+HFN-E-94be557868#5	OTHER_SENSE	-	-	-	-	-	SURE	جوار بالذوائب: جمع جارية
+HFN-E-450620fa18#1	OTHER_SENSE	-	-	-	-	-	SURE	الجوز: شجر وثمر
+HFN-E-450620fa18#2	OTHER_SENSE	-	-	-	-	-	SURE	شجر جوز
+HFN-E-450620fa18#3	NO_DHAT	-	-	-	-	-	UNSURE	كما جاز في الصفة: حكم نحوي
+HFN-E-450620fa18#4	NO_DHAT	-	-	-	-	-	UNSURE	جاز فتح اللام
+HFN-E-450620fa18#5	NO_DHAT	-	-	-	-	-	UNSURE	لا يجوز... لو جاز
+HFN-E-f5f2a21c0e#1	OTHER_SENSE	-	-	-	-	-	SURE	الجوس: الجوع
+HFN-E-f5f2a21c0e#2	YES	مكان	تضمّن	-	-	الدور	SURE	الجوس التردد خلال الدور والبيوت
+HFN-E-0ed02e9642#1	OTHER_SENSE	-	-	-	-	-	SURE	الجوف: اسم عضو
+HFN-E-0ed02e9642#2	OTHER_SENSE	-	-	-	-	-	SURE	يصل إلى الجوف: اسم
+HFN-E-0ed02e9642#3	OTHER_SENSE	-	-	-	-	-	SURE	لم تدخل الجوف: اسم
+HFN-E-0ed02e9642#4	OTHER_SENSE	-	-	-	-	-	SURE	جاف غليظ: جذر جفو
+HFN-E-0ed02e9642#5	OTHER_SENSE	-	-	-	-	-	SURE	عظيم الجوف: اسم
+HFN-E-390679fcfd#1	OTHER_SENSE	-	-	-	-	-	SURE	انتفاخ الجوف: اسم
+HFN-E-390679fcfd#2	OTHER_SENSE	-	-	-	-	-	SURE	يصل إلى الجوف: اسم
+HFN-E-390679fcfd#3	OTHER_SENSE	-	-	-	-	-	SURE	لم تدخل الجوف: اسم
+HFN-E-390679fcfd#4	OTHER_SENSE	-	-	-	-	-	SURE	يهوي في الجوف: اسم
+HFN-E-390679fcfd#5	OTHER_SENSE	-	-	-	-	-	SURE	المنتفخ الجوف: اسم
+HFN-E-a571d77514#1	OTHER_SENSE	-	-	-	-	-	SURE	جال ولا جول: عزيمة
+HFN-E-a571d77514#2	OTHER_SENSE	-	-	-	-	-	SURE	الجول لب الإنسان
+HFN-E-a571d77514#3	YES	مكان	التزام	عاديّ	مطلق	الأرض	SURE	جال في الأرض جولا وجولانا
+HFN-E-a571d77514#4	OTHER_SENSE	-	-	-	-	-	SURE	الجول ناحية القبر
+HFN-E-a571d77514#5	OTHER_SENSE	-	-	-	-	-	SURE	الجال والجول نواحي البئر
+HFN-E-f557190c5e#1	OTHER_SENSE	-	-	-	-	-	UNSURE	جاه: زجر الذكور، اسم صوت
+HFN-E-f557190c5e#2	OTHER_SENSE	-	-	-	-	-	SURE	الجاه: المنزلة
+HFN-E-f557190c5e#3	OTHER_SENSE	-	-	-	-	-	SURE	له جاه عند السلطان
+HFN-E-f557190c5e#4	OTHER_SENSE	-	-	-	-	-	SURE	وجوه: جذر وجه
+HFN-E-f557190c5e#5	OTHER_SENSE	-	-	-	-	-	SURE	له جاه عند السلطان
+HFN-E-c5bf4de820#1	YES	محلّ	تضمّن	-	-	الصدر	SURE	الجوي داء يأخذ في الصدر وقد جوي
+HFN-E-c5bf4de820#2	NO_DHAT	-	-	-	-	-	SURE	الجوي الذي قد سل وقد جوي
+HFN-E-c5bf4de820#3	YES	محلّ	تضمّن	-	-	الصدر	UNSURE	الجوى السل... أنه داء في الصدر
+HFN-E-c5bf4de820#4	YES	محلّ	تضمّن	-	-	الطعام	UNSURE	جويت الطعام جوى إذا كرهته
+HFN-E-c5bf4de820#5	NO_DHAT	-	-	-	-	-	SURE	الجوى - الهوى الباطن
+HFN-E-f9011f3892#1	YES	محلّ	تضمّن	-	-	القميص	UNSURE	جبت القميص إذا قورت جيبه
+HFN-E-f9011f3892#2	OTHER_SENSE	-	-	-	-	-	SURE	ولا جيب: اسم
+HFN-E-f9011f3892#3	OTHER_SENSE	-	-	-	-	-	SURE	الجأب: الحمار
+HFN-E-f9011f3892#4	OTHER_SENSE	-	-	-	-	-	SURE	جيب فتاتهم: اسم
+HFN-E-f9011f3892#5	OTHER_SENSE	-	-	-	-	-	SURE	جأب: الحمار الغليظ
+HFN-E-d8b51643f8#1	OTHER_SENSE	-	-	-	-	-	SURE	حسانة الجيد: العنق
+HFN-E-d8b51643f8#2	OTHER_SENSE	-	-	-	-	-	SURE	الجيد نقيض الرديء: جذر جود
+HFN-E-d8b51643f8#3	OTHER_SENSE	-	-	-	-	-	SURE	جيد الكلام: جذر جود
+HFN-E-d8b51643f8#4	OTHER_SENSE	-	-	-	-	-	SURE	جيد الصلة: جذر جود
+HFN-E-d8b51643f8#5	OTHER_SENSE	-	-	-	-	-	SURE	ليس بالجيد: جذر جود
+HFN-E-ecaea89888#1	YES	محلّ	التزام	عاديّ	مطلق	الماء	SURE	إذا مد الماء جاش وإذا جاش ارتفع
+HFN-E-ecaea89888#2	OTHER_SENSE	-	-	-	-	-	SURE	الجأش: القلب، جذر آخر
+HFN-E-ecaea89888#3	YES	فاعل	التزام	عاديّ	مطلق	قوم	SURE	إذا جاش قوم لنفير أو لحرب
+HFN-E-ecaea89888#4	YES	محلّ	تضمّن	-	-	القدر	UNSURE	جاشت القدر جيشا غلت
+HFN-E-ecaea89888#5	OTHER_SENSE	-	-	-	-	-	SURE	الجيوش: جمع جيش
+HFN-E-7e18042c55#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	حبج الرجل إذا أطم عليه فورم بطنه
+HFN-E-7e18042c55#2	YES	محلّ	تضمّن	-	-	بطنه	UNSURE	حبج الرجل - ورم بطنه؛ الرجل
+HFN-E-7e18042c55#3	YES	محلّ	تضمّن	-	-	بطنه	SURE	حبج بطنه حبجا عظم وانتفخ
+HFN-E-7e18042c55#4	YES	فاعل	تضمّن	-	-	الإبل	UNSURE	حبج يحبج: هو ضراط الإبل خاصة
+HFN-E-7e18042c55#5	YES	مصدر	تضمّن	-	-	العرفج	UNSURE	أكلت العرفج فاجتمع في بطونها... قيل حبجت
+HFN-E-834de0b0cd#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الحبر صفرة الأسنان: معنى بعيد عن حبره
+HFN-E-834de0b0cd#2	OTHER_SENSE	-	-	-	-	-	SURE	الحبر: العالم
+HFN-E-834de0b0cd#3	OTHER_SENSE	-	-	-	-	-	UNSURE	حبر حبرا: أثر الجرح، معنى بعيد
+HFN-E-834de0b0cd#4	OTHER_SENSE	-	-	-	-	-	SURE	حبر: عالم
+HFN-E-834de0b0cd#5	YES	مكان	التزام	عاديّ	مطلق	روضة	UNSURE	في روضة يحبرون أي يسرون
+HFN-E-0471dba1cd#1	YES	محلّ	تضمّن	-	-	الأسنان	SURE	في الأسنان الحبر وهو صفرة تركبها
+HFN-E-0471dba1cd#2	OTHER_SENSE	-	-	-	-	-	SURE	الحبر: العالم
+HFN-E-0471dba1cd#3	YES	محلّ	تضمّن	-	-	الجرح	UNSURE	إذا بقيت للجرح آثار... وحبر حبرا
+HFN-E-0471dba1cd#4	OTHER_SENSE	-	-	-	-	-	SURE	حبر: عالم
+HFN-E-0471dba1cd#5	YES	مكان	التزام	عاديّ	مطلق	روضة	UNSURE	في روضة يحبرون أي يسرون
+HFN-E-fd8d2e0dfc#1	NO_DHAT	-	-	-	-	-	SURE	حبسته عن ذلك الأمر
+HFN-E-fd8d2e0dfc#2	NO_DHAT	-	-	-	-	-	SURE	كل من حبس شيئا فقد صبره
+HFN-E-fd8d2e0dfc#3	YES	محلّ	التزام	عاديّ	مطلق	الماء	UNSURE	حجارة تبنى على مجرى الماء لتحتبس الماء؛ حجارة آلة
+HFN-E-fd8d2e0dfc#4	NO_DHAT	-	-	-	-	-	SURE	كأنه حبس عليه عقله
+HFN-E-fd8d2e0dfc#5	NO_DHAT	-	-	-	-	-	UNSURE	مشتق من العقل وهو الحبس
+HFN-E-c0006b02b6#1	YES	آلة	تضمّن	-	-	القوس	UNSURE	أن تنزع في القوس ثم ترسله؛ الرامي
+HFN-E-c0006b02b6#2	YES	محلّ	تضمّن	-	-	الماء	SURE	حبض ماء الركية يحبض انحدر ونقص
+HFN-E-c0006b02b6#3	YES	محلّ	تضمّن	-	-	الماء	UNSURE	حبض ماء الركية إذا انحدر ونقص
+HFN-E-c0006b02b6#4	YES	فاعل	التزام	عاديّ	مطلق	القوس	UNSURE	عاثت القوس... سمعت لها بعد حبض
+HFN-E-b862500d0e#1	OTHER_SENSE	-	-	-	-	-	UNSURE	حبض السهم: حَبَض بالفتح
+HFN-E-b862500d0e#2	OTHER_SENSE	-	-	-	-	-	UNSURE	حبض ماء الركية: حَبَض بالفتح
+HFN-E-b862500d0e#3	OTHER_SENSE	-	-	-	-	-	UNSURE	أحبض حقي: حَبَض بالفتح
+HFN-E-b862500d0e#4	YES	فاعل	التزام	عاديّ	مطلق	القوس	UNSURE	عاثت القوس... سمعت لها بعد حبض
+HFN-E-cb3179b81b#1	NO_DHAT	-	-	-	-	-	UNSURE	حبط حبطا كاظرورى
+HFN-E-cb3179b81b#2	YES	محلّ	تضمّن	-	-	الجرح	UNSURE	إذا بقيت للجرح آثار... وحبط حبطا
+HFN-E-cb3179b81b#3	YES	محلّ	تضمّن	-	-	الضرع	SURE	والحبط في الضرع أهون الورم
+HFN-E-b4dddde871#1	NO_DHAT	-	-	-	-	-	SURE	حبق يحبق... الحبق - الضراط
+HFN-E-b4dddde871#2	OTHER_SENSE	-	-	-	-	-	SURE	الحبق: الفوذنج نبات
+HFN-E-b4dddde871#3	YES	فاعل	التزام	عاديّ	مطلق	العنز	SURE	حبقت العنز تحبق حبقا
+HFN-E-b4dddde871#4	OTHER_SENSE	-	-	-	-	-	SURE	الحبق: نبات
+HFN-E-b4dddde871#5	OTHER_SENSE	-	-	-	-	-	SURE	الحبق نبات طيب الرائحة
+HFN-E-621099b36b#1	OTHER_SENSE	-	-	-	-	-	SURE	حبكة وحباك: قدّة
+HFN-E-621099b36b#2	OTHER_SENSE	-	-	-	-	-	UNSURE	حبك الماء طرائقه: اسم
+HFN-E-621099b36b#3	OTHER_SENSE	-	-	-	-	-	SURE	الحبيكة طريقة من الشعر
+HFN-E-621099b36b#4	YES	محلّ	تضمّن	-	-	حجزتك	UNSURE	الحبكة أن ترخي من أثناء حجزتك
+HFN-E-621099b36b#5	OTHER_SENSE	-	-	-	-	-	SURE	الحبك طرائق البيض
+HFN-E-011389aad2#1	OTHER_SENSE	-	-	-	-	-	SURE	حبل: اسم
+HFN-E-011389aad2#2	OTHER_SENSE	-	-	-	-	-	SURE	حبل في رسغ رجله: اسم
+HFN-E-011389aad2#3	OTHER_SENSE	-	-	-	-	-	SURE	حبل من الرمل: اسم
+HFN-E-011389aad2#4	OTHER_SENSE	-	-	-	-	-	UNSURE	حبل الحبلة: حمل، فعل آخر
+HFN-E-011389aad2#5	OTHER_SENSE	-	-	-	-	-	SURE	حبل الخطام: اسم
+HFN-E-f968cce840#1	OTHER_SENSE	-	-	-	-	-	SURE	حبل: اسم
+HFN-E-f968cce840#2	OTHER_SENSE	-	-	-	-	-	SURE	حبل: اسم
+HFN-E-f968cce840#3	OTHER_SENSE	-	-	-	-	-	SURE	حبل من الرمل: اسم
+HFN-E-f968cce840#4	YES	محلّ	تضمّن	-	-	امرأة	SURE	امرأة حبلى حامل؛ الإبل حوامل
+HFN-E-f968cce840#5	OTHER_SENSE	-	-	-	-	-	SURE	حبل الخطام: اسم
+HFN-E-1edf41f64f#1	YES	محلّ	تضمّن	-	-	الجسد	SURE	الحبن داء يعتري الجسد فيقيح منه ويرم
+HFN-E-1edf41f64f#2	YES	محلّ	التزام	عاديّ	مطلق	البطن	UNSURE	السقي ماء يقع في البطن والأحبن الذي به السقي
+HFN-E-1edf41f64f#3	YES	محلّ	تضمّن	-	-	البطن	SURE	مشتق من الحبن وهو داء يأخذ في البطن
+HFN-E-1edf41f64f#4	OTHER_SENSE	-	-	-	-	-	SURE	الحبن: الدفلى شجر
+HFN-E-1edf41f64f#5	OTHER_SENSE	-	-	-	-	-	SURE	الحبن - الدفلى
+HFN-E-37cf74d244#1	YES	مكان	تضمّن	-	-	المكان	UNSURE	حتد بالمكان يحتد حتدا أقام
+HFN-E-41f9c9dffe#1	YES	محلّ	التزام	عاديّ	مطلق	البيت	UNSURE	الحتر ما يوصل بأسفل الخباء... وقد حترت البيت
+HFN-E-41f9c9dffe#2	NO_DHAT	-	-	-	-	-	SURE	الحتر حدة النظر حتره يحتره
+HFN-E-41f9c9dffe#3	YES	فاعل	التزام	عاديّ	مطلق	أم عيال	UNSURE	إذا حترتهم؛ الذي يقدر على أهله
+HFN-E-41f9c9dffe#4	NO_DHAT	-	-	-	-	-	SURE	الحتر الأكل الشديد وما حترت شيئا
+HFN-E-41f9c9dffe#5	OTHER_SENSE	-	-	-	-	-	SURE	الحتر: ذكر الثعالب
+HFN-E-0ab80b1a05#1	NO_DHAT	-	-	-	-	-	UNSURE	الحتف قضاء الموت؛ مات حتف أنفه
+HFN-E-0ab80b1a05#2	NO_DHAT	-	-	-	-	-	UNSURE	ومات حتف أنفيه
+HFN-E-0ab80b1a05#3	YES	محلّ	التزام	عاديّ	مطلق	الحباريات	UNSURE	حتف الحباريات والكراوين
+HFN-E-0ab80b1a05#4	YES	محلّ	التزام	عاديّ	مطلق	وحشي	SURE	لم يمت وحشي قط حتف أنفه
+HFN-E-3991deaa81#1	YES	آلة	تضمّن	-	-	الرجل	UNSURE	الحتك أن يقارب الخطو ويسرع رفع الرجل
+HFN-E-3991deaa81#2	YES	فاعل	التزام	عاديّ	مطلق	النعام	UNSURE	صغار النعام لأنه يحتك الرمل؛ الرمل محلّ
+HFN-E-b564842564#1	OTHER_SENSE	-	-	-	-	-	SURE	الحتل الرديء من الناس
+HFN-E-6183d8a40e#1	NO_DHAT	-	-	-	-	-	SURE	القضاء - الحتم
+HFN-E-bcf0e3d658#1	YES	محلّ	تضمّن	-	-	العين	SURE	الحثر خشونة في العين وقد حثرت
+HFN-E-bcf0e3d658#2	OTHER_SENSE	-	-	-	-	-	SURE	الحثر حب العنب: اسم
+HFN-E-bcf0e3d658#3	YES	محلّ	تضمّن	-	-	الدبس	SURE	حثر الدبس - خثر
+HFN-E-bbea2d63ff#1	YES	فاعل	التزام	عاديّ	مطلق	البواب	UNSURE	حجبته... والحاجب: البواب منه
+HFN-E-bbea2d63ff#2	OTHER_SENSE	-	-	-	-	-	SURE	حجاب ما بين المنخرين: اسم
+HFN-E-bbea2d63ff#3	NO_DHAT	-	-	-	-	-	SURE	الحجاب: ذكر صيغة المصدر
+HFN-E-bbea2d63ff#4	OTHER_SENSE	-	-	-	-	-	SURE	الحجاب: الصغير
+HFN-E-bbea2d63ff#5	OTHER_SENSE	-	-	-	-	-	SURE	بين فرجها ودبرها حجاب: اسم
+HFN-E-15a21f4854#1	OTHER_SENSE	-	-	-	-	-	SURE	الحجر: اسم
+HFN-E-15a21f4854#2	OTHER_SENSE	-	-	-	-	-	SURE	حجر وأحجار: اسم
+HFN-E-15a21f4854#3	OTHER_SENSE	-	-	-	-	-	SURE	ردأته بحجر: اسم
+HFN-E-15a21f4854#4	OTHER_SENSE	-	-	-	-	-	SURE	هضضت الحجر: اسم
+HFN-E-15a21f4854#5	OTHER_SENSE	-	-	-	-	-	SURE	دققت الحجر: اسم
+HFN-E-a0ff9dfe76#1	YES	فاعل	التزام	عاديّ	مطلق	الحجاز	UNSURE	سمي الحجاز لأنه فصل بين الغور والشام
+HFN-E-a0ff9dfe76#2	OTHER_SENSE	-	-	-	-	-	SURE	أهل الحجاز: علم
+HFN-E-a0ff9dfe76#3	OTHER_SENSE	-	-	-	-	-	SURE	أهل الحجاز: علم
+HFN-E-a0ff9dfe76#4	OTHER_SENSE	-	-	-	-	-	SURE	شد فوق الحجاز: حبل
+HFN-E-a0ff9dfe76#5	OTHER_SENSE	-	-	-	-	-	SURE	أرض نجد والحجاز: علم
+HFN-E-84064eb8d4#1	OTHER_SENSE	-	-	-	-	-	SURE	حجز الرجل: عشيرته
+HFN-E-84064eb8d4#2	OTHER_SENSE	-	-	-	-	-	SURE	الحجز أصل الرجل
+HFN-E-84064eb8d4#3	OTHER_SENSE	-	-	-	-	-	SURE	حجزة السراويل: اسم
+HFN-E-84064eb8d4#4	YES	محلّ	التزام	عاديّ	مطلق	تهامة ونجد	UNSURE	حجز بين تهامة ونجد؛ احتجز بالحرار
+HFN-E-84064eb8d4#5	OTHER_SENSE	-	-	-	-	-	SURE	الحجز ناحية الشيء
+HFN-E-945d54adec#1	OTHER_SENSE	-	-	-	-	-	SURE	الحجل: طائر
+HFN-E-945d54adec#2	OTHER_SENSE	-	-	-	-	-	SURE	الحجول: الخلاخيل
+HFN-E-945d54adec#3	YES	فاعل	تضمّن	-	-	الغراب	SURE	حجل الغراب يحجل مشى
+HFN-E-945d54adec#4	OTHER_SENSE	-	-	-	-	-	SURE	الحجل صغار الإبل
+HFN-E-945d54adec#5	YES	فاعل	التزام	عاديّ	مطلق	الغراب	SURE	والغراب يردي إذا حجل
+HFN-E-c37ae9abd3#1	OTHER_SENSE	-	-	-	-	-	SURE	الحجل: طائر
+HFN-E-c37ae9abd3#2	YES	فاعل	تضمّن	-	-	الغراب	UNSURE	حجل الغراب يحجل مشى
+HFN-E-c37ae9abd3#3	OTHER_SENSE	-	-	-	-	-	SURE	الحجول واحدها حجل: خلخال
+HFN-E-c37ae9abd3#4	OTHER_SENSE	-	-	-	-	-	SURE	الحجل صغار الإبل
+HFN-E-c37ae9abd3#5	YES	فاعل	التزام	عاديّ	مطلق	الغراب	UNSURE	والغراب يردي إذا حجل
+HFN-E-3f75b35337#1	YES	محلّ	تضمّن	-	-	ثدي	SURE	حجم ثدي الجارية يحجم حجوما نتأ
+HFN-E-3f75b35337#2	YES	فاعل	تضمّن	-	-	الصبي	SURE	ما حجم الصبي ثدي أمه أي ما مصه
+HFN-E-3f75b35337#3	YES	محلّ	التزام	عاديّ	مطلق	العظم	UNSURE	حجم العظم تحتها وحجمه نتوءه
+HFN-E-3f75b35337#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الأحجم الشديد حمرة العينين: معنى بعيد
+HFN-E-3f75b35337#5	OTHER_SENSE	-	-	-	-	-	UNSURE	حجم الرجل فتح عينيه: جحم، معنى بعيد
+HFN-E-28fc48825d#1	NO_DHAT	-	-	-	-	-	UNSURE	السيء الغذاء وكذلك الحجن وقد حجن
+HFN-E-28fc48825d#2	YES	محلّ	تضمّن	-	-	النبات	SURE	الحجن القليل القصير من النبات
+HFN-E-28fc48825d#3	YES	محلّ	التزام	عاديّ	مطلق	الإنسان	UNSURE	الإنسان ليس له حجن فيمسك الماء
+HFN-E-28fc48825d#4	YES	محلّ	تضمّن	-	-	المال	UNSURE	حجن المال ثقف مصلحته
+HFN-E-28fc48825d#5	YES	محلّ	تضمّن	-	-	منقار	SURE	منقار الصقر يقال له أحجن لتعقفه

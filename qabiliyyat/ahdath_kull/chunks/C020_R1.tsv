@@ -1,0 +1,254 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-24b666ec90#1	YES	محلّ	التزام	عاديّ	مطلق	الجسم	UNSURE	توليع البهق في الجسم؛ الحدّ بلا ذات
+HFN-E-eda0e9f5ba#1	YES	محلّ	التزام	عاديّ	مطلق	الناقة	UNSURE	فهي باهل: لا صرار عليها
+HFN-E-eda0e9f5ba#2	YES	محلّ	التزام	عاديّ	مطلق	الناقة	UNSURE	بهل ما يشد لها صرار
+HFN-E-eda0e9f5ba#3	YES	محلّ	تضمّن	-	-	الناقة	SURE	أبهلت الناقة تركتها وأهملتها
+HFN-E-eda0e9f5ba#4	NO_DHAT	-	-	-	-	-	UNSURE	الباهل التي لا سمة عليها
+HFN-E-eda0e9f5ba#5	YES	فاعل	التزام	عاديّ	مطلق	القوم	UNSURE	تباهل القوم: لعن بعضهم بعضا
+HFN-E-c6b589feef#1	YES	محلّ	التزام	عاديّ	مطلق	الناقة	UNSURE	فهي باهل: لا صرار عليها
+HFN-E-c6b589feef#2	YES	محلّ	التزام	عاديّ	مطلق	الناقة	UNSURE	بهل ما يشد لها صرار
+HFN-E-c6b589feef#3	YES	محلّ	تضمّن	-	-	الناقة	UNSURE	ناقة باهل بينة البهل
+HFN-E-c6b589feef#4	NO_DHAT	-	-	-	-	-	UNSURE	الباهل التي لا سمة عليها
+HFN-E-c6b589feef#5	OTHER_SENSE	-	-	-	-	-	UNSURE	البهل اللعن: معنى بعيد
+HFN-E-652a0af27a#1	OTHER_SENSE	-	-	-	-	-	SURE	وبها سمي: حرف جرّ وضمير
+HFN-E-652a0af27a#2	OTHER_SENSE	-	-	-	-	-	SURE	يقدح بها: حرف جرّ
+HFN-E-652a0af27a#3	OTHER_SENSE	-	-	-	-	-	SURE	التي بها كلأ
+HFN-E-652a0af27a#4	OTHER_SENSE	-	-	-	-	-	SURE	ضربته بها
+HFN-E-652a0af27a#5	OTHER_SENSE	-	-	-	-	-	SURE	ترمي بها
+HFN-E-058a507222#1	OTHER_SENSE	-	-	-	-	-	SURE	الباء حرف القسم
+HFN-E-058a507222#2	OTHER_SENSE	-	-	-	-	-	SURE	الباء حرف
+HFN-E-058a507222#3	OTHER_SENSE	-	-	-	-	-	SURE	الباء حرف مبدل
+HFN-E-058a507222#4	YES	محلّ	التزام	عاديّ	مطلق	فلانا	UNSURE	باء به بواء قتل به
+HFN-E-058a507222#5	OTHER_SENSE	-	-	-	-	-	SURE	التعدي بالباء
+HFN-E-05c9512a79#1	YES	مكان	تضمّن	-	-	المكان	SURE	باث المكان: حفر فيه وخلط ترابه
+HFN-E-05c9512a79#2	YES	مكان	تضمّن	-	-	المكان	SURE	باث المكان بوثا: بحثه وحفر فيه
+HFN-E-05c9512a79#3	OTHER_SENSE	-	-	-	-	-	UNSURE	بأث الأسافل: لفظ آخر
+HFN-E-05c9512a79#4	OTHER_SENSE	-	-	-	-	-	SURE	بحوث بوث: الشيء الكثير
+HFN-E-bff256ab0c#1	OTHER_SENSE	-	-	-	-	-	SURE	باج واحد أي سواء
+HFN-E-57a9487245#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل بؤوح بما في صدره
+HFN-E-57a9487245#2	OTHER_SENSE	-	-	-	-	-	SURE	بوح جمع الباحة
+HFN-E-57a9487245#3	OTHER_SENSE	-	-	-	-	-	SURE	وقعوا في بوح: اختلاط
+HFN-E-57a9487245#4	OTHER_SENSE	-	-	-	-	-	SURE	الباح الأرض الواسعة
+HFN-E-05c6946f7b#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	البوار الهلاك... ورجل بور
+HFN-E-05c6946f7b#2	OTHER_SENSE	-	-	-	-	-	SURE	بار من البرّ
+HFN-E-05c6946f7b#3	OTHER_SENSE	-	-	-	-	-	SURE	بار الحمل فارسي
+HFN-E-a149c4b444#1	OTHER_SENSE	-	-	-	-	-	SURE	البأس: الشدّة
+HFN-E-a149c4b444#2	OTHER_SENSE	-	-	-	-	-	SURE	لا بأس
+HFN-E-a149c4b444#3	OTHER_SENSE	-	-	-	-	-	SURE	البأس الحرب
+HFN-E-a149c4b444#4	OTHER_SENSE	-	-	-	-	-	SURE	إلباس الليل
+HFN-E-a149c4b444#5	OTHER_SENSE	-	-	-	-	-	SURE	إلباس الغيم الأرض
+HFN-E-ef3d2bc4eb#1	YES	محلّ	تضمّن	-	-	القوم	UNSURE	بوش القوم - خلطوا
+HFN-E-ef3d2bc4eb#2	OTHER_SENSE	-	-	-	-	-	SURE	البوش الإبل الوحشية: اسم
+HFN-E-ef3d2bc4eb#3	OTHER_SENSE	-	-	-	-	-	SURE	البوش البائش: الكثير
+HFN-E-ef3d2bc4eb#4	OTHER_SENSE	-	-	-	-	-	SURE	البش اللطف
+HFN-E-71b557d27e#1	OTHER_SENSE	-	-	-	-	-	SURE	البوص العجز
+HFN-E-71b557d27e#2	OTHER_SENSE	-	-	-	-	-	SURE	البوص اللون
+HFN-E-71b557d27e#3	OTHER_SENSE	-	-	-	-	-	SURE	البوص وهو العجز
+HFN-E-71b557d27e#4	NO_DHAT	-	-	-	-	-	SURE	البوص الذي هو الفوت
+HFN-E-71b557d27e#5	YES	فاعل	التزام	عاديّ	مطلق	القطا	UNSURE	قطا باص أسراب القطا
+HFN-E-0ac332bea7#1	YES	محلّ	تضمّن	-	-	الحبل	UNSURE	باع الحبل بوعا مد يده معه
+HFN-E-0ac332bea7#2	OTHER_SENSE	-	-	-	-	-	SURE	باع إبله: من البيع
+HFN-E-0ac332bea7#3	OTHER_SENSE	-	-	-	-	-	SURE	حذنتاها باع: اسم
+HFN-E-0ac332bea7#4	OTHER_SENSE	-	-	-	-	-	SURE	طويل الباع: اسم
+HFN-E-0ac332bea7#5	OTHER_SENSE	-	-	-	-	-	SURE	قصير الباع: اسم
+HFN-E-49fc2c4ef6#1	OTHER_SENSE	-	-	-	-	-	UNSURE	بوقة دفعة من المطر: اسم
+HFN-E-49fc2c4ef6#2	OTHER_SENSE	-	-	-	-	-	SURE	البوق آلة ينفخ فيها
+HFN-E-49fc2c4ef6#3	OTHER_SENSE	-	-	-	-	-	SURE	باق على الشدة: من البقاء
+HFN-E-49fc2c4ef6#4	OTHER_SENSE	-	-	-	-	-	SURE	خاق باق حكاية
+HFN-E-49fc2c4ef6#5	OTHER_SENSE	-	-	-	-	-	SURE	أثر باق: من البقاء
+HFN-E-2555e9ce11#1	OTHER_SENSE	-	-	-	-	-	SURE	أول صوك وبوك
+HFN-E-2555e9ce11#2	YES	فاعل	تضمّن	-	-	الحمار	SURE	باك الحمارة بوكا أتاها
+HFN-E-2555e9ce11#3	YES	محلّ	تضمّن	-	-	القوم	UNSURE	باك القوم رأيهم بوكا اختلط عليهم
+HFN-E-2555e9ce11#4	OTHER_SENSE	-	-	-	-	-	SURE	باك جمعه البكي: من البكاء
+HFN-E-7a70c37938#1	OTHER_SENSE	-	-	-	-	-	SURE	لا ذكر للبون؛ راب روبا
+HFN-E-7a70c37938#2	OTHER_SENSE	-	-	-	-	-	SURE	ألبان: لفظ آخر
+HFN-E-7a70c37938#3	OTHER_SENSE	-	-	-	-	-	SURE	يعجنان بالبان: شجر
+HFN-E-7a70c37938#4	OTHER_SENSE	-	-	-	-	-	SURE	بون جمع البوان
+HFN-E-7a70c37938#5	OTHER_SENSE	-	-	-	-	-	SURE	لبون: من اللبن
+HFN-E-ef8b394d61#1	OTHER_SENSE	-	-	-	-	-	SURE	بيت: اسم مسكن
+HFN-E-ef8b394d61#2	OTHER_SENSE	-	-	-	-	-	SURE	بيت وأبيات: اسم
+HFN-E-ef8b394d61#3	OTHER_SENSE	-	-	-	-	-	SURE	متاع البيت: اسم
+HFN-E-ef8b394d61#4	OTHER_SENSE	-	-	-	-	-	SURE	بنيان البيت: اسم
+HFN-E-ef8b394d61#5	OTHER_SENSE	-	-	-	-	-	SURE	البيت المحرد: اسم
+HFN-E-53eb4b39f5#1	OTHER_SENSE	-	-	-	-	-	SURE	بيت: اسم مسكن
+HFN-E-53eb4b39f5#2	OTHER_SENSE	-	-	-	-	-	SURE	بيت وأبيات: اسم
+HFN-E-53eb4b39f5#3	OTHER_SENSE	-	-	-	-	-	SURE	متاع البيت: اسم
+HFN-E-53eb4b39f5#4	OTHER_SENSE	-	-	-	-	-	SURE	بنيان البيت: اسم
+HFN-E-53eb4b39f5#5	OTHER_SENSE	-	-	-	-	-	SURE	البيت المحرد: اسم
+HFN-E-19fb6c7d37#1	OTHER_SENSE	-	-	-	-	-	SURE	بيضة وبيض: اسم ذات
+HFN-E-19fb6c7d37#2	OTHER_SENSE	-	-	-	-	-	SURE	ثياب بيض: لون
+HFN-E-19fb6c7d37#3	OTHER_SENSE	-	-	-	-	-	SURE	كغرقئ بيض: اسم
+HFN-E-19fb6c7d37#4	OTHER_SENSE	-	-	-	-	-	SURE	ثياب بيض: لون
+HFN-E-19fb6c7d37#5	OTHER_SENSE	-	-	-	-	-	SURE	البيض: جمع بيضة السلاح
+HFN-E-3b0c11f06c#1	NO_DHAT	-	-	-	-	-	SURE	البيع ضد الشراء؛ الشيء ليس ذاتا
+HFN-E-3b0c11f06c#2	OTHER_SENSE	-	-	-	-	-	SURE	باع بوعا: بسط باعه
+HFN-E-3b0c11f06c#3	NO_DHAT	-	-	-	-	-	SURE	الإقالة في البيع
+HFN-E-3b0c11f06c#4	NO_DHAT	-	-	-	-	-	SURE	الغبن في البيع
+HFN-E-3b0c11f06c#5	NO_DHAT	-	-	-	-	-	SURE	دلس في البيع
+HFN-E-d13d73ac20#1	OTHER_SENSE	-	-	-	-	-	SURE	بين كل قبيلتين: ظرف
+HFN-E-d13d73ac20#2	OTHER_SENSE	-	-	-	-	-	SURE	بين الطخاف: ظرف
+HFN-E-d13d73ac20#3	OTHER_SENSE	-	-	-	-	-	SURE	بين إصبعين: ظرف
+HFN-E-d13d73ac20#4	OTHER_SENSE	-	-	-	-	-	SURE	ما بين الثنتين: ظرف
+HFN-E-d13d73ac20#5	OTHER_SENSE	-	-	-	-	-	SURE	حجزت بين الشيئين: ظرف
+HFN-E-c9907b1681#1	OTHER_SENSE	-	-	-	-	-	SURE	التبر الذهب غير المصوغ
+HFN-E-c9907b1681#2	NO_DHAT	-	-	-	-	-	UNSURE	التبار وقد تبره الله
+HFN-E-c9907b1681#3	OTHER_SENSE	-	-	-	-	-	SURE	حلي التبر: اسم
+HFN-E-0f2d932a7b#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	التبل أن يسقمه الهوى ورجل متبول
+HFN-E-0f2d932a7b#2	OTHER_SENSE	-	-	-	-	-	SURE	الحنطة تبل بالماء: من البلل
+HFN-E-0f2d932a7b#3	NO_DHAT	-	-	-	-	-	UNSURE	تبلهم الدهر: الدهر زمان لا فاعل
+HFN-E-0f2d932a7b#4	YES	فاعل	التزام	عاديّ	مطلق	فلان	UNSURE	لفلان عند فلان تبل
+HFN-E-db0b793c11#1	OTHER_SENSE	-	-	-	-	-	SURE	التبن: اسم نبات
+HFN-E-db0b793c11#2	OTHER_SENSE	-	-	-	-	-	SURE	الطين والتبن: اسم
+HFN-E-db0b793c11#3	OTHER_SENSE	-	-	-	-	-	SURE	دقاق التبن: اسم
+HFN-E-db0b793c11#4	OTHER_SENSE	-	-	-	-	-	SURE	التبن البلس: اسم شجر
+HFN-E-db0b793c11#5	NO_DHAT	-	-	-	-	-	UNSURE	والتبن للشر: فطنة
+HFN-E-8506e3fc86#1	OTHER_SENSE	-	-	-	-	-	SURE	التبن: اسم نبات
+HFN-E-8506e3fc86#2	OTHER_SENSE	-	-	-	-	-	SURE	الطين والتبن: اسم
+HFN-E-8506e3fc86#3	OTHER_SENSE	-	-	-	-	-	SURE	دقاق التبن: اسم
+HFN-E-8506e3fc86#4	OTHER_SENSE	-	-	-	-	-	SURE	التبن البلس: اسم شجر
+HFN-E-8506e3fc86#5	NO_DHAT	-	-	-	-	-	UNSURE	والتبن للشر: فطنة
+HFN-E-05c84f0edd#1	NO_DHAT	-	-	-	-	-	UNSURE	تجر يتجر تجارة
+HFN-E-05c84f0edd#2	YES	محلّ	التزام	عاديّ	مطلق	الخمر	UNSURE	التجار جلاب الخمر
+HFN-E-05c84f0edd#3	OTHER_SENSE	-	-	-	-	-	SURE	جرت الناقة تجر: من الجرّ
+HFN-E-05c84f0edd#4	YES	محلّ	التزام	عاديّ	مطلق	الثوب	UNSURE	المنابذة في التجر؛ الرجل فاعل
+HFN-E-05c84f0edd#5	OTHER_SENSE	-	-	-	-	-	SURE	تجر ذيلها: من الجرّ
+HFN-E-f53d72cff4#1	YES	محلّ	تضمّن	-	-	الطعام	UNSURE	التخمة سوء مغبة الطعام
+HFN-E-f53d72cff4#2	OTHER_SENSE	-	-	-	-	-	SURE	التخوم: حدود الأرض
+HFN-E-f53d72cff4#3	OTHER_SENSE	-	-	-	-	-	SURE	تخم ينخم نخما: من النخامة
+HFN-E-862bf4b9ff#1	OTHER_SENSE	-	-	-	-	-	SURE	ترب جمع تربة
+HFN-E-862bf4b9ff#2	OTHER_SENSE	-	-	-	-	-	SURE	الترب والجندل جواهر
+HFN-E-862bf4b9ff#3	OTHER_SENSE	-	-	-	-	-	SURE	ترب الندى: من ربّ
+HFN-E-862bf4b9ff#4	YES	محلّ	تضمّن	-	-	الرجل	SURE	ترب الرجل إذا لزق بالتراب
+HFN-E-862bf4b9ff#5	OTHER_SENSE	-	-	-	-	-	SURE	هو تربه: اللدة
+HFN-E-b7ca32a686#1	OTHER_SENSE	-	-	-	-	-	SURE	لم ترج: من الرجاء
+HFN-E-b7ca32a686#2	OTHER_SENSE	-	-	-	-	-	SURE	أسود ترج: علم مكان
+HFN-E-1e338fa9d2#1	NO_DHAT	-	-	-	-	-	SURE	الترح ضد الفرح وقد ترح
+HFN-E-fe6b8cccab#1	NO_DHAT	-	-	-	-	-	UNSURE	سموا الموت تارزا وقد ترز
+HFN-E-fe6b8cccab#2	YES	محلّ	التزام	عاديّ	مطلق	النبيذ	UNSURE	النبيذ إذا خمد فقد ترز
+HFN-E-fe6b8cccab#3	OTHER_SENSE	-	-	-	-	-	UNSURE	وبهما ترز: معنى غير الموت
+HFN-E-686ee7e513#1	NO_DHAT	-	-	-	-	-	UNSURE	سموا الموت تارزا وقد ترز
+HFN-E-686ee7e513#2	YES	محلّ	التزام	عاديّ	مطلق	النبيذ	UNSURE	النبيذ إذا خمد فقد ترز
+HFN-E-686ee7e513#3	OTHER_SENSE	-	-	-	-	-	UNSURE	وبهما ترز: معنى غير الموت
+HFN-E-1111a9f532#1	NO_DHAT	-	-	-	-	-	SURE	الترش خفة وتنزق وقد ترش
+HFN-E-1111a9f532#2	OTHER_SENSE	-	-	-	-	-	SURE	رشت ترش: من الرشّ
+HFN-E-067e5dd9e3#1	NO_DHAT	-	-	-	-	-	SURE	ترص هو تراصة؛ الشيء ليس ذاتا
+HFN-E-067e5dd9e3#2	YES	محلّ	التزام	عاديّ	مطلق	أفواقها	UNSURE	ترص أفواقها: أحكمها
+HFN-E-c38542f9d1#1	YES	فاعل	تضمّن	-	-	رجل	UNSURE	رجل ترع سريع إلى الشر
+HFN-E-c38542f9d1#2	OTHER_SENSE	-	-	-	-	-	SURE	الترعة الباب: اسم
+HFN-E-c38542f9d1#3	YES	محلّ	تضمّن	-	-	حوض	SURE	حوض ترع ملآن وقد ترع
+HFN-E-c38542f9d1#4	OTHER_SENSE	-	-	-	-	-	SURE	لم ترع: من الرعي
+HFN-E-c38542f9d1#5	OTHER_SENSE	-	-	-	-	-	SURE	لا ترع: من الرعي
+HFN-E-feaeb65df3#1	YES	فاعل	تضمّن	-	-	رجل	UNSURE	رجل ترع سريع إلى الشر
+HFN-E-feaeb65df3#2	YES	محلّ	تضمّن	-	-	حوض	SURE	حوض ترع ملآن وقد ترع
+HFN-E-feaeb65df3#3	OTHER_SENSE	-	-	-	-	-	SURE	الترعة الباب: اسم
+HFN-E-feaeb65df3#4	OTHER_SENSE	-	-	-	-	-	SURE	لم ترع: من الرعي
+HFN-E-feaeb65df3#5	OTHER_SENSE	-	-	-	-	-	SURE	لا ترع: من الرعي
+HFN-E-aad73021a4#1	YES	محلّ	تضمّن	-	-	الصبي	SURE	الترف تنعيم الغذاء للصبي
+HFN-E-aad73021a4#2	OTHER_SENSE	-	-	-	-	-	SURE	رفت ترف رفا: من الرفّ
+HFN-E-aad73021a4#3	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل مترف منعم موسع عليه
+HFN-E-cbd7d1043c#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	تركه تركا ورجل تراك
+HFN-E-cbd7d1043c#2	OTHER_SENSE	-	-	-	-	-	SURE	الترك: علم أمّة
+HFN-E-cbd7d1043c#3	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	قال رجل: بعد ترك التزويج
+HFN-E-cbd7d1043c#4	YES	فاعل	التزام	عاديّ	مطلق	أبي ذؤيب	UNSURE	فإنه ترك الهمزة من المسأب
+HFN-E-cbd7d1043c#5	YES	محلّ	التزام	عاديّ	مطلق	الفرس	SURE	جم الفرس وأجم ترك فلم يركب
+HFN-E-dfe2ddd071#1	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	تركه تركا ورجل تراك
+HFN-E-dfe2ddd071#2	OTHER_SENSE	-	-	-	-	-	SURE	الترك: علم أمّة
+HFN-E-dfe2ddd071#3	YES	فاعل	التزام	عاديّ	مطلق	رجل	UNSURE	قال رجل: بعد ترك التزويج
+HFN-E-dfe2ddd071#4	YES	فاعل	التزام	عاديّ	مطلق	أبي ذؤيب	UNSURE	فإنه ترك الهمزة من المسأب
+HFN-E-dfe2ddd071#5	YES	محلّ	التزام	عاديّ	مطلق	الفرس	UNSURE	جم الفرس وأجم ترك فلم يركب
+HFN-E-3c8b5ca5cf#1	OTHER_SENSE	-	-	-	-	-	SURE	ثلاث تسع: اسم ليال
+HFN-E-3c8b5ca5cf#2	OTHER_SENSE	-	-	-	-	-	SURE	صوت الرحل أو التسع: اسم
+HFN-E-3c8b5ca5cf#3	OTHER_SENSE	-	-	-	-	-	SURE	قدر تسع شاة: من الوسع
+HFN-E-3c8b5ca5cf#4	OTHER_SENSE	-	-	-	-	-	SURE	مجرى التسع: اسم
+HFN-E-3c8b5ca5cf#5	OTHER_SENSE	-	-	-	-	-	SURE	الثنتين والتسع: عدد
+HFN-E-027a949ea9#1	NO_DHAT	-	-	-	-	-	UNSURE	جهده المرض والتعب: ضمير بلا مرجع
+HFN-E-027a949ea9#2	YES	محلّ	التزام	عاديّ	مطلق	عين	UNSURE	عين خوصاء: الغؤر من تعب
+HFN-E-027a949ea9#3	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	يشتكي الرجل لحمه من مشي وتعب
+HFN-E-027a949ea9#4	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل ساغب؛ سغب جاع مع تعب
+HFN-E-027a949ea9#5	YES	محلّ	التزام	عاديّ	مطلق	الفم	UNSURE	الريق على الفم من عطش أو تعب
+HFN-E-b3674b9c2e#1	OTHER_SENSE	-	-	-	-	-	SURE	عرت الإبل تعر: من العرّ
+HFN-E-b3674b9c2e#2	OTHER_SENSE	-	-	-	-	-	SURE	التعار: من العرار
+HFN-E-b3674b9c2e#3	OTHER_SENSE	-	-	-	-	-	SURE	عارت تعار: من العور
+HFN-E-83de254b87#1	NO_DHAT	-	-	-	-	-	SURE	التعس أن لا ينتعش من عثرته
+HFN-E-83de254b87#2	YES	محلّ	التزام	عاديّ	مطلق	عبد	SURE	تعس عبد الدينار
+HFN-E-83de254b87#3	OTHER_SENSE	-	-	-	-	-	SURE	عست الناقة تعس: من العسّ
+HFN-E-83de254b87#4	YES	محلّ	تضمّن	-	-	وجهه	UNSURE	التعس أن يخر على وجهه
+HFN-E-83de254b87#5	NO_DHAT	-	-	-	-	-	UNSURE	فالتعس أدنى لها: لا مرجع
+HFN-E-fc8f30fca9#1	NO_DHAT	-	-	-	-	-	SURE	التعس أن لا ينتعش من عثرته
+HFN-E-fc8f30fca9#2	YES	محلّ	التزام	عاديّ	مطلق	عبد	SURE	تعس عبد الدينار
+HFN-E-fc8f30fca9#3	OTHER_SENSE	-	-	-	-	-	SURE	عست الناقة تعس: من العسّ
+HFN-E-fc8f30fca9#4	YES	محلّ	تضمّن	-	-	وجهه	UNSURE	التعس أن يخر على وجهه
+HFN-E-fc8f30fca9#5	NO_DHAT	-	-	-	-	-	UNSURE	فالتعس أدنى لها: لا مرجع
+HFN-E-d49170631e#1	YES	محلّ	تضمّن	-	-	عصبه	UNSURE	تعص تعصا شكى عصبه من المشي
+HFN-E-cff75ac185#1	OTHER_SENSE	-	-	-	-	-	SURE	علت تعل: من العلل
+HFN-E-cff75ac185#2	OTHER_SENSE	-	-	-	-	-	SURE	لا تعل: إعلال صرفي
+HFN-E-cff75ac185#3	OTHER_SENSE	-	-	-	-	-	SURE	لم تعل الواو: إعلال
+HFN-E-cff75ac185#4	OTHER_SENSE	-	-	-	-	-	SURE	تشرب نهلات وتعل: من العلل
+HFN-E-9650cd0c96#1	OTHER_SENSE	-	-	-	-	-	SURE	ما تغب نوافله: من الغبّ
+HFN-E-9650cd0c96#2	OTHER_SENSE	-	-	-	-	-	SURE	غبت تغب غبا: ورد الإبل
+HFN-E-9650cd0c96#3	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	ما في الرجل تغبة وقد تغب
+HFN-E-b31fe5b1bc#1	OTHER_SENSE	-	-	-	-	-	SURE	تغر غرارة: من الغرارة
+HFN-E-b31fe5b1bc#2	YES	محلّ	تضمّن	-	-	جرح	UNSURE	إن سال منه الدم قيل جرح تغار
+HFN-E-b31fe5b1bc#3	OTHER_SENSE	-	-	-	-	-	SURE	لا تغار: من الغرار
+HFN-E-5f2496bad4#1	OTHER_SENSE	-	-	-	-	-	SURE	تغر غرارة: من الغرارة
+HFN-E-baed56e932#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	التفل ترك الطيب ورجل تفل
+HFN-E-b31504f1ae#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	التفل ترك الطيب ورجل تفل
+HFN-E-00e7ef7fcc#1	OTHER_SENSE	-	-	-	-	-	SURE	التلد ما ولد عندك من مالك: اسم
+HFN-E-00e7ef7fcc#2	OTHER_SENSE	-	-	-	-	-	SURE	تلد كما تلد: من الولادة
+HFN-E-00e7ef7fcc#3	YES	مكان	تضمّن	-	-	المكان	SURE	تلد بالمكان لزمه فلم يبرحه
+HFN-E-00e7ef7fcc#4	OTHER_SENSE	-	-	-	-	-	SURE	تلد عاما ذكرا: من الولادة
+HFN-E-00e7ef7fcc#5	OTHER_SENSE	-	-	-	-	-	SURE	التلدة تلاد المال: اسم
+HFN-E-018c4ba16d#1	OTHER_SENSE	-	-	-	-	-	SURE	تلد كما تلد: من الولادة
+HFN-E-018c4ba16d#2	YES	مكان	تضمّن	-	-	المكان	SURE	تلد بالمكان لزمه فلم يبرحه
+HFN-E-018c4ba16d#3	OTHER_SENSE	-	-	-	-	-	SURE	تلد عاما ذكرا: من الولادة
+HFN-E-018c4ba16d#4	OTHER_SENSE	-	-	-	-	-	SURE	التلد ما ولد عندك من مالك: اسم
+HFN-E-018c4ba16d#5	OTHER_SENSE	-	-	-	-	-	SURE	تلد الرجال: من الولادة
+HFN-E-caa986a15b#1	YES	محلّ	تضمّن	-	-	العنق	UNSURE	الأتلع الطويل أكثر ما يراد طول العنق
+HFN-E-caa986a15b#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل تلع رفيع
+HFN-E-caa986a15b#3	NO_DHAT	-	-	-	-	-	UNSURE	تلع النهار ارتفع: النهار فاعل لا زمان
+HFN-E-caa986a15b#4	YES	فاعل	تضمّن	-	-	الرجل	SURE	تلع الرجل أخرج رأسه واطلع
+HFN-E-caa986a15b#5	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	التلع طولها؛ فرس أتلع وتلعاء
+HFN-E-4d417d4b8a#1	YES	محلّ	تضمّن	-	-	العنق	UNSURE	الأتلع الطويل أكثر ما يراد طول العنق
+HFN-E-4d417d4b8a#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل تلع رفيع
+HFN-E-4d417d4b8a#3	NO_DHAT	-	-	-	-	-	UNSURE	تلع النهار ارتفع: النهار فاعل لا زمان
+HFN-E-4d417d4b8a#4	YES	فاعل	تضمّن	-	-	الرجل	SURE	تلع الرجل أخرج رأسه واطلع
+HFN-E-4d417d4b8a#5	YES	محلّ	التزام	عاديّ	مطلق	فرس	UNSURE	التلع طولها؛ فرس أتلع وتلعاء
+HFN-E-920015f514#1	NO_DHAT	-	-	-	-	-	SURE	الضرب الذي يحدث عن التلف
+HFN-E-920015f514#2	NO_DHAT	-	-	-	-	-	SURE	تلف تلفا هلك
+HFN-E-920015f514#3	OTHER_SENSE	-	-	-	-	-	SURE	لم تلف: من ألفى
+HFN-E-920015f514#4	OTHER_SENSE	-	-	-	-	-	SURE	تلف عليها البواري: من اللفّ
+HFN-E-920015f514#5	OTHER_SENSE	-	-	-	-	-	SURE	تلف على صدع: من اللفّ
+HFN-E-e5ab48e20c#1	OTHER_SENSE	-	-	-	-	-	SURE	شددت فتله: من الفتل
+HFN-E-e5ab48e20c#2	YES	محلّ	التزام	عاديّ	مطلق	فلانا	UNSURE	التله شبيه بالحيرة؛ فلانا يتتله
+HFN-E-e5ab48e20c#3	OTHER_SENSE	-	-	-	-	-	SURE	أي فتله: من الفتل
+HFN-E-e5ab48e20c#4	OTHER_SENSE	-	-	-	-	-	SURE	ويلين فتله: من الفتل
+HFN-E-e5ab48e20c#5	OTHER_SENSE	-	-	-	-	-	SURE	أذعف الرجل فتله: قتله
+HFN-E-8c673f75f9#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	تلى الرجل إذا كان بآخر رمق
+HFN-E-8c673f75f9#2	OTHER_SENSE	-	-	-	-	-	SURE	تلي أصول الأسنان: من الولي
+HFN-E-8c673f75f9#3	OTHER_SENSE	-	-	-	-	-	SURE	تلي مؤخر الناهض: من الولي
+HFN-E-8c673f75f9#4	OTHER_SENSE	-	-	-	-	-	SURE	تلي دأي العنق: من الولي
+HFN-E-8c673f75f9#5	OTHER_SENSE	-	-	-	-	-	SURE	تلي الساق: من الولي
+HFN-E-88fa459397#1	OTHER_SENSE	-	-	-	-	-	SURE	بر وتمر: اسم ثمر
+HFN-E-88fa459397#2	OTHER_SENSE	-	-	-	-	-	SURE	أجناس النخل والتمر: اسم
+HFN-E-88fa459397#3	OTHER_SENSE	-	-	-	-	-	SURE	كنز التمر: اسم
+HFN-E-88fa459397#4	OTHER_SENSE	-	-	-	-	-	SURE	بأسفل التمر: اسم
+HFN-E-88fa459397#5	OTHER_SENSE	-	-	-	-	-	SURE	جلال التمر: اسم
+HFN-E-9c4fd11612#1	YES	محلّ	تضمّن	-	-	اللحم	SURE	تمه اللحم تمها مثل الزهومة
+HFN-E-9c4fd11612#2	YES	محلّ	تضمّن	-	-	اللبن	SURE	تمه اللبن تغير ريحه وطعمه
+HFN-E-9c4fd11612#3	YES	محلّ	تضمّن	-	-	الدهن	SURE	تمه الدهن تمها تغير
+HFN-E-589a4d0c98#1	YES	مكان	تضمّن	-	-	المكان	SURE	تنخ بالمكان تنوخا أقام
+HFN-E-55440b45fe#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	تهم الرجل فهو تهم نام
+HFN-E-55440b45fe#2	YES	محلّ	التزام	عاديّ	مطلق	طعامه	UNSURE	في طعامه تهمة وقد تهم
+HFN-E-55440b45fe#3	YES	محلّ	التزام	عاديّ	مطلق	لحم	SURE	لحم تمه وتهم
+HFN-E-55440b45fe#4	OTHER_SENSE	-	-	-	-	-	SURE	يتهقم الطعام: لفظ آخر
+HFN-E-55440b45fe#5	OTHER_SENSE	-	-	-	-	-	SURE	همت تهم: من الهميم
+HFN-E-69bd68502b#1	YES	فاعل	التزام	عاديّ	مطلق	عباده	UNSURE	يقبل التوبة عن عباده
+HFN-E-69bd68502b#2	OTHER_SENSE	-	-	-	-	-	SURE	التاب الكبير: من التباب
+HFN-E-69bd68502b#3	OTHER_SENSE	-	-	-	-	-	SURE	التاب الضعيف: تب يتب
+HFN-E-69bd68502b#4	YES	فاعل	التزام	عاديّ	مطلق	اليهود	UNSURE	هاد وتهود تاب وبه سميت اليهود
+HFN-E-69bd68502b#5	OTHER_SENSE	-	-	-	-	-	SURE	التوأب الفرس القصير: اسم
+HFN-E-8720cedda8#1	OTHER_SENSE	-	-	-	-	-	SURE	فالتاع: من اللوعة
+HFN-E-8720cedda8#2	NO_DHAT	-	-	-	-	-	UNSURE	تاع يتيع توعا قاء
+HFN-E-8720cedda8#3	YES	فاعل	تضمّن	-	-	الماء	UNSURE	السيع الماء الجاري وكذلك تاع
+HFN-E-8720cedda8#4	YES	محلّ	تضمّن	-	-	السنبل	SURE	تاع السنبل يبس بعضه
+HFN-E-8720cedda8#5	YES	محلّ	تضمّن	-	-	لبأ	UNSURE	التوع كسرك لبأ بكسرة خبز؛ الخبز آلة

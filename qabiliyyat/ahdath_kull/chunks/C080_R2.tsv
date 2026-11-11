@@ -1,0 +1,252 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-16189180cf#1	OTHER_SENSE	-	-	-	-	-	SURE	الرمث من الحمض: اسم نبات
+HFN-E-16189180cf#2	OTHER_SENSE	-	-	-	-	-	UNSURE	رمث قطعة الحبل؛ الرمث بقية اللبن اسم
+HFN-E-16189180cf#3	OTHER_SENSE	-	-	-	-	-	SURE	المغافير تكون في الرمث: نبات
+HFN-E-16189180cf#4	YES	مكان	تضمّن	-	-	الضرع	UNSURE	رمث في الضرع أبقى؛ اللبن محلّ
+HFN-E-16189180cf#5	OTHER_SENSE	-	-	-	-	-	SURE	تنبت الرمث: نبات
+HFN-E-c9471c10b9#1	OTHER_SENSE	-	-	-	-	-	SURE	الرمث من الحمض: اسم نبات
+HFN-E-c9471c10b9#2	OTHER_SENSE	-	-	-	-	-	UNSURE	رمث قطعة الحبل؛ الرمث بقية اللبن اسم
+HFN-E-c9471c10b9#3	OTHER_SENSE	-	-	-	-	-	SURE	المغافير تكون في الرمث: نبات
+HFN-E-c9471c10b9#4	OTHER_SENSE	-	-	-	-	-	UNSURE	رمث في الضرع أبقى: معنى رَمَثَ لا رَمِثَ
+HFN-E-c9471c10b9#5	OTHER_SENSE	-	-	-	-	-	SURE	تنبت الرمث: نبات
+HFN-E-e08e53fe59#1	YES	آلة	تضمّن	-	-	الرمح	SURE	الرامح الطاعن بالرمح وقد رمحته
+HFN-E-e08e53fe59#2	OTHER_SENSE	-	-	-	-	-	SURE	الطعن بالرمح: الرمح اسم أداة
+HFN-E-e08e53fe59#3	OTHER_SENSE	-	-	-	-	-	SURE	نعوت الرماح: جمع رمح
+HFN-E-e08e53fe59#4	OTHER_SENSE	-	-	-	-	-	SURE	زرجه بالرمح: اسم أداة
+HFN-E-e08e53fe59#5	OTHER_SENSE	-	-	-	-	-	SURE	ورمح أصمع: اسم أداة
+HFN-E-955496d608#1	OTHER_SENSE	-	-	-	-	-	UNSURE	رمد رمدا فهو أرمد: وجع العين، رَمِدَ
+HFN-E-955496d608#2	YES	محلّ	التزام	عاديّ	مطلق	أصرام عاد	UNSURE	الرمد الموت؛ حين جللها الرمد
+HFN-E-955496d608#3	OTHER_SENSE	-	-	-	-	-	UNSURE	يستشفى به من الرمد: داء العين
+HFN-E-955496d608#4	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	رمدت اللحم
+HFN-E-5dce58abe7#1	YES	محلّ	تضمّن	-	-	العين	SURE	الرمد وجع العين وانتفاخها
+HFN-E-5dce58abe7#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الرمد الموت: معنى بعيد
+HFN-E-5dce58abe7#3	NO_DHAT	-	-	-	-	-	UNSURE	يستشفى به من الرمد؛ الحجر للشفاء لا للرمد
+HFN-E-5dce58abe7#4	OTHER_SENSE	-	-	-	-	-	SURE	رمدت اللحم: ألقيته في الرماد
+HFN-E-31e0ac3107#1	YES	آلة	تضمّن	-	-	اللسان	SURE	الرمز تصويت خفي باللسان؛ الشفتين
+HFN-E-31e0ac3107#2	YES	آلة	تضمّن	-	-	الحاجب	SURE	الرمز الإيماء بالحاجب؛ جارية رمازة
+HFN-E-d4fa3ffc57#1	OTHER_SENSE	-	-	-	-	-	UNSURE	جارية رمازة: من الرمز الإيماء
+HFN-E-d4fa3ffc57#2	OTHER_SENSE	-	-	-	-	-	SURE	الرمازة الاست؛ ترمزت ضرطت
+HFN-E-d4fa3ffc57#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	رجل رميز بين الرمازة؛ والثوب
+HFN-E-d4fa3ffc57#4	OTHER_SENSE	-	-	-	-	-	UNSURE	كتيبة رمازة تموج من نواحيها
+HFN-E-d4fa3ffc57#5	OTHER_SENSE	-	-	-	-	-	SURE	الرمز تصويت خفي: معنى بعيد
+HFN-E-c3a405d2ab#1	NO_DHAT	-	-	-	-	-	UNSURE	يرمس أي يدفن ويخفي؛ الصوت لا ذات
+HFN-E-c3a405d2ab#2	YES	مكان	التزام	عاديّ	مطلق	القبر	UNSURE	الرمس القبر؛ رمسته أرمسه ودفنته
+HFN-E-8a9c6a0ee0#1	OTHER_SENSE	-	-	-	-	-	SURE	الرمش الرمي رمشته بالحجر
+HFN-E-8a9c6a0ee0#2	YES	محلّ	تضمّن	-	-	الشفر	SURE	الرمش تفتل في الشفر؛ العين رمشاء
+HFN-E-8a9c6a0ee0#3	OTHER_SENSE	-	-	-	-	-	SURE	الرمش التناول بأطراف الأصابع
+HFN-E-b341dc4c93#1	YES	محلّ	التزام	عاديّ	مطلق	عينه	UNSURE	غبصت عينه كثر رمصها؛ الرمص ما جمد
+HFN-E-b341dc4c93#2	NO_DHAT	-	-	-	-	-	UNSURE	الرمص كالعمش
+HFN-E-b341dc4c93#3	OTHER_SENSE	-	-	-	-	-	UNSURE	يورثها الرمص وهو السلح: الغنم
+HFN-E-b341dc4c93#4	OTHER_SENSE	-	-	-	-	-	SURE	رمص الله مصيبتك جبرها
+HFN-E-315df12640#1	YES	محلّ	تضمّن	-	-	الأرض	SURE	الرمض أن يشتد حر الشمس على الأرض
+HFN-E-315df12640#2	YES	محلّ	التزام	عاديّ	مطلق	جسدي	UNSURE	أجد رمضة في جسدي
+HFN-E-315df12640#3	OTHER_SENSE	-	-	-	-	-	SURE	الرمض الذي يأتي قبل الخريف: مطر
+HFN-E-315df12640#4	NO_DHAT	-	-	-	-	-	SURE	أرمضني الأمر ورمضت له
+HFN-E-c2d84fef81#1	OTHER_SENSE	-	-	-	-	-	SURE	الرمط مجمع العرفط: اسم مكان شجر
+HFN-E-b2699be261#1	YES	محلّ	تضمّن	-	-	البطن	SURE	الرماع داء في البطن يصفر منه الوجه
+HFN-E-b2699be261#2	YES	محلّ	تضمّن	-	-	الوجه	SURE	الرمع اصفرار وتغير في الوجه
+HFN-E-b2699be261#3	YES	محلّ	التزام	عاديّ	مطلق	أنف	UNSURE	رمع أنف (مقطوع)
+HFN-E-ffdd6b6ccb#1	OTHER_SENSE	-	-	-	-	-	SURE	كبرذون الرمك: اسم دوابّ
+HFN-E-ffdd6b6ccb#2	OTHER_SENSE	-	-	-	-	-	SURE	الرمكة لون؛ بعير أرمك
+HFN-E-ffdd6b6ccb#3	OTHER_SENSE	-	-	-	-	-	SURE	رماك الله بداء: من رمى
+HFN-E-344a1558df#1	OTHER_SENSE	-	-	-	-	-	SURE	انهار الرمل: اسم جماد
+HFN-E-344a1558df#2	OTHER_SENSE	-	-	-	-	-	SURE	من غير رمل: اسم جماد
+HFN-E-344a1558df#3	OTHER_SENSE	-	-	-	-	-	SURE	تنبت في الرمل
+HFN-E-344a1558df#4	OTHER_SENSE	-	-	-	-	-	SURE	يدخلن في الرمل
+HFN-E-344a1558df#5	OTHER_SENSE	-	-	-	-	-	SURE	غلظ فيه حجارة ورمل
+HFN-E-a916f6dc18#1	YES	آلة	التزام	عاديّ	مطلق	القوس	SURE	رميت بالقوس وعليها وعنها
+HFN-E-a916f6dc18#2	YES	آلة	التزام	عاديّ	مطلق	الصخور	SURE	المرادة الصخور يرمى بها
+HFN-E-a916f6dc18#3	YES	آلة	التزام	عاديّ	مطلق	بصره	UNSURE	طمح ببصره رمى به
+HFN-E-a916f6dc18#4	YES	فاعل	التزام	عاديّ	مطلق	الحيران	UNSURE	الذي يرمي نفسه في الهلكة؛ رمى بنفسه
+HFN-E-a916f6dc18#5	YES	محلّ	التزام	عاديّ	مطلق	سلحه	UNSURE	مصع بسلحه يمصع رمى
+HFN-E-5e30c93a00#1	YES	محلّ	التزام	عاديّ	مطلق	ماء	SURE	ماء رنق ورنق كدر
+HFN-E-5e30c93a00#2	OTHER_SENSE	-	-	-	-	-	UNSURE	رنق النظر أخفاه: معنى بعيد
+HFN-E-5e30c93a00#3	OTHER_SENSE	-	-	-	-	-	UNSURE	رنق النوم في عينه خالطها
+HFN-E-5e30c93a00#4	OTHER_SENSE	-	-	-	-	-	SURE	رنق الطائر رفرف
+HFN-E-ab3cc4f57b#1	NO_DHAT	-	-	-	-	-	UNSURE	واضمم إليك جناحك من الرهب
+HFN-E-ab3cc4f57b#2	OTHER_SENSE	-	-	-	-	-	SURE	رهب الجمل برك من ضعف؛ الناقة المهزولة
+HFN-E-ab3cc4f57b#3	OTHER_SENSE	-	-	-	-	-	SURE	الرهب الجمل العريض
+HFN-E-ab3cc4f57b#4	OTHER_SENSE	-	-	-	-	-	SURE	الرهب السهم العظيم
+HFN-E-ab3cc4f57b#5	NO_DHAT	-	-	-	-	-	SURE	الرهب الخوف رهبت الشيء
+HFN-E-83039da72c#1	YES	محلّ	تضمّن	-	-	رواهش الدابة	SURE	الرهش أن تضطرب رواهش الدابة
+HFN-E-e24293e92e#1	YES	محلّ	تضمّن	-	-	الحائط	UNSURE	رهص الحائط دعم
+HFN-E-e24293e92e#2	YES	محلّ	تضمّن	-	-	حافرا	SURE	الرهص أن يصيب الحجر حافرا؛ الحجارة فاعل
+HFN-E-e24293e92e#3	YES	محلّ	التزام	عاديّ	مطلق	العنب	UNSURE	الرهص شدة العصر؛ يعصرون العنب
+HFN-E-294335fa61#1	OTHER_SENSE	-	-	-	-	-	UNSURE	رهص الحائط دعم: معنى بعيد
+HFN-E-294335fa61#2	YES	محلّ	تضمّن	-	-	حافرا	SURE	الرهص أن يصيب الحجر حافرا؛ رهصت الدابة
+HFN-E-294335fa61#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الرهص شدة العصر: معنى بعيد
+HFN-E-aa4cc437d4#1	OTHER_SENSE	-	-	-	-	-	SURE	الرهط كالنفر: اسم جماعة
+HFN-E-aa4cc437d4#2	OTHER_SENSE	-	-	-	-	-	SURE	الرهط جلد يشقق يلبسه الصبيان
+HFN-E-aa4cc437d4#3	OTHER_SENSE	-	-	-	-	-	SURE	رهط حصين: جماعة
+HFN-E-aa4cc437d4#4	OTHER_SENSE	-	-	-	-	-	SURE	القليل الرهط: جماعة
+HFN-E-aa4cc437d4#5	OTHER_SENSE	-	-	-	-	-	SURE	ما يربض الرهط أي يسعهم
+HFN-E-35fd52735b#1	NO_DHAT	-	-	-	-	-	UNSURE	رهفت الشيء وأرهفته رققته
+HFN-E-3c6a46d80f#1	YES	محلّ	التزام	عاديّ	مطلق	فلان	UNSURE	في فلان رهق أي يغشى المحارم
+HFN-E-3c6a46d80f#2	YES	فاعل	تضمّن	-	-	فلان	UNSURE	رهق فلان فلانا إذا تبعه؛ أرهقناهم الخيل
+HFN-E-3c6a46d80f#3	YES	محلّ	تضمّن	-	-	الإنسان	SURE	الرهق جهل في الإنسان وخفة في عقله
+HFN-E-3c6a46d80f#4	NO_DHAT	-	-	-	-	-	UNSURE	من الرهق المخلوط بالنوك
+HFN-E-3c6a46d80f#5	NO_DHAT	-	-	-	-	-	SURE	الرهق الكذب
+HFN-E-f0a026d900#1	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	الرهل الانتفاخ؛ رهل اللحم فهو رهل
+HFN-E-f0a026d900#2	OTHER_SENSE	-	-	-	-	-	SURE	الرهل الماء الأصفر: اسم ذات
+HFN-E-f0a026d900#3	YES	محلّ	التزام	عاديّ	مطلق	لباته	SURE	ولا رهل لباته وبادله
+HFN-E-f0a026d900#4	YES	محلّ	التزام	عاديّ	مطلق	بآدله	SURE	ولا رهل لبانه وبآدله
+HFN-E-f0a026d900#5	YES	محلّ	التزام	عاديّ	مطلق	الوجه	SURE	السخد الصفرة والرهل في الوجه
+HFN-E-0e52a313ea#1	YES	محلّ	تضمّن	-	-	الإنسان	UNSURE	الرهن ما وضع على الإنسان؛ رهنته الشيء
+HFN-E-0e52a313ea#2	NO_DHAT	-	-	-	-	-	UNSURE	فككت الرهن أفكه
+HFN-E-0e52a313ea#3	NO_DHAT	-	-	-	-	-	UNSURE	فرهن مقبوضة: كلام في الجمع
+HFN-E-0e52a313ea#4	OTHER_SENSE	-	-	-	-	-	SURE	الراهن المهزول؛ رهن يرهن رهونا
+HFN-E-0e52a313ea#5	OTHER_SENSE	-	-	-	-	-	UNSURE	رهن ورهن: مثال جمع
+HFN-E-b1d0e51eb2#1	YES	فاعل	تضمّن	-	-	حافر	UNSURE	يقال لكل حافر راث روثا
+HFN-E-b1d0e51eb2#2	OTHER_SENSE	-	-	-	-	-	SURE	من بعد ما راث عشيه: أبطأ
+HFN-E-b1d0e51eb2#3	OTHER_SENSE	-	-	-	-	-	SURE	راث ريثا أبطأ
+HFN-E-b1d0e51eb2#4	OTHER_SENSE	-	-	-	-	-	UNSURE	مثل روث الفرس: اسم ذات
+HFN-E-b1d0e51eb2#5	OTHER_SENSE	-	-	-	-	-	SURE	طين يعجن ببعر أو روث
+HFN-E-ad21b82584#1	OTHER_SENSE	-	-	-	-	-	SURE	الروح النفس
+HFN-E-ad21b82584#2	YES	زمان	التزام	عاديّ	مطلق	يومنا	UNSURE	كان يومنا حارا ثم راح من آخره ريحا
+HFN-E-ad21b82584#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الراح الخمر؛ رحت لكذا: ارتاح
+HFN-E-ad21b82584#4	YES	محلّ	التزام	عاديّ	مطلق	القوم	UNSURE	رحت القوم إذا ذهبت؛ روح الراعي اللقاح
+HFN-E-ad21b82584#5	OTHER_SENSE	-	-	-	-	-	SURE	الراحة باطن الكف وجمعها راح
+HFN-E-ae33b724b2#1	OTHER_SENSE	-	-	-	-	-	SURE	الروح النفس
+HFN-E-ae33b724b2#2	OTHER_SENSE	-	-	-	-	-	UNSURE	رحت القوم إذا ذهبت: معنى بعيد
+HFN-E-ae33b724b2#3	YES	محلّ	التزام	عاديّ	مطلق	الفخذين	SURE	الروح اتساع ما بينهما رجل أروح
+HFN-E-ae33b724b2#4	OTHER_SENSE	-	-	-	-	-	UNSURE	يوم روح طيب: معنى بعيد
+HFN-E-ae33b724b2#5	OTHER_SENSE	-	-	-	-	-	SURE	إذا روح الراعي اللقاح
+HFN-E-ac9e9fa203#1	OTHER_SENSE	-	-	-	-	-	SURE	رأد الضحى: كلمة أخرى
+HFN-E-ac9e9fa203#2	YES	محلّ	تضمّن	-	-	الكلأ	SURE	الرائد طالب الكلأ وقد راد
+HFN-E-ac9e9fa203#3	YES	محلّ	التزام	عاديّ	مطلق	كلأ	UNSURE	راد أهله منزلا وكلأ
+HFN-E-ac9e9fa203#4	OTHER_SENSE	-	-	-	-	-	SURE	ورد ووراد: كلمة أخرى
+HFN-E-ac9e9fa203#5	OTHER_SENSE	-	-	-	-	-	SURE	ويقول الراد: من الردّ
+HFN-E-38b74d132f#1	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	إذا راز الرجل وغمزه
+HFN-E-38b74d132f#2	OTHER_SENSE	-	-	-	-	-	SURE	لا روز؛ فروز بمعنى مات
+HFN-E-03f4c5d710#1	OTHER_SENSE	-	-	-	-	-	SURE	الرأس: اسم عضو
+HFN-E-03f4c5d710#2	OTHER_SENSE	-	-	-	-	-	SURE	العظيم الرأس: اسم عضو
+HFN-E-03f4c5d710#3	OTHER_SENSE	-	-	-	-	-	SURE	أسود الرأس: اسم عضو
+HFN-E-03f4c5d710#4	OTHER_SENSE	-	-	-	-	-	SURE	قلة الشعر في الرأس
+HFN-E-03f4c5d710#5	OTHER_SENSE	-	-	-	-	-	SURE	رأس الجبل
+HFN-E-df1bd3d2b5#1	OTHER_SENSE	-	-	-	-	-	SURE	ذباب الروض: اسم مكان
+HFN-E-df1bd3d2b5#2	OTHER_SENSE	-	-	-	-	-	SURE	فلك الروض معظمه
+HFN-E-df1bd3d2b5#3	OTHER_SENSE	-	-	-	-	-	SURE	مسيل الماء في الروض
+HFN-E-df1bd3d2b5#4	OTHER_SENSE	-	-	-	-	-	SURE	حديقة الروض؛ مستريضا متسعا
+HFN-E-df1bd3d2b5#5	OTHER_SENSE	-	-	-	-	-	SURE	بنات فراض المرخ: كلمة أخرى
+HFN-E-3e59119e24#1	YES	محلّ	التزام	عاديّ	مطلق	الظلمان	UNSURE	صعل من الظلمان لا فؤاد له من الروع
+HFN-E-3e59119e24#2	NO_DHAT	-	-	-	-	-	SURE	الروع الفزع راعني الأمر روعا
+HFN-E-3e59119e24#3	OTHER_SENSE	-	-	-	-	-	SURE	بلا راع: من الرعي
+HFN-E-3e59119e24#4	OTHER_SENSE	-	-	-	-	-	SURE	أراع الطعام وراع: من الريع
+HFN-E-3e59119e24#5	OTHER_SENSE	-	-	-	-	-	SURE	راع عليه يريع ريعا رجع
+HFN-E-a3efcbf9b5#1	OTHER_SENSE	-	-	-	-	-	UNSURE	من الروع والجبن: الفزع معنى بعيد
+HFN-E-a3efcbf9b5#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الروع الفزع: معنى بعيد
+HFN-E-a3efcbf9b5#3	OTHER_SENSE	-	-	-	-	-	SURE	فرع الكتف: كلمة أخرى
+HFN-E-a3efcbf9b5#4	OTHER_SENSE	-	-	-	-	-	SURE	فروع العليط: كلمة أخرى
+HFN-E-a3efcbf9b5#5	OTHER_SENSE	-	-	-	-	-	UNSURE	أسقطها الروع: الفزع معنى بعيد
+HFN-E-fbc9bec84c#1	NO_DHAT	-	-	-	-	-	SURE	راغ عني يروغ روغا وروغانا
+HFN-E-fbc9bec84c#2	OTHER_SENSE	-	-	-	-	-	SURE	فراغ جمع فريغ: نصل
+HFN-E-fbc9bec84c#3	OTHER_SENSE	-	-	-	-	-	SURE	الفراغ ناحية الدلو
+HFN-E-fbc9bec84c#4	YES	آلة	التزام	عاديّ	مطلق	اليمين	UNSURE	فراغ عليهم ضربا باليمين
+HFN-E-fbc9bec84c#5	OTHER_SENSE	-	-	-	-	-	SURE	فراغ للنوم: كلمة أخرى
+HFN-E-1c79e57b03#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الروق طول الثنايا: معنى بعيد
+HFN-E-1c79e57b03#2	OTHER_SENSE	-	-	-	-	-	SURE	روقنا البيت والرواق: اسم بيت
+HFN-E-1c79e57b03#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	وقد راق روقا وروقانا؛ رجل روقة
+HFN-E-1c79e57b03#4	YES	محلّ	التزام	عاديّ	مطلق	الشراب	SURE	روق الشراب حتى راق
+HFN-E-1c79e57b03#5	OTHER_SENSE	-	-	-	-	-	SURE	فراق كقيس السن: كلمة أخرى
+HFN-E-c94985d204#1	YES	محلّ	تضمّن	-	-	الثنايا	SURE	الروق طول الثنايا العلا؛ روق روقا
+HFN-E-c94985d204#2	OTHER_SENSE	-	-	-	-	-	SURE	روقنا البيت والرواق: اسم بيت
+HFN-E-c94985d204#3	OTHER_SENSE	-	-	-	-	-	SURE	روق الإنسان نفسه وهمه
+HFN-E-c94985d204#4	OTHER_SENSE	-	-	-	-	-	UNSURE	راق روقا: الحسن معنى بعيد
+HFN-E-c94985d204#5	OTHER_SENSE	-	-	-	-	-	SURE	الروق القرن
+HFN-E-80e94de3b9#1	OTHER_SENSE	-	-	-	-	-	SURE	الرأم: كلمة أخرى
+HFN-E-80e94de3b9#2	OTHER_SENSE	-	-	-	-	-	SURE	سورة الروم: علم
+HFN-E-80e94de3b9#3	OTHER_SENSE	-	-	-	-	-	SURE	يعني الروم: علم
+HFN-E-80e94de3b9#4	OTHER_SENSE	-	-	-	-	-	SURE	في بلد الروم: علم
+HFN-E-80e94de3b9#5	OTHER_SENSE	-	-	-	-	-	SURE	جبال الروم: علم
+HFN-E-457bafa624#1	YES	محلّ	التزام	عاديّ	مطلق	الفرس	UNSURE	فنح الفرس شرب دون الري؛ روي ريا
+HFN-E-457bafa624#2	OTHER_SENSE	-	-	-	-	-	SURE	فقد روى: من الرواية
+HFN-E-457bafa624#3	OTHER_SENSE	-	-	-	-	-	SURE	وقد روى علامها: من الرواية
+HFN-E-457bafa624#4	OTHER_SENSE	-	-	-	-	-	SURE	ما روى من قراءة
+HFN-E-457bafa624#5	OTHER_SENSE	-	-	-	-	-	SURE	فيما روى العباس
+HFN-E-dda5ac2081#1	NO_DHAT	-	-	-	-	-	UNSURE	مسنا ريب حقبة
+HFN-E-dda5ac2081#2	NO_DHAT	-	-	-	-	-	SURE	الريب التهمة رابني وأرابني
+HFN-E-dda5ac2081#3	OTHER_SENSE	-	-	-	-	-	SURE	الرائب راب روبا: من روب
+HFN-E-dda5ac2081#4	NO_DHAT	-	-	-	-	-	UNSURE	من ريب المنون
+HFN-E-dda5ac2081#5	OTHER_SENSE	-	-	-	-	-	SURE	الريب الماء الكثير
+HFN-E-7f859760d0#1	OTHER_SENSE	-	-	-	-	-	UNSURE	ريش السهام: عنوان، اسم
+HFN-E-7f859760d0#2	YES	محلّ	تضمّن	-	-	طائر	UNSURE	طائر راش إذا نبت ريشه
+HFN-E-7f859760d0#3	OTHER_SENSE	-	-	-	-	-	SURE	ريش ذناباها: اسم
+HFN-E-7f859760d0#4	OTHER_SENSE	-	-	-	-	-	SURE	وليس له ريش: اسم
+HFN-E-7f859760d0#5	OTHER_SENSE	-	-	-	-	-	SURE	كثيرة الريش: اسم
+HFN-E-303f20080e#1	YES	مكان	تضمّن	-	-	الريف	UNSURE	تريف القوم دنوا من الريف
+HFN-E-303f20080e#2	OTHER_SENSE	-	-	-	-	-	SURE	الريف ما قارب الماء: اسم مكان
+HFN-E-303f20080e#3	OTHER_SENSE	-	-	-	-	-	SURE	راف الغلام وثب: معنى بعيد
+HFN-E-303f20080e#4	OTHER_SENSE	-	-	-	-	-	SURE	راف روفا سكن
+HFN-E-11d74558fe#1	OTHER_SENSE	-	-	-	-	-	SURE	الريم الدرج
+HFN-E-11d74558fe#2	OTHER_SENSE	-	-	-	-	-	SURE	الرأم: كلمة أخرى
+HFN-E-11d74558fe#3	OTHER_SENSE	-	-	-	-	-	SURE	رب رام: من الرمي
+HFN-E-11d74558fe#4	OTHER_SENSE	-	-	-	-	-	SURE	الرآم: كلمة أخرى
+HFN-E-11d74558fe#5	OTHER_SENSE	-	-	-	-	-	SURE	من رام أمرا: من الروم
+HFN-E-467e172efd#1	NO_DHAT	-	-	-	-	-	UNSURE	الرين كالطبع وقد ران رينا؛ أصله الصدأ
+HFN-E-467e172efd#2	YES	محلّ	تضمّن	-	-	مواشيهم	UNSURE	أران القوم هلكت مواشيهم؛ ران عليه الموت
+HFN-E-467e172efd#3	YES	محلّ	تضمّن	-	-	قلبه	UNSURE	ران الذنب على قلبه غطاه؛ رانت عليه الخمر
+HFN-E-467e172efd#4	YES	محلّ	تضمّن	-	-	ماشيتهم	UNSURE	أران القوم هلكت ماشيتهم وهزلت
+HFN-E-f2f282666b#1	YES	محلّ	التزام	عاديّ	مطلق	القربة	UNSURE	زعب القربة احتملها، مبدلة من زأب
+HFN-E-f2f282666b#2	YES	محلّ	التزام	عاديّ	مطلق	القربة	SURE	زأبت القربة أزأبها زأبا؛ ازدأب القربة
+HFN-E-252944c05f#1	NO_DHAT	-	-	-	-	-	UNSURE	زام كزجم: سماع الكلمة الخفية
+HFN-E-252944c05f#2	OTHER_SENSE	-	-	-	-	-	UNSURE	رجل زام: من زمّ بأنفه
+HFN-E-252944c05f#3	OTHER_SENSE	-	-	-	-	-	SURE	إلزام الشيء: كلمة أخرى
+HFN-E-b21cdf0af9#1	OTHER_SENSE	-	-	-	-	-	SURE	الزبد خلاصة اللبن: اسم ذات
+HFN-E-b21cdf0af9#2	YES	مصدر	التزام	عاديّ	مطلق	الماء	UNSURE	زبد الماء... وقد زبد وأزبد دفع بزبده
+HFN-E-b21cdf0af9#3	OTHER_SENSE	-	-	-	-	-	SURE	ظهر عليه تحبب وزبد: اسم
+HFN-E-b21cdf0af9#4	OTHER_SENSE	-	-	-	-	-	SURE	الرغوة زبد اللبن: اسم
+HFN-E-b21cdf0af9#5	OTHER_SENSE	-	-	-	-	-	SURE	يلت بالسمن أو بالزبد: اسم
+HFN-E-a3b079aaae#1	YES	آلة	تضمّن	-	-	الحجارة	UNSURE	أصل الزبر الطي بالحجارة؛ ماله زبر رأي
+HFN-E-a3b079aaae#2	YES	محلّ	التزام	عاديّ	مطلق	الكتاب	UNSURE	زبرت الكتاب كتبته؛ النقش في الحجر
+HFN-E-a3b079aaae#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الزبر مثله أي الشديد
+HFN-E-a3b079aaae#4	OTHER_SENSE	-	-	-	-	-	SURE	الزبرة الكاهل
+HFN-E-a3b079aaae#5	OTHER_SENSE	-	-	-	-	-	SURE	الزرير: كلمة أخرى
+HFN-E-6a2a9befda#1	YES	فاعل	التزام	عاديّ	مطلق	صاحبه	UNSURE	فإن نتفه صاحبه قيل زبقه يزبقه
+HFN-E-824f5f8bb4#1	OTHER_SENSE	-	-	-	-	-	SURE	تزج بالضرط والزبل: اسم
+HFN-E-824f5f8bb4#2	OTHER_SENSE	-	-	-	-	-	SURE	بالضرط والزبل: اسم
+HFN-E-824f5f8bb4#3	OTHER_SENSE	-	-	-	-	-	SURE	من زبل ورماد: اسم
+HFN-E-824f5f8bb4#4	YES	محلّ	تضمّن	-	-	الزرع	SURE	زبلت الزرع أزبله زبلا سمدته
+HFN-E-824f5f8bb4#5	OTHER_SENSE	-	-	-	-	-	SURE	جعلته في الزبل: اسم
+HFN-E-14d8373060#1	YES	فاعل	تضمّن	-	-	القوم	UNSURE	الزبن الدفع؛ تزابن القوم تدافعوا
+HFN-E-14d8373060#2	YES	آلة	تضمّن	-	-	الثفنات	SURE	الزبن بالثفنات وقد زبنت
+HFN-E-14d8373060#3	YES	محلّ	التزام	عاديّ	مطلق	المطي	UNSURE	في منكب زبن المطي
+HFN-E-fd77de4c2d#1	YES	محلّ	التزام	عاديّ	مطلق	الإبل	SURE	جاه زجر الذكور وعاج زجر الإبل
+HFN-E-fd77de4c2d#2	YES	محلّ	التزام	عاديّ	مطلق	صغار المعز	SURE	داع داع من زجر صغار المعز
+HFN-E-fd77de4c2d#3	YES	محلّ	التزام	عاديّ	مطلق	الدابة	SURE	زجرت الدابة والرجل والسبع
+HFN-E-fd77de4c2d#4	NO_DHAT	-	-	-	-	-	SURE	الدعاء والصياح والزجر: عنوان
+HFN-E-fd77de4c2d#5	YES	محلّ	التزام	عاديّ	مطلق	الحمير	SURE	الزجر بالحمير؛ سأسأت بالحمار
+HFN-E-9972e7dbed#1	NO_DHAT	-	-	-	-	-	SURE	الزجل الصوت يرتفع وقد زجل
+HFN-E-9972e7dbed#2	YES	آلة	تضمّن	-	-	الرجل	UNSURE	الزجل بالرجل والسدو باليد
+HFN-E-9972e7dbed#3	YES	محلّ	تضمّن	-	-	الحمام	SURE	زجل الحمام يزجلها أرسلها على بعد
+HFN-E-9972e7dbed#4	NO_DHAT	-	-	-	-	-	UNSURE	لها زجل كحفيف الحصا: مرجع لها غائب
+HFN-E-9972e7dbed#5	YES	فاعل	التزام	عاديّ	مطلق	حاب	UNSURE	أخيل برقا متى حاب له زجل
+HFN-E-b4046f95bb#1	NO_DHAT	-	-	-	-	-	SURE	الزجل الصوت يرتفع وقد زجل زجلا
+HFN-E-b4046f95bb#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الزجل بالرجل: سير لا صوت
+HFN-E-b4046f95bb#3	OTHER_SENSE	-	-	-	-	-	UNSURE	زجل الحمام أرسلها: معنى بعيد
+HFN-E-b4046f95bb#4	NO_DHAT	-	-	-	-	-	UNSURE	لها زجل كحفيف الحصا: مرجع لها غائب
+HFN-E-b4046f95bb#5	YES	فاعل	التزام	عاديّ	مطلق	حاب	UNSURE	أخيل برقا متى حاب له زجل
+HFN-E-afdd800f0a#1	YES	محلّ	التزام	عاديّ	مطلق	ناقة	SURE	ناقة زحوف؛ البعير زحف يزحف أعيا
+HFN-E-afdd800f0a#2	YES	فاعل	تضمّن	-	-	الجماعة	UNSURE	الزحف الجماعة يزحفون إلى عدوهم
+HFN-E-afdd800f0a#3	YES	فاعل	التزام	عاديّ	مطلق	الحيات	SURE	مزاحف الحيات آثارها؛ تزحف وزحف
+HFN-E-afdd800f0a#4	OTHER_SENSE	-	-	-	-	-	UNSURE	قطعة جراد أكثر فهو زحف: اسم
+HFN-E-afdd800f0a#5	YES	مكان	التزام	عاديّ	مطلق	النار	UNSURE	زحف عنها مصطلوها؛ نار الزحفتين
+HFN-E-d8d9450b7d#1	YES	فاعل	تضمّن	-	-	القوم	SURE	زحم القوم بعضهم بعضا تضايقوا
+HFN-E-caaff774a5#1	YES	فاعل	التزام	عاديّ	مطلق	الصبيان	UNSURE	سدو الصبيان بالجوز وزدو أصله سدو
+HFN-E-cd59e9fa94#1	YES	محلّ	التزام	عاديّ	مطلق	الغنم	SURE	الزريبة للغنم زربتها أزربها زربا
+HFN-E-cd59e9fa94#2	YES	محلّ	التزام	عاديّ	مطلق	الغنم	UNSURE	الأصل في الزرب الغنم؛ منزرب الصائد
+HFN-E-a54d62e23e#1	YES	فاعل	تضمّن	-	-	الخيل	SURE	الزرج جلبة الخيل وأصواتها
+HFN-E-72d633dafd#1	OTHER_SENSE	-	-	-	-	-	SURE	الزرد حلق الدرع: اسم ذات
+HFN-E-72d633dafd#2	OTHER_SENSE	-	-	-	-	-	SURE	بالفارسية الزرد: الأصفر
+HFN-E-b1f5a249e7#1	OTHER_SENSE	-	-	-	-	-	SURE	الزرد حلق الدرع: اسم ذات
+HFN-E-b1f5a249e7#2	OTHER_SENSE	-	-	-	-	-	SURE	بالفارسية الزرد: الأصفر
+HFN-E-11ab88c0d3#1	OTHER_SENSE	-	-	-	-	-	UNSURE	صفة الزرع: اسم النبات
+HFN-E-11ab88c0d3#2	OTHER_SENSE	-	-	-	-	-	SURE	داء يصيب الزرع: اسم النبات
+HFN-E-11ab88c0d3#3	YES	مكان	التزام	عاديّ	مطلق	القراح	UNSURE	يحرث ليزرع وكذلك القراح؛ الرجل
+HFN-E-11ab88c0d3#4	YES	آلة	التزام	عاديّ	مطلق	الماء	UNSURE	السقي ما زرع على الماء
+HFN-E-11ab88c0d3#5	YES	مكان	التزام	عاديّ	مطلق	القراح	SURE	القراح الذي اشتق للزرع
+HFN-E-cc826572bc#1	NO_DHAT	-	-	-	-	-	SURE	الزرف الزيادة؛ زرف في حديثه كذب
+HFN-E-cc826572bc#2	NO_DHAT	-	-	-	-	-	UNSURE	وزرف... جاوزها وزاد عليها: السنّ
+HFN-E-cc826572bc#3	YES	محلّ	التزام	عاديّ	مطلق	الجرح	UNSURE	زرف زرفا مثل غفر؛ غفر الجرح
+HFN-E-5b7794545a#1	NO_DHAT	-	-	-	-	-	SURE	الزرف الزيادة؛ زرف في حديثه كذب
+HFN-E-5b7794545a#2	NO_DHAT	-	-	-	-	-	UNSURE	وزرف... جاوزها وزاد عليها: السنّ
+HFN-E-5b7794545a#3	YES	محلّ	التزام	عاديّ	مطلق	الجرح	UNSURE	زرف زرفا مثل غفر؛ غفر الجرح

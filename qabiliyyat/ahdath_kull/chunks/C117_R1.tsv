@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-7c306b452c#1	OTHER_SENSE	-	-	-	-	-	SURE	«السأو - الوطن» اسم مكان لا حدث
+HFN-E-7c306b452c#2	YES	مكان	التزام	عاديّ	مطلق	المكان	SURE	«وطنت بالمكان وأوطنت»
+HFN-E-7c306b452c#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«وطن وتنبل كله مات» معنى الموت بعيد
+HFN-E-7c306b452c#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«وطنت ضرس» واو عطف مع طنّ
+HFN-E-7c306b452c#5	NO_DHAT	-	-	-	-	-	UNSURE	«للأمر أي وطن عليه» الأمر معنويّ
+HFN-E-d1d52c19e3#1	OTHER_SENSE	-	-	-	-	-	SURE	«لها وظف يعني دولا» جمع اسم
+HFN-E-3a52d9a24a#1	OTHER_SENSE	-	-	-	-	-	SURE	«جل وعز» من عزّ
+HFN-E-3a52d9a24a#2	OTHER_SENSE	-	-	-	-	-	SURE	«لأمر الله جل وعز»
+HFN-E-3a52d9a24a#3	OTHER_SENSE	-	-	-	-	-	SURE	«الله جل وعز»
+HFN-E-3a52d9a24a#4	OTHER_SENSE	-	-	-	-	-	SURE	«وعز جنبج - ضخم» كلمة أخرى
+HFN-E-3a52d9a24a#5	OTHER_SENSE	-	-	-	-	-	SURE	«في قوله جل وعز»
+HFN-E-0fe78fe3eb#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«ببرشاع الوخام وغب» بمعنى الأحمق الضعيف
+HFN-E-0fe78fe3eb#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«الواحد وغد ووغب» بمعنى النذل الضعيف
+HFN-E-0fe78fe3eb#3	YES	محلّ	تضمّن	-	-	الجمل	UNSURE	«والوغب الجمل الضخم الشديد وقد وغب وغوبة»
+HFN-E-0fe78fe3eb#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«والوغب الضعيف والجمع أوغاب» اسم بمعنى بعيد
+HFN-E-0fe78fe3eb#5	OTHER_SENSE	-	-	-	-	-	SURE	«وغبر كل شيء» من غبر
+HFN-E-64100a35fb#1	YES	مكان	تضمّن	-	-	البيت	SURE	«ولب في البيت - دخل»
+HFN-E-64100a35fb#2	NO_DHAT	-	-	-	-	-	SURE	«الوالب - الذاهب في الوجه وقد ولب»
+HFN-E-64100a35fb#3	YES	محلّ	تضمّن	-	-	الزرع	UNSURE	«ولب الزرع ولبا - صارت له والبة»
+HFN-E-64100a35fb#4	OTHER_SENSE	-	-	-	-	-	SURE	«ألب بالمكان ولب» من لبّ
+HFN-E-64100a35fb#5	NO_DHAT	-	-	-	-	-	SURE	«ولب إليه الشر ولوبا» الشر معنويّ
+HFN-E-dce8f00d57#1	OTHER_SENSE	-	-	-	-	-	SURE	«ولح قنم» أي ولحم
+HFN-E-5e21cafb65#1	NO_DHAT	-	-	-	-	-	UNSURE	«باب الحمل والولادة» عنوان بلا ذات للولادة
+HFN-E-5e21cafb65#2	OTHER_SENSE	-	-	-	-	-	SURE	«الطلا ولد البقرة» اسم ذات
+HFN-E-5e21cafb65#3	OTHER_SENSE	-	-	-	-	-	SURE	«في بطنها ولد» اسم ذات
+HFN-E-5e21cafb65#4	OTHER_SENSE	-	-	-	-	-	SURE	«التي يكون فيها الولد» اسم ذات
+HFN-E-5e21cafb65#5	YES	فاعل	التزام	عاديّ	مطلق	النساء	UNSURE	«نعوت النساء في ولادتهن»
+HFN-E-eae696b32f#1	OTHER_SENSE	-	-	-	-	-	SURE	«ومه خيل قوافل» كلمة أخرى
+HFN-E-eae696b32f#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«ومه النهار دمها» أي ودمه
+HFN-E-f521601e67#1	YES	فاعل	تضمّن	-	-	الذباب	SURE	«ذقط الذباب وونم - يعني ذرق»
+HFN-E-f521601e67#2	OTHER_SENSE	-	-	-	-	-	SURE	«سعى ونم» من نمّ
+HFN-E-eaeca99e7a#1	OTHER_SENSE	-	-	-	-	-	SURE	«وهت الشيء يهته» من هتّ
+HFN-E-eaeca99e7a#2	OTHER_SENSE	-	-	-	-	-	SURE	«عنتت يده عنتا - وهت» من وهى
+HFN-E-eaeca99e7a#3	OTHER_SENSE	-	-	-	-	-	SURE	«وهت عزاليه» من وهى
+HFN-E-2490cf4502#1	OTHER_SENSE	-	-	-	-	-	SURE	«كي يلب» من لبّ
+HFN-E-2490cf4502#2	OTHER_SENSE	-	-	-	-	-	SURE	«اليلب الدرق» اسم ذات
+HFN-E-f7e9484f80#1	OTHER_SENSE	-	-	-	-	-	SURE	«والفسفس - البيت المصور بها» اسم ذات
+HFN-E-003f92e1f6#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«بششت به بشآ» من بشّ
+HFN-E-cf7c3bdff2#1	OTHER_SENSE	-	-	-	-	-	SURE	«وبقت السماء» من بقّ
+HFN-E-1680413d72#1	YES	محلّ	تضمّن	-	-	لحم	UNSURE	«ثعط ثعطا - أنتن... لحم ثعط - متغير»
+HFN-E-1680413d72#2	YES	محلّ	تضمّن	-	-	الجلد	SURE	«ثعط الجلد ثعطا - أنتن»
+HFN-E-16333da753#1	OTHER_SENSE	-	-	-	-	-	SURE	«رجل جاذ... بين الجذو» من جذو
+HFN-E-16333da753#2	OTHER_SENSE	-	-	-	-	-	SURE	«وجاذ... وجاذا» من وجذ
+HFN-E-16333da753#3	YES	محلّ	تضمّن	-	-	الشراب	UNSURE	«جأذ يجأذ جأذا - شرب... الجائذ - العاب في الشراب»
+HFN-E-ec1108d08d#1	NO_DHAT	-	-	-	-	-	SURE	«وشتع شتعا كذلك» كثر أنينه بلا ذات
+HFN-E-ec1108d08d#2	NO_DHAT	-	-	-	-	-	SURE	«شتع شتعا - جزع من مرض أو خوف»
+HFN-E-2ab65812dd#1	NO_DHAT	-	-	-	-	-	SURE	«وشطع شطعا وشتع شتعا كذلك»
+HFN-E-80141910db#1	YES	فاعل	تضمّن	-	-	الدلو	UNSURE	«عبت الدلو صوتت عند غرف الماء»
+HFN-E-80141910db#2	OTHER_SENSE	-	-	-	-	-	SURE	«وعبت الشيء وعبا» من وعب
+HFN-E-15e544342c#1	NO_DHAT	-	-	-	-	-	SURE	«العشط: اجتذابك الشيء» الشيء ليس ذاتا
+HFN-E-09d387f064#1	YES	محلّ	تضمّن	-	-	نخل	SURE	«نخل غتل - ملتف... الغتل كثرة الشجر»
+HFN-E-09d387f064#2	YES	مكان	التزام	عاديّ	مطلق	الموضع	UNSURE	«غتل الموضع يغتل غتلا»
+HFN-E-813123d03e#1	YES	فاعل	تضمّن	-	-	الفرس	SURE	«فنح الفرس من الماء - شرب»؛ الماء محلّ
+HFN-E-9b8622c51d#1	OTHER_SENSE	-	-	-	-	-	SURE	«واللعث دابة تاكل الجلود» اسم ذات
+HFN-E-2bdd53a9c9#1	YES	فاعل	تضمّن	-	-	المطر	SURE	«مأش المطر الأرض سحاها»؛ الأرض محلّ
+HFN-E-2bdd53a9c9#2	OTHER_SENSE	-	-	-	-	-	SURE	«الماش... حب أسود» اسم نبات
+HFN-E-733f0cf61c#1	YES	محلّ	تضمّن	-	-	الكلب	SURE	«الهتش إغراء الكلب هتشته»
+HFN-E-666e7c821a#1	OTHER_SENSE	-	-	-	-	-	SURE	«همت بالجفوف» من همّ
+HFN-E-666e7c821a#2	OTHER_SENSE	-	-	-	-	-	SURE	«همت عينه هميا» من همى
+HFN-E-666e7c821a#3	OTHER_SENSE	-	-	-	-	-	SURE	«وأهمت إليه» كلمة أخرى
+HFN-E-666e7c821a#4	OTHER_SENSE	-	-	-	-	-	SURE	«علمته وفهمته» كلمة أخرى
+HFN-E-666e7c821a#5	OTHER_SENSE	-	-	-	-	-	SURE	«كما فهمت» كلمة أخرى
+HFN-E-8e3c85a8af#1	OTHER_SENSE	-	-	-	-	-	SURE	«سمعت أبا عبيد» كنية
+HFN-E-8e3c85a8af#2	OTHER_SENSE	-	-	-	-	-	SURE	«سألت أبا محمد» كنية
+HFN-E-8e3c85a8af#3	OTHER_SENSE	-	-	-	-	-	SURE	«والذئب يكنى أبا معطة» كنية
+HFN-E-8e3c85a8af#4	OTHER_SENSE	-	-	-	-	-	SURE	«يا أبا عمير» كنية
+HFN-E-8e3c85a8af#5	OTHER_SENSE	-	-	-	-	-	SURE	«لا أبا لك» اسم الأب
+HFN-E-9249db04f9#1	OTHER_SENSE	-	-	-	-	-	SURE	«الأد القوة» كلمة أخرى
+HFN-E-9249db04f9#2	YES	فاعل	تضمّن	-	-	السبع	SURE	«أدا السبع أدوا - ختل ليأكل»
+HFN-E-9249db04f9#3	OTHER_SENSE	-	-	-	-	-	SURE	«وقد وأدها وأدا» من وأد
+HFN-E-9249db04f9#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«أدت الإبل تؤد أدا» ترجيع الحنين، من أدّ
+HFN-E-9249db04f9#5	OTHER_SENSE	-	-	-	-	-	SURE	«الإد - الداهية وقد أدت»
+HFN-E-d32161672e#1	OTHER_SENSE	-	-	-	-	-	SURE	«فأست الشجرة أفأسها» كلمة أخرى
+HFN-E-d32161672e#2	OTHER_SENSE	-	-	-	-	-	SURE	«أسست الحائط أؤسسه أسا» من أسس
+HFN-E-d32161672e#3	OTHER_SENSE	-	-	-	-	-	SURE	«أسستها أؤسها أسا» زجر الغنم
+HFN-E-d32161672e#4	OTHER_SENSE	-	-	-	-	-	SURE	«هم أسوة... وأسا - أي سواء»
+HFN-E-d32161672e#5	OTHER_SENSE	-	-	-	-	-	SURE	«رجل أدعج أي أسو» أي أسود
+HFN-E-b3cb4bc695#1	OTHER_SENSE	-	-	-	-	-	SURE	«إلا أن الشيح» أداة
+HFN-E-b3cb4bc695#2	OTHER_SENSE	-	-	-	-	-	SURE	«إلا أن طرفها» أداة
+HFN-E-b3cb4bc695#3	OTHER_SENSE	-	-	-	-	-	SURE	«إلا أنه» أداة
+HFN-E-b3cb4bc695#4	OTHER_SENSE	-	-	-	-	-	SURE	«ألا ترى» أداة
+HFN-E-b3cb4bc695#5	OTHER_SENSE	-	-	-	-	-	SURE	«إلا أنه أحسن ترقيشا» أداة
+HFN-E-8127a72af5#1	OTHER_SENSE	-	-	-	-	-	SURE	«بص يبص بصيصا... وبص» كلمة أخرى
+HFN-E-1586a02733#1	YES	محلّ	التزام	عاديّ	مطلق	لحمه	SURE	«خظا لحمه وبظا وكظا»
+HFN-E-1586a02733#2	NO_DHAT	-	-	-	-	-	UNSURE	«خظا بظا وكظا يخظو ويبظو» بلا ذات مذكورة معه
+HFN-E-1586a02733#3	OTHER_SENSE	-	-	-	-	-	SURE	«بظ يبظ بظا» تحريك الأوتار
+HFN-E-1586a02733#4	YES	محلّ	التزام	عاديّ	مطلق	لحمه	SURE	«قيل لحمه خظا بظا»
+HFN-E-ecf5d6b43e#1	NO_DHAT	-	-	-	-	-	SURE	«بهو يبهو بهاء وهو بهي»
+HFN-E-ecf5d6b43e#2	NO_DHAT	-	-	-	-	-	SURE	«بهي بهاء - نبل»
+HFN-E-ecf5d6b43e#3	OTHER_SENSE	-	-	-	-	-	SURE	«أبهاء وبهي وبهو» جمع اسم
+HFN-E-ecf5d6b43e#4	YES	محلّ	تضمّن	-	-	البيت	UNSURE	«بهي البيت بهاء انخرق»
+HFN-E-ecf5d6b43e#5	YES	محلّ	التزام	عاديّ	مطلق	البهو	UNSURE	«والبهو كناس واسع... وقد بهى البهو»؛ الثور
+HFN-E-bb709f3a04#1	OTHER_SENSE	-	-	-	-	-	SURE	«بأخ صغار» كلمة أخرى
+HFN-E-bb709f3a04#2	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	«عدا الرجل حتى... وباخ... إذا أعيا»
+HFN-E-bb709f3a04#3	YES	محلّ	التزام	عاديّ	مطلق	الحر	UNSURE	«وقد باخ الحر»
+HFN-E-bb709f3a04#4	NO_DHAT	-	-	-	-	-	UNSURE	«تشيأ غضبه وباخ» الغضب معنويّ
+HFN-E-1fb0dba4d1#1	OTHER_SENSE	-	-	-	-	-	SURE	«البازي... باز» اسم طائر
+HFN-E-1fb0dba4d1#2	OTHER_SENSE	-	-	-	-	-	SURE	«باز لحم» اسم طائر
+HFN-E-1fb0dba4d1#3	OTHER_SENSE	-	-	-	-	-	SURE	«أشهل العينين باز» اسم طائر
+HFN-E-1fb0dba4d1#4	OTHER_SENSE	-	-	-	-	-	SURE	«كندرة الباز» اسم طائر
+HFN-E-1fb0dba4d1#5	OTHER_SENSE	-	-	-	-	-	SURE	«باز كاسر» اسم طائر
+HFN-E-66628c0f59#1	OTHER_SENSE	-	-	-	-	-	SURE	«فتح الباب» اسم ذات
+HFN-E-66628c0f59#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«الباب... باب للسلطان يبوب» واويّ
+HFN-E-66628c0f59#3	OTHER_SENSE	-	-	-	-	-	SURE	«من باب أحمد» اصطلاح
+HFN-E-66628c0f59#4	OTHER_SENSE	-	-	-	-	-	SURE	«باب فعال» اصطلاح
+HFN-E-66628c0f59#5	OTHER_SENSE	-	-	-	-	-	SURE	«من باب رأيت» اصطلاح
+HFN-E-c2caea61de#1	OTHER_SENSE	-	-	-	-	-	SURE	«البازي... باز» اسم طائر
+HFN-E-c2caea61de#2	OTHER_SENSE	-	-	-	-	-	SURE	«باز لحم» اسم طائر
+HFN-E-c2caea61de#3	OTHER_SENSE	-	-	-	-	-	SURE	«أشهل العينين باز» اسم طائر
+HFN-E-c2caea61de#4	OTHER_SENSE	-	-	-	-	-	SURE	«كندرة الباز» اسم طائر
+HFN-E-c2caea61de#5	OTHER_SENSE	-	-	-	-	-	SURE	«باز كاسر» اسم طائر
+HFN-E-fe16f936e6#1	OTHER_SENSE	-	-	-	-	-	SURE	«نرى وترى» من رأى
+HFN-E-fe16f936e6#2	OTHER_SENSE	-	-	-	-	-	SURE	«ألا ترى» من رأى
+HFN-E-fe16f936e6#3	OTHER_SENSE	-	-	-	-	-	SURE	«ألا ترى» من رأى
+HFN-E-fe16f936e6#4	OTHER_SENSE	-	-	-	-	-	SURE	«النقط الصغار لا ترى» من رأى
+HFN-E-fe16f936e6#5	OTHER_SENSE	-	-	-	-	-	SURE	«ألا ترى» من رأى
+HFN-E-7f06946d5b#1	OTHER_SENSE	-	-	-	-	-	SURE	«والتاح... السريع العطش» من لوح
+HFN-E-7f06946d5b#2	NO_DHAT	-	-	-	-	-	UNSURE	«وتاح له الأمر - قدر عليه»
+HFN-E-7f06946d5b#3	OTHER_SENSE	-	-	-	-	-	SURE	«والفتح المطر... فتوح» كلمة أخرى
+HFN-E-7f06946d5b#4	OTHER_SENSE	-	-	-	-	-	SURE	«الفتح - خصب الربيع» كلمة أخرى
+HFN-E-7f06946d5b#5	OTHER_SENSE	-	-	-	-	-	SURE	«والفتح - النصر» كلمة أخرى
+HFN-E-bb89cd503b#1	OTHER_SENSE	-	-	-	-	-	SURE	«جبأ يجبأ... الجبا الجبان» بمعنى الفرار
+HFN-E-bb89cd503b#2	YES	مكان	التزام	عاديّ	مطلق	الحوض	UNSURE	«الحوض الذي يجبى فيه الماء أي يجمع»؛ الماء محلّ
+HFN-E-bb89cd503b#3	OTHER_SENSE	-	-	-	-	-	SURE	«الجبا - ما حول البئر» اسم ذات
+HFN-E-bb89cd503b#4	OTHER_SENSE	-	-	-	-	-	SURE	«بجبا» بمعنى الجبان
+HFN-E-bb89cd503b#5	OTHER_SENSE	-	-	-	-	-	SURE	«وردن جبا الكلاب» اسم موضع
+HFN-E-17c372759a#1	YES	محلّ	تضمّن	-	-	ركبتيه	UNSURE	«جثا جثوا - جلس على ركبتيه»
+HFN-E-17c372759a#2	OTHER_SENSE	-	-	-	-	-	SURE	«وجث جثا... من الفزع» كلمة أخرى
+HFN-E-17c372759a#3	OTHER_SENSE	-	-	-	-	-	SURE	«الجث: قطعك الشيء» من جثّ
+HFN-E-582c57ecc0#1	OTHER_SENSE	-	-	-	-	-	SURE	«فجاج» كلمة أخرى
+HFN-E-3ad9a57f41#1	OTHER_SENSE	-	-	-	-	-	SURE	«الحتي - وهو سويق المقل» اسم ذات
+HFN-E-05db376537#1	NO_DHAT	-	-	-	-	-	SURE	«حزى حزيا وتحزى: تكهن»
+HFN-E-294bfc48db#1	OTHER_SENSE	-	-	-	-	-	SURE	«حضضته أحضه حضا» من حضّ
+HFN-E-294bfc48db#2	YES	محلّ	التزام	عاديّ	مطلق	النار	UNSURE	«فادت النار وحضأتها... أحضؤها حضأ»
+HFN-E-294bfc48db#3	OTHER_SENSE	-	-	-	-	-	SURE	«فحضت الشيء» كلمة أخرى
+HFN-E-2dda57ec6c#1	NO_DHAT	-	-	-	-	-	SURE	«جدي حظي... حظيت به خيرا»
+HFN-E-0172a2b523#1	YES	محلّ	تضمّن	-	-	الإنسان	SURE	«الحفاية - اللطف بالإنسان حفي به»
+HFN-E-0172a2b523#2	YES	محلّ	تضمّن	-	-	القدم	UNSURE	«حفى حفا... الحفا ألم القدم من الحجارة»
+HFN-E-0172a2b523#3	NO_DHAT	-	-	-	-	-	UNSURE	«كأنك حفي عنها أي عالم»
+HFN-E-0172a2b523#4	NO_DHAT	-	-	-	-	-	UNSURE	«وحفي مزاحيف وصرعى» بلا ذات مذكورة
+HFN-E-0172a2b523#5	YES	فاعل	التزام	عاديّ	مطلق	الحجارة	UNSURE	«حفي حفا فهو حف وأحفته الحجارة»؛ حافره
+HFN-E-b9ab1d1eb0#1	OTHER_SENSE	-	-	-	-	-	SURE	«الحاجة... وقد حجت» من حوج
+HFN-E-b9ab1d1eb0#2	OTHER_SENSE	-	-	-	-	-	SURE	«حجه يحجه حجا» من حجّ
+HFN-E-b9ab1d1eb0#3	OTHER_SENSE	-	-	-	-	-	SURE	«كذاك الحاج ترضع» اسم
+HFN-E-b9ab1d1eb0#4	OTHER_SENSE	-	-	-	-	-	SURE	«وهم الحاج» اسم جمع
+HFN-E-b9ab1d1eb0#5	OTHER_SENSE	-	-	-	-	-	SURE	«كذاك الحاج ترضع» اسم
+HFN-E-7f7e61dd8c#1	OTHER_SENSE	-	-	-	-	-	SURE	«ووخزه وخزا» من وخز
+HFN-E-7f7e61dd8c#2	OTHER_SENSE	-	-	-	-	-	SURE	«جاؤا وخزا وخزا» من وخز
+HFN-E-7f7e61dd8c#3	OTHER_SENSE	-	-	-	-	-	SURE	«خز الحائط يخزه خزا» من خزّ
+HFN-E-7f7e61dd8c#4	OTHER_SENSE	-	-	-	-	-	SURE	«قزا تحتها وخزا» اسم ذات
+HFN-E-7f7e61dd8c#5	OTHER_SENSE	-	-	-	-	-	SURE	«وخزا من خضرة» من وخز
+HFN-E-e227829cc1#1	YES	فاعل	تضمّن	-	-	البرق	SURE	«خفا يخفو خفوا برق برقا ضعيفا»
+HFN-E-e227829cc1#2	OTHER_SENSE	-	-	-	-	-	SURE	«كي تخفا» من خفّ
+HFN-E-e227829cc1#3	OTHER_SENSE	-	-	-	-	-	SURE	«خف يخف خفا» من خفّ
+HFN-E-e227829cc1#4	OTHER_SENSE	-	-	-	-	-	SURE	«خفا البعير» مثنّى خفّ
+HFN-E-e227829cc1#5	OTHER_SENSE	-	-	-	-	-	SURE	«فخفأه صرعه» كلمة أخرى
+HFN-E-ff667b5ab1#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«فخلى للأذواد» من التخلية
+HFN-E-ff667b5ab1#2	OTHER_SENSE	-	-	-	-	-	UNSURE	«خلى مكانه» من التخلية
+HFN-E-ff667b5ab1#3	OTHER_SENSE	-	-	-	-	-	UNSURE	«خلى وجوهها إلى الماء» من التخلية
+HFN-E-ff667b5ab1#4	YES	محلّ	تضمّن	-	-	الخضرة	SURE	«كالاختلاء وهو جز الخضرة»؛ الخلى
+HFN-E-ff667b5ab1#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«خلى مكانه» من التخلية
+HFN-E-5a91294e2c#1	OTHER_SENSE	-	-	-	-	-	SURE	«خواب واحدها خاب - وهي القرابات»
+HFN-E-5a91294e2c#2	NO_DHAT	-	-	-	-	-	SURE	«خاب خيبة - حرم»
+HFN-E-5a91294e2c#3	NO_DHAT	-	-	-	-	-	SURE	«وقد خاب من دساها»
+HFN-E-eb900f0a56#1	YES	محلّ	التزام	عاديّ	مطلق	الإنسان	UNSURE	«المدعو بها على الإنسان قولهم خيبة لك»
+HFN-E-eb900f0a56#2	NO_DHAT	-	-	-	-	-	SURE	«خاب خيبة - حرم»
+HFN-E-eb900f0a56#3	OTHER_SENSE	-	-	-	-	-	SURE	«خواب واحدها خاب - وهي القرابات»
+HFN-E-eb900f0a56#4	NO_DHAT	-	-	-	-	-	SURE	«وقد خاب من دساها»
+HFN-E-eb900f0a56#5	NO_DHAT	-	-	-	-	-	SURE	«العناق ههنا - الخيبة»
+HFN-E-84f0d88815#1	YES	فاعل	تضمّن	-	-	المطر	UNSURE	«المطر الداحي الذي يدحى الحصى»؛ الحصى محلّ
+HFN-E-84f0d88815#2	OTHER_SENSE	-	-	-	-	-	SURE	«دححت أدح دحا» من دحّ
+HFN-E-84f0d88815#3	OTHER_SENSE	-	-	-	-	-	SURE	«دح في قفاه» من دحّ
+HFN-E-84f0d88815#4	OTHER_SENSE	-	-	-	-	-	SURE	«دححت الشيء» من دحّ
+HFN-E-84f0d88815#5	OTHER_SENSE	-	-	-	-	-	SURE	«فدحني» كلمة أخرى
+HFN-E-17709b09d4#1	NO_DHAT	-	-	-	-	-	SURE	«دسى يدسى - نقيض زكا»
+HFN-E-7fea5922aa#1	YES	فاعل	التزام	عاديّ	مطلق	الرجل	UNSURE	«دعوته دعوا... قدر دعوة الرجل»
+HFN-E-7fea5922aa#2	NO_DHAT	-	-	-	-	-	UNSURE	«فدعا الله أن يذهب ذلك عنه»
+HFN-E-7fea5922aa#3	OTHER_SENSE	-	-	-	-	-	SURE	«فدع فدعا» كلمة أخرى
+HFN-E-7fea5922aa#4	YES	فاعل	التزام	عاديّ	مطلق	ميدعان	UNSURE	«لو ميدعان دعا الصريخ»
+HFN-E-7fea5922aa#5	OTHER_SENSE	-	-	-	-	-	SURE	«فدع فدعا» كلمة أخرى
+HFN-E-91146e5181#1	OTHER_SENSE	-	-	-	-	-	SURE	«جمع الدلو أدل ودلاء ودلي» اسم
+HFN-E-670d59dc12#1	OTHER_SENSE	-	-	-	-	-	UNSURE	«الدأب الصوت الشديد» اسم بمعنى بعيد
+HFN-E-670d59dc12#2	NO_DHAT	-	-	-	-	-	SURE	«مازال هذا دأبك... دأب يدأب»
+HFN-E-670d59dc12#3	NO_DHAT	-	-	-	-	-	SURE	«السير المجد والدأب»
+HFN-E-670d59dc12#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«وقد كثر في الداب» كلمة أخرى
+HFN-E-03192c4fad#1	OTHER_SENSE	-	-	-	-	-	SURE	«سوداء في داج» من دجا
+HFN-E-03192c4fad#2	OTHER_SENSE	-	-	-	-	-	SURE	«فالداج الأعوان» اسم جمع
+HFN-E-03192c4fad#3	OTHER_SENSE	-	-	-	-	-	SURE	«كالحاج والداج اسم للجمع»
+HFN-E-03192c4fad#4	OTHER_SENSE	-	-	-	-	-	SURE	«أسود داج» من دجا
+HFN-E-03192c4fad#5	OTHER_SENSE	-	-	-	-	-	SURE	«بأسحم داج» من دجا
+HFN-E-5828135b59#1	OTHER_SENSE	-	-	-	-	-	SURE	«إذا قال داع داع» صوت زجر
+HFN-E-5828135b59#2	OTHER_SENSE	-	-	-	-	-	SURE	«داع داع من زجر صغار المعز»
+HFN-E-5828135b59#3	NO_DHAT	-	-	-	-	-	SURE	«داع دوعا - استن عاديا أو سابحا»
+HFN-E-5828135b59#4	NO_DHAT	-	-	-	-	-	SURE	«داع يدوع دوعا استن سابحا»
+HFN-E-5828135b59#5	OTHER_SENSE	-	-	-	-	-	SURE	«وكل داع بخير» من دعا
+HFN-E-b54243f8cf#1	OTHER_SENSE	-	-	-	-	-	SURE	«من داخ جحره» أي داخل
+HFN-E-b54243f8cf#2	OTHER_SENSE	-	-	-	-	-	SURE	«وليل داخ» بمعنى مظلم
+HFN-E-b54243f8cf#3	NO_DHAT	-	-	-	-	-	SURE	«داخ دوخا - ذل»
+HFN-E-6e9b4481cd#1	NO_DHAT	-	-	-	-	-	SURE	«الرذي - الثقيل من الوجع... وقد رذي»
+HFN-E-6e9b4481cd#2	YES	محلّ	التزام	عاديّ	مطلق	جمل	SURE	«جمل رذي... وقد رذي رذاوة»
+HFN-E-6e9b4481cd#3	NO_DHAT	-	-	-	-	-	UNSURE	«رأم رذي» في شاهد غامض
+HFN-E-f802665a00#1	YES	محلّ	التزام	عاديّ	مطلق	عمر	UNSURE	«لعمر بن الخطاب رضي الله عنه»
+HFN-E-f802665a00#2	YES	محلّ	التزام	عاديّ	مطلق	عمر	UNSURE	«لعمر رضي الله عنه»
+HFN-E-f802665a00#3	YES	محلّ	التزام	عاديّ	مطلق	علي	UNSURE	«لعلي رضي الله عنه»
+HFN-E-f802665a00#4	YES	محلّ	التزام	عاديّ	مطلق	عمر	UNSURE	«قول عمر رضي الله عنه»
+HFN-E-f802665a00#5	YES	محلّ	التزام	عاديّ	مطلق	عائشة	UNSURE	«حديث عائشة رضي الله عنها»
+HFN-E-075a9abe28#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	«وقد رضي رضا... ورجل مرضو ومرضي»
+HFN-E-075a9abe28#2	YES	محلّ	التزام	عاديّ	مطلق	عمر	UNSURE	«لعمر بن الخطاب رضي الله عنه»
+HFN-E-075a9abe28#3	YES	محلّ	التزام	عاديّ	مطلق	عمر	UNSURE	«لعمر رضي الله عنه»
+HFN-E-075a9abe28#4	YES	محلّ	التزام	عاديّ	مطلق	علي	UNSURE	«لعلي رضي الله عنه»
+HFN-E-075a9abe28#5	OTHER_SENSE	-	-	-	-	-	SURE	«فرضا وسنة» من فرض
+HFN-E-28bbaed6fa#1	OTHER_SENSE	-	-	-	-	-	SURE	«وقد رفت ترف رفا» من رفّ
+HFN-E-28bbaed6fa#2	OTHER_SENSE	-	-	-	-	-	SURE	«رف المرأة يرفها رفا» من رفّ
+HFN-E-28bbaed6fa#3	OTHER_SENSE	-	-	-	-	-	SURE	«أرفه رفا ورفيفا - مصصته» من رفّ
+HFN-E-28bbaed6fa#4	OTHER_SENSE	-	-	-	-	-	SURE	«الرف... عملت له رفا» من رفّ
+HFN-E-28bbaed6fa#5	OTHER_SENSE	-	-	-	-	-	SURE	«رففت الرجل أرف رفا» من رفّ
+HFN-E-6be206cb5f#1	NO_DHAT	-	-	-	-	-	SURE	«الرنو إدامة النظر مع سكون وقد رنا»
+HFN-E-6be206cb5f#2	NO_DHAT	-	-	-	-	-	SURE	«الرناء - الطرب وقد رنوت»
+HFN-E-6be206cb5f#3	OTHER_SENSE	-	-	-	-	-	SURE	«الفرنية» كلمة أخرى
+HFN-E-6be206cb5f#4	OTHER_SENSE	-	-	-	-	-	UNSURE	«فإن الرنو من الأضداد» أي الرتو
+HFN-E-6be206cb5f#5	YES	محلّ	التزام	عاديّ	مطلق	كأس	UNSURE	«رنوناة مأخوذة من الرنو... كأس رنوناة»
+HFN-E-1d35b14b27#1	OTHER_SENSE	-	-	-	-	-	SURE	«لا خلاط ولا وراط» من ورط
+HFN-E-1d35b14b27#2	OTHER_SENSE	-	-	-	-	-	SURE	«الورطة... وجمعها وراط» من ورط
+HFN-E-1d35b14b27#3	YES	فاعل	تضمّن	-	-	الوحشي	SURE	«راط الوحشي بالأكمة روطا - لاذ»؛ الأكمة مكان
+HFN-E-ee29a1e221#1	OTHER_SENSE	-	-	-	-	-	SURE	«فروة والجمع فراء» اسم
+HFN-E-ee29a1e221#2	OTHER_SENSE	-	-	-	-	-	SURE	«والراء تصحيف» اسم حرف
+HFN-E-ee29a1e221#3	OTHER_SENSE	-	-	-	-	-	SURE	«وراء الأذنين» ظرف
+HFN-E-ee29a1e221#4	OTHER_SENSE	-	-	-	-	-	SURE	«قبل الراء واللام» اسم حرف
+HFN-E-ee29a1e221#5	OTHER_SENSE	-	-	-	-	-	SURE	«من وراء ومقدم» ظرف
+HFN-E-50ab9eb8b5#1	OTHER_SENSE	-	-	-	-	-	SURE	«فراخ القطا» من فرخ
+HFN-E-50ab9eb8b5#2	OTHER_SENSE	-	-	-	-	-	SURE	«فراخ النخل» من فرخ
+HFN-E-50ab9eb8b5#3	OTHER_SENSE	-	-	-	-	-	SURE	«فراخ الهام» من فرخ
+HFN-E-50ab9eb8b5#4	OTHER_SENSE	-	-	-	-	-	SURE	«فراخ الطير» من فرخ
+HFN-E-50ab9eb8b5#5	OTHER_SENSE	-	-	-	-	-	SURE	«فراخ الطير» من فرخ
+HFN-E-69cd503c39#1	YES	محلّ	التزام	شرعيّ	مطلق	مال	UNSURE	«كل مال زكي فقد ذهبت عنه أبلته»
+HFN-E-69cd503c39#2	YES	محلّ	التزام	عاديّ	مطلق	الزرع	SURE	«والزرع يزكو زكاء»
+HFN-E-69cd503c39#3	NO_DHAT	-	-	-	-	-	SURE	«وتقي وزكي وبر... نظائر»
+HFN-E-2a2d598d54#1	NO_DHAT	-	-	-	-	-	SURE	«زاح الشيء يزوح... تحرك» الشيء ليس ذاتا
+HFN-E-2a2d598d54#2	NO_DHAT	-	-	-	-	-	SURE	«زاح الشيء زيحا - ذهب»
+HFN-E-2a2d598d54#3	NO_DHAT	-	-	-	-	-	SURE	«زاح الشيء... زال عن مكانه»
+HFN-E-6f8cbbb7b0#1	OTHER_SENSE	-	-	-	-	-	SURE	«كانت وسطا» من وسط
+HFN-E-6f8cbbb7b0#2	OTHER_SENSE	-	-	-	-	-	SURE	«لكونهما وسطا» من وسط
+HFN-E-6f8cbbb7b0#3	OTHER_SENSE	-	-	-	-	-	SURE	«أمة وسطا» من وسط
+HFN-E-6f8cbbb7b0#4	YES	فاعل	تضمّن	-	-	فرس	SURE	«فرس ساط بعيد الشحوة... وقد سطا يسطو»
+HFN-E-6f8cbbb7b0#5	OTHER_SENSE	-	-	-	-	-	SURE	«وأعظم وسطا» من وسط
+HFN-E-50743943d8#1	YES	فاعل	تضمّن	-	-	البرق	UNSURE	«السنا أن ترى ضوء البرق... وقد سنا يسنو»
+HFN-E-50743943d8#2	NO_DHAT	-	-	-	-	-	SURE	«سنو في حسبه سناء... ارتفع»
+HFN-E-50743943d8#3	YES	فاعل	تضمّن	-	-	النار	SURE	«سنت النار تسنو سناء - إذا علا ضوءها»
+HFN-E-50743943d8#4	OTHER_SENSE	-	-	-	-	-	SURE	«عن سني» من السنّ
+HFN-E-50743943d8#5	OTHER_SENSE	-	-	-	-	-	UNSURE	«على موصبات السني» كلمة أخرى

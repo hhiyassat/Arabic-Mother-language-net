@@ -1,0 +1,251 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-1ff8503ffc#1	OTHER_SENSE	-	-	-	-	-	SURE	الحدأة الفأس اسم أداة
+HFN-E-1ff8503ffc#2	OTHER_SENSE	-	-	-	-	-	UNSURE	حدوت الإبل من حدو لا حدأ
+HFN-E-1ff8503ffc#3	OTHER_SENSE	-	-	-	-	-	SURE	الحدأة طائر
+HFN-E-1ff8503ffc#4	OTHER_SENSE	-	-	-	-	-	SURE	الحد الفصل كلمة أخرى
+HFN-E-1ff8503ffc#5	OTHER_SENSE	-	-	-	-	-	SURE	حداء البيوت أي إزاءها
+HFN-E-d84e3db035#1	NO_DHAT	-	-	-	-	-	SURE	حدئت عليه حدأ غضبت له
+HFN-E-a5990ce356#1	YES	محلّ	تضمّن	-	-	الظهر	SURE	في الظهر الحدب وهو دخول الصدر وخروج الظهر
+HFN-E-a5990ce356#2	YES	محلّ	تضمّن	-	-	الرمل	UNSURE	احدودب الرمل احقوقف؛ الحدب اسم مكان
+HFN-E-a5990ce356#3	YES	فاعل	تضمّن	-	-	المرأة	UNSURE	حدبت المرأة على ولدها؛ ولدها محلّ
+HFN-E-a5990ce356#4	YES	محلّ	التزام	عاديّ	مطلق	الأنوف	UNSURE	الأشم من الأنوف طال في غير حدب
+HFN-E-a5990ce356#5	YES	محلّ	التزام	عاديّ	مطلق	الصلب	UNSURE	في اليدين والصلب كالحدب
+HFN-E-ecf2945186#1	OTHER_SENSE	-	-	-	-	-	SURE	حدّث من الحديث معنى بعيد
+HFN-E-ecf2945186#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الحدث عنوان بمعنى الغائط
+HFN-E-ecf2945186#3	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	رجل حدث السن الحداثة والحدوثة
+HFN-E-ecf2945186#4	OTHER_SENSE	-	-	-	-	-	SURE	حدث فزاد في الحديث من التحديث
+HFN-E-ecf2945186#5	OTHER_SENSE	-	-	-	-	-	SURE	العذرة الحدث اسم ذات
+HFN-E-b81dda13b8#1	YES	آلة	التزام	عقليّ	ذهنيّ	الحدج	UNSURE	حدجت البعير أحدجه؛ البعير محلّ
+HFN-E-b81dda13b8#2	OTHER_SENSE	-	-	-	-	-	SURE	الحدج الحنظل إذا اشتد
+HFN-E-b81dda13b8#3	OTHER_SENSE	-	-	-	-	-	SURE	الحدج من اليقطين اسم نبات
+HFN-E-b81dda13b8#4	YES	آلة	تضمّن	-	-	بصره	UNSURE	حدجه ببصره رماه به
+HFN-E-b81dda13b8#5	OTHER_SENSE	-	-	-	-	-	SURE	الحدج حسك القطن
+HFN-E-3773179fde#1	YES	محلّ	تضمّن	-	-	جلد	SURE	حدر جلد الرجل يحدر حدرا وحدورا ورم
+HFN-E-3773179fde#2	YES	محلّ	التزام	عاديّ	مطلق	غلام	SURE	غلام حادر جميل وقد حدر حدورة
+HFN-E-3773179fde#3	OTHER_SENSE	-	-	-	-	-	UNSURE	حدور الرمل ما تسفل منه اسم مكان
+HFN-E-3773179fde#4	YES	فاعل	تضمّن	-	-	الدواء	UNSURE	حدر الدواء بطنه أسهله؛ بطنه محلّ
+HFN-E-3773179fde#5	YES	محلّ	التزام	عاديّ	مطلق	وتر	UNSURE	وتر حادر وقد حدر حدورة
+HFN-E-5411ef3225#1	YES	محلّ	تضمّن	-	-	جلد	SURE	حدر جلد الرجل يحدر حدرا ورم
+HFN-E-5411ef3225#2	YES	محلّ	التزام	عاديّ	مطلق	غلام	SURE	غلام حادر جميل وقد حدر
+HFN-E-5411ef3225#3	OTHER_SENSE	-	-	-	-	-	UNSURE	حدر الدواء بطنه أسهله معنى بعيد
+HFN-E-5411ef3225#4	YES	محلّ	التزام	عاديّ	مطلق	وتر	SURE	وتر حادر ممتلئ قوي وقد حدر
+HFN-E-5411ef3225#5	OTHER_SENSE	-	-	-	-	-	UNSURE	حدر الماء اسم مكان المسيل
+HFN-E-b6682b4b5a#1	YES	محلّ	التزام	عاديّ	مطلق	غلام	SURE	غلام حادر وقد حدر حدارة
+HFN-E-b6682b4b5a#2	YES	محلّ	تضمّن	-	-	جلد	SURE	حدر جلد الرجل ورم
+HFN-E-b6682b4b5a#3	OTHER_SENSE	-	-	-	-	-	UNSURE	حدر الدواء بطنه أسهله معنى بعيد
+HFN-E-b6682b4b5a#4	YES	محلّ	التزام	عاديّ	مطلق	وتر	SURE	وتر حادر وقد حدر حدورة
+HFN-E-b6682b4b5a#5	OTHER_SENSE	-	-	-	-	-	UNSURE	حدر الماء اسم مكان
+HFN-E-d8a14513ff#1	NO_DHAT	-	-	-	-	-	UNSURE	عنوان التظني والحدس فقط
+HFN-E-d8a14513ff#2	OTHER_SENSE	-	-	-	-	-	SURE	حدس زجر للبغل أو علم رجل
+HFN-E-d8a14513ff#3	NO_DHAT	-	-	-	-	-	SURE	الحدس في السير سرعة
+HFN-E-d8a14513ff#4	YES	محلّ	تضمّن	-	-	ناقته	UNSURE	حدس بناقته إذا أناخها
+HFN-E-d8a14513ff#5	NO_DHAT	-	-	-	-	-	SURE	حدس يحدس حدسا استبد برأيه
+HFN-E-eb34c91431#1	YES	محلّ	تضمّن	-	-	المنكبين	UNSURE	المنكبين الحدل أن يشرف أحدهما
+HFN-E-eb34c91431#2	NO_DHAT	-	-	-	-	-	SURE	حدل علي يحدل حدلا ظلمني
+HFN-E-eb34c91431#3	YES	محلّ	التزام	عاديّ	مطلق	خصية	UNSURE	الأحدل الذي له خصية واحدة
+HFN-E-eb34c91431#4	NO_DHAT	-	-	-	-	-	UNSURE	الحندل مأخوذ من الحدل ذكر فقط
+HFN-E-eb34c91431#5	YES	محلّ	التزام	عاديّ	مطلق	القسي	SURE	المحدلة بينة الحدل والقسي كلها محدلة
+HFN-E-469926bdd6#1	YES	محلّ	التزام	عاديّ	مطلق	الحر	UNSURE	إذا طلع النجم فالحر في حدم
+HFN-E-5a56a3b4cd#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	الحذر الخيفة ورجل حذر
+HFN-E-5a56a3b4cd#2	NO_DHAT	-	-	-	-	-	SURE	الحذر الحذر أي احذر
+HFN-E-5a56a3b4cd#3	NO_DHAT	-	-	-	-	-	SURE	ثم حذر أن يقال جمع عليم
+HFN-E-5a56a3b4cd#4	NO_DHAT	-	-	-	-	-	UNSURE	إني حوالي وإني حذر
+HFN-E-5a56a3b4cd#5	NO_DHAT	-	-	-	-	-	UNSURE	كأنه على حذر من السقوط
+HFN-E-93cfbc996d#1	NO_DHAT	-	-	-	-	-	SURE	حذفوا الياء حذف صرفي
+HFN-E-93cfbc996d#2	NO_DHAT	-	-	-	-	-	SURE	حذف حرف الجر من المقسم به
+HFN-E-93cfbc996d#3	NO_DHAT	-	-	-	-	-	SURE	حذفت الهاء التي هي لام
+HFN-E-93cfbc996d#4	NO_DHAT	-	-	-	-	-	SURE	على تقدير حذف التاء
+HFN-E-93cfbc996d#5	NO_DHAT	-	-	-	-	-	SURE	حذف المضاف
+HFN-E-92b937867c#1	YES	محلّ	التزام	عاديّ	مطلق	قوم	UNSURE	حذق الشيء فهو حاذق من قوم حذاق
+HFN-E-92b937867c#2	NO_DHAT	-	-	-	-	-	SURE	لا حذق له بالعمل
+HFN-E-92b937867c#3	YES	محلّ	التزام	عاديّ	مطلق	النساء	UNSURE	نعوت النساء في الحذق الحاذقة بالعمل
+HFN-E-92b937867c#4	YES	محلّ	تضمّن	-	-	اللبن	UNSURE	حذق اللبن والنبيذ يحذق حذوقا
+HFN-E-92b937867c#5	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	أبل الرجل إذا حذق مصلحتها؛ الرجل فاعل
+HFN-E-96698ae751#1	YES	محلّ	التزام	عاديّ	مطلق	قوم	UNSURE	حذق الشيء فهو حاذق من قوم حذاق
+HFN-E-96698ae751#2	NO_DHAT	-	-	-	-	-	SURE	لا حذق له بالعمل
+HFN-E-96698ae751#3	YES	محلّ	التزام	عاديّ	مطلق	النساء	UNSURE	نعوت النساء في الحذق الحاذقة بالعمل
+HFN-E-96698ae751#4	OTHER_SENSE	-	-	-	-	-	UNSURE	حذق اللبن حمض معنى بعيد
+HFN-E-96698ae751#5	YES	محلّ	التزام	عاديّ	مطلق	الإبل	UNSURE	أبل الرجل إذا حذق مصلحتها؛ الرجل فاعل
+HFN-E-99df4fb0dd#1	OTHER_SENSE	-	-	-	-	-	SURE	الحذل مستدار الذيل اسم ذات
+HFN-E-99df4fb0dd#2	NO_DHAT	-	-	-	-	-	UNSURE	وفيها الحذل مرجع الضمير غير مذكور
+HFN-E-99df4fb0dd#3	YES	محلّ	التزام	عاديّ	مطلق	العيون	SURE	للعيون الحذل وإنما تحذل إذا بكت
+HFN-E-99df4fb0dd#4	OTHER_SENSE	-	-	-	-	-	SURE	الحذل ضرب من حب الشجر
+HFN-E-99df4fb0dd#5	OTHER_SENSE	-	-	-	-	-	SURE	حذل مال القليل
+HFN-E-830975f73e#1	YES	آلة	التزام	عاديّ	مطلق	سيف	SURE	الحذم القطع الوحي وسيف حاذم
+HFN-E-830975f73e#2	OTHER_SENSE	-	-	-	-	-	SURE	حذام وقطام علم مبني
+HFN-E-97a828afb3#1	YES	فاعل	التزام	عاديّ	مطلق	شراب	UNSURE	شراب يحذى اللسان؛ اللسان محلّ
+HFN-E-97a828afb3#2	OTHER_SENSE	-	-	-	-	-	UNSURE	حذا من الحذيا ما وهبت
+HFN-E-97a828afb3#3	YES	محلّ	التزام	عقليّ	ذهنيّ	الحذاء	UNSURE	حذوتها حذوا قطعتها حذاء بين الحذو
+HFN-E-97a828afb3#4	OTHER_SENSE	-	-	-	-	-	UNSURE	على حذو الشيء أي إزاءه
+HFN-E-961d9beee2#1	OTHER_SENSE	-	-	-	-	-	SURE	عركتهم الحرب اسم القتال
+HFN-E-961d9beee2#2	OTHER_SENSE	-	-	-	-	-	SURE	خراج في الحروب
+HFN-E-961d9beee2#3	OTHER_SENSE	-	-	-	-	-	SURE	الحرب نقيض السلم
+HFN-E-961d9beee2#4	OTHER_SENSE	-	-	-	-	-	SURE	صوت الحرب
+HFN-E-961d9beee2#5	OTHER_SENSE	-	-	-	-	-	SURE	نارا من الحرب
+HFN-E-94a3e17f1d#1	OTHER_SENSE	-	-	-	-	-	SURE	عركتهم الحرب اسم القتال
+HFN-E-94a3e17f1d#2	OTHER_SENSE	-	-	-	-	-	SURE	خراج في الحروب
+HFN-E-94a3e17f1d#3	OTHER_SENSE	-	-	-	-	-	SURE	الحرب نقيض السلم
+HFN-E-94a3e17f1d#4	OTHER_SENSE	-	-	-	-	-	SURE	صوت الحرب
+HFN-E-94a3e17f1d#5	OTHER_SENSE	-	-	-	-	-	SURE	نارا من الحرب
+HFN-E-aaeece1f7a#1	OTHER_SENSE	-	-	-	-	-	SURE	حرت كبده من حرر العطش
+HFN-E-aaeece1f7a#2	OTHER_SENSE	-	-	-	-	-	SURE	وحرت وحرا كلمة أخرى
+HFN-E-aaeece1f7a#3	NO_DHAT	-	-	-	-	-	SURE	حرت الشيء قطعته قطعا مستديرا
+HFN-E-4b9e2ba074#1	OTHER_SENSE	-	-	-	-	-	SURE	حرت كبده من حرر العطش
+HFN-E-4b9e2ba074#2	OTHER_SENSE	-	-	-	-	-	SURE	وحرت وحرا كلمة أخرى
+HFN-E-4b9e2ba074#3	NO_DHAT	-	-	-	-	-	UNSURE	حرت الشيء قطعته قطعا مستديرا
+HFN-E-41c7d4a68c#1	YES	محلّ	تضمّن	-	-	الأرض	SURE	الحرث عمل الأرض لزرع أو غرس
+HFN-E-41c7d4a68c#2	OTHER_SENSE	-	-	-	-	-	SURE	عبد الحرث علم
+HFN-E-41c7d4a68c#3	OTHER_SENSE	-	-	-	-	-	UNSURE	أسماء خيل وأعلام فقط
+HFN-E-41c7d4a68c#4	OTHER_SENSE	-	-	-	-	-	UNSURE	فلجان الحرث أي الزرع
+HFN-E-41c7d4a68c#5	NO_DHAT	-	-	-	-	-	SURE	الحرث الكسب حرث يحرث
+HFN-E-6af2653526#1	YES	محلّ	التزام	عاديّ	مطلق	صدره	SURE	حرج صدره حرجا فهو حرج
+HFN-E-6af2653526#2	NO_DHAT	-	-	-	-	-	SURE	الحرج الإثم ليس في الأمر حرج
+HFN-E-6af2653526#3	YES	محلّ	التزام	عاديّ	مطلق	مكان	UNSURE	ومنه مكان ضيق حرج
+HFN-E-6af2653526#4	NO_DHAT	-	-	-	-	-	UNSURE	أصله من الحرج وهو الضيق
+HFN-E-6af2653526#5	NO_DHAT	-	-	-	-	-	UNSURE	الحرج الذي لا يبرح القتال
+HFN-E-3976b9b701#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	حرد حردا هاج وغضب ورجل حرد
+HFN-E-3976b9b701#2	YES	محلّ	تضمّن	-	-	البعير	SURE	الحرد أن ييبس عصب البعير
+HFN-E-3976b9b701#3	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل حريد متحول عن قومه حرد حرودا
+HFN-E-3976b9b701#4	OTHER_SENSE	-	-	-	-	-	SURE	الحرود مباعر الإبل اسم ذات
+HFN-E-3976b9b701#5	YES	محلّ	تضمّن	-	-	الحبل	SURE	حردت الحبل إذا ضفرته على غير استواء
+HFN-E-191e8ae639#1	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	حرد حردا هاج وغضب ورجل حرد
+HFN-E-191e8ae639#2	YES	محلّ	تضمّن	-	-	البعير	SURE	الحرد أن ييبس عصب البعير
+HFN-E-191e8ae639#3	OTHER_SENSE	-	-	-	-	-	UNSURE	حرد يحرد حرودا تحول معنى بعيد
+HFN-E-191e8ae639#4	OTHER_SENSE	-	-	-	-	-	SURE	الحرود مباعر الإبل اسم ذات
+HFN-E-191e8ae639#5	YES	محلّ	تضمّن	-	-	الحبل	UNSURE	حبل حرد فيه حرد
+HFN-E-b74c3664da#1	YES	مكان	التزام	عاديّ	مطلق	موضع	UNSURE	الحرز ما أحرزته من موضع؛ تحرزت من فلان
+HFN-E-b74c3664da#2	OTHER_SENSE	-	-	-	-	-	UNSURE	من الحرز أهله اسم الموضع
+HFN-E-0a341c2c96#1	YES	مكان	التزام	عاديّ	مطلق	موضع	UNSURE	الحرز ما أحرزته من موضع؛ تحرزت من فلان
+HFN-E-0a341c2c96#2	OTHER_SENSE	-	-	-	-	-	UNSURE	من الحرز أهله اسم الموضع
+HFN-E-a3d5507a94#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الحرس الذي لا يبرح القتال
+HFN-E-a3d5507a94#2	YES	محلّ	التزام	عاديّ	مطلق	حريسة	UNSURE	حرس يحرس سرق حريسة الجبل تحترس؛ الجبل مكان
+HFN-E-a3d5507a94#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الحرس الدهر أحرس بالمكان أقام
+HFN-E-a3d5507a94#4	NO_DHAT	-	-	-	-	-	SURE	حرست الشيء حفظته
+HFN-E-ea562aced6#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الحرس الذي لا يبرح القتال
+HFN-E-ea562aced6#2	YES	محلّ	التزام	عاديّ	مطلق	حريسة	UNSURE	حرس يحرس سرق حريسة الجبل؛ الجبل مكان
+HFN-E-ea562aced6#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الحرس الدهر أحرس بالمكان أقام
+HFN-E-ea562aced6#4	NO_DHAT	-	-	-	-	-	SURE	حرست الشيء حفظته
+HFN-E-06aabd621a#1	YES	محلّ	التزام	عاديّ	مطلق	الضباب	SURE	احترشوا الضباب وحرشوها يحرشونها حرشا
+HFN-E-06aabd621a#2	YES	محلّ	تضمّن	-	-	الضب	SURE	معنى الحرش أن يمسح على فم حجر الضب
+HFN-E-06aabd621a#3	OTHER_SENSE	-	-	-	-	-	SURE	الحرش الأثر اسم
+HFN-E-06aabd621a#4	YES	فاعل	تضمّن	-	-	الرجل	SURE	الحرش مجامعة الرجل المرأة؛ المرأة محلّ
+HFN-E-06aabd621a#5	OTHER_SENSE	-	-	-	-	-	UNSURE	آثار دبرة البعير هو السحق والحرش
+HFN-E-67058c8ef6#1	OTHER_SENSE	-	-	-	-	-	UNSURE	حرش الضباب صيد لا خشونة
+HFN-E-67058c8ef6#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الحرش مسح حجر الضب صيد
+HFN-E-67058c8ef6#3	OTHER_SENSE	-	-	-	-	-	SURE	الحرش الأثر اسم
+HFN-E-67058c8ef6#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الحرش مجامعة معنى بعيد
+HFN-E-67058c8ef6#5	OTHER_SENSE	-	-	-	-	-	UNSURE	السحق والحرش أثر اسم
+HFN-E-81deed8374#1	YES	محلّ	التزام	عاديّ	مطلق	الطعام	UNSURE	المزاحم على الطعام من الحرص؛ القوم
+HFN-E-81deed8374#2	NO_DHAT	-	-	-	-	-	SURE	الحرص شدة الإرادة حرص عليه
+HFN-E-81deed8374#3	NO_DHAT	-	-	-	-	-	UNSURE	الطمع الحرص
+HFN-E-81deed8374#4	NO_DHAT	-	-	-	-	-	UNSURE	الشح حرص النفس على ما ملكت
+HFN-E-81deed8374#5	NO_DHAT	-	-	-	-	-	SURE	أسوأ الحرص وأشده
+HFN-E-19c697e638#1	YES	محلّ	التزام	عاديّ	مطلق	الطعام	UNSURE	المزاحم على الطعام من الحرص؛ القوم
+HFN-E-19c697e638#2	NO_DHAT	-	-	-	-	-	SURE	الحرص شدة الإرادة حرص عليه
+HFN-E-19c697e638#3	NO_DHAT	-	-	-	-	-	UNSURE	الطمع الحرص
+HFN-E-19c697e638#4	NO_DHAT	-	-	-	-	-	UNSURE	الشح حرص النفس على ما ملكت
+HFN-E-19c697e638#5	NO_DHAT	-	-	-	-	-	SURE	أسوأ الحرص وأشده
+HFN-E-6af76b3439#1	YES	محلّ	التزام	عاديّ	مطلق	الطعام	UNSURE	المزاحم على الطعام من الحرص؛ القوم
+HFN-E-6af76b3439#2	NO_DHAT	-	-	-	-	-	SURE	الحرص شدة الإرادة حرص عليه
+HFN-E-6af76b3439#3	NO_DHAT	-	-	-	-	-	UNSURE	الطمع الحرص
+HFN-E-6af76b3439#4	NO_DHAT	-	-	-	-	-	UNSURE	الشح حرص النفس على ما ملكت
+HFN-E-6af76b3439#5	NO_DHAT	-	-	-	-	-	SURE	أسوأ الحرص وأشده
+HFN-E-d3b8c78b6a#1	NO_DHAT	-	-	-	-	-	UNSURE	الحارض الرذل حرض يحرض حرضا
+HFN-E-d3b8c78b6a#2	OTHER_SENSE	-	-	-	-	-	SURE	الحرض الأشنان نبات
+HFN-E-d3b8c78b6a#3	YES	محلّ	تضمّن	-	-	الرجل	SURE	حرض الرجل حرضا طال سقمه وهمه
+HFN-E-d3b8c78b6a#4	OTHER_SENSE	-	-	-	-	-	SURE	الحرض من الحمض نبات
+HFN-E-d3b8c78b6a#5	OTHER_SENSE	-	-	-	-	-	SURE	الحرض الجص
+HFN-E-e1b7eb119f#1	NO_DHAT	-	-	-	-	-	UNSURE	الحارض الرذل حرض يحرض حرضا
+HFN-E-e1b7eb119f#2	YES	محلّ	تضمّن	-	-	الرجل	SURE	حرض الرجل حرضا طال سقمه وهمه
+HFN-E-e1b7eb119f#3	OTHER_SENSE	-	-	-	-	-	SURE	الحرض من الحمض نبات
+HFN-E-e1b7eb119f#4	OTHER_SENSE	-	-	-	-	-	SURE	الحرض الأشنان نبات
+HFN-E-e1b7eb119f#5	OTHER_SENSE	-	-	-	-	-	SURE	الحرض الجص
+HFN-E-523637fa12#1	NO_DHAT	-	-	-	-	-	UNSURE	الحارض الرذل حرض يحرض حرضا
+HFN-E-523637fa12#2	YES	محلّ	تضمّن	-	-	الرجل	SURE	حرض الرجل حرضا طال سقمه وهمه
+HFN-E-523637fa12#3	OTHER_SENSE	-	-	-	-	-	SURE	الحرض من الحمض نبات
+HFN-E-523637fa12#4	OTHER_SENSE	-	-	-	-	-	SURE	الحرض الأشنان نبات
+HFN-E-523637fa12#5	OTHER_SENSE	-	-	-	-	-	SURE	الحرض الجص
+HFN-E-50a70a3537#1	OTHER_SENSE	-	-	-	-	-	SURE	هذا الحرف حرف هجاء
+HFN-E-50a70a3537#2	OTHER_SENSE	-	-	-	-	-	SURE	حرف لين
+HFN-E-50a70a3537#3	OTHER_SENSE	-	-	-	-	-	SURE	يحذف الحرف حرف هجاء
+HFN-E-50a70a3537#4	OTHER_SENSE	-	-	-	-	-	SURE	حرف القسم
+HFN-E-50a70a3537#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الحرف الناقة الضامر أحرفت ناقتي هزلتها
+HFN-E-f8e6349bf5#1	OTHER_SENSE	-	-	-	-	-	SURE	هذا الحرف حرف هجاء
+HFN-E-f8e6349bf5#2	OTHER_SENSE	-	-	-	-	-	SURE	حرف لين
+HFN-E-f8e6349bf5#3	OTHER_SENSE	-	-	-	-	-	SURE	يحذف الحرف حرف هجاء
+HFN-E-f8e6349bf5#4	OTHER_SENSE	-	-	-	-	-	SURE	حرف القسم
+HFN-E-f8e6349bf5#5	OTHER_SENSE	-	-	-	-	-	UNSURE	الحرف الناقة الضامر أحرفت ناقتي هزلتها
+HFN-E-c2de85d23d#1	YES	فاعل	التزام	عاديّ	مطلق	النار	UNSURE	تحرقت النار نار حراق تحرق كل شيء
+HFN-E-c2de85d23d#2	YES	محلّ	تضمّن	-	-	الشعر	SURE	إذا تقطع الشعر قيل حرق حرقا
+HFN-E-c2de85d23d#3	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	أصابه حرق وقد حرقت الرجل أحرقه
+HFN-E-c2de85d23d#4	YES	محلّ	تضمّن	-	-	الثوب	SURE	الحرق أن يصيب الثوب احتراق
+HFN-E-c2de85d23d#5	YES	محلّ	التزام	عاديّ	مطلق	جذيمة	UNSURE	جذيمة الأبرش أصابه حرق
+HFN-E-70944c4c5a#1	NO_DHAT	-	-	-	-	-	SURE	لا يجوز تحريكه لأنه لو حرك
+HFN-E-70944c4c5a#2	NO_DHAT	-	-	-	-	-	UNSURE	المعيي الذي لا حراك به
+HFN-E-70944c4c5a#3	YES	آلة	التزام	عاديّ	مطلق	الخشبة	UNSURE	المحراك الخشبة التي تحرك بها النار؛ النار محلّ
+HFN-E-70944c4c5a#4	YES	فاعل	التزام	عاديّ	مطلق	الطائر	SURE	دف الطائر وقيل حرك جناحيه؛ جناحيه محلّ
+HFN-E-70944c4c5a#5	NO_DHAT	-	-	-	-	-	UNSURE	الرازح الشديد الهزال وبه حراك
+HFN-E-64c81b8e58#1	NO_DHAT	-	-	-	-	-	SURE	لا يجوز تحريكه لأنه لو حرك
+HFN-E-64c81b8e58#2	YES	فاعل	التزام	عاديّ	مطلق	الطائر	SURE	دف الطائر وقيل حرك جناحيه؛ جناحيه محلّ
+HFN-E-64c81b8e58#3	NO_DHAT	-	-	-	-	-	SURE	فحرك العين بالحركة حرف هجاء
+HFN-E-64c81b8e58#4	NO_DHAT	-	-	-	-	-	SURE	فحرك الجمع وأسكنه
+HFN-E-64c81b8e58#5	YES	محلّ	التزام	عاديّ	مطلق	كتفيه	UNSURE	الذي إذا مشى حرك كتفيه
+HFN-E-a2966a39ff#1	NO_DHAT	-	-	-	-	-	SURE	لا يجوز تحريكه لأنه لو حرك
+HFN-E-a2966a39ff#2	NO_DHAT	-	-	-	-	-	UNSURE	المعيي الذي لا حراك به
+HFN-E-a2966a39ff#3	YES	آلة	التزام	عاديّ	مطلق	الخشبة	UNSURE	المحراك الخشبة التي تحرك بها النار؛ النار محلّ
+HFN-E-a2966a39ff#4	YES	فاعل	التزام	عاديّ	مطلق	الطائر	SURE	دف الطائر وقيل حرك جناحيه؛ جناحيه محلّ
+HFN-E-a2966a39ff#5	NO_DHAT	-	-	-	-	-	UNSURE	الرازح الشديد الهزال وبه حراك
+HFN-E-ae19017f48#1	NO_DHAT	-	-	-	-	-	SURE	حرمته حرما وحرمانا
+HFN-E-ae19017f48#2	YES	فاعل	تضمّن	-	-	الرجل	UNSURE	أحرم الرجل دخل في الحرم وكذلك حرم
+HFN-E-ae19017f48#3	NO_DHAT	-	-	-	-	-	UNSURE	الأعيان لا تحرم وإنما تحرم أفعال
+HFN-E-ae19017f48#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الحرمة ما لا يحل انتهاكه حرم الرجل نساؤه
+HFN-E-ae19017f48#5	YES	محلّ	التزام	عاديّ	مطلق	الداخل	UNSURE	قيل للداخل حرم وأحرم الخارج الداخل
+HFN-E-7dd4e064f5#1	NO_DHAT	-	-	-	-	-	SURE	الحلال ضد الحرام
+HFN-E-7dd4e064f5#2	YES	فاعل	تضمّن	-	-	الرجل	UNSURE	أحرم الرجل دخل في الحرم وكذلك حرم
+HFN-E-7dd4e064f5#3	NO_DHAT	-	-	-	-	-	UNSURE	الأعيان لا تحرم وإنما تحرم أفعال
+HFN-E-7dd4e064f5#4	OTHER_SENSE	-	-	-	-	-	UNSURE	شاة حرمى من الاستحرام معنى بعيد
+HFN-E-7dd4e064f5#5	NO_DHAT	-	-	-	-	-	UNSURE	بسل على قرنه أي حرم
+HFN-E-93796c2edb#1	YES	فاعل	التزام	عاديّ	مطلق	الناقة	SURE	الخلاء الحران في الناقة
+HFN-E-93796c2edb#2	OTHER_SENSE	-	-	-	-	-	UNSURE	طعنة مرهف حران من الحرارة
+HFN-E-93796c2edb#3	OTHER_SENSE	-	-	-	-	-	SURE	رجل حران عطشان من حرر
+HFN-E-93796c2edb#4	YES	فاعل	التزام	عاديّ	مطلق	الدابة	UNSURE	حرنت الدابة تحرن حرانا فهي حرون
+HFN-E-93796c2edb#5	YES	فاعل	التزام	عاديّ	مطلق	الخيل	SURE	اللجان في الإبل كالحران في الخيل
+HFN-E-771f20fbaf#1	OTHER_SENSE	-	-	-	-	-	UNSURE	حزب الرجل أصحابه تحزب القوم
+HFN-E-771f20fbaf#2	OTHER_SENSE	-	-	-	-	-	SURE	الحزب النصيب من المال
+HFN-E-771f20fbaf#3	OTHER_SENSE	-	-	-	-	-	SURE	حزاب وحزابية الغليظ إلى القصر
+HFN-E-a78293a3bc#1	YES	محلّ	التزام	عاديّ	مطلق	اللبن	SURE	حزر اللبن يحزر حزورا
+HFN-E-e5b0d2f2d4#1	OTHER_SENSE	-	-	-	-	-	SURE	الحزقة القصير اسم
+HFN-E-e5b0d2f2d4#2	OTHER_SENSE	-	-	-	-	-	SURE	حزق يملنية جماعات
+HFN-E-e5b0d2f2d4#3	OTHER_SENSE	-	-	-	-	-	UNSURE	من خزاز ذي حزق غير بيّن
+HFN-E-e5b0d2f2d4#4	YES	محلّ	تضمّن	-	-	الوتر	SURE	الحزق شدة جذب الوتر؛ الحبل آلة
+HFN-E-e5b0d2f2d4#5	OTHER_SENSE	-	-	-	-	-	SURE	الحزقة القطعة من الجراد
+HFN-E-d275a5ae7e#1	YES	محلّ	التزام	عاديّ	مطلق	الصدر	UNSURE	ما احتزم به الصدر أصل الحزم الشد
+HFN-E-d275a5ae7e#2	YES	محلّ	تضمّن	-	-	الإنسان	UNSURE	الحزم ضبط الإنسان أمره وقد حزم
+HFN-E-d275a5ae7e#3	OTHER_SENSE	-	-	-	-	-	SURE	حزم الأرض الغليظة اسم مكان
+HFN-E-d275a5ae7e#4	YES	محلّ	التزام	عاديّ	مطلق	الشذب	SURE	ثم حزم ذلك الشذب أو الشقق
+HFN-E-d275a5ae7e#5	YES	محلّ	تضمّن	-	-	الصدر	UNSURE	الحزم كالغصص في الصدر وقد حزم
+HFN-E-4f19e6b064#1	YES	محلّ	التزام	عاديّ	مطلق	الصدر	UNSURE	ما احتزم به الصدر أصل الحزم الشد
+HFN-E-4f19e6b064#2	YES	محلّ	تضمّن	-	-	الإنسان	UNSURE	الحزم ضبط الإنسان أمره وقد حزم
+HFN-E-4f19e6b064#3	OTHER_SENSE	-	-	-	-	-	SURE	حزم الأرض الغليظة اسم مكان
+HFN-E-4f19e6b064#4	YES	محلّ	التزام	عاديّ	مطلق	الشذب	UNSURE	ثم حزم ذلك الشذب أو الشقق
+HFN-E-4f19e6b064#5	YES	محلّ	تضمّن	-	-	الصدر	UNSURE	الحزم كالغصص في الصدر وقد حزم
+HFN-E-64713f3aee#1	YES	محلّ	التزام	عاديّ	مطلق	الصدر	UNSURE	ما احتزم به الصدر أصل الحزم الشد
+HFN-E-64713f3aee#2	YES	محلّ	تضمّن	-	-	الإنسان	SURE	الحزم ضبط الإنسان أمره حزم يحزم حزامة
+HFN-E-64713f3aee#3	YES	محلّ	التزام	عاديّ	مطلق	الشذب	UNSURE	ثم حزم ذلك الشذب أو الشقق
+HFN-E-64713f3aee#4	OTHER_SENSE	-	-	-	-	-	SURE	حزم الأرض الغليظة اسم مكان
+HFN-E-64713f3aee#5	YES	محلّ	تضمّن	-	-	الصدر	UNSURE	الحزم كالغصص في الصدر وقد حزم
+HFN-E-fe68b2d6ec#1	NO_DHAT	-	-	-	-	-	SURE	حزنني الشيء يحزنني حزنا
+HFN-E-fe68b2d6ec#2	OTHER_SENSE	-	-	-	-	-	UNSURE	حزن حزونة غلظ الأرض معنى بعيد
+HFN-E-fe68b2d6ec#3	NO_DHAT	-	-	-	-	-	SURE	الصوت المعبر به عن الحزن
+HFN-E-fe68b2d6ec#4	YES	محلّ	التزام	عاديّ	مطلق	الإنسان	SURE	ما وجده الإنسان في قلبه من ألم حزن
+HFN-E-fe68b2d6ec#5	NO_DHAT	-	-	-	-	-	UNSURE	لاحه السفر والبرد والحزن مرجع غير مذكور
+HFN-E-1780c714f9#1	NO_DHAT	-	-	-	-	-	SURE	حزنني الشيء يحزنني حزنا
+HFN-E-1780c714f9#2	OTHER_SENSE	-	-	-	-	-	UNSURE	حزن حزونة غلظ الأرض معنى بعيد
+HFN-E-1780c714f9#3	NO_DHAT	-	-	-	-	-	SURE	الصوت المعبر به عن الحزن
+HFN-E-1780c714f9#4	YES	محلّ	التزام	عاديّ	مطلق	الإنسان	SURE	ما وجده الإنسان في قلبه من ألم حزن
+HFN-E-1780c714f9#5	NO_DHAT	-	-	-	-	-	UNSURE	لاحه السفر والبرد والحزن مرجع غير مذكور
+HFN-E-abcfea27a3#1	NO_DHAT	-	-	-	-	-	SURE	حزنني الشيء يحزنني حزنا
+HFN-E-abcfea27a3#2	YES	محلّ	التزام	عاديّ	مطلق	الأرض	UNSURE	حزن حزونة الحزن الأرض الغليظة
+HFN-E-abcfea27a3#3	NO_DHAT	-	-	-	-	-	SURE	الصوت المعبر به عن الحزن
+HFN-E-abcfea27a3#4	YES	محلّ	التزام	عاديّ	مطلق	الإنسان	UNSURE	ما وجده الإنسان في قلبه من ألم حزن
+HFN-E-abcfea27a3#5	NO_DHAT	-	-	-	-	-	UNSURE	لاحه السفر والبرد والحزن مرجع غير مذكور

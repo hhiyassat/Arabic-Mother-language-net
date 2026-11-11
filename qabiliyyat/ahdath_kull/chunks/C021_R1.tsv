@@ -1,0 +1,254 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-1f5494540b#1	OTHER_SENSE	-	-	-	-	-	SURE	تئق الإناء تأقا: جذر تأق امتلاء
+HFN-E-1f5494540b#2	OTHER_SENSE	-	-	-	-	-	SURE	فتوق في الغيم من فتق
+HFN-E-1f5494540b#3	OTHER_SENSE	-	-	-	-	-	SURE	الفتق والجمع فتوق
+HFN-E-1f5494540b#4	OTHER_SENSE	-	-	-	-	-	UNSURE	التاق النشاط: لفظ آخر بلا ذات
+HFN-E-09cf3169f0#1	YES	مكان	تضمّن	-	-	الأرض	UNSURE	تاه في الأرض تيها ضل؛ رجل تيهان
+HFN-E-09cf3169f0#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	التيه الصلف والكبر وقد تاه ورجل تائه
+HFN-E-2ac17b4f6f#1	OTHER_SENSE	-	-	-	-	-	SURE	التوى قرناها من لوي
+HFN-E-2ac17b4f6f#2	NO_DHAT	-	-	-	-	-	UNSURE	التوى وهو الهلاك كأنه شيء استهلك
+HFN-E-2ac17b4f6f#3	OTHER_SENSE	-	-	-	-	-	SURE	كل ما التوى من لوي
+HFN-E-2ac17b4f6f#4	OTHER_SENSE	-	-	-	-	-	SURE	التوى من الوجع من لوي
+HFN-E-2ac17b4f6f#5	OTHER_SENSE	-	-	-	-	-	SURE	لواه ليا فالتوى
+HFN-E-6fe0d148f2#1	OTHER_SENSE	-	-	-	-	-	UNSURE	تيس اسم ذات؛ استتيست العنز صارت كالتيس
+HFN-E-6fe0d148f2#2	OTHER_SENSE	-	-	-	-	-	SURE	تيس تيوس اسم ذات
+HFN-E-6fe0d148f2#3	OTHER_SENSE	-	-	-	-	-	SURE	تيوس ظباء جمع اسم ذات
+HFN-E-6fe0d148f2#4	YES	محلّ	التزام	عاديّ	مطلق	عنز	UNSURE	عنز تيساء بينة التيس إذا كان قرناها طويلين
+HFN-E-5f732b8d0b#1	NO_DHAT	-	-	-	-	-	SURE	تاع يتيع توعا قاء بلا ذات
+HFN-E-5f732b8d0b#2	YES	محلّ	التزام	عاديّ	مطلق	العسل	UNSURE	القيء والإسم التيع؛ العسل مجاج النحل
+HFN-E-5f732b8d0b#3	OTHER_SENSE	-	-	-	-	-	SURE	لاعه الحب فالتاع من لوع
+HFN-E-5f732b8d0b#4	YES	فاعل	تضمّن	-	-	الماء	UNSURE	السيع الماء الجاري وكذلك تاع تيعا
+HFN-E-5f732b8d0b#5	YES	محلّ	تضمّن	-	-	السنبل	SURE	تاع السنبل يبس بعضه وبعضه رطب
+HFN-E-e3d25441ef#1	OTHER_SENSE	-	-	-	-	-	SURE	الشاب التام من تمم
+HFN-E-e3d25441ef#2	OTHER_SENSE	-	-	-	-	-	SURE	الحسن التام من تمم
+HFN-E-e3d25441ef#3	OTHER_SENSE	-	-	-	-	-	SURE	الحسن التام من تمم
+HFN-E-e3d25441ef#4	OTHER_SENSE	-	-	-	-	-	SURE	المجتمع التام من تمم
+HFN-E-e3d25441ef#5	OTHER_SENSE	-	-	-	-	-	SURE	التام الخلق من تمم
+HFN-E-3117f2cefd#1	YES	محلّ	تضمّن	-	-	الرجل	SURE	ثئب الرجل أصابه توصيم وكسل
+HFN-E-e2701766d7#1	YES	محلّ	التزام	عاديّ	مطلق	الثرى	UNSURE	الثئد الندى وقد ثئد
+HFN-E-c551f6a251#1	OTHER_SENSE	-	-	-	-	-	SURE	ثار به الغضب من ثور
+HFN-E-c551f6a251#2	OTHER_SENSE	-	-	-	-	-	SURE	ثار زئبره من ثور
+HFN-E-c551f6a251#3	OTHER_SENSE	-	-	-	-	-	SURE	ثار الدم من ثور
+HFN-E-c551f6a251#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الأثآر جمع ثأر في بيت
+HFN-E-c551f6a251#5	OTHER_SENSE	-	-	-	-	-	SURE	ثورت الطحلب واثرته من ثور
+HFN-E-4b2add8edf#1	YES	محلّ	تضمّن	-	-	الخرز	SURE	أثأيت الخرز خرمته وثأى هو
+HFN-E-299d007cc3#1	NO_DHAT	-	-	-	-	-	SURE	ثبت الشيء يثبت ثباتا: الشيء ليس ذاتا
+HFN-E-299d007cc3#2	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل ثبت الغدر إذا كان ثابتا؛ الفارس
+HFN-E-299d007cc3#3	YES	مكان	التزام	عاديّ	مطلق	قلبه	UNSURE	رس الهوى في قلبه ... ثبت
+HFN-E-299d007cc3#4	YES	محلّ	التزام	عاديّ	مطلق	السحابة	UNSURE	فإذا ثبت ولم يبرح فهو الصبير
+HFN-E-299d007cc3#5	NO_DHAT	-	-	-	-	-	UNSURE	ثبت عليه الموت: مرجع الضمير غير صريح
+HFN-E-d1cfd17400#1	OTHER_SENSE	-	-	-	-	-	SURE	الثبج موصل الظهر اسم عضو
+HFN-E-d1cfd17400#2	OTHER_SENSE	-	-	-	-	-	SURE	الثبج طائر من الهام
+HFN-E-d1cfd17400#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الأثبج الذي نتأ صدره: معنى بعيد عن ثبج
+HFN-E-d1cfd17400#4	OTHER_SENSE	-	-	-	-	-	SURE	على ثبج منها: اسم الوسط
+HFN-E-d1cfd17400#5	OTHER_SENSE	-	-	-	-	-	SURE	ثبج من الليل وسطه
+HFN-E-d4cee327bb#1	OTHER_SENSE	-	-	-	-	-	SURE	الثبج موصل الظهر اسم عضو
+HFN-E-d4cee327bb#2	OTHER_SENSE	-	-	-	-	-	SURE	الثبج طائر من الهام
+HFN-E-d4cee327bb#3	YES	محلّ	تضمّن	-	-	صدره	UNSURE	الأثبج الذي نتأ صدره والثبج في الصدر
+HFN-E-d4cee327bb#4	OTHER_SENSE	-	-	-	-	-	SURE	على ثبج منها: اسم الوسط
+HFN-E-d4cee327bb#5	OTHER_SENSE	-	-	-	-	-	SURE	ثبج من الليل وسطه
+HFN-E-f994111594#1	YES	محلّ	تضمّن	-	-	البحر	SURE	ثبر البحر جزر
+HFN-E-9321590792#1	YES	محلّ	تضمّن	-	-	البحر	UNSURE	ثبر البحر جزر
+HFN-E-944b483622#1	OTHER_SENSE	-	-	-	-	-	SURE	الثجر سهام غلاظ: اسم ذات
+HFN-E-944b483622#2	YES	محلّ	تضمّن	-	-	ورق	UNSURE	ورق شحو واسع وكذلك ثجر
+HFN-E-944b483622#3	YES	محلّ	تضمّن	-	-	النبيذ	SURE	الثجر طرح الثجير في النبيذ ليشتد
+HFN-E-944b483622#4	YES	محلّ	تضمّن	-	-	التمر	SURE	ثجرت التمر خلطته بالثجير
+HFN-E-d841a582c9#1	OTHER_SENSE	-	-	-	-	-	SURE	الثجر سهام غلاظ: اسم ذات
+HFN-E-d841a582c9#2	YES	محلّ	تضمّن	-	-	ورق	UNSURE	ورق شحو واسع وكذلك ثجر
+HFN-E-d841a582c9#3	OTHER_SENSE	-	-	-	-	-	UNSURE	الثجر طرح الثجير: متعدّ بمعنى آخر
+HFN-E-d841a582c9#4	OTHER_SENSE	-	-	-	-	-	UNSURE	ثجرت التمر خلطته: متعدّ بمعنى آخر
+HFN-E-18f4538059#1	NO_DHAT	-	-	-	-	-	SURE	الثجم سرعة الصرف عن الشيء
+HFN-E-aea2b552ca#1	YES	محلّ	تضمّن	-	-	ثوب	SURE	ثوب ثخين جيد النسج وقد ثخن
+HFN-E-aea2b552ca#2	YES	محلّ	التزام	عاديّ	مطلق	الجناحان	UNSURE	الهفهافان لخفتهما في ثخانة
+HFN-E-80b3ce0b75#1	OTHER_SENSE	-	-	-	-	-	SURE	نهد الثدي: الثدي اسم عضو
+HFN-E-80b3ce0b75#2	OTHER_SENSE	-	-	-	-	-	SURE	ثدي أمه اسم عضو
+HFN-E-80b3ce0b75#3	OTHER_SENSE	-	-	-	-	-	SURE	الضخمة الثدي اسم عضو
+HFN-E-80b3ce0b75#4	OTHER_SENSE	-	-	-	-	-	SURE	في الصدر الثديان اسم عضو
+HFN-E-80b3ce0b75#5	OTHER_SENSE	-	-	-	-	-	SURE	ثدي وثدي جمع اسم عضو
+HFN-E-490337e417#1	OTHER_SENSE	-	-	-	-	-	SURE	الثرب شحم رقيق اسم ذات
+HFN-E-490337e417#2	OTHER_SENSE	-	-	-	-	-	SURE	الهرب الثرب اسم ذات
+HFN-E-490337e417#3	OTHER_SENSE	-	-	-	-	-	SURE	على ثرب الشاة اسم ذات
+HFN-E-490337e417#4	OTHER_SENSE	-	-	-	-	-	SURE	ذات ثرب اسم ذات
+HFN-E-1c3a93660b#1	YES	محلّ	تضمّن	-	-	السن	SURE	الثرم أن تنقلع السن من أصلها
+HFN-E-4e4b9cf002#1	OTHER_SENSE	-	-	-	-	-	UNSURE	الثرى الندى لا ثروة
+HFN-E-4e4b9cf002#2	OTHER_SENSE	-	-	-	-	-	SURE	عرق الثرى: التراب اسم ذات
+HFN-E-4e4b9cf002#3	OTHER_SENSE	-	-	-	-	-	SURE	غمق الثرى: التراب
+HFN-E-4e4b9cf002#4	OTHER_SENSE	-	-	-	-	-	SURE	تعقد الثرى: التراب
+HFN-E-4e4b9cf002#5	OTHER_SENSE	-	-	-	-	-	SURE	بلوغ الثرى الرسغ: التراب
+HFN-E-44bfdf9fe6#1	YES	محلّ	التزام	عاديّ	مطلق	الأرض	UNSURE	الأرض ذات الندى والثرى
+HFN-E-44bfdf9fe6#2	OTHER_SENSE	-	-	-	-	-	SURE	عرق الثرى: التراب اسم ذات
+HFN-E-44bfdf9fe6#3	OTHER_SENSE	-	-	-	-	-	UNSURE	غمق الثرى: التراب اسم ذات
+HFN-E-44bfdf9fe6#4	OTHER_SENSE	-	-	-	-	-	SURE	تعقد الثرى ثرى متنصب: التراب
+HFN-E-44bfdf9fe6#5	OTHER_SENSE	-	-	-	-	-	SURE	بلوغ الثرى الرسغ: التراب
+HFN-E-9ce58e2414#1	OTHER_SENSE	-	-	-	-	-	UNSURE	ثعب كل ما زنأ: لفظ مصحّف
+HFN-E-9ce58e2414#2	OTHER_SENSE	-	-	-	-	-	SURE	الثعب مسيل الوادي اسم مكان
+HFN-E-9ce58e2414#3	OTHER_SENSE	-	-	-	-	-	SURE	الثعب اسم شجر
+HFN-E-9ce58e2414#4	OTHER_SENSE	-	-	-	-	-	SURE	الثعب شبيه بالثوعة شجر
+HFN-E-70a2d9a227#1	YES	محلّ	تضمّن	-	-	أسنان	UNSURE	الثعل أسنان زوائد رجل أثعل
+HFN-E-70a2d9a227#2	YES	محلّ	تضمّن	-	-	الشاة	UNSURE	الثعل الزيادة على خلف الشاة
+HFN-E-70a2d9a227#3	YES	محلّ	تضمّن	-	-	ضرع الشاة	UNSURE	الثعل الزيادة في ضرع الشاة
+HFN-E-70a2d9a227#4	YES	محلّ	تضمّن	-	-	ضرعها	UNSURE	الثعل الشيء الزائد في ضرعها
+HFN-E-70a2d9a227#5	OTHER_SENSE	-	-	-	-	-	SURE	بني ثعل علم قبيلة
+HFN-E-6483e341f2#1	OTHER_SENSE	-	-	-	-	-	SURE	الثغب المستنقع في الجبل اسم مكان
+HFN-E-9e2465b169#1	OTHER_SENSE	-	-	-	-	-	SURE	الثغر موضع المخافة اسم
+HFN-E-9e2465b169#2	OTHER_SENSE	-	-	-	-	-	SURE	ثغر مفلج: الفم اسم
+HFN-E-9e2465b169#3	OTHER_SENSE	-	-	-	-	-	SURE	الثغر من خيار العشب
+HFN-E-9e2465b169#4	YES	محلّ	تضمّن	-	-	الصبي	SURE	إذا سقطت رواضع الصبي قيل ثغر
+HFN-E-9e2465b169#5	OTHER_SENSE	-	-	-	-	-	SURE	ثغر مؤشر: الفم اسم
+HFN-E-030c80594f#1	YES	آلة	التزام	عقليّ	ذهنيّ	الثفر	SURE	أثفرت الفرس من الثفر؛ الفرس محلّ
+HFN-E-030c80594f#2	OTHER_SENSE	-	-	-	-	-	SURE	ثفر الناقة اسم عضو
+HFN-E-030c80594f#3	OTHER_SENSE	-	-	-	-	-	SURE	الثفر منها الظبية اسم عضو
+HFN-E-17f450ac17#1	OTHER_SENSE	-	-	-	-	-	SURE	الثفل أسفل اللبن اسم ذات
+HFN-E-17f450ac17#2	OTHER_SENSE	-	-	-	-	-	SURE	مجتمع الثفل اسم ذات
+HFN-E-17f450ac17#3	OTHER_SENSE	-	-	-	-	-	UNSURE	مثافلون يأكلون الثفل وهو الحب
+HFN-E-17f450ac17#4	OTHER_SENSE	-	-	-	-	-	SURE	الثافل الرجيع كالثفل اسم ذات
+HFN-E-17f450ac17#5	OTHER_SENSE	-	-	-	-	-	SURE	إلا على ثفل اسم ذات
+HFN-E-6ae037a071#1	OTHER_SENSE	-	-	-	-	-	SURE	ثفنات البعير اسم عضو
+HFN-E-1e05ae351d#1	YES	آلة	التزام	عاديّ	مطلق	المثقب	UNSURE	ثقبته فانثقب والمثقب الآلة؛ الشيء ليس ذاتا
+HFN-E-1e05ae351d#2	YES	محلّ	التزام	عاديّ	مطلق	الفسيل	SURE	يثقب أصلها ثقبا نافذا بالعتل
+HFN-E-1e05ae351d#3	OTHER_SENSE	-	-	-	-	-	UNSURE	ثقب الاست: اسم الخرق
+HFN-E-1e05ae351d#4	OTHER_SENSE	-	-	-	-	-	SURE	ثقب الأذنين: اسم الخرق
+HFN-E-1e05ae351d#5	OTHER_SENSE	-	-	-	-	-	SURE	ثقب الورك: اسم الخرق
+HFN-E-042c4e83a3#1	OTHER_SENSE	-	-	-	-	-	SURE	ثقبت الشيء أنفذته معنى بعيد
+HFN-E-042c4e83a3#2	OTHER_SENSE	-	-	-	-	-	SURE	يثقب أصلها نفاذا معنى بعيد
+HFN-E-042c4e83a3#3	NO_DHAT	-	-	-	-	-	UNSURE	الثقيب الشديد الحمرة والمصدر الثقابة
+HFN-E-042c4e83a3#4	OTHER_SENSE	-	-	-	-	-	SURE	ثقب الاست اسم الخرق
+HFN-E-042c4e83a3#5	OTHER_SENSE	-	-	-	-	-	SURE	ثقب الأذنين اسم الخرق
+HFN-E-6b04b6b093#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل ثقف حاذق؛ ثقفت الحديث
+HFN-E-6b04b6b093#2	YES	محلّ	تضمّن	-	-	الخل	UNSURE	ثقف الخل ثقافة حذق
+HFN-E-6b04b6b093#3	YES	محلّ	التزام	عاديّ	مطلق	رمح	SURE	رمح مسمح ثقف حتى لان
+HFN-E-6b04b6b093#4	NO_DHAT	-	-	-	-	-	UNSURE	ثقف مبتور؛ الثقاف اسم آلة
+HFN-E-6b04b6b093#5	YES	محلّ	التزام	عاديّ	مطلق	فرس	SURE	فرس ثبيت ثقف في عدوه
+HFN-E-b7fd5a7357#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل ثقف حاذق؛ ثقفت الحديث
+HFN-E-b7fd5a7357#2	YES	محلّ	تضمّن	-	-	الخل	UNSURE	ثقف الخل ثقافة حذق
+HFN-E-b7fd5a7357#3	YES	محلّ	التزام	عاديّ	مطلق	رمح	SURE	رمح مسمح ثقف حتى لان
+HFN-E-b7fd5a7357#4	NO_DHAT	-	-	-	-	-	UNSURE	ثقف مبتور؛ الثقاف اسم آلة
+HFN-E-b7fd5a7357#5	YES	محلّ	التزام	عاديّ	مطلق	فرس	SURE	فرس ثبيت ثقف في عدوه
+HFN-E-0aaec1b77a#1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	رجل ثقف حاذق
+HFN-E-0aaec1b77a#2	YES	محلّ	تضمّن	-	-	الخل	SURE	ثقف الخل ثقافة حذق
+HFN-E-0aaec1b77a#3	YES	محلّ	التزام	عاديّ	مطلق	شيخا	UNSURE	حجن المال ثقف مصلحته؛ المال
+HFN-E-0aaec1b77a#4	YES	آلة	تضمّن	-	-	السيف	UNSURE	الثقاف والثقافة العمل بالسيف
+HFN-E-0aaec1b77a#5	YES	محلّ	التزام	عاديّ	مطلق	رمح	SURE	رمح مسمح ثقف حتى لان
+HFN-E-9c4a1ccf69#1	NO_DHAT	-	-	-	-	-	SURE	الثقل نقيض الخفة وقد ثقل
+HFN-E-9c4a1ccf69#2	YES	محلّ	التزام	عاديّ	مطلق	اللسان	UNSURE	ثقل اللسان واللحن
+HFN-E-9c4a1ccf69#3	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	مشى الرجل بحمله وقد أثقله؛ الحمل
+HFN-E-9c4a1ccf69#4	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	بالرجل لخمة أي فترة وثقل نفس
+HFN-E-9c4a1ccf69#5	YES	محلّ	التزام	عاديّ	مطلق	الحمل	UNSURE	على البعير محمل من ثقل الحمل
+HFN-E-5da7e35b27#1	NO_DHAT	-	-	-	-	-	SURE	الثقل نقيض الخفة وقد ثقل
+HFN-E-5da7e35b27#2	YES	محلّ	التزام	عاديّ	مطلق	اللسان	SURE	ثقل اللسان واللحن
+HFN-E-5da7e35b27#3	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	مشى الرجل بحمله وقد أثقله؛ الحمل
+HFN-E-5da7e35b27#4	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	بالرجل لخمة أي فترة وثقل نفس
+HFN-E-5da7e35b27#5	YES	محلّ	التزام	عاديّ	مطلق	الحمل	UNSURE	على البعير محمل من ثقل الحمل
+HFN-E-bd8a685018#1	NO_DHAT	-	-	-	-	-	SURE	الثقل نقيض الخفة وقد ثقل
+HFN-E-bd8a685018#2	YES	محلّ	التزام	عاديّ	مطلق	اللسان	SURE	ثقل اللسان واللحن
+HFN-E-bd8a685018#3	YES	محلّ	التزام	عاديّ	مطلق	المرأة	UNSURE	المرأة رزان ما ثقل في مجلسه
+HFN-E-bd8a685018#4	YES	محلّ	التزام	عاديّ	مطلق	الرجل	UNSURE	مشى الرجل بحمله وقد أثقله؛ الحمل
+HFN-E-bd8a685018#5	YES	محلّ	التزام	عاديّ	مطلق	الرجل	SURE	بالرجل لخمة أي فترة وثقل نفس
+HFN-E-f4e3973499#1	YES	مكان	تضمّن	-	-	المكان	SURE	ثكمت المكان أثكمه ثكما لزمته
+HFN-E-f4e3973499#2	NO_DHAT	-	-	-	-	-	SURE	ثكم الأمر لزمه: الأمر معنويّ
+HFN-E-7e66e05d18#1	YES	محلّ	تضمّن	-	-	جلده	SURE	ثلب جلده ثلبا درن
+HFN-E-7e66e05d18#2	OTHER_SENSE	-	-	-	-	-	UNSURE	الثلب الرمح المتثلم معنى آخر
+HFN-E-7e66e05d18#3	OTHER_SENSE	-	-	-	-	-	UNSURE	البعير ثلب إذا تكسرت أنيابه معنى آخر
+HFN-E-7e66e05d18#4	OTHER_SENSE	-	-	-	-	-	UNSURE	الثلب الشيخ معنى آخر
+HFN-E-b7e9bb2a12#1	YES	محلّ	تضمّن	-	-	جلده	SURE	ثلب جلده ثلبا وثلب درن
+HFN-E-b7e9bb2a12#2	YES	محلّ	تضمّن	-	-	الرمح	UNSURE	الثلب الرمح المتثلم
+HFN-E-b7e9bb2a12#3	YES	محلّ	تضمّن	-	-	البعير	SURE	جاوز البعير القحر فهو ثلب
+HFN-E-b7e9bb2a12#4	YES	محلّ	تضمّن	-	-	الشيخ	UNSURE	الثلب الشيخ
+HFN-E-a491df07eb#1	OTHER_SENSE	-	-	-	-	-	SURE	ثلث الليل اسم كسر
+HFN-E-a491df07eb#2	OTHER_SENSE	-	-	-	-	-	SURE	ثلث شاة اسم كسر
+HFN-E-a491df07eb#3	OTHER_SENSE	-	-	-	-	-	SURE	ثلث الدية اسم كسر
+HFN-E-a491df07eb#4	OTHER_SENSE	-	-	-	-	-	SURE	الثلث الأعلى اسم كسر
+HFN-E-a491df07eb#5	OTHER_SENSE	-	-	-	-	-	SURE	الثلث أو الربع اسم كسر
+HFN-E-52a873cd92#1	YES	فاعل	التزام	عقليّ	ذهنيّ	الثلج	UNSURE	أرض مثلوجة من الثلج؛ الأرض محلّ
+HFN-E-52a873cd92#2	OTHER_SENSE	-	-	-	-	-	SURE	البرد والثلج اسم ذات
+HFN-E-52a873cd92#3	OTHER_SENSE	-	-	-	-	-	SURE	لم يبصر في الثلج اسم ذات
+HFN-E-52a873cd92#4	OTHER_SENSE	-	-	-	-	-	SURE	لم يدع الثلج بها اسم ذات
+HFN-E-52a873cd92#5	OTHER_SENSE	-	-	-	-	-	SURE	الأشيب الثلج اسم ذات
+HFN-E-4f41e635bc#1	YES	فاعل	التزام	عقليّ	ذهنيّ	الثلج	UNSURE	أرض مثلوجة من الثلج؛ الأرض محلّ
+HFN-E-4f41e635bc#2	OTHER_SENSE	-	-	-	-	-	SURE	البرد والثلج اسم ذات
+HFN-E-4f41e635bc#3	OTHER_SENSE	-	-	-	-	-	SURE	لم يبصر في الثلج اسم ذات
+HFN-E-4f41e635bc#4	OTHER_SENSE	-	-	-	-	-	SURE	لم يدع الثلج بها اسم ذات
+HFN-E-4f41e635bc#5	OTHER_SENSE	-	-	-	-	-	SURE	الأشيب الثلج اسم ذات
+HFN-E-b12614aa23#1	YES	فاعل	تضمّن	-	-	الصبي	SURE	ثلط الصبي يثلط ثلطا سلح
+HFN-E-b12614aa23#2	YES	فاعل	تضمّن	-	-	البعير	SURE	ثلط البعير إذا ألقاه سهلا رقيقا
+HFN-E-78e0503e92#1	YES	محلّ	تضمّن	-	-	الوادي	SURE	ثلم الوادي أن يتثلم حرفه
+HFN-E-78e0503e92#2	YES	محلّ	التزام	عاديّ	مطلق	السيف	UNSURE	الفل الثلم يكون في السيف
+HFN-E-78e0503e92#3	OTHER_SENSE	-	-	-	-	-	UNSURE	ردمت الثلم: اسم الخرق في السد
+HFN-E-fca757659a#1	OTHER_SENSE	-	-	-	-	-	SURE	ثم الطعام ثما من ثمم
+HFN-E-fca757659a#2	YES	محلّ	تضمّن	-	-	القوم	SURE	ثمأت القوم أطعمتهم الدسم؛ الخبز
+HFN-E-fca757659a#3	YES	آلة	تضمّن	-	-	العصا	SURE	ثمأت رأسه بالعصا شدخته؛ رأسه محلّ
+HFN-E-fca757659a#4	OTHER_SENSE	-	-	-	-	-	SURE	وثم الأرض بحافره من وثم
+HFN-E-fca757659a#5	OTHER_SENSE	-	-	-	-	-	SURE	ثمت تثم ثما من ثمم
+HFN-E-fc703824f1#1	YES	محلّ	التزام	عاديّ	مطلق	الماء	UNSURE	كل ما ثمد منه الماء؛ الأرض
+HFN-E-fc703824f1#2	NO_DHAT	-	-	-	-	-	SURE	نفد ما عنده قيل رغث وثمد
+HFN-E-fc703824f1#3	OTHER_SENSE	-	-	-	-	-	SURE	الثمد الماء القليل اسم ذات
+HFN-E-e65407bbde#1	YES	محلّ	التزام	عاديّ	مطلق	الماء	UNSURE	كل ما ثمد منه الماء؛ الأرض
+HFN-E-e65407bbde#2	NO_DHAT	-	-	-	-	-	SURE	نفد ما عنده قيل رغث وثمد
+HFN-E-e65407bbde#3	OTHER_SENSE	-	-	-	-	-	SURE	الثمد الماء القليل اسم ذات
+HFN-E-13a2c98806#1	YES	فاعل	تضمّن	-	-	الشجر	SURE	إذا انتثر ورد الشجر وعقد الثمر قيل ثمر
+HFN-E-13a2c98806#2	OTHER_SENSE	-	-	-	-	-	SURE	ثمر من ثمر الطلح اسم ذات
+HFN-E-13a2c98806#3	OTHER_SENSE	-	-	-	-	-	SURE	الخربق ثمر نبت اسم ذات
+HFN-E-13a2c98806#4	OTHER_SENSE	-	-	-	-	-	SURE	لها ثمر مثل التين اسم ذات
+HFN-E-13a2c98806#5	OTHER_SENSE	-	-	-	-	-	SURE	لها ثمر أبيض اسم ذات
+HFN-E-c3b6061500#1	YES	محلّ	التزام	عاديّ	مطلق	الشيب	UNSURE	الثمغ خلط البياض والسواد؛ شيب الشمط المثمغ
+HFN-E-c3b6061500#2	YES	آلة	تضمّن	-	-	الحناء	SURE	ثمغ رأسه بالحناء غمسه؛ رأسه محلّ
+HFN-E-424a5f514d#1	OTHER_SENSE	-	-	-	-	-	UNSURE	ثمل من السكر معنى بعيد
+HFN-E-424a5f514d#2	YES	مكان	تضمّن	-	-	دار	UNSURE	دار بني فلان ثمل أي دار مقام
+HFN-E-424a5f514d#3	OTHER_SENSE	-	-	-	-	-	SURE	ثمال اليتامى اسم
+HFN-E-424a5f514d#4	OTHER_SENSE	-	-	-	-	-	SURE	الثمل سلة اسم أداة
+HFN-E-424a5f514d#5	OTHER_SENSE	-	-	-	-	-	UNSURE	شارب ثمل من السكر معنى بعيد
+HFN-E-041b5f58a1#1	YES	محلّ	التزام	عاديّ	مطلق	شاربها	SURE	إذا أخذ شاربها يفتر ثم هو ثمل
+HFN-E-041b5f58a1#2	OTHER_SENSE	-	-	-	-	-	UNSURE	دار ثمل أي دار مقام معنى بعيد
+HFN-E-041b5f58a1#3	OTHER_SENSE	-	-	-	-	-	SURE	ثمال اليتامى اسم
+HFN-E-041b5f58a1#4	OTHER_SENSE	-	-	-	-	-	SURE	الثمل سلة اسم أداة
+HFN-E-041b5f58a1#5	YES	محلّ	التزام	عاديّ	مطلق	شارب	SURE	أو شارب ثمل
+HFN-E-82d7f4e103#1	OTHER_SENSE	-	-	-	-	-	SURE	ثمن بخس اسم
+HFN-E-82d7f4e103#2	OTHER_SENSE	-	-	-	-	-	SURE	حدود الثمن اسم
+HFN-E-82d7f4e103#3	OTHER_SENSE	-	-	-	-	-	SURE	السفر الثمن عدد
+HFN-E-82d7f4e103#4	OTHER_SENSE	-	-	-	-	-	SURE	بلا منة ولا ثمن اسم
+HFN-E-82d7f4e103#5	OTHER_SENSE	-	-	-	-	-	SURE	يقوم عليه الثمن اسم
+HFN-E-031274392e#1	OTHER_SENSE	-	-	-	-	-	SURE	ثمن بخس اسم
+HFN-E-031274392e#2	OTHER_SENSE	-	-	-	-	-	SURE	حدود الثمن اسم
+HFN-E-031274392e#3	OTHER_SENSE	-	-	-	-	-	SURE	السفر الثمن عدد
+HFN-E-031274392e#4	OTHER_SENSE	-	-	-	-	-	SURE	بلا منة ولا ثمن اسم
+HFN-E-031274392e#5	OTHER_SENSE	-	-	-	-	-	SURE	يقوم عليه الثمن اسم
+HFN-E-bfdc4d562e#1	YES	محلّ	تضمّن	-	-	جسمه	SURE	ثاب جسمه ثوبانا أقبل
+HFN-E-bfdc4d562e#2	NO_DHAT	-	-	-	-	-	UNSURE	الحرث الثواب والنصيب
+HFN-E-bfdc4d562e#3	YES	محلّ	التزام	عاديّ	مطلق	مائها	UNSURE	جمة الركي معظم مائها إذا ثاب
+HFN-E-bfdc4d562e#4	YES	محلّ	تضمّن	-	-	الحوض	SURE	ثاب الحوض ثوبا امتلأ أو قارب
+HFN-E-bfdc4d562e#5	OTHER_SENSE	-	-	-	-	-	SURE	الثواب بائع الثياب من ثوب اللباس
+HFN-E-48d185ce5a#1	NO_DHAT	-	-	-	-	-	SURE	ثار به الغضب بلا ذات
+HFN-E-48d185ce5a#2	YES	محلّ	التزام	عاديّ	مطلق	الثوب	UNSURE	غفر الثوب ثار زئبره
+HFN-E-48d185ce5a#3	YES	فاعل	التزام	عاديّ	مطلق	الدم	SURE	ثار الدم في وجه؛ وجه مكان
+HFN-E-48d185ce5a#4	OTHER_SENSE	-	-	-	-	-	SURE	الأثآر جمع ثأر
+HFN-E-48d185ce5a#5	YES	محلّ	التزام	عاديّ	مطلق	الطحلب	UNSURE	ثورت الطحلب واثرته وثار هو
+HFN-E-0a734b79dd#1	OTHER_SENSE	-	-	-	-	-	SURE	الثول جماعة النحل اسم ذات
+HFN-E-0a734b79dd#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	UNSURE	الثول كالجنون ورجل أثول
+HFN-E-0a734b79dd#3	OTHER_SENSE	-	-	-	-	-	SURE	يسمى الثول اسم نبات
+HFN-E-eb4af46490#1	OTHER_SENSE	-	-	-	-	-	SURE	الثول جماعة النحل اسم ذات
+HFN-E-eb4af46490#2	YES	محلّ	التزام	عاديّ	مطلق	رجل	SURE	الثول كالجنون ورجل أثول ثول ثولا
+HFN-E-eb4af46490#3	OTHER_SENSE	-	-	-	-	-	SURE	يسمى الثول اسم نبات
+HFN-E-bd83f83359#1	YES	مكان	التزام	عاديّ	مطلق	المكان	UNSURE	ثويت بالمكان ثويا؛ أطلت الإقامة به
+HFN-E-bd83f83359#2	YES	مكان	التزام	عاديّ	مطلق	الترب	SURE	غداة ثوى في الترب
+HFN-E-2b9cfb6098#1	OTHER_SENSE	-	-	-	-	-	SURE	الجأب الحمار الغليظ اسم ذات
+HFN-E-2b9cfb6098#2	OTHER_SENSE	-	-	-	-	-	SURE	جأب إذا عشر: الحمار
+HFN-E-2b9cfb6098#3	OTHER_SENSE	-	-	-	-	-	SURE	الجأب المغرة اسم ذات
+HFN-E-2b9cfb6098#4	OTHER_SENSE	-	-	-	-	-	SURE	دارة الجأب علم مكان
+HFN-E-2b9cfb6098#5	NO_DHAT	-	-	-	-	-	SURE	قد جأب جأبا كسب
+HFN-E-2e494a7904#1	NO_DHAT	-	-	-	-	-	SURE	جئث جأثا من الفزع
+HFN-E-4570604354#1	NO_DHAT	-	-	-	-	-	SURE	فر وعرد وجبأ يجبأ جبئا
+HFN-E-4570604354#2	OTHER_SENSE	-	-	-	-	-	SURE	الجبا الحوض اسم ذات
+HFN-E-4570604354#3	OTHER_SENSE	-	-	-	-	-	SURE	الجبا ما حول البئر اسم
+HFN-E-4570604354#4	NO_DHAT	-	-	-	-	-	UNSURE	الجبأ الجبان؛ ما أنا بجبأ
+HFN-E-4570604354#5	OTHER_SENSE	-	-	-	-	-	SURE	جبا الكلاب اسم موضع
+HFN-E-2500eeaf09#1	OTHER_SENSE	-	-	-	-	-	SURE	الجبء الفرازيم اسم أداة
+HFN-E-2500eeaf09#2	OTHER_SENSE	-	-	-	-	-	SURE	الجبأة من الكمأة اسم نبات
+HFN-E-ff99b33722#1	OTHER_SENSE	-	-	-	-	-	SURE	الجبح الشق مباءة النحل اسم
+HFN-E-b2362392bd#1	NO_DHAT	-	-	-	-	-	SURE	الجبخ كالجمخ جبخ يجبخ
+HFN-E-b2362392bd#2	OTHER_SENSE	-	-	-	-	-	SURE	الجبخ مباءة النحل اسم
+HFN-E-b2362392bd#3	YES	آلة	تضمّن	-	-	كعابهم	UNSURE	جبخوا بكعابهم رموا بها
+HFN-E-c91f250a38#1	NO_DHAT	-	-	-	-	-	SURE	مثل جبذ وجذب ذكر لفظ
+HFN-E-c91f250a38#2	NO_DHAT	-	-	-	-	-	UNSURE	المنية جباذ معدول عن الجبذ
+HFN-E-c91f250a38#3	YES	محلّ	التزام	عاديّ	مطلق	العنب	SURE	جبذ العنب يجبذ
+HFN-E-c91f250a38#4	NO_DHAT	-	-	-	-	-	SURE	جذبت الشيء وجبذ لغة: الشيء ليس ذاتا
+HFN-E-c91f250a38#5	YES	محلّ	التزام	عاديّ	مطلق	ناصيته	SURE	سفع بناصيته ويده ورجله: جبذ
