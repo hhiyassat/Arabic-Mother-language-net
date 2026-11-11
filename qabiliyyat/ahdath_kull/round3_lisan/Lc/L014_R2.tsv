@@ -1,0 +1,151 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-bf525f7ac3#L1	OTHER_SENSE	-	-	-	-	-	SURE	القهقب الجمل الضخم: اسم
+HFN-E-99d147675d#L1	NO_DHAT	-	-	-	-	-	SURE	الكعبسة مشية في سرعة؛ لا ذات
+HFN-E-1a2a0fd51f#L1	YES	محلّ	تضمّن	-	-	ثيابه	SURE	كمهل إذا جمع ثيابه وحزمها
+HFN-E-b299abc92d#L1	OTHER_SENSE	-	-	-	-	-	SURE	اللؤلؤة الدرة: اسم
+HFN-E-b299abc92d#L2	YES	محلّ	تضمّن	-	-	النجم	SURE	تلألأ النجم...ولألأ أضاء؛ ولألأت النار إذا توقدت
+HFN-E-a1871efd25#L1	YES	فاعل	تضمّن	-	-	القادح	UNSURE	نخرب القادح الشجرة ثقبها؛ الشجرة محلّ
+HFN-E-5157463b9f#L1	YES	فاعل	تضمّن	-	-	النار	SURE	أجت النار إذا سمعت صوت لهبها
+HFN-E-5157463b9f#L2	YES	فاعل	تضمّن	-	-	الظليم	SURE	أج الظليم سمع حفيفه في عدوه
+HFN-E-a52c649efb#L1	YES	فاعل	تضمّن	-	-	الرجل	SURE	أح حكاية؛ وأح الرجل ردد التنحنح
+HFN-E-497e8b691e#L1	NO_DHAT	-	-	-	-	-	SURE	البحل الإدقاع الشديد؛ لا ذات
+HFN-E-cb970e0bf1#L1	OTHER_SENSE	-	-	-	-	-	SURE	بخ كلمة فخر: اسم صوت
+HFN-E-cb970e0bf1#L2	YES	فاعل	تضمّن	-	-	الرجل	UNSURE	بخبخ الرجل قال بخ بخ
+HFN-E-cb970e0bf1#L3	YES	فاعل	تضمّن	-	-	البعير	UNSURE	بخبخ البعير إذا هدر
+HFN-E-e5852c49cb#L1	YES	محلّ	تضمّن	-	-	الرجل	SURE	البرغ اللعاب اسم؛ برغ الرجل إذا تنعم
+HFN-E-b7438ec2cb#L1	YES	فاعل	تضمّن	-	-	القوم	UNSURE	بص القوم بصيصا صوت
+HFN-E-b7438ec2cb#L2	YES	محلّ	التزام	عاديّ	مطلق	الشمس	SURE	شاهد شعر: إذا ما تبص الشمس
+HFN-E-ce4fc4e9e3#L1	OTHER_SENSE	-	-	-	-	-	SURE	بم العود أحد أوتاره: اسم
+HFN-E-d5a89eb868#L1	YES	محلّ	تضمّن	-	-	السقاء	SURE	تئق السقاء امتلأ
+HFN-E-d5a89eb868#L2	YES	محلّ	تضمّن	-	-	الصبي	SURE	تئق الصبي إذا أخذه شبه الفواق
+HFN-E-d5a89eb868#L3	YES	محلّ	التزام	عاديّ	مطلق	كلبا	UNSURE	يصف كلبا معاج تئق؛ وتئق الرجل امتلأ غضبا
+HFN-E-032a5d4257#L1	YES	محلّ	تضمّن	-	-	العجين	SURE	تخ العجين إذا أكثر ماؤه
+HFN-E-38240165d1#L1	YES	مكان	تضمّن	-	-	المكان	UNSURE	تن أتنان اسم؛ وتن بالمكان أقام
+HFN-E-4751934907#L1	OTHER_SENSE	-	-	-	-	-	SURE	جمعها ثأط: الحمأة اسم
+HFN-E-3444cb096c#L1	YES	محلّ	تضمّن	-	-	الطين	SURE	ثخ الطين والعجين إذا كثر ماؤهما
+HFN-E-bdc49cc8ec#L1	YES	محلّ	تضمّن	-	-	الصدر	UNSURE	الجأز الغصص في الصدر؛ والماء أيضا
+HFN-E-bcb37d0d31#L1	YES	آلة	تضمّن	-	-	السيف	UNSURE	جض مشى الجيضى بلا ذات؛ جضضت عليه بالسيف حملت
+HFN-E-05d665415d#L1	YES	محلّ	تضمّن	-	-	البئر	SURE	الجنش نزح البئر
+HFN-E-20fd07017c#L1	YES	محلّ	تضمّن	-	-	الرجل	UNSURE	الخساسة مصدر الرجل الخسيس
+HFN-E-505c15ad03#L1	YES	فاعل	التزام	عاديّ	مطلق	المرأة	UNSURE	رنت صاحت بلا مرجع؛ أرنت القوس والمرأة في نوحها
+HFN-E-505c15ad03#L2	YES	فاعل	التزام	عاديّ	مطلق	قوسا	SURE	يصف قوسا: ترن إرنانا
+HFN-E-505c15ad03#L3	OTHER_SENSE	-	-	-	-	-	SURE	جمعها رنن: شهر جمادى اسم
+HFN-E-64ccf6ebb6#L1	OTHER_SENSE	-	-	-	-	-	SURE	فصل زنك: ذكر المادة
+HFN-E-64ccf6ebb6#L2	OTHER_SENSE	-	-	-	-	-	SURE	فصل زنك: ذكر المادة
+HFN-E-176221b5f3#L1	YES	محلّ	تضمّن	-	-	الباب	SURE	سفق الباب أغلقه
+HFN-E-176221b5f3#L2	YES	محلّ	تضمّن	-	-	وجه الرجل	SURE	سفق وجه الرجل لطمه
+HFN-E-7337bab899#L1	YES	محلّ	تضمّن	-	-	الثوب	SURE	سفق الثوب سفاقة كثف
+HFN-E-7337bab899#L2	OTHER_SENSE	-	-	-	-	-	SURE	سفق وجه الرجل لطمه: معنى آخر
+HFN-E-da7e0fe672#L1	YES	محلّ	تضمّن	-	-	مكان	SURE	مكان شئس خشن؛ شئس مكاننا غلظ
+HFN-E-49ea2e2101#L1	OTHER_SENSE	-	-	-	-	-	SURE	الشث نبت: اسم
+HFN-E-49ea2e2101#L2	OTHER_SENSE	-	-	-	-	-	SURE	الشث شجر: اسم
+HFN-E-5fc5763a5d#L1	YES	محلّ	تضمّن	-	-	بوله	UNSURE	شخ ببوله مد به وصوت؛ الشيخ فاعل
+HFN-E-184e7b8c7f#L1	NO_DHAT	-	-	-	-	-	SURE	شز يشز شزيزا؛ وشيء شز
+HFN-E-e0e4d76d70#L1	OTHER_SENSE	-	-	-	-	-	UNSURE	الشناخ أنف الجبل اسم؛ شنخ نخله تشنيخا
+HFN-E-68468f91b5#L1	OTHER_SENSE	-	-	-	-	-	SURE	صن يوم من أيام العجوز
+HFN-E-33b58db29e#L1	YES	فاعل	تضمّن	-	-	حجر	UNSURE	طق حكاية صوت حجر وقع على حجر
+HFN-E-a928227931#L1	NO_DHAT	-	-	-	-	-	UNSURE	وطمن غير مستعمل: ذكر لفظ
+HFN-E-a928227931#L2	YES	محلّ	تضمّن	-	-	الرجل	SURE	اطمأن الرجل أي سكن
+HFN-E-a928227931#L3	YES	محلّ	التزام	عاديّ	مطلق	قلوبهم	SURE	آية: وتطمئن قلوبهم بذكر الله
+HFN-E-affd7e3f4a#L1	NO_DHAT	-	-	-	-	-	SURE	طنز كلمه باستهزاء؛ لا مرجع
+HFN-E-ed6dc817ce#L1	YES	فاعل	التزام	عاديّ	مطلق	ذراعه	SURE	أطننت به ذراعه وقد طنت
+HFN-E-ed6dc817ce#L2	YES	فاعل	تضمّن	-	-	البطة	SURE	البطة تطن إذا صوتت
+HFN-E-ed6dc817ce#L3	OTHER_SENSE	-	-	-	-	-	SURE	يطن أي يتهم: من الظنة
+HFN-E-3470b70878#L1	NO_DHAT	-	-	-	-	-	SURE	ظج إذا صاح في الحرب
+HFN-E-409f698700#L1	OTHER_SENSE	-	-	-	-	-	SURE	عضر حي من اليمن: علم
+HFN-E-0eb21f373e#L1	YES	محلّ	تضمّن	-	-	لحم	SURE	لحم غث مهزول
+HFN-E-0eb21f373e#L2	YES	محلّ	التزام	عاديّ	مطلق	لحم جمل	SURE	حديث: لحم جمل غث أي مهزول
+HFN-E-4807a5cb2f#L1	OTHER_SENSE	-	-	-	-	-	UNSURE	غس الضعيف اللئيم: اسم بمعنى آخر
+HFN-E-4807a5cb2f#L2	YES	فاعل	التزام	عاديّ	مطلق	الحوت	SURE	شاهد: كالحوت لما غس في الأنهار
+HFN-E-69673078d0#L1	YES	فاعل	تضمّن	-	-	القدر	SURE	غقت القدر غلت فسمعت صوتها
+HFN-E-d03627cdf6#L1	YES	محلّ	تضمّن	-	-	ظبي	SURE	ظبي أغن يخرج صوته من خيشومه
+HFN-E-06b099a819#L1	YES	محلّ	تضمّن	-	-	الهودج	UNSURE	الفئام اسم؛ فأم الهودج وسع أسفله
+HFN-E-06b099a819#L2	YES	فاعل	تضمّن	-	-	البعير	SURE	فأم البعير إذا ملأ فاه من العشب
+HFN-E-06b099a819#L3	OTHER_SENSE	-	-	-	-	-	SURE	الفئام من الناس الجماعة
+HFN-E-2d7434c96e#L1	YES	آلة	تضمّن	-	-	بإصبعك	SURE	الفت أن تأخذ الشيء بإصبعك
+HFN-E-2d7434c96e#L2	YES	فاعل	التزام	عاديّ	مطلق	فلان	SURE	فت فلان في عضدي؛ العضد محلّ
+HFN-E-4fbd183d4b#L1	YES	فاعل	تضمّن	-	-	رجل	SURE	رجل فداد شديد الصوت
+HFN-E-4fbd183d4b#L2	YES	فاعل	تضمّن	-	-	الطائر	SURE	فد الطائر حث جناحيه
+HFN-E-0f9ddfc550#L1	NO_DHAT	-	-	-	-	-	SURE	فدش الشيء شدخه؛ الشيء ليس ذاتا
+HFN-E-e5d78c1732#L1	OTHER_SENSE	-	-	-	-	-	SURE	قباث اسم من أسماء العرب
+HFN-E-dca2951a1d#L1	YES	محلّ	تضمّن	-	-	الناس	UNSURE	قس من النميمة وذكر الناس بالغيبة
+HFN-E-dca2951a1d#L2	YES	فاعل	تضمّن	-	-	الإبل	SURE	القسوس من الإبل ترعى وحدها؛ قست
+HFN-E-dca2951a1d#L3	NO_DHAT	-	-	-	-	-	SURE	قس السير أسرع فيه
+HFN-E-26759660f4#L1	YES	محلّ	تضمّن	-	-	القطاج	SURE	القطج إحكام فتل القطاج
+HFN-E-2ae7b79672#L1	NO_DHAT	-	-	-	-	-	SURE	قل يقل قلة؛ لا ذات
+HFN-E-2ae7b79672#L2	YES	محلّ	التزام	عاديّ	مطلق	الفتى	UNSURE	قل ولا كثر بلا ذات؛ يقصر القل الفتى
+HFN-E-2ae7b79672#L3	YES	محلّ	تضمّن	-	-	رجل	SURE	رجل قل قصير الجثة
+HFN-E-bef2407f76#L1	YES	محلّ	تضمّن	-	-	المرأة	SURE	لخب المرأة نكحها
+HFN-E-f354bf7e83#L1	NO_DHAT	-	-	-	-	-	SURE	نأث أبطأ وسير منأث
+HFN-E-6ad07064b8#L1	YES	فاعل	تضمّن	-	-	التيس	SURE	نب التيس صاح عند الهياج
+HFN-E-6ad07064b8#L2	OTHER_SENSE	-	-	-	-	-	SURE	نب محذوف أنبوب
+HFN-E-2993191a12#L1	YES	محلّ	التزام	عاديّ	مطلق	سويق	SURE	حديث: بسويق إذا تركته نبد
+HFN-E-bca242bb2e#L1	YES	مصدر	تضمّن	-	-	أنفه	UNSURE	نخط إليهم طرأ؛ نخطه من أنفه رمى به
+HFN-E-bca242bb2e#L2	OTHER_SENSE	-	-	-	-	-	SURE	النخط ماء المشيمة اسم
+HFN-E-800412a643#L1	YES	محلّ	تضمّن	-	-	اللحم	SURE	ندأ اللحم ألقاه في النار
+HFN-E-800412a643#L2	OTHER_SENSE	-	-	-	-	-	SURE	الندأ القطع المتفرقة من النبت
+HFN-E-771c105402#L1	YES	محلّ	تضمّن	-	-	اللحم	UNSURE	ندأ اللحم ألقاه في النار
+HFN-E-771c105402#L2	OTHER_SENSE	-	-	-	-	-	UNSURE	الندأ القطع المتفرقة من النبت
+HFN-E-e5a5ef7681#L1	YES	فاعل	تضمّن	-	-	البعير	SURE	ند البعير إذا شرد
+HFN-E-e5a5ef7681#L2	YES	محلّ	تضمّن	-	-	إبل	UNSURE	ندت الكلمة بلا ذات؛ إبل ندد متفرقة
+HFN-E-e5a5ef7681#L3	OTHER_SENSE	-	-	-	-	-	SURE	جمع ند المثل
+HFN-E-8b7800b65a#L1	YES	محلّ	تضمّن	-	-	رجل	UNSURE	نزأ أفسد بلا ذات؛ رجل منزوء بكذا مولع
+HFN-E-8b7800b65a#L2	OTHER_SENSE	-	-	-	-	-	SURE	نزا ينزو وثب: كلمة أخرى
+HFN-E-8b7800b65a#L3	OTHER_SENSE	-	-	-	-	-	SURE	نزا بك الشر: من نزو
+HFN-E-caef51bc17#L1	YES	مصدر	تضمّن	-	-	الأرض	SURE	ذات نز؛ نزت الأرض تحلب منها النز
+HFN-E-caef51bc17#L2	YES	فاعل	تضمّن	-	-	ظليم	SURE	ظليم نز سريع؛ ونز الظبي عدا وصوت
+HFN-E-cee619e28a#L1	YES	محلّ	تضمّن	-	-	الدابة	SURE	نصأ الدابة والبعير زجرها
+HFN-E-a4d0ff6adc#L1	YES	فاعل	تضمّن	-	-	الظليم	SURE	نق الظليم والدجاجة صوت
+HFN-E-a4d0ff6adc#L2	YES	فاعل	تضمّن	-	-	الضفدع	UNSURE	نق جمع نقوق؛ النقيق صوت الضفدع
+HFN-E-0cec84c5bd#L1	OTHER_SENSE	-	-	-	-	-	SURE	النمء القمل الصغار
+HFN-E-ca951cd119#L1	NO_DHAT	-	-	-	-	-	SURE	نهع تهوع للقيء
+HFN-E-1cbcd0bb37#L1	NO_DHAT	-	-	-	-	-	SURE	هسم الشيء كسره
+HFN-E-09c5f6517c#L1	NO_DHAT	-	-	-	-	-	SURE	هع لغة في هاع قاء
+HFN-E-20e458ef0f#L1	NO_DHAT	-	-	-	-	-	SURE	هن يهن بكى؛ لا مرجع
+HFN-E-17c730ff17#L1	OTHER_SENSE	-	-	-	-	-	SURE	وج موضع بالطائف
+HFN-E-17c730ff17#L2	OTHER_SENSE	-	-	-	-	-	SURE	مشي وج: النعام اسم
+HFN-E-830d35c3f3#L1	YES	محلّ	تضمّن	-	-	البقر	UNSURE	وح وح زجر للبقر
+HFN-E-830d35c3f3#L2	OTHER_SENSE	-	-	-	-	-	SURE	أفقر من وح الوتد
+HFN-E-fa2252400e#L1	YES	آلة	تضمّن	-	-	برأسك	SURE	الإيماء أن تومئ برأسك؛ ومؤها بالحواجب
+HFN-E-fa2252400e#L2	OTHER_SENSE	-	-	-	-	-	SURE	وما ألمأ: حرف لا الفعل
+HFN-E-0ddf337823#L1	NO_DHAT	-	-	-	-	-	SURE	ومق يمق ووثق يثق: ذكر بناء
+HFN-E-0ddf337823#L2	YES	محلّ	التزام	عاديّ	مطلق	فلانا	SURE	ومقت فلانا وهو موموق
+HFN-E-843fe58587#L1	YES	محلّ	تضمّن	-	-	الرجل	SURE	يأيأت الرجل أظهرت إلطافه
+HFN-E-843fe58587#L2	OTHER_SENSE	-	-	-	-	-	SURE	اليؤيؤ رأس المكحلة
+HFN-E-fbd5dbf4dc#L1	YES	فاعل	تضمّن	-	-	الرجل	SURE	ذج الرجل إذا قدم من سفر
+HFN-E-3e952a5985#L1	YES	محلّ	تضمّن	-	-	الرجل	SURE	أم ذرز؛ ذرز الرجل تمكن من نعيم
+HFN-E-be59955a59#L1	YES	فاعل	تضمّن	-	-	العصفور	SURE	سق العصفور ذرق
+HFN-E-9012888814#L1	YES	محلّ	تضمّن	-	-	الصخرة	UNSURE	الشرن الشق في الصخرة
+HFN-E-5fcf17ce50#L1	YES	آلة	تضمّن	-	-	حديدا	UNSURE	صج إذا ضرب حديدا على حديد
+HFN-E-491c7ccfcb#L1	OTHER_SENSE	-	-	-	-	-	UNSURE	ضري به ضرا لهج: من ضري
+HFN-E-491c7ccfcb#L2	OTHER_SENSE	-	-	-	-	-	UNSURE	ضري الكلب ضرا: من ضري
+HFN-E-491c7ccfcb#L3	OTHER_SENSE	-	-	-	-	-	UNSURE	ضرا الجرح يضرو: من ضرو
+HFN-E-a60db68778#L1	NO_DHAT	-	-	-	-	-	SURE	عص صلب واشتد؛ لا ذات
+HFN-E-3494e9a818#L1	OTHER_SENSE	-	-	-	-	-	SURE	الدأي فقر الكاهل اسم
+HFN-E-3494e9a818#L2	YES	فاعل	تضمّن	-	-	الذئب	UNSURE	الدئي جمع؛ والذئب يدأى للغزال
+HFN-E-3494e9a818#L3	YES	فاعل	تضمّن	-	-	الذئب	UNSURE	الدأي اسم؛ دأى الذئب للغزال ليأخذه
+HFN-E-ff274519a2#L1	OTHER_SENSE	-	-	-	-	-	UNSURE	أثا به وشى: من أثو
+HFN-E-8973e5ef56#L1	OTHER_SENSE	-	-	-	-	-	SURE	أجأ جبل لطيء
+HFN-E-8973e5ef56#L2	OTHER_SENSE	-	-	-	-	-	SURE	خناذيذ أجا: جبل
+HFN-E-e997e16e77#L1	YES	محلّ	تضمّن	-	-	الشراب	SURE	أذج إذا أكثر من الشراب
+HFN-E-62a6c354d3#L1	NO_DHAT	-	-	-	-	-	UNSURE	بؤل يبؤل بآلة صغر؛ لا ذات
+HFN-E-77b1156d0e#L1	YES	مكان	تضمّن	-	-	المكان	UNSURE	بتأ بالمكان أقام
+HFN-E-8376ceb5d5#L1	YES	محلّ	تضمّن	-	-	الماء	UNSURE	بغج الماء كغبجه
+HFN-E-96b1310653#L1	YES	محلّ	تضمّن	-	-	طعامه	SURE	بقث أمره وطعامه خلطه
+HFN-E-66171f20e0#L1	YES	محلّ	تضمّن	-	-	خصمه	UNSURE	بكس خصمه إذا قهره
+HFN-E-b3ebd70c4f#L1	OTHER_SENSE	-	-	-	-	-	SURE	البنح العطايا اسم
+HFN-E-48cc281ae3#L1	OTHER_SENSE	-	-	-	-	-	UNSURE	أما بنط فهو مهمل: ذكر المادة
+HFN-E-1b7251065d#L1	YES	مكان	تضمّن	-	-	المكان	UNSURE	تنأ بالمكان أقام وقطن
+HFN-E-1b7251065d#L2	YES	مكان	التزام	عاديّ	مطلق	أرض العجم	SURE	حديث: من تنأ في أرض العجم
+HFN-E-0f1bf2cbbe#L1	YES	محلّ	تضمّن	-	-	النهر	UNSURE	ثبق النهر أسرع جريه
+HFN-E-29c20994b6#L1	YES	محلّ	تضمّن	-	-	القدر	SURE	ثفأ القدر كسر غليانها
+HFN-E-29c20994b6#L2	OTHER_SENSE	-	-	-	-	-	SURE	قدر مثفاة من الأثافي
+HFN-E-84b52b001a#L1	NO_DHAT	-	-	-	-	-	SURE	ثهت دعا؛ لا ذات
+HFN-E-acba991178#L1	YES	مكان	تضمّن	-	-	الأرض	SURE	الثهل الانبساط على الأرض
+HFN-E-1829fb7f04#L1	YES	محلّ	التزام	عاديّ	مطلق	ضيف	UNSURE	ضيف بني عقال يجفع أي يصرع
+HFN-E-a4ba32cb78#L1	YES	محلّ	تضمّن	-	-	فلانا	UNSURE	حطرت فلانا بالنبل؛ النبل آلة
+HFN-E-1f824acc44#L1	YES	فاعل	تضمّن	-	-	الرجل	SURE	خرك الرجل إذا لج
+HFN-E-1133959ac4#L1	OTHER_SENSE	-	-	-	-	-	SURE	الخمأ موضع
+HFN-E-0a5ec1fcb8#L1	YES	زمان	تضمّن	-	-	يومنا	SURE	دغن يومنا كدجن
+HFN-E-1a4c0c624c#L1	YES	محلّ	تضمّن	-	-	السقاء	SURE	ذأح السقاء نفخه
+HFN-E-0ce1ed1160#L1	YES	فاعل	تضمّن	-	-	الطائر	SURE	ذفط الطائر سفد
