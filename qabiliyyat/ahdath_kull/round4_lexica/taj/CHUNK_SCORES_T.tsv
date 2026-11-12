@@ -1,0 +1,5 @@
+chunk	rows	agree	wilson	yes_rows	yes_agree	yes_wilson	excluded	pooled_with	pooled_wilson
+T000	150	127	0.78	116	93	0.72	False		
+T001	150	133	0.826	109	93	0.775	False		
+T002	151	131	0.804	90	70	0.682	False		
+T003	45	43	0.852	33	31	0.804	False		

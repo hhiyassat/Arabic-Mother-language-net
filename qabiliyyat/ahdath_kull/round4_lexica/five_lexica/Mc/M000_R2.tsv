@@ -1,0 +1,198 @@
+cand	verdict	role	dalala	luzum_naw	luzum_martaba	dhat	sure	note
+HFN-E-8a362b0853#M1	OTHER_SENSE	-	-	-	-	-	SURE	هثت من هيث: أعطيته شيئا يسيرا، جذر آخر
+HFN-E-8a362b0853#M2	OTHER_SENSE	-	-	-	-	-	SURE	هثت هيثا له من جذر هيث
+HFN-E-8a362b0853#M3	OTHER_SENSE	-	-	-	-	-	SURE	هثت أهيث هيثا من جذر هيث
+HFN-E-b1f175183b#M1	YES	آلة	التزام	عقليّ	ذهنيّ	الرتيمة	SURE	عقد الرتيمة في إصبعه وارتتم بها
+HFN-E-b1f175183b#M2	YES	فاعل	تضمّن	-	-	الإنسان	UNSURE	الرتم أن يشد الإنسان في إصبعه خيطا؛ ارتتمت
+HFN-E-8fba48caf1#M1	NO_DHAT	-	-	-	-	-	SURE	وطيخه أيضا فتطيخ؛ لا ذات
+HFN-E-8fba48caf1#M2	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل طياخة الذي يتطيخ في المجلس بالخطإ
+HFN-E-1961611fad#M1	NO_DHAT	-	-	-	-	-	SURE	والاعتصار: الالتجاء
+HFN-E-1961611fad#M2	YES	مكان	التزام	عاديّ	مطلق	الجبل	SURE	الجبل الذي يلتجأ إليه
+HFN-E-2f5c73b64c#M1	NO_DHAT	-	-	-	-	-	SURE	الموافقة بين الشيئين كالالتحام
+HFN-E-2f5c73b64c#M2	NO_DHAT	-	-	-	-	-	SURE	المرافاة: الاتفاق والالتحام
+HFN-E-2f5c73b64c#M3	YES	محلّ	التزام	عاديّ	مطلق	الثريد	SURE	لبقت الثريد ... ضربه حتى يلتحم
+HFN-E-f43cc977c7#M1	OTHER_SENSE	-	-	-	-	-	SURE	ملتما علم: سمت العرب ملتما
+HFN-E-698b13fb2d#M1	OTHER_SENSE	-	-	-	-	-	SURE	دخت نوش اسم فارسي
+HFN-E-69c5163558#M1	OTHER_SENSE	-	-	-	-	-	UNSURE	زحت من جذر زوح: أزوحه زوحا
+HFN-E-fac09a1914#M1	YES	محلّ	التزام	عاديّ	مطلق	الجنبين	UNSURE	الهضم في الإنسان: قلة انجعار الجنبين
+HFN-E-ed45831e2d#M1	YES	محلّ	تضمّن	-	-	الرهام	UNSURE	استخالة الرهام: إذا نظرت إليها فخلتها ماطرة
+HFN-E-ed45831e2d#M2	YES	محلّ	التزام	عاديّ	مطلق	المطر	SURE	سحابة مخيلة يستخال فيها المطر؛ والسحابة مكان
+HFN-E-ed45831e2d#M3	YES	محلّ	التزام	عاديّ	مطلق	الجدي	UNSURE	الأريض الذي يستخال فيه السمن؛ والسمن أيضا
+HFN-E-fe84ee69d5#M1	YES	محلّ	التزام	عاديّ	مطلق	أموالهم	UNSURE	واستفاءة أموالهم
+HFN-E-0c99b6fe78#M1	YES	محلّ	التزام	عاديّ	مطلق	القوم	UNSURE	شأوت القوم أي سبقتهم أشأى شأوا
+HFN-E-0c99b6fe78#M2	NO_DHAT	-	-	-	-	-	UNSURE	شأى يشأى إذا سبق
+HFN-E-b6bca5d22a#M1	YES	محلّ	تضمّن	-	-	الضرس	SURE	وانشظى الضرس: انشق طولا
+HFN-E-236b2c044d#M1	OTHER_SENSE	-	-	-	-	-	SURE	فسى بلد بفارس
+HFN-E-c23a1f6ae3#M1	YES	محلّ	التزام	عاديّ	مطلق	جلده	SURE	وكدح جلده فانكدح
+HFN-E-788263c886#M1	NO_DHAT	-	-	-	-	-	SURE	طور النضج والاكتمال؛ التأليف معنوي
+HFN-E-f22b6c4186#M1	YES	محلّ	تضمّن	-	-	خبزا	UNSURE	الصبي يلتخي إذا أكل خبزا مبلولا؛ الصبي فاعل
+HFN-E-cd5680415d#M1	YES	محلّ	التزام	عاديّ	مطلق	رئته	SURE	تلتصق رئته بجنبه؛ البعير
+HFN-E-cd5680415d#M2	YES	محلّ	التزام	عاديّ	مطلق	رئته	SURE	يعطش البعير حتى تلتصق رئته بجنبه
+HFN-E-cd5680415d#M3	YES	محلّ	التزام	عاديّ	مطلق	الجلدة	SURE	الجلدة الملتصقة بعظم الخليقاء
+HFN-E-b56762d1fc#M1	YES	محلّ	التزام	عاديّ	مطلق	حرابه	UNSURE	شاهد شعر: مرجم حرب تلتظى حرابه
+HFN-E-b56762d1fc#M2	YES	محلّ	التزام	عاديّ	مطلق	حرابه	UNSURE	شاهد شعر: مرجم حرب تلتظى حرابه
+HFN-E-3c38b9c73a#M1	YES	محلّ	التزام	عاديّ	مطلق	الجرح	SURE	رئم الجرح إذا التأم؛ داويته حتى يلتئم
+HFN-E-3c38b9c73a#M2	YES	محلّ	التزام	عاديّ	مطلق	عظم	SURE	انكسر عظم ثم جبر فلم يلتئم جبره
+HFN-E-3c38b9c73a#M3	YES	محلّ	التزام	عاديّ	مطلق	القدح	UNSURE	أشعبه فما ينشعب أي ما يلتئم؛ الشعب من القدح
+HFN-E-bd6a43518f#M1	NO_DHAT	-	-	-	-	-	SURE	وتميخ تميخا: وهو التبختر في المشي
+HFN-E-bd6a43518f#M2	NO_DHAT	-	-	-	-	-	SURE	وتميخ تميخا أي تبختر في المشي
+HFN-E-d45a73e104#M1	YES	مكان	تضمّن	-	-	الإناء	UNSURE	وتنضف ما في الإناء: شرب جميع ما فيه
+HFN-E-f773872b95#M1	NO_DHAT	-	-	-	-	-	SURE	واستنكش أي استنهد
+HFN-E-706e8114f1#M1	YES	محلّ	تضمّن	-	-	الدابة	SURE	الفرجنة: فرجنة الدابة بالفرجون؛ الفرجون آلة
+HFN-E-706e8114f1#M2	YES	محلّ	التزام	عاديّ	مطلق	خيل	SURE	وخيل شعث أي غير مفرجنة
+HFN-E-b448528e78#M1	OTHER_SENSE	-	-	-	-	-	SURE	فقعس اسم قبيلة
+HFN-E-b448528e78#M2	OTHER_SENSE	-	-	-	-	-	SURE	وفقعس حي من بني أسد
+HFN-E-ca392a6ddd#M1	OTHER_SENSE	-	-	-	-	-	SURE	أليبب تصغير ألبب من لبب
+HFN-E-ca392a6ddd#M2	OTHER_SENSE	-	-	-	-	-	SURE	ببت ضرورة من بت
+HFN-E-ca392a6ddd#M3	OTHER_SENSE	-	-	-	-	-	SURE	ألببت بالمكان من لبب
+HFN-E-c4af118886#M1	OTHER_SENSE	-	-	-	-	-	SURE	والله راع: اسم فاعل من رعى
+HFN-E-c4af118886#M2	YES	محلّ	التزام	عاديّ	مطلق	الخيل	UNSURE	العنجوج الرئع من الخيل
+HFN-E-c4af118886#M3	OTHER_SENSE	-	-	-	-	-	SURE	أوردها راع: الراعي
+HFN-E-7ffcf682a1#M1	OTHER_SENSE	-	-	-	-	-	SURE	سرد تقاليب: قشد شدق دقش شقد
+HFN-E-7ffcf682a1#M2	OTHER_SENSE	-	-	-	-	-	SURE	الشقدة: حشيشة، اسم نبات
+HFN-E-58d4d910f7#M1	OTHER_SENSE	-	-	-	-	-	SURE	تبر الشيء تبارا: هلك، جذر تبر
+HFN-E-58d4d910f7#M2	OTHER_SENSE	-	-	-	-	-	SURE	تبر الشيء يتبر تبارا، جذر تبر
+HFN-E-58d4d910f7#M3	OTHER_SENSE	-	-	-	-	-	SURE	التبار: الهلاك، جذر تبر
+HFN-E-32bd8cfa79#M1	YES	فاعل	التزام	عاديّ	مطلق	النحي	UNSURE	شاهد: مثل النحي استبرز النحيا
+HFN-E-c05320f16f#M1	YES	فاعل	التزام	عاديّ	مطلق	الرجل	SURE	استناح الرجل بكى حتى استبكى غيره
+HFN-E-e5198ae0cd#M1	NO_DHAT	-	-	-	-	-	UNSURE	جاحشه وجاحسه مجاحشة ومجاحسة إذا قاتله
+HFN-E-9e96a4a532#M1	YES	فاعل	التزام	عاديّ	مطلق	الجوفاء	UNSURE	شاهد: الجوفاء ... تطفح وطورا تجتدح
+HFN-E-9e96a4a532#M2	YES	آلة	التزام	عاديّ	مطلق	قضيب	UNSURE	شاهد: مثل قضيب المجتدح
+HFN-E-ed07a169ad#M1	OTHER_SENSE	-	-	-	-	-	UNSURE	الاجتفاء كبك الآنية إذا جفأته، من جفأ
+HFN-E-188c791dd3#M1	YES	محلّ	تضمّن	-	-	الثوب	SURE	احتذفت الثوب إذا قطعته
+HFN-E-449c21b5ec#M1	NO_DHAT	-	-	-	-	-	UNSURE	باب من يستحضر وهو ذو تكراه
+HFN-E-b310bb3e6c#M1	YES	فاعل	التزام	عاديّ	مطلق	رواده	UNSURE	وكلأ لا تحاقد في مثله رواده
+HFN-E-4c6c5d6186#M1	YES	محلّ	التزام	شرعيّ	مطلق	أولياء القتل	SURE	استحلف أولياء القتل وورثة دمه
+HFN-E-4c6c5d6186#M2	YES	محلّ	التزام	عاديّ	مطلق	رجلا	SURE	إذا استحلفوا رجلا؛ والنار يلقون فيها ملحا
+HFN-E-9c4427ba05#M1	NO_DHAT	-	-	-	-	-	UNSURE	الدكتور خليل العطية المختدع؛ علم
+HFN-E-9c4427ba05#M2	YES	محلّ	التزام	عاديّ	مطلق	الطير	SURE	اختدعها كما يختدع الطير
+HFN-E-9c4427ba05#M3	YES	محلّ	التزام	عاديّ	مطلق	الطير	SURE	كما تختدع الطير بالنار؛ النار آلة
+HFN-E-833e4f05bb#M1	YES	محلّ	التزام	عاديّ	مطلق	العبد	SURE	في العبد قد استخدمته استخدامه
+HFN-E-833e4f05bb#M2	NO_DHAT	-	-	-	-	-	UNSURE	الخضوع في البدن وهو الإقرار بالاستخدام
+HFN-E-833e4f05bb#M3	YES	محلّ	التزام	عاديّ	مطلق	عبيد	SURE	عبيد ممتهن أي مستخدم
+HFN-E-87c74f1ad2#M1	YES	فاعل	التزام	عاديّ	مطلق	رجل	SURE	رجل خلبوت أي ذو خديعة اختلاب
+HFN-E-5f6c54e341#M1	OTHER_SENSE	-	-	-	-	-	SURE	المخاوف جمع مخافة، اسم
+HFN-E-5f6c54e341#M2	OTHER_SENSE	-	-	-	-	-	SURE	طردته المخاوف، جمع مخافة
+HFN-E-5f6c54e341#M3	OTHER_SENSE	-	-	-	-	-	SURE	المخاوف: مواضع الخوف
+HFN-E-c4655b467f#M1	OTHER_SENSE	-	-	-	-	-	SURE	ودافا أصل أداف، جذر ودف
+HFN-E-c4655b467f#M2	YES	محلّ	التزام	عاديّ	مطلق	الأسير	SURE	دأفت كلى الأسير؛ داءفت مداءفة إذا أجهزت عليه
+HFN-E-5f26a6b436#M1	YES	مكان	تضمّن	-	-	شرف	UNSURE	ارتبأت ارتباء إذا أوفيت على شرف
+HFN-E-5f26a6b436#M2	YES	فاعل	التزام	عاديّ	مطلق	فلان	UNSURE	فلان مرتمى للقوم ومرتبى أي طليعة
+HFN-E-b3a6bbccde#M1	NO_DHAT	-	-	-	-	-	SURE	استرخصت الشيء: رأيته رخيصا
+HFN-E-413c472f0e#M1	YES	محلّ	التزام	عاديّ	مطلق	القبائل	UNSURE	الحقب القبائل الخساس لأنها تستردف
+HFN-E-413c472f0e#M2	YES	محلّ	التزام	عاديّ	مطلق	نقيا	UNSURE	شاهد: واستردفت من عالج نقيا
+HFN-E-20acb37fb7#M1	NO_DHAT	-	-	-	-	-	UNSURE	مترطم وهو الذي انتهى سمنا
+HFN-E-20acb37fb7#M2	NO_DHAT	-	-	-	-	-	UNSURE	ثم مترطم إذا انتهى سمنا
+HFN-E-80f559fd8e#M1	OTHER_SENSE	-	-	-	-	-	SURE	أزائد: نداء علم في الشعر
+HFN-E-80f559fd8e#M2	OTHER_SENSE	-	-	-	-	-	SURE	عروة المزادة: اسم أداة
+HFN-E-80f559fd8e#M3	OTHER_SENSE	-	-	-	-	-	SURE	العقيقة: المزادة، اسم أداة
+HFN-E-cd592c91cf#M1	OTHER_SENSE	-	-	-	-	-	SURE	استبا من السباب، جذر سبب
+HFN-E-cd592c91cf#M2	YES	محلّ	التزام	عاديّ	مطلق	الخمر	SURE	سبأت الخمر ... واستبأتها استباء مثله
+HFN-E-cd592c91cf#M3	OTHER_SENSE	-	-	-	-	-	SURE	إذا استبا معا: من السب
+HFN-E-6119020ae2#M1	YES	محلّ	التزام	عاديّ	مطلق	قلوصها	UNSURE	شاهد: تلقى قلوصها قد استلأت في مسك
+HFN-E-742fd8e6ed#M1	YES	محلّ	التزام	عاديّ	مطلق	خصيتاه	UNSURE	معلت الحمار إذا استلت خصيتاه
+HFN-E-742fd8e6ed#M2	OTHER_SENSE	-	-	-	-	-	SURE	استلأت مهموز، جذر آخر
+HFN-E-742fd8e6ed#M3	OTHER_SENSE	-	-	-	-	-	SURE	سلأت السمن واستلأته، جذر سلأ
+HFN-E-f0725747c5#M1	YES	فاعل	التزام	عاديّ	مطلق	أحدكم	UNSURE	حديث: إذا استلج أحدكم بيمينه
+HFN-E-f0725747c5#M2	YES	فاعل	تضمّن	-	-	فلان	SURE	استلج فلان متاع فلان إذا ادعاه؛ متاع محل
+HFN-E-f0725747c5#M3	NO_DHAT	-	-	-	-	-	SURE	شاهد: تضاحكت حتى يستلج ويستشري
+HFN-E-2f9dc6ef42#M1	YES	فاعل	تضمّن	-	-	الهيف	UNSURE	استهاف: أصابته الهيف فعطش
+HFN-E-93415a4522#M1	NO_DHAT	-	-	-	-	-	UNSURE	شاهد: أساخ فلم ينطق
+HFN-E-93415a4522#M2	OTHER_SENSE	-	-	-	-	-	SURE	مسخ مساخة، جذر مسخ
+HFN-E-93415a4522#M3	OTHER_SENSE	-	-	-	-	-	SURE	وقد مسخ مساخة، جذر مسخ
+HFN-E-4737402c24#M1	NO_DHAT	-	-	-	-	-	UNSURE	شاهد: وكيف تصاحب من أصبحت خلالته
+HFN-E-d79bba47a7#M1	NO_DHAT	-	-	-	-	-	SURE	استصوب فعله واستصاب فعله
+HFN-E-d79bba47a7#M2	NO_DHAT	-	-	-	-	-	SURE	تقول العرب استصاب واستصوب
+HFN-E-d79bba47a7#M3	NO_DHAT	-	-	-	-	-	SURE	واستصاب واستصوب قياس مطرد
+HFN-E-093b5b9657#M1	YES	مكان	تضمّن	-	-	المغبن	SURE	اغتبنت الشيء: أخذته في المغبن
+HFN-E-ae2ce1c87b#M1	YES	محلّ	التزام	عاديّ	مطلق	بقام	UNSURE	شاهد: إذا اغتزلت من بقام الفرير
+HFN-E-9c39bb559b#M1	NO_DHAT	-	-	-	-	-	SURE	فاستفتى عمر النبي؛ أعلام
+HFN-E-202eea9117#M1	NO_DHAT	-	-	-	-	-	UNSURE	شاهد: أنت تفدى من أراك تعيب
+HFN-E-b27dfb58b4#M1	YES	محلّ	تضمّن	-	-	الرطبة	SURE	فسقت الرطبة وانفسقت: خرجت عن قشرها
+HFN-E-b27dfb58b4#M2	YES	محلّ	تضمّن	-	-	الرطبة	SURE	انفسقت الرطبة إذا خرجت من قشرها
+HFN-E-0403eb1e76#M1	YES	محلّ	التزام	عاديّ	مطلق	الكعبة	UNSURE	حديث: قريشا استقصرت من بنائه؛ نقضت الكعبة
+HFN-E-df894b2e92#M1	NO_DHAT	-	-	-	-	-	SURE	واستقال إنما اعتل لاعتلال قال
+HFN-E-df894b2e92#M2	NO_DHAT	-	-	-	-	-	SURE	ويكون الاستعتاب الاستقالة
+HFN-E-df894b2e92#M3	YES	محلّ	التزام	عاديّ	مطلق	صاحبه	UNSURE	فندم فاستقال صاحبه فأبى أن يقيله
+HFN-E-8273509ae0#M1	YES	زمان	التزام	عاديّ	مطلق	يوم	UNSURE	تكاءد الأمر؛ شاهد: ويوم عماس تكاءدته
+HFN-E-8273509ae0#M2	NO_DHAT	-	-	-	-	-	SURE	كاءدني هذا الأمر إذا أثقل عليك
+HFN-E-8273509ae0#M3	NO_DHAT	-	-	-	-	-	UNSURE	تكاءدت الذهاب إلى فلان إذا ذهبت على مشقة
+HFN-E-f8cb101edc#M1	YES	فاعل	التزام	عاديّ	مطلق	الماعون	UNSURE	الماعون كالدلو والفأس لا يكرث معطيه
+HFN-E-f8cb101edc#M2	NO_DHAT	-	-	-	-	-	SURE	مكرث وكريث من كرثني الأمر
+HFN-E-d47b48dae4#M1	OTHER_SENSE	-	-	-	-	-	SURE	قلبت الياء ألفا: حرف
+HFN-E-d47b48dae4#M2	OTHER_SENSE	-	-	-	-	-	SURE	أن تخلص ألفا محضة: حرف
+HFN-E-d47b48dae4#M3	OTHER_SENSE	-	-	-	-	-	SURE	تكتب مرة ألفا: حرف
+HFN-E-5c5e22c585#M1	OTHER_SENSE	-	-	-	-	-	SURE	الالتفات من جذر لفت
+HFN-E-5c5e22c585#M2	OTHER_SENSE	-	-	-	-	-	SURE	ملتفا من جذر لفف
+HFN-E-5c5e22c585#M3	OTHER_SENSE	-	-	-	-	-	SURE	ملتفا بالشجر من جذر لفف
+HFN-E-da609d7ebb#M1	YES	مصدر	تضمّن	-	-	فلان	UNSURE	كدشت من فلان شيئا وامتدشت إذا أصبت منه
+HFN-E-ab6c03b6c8#M1	NO_DHAT	-	-	-	-	-	UNSURE	وتفضل عليه تمزى
+HFN-E-c5f3eaef49#M1	YES	محلّ	التزام	عاديّ	مطلق	خيس	UNSURE	شاهد: في غيل قصباء وخيس ممتلق
+HFN-E-78fc690ae8#M1	NO_DHAT	-	-	-	-	-	SURE	إيه كلمة استزادة واستنطاق
+HFN-E-78fc690ae8#M2	NO_DHAT	-	-	-	-	-	SURE	إيه في الاستزادة والاستنطاق
+HFN-E-78fc690ae8#M3	NO_DHAT	-	-	-	-	-	SURE	إيه في الاستزادة والاستنطاق
+HFN-E-da889e7173#M1	NO_DHAT	-	-	-	-	-	SURE	والاستمهال: الاستنظار
+HFN-E-da889e7173#M2	YES	فاعل	التزام	عاديّ	مطلق	فلان	SURE	واستنظر فلان فلانا من النظرة
+HFN-E-da889e7173#M3	YES	فاعل	تضمّن	-	-	المشتري	SURE	واستنظر المشتري فلانا: سأله النظرة
+HFN-E-fe6a1e6765#M1	YES	محلّ	التزام	عاديّ	مطلق	العظم	SURE	اللعمظة: الانتهاس عن العظم ملء الفم
+HFN-E-fe6a1e6765#M2	YES	محلّ	التزام	عاديّ	مطلق	اللحم	SURE	اللعظمة: الانتهاس على اللحم ملء الفم
+HFN-E-fe6a1e6765#M3	YES	فاعل	التزام	عاديّ	مطلق	الدابة	SURE	مما ينتهس الدابة بفمه؛ الفم آلة
+HFN-E-a9628ce39a#M1	OTHER_SENSE	-	-	-	-	-	SURE	تهجى كليب: من الهجاء
+HFN-E-25a93f1735#M1	OTHER_SENSE	-	-	-	-	-	SURE	القشدة: الثفل، اسم
+HFN-E-25a93f1735#M2	OTHER_SENSE	-	-	-	-	-	SURE	سرد تقاليب؛ القشدة لثفل السمن
+HFN-E-cebac33de2#M1	OTHER_SENSE	-	-	-	-	-	SURE	رمح لدن المهز، من هزز
+HFN-E-cebac33de2#M2	NO_DHAT	-	-	-	-	-	SURE	مهزه ومحزه وبهزه بمعنى: دفعه
+HFN-E-cebac33de2#M3	OTHER_SENSE	-	-	-	-	-	SURE	إذا ما هز بالكف
+HFN-E-d6872bbb4f#M1	OTHER_SENSE	-	-	-	-	-	SURE	وتخ العجين: واو العطف وتخ
+HFN-E-d6872bbb4f#M2	OTHER_SENSE	-	-	-	-	-	SURE	سرد مواد: وتخ مستعملة
+HFN-E-d6872bbb4f#M3	OTHER_SENSE	-	-	-	-	-	SURE	عنوان مادة توخ ووتخ
+HFN-E-7f2b0e506b#M1	OTHER_SENSE	-	-	-	-	-	SURE	وصت بنيها من الوصية
+HFN-E-7f2b0e506b#M2	OTHER_SENSE	-	-	-	-	-	SURE	وصت بنيها من الوصية
+HFN-E-7f2b0e506b#M3	OTHER_SENSE	-	-	-	-	-	SURE	وصت بنيها من الوصية
+HFN-E-6f168c44b9#M1	OTHER_SENSE	-	-	-	-	-	SURE	ليست بحز: باء الجر وحز
+HFN-E-6f168c44b9#M2	OTHER_SENSE	-	-	-	-	-	SURE	بأحزة الثلبوت: جمع حزيز
+HFN-E-6f168c44b9#M3	OTHER_SENSE	-	-	-	-	-	SURE	بأحزة الثلبوت: جمع حزيز
+HFN-E-dc14606923#M1	YES	آلة	تضمّن	-	-	الحبل	UNSURE	عنوان؛ حزكته بالحبل أحزكه أي شددته
+HFN-E-dc14606923#M2	YES	آلة	تضمّن	-	-	حبل	SURE	حزكه إذا شده بحبل جمع به يديه ورجليه
+HFN-E-dc14606923#M3	NO_DHAT	-	-	-	-	-	SURE	الحزك والحزق وهو شدة المد والشد
+HFN-E-02cf15449b#M1	OTHER_SENSE	-	-	-	-	-	UNSURE	عنوان صتت؛ الصت: الصوم، أصاته أخاصمه
+HFN-E-02cf15449b#M2	OTHER_SENSE	-	-	-	-	-	SURE	صتا صتوا مشى فيه وثب، جذر صتو
+HFN-E-02cf15449b#M3	YES	آلة	تضمّن	-	-	اليد	SURE	الصت وهو الضرب باليد والدفع
+HFN-E-7d36fee7c7#M1	OTHER_SENSE	-	-	-	-	-	SURE	فضخت رأسه، جذر فضخ
+HFN-E-7d36fee7c7#M2	OTHER_SENSE	-	-	-	-	-	SURE	وضخت وأوضخت، جذر وضخ
+HFN-E-7d36fee7c7#M3	OTHER_SENSE	-	-	-	-	-	SURE	فضخت عينه، جذر فضخ
+HFN-E-fcd0e60f97#M1	OTHER_SENSE	-	-	-	-	-	SURE	لولاي طحت: من طاح يطيح
+HFN-E-fcd0e60f97#M2	OTHER_SENSE	-	-	-	-	-	SURE	في طحت: من طاح
+HFN-E-fcd0e60f97#M3	OTHER_SENSE	-	-	-	-	-	SURE	فطحت الحديدة، جذر فطح
+HFN-E-28377016ee#M1	OTHER_SENSE	-	-	-	-	-	SURE	وكمت الأرض إذا وظئت: وطئت
+HFN-E-8fb3b63f13#M1	OTHER_SENSE	-	-	-	-	-	SURE	سرد مواد: وظف فاظ فظا ظاف
+HFN-E-8fb3b63f13#M2	OTHER_SENSE	-	-	-	-	-	SURE	وظائف الأشياء جمع وظيفة
+HFN-E-8fb3b63f13#M3	OTHER_SENSE	-	-	-	-	-	SURE	علم وظائف الأصوات
+HFN-E-2e97954a16#M1	NO_DHAT	-	-	-	-	-	UNSURE	المعنوش المستفز المسوق
+HFN-E-572a3366e0#M1	YES	آلة	التزام	عاديّ	مطلق	أسلاتنا	UNSURE	شاهد: يوم الكلاب استزلت أسلاتنا شرحبيل
+HFN-E-12333616f0#M1	NO_DHAT	-	-	-	-	-	SURE	الذي استهوى استجازتهم إياه
+HFN-E-dd0b04a8bf#M1	OTHER_SENSE	-	-	-	-	-	SURE	إلا برنق: باء الجر ورنق
+HFN-E-22a3c63562#M1	OTHER_SENSE	-	-	-	-	-	SURE	لا بذي تسلمن، من سلم
+HFN-E-22a3c63562#M2	OTHER_SENSE	-	-	-	-	-	SURE	بذي تسلمن، من سلم
+HFN-E-22a3c63562#M3	OTHER_SENSE	-	-	-	-	-	SURE	لا بذي تسلمن، من سلم
+HFN-E-45d6d0ae94#M1	OTHER_SENSE	-	-	-	-	-	SURE	التفخيذ: المفاخذة، من فخذ
+HFN-E-058f50abec#M1	OTHER_SENSE	-	-	-	-	-	SURE	يهتبل: يفترص، من فرص
+HFN-E-058f50abec#M2	OTHER_SENSE	-	-	-	-	-	SURE	لا يفترص ولا يخاف فوته، من فرص
+HFN-E-058f50abec#M3	NO_DHAT	-	-	-	-	-	SURE	وفترصت الشيء إذا قطعته
+HFN-E-7bfc5c8d9e#M1	NO_DHAT	-	-	-	-	-	SURE	وفذفذ إذا تقاصر ليختل وهو يثب
+HFN-E-b1eb39fb86#M1	OTHER_SENSE	-	-	-	-	-	SURE	يفنعل اسم وزن
+HFN-E-b1eb39fb86#M2	OTHER_SENSE	-	-	-	-	-	SURE	مفنعلة اسم وزن
+HFN-E-b1eb39fb86#M3	OTHER_SENSE	-	-	-	-	-	SURE	باب يفنعل: اسم وزن
+HFN-E-c858a7f01f#M1	YES	آلة	التزام	عقليّ	ذهنيّ	المنجنيق	UNSURE	عنوان؛ وقال غيره: مجنق المنجنيق
+HFN-E-c858a7f01f#M2	YES	آلة	التزام	عقليّ	ذهنيّ	المجانيق	SURE	جنقوا المجانيق ومجنقوها
+HFN-E-c858a7f01f#M3	YES	آلة	التزام	عقليّ	ذهنيّ	المجانيق	SURE	جنقوا المجانيق ويقال مجنقوا
+HFN-E-2830b7f9cf#M1	YES	فاعل	التزام	عاديّ	مطلق	الهر	UNSURE	شاهد: مثل نقتق الهر
+HFN-E-dcc1f863c7#M1	OTHER_SENSE	-	-	-	-	-	SURE	بهجل هاجل، من هجل
+HFN-E-dcc1f863c7#M2	OTHER_SENSE	-	-	-	-	-	SURE	الهاجل: النائم، من هجل
+HFN-E-23f2f8c37a#M1	OTHER_SENSE	-	-	-	-	-	SURE	استتر بسترة: باء وسترة
+HFN-E-23f2f8c37a#M2	OTHER_SENSE	-	-	-	-	-	SURE	بصر بستر: باء وستر
+HFN-E-23f2f8c37a#M3	OTHER_SENSE	-	-	-	-	-	SURE	سترت بستر: باء وستر
+HFN-E-19d55d8b1c#M1	NO_DHAT	-	-	-	-	-	SURE	وفرصن الشيء قطعه
+HFN-E-38d398b50b#M1	YES	مصدر	تضمّن	-	-	العظم	SURE	مخمخت ما في العظم إذا استخرجته
+HFN-E-7fbd069dd5#M1	NO_DHAT	-	-	-	-	-	SURE	شيء مهندم أي مصلح على مقدار
+HFN-E-0f7687b654#M1	NO_DHAT	-	-	-	-	-	SURE	وطحطح الشيء فتطحطح: فرقه إهلاكا
